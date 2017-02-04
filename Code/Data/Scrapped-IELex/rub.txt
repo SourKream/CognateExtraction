@@ -1,0 +1,163 @@
+114	Proto-Indo-European	*melh₁-		L	
+80	Hittite	peszi			
+133	Luvian	kūsāti			
+82	Tocharian B	lyuwetär			
+82	Tocharian B	kantanatär			
+88	Albanian	FERKOJ		(F)	
+143	Standard Albanian	fërkoj		(F)	
+2	Albanian Sicily	FERKON		(F)	
+4	Albanian Corinth	KRUAN			
+3	Albanian Gheg	FERKOJ		(F)	
+6	Albanian Tosk	FERKON, AOR. FERKOVA		(F)	
+110	Ancient Greek	τρῑ́βω	tríːbɔː	H	
+32	Greek	τρίβω	ˈtrivo̞	H	
+31	Greek Lesbos	TRIBO		H	
+129	Classical Armenian	špʰem		D	
+8	Armenian Eastern	šp’el	ʃəˈpʰɛl	D	
+8	Armenian Eastern	K`OREL		(M)	
+7	Armenian Western	SHUPEL		D	
+128	Avestan	marəz-		(E)	
+136	Sogdian	’nsy-		A	
+75	Wakhi	MAND, SUX		A	
+9	Baluchi	MALAGH, MALITHA, MALTHA		(E)	
+137	Zazaki	sāwitiš		A	
+72	Tajik	SOIGAN, SUDAN		A	
+72	Tajik	MOLIDAN		E	
+54	Persian	MALIDAN		E	
+77	Waziri	MASHEL		E	
+1	Pashto	MUSEL		E	
+139	Sarikoli	sasɛw			
+52	Ossetic	xafyn	χafɨn		
+124	Ossetic Iron	šɐrf-	šɐrf-	O	
+125	Ossetic Digor	sɐrf-	sɐrf-	O	
+105	Vedic Sanskrit	gharṣati		N	
+162	Pāḷī	ghaŋsati		N	
+41	Khaskura	MALNU		L	
+41	Khaskura	MICNU			
+51	Nepali	GHASNU		N	
+51	Nepali	MALNU, MARNU		L	
+106	Assamese	ghãh	ghãh	N	
+102	Oriya	ghɔsiba	ghɔsiba	N	
+10	Bengali	GHOSA		N	
+111	Bihari	mələb	mələb	L	
+111	Bihari	tel ləgaeəb	tel ləgaeəb		
+144	Magahi	रगडना	rəɡəɽnɑ	K	
+35	Hindi	REGERNA		K	
+119	Urdu	رگڑنا	ɾəɡəɽnə	K	
+103	Sindhi	gahaṇu		N	
+43	Lahnda	MANEN			
+53	Punjabi	REGERNA		K	
+33	Gujarati	GHESWU		N	
+50	Marathi	tsolne	'tsoɭne		
+50	Marathi	ghāsne	'gʰasɳe	N	
+40	Kashmiri	MALUN		L	
+40	Kashmiri	MATHUN			
+65	Sinhalese	MADINAWA		L	
+34	Romani Greece	TRIVO		(H)	
+100	Old Church Slavonic	трьти, трѣти	tr̩ʲti, træti	H	
+95	Serbo-Croatian	trljati	ˈtř̩ːʎati	H	
+15	Bulgarian	трия	ˈtrijə	H	
+92	Macedonian	трие	ˈtri.ɛ	H	
+60	Russian	тереть	'tʲɛrʲɛtʲ	H	
+55	Polish	trzeć	ˈt-ʂɛtɕ	H	
+16	Belarusian	церці	ˈtsʲɛrtsʲi	H	
+73	Ukrainian	терти	ˈtɛrtɪ	H	
+66	Slovak	trieť	triɛc	H	
+18	Czech	třít	tr̝̊iːt	H	
+48	Sorbian Upper	trěć	tʀɪtʃ	H	
+47	Sorbian Lower	trěś	trʲɪɕ	H	
+97	Slovenian	treti	ˈtrěːti	H	
+108	Old Prussian	draztweī			
+44	Latvian	beȓž		F	
+46	Lithuanian	TRINTI		H	
+109	Old Norse	gnúa	ˈɡnuːa	J	
+36	Icelandic	nugga	ˈnʏɡ̊ːa	J	
+36	Icelandic	núa	ˈnuːa	J	
+23	Faroese	gníggja	ˈɡ̊nʊd̥ʒːa	J	
+23	Faroese	narra	ˈnaɹːa	C	
+58	Norwegian Riksmal	gni	ɡniː	J	
+159	Stavangersk	gni, gnia	gniː, ˈɡnìːa	J	
+157	Old Swedish	gnoa	ˈɡnoːa	J	
+157	Old Swedish	gnidha	ˈɡniːða	J	
+157	Old Swedish	gnugga	ˈɡnuɡːa	J	
+69	Swedish	gnugga	ˈgnɵ̀gːa	J	
+69	Swedish	gnida	ˈgnì:da	J	
+71	Swedish Vilhelmina	GNI, GNOG		J	
+70	Swedish Uppland	GNIDA, GNUGGA		J	
+145	Elfdalian	gnukå	ˈgnʉ̀kɔ	J	
+20	Danish	gnide	ˈg̥ni:ðə	J	
+158	Danish Fjolde	gnusk	ɡnusɡ	J	
+161	Gutnish Lau	gnuggä	ˈɡnuɡːɛ	J	
+161	Gutnish Lau	gnäidä	ˈɡnɛɪdɛ	J	
+99	Old English	gnītt		J	
+22	English	rub	rʌb	P	
+26	Frisian	wriuwe	'vrjo.uə	B	
+21	Dutch	wrijven	'vrɛivə(n)	B	
+24	Flemish	SCHUREN		Q	
+83	Afrikaans	VRYF		B	
+83	Afrikaans	SKUUR		Q	
+83	Afrikaans	VRYWE		B	
+87	Sranan	ROBI LOBI		P	
+126	Old High German	rībit		P	
+126	Old High German	gnītit		J	
+27	German	reiben	'raĭbn̩	B	
+120	Luxembourgish	reiwen		B	
+121	German Switzerland	ribe		B	
+107	Gothic	bnauiþ		J	
+112	Latin	fricāre	friˈkaːre	F	
+17	Catalan	--		F	
+17	Catalan	fregar	frə'ɣa	F	
+56	Portuguese	esfregar	ɨʃfɾɨˈɡaɾ	F	
+68	Spanish	frotar	fɾo'taɾ	(F)	
+68	Spanish	ESTREGAR			
+61	Sardinian Cagliari	FRIGAI		F	
+62	Sardinian Logudoro	FRIGARE		F	
+85	French Creole Dominica	FWOTE		F	
+76	Walloon	FROTER		F	
+25	French	frotter	fʀɔte	F	
+57	Provencal	FRETA		F	
+42	Ladin	SFRUSCHER		F	
+146	Dolomite Ladino	sfreà, sfree		F	
+123	Romansh	sfruschar		F	
+122	Friulian	russâ			
+39	Italian	fregare	fre'gare	F	
+59	Romanian	a freca	a freˈka	F	
+74	Vlach	FREK		F	
+127	Old Irish	con·meil	konˈmʹelʹ	L	
+101	Middle Cornish	gneska			
+101	Middle Cornish	rutya			
+172	Middle Breton	tarauat	taˈraːvat	(T)	
+172	Middle Breton	frotaff, frottaf	ˈfroːtaṽ	(F)	
+12	Breton	RENVIA		(G)	
+12	Breton	rimiañ, rimiat		(G)	
+12	Breton	frotañ	ˈfrɔtã	(F), R	
+12	Breton	SKRABARUZA			
+79	Welsh	rhwbio		(P), S	
+79	Welsh	CRAFU		(M)	
+38	Irish	cuimil		L	
+115	Scottish Gaelic	suath			
+5	[Legacy] Albanian T	ME FERKUAR		(F)	
+29	[Legacy] Greek K	TRIBO		H	
+28	[Legacy] Greek D	TRIBO		H	
+30	[Legacy] Greek Md	TRIBO		H	
+64	[Legacy] Serbocroatian	TRENJE		H	
+113	[Legacy] Serbian	trljati	tr̩ːʎati	H	
+89	[Legacy] Bulgarian P	TRIJA		H	
+49	[Legacy] Macedonian	TRIE		H	
+94	[Legacy] Russian P	TERET		H	
+93	[Legacy] Polish P	TRZEC		H	
+90	[Legacy] Byelorussian P	CERCI		H	
+98	[Legacy] Ukrainian P	TERTY		H	
+19	[Legacy] Czech E	MASTYIT		I	
+96	[Legacy] Slovak P	TRIET		H	
+91	[Legacy] Czech P	TRITI		H	
+67	[Legacy] Slovenian	MAZATI, DRGNI		I	
+45	[Legacy] Lithuanian O	TRINTI		H	
+11	[Legacy] Brazilian	ESFREGAR		F	
+142	[Legacy] German Munich	reiben		B	
+84	[Legacy] French Creole C	FWOTE		F	
+14	[Legacy] Breton St	frotañ	'frɔtã	(F), R	
+14	[Legacy] Breton St	rimiañ	'rĩmjã	G	
+13	[Legacy] Breton Se	FROTEIN		(F), R	
+78	[Legacy] Welsh C	RHWBIO		(P), S	
+37	[Legacy] Irish A	CUIMILT		L	

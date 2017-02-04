@@ -1,0 +1,166 @@
+80	Hittite	arunas			
+133	Luvian	alasammis			
+81	Tocharian A	samudtär		(D)	
+82	Tocharian B	samudtär		(D)	
+88	Albanian	DETI		C	
+143	Standard Albanian	det		C	
+2	Albanian Sicily	DEJT		C	
+4	Albanian Corinth	DEET		C	
+3	Albanian Gheg	DET		C	
+6	Albanian Tosk	DET		C	
+110	Ancient Greek	θάλαττα	tʰálatːa	F	
+32	Greek	θάλασσα	ˈθalaˌsa	F	
+31	Greek Lesbos	THALASSA		F	
+129	Classical Armenian	ծով	cov	N	
+8	Armenian Eastern	cov	tsov	N	
+128	Avestan	zraiiō		I	
+131	Old Persian	draya		I	
+136	Sogdian	swmdr-		(D)	
+9	Baluchi	SAMUNDAR		(D)	
+137	Zazaki	dengiz			
+72	Tajik	baxr	bæhr	(A)	
+54	Persian	DARYA		I	
+54	Persian	OQYANUS		(E)	
+77	Waziri	SAMUNDAR		(D)	
+77	Waziri	DARYOB		(I)	
+1	Pashto	BAHR		(A)	
+138	Shughni	daryō		(I)	
+52	Ossetic	dendzyz	dendʒɨz	(M)	
+124	Ossetic Iron	dindžyz	dindžyz	(M)	
+125	Ossetic Digor	dengiz	dengiz	(M)	
+105	Vedic Sanskrit	samudrás		D	
+162	Pāḷī	samudda		D	
+41	Khaskura	SAMUNDAR		D	
+51	Nepali	SAMUDRA		D	
+106	Assamese	xagɒr	xagɒr	L	
+102	Oriya	buṛ-	buɽ-		
+102	Oriya	sɔmudrɔ	sɔmudrɔ	D	
+10	Bengali	SAMUDRO		D	
+10	Bengali	SAGOR		L	
+111	Bihari	səmudr	səmudr	D	
+144	Magahi	समुन्दर	səmund̪ər		
+104	Marwari	səmdər	səmdər	D	
+35	Hindi	SEMUDR		D	
+35	Hindi	SAGER		L	
+119	Urdu	سمندر	səmənd̪əɾ	D	
+103	Sindhi	səmḍu	səmɖu	D	
+103	Sindhi	sāgaru		L	
+43	Lahnda	SEMUNDER		D	
+53	Punjabi	SEMUNDER		D	
+33	Gujarati	DERIGO			
+50	Marathi	samudra	sə'mudɾə	D	
+40	Kashmiri	SAMANDAR		D	
+40	Kashmiri	SODAR, SAGAR		L	
+65	Sinhalese	MUHUDA			
+34	Romani Greece	DENIZI		(M)	
+100	Old Church Slavonic	морѥ	mɔrʲɛ	B	
+95	Serbo-Croatian	more	ˈmɔ̂ːrɛ	B	
+15	Bulgarian	море	muˈrɛ	B	
+92	Macedonian	море	ˈmorɛ	B	
+60	Russian	море	'mɔrʲɛ	B	
+55	Polish	morze	ˈmɔʐɛ	B	
+16	Belarusian	мора	ˈmɔra	B	
+73	Ukrainian	море	ˈmɔrɛ	B	
+66	Slovak	more	ˈmɔrɛ	B	
+18	Czech	moře	ˈmɔr̝ɛ	B	
+48	Sorbian Upper	morjo	ˈmɔʀjɔ	B	
+47	Sorbian Lower	mórjo	ˈmɘ̟rʲɔ	B	
+97	Slovenian	morje	ˈmôːrjɛ	B	
+108	Old Prussian	iūrin		H	
+44	Latvian	jũra		H	
+46	Lithuanian	jura	ˈju:rɐ	H	
+109	Old Norse	haf	hav	(K)	
+109	Old Norse	sær, sjór	sɛːr, sjoːr	J	
+36	Icelandic	haf	haːv	K	
+36	Icelandic	sjór	sjouːr	J	
+23	Faroese	hav	hɛaːv	K	
+23	Faroese	sjógvur	ˈʃɛɡvʊr	J	
+58	Norwegian Riksmal	hav	haːʋ	K	
+58	Norwegian Riksmal	sjø	ʃøː	J	
+159	Stavangersk	sjø	ʂøː	J	
+159	Stavangersk	hav	hɑːʋ	K	
+157	Old Swedish	sior	sjoːr	J	
+157	Old Swedish	haf	haːf	K	
+69	Swedish	hav	hɑːv	K	
+69	Swedish	sjö	ɧøː	(J)	
+71	Swedish Vilhelmina	HAV		K	
+70	Swedish Uppland	SJO		J	
+145	Elfdalian	sju	sjʉː	J	
+145	Elfdalian	av		K	
+20	Danish	hav	hɑw	K	
+20	Danish	sø	søˀ	(J)	
+158	Danish Fjolde	hav	haw	K	
+160	Old Gutnish	siar		J	
+160	Old Gutnish	haf		K	
+161	Gutnish Lau	sjåu	ʃou	(J)	
+99	Old English	sǣ		J	
+22	English	sea	si:	J	
+26	Frisian	see	seː	J	
+21	Dutch	zee	ze	J	
+24	Flemish	ZEE		J	
+83	Afrikaans	SEE		J	
+87	Sranan	ZOUT-WATRA		(D)	
+87	Sranan	ZEE		J	
+126	Old High German	meri		B	
+126	Old High German	sēo		J	
+27	German	See	ze:	J	
+27	German	Ozean	'o:t͜sea:n	(E)	
+27	German	Meer	me:ɐ̯	B	
+86	Pennsylvania Dutch	SAY		J	
+120	Luxembourgish	Mier		B	
+121	German Switzerland	meer		B	
+107	Gothic	marei		B	
+112	Latin	mare	ˈmare	B	
+17	Catalan	mar	mar, maɾ; ma	B	
+56	Portuguese	mar	maɾ	B	
+68	Spanish	mar	maɾ	B	
+61	Sardinian Cagliari	MARI		B	
+62	Sardinian Logudoro	MARE		B	
+63	Sardinian Nuoro	MARE		B	
+85	French Creole Dominica	LAME		B	
+76	Walloon	MER		B	
+25	French	mer	mɛʀ	B	
+57	Provencal	MAR		B	
+42	Ladin	MER		B	
+146	Dolomite Ladino	mar		B	
+123	Romansh	mar		B	
+122	Friulian	mâr		B	
+39	Italian	mare	'mare	B	
+59	Romanian	mare	ˈmare	B	
+74	Vlach	MARE		B	
+140	Gaulish	more		B	
+127	Old Irish	muir	murʹ	B	
+127	Old Irish	fairrge	ɸarʹrʹge	(G)	
+101	Middle Cornish	mor	mɔ:r	B	
+172	Middle Breton	mor	ˈmoːr	B	
+12	Breton	mor		B	
+79	Welsh	mor		B	
+38	Irish	muir		B	
+38	Irish	farraige	ˈfˠæɾˠɟɪ	G	
+115	Scottish Gaelic	cuan		(K)	
+115	Scottish Gaelic	muir		B	
+115	Scottish Gaelic	fairge		(G)	
+5	[Legacy] Albanian T	DET		C	
+29	[Legacy] Greek K	THALASSA		F	
+28	[Legacy] Greek D	THALASSA		F	
+30	[Legacy] Greek Md	THALASSA		F	
+64	[Legacy] Serbocroatian	MORE		B	
+113	[Legacy] Serbian	more		B	
+89	[Legacy] Bulgarian P	MORE		B	
+49	[Legacy] Macedonian	MORE		B	
+94	[Legacy] Russian P	MORE		B	
+93	[Legacy] Polish P	MORZE		B	
+90	[Legacy] Byelorussian P	MORA		B	
+98	[Legacy] Ukrainian P	MORE		B	
+19	[Legacy] Czech E	MORE		B	
+96	[Legacy] Slovak P	MORE		B	
+91	[Legacy] Czech P	MORE		B	
+67	[Legacy] Slovenian	MORJE		B	
+45	[Legacy] Lithuanian O	MARES		B	
+11	[Legacy] Brazilian	MAR		B	
+142	[Legacy] German Munich	Meer		B	
+84	[Legacy] French Creole C	LAME		B	
+14	[Legacy] Breton St	mor	moːʁ	B	
+13	[Legacy] Breton Se	MOR		B	
+78	[Legacy] Welsh C	MOR		B	
+37	[Legacy] Irish A	FAIRRGE		G	

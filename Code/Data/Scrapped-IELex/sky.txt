@@ -1,0 +1,162 @@
+80	Hittite	nēpis		G	
+133	Luvian	tappassa			
+81	Tocharian A	eprer		L	
+82	Tocharian B	iprer		L	
+88	Albanian	KJILLI		(E)	
+143	Standard Albanian	qiell		(E)	
+2	Albanian Sicily	KIEGHJA		(E)	
+4	Albanian Corinth	INEZOT			
+3	Albanian Gheg	KJULLI		(E)	
+6	Albanian Tosk	KIEL		(E)	
+110	Ancient Greek	οὐρανός	uːranós	I	
+32	Greek	ουρανός	ˌuraˈno̞s	I	
+31	Greek Lesbos	OURANOS		I	
+129	Classical Armenian	երկինք	erkinkʰ	P	
+8	Armenian Eastern	erkink’	jɛɾˈkinkʰ	P	
+7	Armenian Western	GULIMA OT			
+128	Avestan	asma (diiau- Daevic)		A	
+131	Old Persian	asmā		A	
+136	Sogdian	’’k’c		(D)	
+75	Wakhi	OSMON		A	
+9	Baluchi	ARSH, AZMAN		A	
+137	Zazaki	āzmīn		A	
+72	Tajik	OSMON		A	
+54	Persian	ASEMAN		A	
+77	Waziri	ASMON		A	
+1	Pashto	ASMAN		A	
+138	Shughni	ōsmun		A	
+139	Sarikoli	ыsmun		A	
+52	Ossetic	arv	arv	O	
+124	Ossetic Iron	arv	arv	O	
+125	Ossetic Digor	arv	arv	O	
+141	Kata-viri	ɑsmɑ̃		(A)	
+105	Vedic Sanskrit	dyáus			
+162	Pāḷī	akāsa		D	
+41	Khaskura	SARGA		M	
+41	Khaskura	AKAS		D	
+51	Nepali	AKAS		D	
+51	Nepali	SAGAR		M	
+106	Assamese	swaragar		M	
+106	Assamese	akax	akax	D	
+102	Oriya	swɔrgɔ-	swɔrgɔ-	M	
+102	Oriya	gɔgɔn-	gɔgɔn-		
+102	Oriya	akasɔ	akasɔ	D	
+10	Bengali	ASMAN		(A)	
+10	Bengali	akas	akaʃ	D	
+111	Bihari	akas	akas	D	
+144	Magahi	आसमान	əsmɑn	(A)	
+104	Marwari	āmmara			
+35	Hindi	AKAS		D	
+35	Hindi	ASMAN		(A)	
+119	Urdu	آسمان	ʔɑsmɑn	(A)	
+103	Sindhi	surgu		M	
+43	Lahnda	ESMAN		(A)	
+53	Punjabi	ESMAN		(A)	
+33	Gujarati	AKAS		D	
+50	Marathi	ākāś	'akaʃ	D	
+40	Kashmiri	NAB		G	
+65	Sinhalese	AHASA		D	
+34	Romani Greece	URANOS		(I)	
+100	Old Church Slavonic	нєбо	nɛbɔ	G	
+95	Serbo-Croatian	nebo	ˈnɛ̂bɔ	G	
+15	Bulgarian	небе	nɘˈbɛ	G	
+92	Macedonian	небо	ˈnebɔ	G	
+60	Russian	небо	'nʲɛbɔ	(G)	
+55	Polish	niebo	ˈɲɛbɔ	G	
+16	Belarusian	неба	ˈnʲɛba	G	
+73	Ukrainian	небо	ˈnɛbɔ	G	
+66	Slovak	obloha	ˈɔblɔɦa	C	
+66	Slovak	nebo	ˈɲɛbɔ	G	
+18	Czech	nebe	ˈnɛbɛ	G	
+18	Czech	obloha	ˈɔblɔɦa	C	
+48	Sorbian Upper	njebjo	ˈnebjɔ	G	
+47	Sorbian Lower	njebjo	nejbjɔ	G	
+97	Slovenian	nebo	nɛˈbôː	G	
+108	Old Prussian	dangan		K	
+44	Latvian	debess		G	
+46	Lithuanian	dangus	dɐŋˈɡʊs	K	
+109	Old Norse	lopt		N	
+109	Old Norse	himinn	ˈhiminː	B	
+36	Icelandic	himinn	ˈhɪːmɪnː	B	
+23	Faroese	himmal	ˈhɪmːal	B	
+58	Norwegian Riksmal	himmel	hɪ̀mːəl	B	
+159	Stavangersk	himmel	ˈhɪ̀mːəl	B	
+157	Old Swedish	himil, himin	ˈhiːmil, ˈhiːmin	B	
+69	Swedish	himmel	ˈhɪ̀mːəl	B	
+69	Swedish	sky	ɧyː	H	
+71	Swedish Vilhelmina	HIMAL		B	
+71	Swedish Vilhelmina	SY		H	
+70	Swedish Uppland	LUFT		N	
+70	Swedish Uppland	SKY		H	
+70	Swedish Uppland	HIMMEL		B	
+145	Elfdalian	imil	ˈɪ̀mɪl	B	
+20	Danish	himmel	ˈheməl	B	
+158	Danish Fjolde	heməl	ˈheməl	B	
+160	Old Gutnish	himin		B	
+161	Gutnish Lau	himmäl	ˈhɪmːɛl	B	
+99	Old English	heofon		B	
+22	English	sky	skaɪ	(H)	
+26	Frisian	himel	'himəl	B	
+21	Dutch	lucht	lʏχt	N	
+21	Dutch	hemel	'hɛməl	B	
+24	Flemish	HEMEL		B	
+83	Afrikaans	LUG		N	
+83	Afrikaans	HEMEL		B	
+87	Sranan	TAPO			
+126	Old High German	himil		B	
+27	German	Himmel	'hɪml̩	B	
+86	Pennsylvania Dutch	HIMMEL		B	
+120	Luxembourgish	Himmel		B	
+121	German Switzerland	himu		B	
+107	Gothic	himins		B	
+112	Latin	caelum	ˈkae̯lum	E	
+17	Catalan	cel	sɛl	E	
+56	Portuguese	céu	sɛw	E	
+68	Spanish	cielo	'θjelo	E	
+61	Sardinian Cagliari	CELU		E	
+62	Sardinian Logudoro	CHELU		E	
+63	Sardinian Nuoro	KELU		E	
+85	French Creole Dominica	SYEL		E	
+76	Walloon	CIR		E	
+25	French	ciel	sjɛl	E	
+57	Provencal	CEU		E	
+42	Ladin	TSCHEL		E	
+146	Dolomite Ladino	ziel		E	
+123	Romansh	tschiel		E	
+122	Friulian	cîl		E	
+39	Italian	cielo	'tʃɛlo	E	
+59	Romanian	cer	ʧer	E	
+74	Vlach	DUMNEZE(LU)			
+127	Old Irish	spéir	sʹpʹe:rʹ	(J)	
+127	Old Irish	nem	nʹeṽ		
+101	Middle Cornish	ebron		F	
+172	Middle Breton	eff?	ˈeːṽ		
+12	Breton	NENV			
+79	Welsh	AWYR		F	
+38	Irish	spéir		J	
+115	Scottish Gaelic	speuran		J	
+115	Scottish Gaelic	adhar			
+5	[Legacy] Albanian T	GIELL		(E)	
+29	[Legacy] Greek K	OURANOS		I	
+28	[Legacy] Greek D	OURANOS		I	
+30	[Legacy] Greek Md	OURANOS		I	
+64	[Legacy] Serbocroatian	NEBO		G	
+113	[Legacy] Serbian	nebo		G	
+89	[Legacy] Bulgarian P	NEBE		G	
+49	[Legacy] Macedonian	NEBO		G	
+94	[Legacy] Russian P	NEBO		G	
+93	[Legacy] Polish P	NIEBO		G	
+90	[Legacy] Byelorussian P	NEBA		G	
+98	[Legacy] Ukrainian P	NEBO		G	
+19	[Legacy] Czech E	NEBE		G	
+96	[Legacy] Slovak P	NEBO		G	
+91	[Legacy] Czech P	NEBE		G	
+67	[Legacy] Slovenian	NEBO		G	
+45	[Legacy] Lithuanian O	DANGUS		K	
+11	[Legacy] Brazilian	CEU		E	
+142	[Legacy] German Munich	Himmel		B	
+84	[Legacy] French Creole C	SYEL		E	
+14	[Legacy] Breton St	oabl	'wa:pl	F	
+13	[Legacy] Breton Se	EBR		F	
+78	[Legacy] Welsh C	AWYR		F	
+37	[Legacy] Irish A	SPEIR		J	

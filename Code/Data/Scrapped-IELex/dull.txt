@@ -1,0 +1,163 @@
+80	Hittite	alpanz			
+82	Tocharian B	mālle		P	
+88	Albanian	NUK PREFET		B	
+143	Standard Albanian	i, e pamprehur		B, C	
+4	Albanian Corinth	I PAA ECURE		C	
+3	Albanian Gheg	NUK PREFET		B	
+6	Albanian Tosk	E-PAPREHUR		B, C	
+110	Ancient Greek	ἀμβλύς	amblýs	P	
+32	Greek	στομωμένος	ˌsto̞mo̞ˈme̞no̞s	(W)	
+32	Greek	δεν κόβει	ðen ˈko̞vi	(K)	
+129	Classical Armenian	բութ	butʰ	V	
+8	Armenian Eastern	բութ	butʰ	V	
+7	Armenian Western	բութ	pʰutʰ		
+72	Tajik	KYND		M	
+54	Persian	KOND		M	
+1	Pashto	PEC		X	
+138	Shughni	gand, gund		Y	
+139	Sarikoli	karto		Z	
+52	Ossetic	k'uymyx	kʲwɨmɨχ	U	
+124	Ossetic Iron	k'ʷymyχ	k'ʷymyχ	U	
+125	Ossetic Digor	k'umuχ	k'umuχ	U	
+105	Vedic Sanskrit	nisthejas		(Aa)	
+105	Vedic Sanskrit	kuṇṭha		(M)	
+51	Nepali	BHUTTE		D	
+106	Assamese	bhota	bhota	D	
+102	Oriya	ɔnthɔḍa	ɔnthɔɖa	Ab	
+10	Bengali	BHOTA		D	
+111	Bihari	bhot	bhot	D	
+144	Magahi	भोथर	bʰot̪ʰər	D	
+35	Hindi	MUTHRA		L	
+119	Urdu	کُند	kʊ̃d̪	M	
+103	Sindhi	munō		L	
+103	Sindhi	lilho		Ac	
+43	Lahnda	KHUNDA		M	
+53	Punjabi	KHUNDA		M	
+33	Gujarati	BUTTNU		D	
+50	Marathi	kantālwānā	kən'ʈaɭwaɳə	M	
+50	Marathi	bothet		D	
+40	Kashmiri	MONDU		L	
+65	Sinhalese	MOTTA		Ai	
+100	Old Church Slavonic	тѫпъ	tɔ̃pʊ̆	G	
+95	Serbo-Croatian	tup	tûːp	G	
+15	Bulgarian	тъп	tɤp	G	
+92	Macedonian	тап	tap	G	
+60	Russian	тупой	tu'pɔj	G	
+55	Polish	tępy	ˈtɛmpɘ̟	G	
+16	Belarusian	тупы	tuˈpɨ	G	
+73	Ukrainian	тупий	tuˈpɪj	G	
+66	Slovak	tupý	ˈtupiː	G	
+18	Czech	tupý	ˈtupiː	G	
+48	Sorbian Upper	tupy	ˈtupɘ̟	G	
+47	Sorbian Lower	tupy	ˈtupɘ̟	G	
+97	Slovenian	top	tɔp	G	
+44	Latvian	truls		R	
+44	Latvian	neass		N	
+46	Lithuanian	ATSIPES			
+46	Lithuanian	NEASTRUS		N	
+46	Lithuanian	BUKAS		Q	
+109	Old Norse	sljór	sljoːr	A	
+36	Icelandic	sljór	stljouːr	A	
+36	Icelandic	bitlaus	ˈb̥ɪːtʰˌløɪːs	Ae	
+23	Faroese	BAKKI		(Ag)	
+23	Faroese	óhvassur	ɔuːˈkʰvasːʊɹ	I	
+58	Norwegian Riksmal	sløv	ʃløːʋ	A	
+58	Norwegian Riksmal	uhvass	ˈʉʋasː	I	
+157	Old Swedish	slior	sljoːr	A	
+69	Swedish	trubbig	ˈtrɵ̀bːɪ(ɡ)	Ad	
+69	Swedish	slö	sløː	A	
+69	Swedish	ovass	ˈùːˌvasː	I	
+71	Swedish Vilhelmina	SLOG		A	
+70	Swedish Uppland	SLO		A	
+70	Swedish Uppland	OVASS		I	
+145	Elfdalian	trubbun		Ad	
+145	Elfdalian	sliuog	l̥ljʉəg	A	
+20	Danish	sløv	slø̞wˀ	A	
+158	Danish Fjolde	stug	sduɡ	Ah	
+158	Danish Fjolde	stum	sdum	(G)	
+161	Gutnish Lau	slåiar	ˈsloɪar	A	
+99	Old English	āstynt		G	
+22	English	dull	dʌl	F	
+26	Frisian	stomp	stomp	G	
+21	Dutch	bot	bɔt	Af	
+21	Dutch	stomp	stɔmp	G	
+83	Afrikaans	STOMP		G	
+87	Sranan	STOMPOE		G	
+87	Sranan	TOMPOE		G	
+87	Sranan	DEDE			
+126	Old High German	slēo		A	
+27	German	stumpf	ʃtʊmp͜f	G	
+86	Pennsylvania Dutch	SCHTUUMP		G	
+120	Luxembourgish	stomp		G	
+121	German Switzerland	schtumpf		G	
+107	Gothic	dwa-l-s*		F	
+107	Gothic	bau-þ-s			
+107	Gothic	dau-f-s*			
+112	Latin	obtūsus	obtuːsus	(S)	
+112	Latin	hebes	ˈhebes	Aj	
+17	Catalan	AMUSSADO		H	
+17	Catalan	rom	rom		
+56	Portuguese	embotado		E	
+56	Portuguese	cego	ˈsɛɡu		
+68	Spanish	romo	'romo		
+68	Spanish	embotado	embo'taðo	E	
+61	Sardinian Cagliari	SGURDU			
+62	Sardinian Logudoro	BULTEDDU			
+63	Sardinian Nuoro	ISPUNTATU			
+85	French Creole Dominica	PA FILE		J	
+76	Walloon	TOT R'DOHI			
+25	French	émoussé	emuse	H	
+57	Provencal	MOUTU, UDO		H	
+42	Ladin	MUOT		H	
+146	Dolomite Ladino	smoch			
+146	Dolomite Ladino	badanai			
+146	Dolomite Ladino	desmolà			
+123	Romansh	mut		H	
+122	Friulian	asiât			
+39	Italian	ottuso	ot'tuzo	S	
+59	Romanian	tocit		(T)	
+127	Old Irish	máel	mail	P	
+101	Middle Cornish	dicreft			
+101	Middle Cornish	sogh	sɔ:x		
+101	Middle Cornish	pyst			
+172	Middle Breton	dall?	ˈdalː	F	
+172	Middle Breton	dilemm?	ˈdilem		
+172	Middle Breton	kizet ?	ˈkiːzet		
+172	Middle Breton	taltous ?	ˈtaltus		
+172	Middle Breton	togn, tougn?	ˈtoːɲ, ˈtuːɲ	(Ak)	
+12	Breton	dall	ˈdalː	F	
+12	Breton	KIZA			
+12	Breton	TALTOUZA		(S)	
+79	Welsh	di-awch			
+79	Welsh	di-fin		(O)	
+38	Irish	maol		P	
+38	Irish	dúr		(F)	
+115	Scottish Gaelic	maol		P	
+5	[Legacy] Albanian T	I, E PAPREHUR		B, C	
+29	[Legacy] Greek K	ME AICHMERON			
+28	[Legacy] Greek D	DIOLOU MUTERO			
+28	[Legacy] Greek D	DEV KOBEI		K	
+30	[Legacy] Greek Md	STOMOMENOS		W	
+64	[Legacy] Serbocroatian	TUP		G	
+113	[Legacy] Serbian	tup	tûːp	G	
+89	[Legacy] Bulgarian P	TUP		G	
+49	[Legacy] Macedonian	TAP		G	
+94	[Legacy] Russian P	TUPOJ		G	
+93	[Legacy] Polish P	TEPY		G	
+90	[Legacy] Byelorussian P	TUPY		G	
+98	[Legacy] Ukrainian P	TUPYJ		G	
+19	[Legacy] Czech E	TUPE		G	
+96	[Legacy] Slovak P	TUPY		G	
+91	[Legacy] Czech P	TUPY		G	
+67	[Legacy] Slovenian	SKRHAN			
+45	[Legacy] Lithuanian O	ATBUKES		Q	
+45	[Legacy] Lithuanian O	NE ASTRUS		N	
+11	[Legacy] Brazilian	EMBOTADOR		E	
+142	[Legacy] German Munich	stumpf		G	
+84	[Legacy] French Creole C	PA FILE		J	
+14	[Legacy] Breton St	dall	dal	F	
+14	[Legacy] Breton St	togn	'tɔ̃ɲ	(S)	
+13	[Legacy] Breton Se	DALL		F	
+13	[Legacy] Breton Se	TOUGN		(S)	
+78	[Legacy] Welsh C	DIFIN		O	
+37	[Legacy] Irish A	MAOL		P	

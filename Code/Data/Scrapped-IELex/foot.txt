@@ -1,0 +1,170 @@
+114	Proto-Indo-European	*ped-, *pod-		B	
+80	Hittite	patas		B	
+133	Luvian	patās		B	
+134	Lycian	pede		B	
+81	Tocharian A	pe		B	
+82	Tocharian B	paiyye		B	
+88	Albanian	kama		(C)	
+143	Standard Albanian	këmbë		(C)	
+2	Albanian Sicily	këmbë		(C)	
+4	Albanian Corinth	këmbë		(C)	
+3	Albanian Gheg	kama		(C)	
+3	Albanian Gheg	putër			
+6	Albanian Tosk	këmbë		(C)	
+173	Mycenaean Greek	po-de	pódei̯	B	
+110	Ancient Greek	πούς	pȗːs	B	
+152	Tsakonian	πουα		B	
+32	Greek	πόδι	ˈpo̞ði	B	
+31	Greek Lesbos	PODI		B	
+129	Classical Armenian	ոտն	ot-n	B	
+8	Armenian Eastern	otk’	votkʰ	B	
+7	Armenian Western	VODK		B	
+128	Avestan	pāδa (du.)		B	
+131	Old Persian	pāda		B	
+136	Sogdian	p’δ		B	
+75	Wakhi	PUED		B	
+9	Baluchi	PHADH		B	
+118	Kurdish	pê		B	
+137	Zazaki	pā		B	
+72	Tajik	po	pɔ:	B	
+54	Persian	pa	pɒ	B	
+77	Waziri	PSHA		A	
+1	Pashto	PSA		A	
+52	Ossetic	fad	fad	B	
+52	Ossetic	K"AX		K	
+124	Ossetic Iron	k'aχ	k'aχ	K	
+125	Ossetic Digor	k'aχ	k'aχ	K	
+153	Askunu	kŭr		J	
+153	Askunu	ṭē			
+105	Vedic Sanskrit	pā́t		B	
+162	Pāḷī	pāda		B	
+41	Khaskura	KHUTTA		B	
+51	Nepali	PAU		B	
+51	Nepali	KHUTTO			
+51	Nepali	GORO			
+106	Assamese	jāng			
+106	Assamese	bhâri			
+102	Oriya	padɔ	padɔ	B	
+10	Bengali	pa	pa	B	
+111	Bihari	pyaer	pyaer	B	
+144	Magahi	गोड	ɡoɽ		
+104	Marwari	pag		B	
+35	Hindi	PER		B	
+119	Urdu	پاؤں، پَیر	pɑũ, peɾ	B	
+103	Sindhi	peru		B	
+103	Sindhi	charanu		J	
+43	Lahnda	PAER		B	
+53	Punjabi	PER		B	
+33	Gujarati	PEG		B	
+50	Marathi	pāy	paj	B	
+40	Kashmiri	KHOR		J	
+40	Kashmiri	PAR, PAD, PURU		B	
+65	Sinhalese	KAKULA, PAYA		B	
+34	Romani Greece	CANK		L	
+100	Old Church Slavonic	нога	nɔɡɑ	G	
+95	Serbo-Croatian	noga	ˈnɔ̌ɡa	G	
+15	Bulgarian	крак	krak	E	
+92	Macedonian	нога	ˈnoɡa	G	
+60	Russian	нога	no'ga	G	
+55	Polish	noga	ˈnɔɡa	G	
+16	Belarusian	нага	naˈɣa	G	
+73	Ukrainian	нога	nɔˈɦa	G	
+66	Slovak	noha	ˈnɔɦa	G	
+18	Czech	noha	ˈnɔɦa	G	
+48	Sorbian Upper	noha	ˈnɔha	G	
+47	Sorbian Lower	noga	ˈnɔɡa	G	
+97	Slovenian	noga	ˈnɔ̌ːɡa	G	
+108	Old Prussian	nage		G	
+44	Latvian	kãja		H	
+46	Lithuanian	KOJA		H	
+109	Old Norse	fótr	foːtr	B	
+36	Icelandic	fótur	ˈfouːtʰʏr	B	
+23	Faroese	fótur	ˈfɔuːtʊɹ	B	
+58	Norwegian Riksmal	BEN		(M)	
+58	Norwegian Riksmal	fot	fuːt	B	
+159	Stavangersk	fod	fuːd	B	
+157	Old Swedish	foter	ˈfoːter	B	
+69	Swedish	fot	fuːt	B	
+71	Swedish Vilhelmina	FOT		B	
+70	Swedish Uppland	FOT		B	
+145	Elfdalian	fuot	fʉət	B	
+20	Danish	fod	foˀð	B	
+158	Danish Fjolde	fuod	fuoð	B	
+160	Old Gutnish	fotr		B	
+161	Gutnish Lau	fåut	fout	B	
+161	Gutnish Lau	bain	baɪn	M	
+99	Old English	fōt		B	
+22	English	foot	fʊt	B	
+26	Frisian	foet	fuət	B	
+21	Dutch	voet	vut	B	
+24	Flemish	VOET		B	
+83	Afrikaans	VOET		B	
+87	Sranan	FOETOE		B	
+126	Old High German	fuoz		B	
+27	German	Fuss	fu:s	B	
+86	Pennsylvania Dutch	FUUSZ		B	
+120	Luxembourgish	Fouss		B	
+121	German Switzerland	fuess		B	
+107	Gothic	fōtus		B	
+130	Oscan	pedú		B	
+132	Umbrian	peři		B	
+112	Latin	pēs	peːs	B	
+17	Catalan	peu	pɛuw	B	
+56	Portuguese	pé	pɛ	B	
+68	Spanish	pie	pje	B	
+61	Sardinian Cagliari	PEI		B	
+62	Sardinian Logudoro	PE		B	
+63	Sardinian Nuoro	PEDE		B	
+85	French Creole Dominica	PYE		B	
+76	Walloon	PI		B	
+25	French	pied	pje	B	
+57	Provencal	pè	pɛ	B	
+42	Ladin	PE		B	
+146	Dolomite Ladino	pè		B	
+123	Romansh	pei		B	
+122	Friulian	pît		B	
+39	Italian	piede	'pjɛde	B	
+59	Romanian	picior	piˈʧjor	B	
+74	Vlach	CORU		B	
+140	Gaulish	kokso-		I	
+140	Gaulish	treide		D	
+127	Old Irish	traig	traɣʹ	D	
+127	Old Irish	cos(s)	kos	I	
+149	Old Cornish	truit		D	
+101	Middle Cornish	troos	tro:z	D	
+148	Old Breton	treit		D	
+172	Middle Breton	troat	ˈtroat	D	
+12	Breton	troad	ˈtrwɑːt	D	
+150	Old Welsh	troet		D	
+79	Welsh	troed	trɔid	D	
+38	Irish	troigh		D	
+38	Irish	cos	kos	I	
+115	Scottish Gaelic	troigh		(D)	
+115	Scottish Gaelic	cas	kas	I	
+147	Manx	trie		D	
+147	Manx	cass		I	
+5	[Legacy] Albanian T	këmbë		(C)	
+29	[Legacy] Greek K	POUS		B	
+28	[Legacy] Greek D	PODI		B	
+30	[Legacy] Greek Md	PODI		B	
+64	[Legacy] Serbocroatian	NOGA		G	
+113	[Legacy] Serbian	stopalo	stǒpalo	F	
+89	[Legacy] Bulgarian P	KRAK		E	
+49	[Legacy] Macedonian	NOGA		G	
+94	[Legacy] Russian P	NOGA		G	
+93	[Legacy] Polish P	NOGA		G	
+90	[Legacy] Byelorussian P	NAHA		G	
+98	[Legacy] Ukrainian P	NOHA		G	
+19	[Legacy] Czech E	NOHA		G	
+96	[Legacy] Slovak P	NOHA		G	
+91	[Legacy] Czech P	NOHA		G	
+67	[Legacy] Slovenian	STAPOLU		F	
+45	[Legacy] Lithuanian O	KOJA		H	
+11	[Legacy] Brazilian	PE		B	
+142	[Legacy] German Munich	Fuß		B	
+84	[Legacy] French Creole C	PYE		B	
+14	[Legacy] Breton St	troad	trwa:t	D	
+13	[Legacy] Breton Se	TROED		D	
+78	[Legacy] Welsh C	TROED		D	
+37	[Legacy] Irish A	TROIGH		D	
+37	[Legacy] Irish A	COS		I	

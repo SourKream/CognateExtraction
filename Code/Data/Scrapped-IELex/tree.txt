@@ -1,0 +1,183 @@
+114	Proto-Indo-European	*dóru		C	
+80	Hittite	tāru		C	
+81	Tocharian A	ṣtām		N	
+82	Tocharian B	stām		N	
+88	Albanian	dru		C	
+143	Standard Albanian	pemë		(U)	
+2	Albanian Sicily	ARVUGHAM			
+4	Albanian Corinth	dru		C	
+3	Albanian Gheg	drû		C	
+6	Albanian Tosk	pemë		(U)	
+6	Albanian Tosk	dru		C	
+110	Ancient Greek	δένδρον	déndron	C	
+152	Tsakonian	δεντζικο		C	
+32	Greek	δέντρο	ˈðe̞n̪dro̞	C	
+31	Greek Lesbos	DENDRO		C	
+129	Classical Armenian	ծառ	caṙ	P	
+8	Armenian Eastern	caṙ	ʦɑr	P	
+7	Armenian Western	SZAR		P	
+128	Avestan	vana		O	
+136	Sogdian	wn’		O	
+75	Wakhi	DERUXT		A	
+9	Baluchi	DRASHK		A	
+118	Kurdish	dar		A	
+137	Zazaki	dār		A	
+72	Tajik	CUB			
+72	Tajik	darazt	dæræxt	A	
+54	Persian	derakht	deˈɾæxtʰ	A	
+77	Waziri	WUNA		O	
+1	Pashto	VENA		O	
+1	Pashto	DIRAXT		A	
+138	Shughni	dōrg		A	
+138	Shughni	d(i)raxt		A	
+139	Sarikoli	x̆ыng			
+139	Sarikoli	daraxt		A	
+52	Ossetic	baelac	bælas, bælaʃ	D	
+124	Ossetic Iron	bɐlaš	bɐlaš	D	
+125	Ossetic Digor	bɐlasɐ	bɐlasɐ	D	
+141	Kata-viri	kʌnü		T	
+154	Vasi-vari	mutu		(Ab)	
+154	Vasi-vari	pe'ōṭ		Aa	
+153	Askunu	kándä		T	
+105	Vedic Sanskrit	vr̥kṣás		R	
+162	Pāḷī	rukkha		R	
+41	Khaskura	RUKH		R	
+41	Khaskura	BOT			
+51	Nepali	GACH		E	
+51	Nepali	RUKH		R	
+106	Assamese	gɒs	gɒs	E	
+102	Oriya	gɔchɔ	gɔchɔ	E	
+10	Bengali	gac	ɡɑs, ɡɑtʃʰ	E	
+111	Bihari	gach	gach	E	
+144	Magahi	पेड	peɽ	Ac	
+104	Marwari	jaɭ	jaɭ	K	
+104	Marwari	līm			
+104	Marwari	rūnkh		R	
+35	Hindi	PER		Ac	
+119	Urdu	درخت	d̪ɾəχt	A	
+103	Sindhi	vaṇu		O	
+43	Lahnda	DREXT		(A)	
+53	Punjabi	DEREKHET		(A)	
+33	Gujarati	JHAR		K	
+50	Marathi	dzhād	dzʰaɖ	K	
+40	Kashmiri	KULU			
+65	Sinhalese	GASA		E	
+34	Romani Greece	KOPAC		(V)	
+100	Old Church Slavonic	дрѣво	drævɔ	C	
+95	Serbo-Croatian	drvo	ˈdr̩̂vɔ	C	
+15	Bulgarian	дърво	dərˈvɔ	C	
+92	Macedonian	дрво	ˈdərvɔ	C	
+60	Russian	дерево	'dʲɛrʲɛvɔ	C	
+55	Polish	drzewo	ˈd-ʐɛvɔ	C	
+16	Belarusian	дрэва	ˈdrɛva	C	
+73	Ukrainian	дерево	ˈdɛrɛʋɔ	C	
+66	Slovak	strom	strɔm	H	
+18	Czech	strom	strɔm	H	
+48	Sorbian Upper	štom	ʃtɔm	(Ad)	
+47	Sorbian Lower	bom	bɔm	(B)	
+97	Slovenian	drevo	drɛˈvôː	C	
+108	Old Prussian	garian		P	
+44	Latvian	darva		C	
+44	Latvian	kòks		J	
+46	Lithuanian	drevė		C	
+46	Lithuanian	derva		C	
+46	Lithuanian	medis	ˈmʲæ:dʲɪs	M	
+109	Old Norse	tré	treː	C	
+36	Icelandic	tré	tʰrjɛː	C	
+23	Faroese	træ	tʰɹɛaː	C	
+58	Norwegian Riksmal	tre	tɾeː	C	
+159	Stavangersk	tre	tʁeː	C	
+157	Old Swedish	trä	træː	C	
+69	Swedish	träd	trɛ:(d)	C	
+71	Swedish Vilhelmina	TRE  TRA		C	
+70	Swedish Uppland	TRA(D)		C	
+145	Elfdalian	trai	trɑɪ	C	
+20	Danish	træ	d̥ʰʁɛˀ	C	
+158	Danish Fjolde	boam	boam	(B)	
+161	Gutnish Lau	träi	trɛɪ	C	
+99	Old English	trēow		C	
+22	English	tree	tri:	C	
+26	Frisian	beam	bɪəm	B	
+21	Dutch	boom	bom	B	
+24	Flemish	BOOM		B	
+83	Afrikaans	BOOM		B	
+87	Sranan	BOOM		B	
+126	Old High German	boum		B	
+27	German	Baum	baŭm	B	
+86	Pennsylvania Dutch	BAWM		B	
+120	Luxembourgish	Bam		B	
+121	German Switzerland	boum		B	
+107	Gothic	bagms		B	
+112	Latin	arbor	ˈarbor	F	
+17	Catalan	arbre	'aβɾə	F	
+56	Portuguese	árvore	ˈaɾvuɾɨ	F	
+68	Spanish	árbol	'aɾβol	F	
+61	Sardinian Cagliari	MATTA			
+62	Sardinian Logudoro	ARBURE		F	
+63	Sardinian Nuoro	UNNU			
+85	French Creole Dominica	PYE		I	
+76	Walloon	ABE		F	
+25	French	arbre	aʀbʀ	F	
+57	Provencal	AUBRE		F	
+42	Ladin	BOS			
+146	Dolomite Ladino	alber		F	
+123	Romansh	bösch		X	
+123	Romansh	plonta		W	
+123	Romansh	alber		F	
+122	Friulian	arbul		F	
+122	Friulian	bosc		X	
+122	Friulian	plante		W	
+39	Italian	albero	'albero	F	
+59	Romanian	arbore	'arbore	F	
+59	Romanian	POM			
+59	Romanian	copac	ko'pak		
+74	Vlach	ARBURI		F	
+140	Gaulish	uidu-		G	
+140	Gaulish	bilio-		Y	
+140	Gaulish	prenne		L	
+127	Old Irish	crann	krann	L	
+127	Old Irish	bile	bʹilʹe	(Y)	
+127	Old Irish	cráeb	kraiβ	(Z)	
+149	Old Cornish	pren		L	
+149	Old Cornish	guiden		G	
+101	Middle Cornish	pren		(L)	
+101	Middle Cornish	gwydh	gwɪ:ð	G	
+148	Old Breton	pren		L	
+148	Old Breton	guid		G	
+172	Middle Breton	guezenn, guzen	ˈgueːðen		
+12	Breton	gwez		G	
+79	Welsh	gwydden		G	
+79	Welsh	derwen		(C)	
+79	Welsh	coeden		Q	
+79	Welsh	pren		(L)	
+38	Irish	crann		L	
+38	Irish	dair		(C)	
+115	Scottish Gaelic	crann		(L)	
+115	Scottish Gaelic	craobh		Z	
+147	Manx	billey		Y	
+5	[Legacy] Albanian T	dru		C	
+5	[Legacy] Albanian T	shelg		(S)	
+29	[Legacy] Greek K	DENDRON		C	
+28	[Legacy] Greek D	DENTRO		C	
+30	[Legacy] Greek Md	DENTRO		C	
+64	[Legacy] Serbocroatian	DRVO		C	
+113	[Legacy] Serbian	drvo	drʋo	C	
+89	[Legacy] Bulgarian P	DURVO		C	
+49	[Legacy] Macedonian	DRVO		C	
+94	[Legacy] Russian P	DEREVO		C	
+93	[Legacy] Polish P	DRZEWO		C	
+90	[Legacy] Byelorussian P	DREVA		C	
+98	[Legacy] Ukrainian P	DEREVO		C	
+19	[Legacy] Czech E	STROM		H	
+96	[Legacy] Slovak P	DREVO		C	
+91	[Legacy] Czech P	STROM		H	
+67	[Legacy] Slovenian	DREV		C	
+45	[Legacy] Lithuanian O	MEDIS		M	
+11	[Legacy] Brazilian	árvore	ˈaʁvoɾi	F	
+142	[Legacy] German Munich	Baum		B	
+84	[Legacy] French Creole C	PYE BWA		I	
+14	[Legacy] Breton St	prenn		L	
+14	[Legacy] Breton St	gwez	gwe:s	G	
+13	[Legacy] Breton Se	GUEEN		G	
+78	[Legacy] Welsh C	COEDEN		Q	
+37	[Legacy] Irish A	CRANN		L	

@@ -1,0 +1,164 @@
+114	Proto-Indo-European	*k̑ērd-/*k̑r̥d-		J	
+80	Hittite	kēr		J	
+133	Luvian	zārza		J	
+135	Palaic	kart-		J	
+81	Tocharian A	ariñc		I	
+82	Tocharian B	arañce		I	
+88	Albanian	zemër		B	
+143	Standard Albanian	zemër		B	
+2	Albanian Sicily	zemër		B	
+4	Albanian Corinth	zemër		B	
+3	Albanian Gheg	zemër		B	
+6	Albanian Tosk	zemër		B	
+110	Ancient Greek	καρδίᾱ	kardíaː	J	
+152	Tsakonian	καρδíα		J	
+32	Greek	καρδιά	karˈðʝa	J	
+31	Greek Lesbos	KARDIA		J	
+129	Classical Armenian	սիրտ	sirt	J	
+8	Armenian Eastern	sirt	siɾt	J	
+7	Armenian Western	SIRD		J	
+128	Avestan	zərəd-		J	
+136	Sogdian	γrdy’		(J)	
+136	Sogdian	δrjyy		J	
+174	Khotanese	ysärä	zərə	J	
+75	Wakhi	PEZUV		M	
+9	Baluchi	DIL		(J)	
+118	Kurdish	dil		(J)	
+137	Zazaki	zer̄ī		J	
+137	Zazaki	qelb		(A)	
+72	Tajik	dil	dil	J	
+54	Persian	QALB		(A)	
+77	Waziri	ZRE		J	
+1	Pashto	ZRE		J	
+138	Shughni	zōrd		J	
+138	Shughni	dil		(J)	
+139	Sarikoli	zorδ		J	
+52	Ossetic	zaerdae	zærdæ	J	
+124	Ossetic Iron	žɐrdɐ	žɐrdɐ	J	
+125	Ossetic Digor	zɐrdɐ	zɐrdɐ	J	
+141	Kata-viri	zɨrɨ		J	
+154	Vasi-vari	zir, zər		J	
+153	Askunu	židī		J	
+105	Vedic Sanskrit	há̄rdi		J	
+105	Vedic Sanskrit	हृदय	hr̩daya	J	
+162	Pāḷī	hadaya		J	
+41	Khaskura	MUTO		H	
+51	Nepali	MUTU		H	
+51	Nepali	HIYO		J	
+106	Assamese	hridɒe	hridɒe	(J)	
+102	Oriya	hrud(ɔyɔ)	hrud(ɔyɔ)	(J)	
+10	Bengali	BUK		O	
+111	Bihari	hridəə	hridəə	(J)	
+144	Magahi	दिल	d̪il	(C)	
+104	Marwari	kāḷjo		N	
+104	Marwari	hivaḍo			
+104	Marwari	hika			
+35	Hindi	DIL		(C)	
+35	Hindi	हृदय	hr̩day	J	
+119	Urdu	دِل	d̪ɪl	(C)	
+103	Sindhi	hyãv			
+103	Sindhi	hirdhō		(J)	
+43	Lahnda	DIL		(C)	
+53	Punjabi	DIL		(C)	
+50	Marathi	hrday	ɦɽ'daj	(J)	
+40	Kashmiri	WOLINJ		K	
+40	Kashmiri	REDA		J	
+40	Kashmiri	DIL		(C)	
+65	Sinhalese	PAPUWA		L	
+65	Sinhalese	HRADAYA		(J)	
+34	Romani Greece	ILO		J	
+100	Old Church Slavonic	срьдьцє	sr̩ʲdɪ̆tsʲɛ	J	
+95	Serbo-Croatian	srce	ˈsr̩̂tsɛ	J	
+15	Bulgarian	сърце	sərˈtsɛ	J	
+92	Macedonian	срце	ˈsərtsɛ	J	
+60	Russian	сердце	'sʲɛrdtsɛ	J	
+55	Polish	serce	ˈsɛrtsɛ	J	
+16	Belarusian	сэрца	ˈsɛrtsa	J	
+73	Ukrainian	серце	ˈsɛrtsɛ	J	
+66	Slovak	srdce	ˈsr̩tsɛ	J	
+18	Czech	srdce	ˈsr̩tsɛ	J	
+48	Sorbian Upper	wutroba	ˈwutʀɔba	F	
+47	Sorbian Lower	wutšoba	ˈhutʂɔba	F	
+97	Slovenian	srce	sərˈtsêː	J	
+108	Old Prussian	sīran		J	
+44	Latvian	siȓds		J	
+46	Lithuanian	sirdis	ʃʲɪrʲˈdʲɪs	J	
+109	Old Norse	hjarta	ˈɣjarta	J	
+36	Icelandic	hjarta	ˈçar̥ta	J	
+23	Faroese	hjarta	ˈjaɻ̊ʈa	J	
+58	Norwegian Riksmal	hjerte	ˈjæ̀ʈːə	J	
+159	Stavangersk	jærta, jarta	ˈjæ̀ʁta, ˈjàʁta	J	
+157	Old Swedish	hiärta	ˈhjæːrta	J	
+69	Swedish	hjärta	ˈjæ̀ʈːa	J	
+71	Swedish Vilhelmina	JATA		J	
+70	Swedish Uppland	HJARTA		J	
+145	Elfdalian	järta	ˈjæ̀rtɑ	J	
+20	Danish	hjerte	ˈjɛɐ̯d̥ʰə	J	
+158	Danish Fjolde	jaart	jɑːɹd	J	
+161	Gutnish Lau	järtä	ˈjæːrtɛ	J	
+99	Old English	heorte		J	
+22	English	heart	hɑ:t	J	
+26	Frisian	hert	həːt	J	
+21	Dutch	hart	hɑrt	J	
+24	Flemish	HART		J	
+83	Afrikaans	HART		J	
+87	Sranan	HATTI		J	
+126	Old High German	herza		J	
+27	German	Herz	hɛrt͜s	J	
+86	Pennsylvania Dutch	HOTZ		J	
+120	Luxembourgish	Häerz		J	
+121	German Switzerland	häärz		J	
+107	Gothic	haírtō		J	
+112	Latin	cor	kor	J	
+17	Catalan	cor	kɔɾ	J	
+56	Portuguese	coração	kuɾɐˈsɐ̃w	J	
+68	Spanish	corazón	koɾa'θon	J	
+61	Sardinian Cagliari	KORI		J	
+62	Sardinian Logudoro	CORO		J	
+63	Sardinian Nuoro	KORO		J	
+85	French Creole Dominica	CE		E	
+76	Walloon	COUR		J	
+25	French	cœur	kœʀ	J	
+57	Provencal	còr	kɔr	J	
+42	Ladin	COUR		J	
+146	Dolomite Ladino	cher		J	
+123	Romansh	cor		J	
+122	Friulian	cûr		J	
+39	Italian	cuore	'kwɔre	J	
+59	Romanian	inimă	ˈinimə	G	
+74	Vlach	INIMA		G	
+140	Gaulish	crid(io)-		J	
+127	Old Irish	cride	kʹrʹiðe	J	
+149	Old Cornish	colon		D	
+101	Middle Cornish	colon	'kɔlɔn	D	
+148	Old Breton	calonn		D	
+172	Middle Breton	calon, caloun	ˈkaːlon, ˈkaːlun	D	
+12	Breton	kalon	ˈkaːlon	D	
+79	Welsh	calon		D	
+38	Irish	croí		J	
+115	Scottish Gaelic	cridhe		J	
+147	Manx	cree		J	
+5	[Legacy] Albanian T	zemër	ˈzɛmɚ	B	
+29	[Legacy] Greek K	KARDIA		J	
+28	[Legacy] Greek D	KARDIA		J	
+30	[Legacy] Greek Md	KARDIA		J	
+64	[Legacy] Serbocroatian	SRCE		J	
+113	[Legacy] Serbian	srce	sr̩tse	J	
+89	[Legacy] Bulgarian P	SURCE		J	
+49	[Legacy] Macedonian	SRCE		J	
+94	[Legacy] Russian P	SERDCE		J	
+93	[Legacy] Polish P	SERCE		J	
+90	[Legacy] Byelorussian P	SERCA		J	
+98	[Legacy] Ukrainian P	SERCE		J	
+19	[Legacy] Czech E	SRDCO		J	
+96	[Legacy] Slovak P	SRDCE		J	
+91	[Legacy] Czech P	SRDCE		J	
+67	[Legacy] Slovenian	SRCJ		J	
+45	[Legacy] Lithuanian O	SIRDIS		J	
+11	[Legacy] Brazilian	coração	kɔɾaˈsɐ̃u	J	
+142	[Legacy] German Munich	Herz		J	
+84	[Legacy] French Creole C	CE		E	
+14	[Legacy] Breton St	kalon	'ka:lɔ̃n	D	
+13	[Legacy] Breton Se	KALON		D	
+78	[Legacy] Welsh C	CALON		D	
+37	[Legacy] Irish A	CROIDHE		J	

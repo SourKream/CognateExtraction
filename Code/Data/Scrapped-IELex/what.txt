@@ -1,0 +1,164 @@
+80	Hittite	kuit		A	
+133	Luvian	kuī		A	
+134	Lycian	ti		A	
+81	Tocharian A	kus		A	
+82	Tocharian B	kuse		A	
+88	Albanian	çë		A	
+143	Standard Albanian	çfarë		A	
+2	Albanian Sicily	çë		A	
+4	Albanian Corinth	çë		A	
+3	Albanian Gheg	çë		A	
+6	Albanian Tosk	çë		A	
+110	Ancient Greek	τί	tí	A	
+152	Tsakonian	τσι		A	
+32	Greek	τι	ti	A	
+31	Greek Lesbos	TI		A	
+129	Classical Armenian	զի	zi	(A)	
+129	Classical Armenian	զինչ	z-i(-)nč‘	A	
+8	Armenian Eastern	ինչ	inʧʰ	A	
+7	Armenian Western	ինչ		A	
+128	Avestan	kaṯ		A	
+136	Sogdian	cw		A	
+75	Wakhi	CIZ, CICIZ		A	
+9	Baluchi	KITHAN		A	
+118	Kurdish	çi		A	
+137	Zazaki	čičī		A	
+72	Tajik	CI		A	
+54	Persian	che	tʃʰiː	A	
+77	Waziri	KIM, TSE		A	
+1	Pashto	CE		A	
+138	Shughni	ca		A	
+139	Sarikoli	cɛyz		A	
+124	Ossetic Iron	sy	sy	A	
+125	Ossetic Digor	či	či	A	
+141	Kata-viri	kaᴵ		A	
+154	Vasi-vari	pəs(se), pseh			
+153	Askunu	kā		A	
+105	Vedic Sanskrit	kím		(A)	
+105	Vedic Sanskrit	kád		A	
+162	Pāḷī	kiŋ		A	
+41	Khaskura	KYA		A	
+51	Nepali	ke	ke	A	
+106	Assamese	ki(he)		A	
+102	Oriya	kɔɔṇɔ	kɔɔɳɔ	A	
+10	Bengali	KI		A	
+111	Bihari	ki	ki	A	
+144	Magahi	कउची	kəʊci		
+144	Magahi	का	kɑ		
+151	Bhojpuri	ká		A	
+104	Marwari	kãi		A	
+35	Hindi	kya	kjaː	A	
+119	Urdu	کیا	kjɑ	A	
+103	Sindhi	kōhu		A	
+103	Sindhi	kēharo		A	
+103	Sindhi	čhā		A	
+43	Lahnda	KE		A	
+53	Punjabi	KI		A	
+33	Gujarati	ša, šũ	ʃa, ʃũ	B	
+50	Marathi	kāy	kaj	A	
+40	Kashmiri	KYAH		A	
+65	Sinhalese	MOKADA			
+34	Romani Greece	SO		B	
+100	Old Church Slavonic	чьто	tʃɪ̆tɔ	A	
+95	Serbo-Croatian	što, šta	ʃtɔ̂, ʃtâ	A	
+15	Bulgarian	какво	kəˈkvɔ	A	
+92	Macedonian	што	ʃto	A	
+60	Russian	что	ʂtɔ	A	
+55	Polish	co	tsɔ	A	
+16	Belarusian	што	ʂtɔ	A	
+73	Ukrainian	що	ʂtʂɔ	A	
+66	Slovak	čo	tʃɔ	A	
+18	Czech	co	tsɔ	A	
+48	Sorbian Upper	što	ʃtɔ	A	
+47	Sorbian Lower	co	tsɔ	A	
+97	Slovenian	kaj	kǎːj	A	
+108	Old Prussian	ka		A	
+44	Latvian	kas		A	
+46	Lithuanian	KAS		A	
+109	Old Norse	hvat	ɣvat	A	
+36	Icelandic	hvað	xʷaːð, kʰvaːð	A	
+23	Faroese	hvat	kʰvɛaːt	A	
+58	Norwegian Riksmal	hvad	ʋaː	A	
+159	Stavangersk	ka	ka	A	
+157	Old Swedish	hvadh	ˈhvaːð	A	
+69	Swedish	vad	vɑː(d)	A	
+71	Swedish Vilhelmina	VA, VA		A	
+70	Swedish Uppland	VAD, VA		A	
+145	Elfdalian	wen	wɛn	A	
+20	Danish	hvad	va	A	
+158	Danish Fjolde	var	vɑɹ	A	
+161	Gutnish Lau	va	vɑː	A	
+99	Old English	hwæt		A	
+22	English	what	wɒt	A	
+26	Frisian	wat	vɔt	A	
+21	Dutch	wat	wɑt	A	
+24	Flemish	WAT		A	
+83	Afrikaans	WAT, WATTER, HOE		A	
+87	Sranan	SANI			
+87	Sranan	HOESAN			
+126	Old High German	waz		A	
+27	German	was	vas	A	
+86	Pennsylvania Dutch	WAAS		A	
+120	Luxembourgish	wat		A	
+121	German Switzerland	was		A	
+107	Gothic	ƕa		A	
+130	Oscan	píd		A	
+132	Umbrian	piře		A	
+112	Latin	quid	kʷid	A	
+17	Catalan	què	kɛ, ke	A	
+56	Portuguese	que, o que	kɨ, u kɨ	A	
+68	Spanish	que	ke	A	
+61	Sardinian Cagliari	ITTA		C	
+62	Sardinian Logudoro	CHI		A	
+63	Sardinian Nuoro	ITTE		C	
+85	French Creole Dominica	(KI)SA		A	
+76	Walloon	QUI, QWE		A	
+25	French	que	kə	A	
+57	Provencal	QUE		A	
+42	Ladin	CHE		A	
+146	Dolomite Ladino	che		A	
+123	Romansh	tgei		A	
+122	Friulian	ce, ce che		A	
+39	Italian	che	ke	A	
+59	Romanian	ce	ʧe	A	
+74	Vlach	CI		A	
+127	Old Irish	cid	kʹiðʹ	A	
+101	Middle Cornish	pandrə	pandrə	(A)	
+101	Middle Cornish	py	pi	A	
+148	Old Breton	pi / pe		A	
+172	Middle Breton	petra	peˈtra	D	
+172	Middle Breton	pe	ˈpe	A	
+12	Breton	petra		A, D	
+150	Old Welsh	pa / pi		A	
+79	Welsh	BETH		(A), (D)	
+79	Welsh	pa		A	
+38	Irish	cad		A	
+38	Irish	caidé		(E)	
+115	Scottish Gaelic	dè, de	d̊ʲeː	E	
+115	Scottish Gaelic	ciod		(A)	
+147	Manx	cre		A	
+5	[Legacy] Albanian T	çfarë	tʃfaɹ(ə)	A	
+5	[Legacy] Albanian T	çë		A	
+29	[Legacy] Greek K	TI		A	
+28	[Legacy] Greek D	TI		A	
+30	[Legacy] Greek Md	TI		A	
+64	[Legacy] Serbocroatian	STO		A	
+113	[Legacy] Serbian	šta	ʃtâ	A	
+89	[Legacy] Bulgarian P	STO		A	
+49	[Legacy] Macedonian	STO		A	
+94	[Legacy] Russian P	STO		A	
+93	[Legacy] Polish P	CO		A	
+90	[Legacy] Byelorussian P	STO		A	
+98	[Legacy] Ukrainian P	SCO		A	
+19	[Legacy] Czech E	CO		A	
+96	[Legacy] Slovak P	CO		A	
+91	[Legacy] Czech P	CO		A	
+67	[Legacy] Slovenian	KAY		A	
+45	[Legacy] Lithuanian O	KA		A	
+11	[Legacy] Brazilian	que, o que	ki, u ki	A	
+142	[Legacy] German Munich	was		A	
+84	[Legacy] French Creole C	KI SA		A	
+14	[Legacy] Breton St	pe		A	
+13	[Legacy] Breton Se	PETRA		A	
+78	[Legacy] Welsh C	BETH		A	
+37	[Legacy] Irish A	CAD		A	

@@ -1,0 +1,149 @@
+80	Hittite	kuwapi		A	
+133	Luvian	kuwati			
+81	Tocharian A	kupre		A, B	
+81	Tocharian A	äntā		F	
+82	Tocharian B	ente		F	
+88	Albanian	kur		A	
+143	Standard Albanian	kur		A	
+2	Albanian Sicily	kur		A	
+4	Albanian Corinth	kur		A	
+3	Albanian Gheg	kur		A	
+6	Albanian Tosk	kur		A	
+110	Ancient Greek	πότε	póte	A	
+32	Greek	πότε	ˈpo̞te̞	A	
+31	Greek Lesbos	POTE		A	
+129	Classical Armenian	երբ	erb	B	
+129	Classical Armenian	յորժամ	yoržam		
+8	Armenian Eastern	երբ	jɛɾpʰ	B	
+7	Armenian Western	երբ	jɛɾpʰ	B	
+128	Avestan	kaδa		A	
+136	Sogdian	krwδ		A	
+75	Wakhi	TSOGHD, TSOGHDER, TSEWUXT		A	
+9	Baluchi	KHADHE		A	
+72	Tajik	KAJ		A	
+54	Persian	key	kʰej	A	
+77	Waziri	KALLA		A	
+1	Pashto	KELA		A	
+138	Shughni	ca waxt		A	
+139	Sarikoli	čum		A	
+52	Ossetic	kaed	kæd	A	
+52	Ossetic	kuy	kwɨ	A	
+124	Ossetic Iron	kɐd/kʷy	kɐd/kʷy	A	
+125	Ossetic Digor	kɐd/ku	kɐd/ku	A	
+141	Kata-viri	koi		A	
+105	Vedic Sanskrit	kadā́		A	
+162	Pāḷī	kadā		A	
+41	Khaskura	KAILE		A	
+51	Nepali	KABA		A	
+106	Assamese	ketia	ketia	A	
+102	Oriya	ketebele	ketebele	A	
+10	Bengali	kokhon	kɒ'khɒn	A	
+10	Bengali	kobe	ko:bɛ		
+111	Bihari	kəhiya (interrog.?)	kəhiya	A	
+144	Magahi	कखनी	kəkʰni		
+151	Bhojpuri	kĕhbĕrá, kĕhjún		A	
+104	Marwari	kadyāṃ		A	
+35	Hindi	keb	kəb	A	
+119	Urdu	کب	kəb	A	
+103	Sindhi	kaḍ̄ehĩ		A	
+43	Lahnda	KERE WELE		A	
+53	Punjabi	KED, KEDO		A	
+33	Gujarati	RYARE			
+50	Marathi	kẽmwhā	'kẽmwʰa	A	
+40	Kashmiri	KAR		A	
+65	Sinhalese	KOI		A	
+34	Romani Greece	KANA		A	
+100	Old Church Slavonic	коли	kɔli	A	
+100	Old Church Slavonic	когда, къгда	kɔgdɑ, kʊ̆ɡdɑ	A	
+95	Serbo-Croatian	kad, kada	kâd, ˈkǎda	A	
+15	Bulgarian	кога	ku'ga	A	
+92	Macedonian	кога	ˈkoɡa	A	
+60	Russian	когда	kag'da	A	
+55	Polish	kiedy	ˈkʲɛdɘ̟	A	
+16	Belarusian	калі	kaˈlʲi	A	
+73	Ukrainian	коли	kɔˈɫɪ	A	
+66	Slovak	kedy	ˈkɛdi	A	
+18	Czech	kdy	ɡdɪ	A	
+48	Sorbian Upper	hdy	dɘ̟	A	
+47	Sorbian Lower	ga	ɡa	A	
+97	Slovenian	kdaj	ɡdǎːj, ɡdâːj	A	
+108	Old Prussian	kadan		A	
+44	Latvian	kad		A	
+46	Lithuanian	KADA		A	
+109	Old Norse	hvénær	ˈɣveːˌnɛːr	A	
+36	Icelandic	hvenær	ˈxʷɛːnaiːr, kʰvɛːnaiːr	A	
+23	Faroese	nær	nɛaːɹ	A	
+58	Norwegian Riksmal	når	noːɾ	A	
+159	Stavangersk	når	noːʁ	A	
+157	Old Swedish	när	næːr	A	
+69	Swedish	när	næ:r	A	
+71	Swedish Vilhelmina	NAR		A	
+70	Swedish Uppland	NAR		A	
+145	Elfdalian	ną̊r	nõːr	A	
+20	Danish	hvornår, når	vɒˈnɒˀ, nɒˀ	A	
+158	Danish Fjolde	ven, vindər	ven vinʲəɹ	(A)	
+161	Gutnish Lau	när	nɛːr	A	
+99	Old English	hwonne		A	
+22	English	when	wɛn	A	
+26	Frisian	HONEAR, HWENNEAR		A	
+21	Dutch	wanneer	wɑ'ner	A	
+24	Flemish	WANNEER		A	
+83	Afrikaans	WANNEER, TOE, AS		A	
+87	Sranan	HOETEM			
+126	Old High German	wanne		A	
+27	German	wann	van	A	
+86	Pennsylvania Dutch	WONN		A	
+120	Luxembourgish	wéini		A	
+121	German Switzerland	wenn/wo		A	
+107	Gothic	ƕan		A	
+112	Latin	quandō	ˈkwandoː	A	
+17	Catalan	quan	kwan	A	
+56	Portuguese	quando	ˈkuɐ̃ðu	A	
+68	Spanish	cuando	'kwando	A	
+61	Sardinian Cagliari	KANDU		A	
+62	Sardinian Logudoro	CANDU		A	
+63	Sardinian Nuoro	KANDO		A	
+85	French Creole Dominica	KITA		D	
+76	Walloon	CWAND, QWAND		A	
+25	French	quand	kɑ̃	A	
+57	Provencal	QUAND, QUOURO		A	
+42	Ladin	CUR, CURA		A	
+146	Dolomite Ladino	can, incan		A	
+123	Romansh	cur		A	
+122	Friulian	cuant		A	
+39	Italian	quando	'kwando	A	
+59	Romanian	când		A	
+74	Vlach	KYNTU		A	
+127	Old Irish	cuin	kunʹ	A	
+101	Middle Cornish	pan termən	pan termən		
+101	Middle Cornish	p’eur	pø:r	A	
+172	Middle Breton	peur, pe eur	ˈpøːr, pe ˈøːr		
+12	Breton	pegoulz		A	
+79	Welsh	pryd		A	
+38	Irish	cathain	ˈkahənʲ	A	
+115	Scottish Gaelic	cuin		A	
+5	[Legacy] Albanian T	kur		A	
+29	[Legacy] Greek K	POTE		A	
+28	[Legacy] Greek D	POTE		A	
+30	[Legacy] Greek Md	POTE		A	
+64	[Legacy] Serbocroatian	KADA		A	
+113	[Legacy] Serbian	kad	kâd	A	
+89	[Legacy] Bulgarian P	KOGA		A	
+49	[Legacy] Macedonian	koga	ˈkɔɡa	A	
+94	[Legacy] Russian P	KOGDA		A	
+93	[Legacy] Polish P	KIEDY		A	
+90	[Legacy] Byelorussian P	KALI		A	
+98	[Legacy] Ukrainian P	KOLY		A	
+19	[Legacy] Czech E	KEDI		A	
+96	[Legacy] Slovak P	KEDY		A	
+91	[Legacy] Czech P	KDY		A	
+67	[Legacy] Slovenian	KEDAJ		A	
+45	[Legacy] Lithuanian O	KADA		A	
+11	[Legacy] Brazilian	quando	ˈkuɐ̃du	A	
+142	[Legacy] German Munich	als			
+142	[Legacy] German Munich	wann		A	
+84	[Legacy] French Creole C	KI TA		D	
+14	[Legacy] Breton St	peur, pegoulz	pø:r, pe'guls	A	
+13	[Legacy] Breton Se	PEUR		A	
+78	[Legacy] Welsh C	PRYD		A	
+37	[Legacy] Irish A	CATHAIN		A	

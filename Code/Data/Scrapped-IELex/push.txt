@@ -1,0 +1,188 @@
+80	Hittite	suwezzi			
+81	Tocharian A	nätkā-		W	
+82	Tocharian B	nätkanaṃ		W	
+88	Albanian	SHTYP		X	
+143	Standard Albanian	shtyj		X	
+2	Albanian Sicily	STIN		X	
+4	Albanian Corinth	STIIN (AOR. STIIJTA)		X	
+6	Albanian Tosk	STYN, AOR. STYVA		X	
+110	Ancient Greek	ὠθέω	ɔːtʰéɔː	Y	
+32	Greek	σπρώχνω	ˈspro̞xno̞	Y	
+31	Greek Lesbos	SKOUNTO		Z	
+129	Classical Armenian	młem			
+8	Armenian Eastern	hrel	həˈɾɛl	D	
+8	Armenian Eastern	młel			
+8	Armenian Eastern	sełmel			
+7	Armenian Western	HUREL		D	
+75	Wakhi	SUKE DI-, TECUV-			
+9	Baluchi	TELAN (SB.)		E	
+72	Tajik	TELA DODAN, FUSURDAN		E	
+54	Persian	HOL DADAN			
+77	Waziri	PORI WAHEL		A	
+1	Pashto	PORI VAHEL		A	
+138	Shughni	barγā dedow			
+52	Ossetic	ycxojyn	sχojɨn	O	
+124	Ossetic Iron	fešχoj-	fešχoj-		
+125	Ossetic Digor	ɐsχwaj-	ɐsχwaj-	O	
+105	Vedic Sanskrit	nudáti		W	
+105	Vedic Sanskrit	tudáti		(X)	
+162	Pāḷī	nudati		W	
+41	Khaskura	GHACHYA DINU		Q	
+51	Nepali	GHACETNU		Q	
+51	Nepali	DHAKELNU		F	
+51	Nepali	THELNU		Aa	
+106	Assamese	thɛl	thɛl	Aa	
+102	Oriya	ṭheliba	ʈheliba	Aa	
+102	Oriya	dhɔka deba	dhɔka deba	F	
+10	Bengali	DHAKKA		F	
+10	Bengali	DEOA			
+111	Bihari	dhəkləb	dhəkləb	F	
+144	Magahi	ठकेलना	d̪ʰəkelnɑ		
+104	Marwari	rallō			
+104	Marwari	ḍhavakā			
+35	Hindi	DEBANA			
+119	Urdu	دھکیلنا	d̪ʰəkelnə	F	
+43	Lahnda	KHICCEN			
+53	Punjabi	TIKKENA			
+33	Gujarati	DHEKKELWU		F	
+50	Marathi	dhakalne	dʱəkəl'ɳe	F	
+40	Kashmiri	ZIRU DINU			
+65	Sinhalese	KARANAWA			
+65	Sinhalese	TALLU		Aa	
+34	Romani Greece	SPILDAV			
+100	Old Church Slavonic	ривати	rivɑti	(Ak)	
+95	Serbo-Croatian	gurati	ˈɡǔːrati	T	
+15	Bulgarian	butam	ˈbutəm	I	
+92	Macedonian	турка	ˈturka	Al	
+60	Russian	толкать	tɔɫ'katʲ	J	
+55	Polish	wcisnąć	ˈftɕisnɔɲtɕ	(Aj)	
+55	Polish	pchać	pxatɕ	K	
+16	Belarusian	пхаць	pxatsʲ	K	
+16	Belarusian	націснуць	naˈtsʲisnutsʲ	(Aj)	
+73	Ukrainian	натиснути	naˈtɪsnutɪ	(Aj)	
+73	Ukrainian	пхати	ˈpxatɪ	K	
+66	Slovak	tlačiť	ˈtlatʃic	J	
+66	Slovak	strkať	ˈstr̩kac	M	
+18	Czech	tlačit	ˈtlatʃɪt	J	
+48	Sorbian Upper	tłóčić	ˈtwʊtʃitʃ	J	
+47	Sorbian Lower	tłocyś	ˈtwɔtsɘ̟ɕ	J	
+97	Slovenian	pehati	pəˈxǎːti	K	
+108	Old Prussian	kūmpīnt			
+44	Latvian	stumj		X	
+44	Latvian	bĩda		W	
+46	Lithuanian	STUMTI		X	
+109	Old Norse	hrinda	ˈɣrinda	(W)	
+109	Old Norse	skýfa	ˈskuːfa	N	
+109	Old Norse	skjóta	ˈskjoːta	(C)	
+36	Icelandic	ýta	ˈiːtʰa		
+36	Icelandic	þrýsta	ˈθrista	R	
+36	Icelandic	hrinda	ˈr̥ɪnd̥a	W	
+23	Faroese	trýsta	ˈtʰɹʊista	R	
+23	Faroese	rinda	ˈɹɪnd̥a	(W)	
+23	Faroese	skjóta	ʃɔuːtʰa	C	
+23	Faroese	skumpa	ˈskʊmpa	Ag	
+23	Faroese	skúgva	ˈskɪɡ̊va	N	
+58	Norwegian Riksmal	skubbe		(Ai)	
+58	Norwegian Riksmal	skyve	ˈʃỳːʋə	N	
+58	Norwegian Riksmal	trykke		(Ah)	
+58	Norwegian Riksmal	dytte	ˈdʏ̀tːə	Ab	
+58	Norwegian Riksmal	puffe	ˈpʉ̀fːə	(Ad)	
+159	Stavangersk	stöïda	ˈstœɪ̀da	(X)	
+159	Stavangersk	skua	ˈskʉ̀ːa	N	
+159	Stavangersk	dytta	ˈdʏ̀tːə	Ab	
+159	Stavangersk	trykka	ˈtʁʏ̀kːa	(Ah)	
+157	Old Swedish	skiuva	ˈskjuːva	N	
+157	Old Swedish	rinda	ˈrinda	W	
+69	Swedish	puffa		(Ad)	
+69	Swedish	trycka		(Ah)	
+69	Swedish	skjuva	ˈɧʉ̀ːva	N	
+69	Swedish	stöta	ˈstø̀:ta	(X)	
+69	Swedish	skjuta	ˈɧʉ̀:ta	C	
+71	Swedish Vilhelmina	FLOJ			
+71	Swedish Vilhelmina	STYR		X	
+70	Swedish Uppland	KNUFFA TILL			
+70	Swedish Uppland	SKJUTA PA		C	
+145	Elfdalian	tryttja	ˈtrỳt͡ʃːɑ	(Ah)	
+145	Elfdalian	bukå	ˈbʉ̀kɔ	Af	
+145	Elfdalian	rekå	ˈrɛ̀kɔ	Ae	
+20	Danish	skyde	ˈsɡ̊ʰyːðə	C	
+20	Danish	støde	ˈsd̥ø:ðə	X	
+20	Danish	skubbe	ˈsɡ̊ɔb̥ə	(Ai)	
+158	Danish Fjolde	skyv	sxyw	N	
+158	Danish Fjolde	styøt	sdyød	X	
+160	Old Gutnish	schiauta		C	
+160	Old Gutnish	rinda		W	
+161	Gutnish Lau	skjautä	ˈskjautɛ	C	
+99	Old English	scȳfþ		N	
+22	English	to push	pʊʃ	(P)	
+26	Frisian	dompe	'dompə		
+26	Frisian	triuwe	'trjo.uə	B	
+21	Dutch	schuiven	'sχœyvə(n)	N	
+21	Dutch	duwen	'dywə(n)	X	
+24	Flemish	DUWEN		X	
+83	Afrikaans	VOORT-DRYF, VOORT-DRYWE		B	
+126	Old High German	sciubit		N	
+27	German	stossen	'ʃto:sn̩	X	
+86	Pennsylvania Dutch	SCHIEP		N	
+120	Luxembourgish	drécken			
+121	German Switzerland	schtoosse		X	
+107	Gothic	afskiubiþ		N	
+112	Latin	trūdere	ˈtruːdere		
+17	Catalan	empènyer	əm'pɛɲə	L	
+56	Portuguese	empurrar	ẽpuˈʀaɾ	G	
+68	Spanish	empujar	empu'xaɾ	P	
+61	Sardinian Cagliari	SPINGI		S	
+62	Sardinian Logudoro	ISPINGHERE		S	
+63	Sardinian Nuoro	ISPINGERE		S	
+85	French Creole Dominica	PUSE		P	
+76	Walloon	BOUTER		H	
+25	French	pousser	puse	P	
+57	Provencal	EMPEGNE		L	
+57	Provencal	BUTA		H	
+42	Ladin	SBUERLER, STUMPLER			
+146	Dolomite Ladino	pende, spende		S	
+123	Romansh	stuschar			
+122	Friulian	sburtâ			
+39	Italian	spingere	'spindʒere	S	
+59	Romanian	A IMBRINCI			
+59	Romanian	a împinge		S	
+74	Vlach	PINKU		S	
+101	Middle Cornish	pokya			
+101	Middle Cornish	herdhya	'hɛrðja		
+172	Middle Breton	boutaff, bountaff	ˈbutaṽ, ˈbuntaṽ	(H)	
+172	Middle Breton	poulsaff	ˈpulsaṽ	Am, (P)	
+12	Breton	ˈboutañ, ˈbountañ	ˈbutã, ˈbuntã	(H)	
+12	Breton	poulzañ	ˈpulsã	Am, (P)	
+79	Welsh	gwthio		V	
+38	Irish	DRIGIM			
+38	Irish	RAITHIM			
+38	Irish	brúigh		Ac	
+115	Scottish Gaelic	brùth		Ac	
+5	[Legacy] Albanian T	ME SHTYRE		X	
+29	[Legacy] Greek K	OTHO		Y	
+28	[Legacy] Greek D	SPROCHNO		Y	
+30	[Legacy] Greek Md	SPROCHNO		Y	
+30	[Legacy] Greek Md	SKOUNTO		Z	
+64	[Legacy] Serbocroatian	GURATI		T	
+113	[Legacy] Serbian	gurati	ɡǔːrati	T	
+113	[Legacy] Serbian	gurnuti		T	
+89	[Legacy] Bulgarian P	TLASKAM		J	
+49	[Legacy] Macedonian	BUTNE		I	
+49	[Legacy] Macedonian	KOSKA			
+94	[Legacy] Russian P	TOLKAT		J	
+93	[Legacy] Polish P	PCHAC		K	
+90	[Legacy] Byelorussian P	PCHAC		K	
+98	[Legacy] Ukrainian P	STOUCHATY		U	
+19	[Legacy] Czech E	TLACIT		J	
+96	[Legacy] Slovak P	STRKNUT		M	
+91	[Legacy] Czech P	STRKATI		M	
+67	[Legacy] Slovenian	PORIVAT			
+45	[Legacy] Lithuanian O	STUMDYTI		X	
+11	[Legacy] Brazilian	EMPURRAR		G	
+142	[Legacy] German Munich	drücken			
+84	[Legacy] French Creole C	PUSE, VOYE		P	
+14	[Legacy] Breton St	bountañ	'bũntã	H	
+13	[Legacy] Breton Se	BOUTEIN		H	
+78	[Legacy] Welsh C	GWTHIO, HWPO		V	
+37	[Legacy] Irish A	BRUGHADH		Ac	
+37	[Legacy] Irish A	SATHADH			

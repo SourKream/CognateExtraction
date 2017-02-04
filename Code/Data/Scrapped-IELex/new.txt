@@ -1,0 +1,166 @@
+114	Proto-Indo-European	*néu̯os		A	
+80	Hittite	nēwas		A	
+133	Luvian	nāwis			
+81	Tocharian A	ñu		A	
+82	Tocharian B	ñuwe		A	
+88	Albanian	ri		B	
+143	Standard Albanian	i ri, e re		B	
+2	Albanian Sicily	ri		B	
+4	Albanian Corinth	ri		B	
+3	Albanian Gheg	ri		B	
+6	Albanian Tosk	ri		B	
+173	Mycenaean Greek	ne-wo	néu̯o-	A	
+110	Ancient Greek	καινός	kai̯nós	(C)	
+110	Ancient Greek	νέος	néos	A	
+152	Tsakonian	τζινουρτζε		C	
+32	Greek	καινούργιος	ce̞ˈnurʝo̞s	C	
+32	Greek	νέος	ˈneos	(A)	
+31	Greek Lesbos	KAINOURGIOS		C	
+129	Classical Armenian	նոր	nor	A	
+8	Armenian Eastern	նոր	noɾ	A	
+7	Armenian Western	NOR		A	
+128	Avestan	nauuō		A	
+136	Sogdian	nwyy		A	
+75	Wakhi	TOZA		A	
+75	Wakhi	SEGHD			
+9	Baluchi	NOKH		A	
+118	Kurdish	nû		A	
+137	Zazaki	newe		A	
+72	Tajik	TOZA		E	
+72	Tajik	NAV		A	
+72	Tajik	NAVBAROMAD		A	
+54	Persian	TAZE		E	
+77	Waziri	NEWAI		A	
+1	Pashto	NEVAJ		A	
+138	Shughni	tirák			
+138	Shughni	naw		A	
+139	Sarikoli	nыǰ		A	
+52	Ossetic	naeuaeg	næwæɡ	A	
+124	Ossetic Iron	nog	nog	A	
+125	Ossetic Digor	nɐwɐg	nɐwɐg	A	
+141	Kata-viri	nũi		A	
+154	Vasi-vari	unü		A	
+153	Askunu	nuŋa, əstə		A	
+105	Vedic Sanskrit	návas		A	
+162	Pāḷī	nava		A	
+41	Khaskura	NAYA, NAULA		A	
+51	Nepali	NAULO, NAYA		A	
+106	Assamese	nɔtun	nɔtun	A	
+102	Oriya	nua	nua	A	
+10	Bengali	notun	nɔt̪un	A	
+10	Bengali	NOEA		A	
+111	Bihari	nəb	nəb	A	
+144	Magahi	नया	nəjɑ		
+104	Marwari	navallā		A	
+35	Hindi	neya	n̪əja:	A	
+119	Urdu	نیا	nəjɑ	A	
+103	Sindhi	nãõ		A	
+43	Lahnda	NEWA		A	
+53	Punjabi	NEVA		A	
+33	Gujarati	NEWU		A	
+50	Marathi	nawīn	nə'wi:n	A	
+40	Kashmiri	NOWU		A	
+65	Sinhalese	NAVA		A	
+65	Sinhalese	ALUT			
+34	Romani Greece	NEVO		A	
+100	Old Church Slavonic	новъ	nɔvʊ̆	A	
+95	Serbo-Croatian	nov	nôv	A	
+15	Bulgarian	нов	nɔv	A	
+92	Macedonian	нов	nov	A	
+60	Russian	новый	'nɔvɨj	A	
+55	Polish	nowy	ˈnɔvɘ̟	A	
+16	Belarusian	новы	ˈnɔvɨ	A	
+73	Ukrainian	новий	nɔˈvɪj	A	
+66	Slovak	nový	ˈnɔviː	A	
+18	Czech	nový	ˈnɔviː	A	
+48	Sorbian Upper	nowy	ˈno.ɘ̟	A	
+47	Sorbian Lower	nowy	ˈnowɘ̟	A	
+97	Slovenian	nov	nɔw	A	
+108	Old Prussian	nawans		A	
+44	Latvian	jaûns		D	
+46	Lithuanian	NAUJAS		A	
+109	Old Norse	nýr	nyːr	A	
+36	Icelandic	nýr	niːr	A	
+23	Faroese	nýggjur	ˈnʊd̥ʒːʊɹ	A	
+58	Norwegian Riksmal	ny	nyː	A	
+159	Stavangersk	nye	ˈnyːə	A	
+157	Old Swedish	nyr	nyːr	A	
+69	Swedish	ny	nyː	A	
+71	Swedish Vilhelmina	NY		A	
+70	Swedish Uppland	NY		A	
+145	Elfdalian	ny	nyː	A	
+20	Danish	ny	nyˀ	A	
+158	Danish Fjolde	nøj	nøj	A	
+160	Old Gutnish	nyr		A	
+161	Gutnish Lau	nöiar	ˈnœɪar	A	
+99	Old English	nīowe		A	
+22	English	new	nju:	A	
+26	Frisian	nij	nɛi	A	
+21	Dutch	nieuw	niw	A	
+24	Flemish	NIEUW		A	
+83	Afrikaans	NUWE		A	
+87	Sranan	NJOE		A	
+126	Old High German	niuwi		A	
+27	German	neu	nɔ‿y	A	
+86	Pennsylvania Dutch	NEI		A	
+120	Luxembourgish	nei		A	
+121	German Switzerland	nöi		A	
+107	Gothic	niujis		A	
+112	Latin	nouus	ˈnowus	A	
+17	Catalan	nou	nɔuw	A	
+56	Portuguese	novo	'novu	A	
+68	Spanish	nuevo	'nweβo	A	
+61	Sardinian Cagliari	NOU		A	
+62	Sardinian Logudoro	NOU		A	
+63	Sardinian Nuoro	NOVU		A	
+85	French Creole Dominica	NUVO		A	
+76	Walloon	NOVE		A	
+25	French	nouveau	nuvo	A	
+57	Provencal	NOUVEU		A	
+42	Ladin	NOUV, NOV		A	
+146	Dolomite Ladino	nef		A	
+123	Romansh	niev, nui		A	
+122	Friulian	gnûf		A	
+39	Italian	nuovo	'nwɔvo	A	
+59	Romanian	NOU		A	
+74	Vlach	NAWE		A	
+140	Gaulish	nouiios		A	
+140	Gaulish	nouio-/neuio-		A	
+127	Old Irish	úr	u:r	(F)	
+127	Old Irish	núae	nuʔe	A	
+101	Middle Cornish	nowydh	'nɔwɪθ	A	
+148	Old Breton	nouuid		A	
+172	Middle Breton	neuez, nevez	ˈneːveð	A	
+12	Breton	nevez	ˈneːves, ˈneːvǝ	A	
+150	Old Welsh	nouid		A	
+79	Welsh	newydd		A	
+38	Irish	úr	uːɾˠ	(F)	
+38	Irish	nua	nˠuːə	A	
+115	Scottish Gaelic	nuadh		(A)	
+115	Scottish Gaelic	ùr	uːɾ	F	
+147	Manx	oor		(F)	
+147	Manx	noa		A	
+5	[Legacy] Albanian T	ri	ɾi	B	
+29	[Legacy] Greek K	NEOS		A	
+28	[Legacy] Greek D	KAINOURGIOS		C	
+30	[Legacy] Greek Md	KAINOURGIOS		C	
+64	[Legacy] Serbocroatian	NOV		A	
+113	[Legacy] Serbian	nov		A	
+89	[Legacy] Bulgarian P	NOV		A	
+49	[Legacy] Macedonian	NOB		A	
+94	[Legacy] Russian P	NOVYJ		A	
+93	[Legacy] Polish P	NOWY		A	
+90	[Legacy] Byelorussian P	NOVY		A	
+98	[Legacy] Ukrainian P	NOVYJ		A	
+19	[Legacy] Czech E	NOVE		A	
+96	[Legacy] Slovak P	NOVY		A	
+91	[Legacy] Czech P	NOVY		A	
+67	[Legacy] Slovenian	NOVA		A	
+45	[Legacy] Lithuanian O	NAUJAS		A	
+11	[Legacy] Brazilian	NOVO		A	
+142	[Legacy] German Munich	neu		A	
+84	[Legacy] French Creole C	NUVO		A	
+14	[Legacy] Breton St	nevez	ˈneve	A	
+13	[Legacy] Breton Se	NEUE		A	
+78	[Legacy] Welsh C	NEWYDD		A	
+37	[Legacy] Irish A	NUA		A	

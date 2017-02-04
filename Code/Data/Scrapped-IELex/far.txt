@@ -1,0 +1,166 @@
+114	Proto-Indo-European	*u̯i-itós		G	
+80	Hittite	duwān		E	
+81	Tocharian A	lo		P	
+82	Tocharian B	lau		P	
+88	Albanian	larg		(C)	
+88	Albanian	GJAN		(O)	
+143	Standard Albanian	larg		(C)	
+2	Albanian Sicily	GHARGHU		(O)	
+4	Albanian Corinth	PARE		B	
+3	Albanian Gheg	GJAT		O	
+3	Albanian Gheg	larg		(C)	
+6	Albanian Tosk	larg		(C)	
+110	Ancient Greek	πόρρω	pórːɔː	B	
+32	Greek	μακριά	maˌkriˈa	H	
+31	Greek Lesbos	MAKRUA		H	
+129	Classical Armenian	հեռի	hɛri	B	
+8	Armenian Eastern	հեռու	hɛˈru	B	
+7	Armenian Western	հեռու	hɛru	B	
+128	Avestan	dūraē		E	
+131	Old Persian	dūraiy		E	
+136	Sogdian	dwr		E	
+75	Wakhi	DIR		E	
+9	Baluchi	DIR		E	
+137	Zazaki	dūrī		E	
+72	Tajik	DUR		E	
+54	Persian	DUR		E	
+77	Waziri	WURIYA		A	
+77	Waziri	LIRE		E	
+1	Pashto	LIRI		E	
+138	Shughni	dar		T	
+138	Shughni	dūr		E	
+139	Sarikoli	δar		T	
+52	Ossetic	dard	dard	Q	
+124	Ossetic Iron	dard	dard	Q	
+125	Ossetic Digor	dard	dard	Q	
+141	Kata-viri	bʌdʸur		E	
+105	Vedic Sanskrit	dūrḗ		E	
+162	Pāḷī	dūra		E	
+41	Khaskura	TARA		I	
+51	Nepali	DUR		E	
+106	Assamese	dūr(âi)		E	
+102	Oriya	durɔ	durɔ	E	
+10	Bengali	DUR		E	
+111	Bihari	dur	dur	E	
+144	Magahi	दूर्	d̪ur	E	
+104	Marwari	aḷagō		R	
+104	Marwari	dur	dur	E	
+104	Marwari	āntarai		I	
+35	Hindi	DUR		E	
+119	Urdu	دور	d̪uɾ	E	
+43	Lahnda	DUR		E	
+53	Punjabi	PERE		S	
+33	Gujarati	DUR		E	
+50	Marathi	dūr	duɾ	E	
+40	Kashmiri	DUR, DURU		E	
+65	Sinhalese	DURA		E	
+34	Romani Greece	DUR		E	
+100	Old Church Slavonic	далєчє	dɑlɛtʃɛ	D	
+95	Serbo-Croatian	daleko	daˈlɛ̌kɔ	D	
+15	Bulgarian	далече	dəˈlɛtʃɘ	D	
+92	Macedonian	далеку	ˈdalɛku	D	
+60	Russian	далеко	dalʲɛ'kɔ	D	
+55	Polish	daleko	daˈlɛkɔ	D	
+16	Belarusian	далёка	daˈlʲɔka	D	
+73	Ukrainian	далеко	daˈɫɛkɔ	D	
+66	Slovak	ďaleko	ˈɟalɛkɔ	D	
+18	Czech	daleko	ˈdalɛkɔ	D	
+48	Sorbian Upper	daloko	ˈdalɔkɔ	D	
+47	Sorbian Lower	daloko	ˈdalʲɔkɔ	D	
+97	Slovenian	daleč	ˈdǎːlɛtʃ	D	
+44	Latvian	tâlu		J	
+46	Lithuanian	TOLIMAS		J	
+109	Old Norse	langt	lanɣt	(M)	
+109	Old Norse	fjarri	ˈfjarːi	B	
+36	Icelandic	langt	ˈlauŋɡ̊t	M	
+36	Icelandic	fjarri	ˈfjarːɪ	B	
+23	Faroese	langt burtur	lɛŋkt ˈb̥ʊɻ̊ʈʊɹ	M	
+23	Faroese	fjart	fjaɻ̊ʈ	B	
+58	Norwegian Riksmal	langt	laŋkt	M	
+58	Norwegian Riksmal	fjern	fjæːɳ	(B)	
+159	Stavangersk	lanɡt bårte	laŋkt ˈbɔ̀ʁtə	M	
+157	Old Swedish	langt	laŋkt	M	
+157	Old Swedish	fiär	fjæːr	B	
+69	Swedish	långt borta	lɔŋkt ˈbɔ̀ʈːa	M	
+69	Swedish	fjärran	ˈfjæ̀rːan	B	
+71	Swedish Vilhelmina	LANGT		M	
+70	Swedish Uppland	FJARRAN		B	
+70	Swedish Uppland	LANGT BORD		M	
+145	Elfdalian	launggt brott	ˌlɑʉŋgt ˈbrotː	M	
+20	Danish	langt	lɑŋɡ̊d̥	M	
+20	Danish	fjern	fjɛɐ̯n	(B)	
+158	Danish Fjolde	låångt	lɔːŋd	M	
+160	Old Gutnish	fierri		B	
+160	Old Gutnish	langt		M	
+161	Gutnish Lau	langgt	ˈlaŋɡt	M	
+99	Old English	feor		B	
+22	English	far	fɑ:	B	
+26	Frisian	fier	fi.ər	B	
+21	Dutch	ver	vɛr	B	
+24	Flemish	VER		B	
+83	Afrikaans	VER		B	
+87	Sranan	FARAWEI, FARA		B	
+126	Old High German	fer(ro)		B	
+27	German	weit	vait	G	
+86	Pennsylvania Dutch	WEIT		G	
+120	Luxembourgish	wäit		G	
+120	Luxembourgish	wäit ewech		G	
+121	German Switzerland	wit		G	
+107	Gothic	faírra		B	
+112	Latin	longē	ˈlongeː	(M)	
+112	Latin	procul	ˈprokul	B	
+17	Catalan	lluny	ʎuɲ	M	
+56	Portuguese	REMOTO			
+56	Portuguese	DISTANTE			
+56	Portuguese	longe	ˈlõʒɨ	M	
+68	Spanish	lejos	'lexos	N	
+61	Sardinian Cagliari	ATTESU			
+62	Sardinian Logudoro	LONTANU		M	
+63	Sardinian Nuoro	ILLARGU			
+85	French Creole Dominica	LWE		M	
+76	Walloon	LON		M	
+25	French	loin	lwɛ̃	M	
+57	Provencal	LUEN, LIUEN		M	
+42	Ladin	VIA			
+146	Dolomite Ladino	dalonz		M	
+123	Romansh	lontan		M	
+122	Friulian	lontan		M	
+39	Italian	lontano	lon'tano	M	
+59	Romanian	departe		K	
+74	Vlach	DEPARTE		K	
+127	Old Irish	fota	ɸoda	L	
+127	Old Irish	cían	kʹi:ən		
+101	Middle Cornish	pell	pɛl:	F	
+172	Middle Breton	pell	ˈpelː	F	
+12	Breton	lark			
+12	Breton	pell	ˈpɛlː	F	
+12	Breton	diabell	diaˈbɛl	(F)	
+79	Welsh	pell		F	
+38	Irish	sia			
+38	Irish	fada	ˈfˠɑd̪ˠə,ˈfˠad̪ˠə	L	
+115	Scottish Gaelic	fada	fad̪̊ə	L	
+5	[Legacy] Albanian T	larg		(C)	
+29	[Legacy] Greek K	MAKRAN		H	
+28	[Legacy] Greek D	MAKRIA		H	
+30	[Legacy] Greek Md	MAKRUA		H	
+64	[Legacy] Serbocroatian	DALEK		D	
+113	[Legacy] Serbian	dalek	dǎlek	D	
+89	[Legacy] Bulgarian P	DALEK		D	
+49	[Legacy] Macedonian	DALEKU		D	
+94	[Legacy] Russian P	DAL OKIJ		D	
+93	[Legacy] Polish P	DALEKI		D	
+90	[Legacy] Byelorussian P	DAL OKI		D	
+98	[Legacy] Ukrainian P	DALEKYJ		D	
+19	[Legacy] Czech E	DALEKO		D	
+96	[Legacy] Slovak P	D ALEKY		D	
+91	[Legacy] Czech P	DALEKY		D	
+67	[Legacy] Slovenian	DALEC		D	
+45	[Legacy] Lithuanian O	TOLUS		J	
+11	[Legacy] Brazilian	LONGE		M	
+142	[Legacy] German Munich	weit		G	
+84	[Legacy] French Creole C	LWE		M	
+14	[Legacy] Breton St	pell	pɛl	F	
+13	[Legacy] Breton Se	PELL		F	
+78	[Legacy] Welsh C	PELL		F	
+37	[Legacy] Irish A	FADA		L	
+37	[Legacy] Irish A	I BHFAD		L	

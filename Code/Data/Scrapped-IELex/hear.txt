@@ -1,0 +1,160 @@
+114	Proto-Indo-European	*k̑leu̯-/*k̑lu-		E	
+80	Hittite	istamaszi		M	
+133	Luvian	tūmmantitti		M	
+81	Tocharian A	klyoṣtär		E	
+82	Tocharian B	klyauṣäṃ		E	
+88	Albanian	dëgjoj		C	
+143	Standard Albanian	dëgjoj		C	
+2	Albanian Sicily	GEGEM		D	
+4	Albanian Corinth	GIGEM (AOR. GEJSE)		D	
+3	Albanian Gheg	ndëgoj		C	
+6	Albanian Tosk	dëgjoj		C	
+110	Ancient Greek	ἀκούω	akúɔː	B	
+32	Greek	ακούω	aˈkuˌo̞	B	
+31	Greek Lesbos	AKOUGO		B	
+129	Classical Armenian	լսեմ	lsem	E	
+8	Armenian Eastern	lsel	ləˈsɛl	E	
+7	Armenian Western	LUREL		E	
+128	Avestan	surunaoiti		E	
+131	Old Persian	xšnautiy		F	
+136	Sogdian	ptγwš-		K	
+75	Wakhi	KSUI-		F	
+9	Baluchi	ASKHANAGH, ASKHUTHA		F	
+118	Kurdish	bihîştin		L	
+137	Zazaki	āšnāwitiš		F	
+72	Tajik	šunidan	ʃunidæn	F	
+54	Persian	SHENIDAN		F	
+77	Waziri	WORWEDEL, ARWEDEL		A	
+1	Pashto	ARVEDEL		A	
+138	Shughni	x̆in		E	
+139	Sarikoli	x̆an : x̆ыd		E	
+52	Ossetic	x'ycyn	qusɨn	K	
+124	Ossetic Iron	quš-	quš-	K	
+125	Ossetic Digor	iʁos-	iʁos-	K	
+141	Kata-viri	sɨŋʌ-		E	
+154	Vasi-vari	nusi-		E	
+153	Askunu	poruj-, puruz-		N	
+105	Vedic Sanskrit	śr̥ṇṓti		E	
+162	Pāḷī	suṇāti		E	
+41	Khaskura	SUNNU		E	
+51	Nepali	SUNNU		E	
+106	Assamese	xun	xun	E	
+102	Oriya	suṇ-	suɳ-	E	
+10	Bengali	SONA		E	
+111	Bihari	sunəb	sunəb	E	
+144	Magahi	सुनना	sʊnnɑ	E	
+151	Bhojpuri	sun		E	
+104	Marwari	suɳ	suɳ	E	
+35	Hindi	SUNNA		E	
+119	Urdu	سُننا	sʊnnə	E	
+103	Sindhi	suṇaṇu		E	
+103	Sindhi	b̄undhu		O	
+43	Lahnda	SUNNEN		E	
+53	Punjabi	SUNENA		E	
+33	Gujarati	SAMBHELEWU		P	
+50	Marathi	aikne	'ə͜ikne	Q	
+40	Kashmiri	BOZUN		R	
+65	Sinhalese	AHANAWA		S	
+34	Romani Greece	ASUNAV		E	
+100	Old Church Slavonic	слышати	slɯʃati	E	
+95	Serbo-Croatian	čuti	ˈtʃûti	T	
+15	Bulgarian	чувам	ˈtʃuvəm	T	
+92	Macedonian	чуе	ˈtʃu.ɛ	T	
+60	Russian	слышать	'sɫɨʂatʲ	E	
+55	Polish	słyszeć	ˈswɘ̟ʃɛtɕ	E	
+16	Belarusian	чуць	tʂutsʲ	T	
+73	Ukrainian	чути	ˈtʂutɪ	T	
+66	Slovak	počuť	ˈpɔtʃuc	T	
+18	Czech	slyšet	ˈslɪʃɛt	E	
+48	Sorbian Upper	słyšeć	ˈswɘ̟ʃɛtʃ	E	
+47	Sorbian Lower	słyšaś	ˈswɘ̟ʂaɕ	E	
+97	Slovenian	slišati	ˈslǐːʃati	E	
+108	Old Prussian	kīrdeiti		H	
+44	Latvian	dzìrd		H	
+46	Lithuanian	GIRDE TI		H	
+109	Old Norse	heyra	ˈhɛyra	B	
+36	Icelandic	heyra	ˈheiːra	B	
+23	Faroese	hoyra	ˈhɔiːɹa	B	
+58	Norwegian Riksmal	høre	ˈhø̀ːɾə	B	
+159	Stavangersk	höïra	ˈhœɪ̀ʁa	B	
+157	Old Swedish	höra	ˈhøːra	B	
+69	Swedish	höra	ˈhœ̀:ra	B	
+71	Swedish Vilhelmina	HOR		B	
+70	Swedish Uppland	HORA		B	
+145	Elfdalian	ära	ˈæ̀ːrɑ	B	
+20	Danish	høre	ˈhø:ʌ	B	
+158	Danish Fjolde	hyør	hyøɹ	B	
+160	Old Gutnish	hoyra		B	
+161	Gutnish Lau	håirä	ˈhoɪrɛ	B	
+99	Old English	hīerþ		B	
+22	English	to hear	hɪə	B	
+26	Frisian	hearre	'jɛrə	B	
+21	Dutch	horen	'horə(n)	B	
+24	Flemish	HOOREN		B	
+83	Afrikaans	HOOR		B	
+87	Sranan	JERI		B	
+126	Old High German	hōrit		B	
+27	German	hören	'hørən	B	
+86	Pennsylvania Dutch	HAIIR		B	
+120	Luxembourgish	héieren		B	
+121	German Switzerland	ghöre		B	
+107	Gothic	hauseiþ			
+112	Latin	audīre	au̯ˈdiːre	G	
+17	Catalan	sentir	sən'ti	I	
+56	Portuguese	ouvir	oˈviɾ	G	
+68	Spanish	oír	o'iɾ	G	
+61	Sardinian Cagliari	INTENDI		J	
+62	Sardinian Logudoro	INTENDERE		J	
+63	Sardinian Nuoro	INTENNERE		J	
+85	French Creole Dominica	TAN		J	
+76	Walloon	ORE, OYI		G	
+25	French	entendre	ɑ̃tɑ̃dʀ	J	
+57	Provencal	AUSI		G	
+57	Provencal	ENTENDRE		J	
+42	Ladin	UDIR		G	
+146	Dolomite Ladino	sentì(r)		I	
+123	Romansh	sentir		I	
+123	Romansh	udir		G	
+123	Romansh	tedlar			
+122	Friulian	sintî		(I)	
+122	Friulian	uldî		G	
+39	Italian	udire	u'dire	G	
+39	Italian	sentire	sen'tire	I	
+59	Romanian	a auzi		G	
+74	Vlach	AVDU		G	
+140	Gaulish	cluiou		E	
+127	Old Irish	ro·cluinethar	roˈklunʹəθər	E	
+101	Middle Cornish	clewes	'klɛwɛs	E	
+172	Middle Breton	cleuet, clevet	ˈkleːvet	E	
+12	Breton	klevet	ˈklɛːvɛt	E	
+150	Old Welsh	clyw-		E	
+79	Welsh	clywed		E	
+38	Irish	cluin	kl̪ˠɪnʲ	E	
+38	Irish	clois	kl̪ˠɔʃ	E	
+115	Scottish Gaelic	cluinn		E	
+147	Manx	clashtyn		E	
+5	[Legacy] Albanian T	dëgjoj		(C)	
+29	[Legacy] Greek K	AKOUO		B	
+28	[Legacy] Greek D	AKOUO		B	
+30	[Legacy] Greek Md	AKOUO		B	
+64	[Legacy] Serbocroatian	CUTI		E	
+113	[Legacy] Serbian	slušati		E	
+113	[Legacy] Serbian	čuti	tʃûti	E	
+89	[Legacy] Bulgarian P	SLUSAM		E	
+49	[Legacy] Macedonian	DOCUE, CUE		E	
+94	[Legacy] Russian P	SLUSAT		E	
+93	[Legacy] Polish P	SLYSZEC		E	
+90	[Legacy] Byelorussian P	SLUCHAC		E	
+98	[Legacy] Ukrainian P	SLUCHATY		E	
+19	[Legacy] Czech E	CUT		E	
+96	[Legacy] Slovak P	SLYSAT		E	
+91	[Legacy] Czech P	SLYSETI		E	
+67	[Legacy] Slovenian	CUJES		E	
+45	[Legacy] Lithuanian O	GIRDETI		H	
+11	[Legacy] Brazilian	OUVIR		G	
+142	[Legacy] German Munich	hören		B	
+84	[Legacy] French Creole C	TAN		J	
+14	[Legacy] Breton St	klevet, klevout	'klɛ:vɛt, 'klɛ:vut	E	
+13	[Legacy] Breton Se	KLEUEIN		E	
+78	[Legacy] Welsh C	CLYWED		E	
+37	[Legacy] Irish A	CLOS		E	

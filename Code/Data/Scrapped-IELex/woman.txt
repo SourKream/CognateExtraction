@@ -1,0 +1,214 @@
+114	Proto-Indo-European	h₁esor-			
+114	Proto-Indo-European	*gʷḗn		D	
+80	Hittite	*kuwanz		D	
+133	Luvian	wānas		D	
+133	Luvian	wanattis		D	
+81	Tocharian A	kuli		Q	
+82	Tocharian B	klyiye		Q	
+88	Albanian	grua		C	
+88	Albanian	zonjë			
+143	Standard Albanian	grua		C	
+2	Albanian Sicily	grua		C	
+4	Albanian Corinth	grua		C	
+6	Albanian Tosk	grua		C	
+173	Mycenaean Greek	*ku-ne	*gune̞ː	D	
+110	Ancient Greek	γυνή	ɡynɛ́ː	D	
+152	Tsakonian	γουναικα		D	
+32	Greek	γυναίκα	ʝiˈne̞ka	D	
+31	Greek Lesbos	GUNAIKA		D	
+129	Classical Armenian	կին	kin	D	
+8	Armenian Eastern	կին	kin	D	
+7	Armenian Western	կին	gin	D	
+128	Avestan	nāiri		N	
+128	Avestan	ǰainiš		D	
+128	Avestan	strī		L	
+136	Sogdian	’sṭryc		L	
+75	Wakhi	AURUT		(M)	
+75	Wakhi	OJIZ		Af	
+75	Wakhi	XUINUN		(R)	
+9	Baluchi	ZAL		D	
+118	Kurdish	afret		(M)	
+118	Kurdish	jin		D	
+137	Zazaki	ǰinēk		D	
+72	Tajik	ZAN		D	
+54	Persian	ZAN		D	
+77	Waziri	SHEZA		A	
+1	Pashto	SEDZA		A	
+138	Shughni	bēwā		Ah	
+138	Shughni	kaxōy		Ai	
+138	Shughni	γ̆inik		D	
+138	Shughni	awrát		(M)	
+139	Sarikoli	ɛwrat		(M)	
+52	Ossetic	binojnaɡ	binojnaɡ		
+124	Ossetic Iron	wuš	wuš	P	
+125	Ossetic Digor	wosɐ	wosɐ	P	
+141	Kata-viri	ǰukur		S	
+154	Vasi-vari	westí		L	
+105	Vedic Sanskrit	jánī		D	
+162	Pāḷī	itthī		O	
+41	Khaskura	AIMAI		O	
+51	Nepali	SWASNI		(T)	
+51	Nepali	AIMAI		O	
+51	Nepali	STRI		(L)	
+51	Nepali	TIRIYA		(L)	
+106	Assamese	māiki mānuh		O	
+106	Assamese	tirotā		U	
+102	Oriya	mɔhiḷa	mɔhiɭa	V	
+102	Oriya	maikinia	maikinia	O	
+102	Oriya	stri	stri	(L)	
+10	Bengali	MEELOK		W	
+111	Bihari	istrəgən	istrəgən	(L)	
+111	Bihari	kanīyā		(X)	
+111	Bihari	máugī		O	
+144	Magahi	औरत	ɔrət̪	(M)	
+104	Marwari	lugāī		Y	
+104	Marwari	əurət	əurət	(M)	
+104	Marwari	nar	nar	(N)	
+35	Hindi	STRI		(L)	
+35	Hindi	oret	əʊrət̪	(M)	
+119	Urdu	عَورت	ˈʔɔ.ɾət̪	(M)	
+103	Sindhi	nāre		(N)	
+103	Sindhi	zālũ		D	
+103	Sindhi	aurata		(M)	
+103	Sindhi	maiə	maiə	O	
+43	Lahnda	TRIMMET		Z	
+53	Punjabi	nari	naɾi	(Aa)	
+53	Punjabi	TIVI		Ab	
+53	Punjabi	ORET		(M)	
+33	Gujarati	STRI		(L)	
+50	Marathi	bāī	ba͜i:	O	
+50	Marathi	strī	stri:	(L)	
+40	Kashmiri	TRIY		(L)	
+40	Kashmiri	ZANANA		(D)	
+65	Sinhalese	ISTRIYAK		(L)	
+65	Sinhalese	GANI		D	
+34	Romani Greece	ROMNI  JUVLI		Ac	
+100	Old Church Slavonic	жєна	ʒɛnɑ	D	
+95	Serbo-Croatian	žena	ˈʒɛ̌na	D	
+15	Bulgarian	жена	ʒɘˈna	D	
+92	Macedonian	жена	ˈʒena	D	
+60	Russian	женщина	'ʐɛnʃina	D	
+55	Polish	kobieta	kɔˈbjɛta	J	
+16	Belarusian	жанчына	ʐanˈtʂɨna	D	
+73	Ukrainian	жінка	ˈʐinka	D	
+66	Slovak	žena	ˈʒɛna	D	
+18	Czech	žena	ˈʒɛna	D	
+48	Sorbian Upper	žona	ˈʒɔna	D	
+47	Sorbian Lower	žeńska	ˈʐeɲska	D	
+97	Slovenian	žena	ˈʒɛ̌ːna	D	
+108	Old Prussian	gennan		D	
+44	Latvian	siẽviẽte		I	
+46	Lithuanian	moteris	ˈmo:tʲɛrʲɪs		
+109	Old Norse	kvennmaðr	ˈkvenːˌmaðr	D	
+109	Old Norse	kona	ˈkona	D	
+36	Icelandic	kona	ˈkʰɔːna	D	
+36	Icelandic	kvenmaður	ˈkʰvɛnmaːðʏr	D	
+23	Faroese	kona, kvinna	kʰoːna, kʰvɪnːa	D	
+23	Faroese	dama	ˈdɛaːma	(K)	
+58	Norwegian Riksmal	kvinne	ˈkʋɪ̀nːə	D	
+58	Norwegian Riksmal	dame	ˈdàːmə	(K)	
+159	Stavangersk	dama	ˈdɑ̀ːma	(K)	
+159	Stavangersk	kvinne	ˈkʋɪ̀nːə	D	
+157	Old Swedish	kona	ˈkoːna	D	
+157	Old Swedish	qvinna	ˈkvinːa	D	
+69	Swedish	kvinna	ˈkvɪ̀nːa	D	
+69	Swedish	dam	dɑ:m	(K)	
+71	Swedish Vilhelmina	KVINA		D	
+70	Swedish Uppland	KVINNA		D	
+145	Elfdalian	kelingg	ˈkɛ̀lɪŋg	Ag	
+145	Elfdalian	kwinnfuok		D	
+20	Danish	kvinde	ˈg̥ʰvenə	D	
+20	Danish	dame	ˈd̥ɛːmə	(K)	
+158	Danish Fjolde	kvind	kvinʲ	D	
+160	Old Gutnish	quinna		D	
+161	Gutnish Lau	kvinnfolk	ˈkvɪnːˌfolk	D	
+99	Old English	wīf		H	
+99	Old English	cwene		D	
+22	English	woman	'wʊmən	H	
+26	Frisian	minske	'me:ⁿskə		
+21	Dutch	vrouw	vrɑu	B	
+24	Flemish	VROUW		B	
+83	Afrikaans	VROU		B	
+87	Sranan	OEMAN		H	
+126	Old High German	wīb		H	
+126	Old High German	quena		D	
+27	German	Weib	vaĭp	H	
+27	German	Frau	fraŭ	B	
+86	Pennsylvania Dutch	WEIBSMENSCH		H	
+120	Luxembourgish	Fra		B	
+121	German Switzerland	frou		B	
+107	Gothic	qinō		D	
+130	Oscan	usurs			
+112	Latin	mulier	ˈmulier	E	
+112	Latin	fēmina	ˈfeːmina	(G)	
+17	Catalan	dona	ˈdɔnə	K	
+56	Portuguese	mulher	muˈʎɛɾ	E	
+68	Spanish	mujer	mu'xeɾ	E	
+61	Sardinian Cagliari	FEMMINA		G	
+62	Sardinian Logudoro	FEMINA		G	
+63	Sardinian Nuoro	EMINA		G	
+85	French Creole Dominica	FAM		G	
+76	Walloon	FEUME		G	
+25	French	femme	fam	G	
+57	Provencal	femna	ˈfenno	G	
+42	Ladin	DUONNA		K	
+42	Ladin	FEMNA		G	
+146	Dolomite Ladino	signorå		Ad	
+146	Dolomite Ladino	fèmenå		G	
+123	Romansh	signura		Ad	
+123	Romansh	femna		G	
+123	Romansh	dunna		K	
+122	Friulian	siore		Ad	
+122	Friulian	femine		G	
+122	Friulian	done		K	
+39	Italian	donna	'dɔnna	K	
+59	Romanian	muiere	muˈjere	E	
+59	Romanian	femeie	feˈmeje	G	
+74	Vlach	MBLARE		E	
+140	Gaulish	bnanom		D	
+127	Old Irish	ben	bʹen	D	
+149	Old Cornish	benen		D	
+149	Old Cornish	gr(u)eg		Ae	
+101	Middle Cornish	gwrēk		(Ae)	
+101	Middle Cornish	ben	bɛ:n	D	
+148	Old Breton	ban-		D	
+148	Old Breton	gruec		Ae	
+172	Middle Breton	gurec, greuc, grec, grouec, groec	ˈgurec	Ae	
+172	Middle Breton	moues, maoües	ˈmoues, ˈmaues	F	
+12	Breton	maouez	ˈmawɛs, ˈmowǝs	F	
+150	Old Welsh	gwreic		Ae	
+150	Old Welsh	ben		D	
+79	Welsh	dynes			
+79	Welsh	benyw		D	
+79	Welsh	gwraig		Ae	
+38	Irish	bean	bʲan̪ˠ	D	
+38	Irish	baineann		(D)	
+115	Scottish Gaelic	bean	b̊ɛn	(D)	
+115	Scottish Gaelic	boireannach		D	
+147	Manx	ben		D	
+5	[Legacy] Albanian T	grua		C	
+5	[Legacy] Albanian T	femër			
+29	[Legacy] Greek K	GUNE		D	
+28	[Legacy] Greek D	GUNAIKA		D	
+30	[Legacy] Greek Md	GUNAIKA		D	
+64	[Legacy] Serbocroatian	ZENA		D	
+113	[Legacy] Serbian	žena		D	
+89	[Legacy] Bulgarian P	ZENA		D	
+49	[Legacy] Macedonian	ZENA		D	
+94	[Legacy] Russian P	ZENSCINA		D	
+93	[Legacy] Polish P	KOBIETA		J	
+90	[Legacy] Byelorussian P	ZANCYNA		D	
+98	[Legacy] Ukrainian P	ZINKA		D	
+19	[Legacy] Czech E	ZENA		D	
+96	[Legacy] Slovak P	ZENA		D	
+91	[Legacy] Czech P	ZENA		D	
+67	[Legacy] Slovenian	ZENSKA		D	
+45	[Legacy] Lithuanian O	ZMONA			
+11	[Legacy] Brazilian	MULHER		E	
+142	[Legacy] German Munich	Frau		B	
+84	[Legacy] French Creole C	FAM		G	
+14	[Legacy] Breton St	gwreg		Ae	
+14	[Legacy] Breton St	maouez	'mɔwɛs	F	
+13	[Legacy] Breton Se	MOEZ		F	
+78	[Legacy] Welsh C	BENYW		D	
+37	[Legacy] Irish A	BEAN		D	

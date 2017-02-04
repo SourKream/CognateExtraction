@@ -1,0 +1,165 @@
+114	Proto-Indo-European	*wed		I	
+80	Hittite	hurniyanz			
+81	Tocharian A	wipo			
+82	Tocharian B	*karītstse			
+88	Albanian	LAKT		C	
+143	Standard Albanian	i, e lagur		C	
+2	Albanian Sicily	LAGET		C	
+4	Albanian Corinth	I-NOTISURE   I-LAGURE		C	
+3	Albanian Gheg	LAKT		C	
+6	Albanian Tosk	LHAGUR-I		C	
+110	Ancient Greek	ὑγρός	hygrós	K	
+32	Greek	υγρός	iˈɣro̞s	(K)	
+31	Greek Lesbos	BREMENOS		J	
+129	Classical Armenian	գէջ	ɡɛd͡ʒ		
+129	Classical Armenian	նայ	nay		
+129	Classical Armenian	խոնաւ	xonaw	(U)	
+8	Armenian Eastern	խոնավ	χɔnɑʋ	(U)	
+8	Armenian Eastern	նայ	nɑj	(N)	
+8	Armenian Eastern	թաց	tʰɑʦʰ	T	
+7	Armenian Western	թաց	tʰɑʦʰ	T	
+128	Avestan	naptō		V	
+136	Sogdian	nβtc’		V	
+75	Wakhi	XUSC		A	
+9	Baluchi	THAR		D	
+137	Zazaki	hī		Ae	
+72	Tajik	TAR, NAM		D	
+54	Persian	TAR		D	
+77	Waziri	LIMD		P	
+77	Waziri	TOND		Af	
+1	Pashto	XIST		A	
+1	Pashto	LUND		P	
+138	Shughni	čālīn		W	
+138	Shughni	nāmbdōr		V	
+138	Shughni	xist		A	
+52	Ossetic	xuylydz	χwɨlɨdz	A	
+124	Ossetic Iron	χʷylyz	χʷylyz	A	
+125	Ossetic Digor	č'ifɐ/χuluj	č'ifɐ/χuluj	A	
+141	Kata-viri	žəlɨ		W	
+105	Vedic Sanskrit	ā́rdrás		Q	
+162	Pāḷī	adda		Q	
+41	Khaskura	RUJHIYO		Ag	
+41	Khaskura	CHILO		Ac	
+51	Nepali	CISO		Ah	
+106	Assamese	tita	tita	L	
+102	Oriya	tinta	tinta	L	
+102	Oriya	bhiǰa	bhiǰa	E	
+10	Bengali	BHIJA		E	
+111	Bihari	bhijəl	bhijəl	E	
+144	Magahi	गीला	ɡillɑ	Aa	
+144	Magahi	भींजल	bʰiɳɟəl	E	
+104	Marwari	sil	sil	Ab	
+104	Marwari	ālo		Q	
+35	Hindi	BHIGA		E	
+35	Hindi	gila	ɡi:la:	Aa	
+119	Urdu	گِیلا	ɡilə	Aa	
+103	Sindhi	aalo		Q	
+43	Lahnda	SINNA		Ad	
+53	Punjabi	GILLA		Aa	
+33	Gujarati	BHIHNU		E	
+50	Marathi	olā	'ola	Q	
+40	Kashmiri	ODURU, KYONU		Q	
+65	Sinhalese	TETA		L	
+34	Romani Greece	KINGO		X	
+100	Old Church Slavonic	мокръ	mɔkrʊ̆	H	
+95	Serbo-Croatian	mokar	ˈmɔ̂kar	H	
+15	Bulgarian	мокър	ˈmɔkər	H	
+92	Macedonian	мокар	ˈmokar	H	
+60	Russian	мокрый	'mɔkrɨj	H	
+55	Polish	mokry	ˈmɔkrɘ̟	H	
+16	Belarusian	мокры	ˈmɔkɾɨ	H	
+73	Ukrainian	мокрий	ˈmɔkrɪj	H	
+66	Slovak	mokrý	ˈmɔkriː	H	
+18	Czech	mokrý	mokriː	H	
+48	Sorbian Upper	mokry	ˈmɔkʀɘ̟	H	
+47	Sorbian Lower	mókšy	ˈmɘ̟kʂɘ̟	H	
+97	Slovenian	moker	ˈmɔ̌ːkər	H	
+44	Latvian	slapjš		M	
+46	Lithuanian	SLAPIAS		M	
+109	Old Norse	blautr	blautr	Y	
+109	Old Norse	vátr	vaːtr	I	
+36	Icelandic	blautur	ˈb̥løɪːtʰʏr	Y	
+36	Icelandic	votur	ˈvɔːtʰʏr	I	
+23	Faroese	vátur	ˈvɔaːʰtʊɹ	I	
+23	Faroese	bleytur	ˈb̥lɛiːtʰʊɹ	Y	
+58	Norwegian Riksmal	våt	ʋoːt	I	
+58	Norwegian Riksmal	bløt	bløːt	Y	
+159	Stavangersk	våde	ˈʋoːdə	I	
+157	Old Swedish	vater	ˈvaːter	I	
+69	Swedish	våt	voːt	I	
+69	Swedish	blöt	bløːt	Y	
+71	Swedish Vilhelmina	BLOT, VOT  VAT		I	
+70	Swedish Uppland	VAT		I	
+145	Elfdalian	dävin	dæ̀vɪn	Z	
+145	Elfdalian	wåt		I	
+145	Elfdalian	wåt	wɔːt	I	
+20	Danish	våd	vɔˀð	I	
+158	Danish Fjolde	våt	vɔd	I	
+161	Gutnish Lau	vatar	vɑːtar	I	
+161	Gutnish Lau	blautar	ˈblautar	Y	
+99	Old English	wǣt		I	
+99	Old English	fūht			
+22	English	wet	wɛt	I	
+26	Frisian	wiet	vɪət, vit	I	
+21	Dutch	nat	nɑt	B	
+24	Flemish	NAT		B	
+83	Afrikaans	NAT		B	
+87	Sranan	NATI		B	
+126	Old High German	naz		B	
+126	Old High German	fūhti			
+27	German	nass	nas	B	
+86	Pennsylvania Dutch	NAASZ		B	
+120	Luxembourgish	naass		B	
+121	German Switzerland	nass		B	
+107	Gothic	*nats		B	
+112	Latin	ūmidus	ˈuːmidus	K	
+17	Catalan	MULLADA, MULLADURA		F	
+56	Portuguese	MOLHADO		F	
+56	Portuguese	húmido	ˈumidu	K	
+68	Spanish	mojado	mo'xaðo	F	
+61	Sardinian Cagliari	SFUSTU		O	
+62	Sardinian Logudoro	UMIDU		K	
+63	Sardinian Nuoro	IFUSTU		O	
+85	French Creole Dominica	MUYE		F	
+76	Walloon	(TO WET) MOUYI		F	
+25	French	mouillé	muje	F	
+57	Provencal	MUIA, IME, IMO, MOUISSE		F	
+42	Ladin	BLETSCH		R	
+42	Ladin	CREGN			
+146	Dolomite Ladino	bagnà		S	
+123	Romansh	bletsch		R	
+122	Friulian	bagnât		S	
+122	Friulian	umit		K	
+39	Italian	bagnato	baɲ'ɲato	S	
+59	Romanian	UD		K	
+74	Vlach	UDER		K	
+127	Old Irish	fliuch	ɸʹlʹux	G	
+101	Middle Cornish	glyb	glɪ:b	G	
+172	Middle Breton	glueb, gleb, gloeb	ˈgwleːb, ˈgloeːb		
+12	Breton	gleb		G	
+79	Welsh	gwlyb		G	
+38	Irish	fliuch	fʲlʲʊx	G	
+115	Scottish Gaelic	fliuch	flux	G	
+5	[Legacy] Albanian T	I, E LAGUR		C	
+29	[Legacy] Greek K	HUGROS		K	
+28	[Legacy] Greek D	BREMMENOS		J	
+30	[Legacy] Greek Md	BREMENOS		J	
+64	[Legacy] Serbocroatian	MOKAR		H	
+113	[Legacy] Serbian	mokar	môkar	H	
+89	[Legacy] Bulgarian P	MOKUR		H	
+94	[Legacy] Russian P	MOKRYJ		H	
+93	[Legacy] Polish P	MOKRY		H	
+90	[Legacy] Byelorussian P	MOKRY		H	
+98	[Legacy] Ukrainian P	MOKRYJ		H	
+19	[Legacy] Czech E	MOKRE		H	
+96	[Legacy] Slovak P	MOKRY		H	
+91	[Legacy] Czech P	MOKRY		H	
+67	[Legacy] Slovenian	MAKRO		H	
+45	[Legacy] Lithuanian O	SLAPIAS		M	
+11	[Legacy] Brazilian	MOLHADO		F	
+142	[Legacy] German Munich	nass		B	
+84	[Legacy] French Creole C	MUYE  MWIYE		F	
+14	[Legacy] Breton St	gleb	gle:p	G	
+13	[Legacy] Breton Se	GLOEB		G	
+78	[Legacy] Welsh C	GWLYB		G	
+37	[Legacy] Irish A	FLIUCH		G	

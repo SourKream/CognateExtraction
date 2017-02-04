@@ -1,0 +1,167 @@
+114	Proto-Indo-European	*leh₂w-		C	
+114	Proto-Indo-European	*nei̯gʷ-		O	
+80	Hittite	ārri			
+80	Hittite	warpzi			
+133	Luvian	lāhunti		C	
+133	Luvian	īlhāti			
+81	Tocharian A	likäṣ		K	
+82	Tocharian B	laikanatär		K	
+88	Albanian	LAJ, (LAVA = AOR.)		G	
+143	Standard Albanian	laj		G	
+2	Albanian Sicily	LAN		G	
+4	Albanian Corinth	LAAN		G	
+3	Albanian Gheg	LAJ		G	
+6	Albanian Tosk	LHAN, AOR. LHAVA		G	
+173	Mycenaean Greek	°-ni-qa	-nigʷa	O	
+110	Ancient Greek	λούω	lúːɔː	(G)	
+110	Ancient Greek	πλῡ́νω	plýːnɔː	D	
+110	Ancient Greek	νίζω	nízdɔː	(O)	
+32	Greek	πλένω	ˈple̞no̞	D	
+31	Greek Lesbos	PLUNO		D	
+129	Classical Armenian	լուանամ	lu-ɑn-ɑ-m	D	
+8	Armenian Eastern	լվանալ	ləvɑˈnɑl	D	
+7	Armenian Western	լուալ	ləvɑl	D	
+128	Avestan	naēnižaiti			
+128	Avestan	snaiieiti		N	
+136	Sogdian	sn’y		N	
+75	Wakhi	WUZDI-		N	
+9	Baluchi	SHODHAGH, SHUSTA		E	
+137	Zazaki	šitiš		E	
+72	Tajik	šustan	ʃustæn	E	
+54	Persian	SHOSTAN		E	
+77	Waziri	WINZEL		A	
+1	Pashto	MINDZEL		A	
+138	Shughni	zini		N	
+52	Ossetic	aexsyn	aχsɨn	L	
+124	Ossetic Iron	ɐχš-	ɐχš-	L	
+125	Ossetic Digor	ɐχsn-	ɐχsn-	L	
+105	Vedic Sanskrit	snā-		N	
+105	Vedic Sanskrit	nḗktēti		(O)	
+162	Pāḷī	dhopati		F	
+51	Nepali	DHUNU, PAKHALNU, MAJNU		F	
+106	Assamese	dho	dho	F	
+102	Oriya	dho-	dho-	F	
+10	Bengali	DHOA		F	
+111	Bihari	dhob	dhob	F	
+144	Magahi	धोना	d̪ʰonɑ	F	
+104	Marwari	labo-			
+35	Hindi	DHONA		F	
+119	Urdu	دھونا	d̪ʰonə	F	
+103	Sindhi	dhvəṇu	dhvəɳu	F	
+43	Lahnda	DHOWEN		F	
+53	Punjabi	TONA		F	
+33	Gujarati	DHOWU		F	
+50	Marathi	dhune	dʰuɳe	F	
+40	Kashmiri	SORSHUN		M	
+40	Kashmiri	CHALUN		P	
+65	Sinhalese	SODANAWA		M	
+34	Romani Greece	XALAVAV		P	
+100	Old Church Slavonic	мыти	mɯti	I	
+95	Serbo-Croatian	prati	ˈprâti	Q	
+15	Bulgarian	мия	ˈmijə	I	
+92	Macedonian	мие	ˈmi.ɛ	I	
+60	Russian	мыть	mɨtʲ	I	
+55	Polish	myć	mɘ̟tɕ	I	
+16	Belarusian	мыць	mɨtsʲ	I	
+73	Ukrainian	мити	ˈmɪtɪ	I	
+66	Slovak	myť	mic	I	
+18	Czech	mýt	miːt	I	
+48	Sorbian Upper	myć	mɘ̟tʃ	I	
+47	Sorbian Lower	myś	mɘ̟ɕ	I	
+97	Slovenian	miti	ˈmǐːti	I	
+108	Old Prussian	aumūsnan		R	
+44	Latvian	mazgã		R	
+46	Lithuanian	MAZGOTI		R	
+109	Old Norse	vaska	ˈvaska	(B)	
+109	Old Norse	þvá	θvaː	J	
+36	Icelandic	þvo	θvɔː	J	
+36	Icelandic	vaska	ˈvaska	(B)	
+23	Faroese	vaska	ˈvaskʰa	(B)	
+23	Faroese	tváa	ˈtʰvo̜ːa	J	
+58	Norwegian Riksmal	vaske	ˈʋàskə	(B)	
+58	Norwegian Riksmal	tvette	ˈtʋɛ̀tːə	J	
+159	Stavangersk	vaska	ˈʋàska	(B)	
+157	Old Swedish	thvätta	ˈθvætːa	J	
+157	Old Swedish	thva	θvaː	J	
+69	Swedish	tvätta	ˈtvɛ̀tːa	J	
+69	Swedish	två	tvoː	J	
+71	Swedish Vilhelmina	TZVAT		J	
+70	Swedish Uppland	TVATTA		J	
+145	Elfdalian	rįesa	ˈrɪ̃̀ɛ̃sɑ	S	
+145	Elfdalian	twå		J	
+20	Danish	vaske	ˈvasg̥ʰə	(B)	
+158	Danish Fjolde	tuo	tuo	J	
+161	Gutnish Lau	tvättä	ˈtvɛtːɛ	J	
+161	Gutnish Lau	vaskä	ˈvaskɛ	(B)	
+99	Old English	wæscþ		B	
+99	Old English	Þwieþ		J	
+22	English	to wash	wɒʃ	B	
+26	Frisian	GROBBELJE			
+26	Frisian	WAECHSE		B	
+21	Dutch	wassen	'wɑsə(n)	B	
+24	Flemish	WASSCHEN		B	
+83	Afrikaans	WAS		B	
+87	Sranan	WASI		B	
+126	Old High German	waskit		B	
+27	German	waschen	'vaʃn̩	B	
+86	Pennsylvania Dutch	WESCH		B	
+120	Luxembourgish	wäschen		B	
+121	German Switzerland	wäsche		B	
+107	Gothic	þwahiþ		J	
+132	Umbrian	vutu		G	
+112	Latin	lauāre	laˈwaːre	G	
+17	Catalan	CERAR			
+17	Catalan	rentar	rən'ta		
+56	Portuguese	lavar	lɐˈvaɾ	G	
+68	Spanish	lavar	la'βaɾ	G	
+61	Sardinian Cagliari	SAKKUAI			
+62	Sardinian Logudoro	SAMUNARE			
+63	Sardinian Nuoro	LAVARE		G	
+85	French Creole Dominica	LAVE		G	
+76	Walloon	LAVER		G	
+25	French	laver	lave	G	
+57	Provencal	LAVA		G	
+42	Ladin	LAVER		G	
+146	Dolomite Ladino	lavà		G	
+123	Romansh	lavar		G	
+122	Friulian	lavâ		G	
+122	Friulian	netâ			
+39	Italian	lavare	la'vare	G	
+59	Romanian	a spăla		G	
+74	Vlach	LAU		G	
+127	Old Irish	nigid	nʹiɣʹəðʹ	O	
+101	Middle Cornish	hambrokkia			
+101	Middle Cornish	golhi	'gɔlhi	H	
+172	Middle Breton	guelchiff, guelhy, guelchy, goalchi	ˈguelhiṽ, ˈgualhi		
+12	Breton	gwalc'hiñ		H	
+79	Welsh	golchi		H	
+38	Irish	nigh	nʲiː, nʲɪɟ	O	
+115	Scottish Gaelic	nigh		O	
+5	[Legacy] Albanian T	ME LARE		G	
+29	[Legacy] Greek K	PLINO		D	
+28	[Legacy] Greek D	PLENO		D	
+30	[Legacy] Greek Md	PLENO		D	
+64	[Legacy] Serbocroatian	PRATI		Q	
+113	[Legacy] Serbian	prati	prâti	Q	
+89	[Legacy] Bulgarian P	MIJA		I	
+49	[Legacy] Macedonian	MIE		I	
+49	[Legacy] Macedonian	PLAKNE			
+49	[Legacy] Macedonian	ISKAPE			
+94	[Legacy] Russian P	MYT		I	
+93	[Legacy] Polish P	MYC		I	
+90	[Legacy] Byelorussian P	MYC		I	
+98	[Legacy] Ukrainian P	MYTY		I	
+19	[Legacy] Czech E	PRAT		Q	
+19	[Legacy] Czech E	UMIT		I	
+96	[Legacy] Slovak P	MYT		I	
+91	[Legacy] Czech P	MITI		I	
+67	[Legacy] Slovenian	PRAT		Q	
+45	[Legacy] Lithuanian O	MAZGOTI		R	
+45	[Legacy] Lithuanian O	SKALBTI			
+11	[Legacy] Brazilian	LAVAR		G	
+142	[Legacy] German Munich	waschen		B	
+84	[Legacy] French Creole C	LAVE (CLOTHES), BEYE (SELF)		G	
+14	[Legacy] Breton St	gwalc'hiñ	'gwalxĩ	H	
+13	[Legacy] Breton Se	GOLHEIN		H	
+78	[Legacy] Welsh C	GOLCHI		H	
+37	[Legacy] Irish A	NIGHE		O	

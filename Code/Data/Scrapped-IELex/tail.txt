@@ -1,0 +1,192 @@
+80	Hittite	sisai			
+88	Albanian	bisht		C	
+143	Standard Albanian	bisht		C	
+2	Albanian Sicily	bisht		C	
+4	Albanian Corinth	bisht		C	
+3	Albanian Gheg	bishti		C	
+6	Albanian Tosk	bisht		C	
+110	Ancient Greek	κέρκος	kérkos	Al	
+110	Ancient Greek	οὐρά	ou̯rá	(O)	
+152	Tsakonian	(ν)ουρα		O	
+32	Greek	ουρά	u'ra	O	
+31	Greek Lesbos	OURA		O	
+129	Classical Armenian	jet			
+129	Classical Armenian	tutn / ttun			
+129	Classical Armenian	poč‘			
+129	Classical Armenian	agi		Q	
+8	Armenian Eastern	poč	poʧʰ	D	
+7	Armenian Western	BOCH		D	
+128	Avestan	duma-		E	
+136	Sogdian	δwm		E	
+75	Wakhi	KICIKAM		Ai	
+9	Baluchi	DUMB		E	
+118	Kurdish	terî		Aj	
+118	Kurdish	boç		Ak	
+137	Zazaki	poč		Aa	
+72	Tajik	dum	dum	E	
+54	Persian	dom	dom	E	
+77	Waziri	LAKAI		A	
+1	Pashto	LAKEJ		A	
+138	Shughni	dum		E	
+139	Sarikoli	δыm		E	
+52	Ossetic	dymaeg	dɨmæɡ	E	
+124	Ossetic Iron	k'ɐzil	k'ɐzil	Z	
+125	Ossetic Digor	k'ɐdželɐ	k'ɐdželɐ	Z	
+141	Kata-viri	dəmə̣̃ə		E	
+154	Vasi-vari	lümu, limī		E	
+153	Askunu	di/umašī		E	
+105	Vedic Sanskrit	śḗpas		V	
+162	Pāḷī	puccha		P	
+162	Pāḷī	langula		W	
+41	Khaskura	PUCHHAR		P	
+51	Nepali	PUCHAR		P	
+106	Assamese	lɛz	lɛz	W	
+102	Oriya	lanjɔ	lanjɔ	W	
+10	Bengali	LEJ		W	
+111	Bihari	nəŋgair	nəŋgair	W	
+144	Magahi	पोंछी	põcʰi		
+35	Hindi	PUCH		P	
+119	Urdu	دُم	d̪ʊm	(E)	
+103	Sindhi	puchhu		P	
+43	Lahnda	PUCH		P	
+53	Punjabi	PUCH		P	
+33	Gujarati	PUCHRI		P	
+50	Marathi	śeptī, śepūt	ʃepʈi:, ʃepu:ʈ	V	
+40	Kashmiri	LOTU			
+65	Sinhalese	VALIGAYA			
+34	Romani Greece	PORIN		Ab	
+100	Old Church Slavonic	опашь	ɔpɑʃɪ̆	H	
+95	Serbo-Croatian	rep	rɛ̂ːp	R	
+15	Bulgarian	опашка	uˈpaʃkə	H	
+92	Macedonian	опашка	ˈopaʃka	H	
+60	Russian	хвост	xvɔst	I	
+55	Polish	ogon	ˈɔɡɔn	Q	
+16	Belarusian	хвост	xvɔst	I	
+73	Ukrainian	хвіст	xʋist	I	
+66	Slovak	chvost	xvɔst	I	
+18	Czech	ocas	ˈɔtsas	J	
+48	Sorbian Upper	wopuš	ˈwɔpuʃ	H	
+47	Sorbian Lower	wogon	ˈhɔɡɛn	Q	
+97	Slovenian	rep	rɛp, rěːp	R	
+108	Old Prussian	stags			
+44	Latvian	aste		X	
+46	Lithuanian	UODEGA		U	
+109	Old Norse	sporðr	sporðr	(Ae)	
+109	Old Norse	hali	ˈhali	K	
+109	Old Norse	stertr	stertr	(B)	
+109	Old Norse	rófa	ˈroːva	(T)	
+109	Old Norse	véli	ˈveːli	(Ad)	
+36	Icelandic	hali	ˈhaːlɪ	K	
+36	Icelandic	rófa	ˈrouːva	T	
+36	Icelandic	stertur	ˈstɛr̥tʰʏr	(B)	
+36	Icelandic	véli	ˈvjɛːlɪ	(Ad)	
+36	Icelandic	sporður	ˈspɔrðʏr	(Ae)	
+36	Icelandic	skott		Ah	
+23	Faroese	stertur	ˈstɛɻ̊ʈʊɹ	(B)	
+23	Faroese	saks	saks	(Af)	
+23	Faroese	vel	veːl	(Ad)	
+23	Faroese	sveiv	svaiːv	(Ag)	
+23	Faroese	hali	ˈhɛaːlɪ	K	
+23	Faroese	rófa	ˈɹɔuva	(T)	
+58	Norwegian Riksmal	hale	ˈhàːlə	K	
+58	Norwegian Riksmal	rumpe	ˈrʉ̀mpə	Y	
+58	Norwegian Riksmal	rove	ˈròːʋə	T	
+58	Norwegian Riksmal	spord	spuɖː	(Ae)	
+58	Norwegian Riksmal	vele	ˈʋèːlə	(Ad)	
+58	Norwegian Riksmal	svans	sʋans	(N)	
+58	Norwegian Riksmal	stjert	stjɛʈː	(B)	
+159	Stavangersk	stert	stæʁt	(B)	
+159	Stavangersk	spor	spuːʁ	(Ae)	
+159	Stavangersk	spor	spuːʁ	(Ae)	
+159	Stavangersk	vele	ˈʋèːlə	(Ad)	
+157	Old Swedish	stiärter	ˈstjærter	(B)	
+157	Old Swedish	hali	ˈhaːli	K	
+157	Old Swedish	väle	ˈvæːle	(Ad)	
+157	Old Swedish	spordher	ˈspoːrðer	(Ae)	
+69	Swedish	svans	svans	(N)	
+69	Swedish	stjärt	ɧæʈː	(B)	
+71	Swedish Vilhelmina	ROMPA		Y	
+70	Swedish Uppland	STJART		B	
+70	Swedish Uppland	RUMPA		Y	
+145	Elfdalian	ålå	ˈɔ̀lɔ	K	
+145	Elfdalian	rumpa	ˈrʉ̀mpɑ	Y	
+20	Danish	stjert	ˈsd̥jæɐ̠ˀd	B	
+20	Danish	hale	ˈhɛ:lə	K	
+158	Danish Fjolde	skært	sxæɹd	B	
+161	Gutnish Lau	rumpå	ˈrumpo	Y	
+161	Gutnish Lau	stjärt	stjɛrt	(B)	
+99	Old English	tægl		L	
+22	English	tail	teɪl	L	
+26	Frisian	STIRT		B	
+21	Dutch	staart	start	B	
+24	Flemish	STEERT		B	
+83	Afrikaans	STERT		B	
+87	Sranan	TERE		L	
+126	Old High German	zagal		L	
+27	German	Schwanz	ʃvant͜s	N	
+86	Pennsylvania Dutch	SCHWONNSZ		N	
+120	Luxembourgish	Schwanz		N	
+121	German Switzerland	schwanz		N	
+112	Latin	cauda	ˈkau̯da	F	
+17	Catalan	cua	'kua	F	
+17	Catalan	LLUFA			
+56	Portuguese	rabo	ˈɾaβu	T	
+56	Portuguese	cauda	ˈkauðɐ	F	
+68	Spanish	cola	'kola	F	
+68	Spanish	RABO		T	
+61	Sardinian Cagliari	KOA		F	
+62	Sardinian Logudoro	COA		F	
+63	Sardinian Nuoro	KOA		F	
+85	French Creole Dominica	LACE		M	
+76	Walloon	COWE		F	
+25	French	queue	kø	F	
+57	Provencal	CO		F	
+42	Ladin	CUA		F	
+146	Dolomite Ladino	coå		F	
+123	Romansh	cua		F	
+122	Friulian	code		F	
+39	Italian	coda	'koda	F	
+59	Romanian	coadă		F	
+74	Vlach	KWADE		F	
+140	Gaulish	losto-		G	
+127	Old Irish	erball	erball	O	
+127	Old Irish	los	los	(G)	
+127	Old Irish	err	err		
+149	Old Cornish	lost		G	
+101	Middle Cornish	lost	lɔ:st	G	
+148	Old Breton	lost		G	
+172	Middle Breton	lost	ˈlost		
+12	Breton	lost		G	
+79	Welsh	cwt			
+79	Welsh	llost		(G)	
+79	Welsh	cynffon		S	
+38	Irish	eireaball		O	
+115	Scottish Gaelic	earball		O	
+115	Scottish Gaelic	(f)eaman		(Ac)	
+147	Manx	famman		(Ac)	
+147	Manx	arbyl		O	
+5	[Legacy] Albanian T	bisht		C	
+29	[Legacy] Greek K	OURA		O	
+28	[Legacy] Greek D	OURA		O	
+30	[Legacy] Greek Md	OURA		O	
+64	[Legacy] Serbocroatian	REP		R	
+113	[Legacy] Serbian	rep	rêːp	R	
+89	[Legacy] Bulgarian P	OPASKA		H	
+49	[Legacy] Macedonian	ópaška	ˈɔpaʃka	H	
+94	[Legacy] Russian P	CHVOST		I	
+93	[Legacy] Polish P	OGON		Q	
+90	[Legacy] Byelorussian P	CHVOST		I	
+98	[Legacy] Ukrainian P	CHVIST		I	
+19	[Legacy] Czech E	OCAS		J	
+96	[Legacy] Slovak P	CHVOST		I	
+91	[Legacy] Czech P	CHVOST		I	
+67	[Legacy] Slovenian	RIPP		R	
+45	[Legacy] Lithuanian O	VUODEGA		U	
+11	[Legacy] Brazilian	cauda	ˈkaudɐ	F	
+11	[Legacy] Brazilian	rabo	ˈxabu	T	
+142	[Legacy] German Munich	Schwanz		N	
+84	[Legacy] French Creole C	LACE		M	
+14	[Legacy] Breton St	lost	lost	G	
+13	[Legacy] Breton Se	LOST		G	
+78	[Legacy] Welsh C	CWT, CYNFFON		S	
+37	[Legacy] Irish A	EARBALL		O	

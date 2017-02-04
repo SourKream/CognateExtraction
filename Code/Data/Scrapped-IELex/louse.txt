@@ -1,0 +1,155 @@
+114	Proto-Indo-European	*knid-			
+114	Proto-Indo-European	*luhs-		B	
+82	Tocharian B	pärśeriñ			
+88	Albanian	morr		C	
+143	Standard Albanian	morr		C	
+2	Albanian Sicily	morr		C	
+4	Albanian Corinth	morr		C	
+3	Albanian Gheg	morr		C	
+6	Albanian Tosk	morr		C	
+110	Ancient Greek	φθείρ	pʰtʰéi̯r	I	
+152	Tsakonian	ψειρα		I	
+32	Greek	ψείρα	ˈpsira	I	
+31	Greek Lesbos	PSEIRA		I	
+129	Classical Armenian	ոջիլ	oǰil voˈtʃʰil	D	
+8	Armenian Eastern	oǰil	voˈʧʰil	D	
+7	Armenian Western	OCHIL		D	
+128	Avestan	spiš-		A	
+136	Sogdian	špšh		A	
+136	Sogdian	ršk’		B	
+75	Wakhi	SIS		A	
+9	Baluchi	BOT		P	
+118	Kurdish	sipî		A	
+137	Zazaki	ešpiž		A	
+54	Persian	shepesh	ʃeˈpeʃ	A	
+77	Waziri	SPAZHA		A	
+1	Pashto	SPEZA, SPEZA		A	
+138	Shughni	sipaγ̆		A	
+138	Shughni	murax̆		G	
+139	Sarikoli	s(ы)pal, s(i)pal		A	
+52	Ossetic	syst	sɨst, ʃɨʃt	(A)	
+124	Ossetic Iron	šyšt	šyšt	(A)	
+125	Ossetic Digor	šistɐ	šistɐ	(A)	
+154	Vasi-vari	wyōinuk		B	
+154	Vasi-vari	iwik/x		O	
+105	Vedic Sanskrit	āpāli			
+105	Vedic Sanskrit	plúṣi-		(F)	
+105	Vedic Sanskrit	kiṭibha			
+105	Vedic Sanskrit	utkuṇa		(E)	
+105	Vedic Sanskrit	yūkā		(B)	
+162	Pāḷī	ūkā		B	
+41	Khaskura	JUMRA		K	
+51	Nepali	JUMRO		K	
+106	Assamese	okɒni	okɒni	E	
+102	Oriya	ukuṇi	ukuɳi	E	
+10	Bengali	UKUN		E	
+111	Bihari	ɖhil	ɖhil	Q	
+144	Magahi	पिल्लू	pillu	R	
+35	Hindi	ju	dʒũː	K	
+119	Urdu	جُوں	ʤũ	K	
+103	Sindhi	ǰũa		K	
+53	Punjabi	JU		K	
+50	Marathi	ū	u:	E	
+40	Kashmiri	ZOV		K	
+65	Sinhalese	TADIYA		S, T	
+34	Romani Greece	JUV		K	
+95	Serbo-Croatian	uš	ûːʃ	B	
+15	Bulgarian	въшка	ˈvɤʃkə	B	
+92	Macedonian	вошка	ˈvoʃka	B	
+60	Russian	вошь	vɔʂ	B	
+55	Polish	wesz	vɛʂ	B	
+16	Belarusian	вош	vɔʂ	B	
+73	Ukrainian	воша	ˈʋɔʂa	B	
+66	Slovak	voš	vɔʃ	B	
+18	Czech	veš	vɛʃ	B	
+48	Sorbian Upper	woš	wɔʃ	B	
+47	Sorbian Lower	weš	wɛʂ	B	
+97	Slovenian	uš	ûːʃ	B	
+44	Latvian	uts		M	
+46	Lithuanian	UTELE		M	
+109	Old Norse	lús	luːs	B	
+36	Icelandic	lús	luːs	B	
+23	Faroese	lús	lʉuːs	B	
+58	Norwegian Riksmal	lus	lʉːs	B	
+159	Stavangersk	lus	lʉːs	B	
+157	Old Swedish	lus	luːs	B	
+69	Swedish	lus	lʉ:s	B	
+71	Swedish Vilhelmina	LUS		B	
+70	Swedish Uppland	LUS		B	
+145	Elfdalian	laus	lɑʉs	B	
+20	Danish	lus	luˀs	B	
+158	Danish Fjolde	luus	luːs	B	
+161	Gutnish Lau	läus	lɛus	B	
+99	Old English	lūs		B	
+22	English	louse	laʊs	B	
+26	Frisian	lûs, lús	lu:s, løs	B	
+26	Frisian	flie	fli.ə		
+21	Dutch	luis	lœys	B	
+24	Flemish	LUIS		B	
+83	Afrikaans	LUIS		B	
+87	Sranan	LOSO		B	
+126	Old High German	(*)lūs		B	
+27	German	Laus	laŭs	B	
+86	Pennsylvania Dutch	LOUSE		B	
+120	Luxembourgish	Laus		B	
+121	German Switzerland	luus		B	
+112	Latin	pēdiculus	peːˈdikulus	F	
+17	Catalan	poll	poʎ	F	
+56	Portuguese	piolho	piˈoʎu	F	
+68	Spanish	piojo	'pjoxo	F	
+61	Sardinian Cagliari	PRIOGU		F	
+62	Sardinian Logudoro	PIOGU		F	
+63	Sardinian Nuoro	PRIUKKU		F	
+85	French Creole Dominica	PU		F	
+76	Walloon	PIOU		F	
+25	French	pou	pu	F	
+57	Provencal	PESOU		F	
+42	Ladin	PLUOGL		F	
+146	Dolomite Ladino	poie		F	
+123	Romansh	grisschun		H	
+123	Romansh	plugl			
+122	Friulian	grîs		H	
+122	Friulian	pedoli		F	
+39	Italian	pidocchio	pi'dɔkkjo	F	
+59	Romanian	păduche		F	
+74	Vlach	BIDUKLU		F	
+127	Old Irish	míl	mʹi:l	L	
+127	Old Irish	sar, sor	sar, sor		
+149	Old Cornish	low-en		B	
+101	Middle Cornish	truz			
+101	Middle Cornish	kynak			
+101	Middle Cornish	booey			
+101	Middle Cornish	low		B	
+148	Old Breton	louenn		B	
+172	Middle Breton	louenn, laoüen	ˈlowen, ˈlawen	B	
+12	Breton	laouenn	ˈlauɛn	B	
+150	Old Welsh	lleu		B	
+79	Welsh	lleuen		B	
+38	Irish	dearnad		(N)	
+38	Irish	míol		L	
+115	Scottish Gaelic	mial		L	
+115	Scottish Gaelic	deargann		(N)	
+147	Manx	meeyl		L	
+5	[Legacy] Albanian T	morr		C	
+29	[Legacy] Greek K	PSULLOS		I	
+28	[Legacy] Greek D	PSULLOS		I	
+64	[Legacy] Serbocroatian	US		B	
+113	[Legacy] Serbian	vaš	ʋâ:ʃ	B	
+89	[Legacy] Bulgarian P	VUSKA		B	
+49	[Legacy] Macedonian	vóška	ˈvɔʃka	B	
+94	[Legacy] Russian P	VOS		B	
+93	[Legacy] Polish P	WESZ		B	
+90	[Legacy] Byelorussian P	VOS		B	
+98	[Legacy] Ukrainian P	VOSA		B	
+19	[Legacy] Czech E	VES		B	
+96	[Legacy] Slovak P	VOS		B	
+91	[Legacy] Czech P	VES		B	
+67	[Legacy] Slovenian	USI		B	
+45	[Legacy] Lithuanian O	UTELE		M	
+11	[Legacy] Brazilian	PIOLHO		F	
+142	[Legacy] German Munich	Laus		B	
+84	[Legacy] French Creole C	PU		F	
+14	[Legacy] Breton St	laou	lɔw	B	
+13	[Legacy] Breton Se	LEUEN		B	
+78	[Legacy] Welsh C	LLEUEN		B	
+37	[Legacy] Irish A	MIOL		L	

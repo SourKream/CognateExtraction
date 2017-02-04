@@ -1,0 +1,153 @@
+114	Proto-Indo-European	*h₃ésth₁-ōi, *h₃esth₁-i-, *k-osti-		D, F	
+80	Hittite	hastāi		D	
+133	Luvian	hāssa		D	
+81	Tocharian A	āy		D	
+82	Tocharian B	āy		D	
+88	Albanian	rrashti		C	
+143	Standard Albanian	kockë		(F)	
+2	Albanian Sicily	asht		D	
+4	Albanian Corinth	KOKAU		E	
+3	Albanian Gheg	RRASHTI		C	
+6	Albanian Tosk	KOCKE		(F)	
+110	Ancient Greek	ὀστοῦν (ὀστέον)	ostȗːn	D	
+32	Greek	κόκαλο	ˈko̞kaˌlo̞	H	
+32	Greek	οστο, οστουν		(D)	
+31	Greek Lesbos	KOKKALO		H	
+129	Classical Armenian	ոսկր	ɔsk-ɾ	D	
+8	Armenian Eastern	ոսկոր	vosˈkoɾ	D	
+7	Armenian Western	ոսկոր		D	
+128	Avestan	as		D	
+128	Avestan	ast-		D	
+136	Sogdian	’stk-		D	
+174	Khotanese	āstai		D	
+75	Wakhi	YUSC, USTUXON		D	
+9	Baluchi	HAD		(A)	
+118	Kurdish	hestî		D	
+137	Zazaki	este		D	
+72	Tajik	ustuxon	ustuxɔːn	D	
+54	Persian	ostokhan	ostoxɒn	D	
+77	Waziri	HADIKAI		(A)	
+1	Pashto	HED, HADUKAJ		(A)	
+138	Shughni	sitxun		D	
+139	Sarikoli	(i)sыtxun		D	
+52	Ossetic	staeg	stæɡ	D	
+124	Ossetic Iron	štɐg	štɐg	D	
+125	Ossetic Digor	ɐstɐg	ɐstɐg	D	
+141	Kata-viri	ʌṭi		A	
+154	Vasi-vari	ičī		A	
+153	Askunu	ațī		A	
+105	Vedic Sanskrit	ásthi		D	
+162	Pāḷī	aṭṭhi		D	
+41	Khaskura	HAR		A	
+51	Nepali	HAR		A	
+106	Assamese	har	har	A	
+102	Oriya	haḍɔ	haɖɔ	A	
+10	Bengali	HAR		A	
+111	Bihari	həɖɖi	həɖɖi	A	
+144	Magahi	हड्डी	həddi	A	
+35	Hindi	heddi	ɦəɖːiː	A	
+119	Urdu	ہڈّی	həɖːi	A	
+43	Lahnda	HEDDI		A	
+53	Punjabi	HEDDI		A	
+33	Gujarati	HARKU		A	
+50	Marathi	hād	haɖ	A	
+40	Kashmiri	ADIJU		A	
+65	Sinhalese	KATUWA		J	
+34	Romani Greece	KOKALO		(H)	
+100	Old Church Slavonic	кость	kɔstɪ̆	F	
+95	Serbo-Croatian	kost	kɔ̂ːst	F	
+15	Bulgarian	кост	kɔst	F	
+92	Macedonian	коска	ˈkoska	F	
+60	Russian	кость	kɔstʲ	F	
+55	Polish	kość	kɔɕtɕ	F	
+16	Belarusian	косць	kɔsʲtsʲ	F	
+73	Ukrainian	кістка	kistka	F	
+66	Slovak	kosť	kɔsc	F	
+18	Czech	kost	kɔst	F	
+48	Sorbian Upper	kósć	kʊstʃ	F	
+47	Sorbian Lower	kósć	kɘ̟stɕ	F	
+97	Slovenian	kost	kôːst	F	
+108	Old Prussian	kaulan		K	
+44	Latvian	kaũls		K	
+46	Lithuanian	KAULAS		K	
+109	Old Norse	bein	bɛin	B	
+36	Icelandic	bein	b̥eiːn	B	
+23	Faroese	bein	b̥aiːn	B	
+23	Faroese	knota	ˈknoːtʰa	(M)	
+58	Norwegian Riksmal	ben	beːn	B	
+159	Stavangersk	bein	bɛɪn	B	
+157	Old Swedish	ben	beːn	B	
+69	Swedish	ben	beːn	B	
+71	Swedish Vilhelmina	BEN		B	
+70	Swedish Uppland	BEN		B	
+145	Elfdalian	bien	bɪɛːn	B	
+20	Danish	ben	b̥eˀn	B	
+158	Danish Fjolde	knååk	knɔːɡ	(G)	
+160	Old Gutnish	bain		B	
+161	Gutnish Lau	bain	baɪn	B	
+99	Old English	bān		B	
+22	English	bone	bəʊn	B	
+26	Frisian	bien	bi.ən	B	
+21	Dutch	graat	ɣrat	(B)	
+21	Dutch	bot	bɔt	L	
+21	Dutch	been	ben	B	
+24	Flemish	BEEN		B	
+83	Afrikaans	BEEN		B	
+87	Sranan	BOON		B	
+126	Old High German	bein		B	
+27	German	das Bein		B	
+27	German	Knochen	'knɔxn̩	G	
+86	Pennsylvania Dutch	GNUCHE		G	
+120	Luxembourgish	Schank			
+121	German Switzerland	chnoche		G	
+112	Latin	os	os	D	
+17	Catalan	os	ɔs	D	
+56	Portuguese	osso	ˈosu	D	
+68	Spanish	hueso	'weso	D	
+61	Sardinian Cagliari	OSSU		D	
+62	Sardinian Logudoro	OSSU		D	
+63	Sardinian Nuoro	OSSU		D	
+85	French Creole Dominica	ZOS		D	
+76	Walloon	OHE		D	
+25	French	os	ɔs	D	
+57	Provencal	òs	ɔs	D	
+42	Ladin	OSS		D	
+146	Dolomite Ladino	os		D	
+123	Romansh	oss, ies		D	
+122	Friulian	vues		D	
+39	Italian	osso	'ɔsso	D	
+59	Romanian	os	os	D	
+74	Vlach	OS		D	
+127	Old Irish	cnáim	kna:ṽʹ	I	
+101	Middle Cornish	askorn		D	
+172	Middle Breton	askorn	ˈaskorn	D	
+12	Breton	askorn	ˈaskɔrn	D	
+79	Welsh	asgwrn		D	
+38	Irish	cnámh		I	
+115	Scottish Gaelic	cnàmh		I	
+147	Manx	craue		I	
+5	[Legacy] Albanian T	asht		D	
+5	[Legacy] Albanian T	kockë		(F)	
+29	[Legacy] Greek K	OSTOUN		D	
+28	[Legacy] Greek D	KOKKALO		H	
+30	[Legacy] Greek Md	KOKKALO		H	
+64	[Legacy] Serbocroatian	KOST		F	
+113	[Legacy] Serbian	kost		F	
+89	[Legacy] Bulgarian P	KOST		F	
+49	[Legacy] Macedonian	koska	ˈkɔska	F	
+94	[Legacy] Russian P	KOST		F	
+93	[Legacy] Polish P	KOSC		F	
+90	[Legacy] Byelorussian P	KOSC		F	
+98	[Legacy] Ukrainian P	KISTKA		F	
+19	[Legacy] Czech E	KOSTY		F	
+96	[Legacy] Slovak P	KOST		F	
+91	[Legacy] Czech P	KOST		F	
+67	[Legacy] Slovenian	KUST		F	
+45	[Legacy] Lithuanian O	KAULAS		K	
+11	[Legacy] Brazilian	OSSO		D	
+142	[Legacy] German Munich	Knochen		G	
+84	[Legacy] French Creole C	ZO		D	
+14	[Legacy] Breton St	askorn	ˈaskɔrn	D	
+13	[Legacy] Breton Se	ASKORN		D	
+78	[Legacy] Welsh C	ASGWRN		D	
+37	[Legacy] Irish A	CNAMH		I	

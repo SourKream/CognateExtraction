@@ -1,0 +1,111 @@
+114	Proto-Indo-European	*mḗh₁n̥s		A	
+80	Hittite	armas		B	
+133	Luvian	*armas			
+134	Lycian	arm̃ma			
+81	Tocharian A	mañ		A	
+82	Tocharian B	meñe		A	
+143	Standard Albanian	hëna		E	
+3	Albanian Gheg	hanë		E	
+6	Albanian Tosk	hënë		E	
+110	Ancient Greek	σελήνη	selɛ́ːnɛː	S	
+110	Ancient Greek	μήνη	mɛ́ːnɛː	(A)	
+152	Tsakonian	φεγγάρι		R	
+32	Greek	φεγγάρι	feŋˈgari	R	
+32	Greek	σελήνη		(S)	
+129	Classical Armenian	լուսին	lowsin	C	
+8	Armenian Eastern	lusin	luˈsin	C	
+8	Armenian Eastern	ամիս	amis	(A)	
+128	Avestan	må		A	
+131	Old Persian	*māhā-		A	
+136	Sogdian	m’x		A	
+118	Kurdish	meh		A	
+118	Kurdish	heyv		I	
+137	Zazaki	āšmī		J	
+138	Shughni	mêst		A	
+139	Sarikoli	gыx̆t		L	
+139	Sarikoli	sыqum		K	
+141	Kata-viri	mõs		A	
+154	Vasi-vari	mēseg/γe məsex		A	
+153	Askunu	mas		A	
+105	Vedic Sanskrit	soma		(O)	
+105	Vedic Sanskrit	mā́s		A	
+105	Vedic Sanskrit	candra		(E)	
+105	Vedic Sanskrit	indu		(N)	
+162	Pāḷī	canda		E	
+106	Assamese	sandra	sandra	(E)	
+106	Assamese	junāk		P	
+106	Assamese	chāt		Q	
+106	Assamese	zon	zon	M	
+102	Oriya	cand(r)ɔ	cand(r)ɔ	(E)	
+102	Oriya	jɔnhɔ	jɔnhɔ	M	
+111	Bihari	chəndrma	chəndrma	(E)	
+144	Magahi	चांद	cɑ̃d̪	E	
+104	Marwari	cand		E	
+119	Urdu	چانْد	ʧɑnd̪	E	
+103	Sindhi	čaṇḍru		E	
+34	Romani Greece	čhonút		M	
+100	Old Church Slavonic	мѣсѧць	mæsɛ̃tsʲɪ̆	A	
+95	Serbo-Croatian	mjesec	ˈmjɛ̂sɛːts	A	
+15	Bulgarian	луна	ɫuˈna	C	
+92	Macedonian	месечина	mɛˈsetʃina	A	
+60	Russian	луна	ɫu'na	C	
+55	Polish	księżyc	ˈkɕɛɰ̃ʐɘ̟ts	H	
+16	Belarusian	месяц	ˈmʲɛsʲats	A	
+73	Ukrainian	місяць	ˈmisʲatsʲ	A	
+66	Slovak	mesiac	ˈmɛsiats	A	
+18	Czech	měsic	ˈmɲɛsiːts	A	
+48	Sorbian Upper	měsačk	ˈmɪsatʃk	A	
+47	Sorbian Lower	mjasec	ˈmjasɛts	A	
+97	Slovenian	mesec	ˈmêːsɛts	A	
+97	Slovenian	luna	ˈlǔːna	C	
+108	Old Prussian	menig		A	
+44	Latvian	mẽness		A	
+46	Lithuanian	mėnulis	mʲe:ˈnʊlʲɪs	A	
+109	Old Norse	máni	ˈmaːni	(A)	
+109	Old Norse	tungl	tunɣl	G	
+36	Icelandic	máni	ˈmaunɪ	A	
+36	Icelandic	tungl	tʰuŋl	G	
+23	Faroese	máni	ˈmɔanɪ	A	
+23	Faroese	tungl	tʰʊŋɡ̊l	G	
+58	Norwegian Riksmal	måne	ˈmòːnə	A	
+159	Stavangersk	måne	ˈmòːnə	A	
+157	Old Swedish	tungel	ˈtuŋːel	G	
+157	Old Swedish	mane	ˈmaːne	A	
+69	Swedish	måne	ˈmòːnə	A	
+145	Elfdalian	tunggel	tʉ́ŋgɛl	G	
+20	Danish	måne	ˈmɔːnə	A	
+158	Danish Fjolde	moan	moan	A	
+161	Gutnish Lau	manä	ˈmɑːnɛ	A	
+99	Old English	mōna		A	
+22	English	moon		A	
+21	Dutch	maan	man	A	
+126	Old High German	māno		A	
+27	German	Mond		A	
+120	Luxembourgish	Mound		A	
+121	German Switzerland	mond		A	
+107	Gothic	mēna		A	
+112	Latin	lūna	ˈluːna	C	
+68	Spanish	luna	'luna	C	
+25	French	lune	lyn	C	
+57	Provencal	luna	ˈlyno	C	
+146	Dolomite Ladino	lùnå		C	
+123	Romansh	glina, glüna		C	
+122	Friulian	lune		C	
+59	Romanian	lună	ˈlunə	C	
+127	Old Irish	éscae, éisce	e:ske, e:sʹkʹe	F	
+149	Old Cornish	luir		C, T	
+101	Middle Cornish	loor	lo:r	C, T	
+172	Middle Breton	loar, loàr, loer	ˈloar, ˈloer	C, T	
+12	Breton	loar	ˈlwaːr, ˈloar	C, T	
+150	Old Welsh	loyr		C, T	
+79	Welsh	lloer		C, T	
+38	Irish	gealach		D	
+38	Irish	luan		(C)	
+38	Irish	éasca		(F)	
+115	Scottish Gaelic	gealach		D	
+147	Manx	eayst		F	
+147	Manx	giallagh		(D)	
+5	[Legacy] Albanian T	hënë	hənə	E	
+113	[Legacy] Serbian	mesec	mêseːts	A	
+142	[Legacy] German Munich	Mond		A	
+14	[Legacy] Breton St	loar	lwa:r	C	

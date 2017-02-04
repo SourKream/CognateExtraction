@@ -1,0 +1,152 @@
+80	Hittite	alil		C	
+81	Tocharian A	pyāpi		H	
+82	Tocharian B	pyāpyo		H	
+88	Albanian	LULE		C	
+143	Standard Albanian	lule		C	
+2	Albanian Sicily	LULE		C	
+4	Albanian Corinth	LULE		C	
+3	Albanian Gheg	LULE		C	
+6	Albanian Tosk	LULE		C	
+110	Ancient Greek	ἄνθος	ántʰos	D	
+32	Greek	λουλούδι	luˈluði	(C)	
+31	Greek Lesbos	LOULOUDI		(C)	
+129	Classical Armenian	ծաղիկ		K	
+8	Armenian Eastern	çaġik	ʦɑˈʁik	(K)	
+8	Armenian Eastern	całik		K	
+7	Armenian Western	ZAGHEG			
+136	Sogdian	’sp’rγmy(y)		L	
+75	Wakhi	GUL		(A)	
+75	Wakhi	SPREGH		L	
+9	Baluchi	PHUL		(E)	
+137	Zazaki	gul		(A)	
+72	Tajik	gul	gul	A	
+72	Tajik	SUKUFA		M	
+54	Persian	GOL		A	
+77	Waziri	GUL		(A)	
+1	Pashto	GUL		(A)	
+138	Shughni	gul		(A)	
+139	Sarikoli	gыl		(A)	
+52	Ossetic	didinaeg	didinæɡ	G	
+124	Ossetic Iron	didinɐg	didinɐg	G	
+125	Ossetic Digor	dedenɐg	dedenɐg	G	
+141	Kata-viri	piš		I	
+105	Vedic Sanskrit	púṣpam		I	
+162	Pāḷī	puppha		I	
+41	Khaskura	PHUL		E	
+51	Nepali	PHUL		E	
+106	Assamese	phul	phul	E	
+102	Oriya	phulɔ	phulɔ	E	
+10	Bengali	phul	pʰul, ful	E	
+111	Bihari	phul	phul	E	
+144	Magahi	फूल	pʰul	E	
+104	Marwari	phul	phul	E	
+104	Marwari	sāthakā		N	
+35	Hindi	phul	pʰul	E	
+119	Urdu	پُھول	pʰul	E	
+103	Sindhi	phulu		E	
+43	Lahnda	PHUL		E	
+53	Punjabi	PHULL		E	
+33	Gujarati	FUL		E	
+50	Marathi	phūl	pʰu:l	E	
+40	Kashmiri	GUL		(A)	
+40	Kashmiri	POSH		I	
+65	Sinhalese	MALA			
+34	Romani Greece	LULUGI		(C)	
+100	Old Church Slavonic	цвѣтъ	tsʲvætʊ̆	F	
+95	Serbo-Croatian	cvijet	tsvjɛ̂ːt	F	
+15	Bulgarian	цвете	ˈtsvɛtɘ	F	
+92	Macedonian	цвеќе	ˈtsvecɛ	F	
+60	Russian	цвет	tsvʲɛt	F	
+55	Polish	kwiat	kfjat	F	
+16	Belarusian	кветка	kvʲɛtka	F	
+73	Ukrainian	квітка	ˈkʋitka	F	
+66	Slovak	kvet	kvɛt	F	
+18	Czech	květ	kvjɛt	F	
+48	Sorbian Upper	kwětka	ˈkwɪtka	F	
+47	Sorbian Lower	kwětk	kwɪtk	F	
+97	Slovenian	cvet	tsvêːt	F	
+44	Latvian	puk̜e		J	
+44	Latvian	ziêds			
+46	Lithuanian	gėlė	ɡʲe:ˈlʲe:		
+109	Old Norse	blóm	bloːm	B	
+36	Icelandic	blóm	b̥louːm	B	
+23	Faroese	blóma	ˈb̥lɔuːma	B	
+58	Norwegian Riksmal	blomst	blɔmst	B	
+159	Stavangersk	blåmster	ˈblɔmstəʁ	B	
+157	Old Swedish	bloma	ˈbloːma	B	
+157	Old Swedish	blomster	ˈblomster	B	
+69	Swedish	blomma	ˈblʊ̀mːa	B	
+69	Swedish	blomster	ˈblɔmstər	B	
+71	Swedish Vilhelmina	BLOMA		B	
+70	Swedish Uppland	BLOMMA		B	
+145	Elfdalian	bljåmme	bljɔ̀mːɛ	B	
+20	Danish	blomst	b̥lʌmˀsd̥ʰ	B	
+158	Danish Fjolde	blom, blåsən	blom, ˈblɔsən	B	
+161	Gutnish Lau	blåumå	ˈbloumo	B	
+99	Old English	blōstma		B	
+22	English	flower	flaʊə	(B)	
+26	Frisian	blom	blom	B	
+21	Dutch	bloem	blum	B	
+24	Flemish	BLOEM		B	
+83	Afrikaans	BLOM		B	
+87	Sranan	BLOMIKI, BLOMETJE		B	
+126	Old High German	bluomo		B	
+27	German	Blume	'blu:mə	B	
+86	Pennsylvania Dutch	BLUUM		B	
+120	Luxembourgish	Blumm		B	
+121	German Switzerland	blueme		B	
+107	Gothic	bloma		B	
+130	Oscan	*fluus-		B	
+112	Latin	flōs	floːs	B	
+17	Catalan	flor	flɔ, flɔ̞ɾ	B	
+56	Portuguese	flor	floɾ	B	
+68	Spanish	flor	floɾ	B	
+61	Sardinian Cagliari	FRORI		B	
+62	Sardinian Logudoro	FIORE		B	
+63	Sardinian Nuoro	FRORE		B	
+85	French Creole Dominica	FLE		B	
+76	Walloon	FLEUR		B	
+25	French	fleur	flœʀ	B	
+57	Provencal	FLOUR, FLOUS		B	
+42	Ladin	FLUR		B	
+146	Dolomite Ladino	fior		B	
+123	Romansh	flur		B	
+122	Friulian	flôr		B	
+122	Friulian	rose			
+39	Italian	fiore	'fjore	B	
+59	Romanian	floare	ˈflware	B	
+74	Vlach	LILICE		C	
+140	Gaulish	blato-		B	
+127	Old Irish	scoth	scoθ		
+127	Old Irish	bláth	bla:θ	B	
+101	Middle Cornish	bleujen	'blœʤɛn	B	
+172	Middle Breton	bleuzuenn	ˈbløðven	B	
+12	Breton	bleuñvenn, bleunienn	ˈblœ̃wɛn, ˈblœ̃niɛn	B	
+79	Welsh	blodyn, blodeuyn		B	
+38	Irish	bláth	bˠl̪ˠaː	B	
+115	Scottish Gaelic	flùr		(B)	
+115	Scottish Gaelic	dìthean			
+5	[Legacy] Albanian T	lule	ˈlulɛ	C	
+29	[Legacy] Greek K	ANTHOS		D	
+28	[Legacy] Greek D	LOULOUDI		(C)	
+30	[Legacy] Greek Md	LOULOUDI		(C)	
+64	[Legacy] Serbocroatian	CVET		F	
+113	[Legacy] Serbian	cvet		F	
+89	[Legacy] Bulgarian P	CVETE		F	
+49	[Legacy] Macedonian	CVET		F	
+94	[Legacy] Russian P	CVETOK		F	
+93	[Legacy] Polish P	KWIAT		F	
+90	[Legacy] Byelorussian P	KVETKA		F	
+98	[Legacy] Ukrainian P	KUITKA		F	
+19	[Legacy] Czech E	KVITKO		F	
+96	[Legacy] Slovak P	KVET		F	
+91	[Legacy] Czech P	KVET		F	
+67	[Legacy] Slovenian	CVET, RAZE		F	
+45	[Legacy] Lithuanian O	KVIETKA		F	
+11	[Legacy] Brazilian	flor	flox	B	
+142	[Legacy] German Munich	Blume		B	
+84	[Legacy] French Creole C	FLE		B	
+14	[Legacy] Breton St	BLEUNIENN		B	
+13	[Legacy] Breton Se	BLEUENN		B	
+78	[Legacy] Welsh C	BLODYN		B	
+37	[Legacy] Irish A	BLATH		B	

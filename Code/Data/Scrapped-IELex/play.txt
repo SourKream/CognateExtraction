@@ -1,0 +1,154 @@
+80	Hittite	duskzi			
+80	Hittite	hinganiskezzi			
+82	Tocharian B	kāñmäṃ			
+88	Albanian	LUJ, LUJTA		C	
+143	Standard Albanian	luaj		(Q)	
+2	Albanian Sicily	LOS		C	
+4	Albanian Corinth	LUAN		C	
+3	Albanian Gheg	LUJ		C	
+6	Albanian Tosk	LHOS, AOR. LHOJTA		C	
+110	Ancient Greek	παίζω	pái̯zdɔː	K	
+32	Greek	παίζω	ˈpe̞zo̞	K	
+31	Greek Lesbos	PAIDZO		K	
+129	Classical Armenian	խաղան	xałam	D	
+8	Armenian Eastern	xałal		D	
+7	Armenian Western	GHAGHAL		D	
+136	Sogdian	k’t’k		P	
+9	Baluchi	LEV KHANAGH		T	
+137	Zazaki	kāy		P	
+72	Tajik	BOZI KARDAN		A	
+54	Persian	BAZI KARDAN		A	
+77	Waziri	MAZSHILEDEL		U	
+1	Pashto	BAZI KAVEL		(A)	
+138	Shughni	bōzi čidōw		(A)	
+139	Sarikoli	tož : tižd		V	
+52	Ossetic	x'azyn	qazɨn	O	
+124	Ossetic Iron	qaz-	qaz-	O	
+125	Ossetic Digor	ʁaz-	ʁaz-	O	
+105	Vedic Sanskrit	krī́ḍati		S	
+162	Pāḷī	kīḷati		S	
+41	Khaskura	KHELNU		E	
+51	Nepali	KHELNU		E	
+106	Assamese	khɛl	khɛl	E	
+102	Oriya	kheḷ-	kheɭ-	E	
+10	Bengali	KHELA		E	
+111	Bihari	kheləb	kheləb	E	
+144	Magahi	खेलना	kʰelnɑ	E	
+104	Marwari	khel-ɛ	khel-ɛ	E	
+35	Hindi	KHELNA		E	
+119	Urdu	بجانا، کھیلنا	bəʤɑnə, kʰelnə	E	
+103	Sindhi	khēḍ̄aṇu		E	
+43	Lahnda	KHEDEN		E	
+53	Punjabi	KHEDDENA		E	
+33	Gujarati	REMOWU			
+50	Marathi	khelne	'kʰeɭɳe	E	
+40	Kashmiri	GINDUN			
+65	Sinhalese	SELLAM			
+65	Sinhalese	KARANAWA			
+34	Romani Greece	KHELAV		E	
+100	Old Church Slavonic	играти	iɡrɑti	H	
+95	Serbo-Croatian	igrati	ˈîɡrati	H	
+15	Bulgarian	играя	iˈɡrajə	H	
+92	Macedonian	игра	ˈiɡra	H	
+60	Russian	играть	i'gratʲ	H	
+55	Polish	grać	gratɕ	H	
+55	Polish	bawić się	ˈbavitɕ ɕɛ(ɰ̃)	(N)	
+16	Belarusian	гуляць	ɣuˈlʲatsʲ	I	
+73	Ukrainian	грати	ˈɦratɪ	H	
+66	Slovak	hrať	ɦrac	H	
+18	Czech	hrát	ɦraːt	H	
+48	Sorbian Upper	hrać	ʀatʃ	H	
+47	Sorbian Lower	graś	ɡraɕ	H	
+97	Slovenian	igrati	iˈɡrǎːti	H	
+44	Latvian	spẽlẽjas		(B)	
+44	Latvian	rõtal ̜-ãjas			
+46	Lithuanian	žaisti	ˈʒɐjsʲtʲɪ		
+109	Old Norse	leika	ˈlɛika	M	
+36	Icelandic	leika	ˈleiːkʰa	M	
+23	Faroese	leika	ˈlaiːka	M	
+23	Faroese	spæla	ˈspɛaːla	(B)	
+58	Norwegian Riksmal	leke	ˈlèːkə	M	
+58	Norwegian Riksmal	spille	ˈspɪ̀lːə	(B)	
+159	Stavangersk	spela (seg)	ˈspèːla (seːɡ, sɛɡ)	(B)	
+157	Old Swedish	leka	ˈleːka	M	
+69	Swedish	leka	ˈlè:ka	M	
+69	Swedish	spela	ˈspè:la	(B)	
+71	Swedish Vilhelmina	LEK		M	
+71	Swedish Vilhelmina	SPELA		(B)	
+70	Swedish Uppland	LEKA		M	
+145	Elfdalian	spilå	ˈspɪ̀lɔ	(B)	
+145	Elfdalian	läka	læ̀ːkɑ	M	
+20	Danish	lege	ˈlɑjə	M	
+20	Danish	spille	ˈsb̥ʰelə	(B)	
+158	Danish Fjolde	speel	sbeːl	(B)	
+158	Danish Fjolde	liek	lieɡ	M	
+160	Old Gutnish	laica		M	
+161	Gutnish Lau	laikä	ˈlaɪkɛ	M	
+161	Gutnish Lau	spelä	ˈspeːlɛ	(B)	
+99	Old English	plegaþ		J	
+22	English	to play	pleɪ	J	
+26	Frisian	boartsje	'buatsjə		
+26	Frisian	spylje	'spiljə	B	
+21	Dutch	spelen	'spelə(n)	B	
+24	Flemish	SPELEN		B	
+83	Afrikaans	SPEEL		B	
+87	Sranan	PRE		J	
+126	Old High German	spilōt		B	
+27	German	spielen	'ʃpi:lən	B	
+86	Pennsylvania Dutch	SCHPIEL		B	
+120	Luxembourgish	spillen		B	
+121	German Switzerland	schpile		B	
+112	Latin	lūdere	ˈluːdere	Q	
+17	Catalan	RIURERSE D'ALGU			
+17	Catalan	jugar	ʒu'ɣa	F	
+56	Portuguese	jogar	ʒuˈɡaɾ	F	
+56	Portuguese	brincar	bɾĩˈkaɾ		
+68	Spanish	jugar	xu'ɣaɾ	F	
+61	Sardinian Cagliari	GOGAI		F	
+62	Sardinian Logudoro	GIOGARE		F	
+63	Sardinian Nuoro	JOKARE		F	
+85	French Creole Dominica	ZWE		F	
+76	Walloon	DJOUWER		F	
+25	French	jouer	ʒwe	F	
+57	Provencal	JOUGA		F	
+42	Ladin	GIOVER		F	
+146	Dolomite Ladino	dogà, dugà		F	
+123	Romansh	giugar		F	
+122	Friulian	zuiâ		F	
+39	Italian	giocare	dʒo'kare	F	
+59	Romanian	a juca		F	
+127	Old Irish	cluichigidir	cluxʹəɣʹəðʹərʹ	(R)	
+127	Old Irish	imm·beir	imˈbʹerʹ	L	
+101	Middle Cornish	higa			
+101	Middle Cornish	gwari	gwari	G	
+101	Middle Cornish	huertyn			
+172	Middle Breton	hoari, hoary, c'hoary, hoariff	ˈxoaːri, ˈxwaːri	G	
+12	Breton	c'hoari	ˈxoaːri, ˈxwaːri	G	
+12	Breton	EBATA			
+79	Welsh	chwarae		G	
+38	Irish	imir		L	
+115	Scottish Gaelic	cluich		R	
+5	[Legacy] Albanian T	ME LOJTUR		C	
+29	[Legacy] Greek K	PAIDZO		K	
+28	[Legacy] Greek D	PAIDZO		K	
+30	[Legacy] Greek Md	PAIDZO		K	
+64	[Legacy] Serbocroatian	IGRATI SE		H	
+113	[Legacy] Serbian	igrati	îɡrati	H	
+89	[Legacy] Bulgarian P	IGRAJA		H	
+49	[Legacy] Macedonian	IGRA		H	
+94	[Legacy] Russian P	IGRAT		H	
+93	[Legacy] Polish P	GRAC		H	
+90	[Legacy] Byelorussian P	HUL AC		I	
+98	[Legacy] Ukrainian P	HRATY		H	
+19	[Legacy] Czech E	HRAT		H	
+96	[Legacy] Slovak P	HRAT		H	
+91	[Legacy] Czech P	HRATI		H	
+67	[Legacy] Slovenian	SE JGRAT		H	
+45	[Legacy] Lithuanian O	BOVYTIS		(N)	
+11	[Legacy] Brazilian	JOGAR		F	
+142	[Legacy] German Munich	spielen		B	
+84	[Legacy] French Creole C	ZWE		F	
+14	[Legacy] Breton St	c'hoari	'xwa:ri	G	
+13	[Legacy] Breton Se	HOARI		G	
+78	[Legacy] Welsh C	CHWARAE		G	
+37	[Legacy] Irish A	IMIRT		L	

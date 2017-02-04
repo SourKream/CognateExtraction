@@ -1,0 +1,159 @@
+114	Proto-Indo-European	*h₁dónt-, *h₁dn̥t-		B	
+114	Proto-Indo-European	*ǵembʰ-		C	
+80	Hittite	gagas			
+81	Tocharian A	kam		C	
+82	Tocharian B	keme		C	
+88	Albanian	dhëmb		C	
+143	Standard Albanian	dhëmb		C	
+2	Albanian Sicily	dhëmb		C	
+4	Albanian Corinth	dhëmb		C	
+3	Albanian Gheg	dhamb		C	
+6	Albanian Tosk	dhëmb		C	
+173	Mycenaean Greek	o-da-ke-we-ta		B	
+110	Ancient Greek	ὀδούς	odúːs	B	
+152	Tsakonian	οντα		B	
+32	Greek	δόντι	ˈðo̞ndi	B	
+31	Greek Lesbos	DONTI		B	
+129	Classical Armenian	ատամն	atamn	B	
+8	Armenian Eastern	ատամ	ɑˈtɑm	B	
+7	Armenian Western	AGRA			
+128	Avestan	dātā-		B	
+128	Avestan	dantānō (pl.)		B	
+136	Sogdian	dnṭ’		B	
+75	Wakhi	DENDUK		B	
+9	Baluchi	DATHAN		B	
+118	Kurdish	diran		B	
+118	Kurdish	didan		B	
+137	Zazaki	dindān		B	
+72	Tajik	dandon	dændɔːn	B	
+54	Persian	dandan	dændɒːn	B	
+77	Waziri	GHWOSH, GHOSH		A	
+1	Pashto	GAS		A	
+138	Shughni	dindūn		B	
+139	Sarikoli	δandun		B	
+52	Ossetic	daendag	dændaɡ	B	
+124	Ossetic Iron	dɐndag	dɐndag	B	
+125	Ossetic Digor	dɐndag	dɐndag	B	
+141	Kata-viri	dutʰ		B	
+154	Vasi-vari	lätəm		B	
+153	Askunu	dunt		B	
+105	Vedic Sanskrit	dán		B	
+162	Pāḷī	danta		B	
+41	Khaskura	DANT		B	
+51	Nepali	DAT		B	
+106	Assamese	dat	dat	B	
+102	Oriya	dantɔ	dantɔ	B	
+10	Bengali	dat	d̪ɑt	B	
+111	Bihari	dãt	dãt	B	
+144	Magahi	दांत	d̪ɑt̪		
+104	Marwari	dā̃t		B	
+35	Hindi	dat	d̪ãːt̪	B	
+119	Urdu	دانت	d̪ɑ̃t̪	B	
+103	Sindhi	ḍ̑əndu	ɖ̑əndu	B	
+43	Lahnda	DEND		B	
+53	Punjabi	DEND		B	
+33	Gujarati	DAT		B	
+50	Marathi	dāt	dat	B	
+40	Kashmiri	DAND		B	
+65	Sinhalese	DATA		B	
+34	Romani Greece	DANT		B	
+100	Old Church Slavonic	зѫбъ	zɔ̃bʊ̆	C	
+95	Serbo-Croatian	zub	zûːb	C	
+15	Bulgarian	зъб	zɤb	C	
+92	Macedonian	заб	zab	C	
+60	Russian	зуб	zub	C	
+55	Polish	ząb	zɔmb	C	
+16	Belarusian	зуб	zub	C	
+73	Ukrainian	зуб	zub	C	
+66	Slovak	zub	zub	C	
+18	Czech	zub	zub	C	
+48	Sorbian Upper	zub	zub	C	
+47	Sorbian Lower	zub	zub	C	
+97	Slovenian	zob	zôːb	C	
+108	Old Prussian	dantis		B	
+44	Latvian	zòbs		C	
+46	Lithuanian	DANTIS		B	
+109	Old Norse	to̜nn	tɔnː	B	
+36	Icelandic	tönn	tʰœnː	B	
+23	Faroese	tonn	tʰɔnː	B	
+58	Norwegian Riksmal	tann	tanː	B	
+159	Stavangersk	tånn, tann	tɔnː, tanː	B	
+157	Old Swedish	tan	tanː	B	
+69	Swedish	tand	tand	B	
+71	Swedish Vilhelmina	TAN, FRAMTAN		B	
+70	Swedish Uppland	TAND, FRAMTAND		B	
+145	Elfdalian	tann	tɑnː	B	
+20	Danish	tand	d̥ʰanˀ	B	
+158	Danish Fjolde	tand	tɑnʲ	B	
+160	Old Gutnish	tandr		B	
+161	Gutnish Lau	tann	tanː	B	
+99	Old English	tōþ		B	
+22	English	tooth	tu:θ	B	
+26	Frisian	tosk	tosk	B	
+21	Dutch	tand	tɑnt	B	
+24	Flemish	TAND		B	
+83	Afrikaans	TAND		B	
+87	Sranan	TIFI		B	
+126	Old High German	zan		B	
+27	German	Zahn	t͜sa:n	B	
+86	Pennsylvania Dutch	ZAW (FEDDERSCHT)		B	
+120	Luxembourgish	Zant		B	
+121	German Switzerland	zang		B	
+107	Gothic	tunþus		B	
+130	Oscan	dunte[s]			
+112	Latin	dens	dens	B	
+17	Catalan	dent	den, dent	B	
+56	Portuguese	dente	ˈdẽtɨ	B	
+68	Spanish	diente	'djente	B	
+61	Sardinian Cagliari	DENTI		B	
+62	Sardinian Logudoro	DENTE		B	
+63	Sardinian Nuoro	DENTE		B	
+85	French Creole Dominica	DA		B	
+76	Walloon	DINT		B	
+25	French	dent	dɑ̃	B	
+57	Provencal	DENT		B	
+42	Ladin	DAINT		B	
+146	Dolomite Ladino	dent		B	
+123	Romansh	dent		B	
+122	Friulian	dint		B	
+39	Italian	dente	'dɛnte	B	
+59	Romanian	dinte	'dinte	B	
+59	Romanian	ZIMT			
+74	Vlach	DINC		B	
+127	Old Irish	fec	ɸʹek	(D)	
+127	Old Irish	dét	dʹe:d	B	
+149	Old Cornish	dans		B	
+101	Middle Cornish	dans	dans	B	
+148	Old Breton	dant		B	
+172	Middle Breton	dant	ˈdant	B	
+12	Breton	dant		B	
+79	Welsh	dant		B	
+38	Irish	déad		(B)	
+38	Irish	fiacail		D	
+115	Scottish Gaelic	deud		(B)	
+115	Scottish Gaelic	fiacail	ˈfʲiəkəlʲ	D	
+147	Manx	feeackle		D	
+5	[Legacy] Albanian T	dhëmb		C	
+29	[Legacy] Greek K	ODOUS		B	
+28	[Legacy] Greek D	DONTI		B	
+30	[Legacy] Greek Md	DONTI		B	
+64	[Legacy] Serbocroatian	ZUB		C	
+113	[Legacy] Serbian	zub	zûːb	C	
+89	[Legacy] Bulgarian P	ZUB		C	
+49	[Legacy] Macedonian	ZAB, ZABI		C	
+94	[Legacy] Russian P	ZUB		C	
+93	[Legacy] Polish P	ZAB		C	
+90	[Legacy] Byelorussian P	ZUB		C	
+98	[Legacy] Ukrainian P	ZUB		C	
+19	[Legacy] Czech E	ZUP		C	
+96	[Legacy] Slovak P	ZUB		C	
+91	[Legacy] Czech P	ZUB		C	
+67	[Legacy] Slovenian	OD NAPREJ ZOBY		C	
+45	[Legacy] Lithuanian O	DANTIS		B	
+11	[Legacy] Brazilian	dente	ˈdẽtʃi	B	
+142	[Legacy] German Munich	Zahn		B	
+84	[Legacy] French Creole C	DA		B	
+14	[Legacy] Breton St	dant	dãnt	B	
+13	[Legacy] Breton Se	DANT		B	
+78	[Legacy] Welsh C	DANT		B	
+37	[Legacy] Irish A	FIACAL		D	

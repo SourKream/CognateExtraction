@@ -1,0 +1,166 @@
+114	Proto-Indo-European	*derḱ-		D	
+114	Proto-Indo-European	*u̯ei̯d-		E	
+80	Hittite	auszi			
+133	Luvian	manāti			
+81	Tocharian A	läk-, lyāk-		O	
+82	Tocharian B	läk-, lyāk-, lyäk-		O	
+88	Albanian	shoh		B	
+143	Standard Albanian	shoh		B	
+2	Albanian Sicily	shoh		B	
+4	Albanian Corinth	shoh		B	
+3	Albanian Gheg	shof		B	
+6	Albanian Tosk	shoh		B	
+173	Mycenaean Greek	-wi-de	u̯ide	E	
+173	Mycenaean Greek	o-ro-me-no	orómenos	(P)	
+110	Ancient Greek	ὁράω	horáɔː	P	
+152	Tsakonian	ορου		P	
+32	Greek	βλέπω	ˈvle̞po̞	H	
+31	Greek Lesbos	BLEPO		H	
+129	Classical Armenian	տեսանեմ	tesanem	Q	
+8	Armenian Eastern	tesnel	tɛsˈnɛl	Q	
+7	Armenian Western	DESNEL		Q	
+128	Avestan	vaēnaiti		J	
+131	Old Persian	vainatiy		J	
+136	Sogdian	wyn		J	
+75	Wakhi	WIN-		J	
+9	Baluchi	DITHA		K	
+9	Baluchi	GINDAGH		J	
+118	Kurdish	dîtin		K	
+137	Zazaki	dītiš		K	
+72	Tajik	TAMOSO KARDAN		(C)	
+72	Tajik	didan	didæn	K	
+54	Persian	DIDAN		K	
+77	Waziri	KATEL, LIDEL		A	
+1	Pashto	LIDEL		A	
+138	Shughni	win		J	
+139	Sarikoli	wayn		J	
+52	Ossetic	uynyn	wɨnɨn	J	
+124	Ossetic Iron	fen-	fen-	J	
+125	Ossetic Digor	win-	win-	J	
+141	Kata-viri	wạ̃ʌ-		J	
+154	Vasi-vari	-s-koz-		L	
+154	Vasi-vari	-nje			
+153	Askunu	wēṇ-, wēṛ-, waṇ-		J	
+153	Askunu	kəs-		L	
+105	Vedic Sanskrit	páśyati		L	
+162	Pāḷī	dakkhati		D	
+41	Khaskura	DEKHNU, HERNU		D	
+51	Nepali	DEKHNU		D	
+106	Assamese	dɛkh	dɛkh	D	
+102	Oriya	dekh-	dekh-	D	
+10	Bengali	DEKHA		D	
+111	Bihari	dekhəb	dekhəb	D	
+144	Magahi	देखना	d̪ekʰənɑ		
+151	Bhojpuri	dekh		D	
+104	Marwari	dēkhaṇō		D	
+35	Hindi	dekhna	dekʰna	D	
+119	Urdu	دیکھنا	d̪ekʰnə	D	
+103	Sindhi	disaṇu			
+103	Sindhi	pasaṇu		L	
+43	Lahnda	DEKHEN		D	
+53	Punjabi	DEKHNA		D	
+33	Gujarati	JOWU			
+50	Marathi	pāhne	'paɦɳe	L	
+40	Kashmiri	WUCHUN			
+65	Sinhalese	BALANAVA			
+34	Romani Greece	DIKHAV		D	
+100	Old Church Slavonic	видѣти	vidæti	E	
+95	Serbo-Croatian	vidjeti	ˈvîdjɛti	E	
+15	Bulgarian	виждам	ˈviʒdəm	E	
+92	Macedonian	гледа	ˈɡlɛda	M	
+60	Russian	видеть	'vʲidʲɛtʲ	E	
+55	Polish	widzieć	ˈvidʑɛtɕ	E	
+16	Belarusian	бачыць	ˈbatʂɨtsʲ	G	
+73	Ukrainian	бачити	ˈbatʂɪtɪ	G	
+66	Slovak	vidieť	ˈviɟiɛc	E	
+18	Czech	vidět	ˈvɪɟɛt	E	
+48	Sorbian Upper	widźeć	ˈwidʒɛtʃ	E	
+47	Sorbian Lower	wiźeś	ˈwiʑeɕ	E	
+97	Slovenian	videti	ˈvǐːdɛti	E	
+108	Old Prussian	widdai		E	
+44	Latvian	redz		N	
+46	Lithuanian	matyti	mɐˈtʲi:tʲɪ	I	
+109	Old Norse	séa, sjá	ˈseːa, sjaː	B	
+36	Icelandic	sjá	ˈsjauː	B	
+23	Faroese	síggja	ˈsʊd̥ʒːa	B	
+58	Norwegian Riksmal	se	seː	B	
+159	Stavangersk	se	seː	B	
+157	Old Swedish	sea	ˈseːa	B	
+69	Swedish	se	se:	B	
+71	Swedish Vilhelmina	SI		B	
+70	Swedish Uppland	SI, SE		B	
+145	Elfdalian	sją̊	sjõː	B	
+20	Danish	se	seˀ	B	
+158	Danish Fjolde	sie	sie	B	
+160	Old Gutnish	sia		B	
+161	Gutnish Lau	säi	sɛɪ	B	
+99	Old English	siehþ		B	
+22	English	to see	si:	B	
+26	Frisian	sjen	sjɛn	B	
+21	Dutch	zien	zin	B	
+24	Flemish	ZIEN		B	
+83	Afrikaans	SIEN		B	
+87	Sranan	SI		B	
+126	Old High German	sihit		B	
+27	German	sehen	'ze:ən	B	
+86	Pennsylvania Dutch	SAY		B	
+120	Luxembourgish	gesin		B	
+120	Luxembourgish	kucken			
+121	German Switzerland	gsee		B	
+107	Gothic	saíƕiþ		B	
+132	Umbrian	uirseto		E	
+112	Latin	uidēre	wiˈdeːre	E	
+17	Catalan	veure	ˈbɛwɾə, ˈvɛwɾə; ˈbewɾe, ˈvewɾe	E	
+56	Portuguese	ver	veɾ	E	
+68	Spanish	ver	beɾ	E	
+61	Sardinian Cagliari	BIRI		E	
+62	Sardinian Logudoro	BIDERE		E	
+63	Sardinian Nuoro	VIDERE		E	
+85	French Creole Dominica	(V)WE		E	
+76	Walloon	VEY, VEYI		E	
+25	French	voir	vwaʀ	E	
+57	Provencal	VEIRE		E	
+42	Ladin	VAIR		E	
+146	Dolomite Ladino	vedér		E	
+123	Romansh	veser		E	
+122	Friulian	viodi		E	
+39	Italian	vedere	ve'dere	E	
+59	Romanian	a vedea	a veˈde̯a	E	
+74	Vlach	VEDU		E	
+140	Gaulish	pissiumi		R	
+127	Old Irish	ad·cí	aðˈkʹi:	R	
+101	Middle Cornish	gweles	'gwɛlɛs	F	
+148	Old Breton	guel / guil		F	
+172	Middle Breton	guelet, gouelet	ˈgueːlet	F	
+12	Breton	gwelet		F	
+150	Old Welsh	guelet		F	
+79	Welsh	gweld		F	
+38	Irish	feic		R	
+38	Irish	tchí		(R)	
+115	Scottish Gaelic	faic		R	
+147	Manx	faik, fakin		R	
+5	[Legacy] Albanian T	shoh		B	
+29	[Legacy] Greek K	HORO		P	
+29	[Legacy] Greek K	BLEPO		H	
+28	[Legacy] Greek D	BLEPO		H	
+30	[Legacy] Greek Md	BLEPO		H	
+64	[Legacy] Serbocroatian	VIDETI		E	
+113	[Legacy] Serbian	videti	ʋîdeti	E	
+89	[Legacy] Bulgarian P	VIZDAM		E	
+49	[Legacy] Macedonian	VIDI/GLEDA		E	
+94	[Legacy] Russian P	VIDET		E	
+93	[Legacy] Polish P	WIDZIEC		E	
+90	[Legacy] Byelorussian P	BACYC		G	
+98	[Legacy] Ukrainian P	BACYTY		G	
+19	[Legacy] Czech E	VIDET		E	
+96	[Legacy] Slovak P	VIDET		E	
+91	[Legacy] Czech P	VIDETI		E	
+67	[Legacy] Slovenian	VIDIS		E	
+45	[Legacy] Lithuanian O	MATYTI		I	
+11	[Legacy] Brazilian	VER		E	
+142	[Legacy] German Munich	sehen		B	
+84	[Legacy] French Creole C	VWE		E	
+14	[Legacy] Breton St	gwelet	'gwɛ:lɛt	F	
+13	[Legacy] Breton Se	GUELET		F	
+78	[Legacy] Welsh C	GWELED		F	
+37	[Legacy] Irish A	FEISCINT			

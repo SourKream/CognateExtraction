@@ -1,0 +1,164 @@
+114	Proto-Indo-European	*sóh₂wl̥		W	
+80	Hittite	istanus		(B)	
+133	Luvian	tiwaz			
+81	Tocharian A	koṃ		G	
+82	Tocharian B	kauṃ		G	
+88	Albanian	diell		C	
+143	Standard Albanian	diell		C	
+2	Albanian Sicily	diell		C	
+4	Albanian Corinth	diell		C	
+3	Albanian Gheg	dilli		C	
+6	Albanian Tosk	diell		C	
+110	Ancient Greek	ἥλιος	hɛ́ːlios	W	
+152	Tsakonian	ηλιε		W	
+32	Greek	ήλιος	ˈiʎo̞s	W	
+31	Greek Lesbos	HELIOS		W	
+129	Classical Armenian	արեւ	ɑɾɛu̯	(D)	
+129	Classical Armenian	արեգակն	ɑɾɛɡ-ɑk-n	D	
+8	Armenian Eastern	արև	ɑˈɾɛʋ	D	
+8	Armenian Eastern	AREGAK		(D)	
+7	Armenian Western	արեւ	ɑˈrɛv	D	
+128	Avestan	huuarə		W	
+136	Sogdian	γwr		W	
+75	Wakhi	OFTOB		F	
+75	Wakhi	YIR		W	
+9	Baluchi	RO, ROSH		E	
+118	Kurdish	xor		W	
+118	Kurdish	roj		E	
+137	Zazaki	rož		E	
+72	Tajik	oftob	ɔftɔb	F	
+54	Persian	KHORSHID		W	
+54	Persian	AFTAB		F	
+77	Waziri	LMER, MYER		A	
+1	Pashto	LMAR		A	
+138	Shughni	xir		W	
+138	Shughni	ōftōb		F	
+139	Sarikoli	xer		W	
+52	Ossetic	xur	χur	W	
+124	Ossetic Iron	χur	χur	W	
+125	Ossetic Digor	χor	χor	W	
+141	Kata-viri	su		W	
+154	Vasi-vari	üsük/x		W	
+153	Askunu	suo, sō		W	
+105	Vedic Sanskrit	svàr		W	
+105	Vedic Sanskrit	sú̄ryas		(W)	
+162	Pāḷī	suriya		W	
+41	Khaskura	GHAM		G	
+41	Khaskura	SURJ		W	
+51	Nepali	SURJE		W	
+106	Assamese	xurzzɒ	xurzzɒ	W	
+106	Assamese	beli			
+102	Oriya	surjyɔ	surjyɔ	W	
+10	Bengali	SUJJO, SURJO		W	
+111	Bihari	surj	surj	W	
+144	Magahi	सूरज	surəɟ		
+104	Marwari	sūraj-jī		W	
+35	Hindi	surej	su:ɾədʒ	W	
+119	Urdu	سُورج	suɾəʤ	W	
+103	Sindhi	sūriǰu		W	
+43	Lahnda	SUREJ		W	
+53	Punjabi	SUREJ		W	
+33	Gujarati	SURDJ		W	
+50	Marathi	sūrya	'su:ɾjə	W	
+40	Kashmiri	SURE		W	
+65	Sinhalese	IRA			
+34	Romani Greece	KHAM		G	
+100	Old Church Slavonic	слъньцє	sl̩nɪ̆tsʲɛ	W	
+95	Serbo-Croatian	sunce	ˈsûːntsɛ	W	
+15	Bulgarian	слънце	ˈsɫɤntsɘ	W	
+92	Macedonian	сонце	ˈsontsɛ	W	
+60	Russian	солнце	'sɔntsɛ	W	
+55	Polish	słońce	ˈswɔɲtsɛ	W	
+16	Belarusian	сонца	ˈsɔntsa	W	
+73	Ukrainian	сонце	ˈsɔntsɛ	W	
+66	Slovak	slnko	ˈsl̩ŋkɔ	W	
+18	Czech	slunce	ˈsluntsɛ	W	
+48	Sorbian Upper	słónčko	ˈswʊntʃkɔ	W	
+47	Sorbian Lower	słyńco	ˈswɘ̟ɲtsɔ	W	
+97	Slovenian	sonce	ˈsôːntsɛ	W	
+108	Old Prussian	saule		W	
+44	Latvian	saũle		W	
+46	Lithuanian	saulė	sɑule:	W	
+109	Old Norse	sunna	ˈsunːa	W	
+109	Old Norse	sól	soːl	W	
+36	Icelandic	sól	souːl	W	
+23	Faroese	sól	sɔuːl	W	
+58	Norwegian Riksmal	sol	suːl, suːɽ	W	
+159	Stavangersk	sol	suːl	W	
+157	Old Swedish	sol	soːl	W	
+69	Swedish	sol	suːl	W	
+71	Swedish Vilhelmina	SOL		W	
+70	Swedish Uppland	SOL		W	
+145	Elfdalian	suol	sʉəl	W	
+20	Danish	sol	sol	W	
+158	Danish Fjolde	suol	suol	W	
+160	Old Gutnish	sol		W	
+161	Gutnish Lau	såul	soul	W	
+99	Old English	sunne		W	
+22	English	sun	sʌn	W	
+26	Frisian	SINNE		W	
+21	Dutch	zon	zɔn	W	
+24	Flemish	ZON		W	
+83	Afrikaans	SON		W	
+87	Sranan	ZON		W	
+126	Old High German	sunna		W	
+27	German	Sonne	'zɔnə	W	
+86	Pennsylvania Dutch	SUUN		W	
+120	Luxembourgish	Sonn		W	
+121	German Switzerland	sunne		W	
+107	Gothic	sauil		W	
+107	Gothic	sunnō		W	
+112	Latin	sōl	soːl	W	
+17	Catalan	sol	sɔɫ	W	
+56	Portuguese	sol	sɔl	W	
+68	Spanish	sol	sol	W	
+61	Sardinian Cagliari	SOLI		W	
+62	Sardinian Logudoro	SOLE		W	
+63	Sardinian Nuoro	SOLE		W	
+85	French Creole Dominica	SOLEY		W	
+76	Walloon	SOLO		W	
+25	French	soleil	sɔlɛj	W	
+57	Provencal	solelh	suˈlel	W	
+42	Ladin	SOLAGL		W	
+146	Dolomite Ladino	sorèie, sorège		W	
+123	Romansh	sulegl		W	
+122	Friulian	soreli		W	
+39	Italian	sole	'sole	W	
+59	Romanian	soare	ˈsware	W	
+74	Vlach	SWARE		W	
+140	Gaulish	sonno-		W	
+127	Old Irish	grían	gʹrʹi:ən	G	
+149	Old Cornish	heuul		W	
+101	Middle Cornish	howl	hɔʊl	W	
+148	Old Breton	houl		W	
+172	Middle Breton	heaul, eaul, heol	ˈheol, ˈheaul, ˈeol, ˈeaul		
+12	Breton	heol		W	
+150	Old Welsh	heul		W	
+79	Welsh	haul	haɨl	W	
+38	Irish	grian		G	
+115	Scottish Gaelic	grian		G	
+147	Manx	grian		G	
+5	[Legacy] Albanian T	diell		C	
+29	[Legacy] Greek K	HELIOS		W	
+28	[Legacy] Greek D	HELIOS		W	
+30	[Legacy] Greek Md	HELIOS		W	
+64	[Legacy] Serbocroatian	SUNCE		W	
+113	[Legacy] Serbian	sunce	sûːntse	W	
+89	[Legacy] Bulgarian P	SLUNCE		W	
+49	[Legacy] Macedonian	SONCE		W	
+94	[Legacy] Russian P	SOLNCE		W	
+93	[Legacy] Polish P	SLONCE		W	
+90	[Legacy] Byelorussian P	SONCA		W	
+98	[Legacy] Ukrainian P	SONCE		W	
+19	[Legacy] Czech E	SLUNKO		W	
+96	[Legacy] Slovak P	SLNCE		W	
+91	[Legacy] Czech P	SLUNCE		W	
+67	[Legacy] Slovenian	SUNCE		W	
+45	[Legacy] Lithuanian O	SAULE		W	
+11	[Legacy] Brazilian	SOL		W	
+142	[Legacy] German Munich	Sonne		W	
+84	[Legacy] French Creole C	SOLEY		W	
+14	[Legacy] Breton St	heol	ɛwl	W	
+13	[Legacy] Breton Se	HIAUL		W	
+78	[Legacy] Welsh C	HAUL		W	
+37	[Legacy] Irish A	GRIAN		G	

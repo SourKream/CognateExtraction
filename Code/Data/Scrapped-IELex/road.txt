@@ -1,0 +1,208 @@
+114	Proto-Indo-European	*pent-			
+80	Hittite	palsas			
+133	Luvian	harwas			
+81	Tocharian A	ytār		Aa	
+82	Tocharian B	ytārye		Aa	
+88	Albanian	rrugë		(A)	
+88	Albanian	udhë		C	
+143	Standard Albanian	rrugë		(A)	
+2	Albanian Sicily	dhrom		(D)	
+4	Albanian Corinth	dhrom		(D)	
+3	Albanian Gheg	udha		C	
+3	Albanian Gheg	rruga		(A)	
+6	Albanian Tosk	udhë		C	
+6	Albanian Tosk	rrugë		(A)	
+110	Ancient Greek	ὁδός	hodós	Ad	
+152	Tsakonian	πορεία			
+32	Greek	δρόμος	ˈðro̞mo̞s	N	
+31	Greek Lesbos	DROMOS		N	
+129	Classical Armenian	շաւիղ	šawił		
+129	Classical Armenian	ճանապարհ	čanaparh	E	
+129	Classical Armenian	ուղի	ułi		
+8	Armenian Eastern	ułi			
+8	Armenian Eastern	č̣anaparh	ʧɑnɑˈpɑɾ	E	
+8	Armenian Eastern	č̣amp’a	ʧɑmˈpʰɑ	E	
+7	Armenian Western	JANBA		E	
+128	Avestan	pantå		J	
+128	Avestan	aδβa		Ab	
+131	Old Persian	*paθi-		J	
+136	Sogdian	r’θ		Ac	
+75	Wakhi	VEDEK		F	
+9	Baluchi	DAG		F	
+118	Kurdish	rê		Ac	
+137	Zazaki	kuče			
+72	Tajik	POX		J	
+54	Persian	RAH		Ac	
+77	Waziri	LYAR		Ac	
+1	Pashto	LAR		Ac	
+138	Shughni	pun(d)		J	
+138	Shughni	ra, ro		Ac	
+139	Sarikoli	pond		J	
+52	Ossetic	faendag	fændaɡ	J	
+124	Ossetic Iron	fɐndag	fɐndag	J	
+125	Ossetic Digor	nad	nad		
+154	Vasi-vari	wūtō		J	
+153	Askunu	pōt		J	
+105	Vedic Sanskrit	ádhvā		(Ab)	
+105	Vedic Sanskrit	pánthās		J	
+162	Pāḷī	patha		J	
+162	Pāḷī	magga		Z	
+41	Khaskura	BATO		Q	
+51	Nepali	BATO		Q	
+106	Assamese	rasta	rasta	(Y)	
+106	Assamese	bat	bat	Q	
+102	Oriya	baṭɔ	baʈɔ	Q	
+102	Oriya	sɔṛɔkɔ	sɔɽɔkɔ	G	
+102	Oriya	rasta	rasta	(Y)	
+10	Bengali	RASTA		(Y)	
+10	Bengali	SOROK		G	
+111	Bihari	rasta	rasta	(Y)	
+111	Bihari	galli			
+111	Bihari	patha			
+111	Bihari	sərək	sərək	G	
+144	Magahi	सडक	səɽək		
+104	Marwari	səɽək	səɽək	G	
+104	Marwari	marəg	marəg	(Z)	
+104	Marwari	rəsto	rəsto	Y	
+35	Hindi	marg	marg	(Z)	
+35	Hindi	RASTA		(Y)	
+35	Hindi	SEREK		G	
+119	Urdu	راستہ	ɾɑst̪ə	(Y)	
+119	Urdu	سَڑَک	səɽək	G	
+103	Sindhi	randu			
+103	Sindhi	mārikha			
+103	Sindhi	kūī			
+43	Lahnda	SEREK		G	
+53	Punjabi	SEREK		G	
+33	Gujarati	RESTO		(Y)	
+50	Marathi	sadak	sə'ɖək	G	
+50	Marathi	rastā	ɾəs'ta	(Y)	
+40	Kashmiri	WATH		Q	
+65	Sinhalese	PARA			
+34	Romani Greece	DROM		(N)	
+100	Old Church Slavonic	пѫть	pɔ̃tɪ̆	J	
+95	Serbo-Croatian	put	pûːt	J	
+15	Bulgarian	път	pɤt	J	
+92	Macedonian	пат	pat	J	
+60	Russian	дорога	daˈrɔga	K	
+55	Polish	droga	ˈdrɔɡa	K	
+16	Belarusian	дарога	daˈrɔɣa	K	
+73	Ukrainian	дорога	dɔˈrɔɦa	K	
+66	Slovak	cesta	ˈtsɛsta	L	
+18	Czech	cesta	ˈtsɛsta	L	
+48	Sorbian Upper	puć	putʃ	J	
+47	Sorbian Lower	droga	ˈdrɔɡa	K	
+97	Slovenian	pot	pôːt	J	
+108	Old Prussian	pintis		J	
+44	Latvian	cel ̜š		S	
+46	Lithuanian	kelias	ˈkælʲɐs	S	
+109	Old Norse	vegr	veɡr	(B)	
+109	Old Norse	gata	ˈɡata	V	
+36	Icelandic	gata	ˈɡ̊aːtʰa	V	
+36	Icelandic	vegur	ˈvɛːɣʏr	B	
+23	Faroese	vegur	ˈveːvʊɹ	B	
+58	Norwegian Riksmal	vei	ʋæɪ	B	
+159	Stavangersk	vei	ʋɛɪ	B	
+157	Old Swedish	vägher	ˈvæːɣer	B	
+69	Swedish	väg	vɛ:g	B	
+71	Swedish Vilhelmina	VAG		B	
+70	Swedish Uppland	VAG		B	
+145	Elfdalian	weg	wɛːg	B	
+20	Danish	vej	vɑjˀ	B	
+158	Danish Fjolde	væj	væj	B	
+160	Old Gutnish	vegr		B	
+160	Old Gutnish	gata		V	
+161	Gutnish Lau	väg	vɛːɡ	B	
+99	Old English	weg		B	
+99	Old English	strǣt		(P)	
+22	English	road	rəʊd	W	
+26	Frisian	paad	pa:t	M	
+21	Dutch	weg	wɛχ	B	
+24	Flemish	WEG		B	
+83	Afrikaans	WEG		B	
+87	Sranan	PASI		M	
+126	Old High German	weg		B	
+27	German	Weg	vɛk	B	
+27	German	Landstraße	'lantʃtra:sə	(P)	
+86	Pennsylvania Dutch	WAYK		B	
+120	Luxembourgish	Strooss		(P)	
+121	German Switzerland	schtrass		(P)	
+107	Gothic	gatwo		V	
+107	Gothic	wigs		B	
+130	Oscan	víú		R	
+132	Umbrian	via		R	
+112	Latin	sēmita	seːmita	(H)	
+112	Latin	via	ˈwia	R	
+17	Catalan	SENDER			
+17	Catalan	camí	kə'mi	(H)	
+56	Portuguese	estrada	ɨʃˈtɾadɐ	P	
+68	Spanish	camino	ka'mino	(H)	
+61	Sardinian Cagliari	ARRUGA			
+62	Sardinian Logudoro	VIA		R	
+63	Sardinian Nuoro	VIA		R	
+85	French Creole Dominica	SIME		(H)	
+76	Walloon	VOYE		R	
+25	French	chemin	ʃ(ə)mɛ̃	(H)	
+57	Provencal	ROUTO			
+42	Ladin	VIA		R	
+146	Dolomite Ladino	viàč		R	
+146	Dolomite Ladino	štrèdå		P	
+146	Dolomite Ladino	trói		Ae	
+123	Romansh	trutg		Ae	
+123	Romansh	laisa			
+123	Romansh	via		R	
+123	Romansh	senda			
+123	Romansh	streda		P	
+122	Friulian	vie		R	
+122	Friulian	strade		P	
+122	Friulian	troi		Ae	
+39	Italian	strada	'strada	P	
+59	Romanian	drum		N	
+59	Romanian	cale		T	
+74	Vlach	KALE		T	
+140	Gaulish	cammino-		H	
+140	Gaulish	sentu-		I	
+127	Old Irish	sét	sʹe:d	(I)	
+127	Old Irish	slige	sʹlʹiɣʹe		
+127	Old Irish	bóthar	bo:θər	O	
+101	Middle Cornish	hens		I	
+101	Middle Cornish	fordh	fɔrð	U	
+148	Old Breton	hint		I	
+172	Middle Breton	hent, ent	ˈhent, ˈent	I	
+12	Breton	hent	ˈhent, ˈent	I	
+150	Old Welsh	hynt		I	
+79	Welsh	hynt		(I)	
+79	Welsh	ffordd		U	
+79	Welsh	heol		(Ag)	
+38	Irish	ráthad		(Af), (W)	
+38	Irish	séad		(I)	
+38	Irish	bóthar	ˈbˠoːhəɾˠ	O	
+115	Scottish Gaelic	rathad		Af, (W)	
+147	Manx	bayr		(O)	
+147	Manx	raad		Af, (W)	
+5	[Legacy] Albanian T	rrugë		(A)	
+5	[Legacy] Albanian T	udhë		C	
+29	[Legacy] Greek K	HODOS		Ad	
+28	[Legacy] Greek D	DROMOS		N	
+30	[Legacy] Greek Md	DROMOS		N	
+64	[Legacy] Serbocroatian	PUT		J	
+113	[Legacy] Serbian	cesta		L	
+113	[Legacy] Serbian	put		J	
+89	[Legacy] Bulgarian P	PUT		J	
+49	[Legacy] Macedonian	PAT/CADE		J	
+94	[Legacy] Russian P	PUT		J	
+93	[Legacy] Polish P	DROGA		K	
+90	[Legacy] Byelorussian P	DAROHA		K	
+98	[Legacy] Ukrainian P	PUT		J	
+19	[Legacy] Czech E	CESTA		L	
+96	[Legacy] Slovak P	PUT		J	
+91	[Legacy] Czech P	DRAHA		K	
+67	[Legacy] Slovenian	CESTA		L	
+45	[Legacy] Lithuanian O	KELIAS		S	
+11	[Legacy] Brazilian	CAMINHO		(H)	
+142	[Legacy] German Munich	Straße		(P)	
+84	[Legacy] French Creole C	SIME		(H)	
+14	[Legacy] Breton St	hent	hɛ̃nd	I	
+13	[Legacy] Breton Se	HENT		I	
+78	[Legacy] Welsh C	HEOL		Ag	
+37	[Legacy] Irish A	BOTHAR		O	

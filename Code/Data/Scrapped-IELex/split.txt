@@ -1,0 +1,180 @@
+80	Hittite	iskallai		F	
+81	Tocharian A	kotnaṣ		K	
+82	Tocharian B	kautanaṃ		K	
+88	Albanian	TSHAJ		B	
+143	Standard Albanian	ndaj			
+2	Albanian Sicily	XAP			
+4	Albanian Corinth	SKIER		F	
+3	Albanian Gheg	TSHAJ		B	
+6	Albanian Tosk	CAN, CAJTA = AOR.		B	
+110	Ancient Greek	σχίζω	skʰízdɔː	M	
+32	Greek	χωρίζω	xo̞ˈrizo̞		
+32	Greek	σκίζω	ˈscizo̞	(M)	
+31	Greek Lesbos	SKIDZO		M	
+129	Classical Armenian	herjanem / herjum			
+129	Classical Armenian	c‘ele/um			
+129	Classical Armenian	ճեղքեմ	čełk‘em		
+8	Armenian Eastern	KTREL			
+8	Armenian Eastern	բաժանել	bɑʒɑˈnɛl		
+8	Armenian Eastern	ճեղքել	čełk‘el		
+7	Armenian Western	ճեղքել	d͡ʒɛχkʰɛl	F	
+7	Armenian Western	JEGHKEL			
+128	Avestan	darədairaiiāṯ (opt.)		T	
+136	Sogdian	k’β		Aa	
+9	Baluchi	BURAGH, BURITHA		U	
+137	Zazaki	šeqnāyiš		V	
+72	Tajik	кафидан	kæfidæn	A, Aa	
+54	Persian	NESF KARDAN		(W)	
+77	Waziri	CHAWEL		X	
+1	Pashto	MATAVEL		Y	
+52	Ossetic	FANDYN		Z	
+52	Ossetic	uaryn	warɨn	U	
+124	Ossetic Iron	šɐtt-	šɐtt-	S	
+125	Ossetic Digor	sɐtt-	sɐtt-	S	
+105	Vedic Sanskrit	bhinátti		E	
+162	Pāḷī	bhindati		E	
+41	Khaskura	PHATNU		D	
+41	Khaskura	CHIRNU		C	
+51	Nepali	PHARNU		D	
+51	Nepali	CIRNU		C	
+106	Assamese	phal	phal	N	
+102	Oriya	bhagɔ k-	bhagɔ k-		
+102	Oriya	phaḷɔ k-	phaɭɔ k-	N	
+102	Oriya	čiriba	čiriba	C	
+10	Bengali	PHARA		D	
+111	Bihari	cirəb	cirəb	C	
+144	Magahi	छितराना	cʰit̪rɑnɑ	Ab	
+151	Bhojpuri	chhoŗ, chhaŗ			
+35	Hindi	CIRNA		C	
+119	Urdu	دو ٹُکڑے کرنا	do ʈʊkɽe kəɾnə	C	
+103	Sindhi	čīr-ō		C	
+43	Lahnda	TOREN			
+53	Punjabi	VEKKH			
+53	Punjabi	KERNA		C	
+50	Marathi	phādne	pʰaɖɳe	D	
+50	Marathi	tSirne	tʃiɾɳe	C	
+50	Marathi	tSirne			
+40	Kashmiri	PHALUN, PHATUN		D	
+65	Sinhalese	PALANAWA		D	
+34	Romani Greece	CHINAV		Ab	
+100	Old Church Slavonic	расцѣпити	rɑstsʲæpiti	M	
+100	Old Church Slavonic	дѣлити	dæliti	Q	
+95	Serbo-Croatian	razdijeliti	razˈdjɛ̂ːliti	Q	
+15	Bulgarian	деля	dəˈlʲɤ	Q	
+92	Macedonian	раздели	ˈrazdɛli	Q	
+60	Russian	рубить	ruˈbʲitʲ	(Ac)	
+60	Russian	делить	dʲɛˈlʲitʲ	Q	
+55	Polish	dzielić	ˈdʑɛlʲitɕ	Q	
+55	Polish	rąbać	ˈrɔmbatɕ	(Ac)	
+16	Belarusian	сячы	sʲaˈtʂɨ	(Ad)	
+16	Belarusian	дзяліць	dzʲaˈlʲitsʲ	Q	
+73	Ukrainian	рубати	ruˈbatɪ	(Ac)	
+73	Ukrainian	ділити	dʲiˈɫɪtɪ	Q	
+66	Slovak	deliť	ˈɟɛlic	Q	
+66	Slovak	rúbať	ˈruːbac	(Ac)	
+18	Czech	dělit	ˈɟɛlɪt	Q	
+18	Czech	štípat	ˈʃciːpat	(H)	
+48	Sorbian Upper	dźělić	ˈdʒɪlitʃ	Q	
+48	Sorbian Upper	kałać	ˈkawatʃ	(Ae)	
+47	Sorbian Lower	źěliś	ˈʑɪlʲiɕ	Q	
+47	Sorbian Lower	kłojś	kwɔjɕ	(Ae)	
+97	Slovenian	deliti	dɛˈlǐːti	Q	
+108	Old Prussian	spelaūtweī		N	
+108	Old Prussian	speltweī		N	
+44	Latvian	skal ̂-da		F	
+46	Lithuanian	SKELTI		F	
+109	Old Norse	kljúfa	ˈkljuːva	I	
+36	Icelandic	kljúfa	ˈkʰljuːva	I	
+23	Faroese	klúgva, kloyva	ˈkʰlɪɡ̊va, ˈkʰlɔiva	I	
+58	Norwegian Riksmal	kløyve	ˈklœʏ̀ʋə	I	
+159	Stavangersk	klöïva	ˈklœɪ̀ʋa	I	
+157	Old Swedish	klyva	ˈklyːva	I	
+69	Swedish	klyva	ˈklỳːva	I	
+69	Swedish	splittra	'splitra	(A)	
+71	Swedish Vilhelmina	KLYV		I	
+70	Swedish Uppland	KLYVA		I	
+145	Elfdalian	kliuova	ˈkljʉ̀əvɑ	I	
+20	Danish	kløve	ˈg̥ʰløːvə	I	
+158	Danish Fjolde	klyøv	klyøw	I	
+160	Old Gutnish	cliaufa		I	
+161	Gutnish Lau	klauä	ˈklauɛ	I	
+99	Old English	clīefþ		I	
+22	English	to split	splɪt	A	
+26	Frisian	splitse	'splɪtsə	A	
+26	Frisian	spjalte	'spjɔltə	N	
+21	Dutch	splijten	'splɛitə(n)	A	
+21	Dutch	klieven	ˈklivə	I	
+24	Flemish	SPLITSEN		A	
+83	Afrikaans	SPLITS		A	
+83	Afrikaans	VERDEEL		Q	
+87	Sranan	PLITI		A	
+126	Old High German	kliubit			
+126	Old High German	speltit			
+27	German	spalten	'ʃpaltn̩	N	
+86	Pennsylvania Dutch	SCHPOLLD		N	
+120	Luxembourgish	deelen		Q	
+121	German Switzerland	schpaute		N	
+107	Gothic	gramst(a)			
+107	Gothic	gaainanan			
+112	Latin	scindere	ˈskindere	(M)	
+112	Latin	findere	ˈfindere	(E)	
+17	Catalan	CRIVELLAR			
+17	Catalan	esquerdar	əskəɾ'ða		
+56	Portuguese	rachar	ʀɐˈʃaɾ	O	
+56	Portuguese	FENDER		E	
+68	Spanish	HENDER		E	
+68	Spanish	RAJAR		O	
+68	Spanish	partir	paɾ'tiɾ		
+61	Sardinian Cagliari	ZAKKAI			
+62	Sardinian Logudoro	ISPACCARE		R	
+63	Sardinian Nuoro	ISPAKKARE		R	
+85	French Creole Dominica	FAN		E	
+76	Walloon	HINER		E	
+76	Walloon	CRENER			
+76	Walloon	FINDE		E	
+76	Walloon	HIYI		E	
+76	Walloon	FALIER		E	
+25	French	fendre	fɑ̃dʀ	E	
+57	Provencal	FENDRE		E	
+57	Provencal	ESPECA		R	
+42	Ladin	SFENDER, FENDER		E	
+146	Dolomite Ladino	despartì, spartì			
+123	Romansh	fender		E	
+122	Friulian	dividi			
+39	Italian	fendere	'fɛndere	E	
+39	Italian	spaccare	spak'kare	R	
+59	Romanian	a despica,			
+74	Vlach	DISIKU			
+127	Old Irish	dlongid	dloŋʹgʹəðʹ		
+127	Old Irish	scoiltid	scolʹtʹəðʹ	(F)	
+101	Middle Cornish	folsa	'fɔlza	F	
+172	Middle Breton	feutiff	ˈføːtiṽ		
+12	Breton	faoutañ		F	
+79	Welsh	hollti		F	
+38	Irish	scoilt		F	
+115	Scottish Gaelic	sgoilt		F	
+5	[Legacy] Albanian T	ME CARE		F	
+29	[Legacy] Greek K	SPADZO		J	
+28	[Legacy] Greek D	SPAO		J	
+30	[Legacy] Greek Md	KOBO			
+64	[Legacy] Serbocroatian	KALATI		P	
+113	[Legacy] Serbian	deliti	děːliti	Q	
+113	[Legacy] Serbian	podeliti		Q	
+89	[Legacy] Bulgarian P	LOM A		G	
+49	[Legacy] Macedonian	CEPI		M	
+94	[Legacy] Russian P	LOMIT		G	
+93	[Legacy] Polish P	LAMAC		G	
+90	[Legacy] Byelorussian P	LAMAC		G	
+98	[Legacy] Ukrainian P	LAMATY		G	
+19	[Legacy] Czech E	ROSCIPNUT		M	
+96	[Legacy] Slovak P	LOMIT		G	
+91	[Legacy] Czech P	LAMATI		G	
+67	[Legacy] Slovenian	RASCEPAJ		M	
+45	[Legacy] Lithuanian O	SKELTI		F	
+11	[Legacy] Brazilian	FENDER		E	
+142	[Legacy] German Munich	spalten		N	
+84	[Legacy] French Creole C	FAN		E	
+14	[Legacy] Breton St	faoutĩn	'fɔwtĩ	F	
+13	[Legacy] Breton Se	FEUTEIN		F	
+78	[Legacy] Welsh C	HOLLTI		F	
+37	[Legacy] Irish A	SCOILTEADH		F	

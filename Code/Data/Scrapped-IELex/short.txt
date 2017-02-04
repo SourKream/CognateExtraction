@@ -1,0 +1,152 @@
+114	Proto-Indo-European	*mr̥g̑ʰ-ú-		M	
+80	Hittite	manninkuwanz		P	
+133	Luvian	mannakunas		P	
+88	Albanian	SHKURT		(D)	
+143	Standard Albanian	i, e shkurtër		(D)	
+2	Albanian Sicily	I-SKURTUR		(D)	
+4	Albanian Corinth	I SKURTERE		(D)	
+3	Albanian Gheg	SHKURT		(D)	
+6	Albanian Tosk	SKURTER		(D)	
+110	Ancient Greek	βραχύς	brakʰýs	M	
+32	Greek	κοντός	ko̞ˈndo̞s	H	
+31	Greek Lesbos	KONTOS		H	
+129	Classical Armenian	կարճ	karč	D	
+8	Armenian Eastern	կարճ	kɑɾʧ	D	
+7	Armenian Western	կարճ	ɡɑrdʒ	D	
+128	Avestan	mərəzu-		M	
+136	Sogdian	mwrzk		M	
+75	Wakhi	KUT		L	
+9	Baluchi	GWAND		R	
+137	Zazaki	kilm		S	
+72	Tajik	KUTOX		L	
+54	Persian	kutah	kuːtɒːh	L	
+77	Waziri	LAND		A	
+1	Pashto	MUXTASAR, LAND		A	
+138	Shughni	kat, kut		L	
+139	Sarikoli	kыt		L	
+52	Ossetic	cybyr	tsɨbɨr, sɨbɨr	O	
+124	Ossetic Iron	sybyr	sybyr	O	
+125	Ossetic Digor	cubur	cubur	O	
+105	Vedic Sanskrit	hrasvas		C	
+41	Khaskura	HOCHO		T	
+51	Nepali	CHOTO		I	
+106	Assamese	suti	suti	U	
+102	Oriya	geṛa	geɽa	V	
+102	Oriya	choṭɔ	choʈɔ	I	
+10	Bengali	KHATO		E	
+111	Bihari	choʈ	choʈ	I	
+144	Magahi	छोटा	cʰot(ɑ)	I	
+35	Hindi	CHOTA		I	
+119	Urdu	چھوٹا	ˈʧʰo.ʈə	I	
+103	Sindhi	bindiro		W	
+43	Lahnda	CHOTA		I	
+53	Punjabi	MEDRA		X	
+33	Gujarati	TUKU, BETKO (PERSON)		Y	
+50	Marathi	theŋgnā	'ʈʰeŋgɳa	Z	
+50	Marathi	akhud		E	
+40	Kashmiri	TSHOTU		I	
+65	Sinhalese	KOTA		E	
+34	Romani Greece	XARNO		Aa	
+100	Old Church Slavonic	кратъкъ	krɑtʊ̆kʊ̆	D	
+95	Serbo-Croatian	kratak	ˈkrǎtak	D	
+15	Bulgarian	къс	kɤs	Ab	
+92	Macedonian	краток	ˈkratɔk	D	
+60	Russian	короткий	kɔ'rɔtkʲij	D	
+55	Polish	krótki	ˈkrutkʲi	D	
+16	Belarusian	кароткі	kaˈrɔtkʲi	D	
+73	Ukrainian	короткий	kɔˈrotkɪj	D	
+66	Slovak	krátky	ˈkraːtki	D	
+18	Czech	krátký	ˈkraːtkiː	D	
+48	Sorbian Upper	krótki	ˈkʀʊtki	D	
+47	Sorbian Lower	krotki	ˈkrɔtki	D	
+97	Slovenian	kratek	ˈkrǎːtək	D	
+108	Old Prussian	īnsan		N	
+44	Latvian	îss		N	
+46	Lithuanian	TRUMPAS		K	
+109	Old Norse	skammr	skamːr	Q	
+109	Old Norse	stuttr	stutːr	G	
+36	Icelandic	skammur	ˈskamːʏr	Q	
+36	Icelandic	stuttur	ˈstʏʰtːʏr	G	
+23	Faroese	stuttur	ˈstʊʰtːʊɹ	G	
+23	Faroese	skammur	ˈskamːʊɹ	Q	
+58	Norwegian Riksmal	kort	kɔʈː	(B)	
+159	Stavangersk	kårte	ˈkɔʁtə	(B)	
+159	Stavangersk	stutte	ˈstʉtːə	G	
+157	Old Swedish	stunter	ˈstunter	G	
+157	Old Swedish	skamber	ˈskamber	Q	
+157	Old Swedish	kort	kort	(B)	
+69	Swedish	kort	kɔrt	(B)	
+71	Swedish Vilhelmina	KOT		B	
+70	Swedish Uppland	KORT		B	
+145	Elfdalian	stutt	stʉtː	G	
+20	Danish	kort	g̥ʰɒ:d̥ʰ	(B)	
+158	Danish Fjolde	kårt	kɔɹd	(B)	
+161	Gutnish Lau	kårtar	ˈkortar	(B)	
+99	Old English	scort		D	
+22	English	short	ʃɔ:t	D	
+26	Frisian	koart	ku̯at	B	
+21	Dutch	kort	kɔrt	B	
+24	Flemish	KORT		B	
+83	Afrikaans	KORT		B	
+87	Sranan	SJATOE		D	
+126	Old High German	kurz		B	
+126	Old High German	skemmi		Q	
+27	German	kurz	kʊrt͜s	B	
+86	Pennsylvania Dutch	KOTZ		B	
+120	Luxembourgish	kuerz		B	
+121	German Switzerland	churz		B	
+107	Gothic	leitilsu			
+112	Latin	breuis	ˈbrewis	M	
+17	Catalan	curt	kuɾ	D	
+56	Portuguese	curto	ˈkuɾtu	D	
+56	Portuguese	BREVE		M	
+68	Spanish	corto	'koɾto	D	
+61	Sardinian Cagliari	KURCU		D	
+62	Sardinian Logudoro	CURZU		D	
+63	Sardinian Nuoro	KURTHU		D	
+85	French Creole Dominica	KUT		D	
+76	Walloon	COURT		D	
+25	French	court	kuʀ	D	
+57	Provencal	BREU, EVO		M	
+42	Ladin	CUORT		D	
+146	Dolomite Ladino	curt		D	
+123	Romansh	curt		D	
+122	Friulian	curt		D	
+39	Italian	corto	'korto	D	
+59	Romanian	scurt		D	
+74	Vlach	SKURTU		D	
+127	Old Irish	berr	bʹerr	(F)	
+127	Old Irish	gerr	gʹerr	J	
+127	Old Irish	cummair	kumərʹ	(M)	
+101	Middle Cornish	berr	bɛr:	F	
+172	Middle Breton	berr, ber	ˈberː, ˈbeːr		
+12	Breton	berr		F	
+79	Welsh	ber, byr		F	
+38	Irish	gearr		J	
+115	Scottish Gaelic	goirid	ɡ̊ɤɾʲɪd̊ʲ	(J)	
+115	Scottish Gaelic	geàrr		J	
+5	[Legacy] Albanian T	i shkurtër		(D)	
+29	[Legacy] Greek K	BRACHUS		M	
+28	[Legacy] Greek D	KONTOS		H	
+30	[Legacy] Greek Md	KONTOS		H	
+64	[Legacy] Serbocroatian	KRATAK		D	
+113	[Legacy] Serbian	kratak	krǎtak	D	
+89	[Legacy] Bulgarian P	KRATUK		D	
+49	[Legacy] Macedonian	kratok	ˈkratɔk	D	
+49	[Legacy] Macedonian	kus	kus		
+94	[Legacy] Russian P	KOROTKIJ		D	
+93	[Legacy] Polish P	KROTKI		D	
+90	[Legacy] Byelorussian P	KAROTKI		D	
+98	[Legacy] Ukrainian P	KOROTKYJ		D	
+19	[Legacy] Czech E	KRATKE		D	
+96	[Legacy] Slovak P	KRATKY		D	
+91	[Legacy] Czech P	KRATKY		D	
+67	[Legacy] Slovenian	KRATKO		D	
+45	[Legacy] Lithuanian O	TRUMPAS		K	
+11	[Legacy] Brazilian	CURTO		D	
+142	[Legacy] German Munich	kurz		B	
+84	[Legacy] French Creole C	KUT		D	
+14	[Legacy] Breton St	berr	bɛ:r	F	
+13	[Legacy] Breton Se	BERR		F	
+78	[Legacy] Welsh C	BYR		F	
+37	[Legacy] Irish A	GEARR		J	

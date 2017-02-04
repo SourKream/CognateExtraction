@@ -1,0 +1,12 @@
+
+Resources for Hindi and Marathi
+
+Hindi tools: http://aclweb.org/aclwiki/index.php?title=Resources_for_Hindi
+
+Text normalizers: https://github.com/anoopkunchukuttan/indic_nlp_library
+
+Marathi resources: http://www.cfilt.iitb.ac.in/wsd/annotated_corpus/
+
+More Marathi resources: http://www.cfilt.iitb.ac.in/Downloads.html
+
+Hindi Bojar corpus: https://is.muni.cz/publication/1195822?lang=en

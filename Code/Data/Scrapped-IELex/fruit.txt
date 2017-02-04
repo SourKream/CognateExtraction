@@ -1,0 +1,149 @@
+80	Hittite	sesan			
+133	Luvian	alattarsa			
+81	Tocharian A	oko		F	
+82	Tocharian B	oko		F	
+88	Albanian	PEMA		C	
+143	Standard Albanian	frut		(B)	
+4	Albanian Corinth	FRUTO		(B)	
+3	Albanian Gheg	PEMA		C	
+6	Albanian Tosk	FRUTA (PL.)		(B)	
+110	Ancient Greek	καρπός	karpós	D	
+32	Greek	φρούτο	ˈfruto̞	(B)	
+31	Greek Lesbos	FROUTO		(B)	
+129	Classical Armenian	պտուղ	ptowł	R	
+129	Classical Armenian	միրգ	mirg		
+8	Armenian Eastern	mirg			
+8	Armenian Eastern	ptuł		R	
+7	Armenian Western	BUDUGH			
+136	Sogdian	βryy		O	
+75	Wakhi	MIWA		A	
+9	Baluchi	MEWA, BAR		A	
+72	Tajik	meva	mevæ	A	
+54	Persian	mive	miːve, mejve	A	
+77	Waziri	MEWA		A	
+1	Pashto	MEVA		A	
+139	Sarikoli	yamiš		P	
+52	Ossetic	dyrg'	dɨrʁ	N	
+124	Ossetic Iron	dyrʁ	dyrʁ	N	
+125	Ossetic Digor	rɐzɐ	rɐzɐ	Q	
+141	Kata-viri	miwʌ		(A)	
+105	Vedic Sanskrit	phálam		E	
+162	Pāḷī	phala		E	
+41	Khaskura	PHALPHUL		E	
+51	Nepali	PHAL		E	
+106	Assamese	phɒl	phɒl	E	
+106	Assamese	guti	guti		
+102	Oriya	phɔḷɔ	phɔɭɔ	E	
+102	Oriya	gilɔ	gilɔ		
+10	Bengali	phol	pʰɔl, fɔl	E	
+111	Bihari	phal	phal	E	
+144	Magahi	फल	pʰəl	E	
+104	Marwari	məhuo	məhuo		
+104	Marwari	faḷ		E	
+35	Hindi	phel	pʰəl	E	
+119	Urdu	پَھل	pʰəl	E	
+103	Sindhi	sa-phalō		E	
+43	Lahnda	PHEL		E	
+53	Punjabi	PHEL		E	
+33	Gujarati	phəl	pʰəɭ	E	
+50	Marathi	phal	pʰəɭ	E	
+40	Kashmiri	PHAL		E	
+65	Sinhalese	gediyə	geɖijə		
+65	Sinhalese	PALATURU, PHALA		E	
+34	Romani Greece	EMISA		(I)	
+100	Old Church Slavonic	плодъ	plɔdʊ̆	G	
+95	Serbo-Croatian	plod	plôːd	G	
+15	Bulgarian	плод	pɫɔd	G	
+92	Macedonian	плод	plod	G	
+60	Russian	плод	pɫɔd	G	
+55	Polish	owoc	ˈɔvɔts	H	
+16	Belarusian	плод	pɫɔd	G	
+73	Ukrainian	плід	plʲid	G	
+66	Slovak	plod	plɔd	G	
+18	Czech	plod	plɔd	G	
+48	Sorbian Upper	płód	pwʊd	G	
+47	Sorbian Lower	płod	pwɔd	G	
+97	Slovenian	plod	plôːd	G	
+108	Old Prussian	wēisin		K	
+44	Latvian	aûglis		L	
+46	Lithuanian	VAISIUS		K	
+109	Old Norse	fruktr, fryktr	fruktr, fryktr	(B)	
+109	Old Norse	aldin	ˈaldin	S	
+36	Icelandic	aldin	ˈald̥ɪn	S	
+36	Icelandic	ávöxtur	ˈauːvœxstʏr	U	
+23	Faroese	aldan, aldin	ˈald̥an, ˈald̥ɪn	S	
+23	Faroese	frukt	fɹʊkt	(B)	
+58	Norwegian Riksmal	frukt	fɾʉkt	(B)	
+159	Stavangersk	frokt	fʁukt	(B)	
+157	Old Swedish	frukt	frukt	(B)	
+157	Old Swedish	aldin	ˈaldin	S	
+69	Swedish	frukt	frɵkt	(B)	
+71	Swedish Vilhelmina	FRUKT		(B)	
+70	Swedish Uppland	FRUKT		(B)	
+145	Elfdalian	frukt	frʉkt	(B)	
+20	Danish	frugt	fʁɔg̥d̥ʰ	(B)	
+158	Danish Fjolde	frogt	fɹoɡd	(B)	
+160	Old Gutnish	scafl		T	
+161	Gutnish Lau	skaväl	ˈskɑːvɛl	T	
+161	Gutnish Lau	frukt	frukt	(B)	
+99	Old English	ofett		H	
+22	English	fruit	fru:t	(B)	
+26	Frisian	frucht	frøxt	(B)	
+21	Dutch	vrucht	vrʏχt	(B)	
+24	Flemish	VRUCHT		(B)	
+83	Afrikaans	VRUG		(B)	
+87	Sranan	NJANJAM			
+87	Sranan	VROEKTOE		(B)	
+126	Old High German	obaz		H	
+27	German	Frucht	fruxt	(B)	
+86	Pennsylvania Dutch	OEPS		H	
+120	Luxembourgish	Fruucht		(B)	
+121	German Switzerland	frucht		(B)	
+107	Gothic	akran		F	
+112	Latin	pōmum	ˈpoːmum	M	
+17	Catalan	fruit, fruita	fru'i, 'fruijt	B	
+56	Portuguese	fruta, fruto	ˈfɾutɐ, ˈfɾutu	B	
+68	Spanish	fruta	'fɾuta	B	
+61	Sardinian Cagliari	FRUTTA		B	
+62	Sardinian Logudoro	FRUTTU		B	
+63	Sardinian Nuoro	FRUTTORA		B	
+85	French Creole Dominica	FWI		B	
+76	Walloon	FRUT, FRUT'		B	
+25	French	fruit	fʀɥi	B	
+57	Provencal	FRU, FRUCHO		B	
+42	Ladin	FRUT		B	
+146	Dolomite Ladino	fruti		B	
+123	Romansh	fritg		B	
+122	Friulian	pome		M	
+39	Italian	frutto	'frutto	B	
+59	Romanian	fruct		B	
+74	Vlach	POMU		M	
+127	Old Irish	torad	torəð	J	
+101	Middle Cornish	frooth	fro:θ	(B), V	
+172	Middle Breton	froez, froiz	ˈfroeθ	(B), V	
+12	Breton	frouezh, frwezh	ˈfrweːs	(B), V	
+79	Welsh	ffrwyth		(B), V	
+38	Irish	toradh		J	
+115	Scottish Gaelic	toradh		J	
+5	[Legacy] Albanian T	PEME		C, M	
+29	[Legacy] Greek K	OPORAI			
+29	[Legacy] Greek K	KARPOI		D	
+28	[Legacy] Greek D	FROUTO		(B)	
+30	[Legacy] Greek Md	FROUTO		(B)	
+64	[Legacy] Serbocroatian	VOCE		(H)	
+113	[Legacy] Serbian	voće	ʋǒtɕe	(H)	
+113	[Legacy] Serbian	plod	plôːd	G	
+49	[Legacy] Macedonian	óvošje	ˈɔvɔʃjɛ	H	
+49	[Legacy] Macedonian	EMIS		I	
+49	[Legacy] Macedonian	PLOD		G	
+19	[Legacy] Czech E	OVOCE		(H)	
+67	[Legacy] Slovenian	SADJE			
+45	[Legacy] Lithuanian O	VAISIUS		K	
+11	[Legacy] Brazilian	FRUTA		B	
+142	[Legacy] German Munich	Frucht		(B)	
+84	[Legacy] French Creole C	FWITAZ (CULTIV.)		B	
+84	[Legacy] French Creole C	GHWEN BWA (WILD)			
+14	[Legacy] Breton St	frouezh	'frwe:s	(B), V	
+13	[Legacy] Breton Se	FREH		(B), V	
+78	[Legacy] Welsh C	FFRWYTH		(B), V	
+37	[Legacy] Irish A	TORADH		J	

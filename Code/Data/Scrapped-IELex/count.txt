@@ -1,0 +1,166 @@
+80	Hittite	kappuezzi			
+81	Tocharian A	me-		I	
+82	Tocharian B	ṣäṃṣtär			
+82	Tocharian B	mai-		I	
+88	Albanian	NUMEROJ		(N)	
+143	Standard Albanian	numëroj		(N)	
+2	Albanian Sicily	DHEMBRON			
+4	Albanian Corinth	MENDERON			
+3	Albanian Gheg	NUMEROJ		(N)	
+6	Albanian Tosk	NEMERON, AOR. NEMEROVA		(N)	
+110	Ancient Greek	ἀριθμέω	aritʰméɔː	J	
+32	Greek	μετρώ	me̞ˈtro̞	I	
+31	Greek Lesbos	METRO		I	
+129	Classical Armenian	թուեմ	tʰiu̯-ɛ-m	Q	
+8	Armenian Eastern	թվել	tʰəʋɛl	(Q)	
+8	Armenian Eastern	համրել	hɑmɾɛl	(O)	
+8	Armenian Eastern	հաշվել	hɑʃˈvɛl	K	
+7	Armenian Western	HASHFEL		K	
+7	Armenian Western	թուել	tʰəvɛl	Q	
+136	Sogdian	ptšmr		O	
+75	Wakhi	ISOB TSER-		L	
+9	Baluchi	GANNAGH		(C)	
+9	Baluchi	GANNITHA		(C)	
+137	Zazaki	āmordiš		O	
+72	Tajik	XISOB		L	
+72	Tajik	KARDAN		R	
+72	Tajik	šumurdan	ʃumurdæn	O	
+54	Persian	SHOMORDAN		O	
+77	Waziri	GANREL		(C)	
+1	Pashto	SMEREL		O	
+138	Shughni	asōb		S	
+139	Sarikoli	sang=pang δod(ɛw)		T	
+52	Ossetic	nymajyn	nɨmajɨn	I	
+124	Ossetic Iron	nymaj-	nymaj-	I	
+125	Ossetic Digor	nimaj-	nimaj-	I	
+105	Vedic Sanskrit	sampaś			
+105	Vedic Sanskrit	(pra)saṃkhyā		(U)	
+105	Vedic Sanskrit	parigaṇ		(C)	
+105	Vedic Sanskrit	gaṇana		(C)	
+105	Vedic Sanskrit	kalate		(B)	
+162	Pāḷī	gaṇeti		C	
+41	Khaskura	GANNU		C	
+51	Nepali	GANNU		C	
+106	Assamese	gɒn	gɒn	C	
+102	Oriya	gɔṇ-iba	gɔɳ-iba	C	
+10	Bengali	GONA		C	
+111	Bihari	ganəb	ganəb	C	
+144	Magahi	गिनना	ɡinnɑ	C	
+104	Marwari	gaṇabō		C	
+35	Hindi	GINNA		C	
+119	Urdu	گِننا	ɡɪnnə	C	
+103	Sindhi	hiku	hiku		
+43	Lahnda	GINNEN		C	
+53	Punjabi	GINENA		C	
+33	Gujarati	GENEWU		C	
+50	Marathi	modzne	'modzɳe	V	
+40	Kashmiri	GANZARUN		C	
+65	Sinhalese	GANAN		C	
+65	Sinhalese	KARANAWA		W	
+34	Romani Greece	ginel		C	
+100	Old Church Slavonic	чисти	tʃisti	G	
+95	Serbo-Croatian	brojati	ˈbrɔ̌jati	F	
+15	Bulgarian	броя	bruˈjɤ	F	
+92	Macedonian	брои	ˈbro.i	F	
+60	Russian	считать	stʃi'tatʲ	G	
+55	Polish	liczyć	ˈlitʂɘ̟ʨ	H	
+16	Belarusian	лічыць	lʲiˈtʂɨtsʲ	H	
+73	Ukrainian	лічити	lʲiˈtʂɪtɪ	(H)	
+73	Ukrainian	рахувати	raxuˈvatɪ	(P)	
+66	Slovak	počítať	ˈpɔtʃiːtac	G	
+18	Czech	počítat	ˈpɔtʃiːtat	G	
+48	Sorbian Upper	ličić	ˈlitʃitʃ	H	
+47	Sorbian Lower	rachnowaś	ˈraxnowaɕ	(P)	
+47	Sorbian Lower	licyś	ˈlʲitsɘ̟ɕ	H	
+97	Slovenian	šteti	ˈʃtěːti	G	
+44	Latvian	skàita		G	
+46	Lithuanian	SKAICIUOTI		G	
+109	Old Norse	telja	ˈtelja	A	
+36	Icelandic	telja	ˈtʰɛlja	A	
+23	Faroese	telja	ˈtʰɛlja	A	
+58	Norwegian Riksmal	telle	ˈtɛ̀lːə	A	
+159	Stavangersk	tel(l)a	ˈtɛ̀lːa, ˈtèːla	A	
+157	Old Swedish	tälia	ˈtælia	A	
+69	Swedish	räkna	ˈrɛ̀:kna	(P)	
+71	Swedish Vilhelmina	RAKAN		P	
+70	Swedish Uppland	RAKNA		P	
+145	Elfdalian	rekken	ˈrɛ̀kːɛn	(P)	
+20	Danish	tælle	ˈd̥ʰɛlə	A	
+158	Danish Fjolde	teel	teːl	A	
+160	Old Gutnish	tellia		A	
+161	Gutnish Lau	tälä	ˈtɛːlɛ	A	
+99	Old English	teleþ		A	
+99	Old English	rīmþ		J	
+22	English	to count	kaʊnt	(D)	
+26	Frisian	telle	'tɛlə	A	
+21	Dutch	rekenen	'rekənə(n)	(P)	
+21	Dutch	tellen	tellə(n)	A	
+24	Flemish	TELLEN		A	
+83	Afrikaans	TEL		A	
+83	Afrikaans	REKEN		P	
+83	Afrikaans	AG			
+87	Sranan	TELI		A	
+126	Old High German	zelit		A	
+27	German	zählen	't͜sɛ:lən	A	
+86	Pennsylvania Dutch	ZAYL		A	
+120	Luxembourgish	zielen		A	
+121	German Switzerland	zeue		A	
+107	Gothic	garaþjiþ		J	
+112	Latin	numerāre	numeˈraːre	N	
+17	Catalan	comptar	kum'ta	D	
+56	Portuguese	NUMERAR		N	
+56	Portuguese	contar	kõˈtaɾ	D	
+68	Spanish	contar	kon'taɾ	D	
+61	Sardinian Cagliari	KONTAI		D	
+62	Sardinian Logudoro	CONTARE		D	
+63	Sardinian Nuoro	KONTARE		D	
+85	French Creole Dominica	KOTE		D	
+76	Walloon	COMPTER			
+76	Walloon	CONTER		D	
+25	French	compter	kɔ̃te	D	
+57	Provencal	COUMTA		D	
+42	Ladin	DOMBRER			
+42	Ladin	IN(N)UMBRER		N	
+146	Dolomite Ladino	contà		D	
+123	Romansh	quintar		D	
+122	Friulian	contâ		D	
+39	Italian	contare	kon'tare	D	
+59	Romanian	a număra		N	
+74	Vlach	MISUTU			
+127	Old Irish	ad·rími	aðˈrʹi:ṽʹi	J	
+101	Middle Cornish	akontya, comtya		(E)	
+101	Middle Cornish	nivera	ni'vɛra	N	
+172	Middle Breton	niveraff	niˈveːraṽ	M, (N)	
+172	Middle Breton	contaff, countaff	ˈkôntaṽ, ˈkuntaṽ	(E)	
+12	Breton	jedañ, jediñ	ˈʒeːdã, ˈʒeːdĩ		
+12	Breton	kontañ	ˈkɔ̃ntã	E	
+12	Breton	niveriñ	niˈveːrĩ	M, (N)	
+79	Welsh	cyfrif		J	
+38	Irish	comhair		J	
+38	Irish	áirigh		(J)	
+115	Scottish Gaelic	cùnnt		(E)	
+5	[Legacy] Albanian T	ME NEMERUAR		(N)	
+29	[Legacy] Greek K	METRO		I	
+28	[Legacy] Greek D	METRAO		I	
+30	[Legacy] Greek Md	METRO		I	
+64	[Legacy] Serbocroatian	RACUNATI		(P)	
+113	[Legacy] Serbian	brojati	brǒjati	F	
+89	[Legacy] Bulgarian P	RAZCITAM		G	
+49	[Legacy] Macedonian	BROI, NABROI		F	
+94	[Legacy] Russian P	SCEST		G	
+93	[Legacy] Polish P	LICZYC		H	
+90	[Legacy] Byelorussian P	LICYC		H	
+98	[Legacy] Ukrainian P	RACHUVATY		P	
+19	[Legacy] Czech E	CITAT		G	
+96	[Legacy] Slovak P	CITAT		G	
+91	[Legacy] Czech P	POCITATI		G	
+67	[Legacy] Slovenian	STET		G	
+45	[Legacy] Lithuanian O	ROKUOTI		P	
+11	[Legacy] Brazilian	CONTAR		D	
+142	[Legacy] German Munich	zählen		A	
+84	[Legacy] French Creole C	KOTE		D	
+14	[Legacy] Breton St	kontañ	'kɔ̃ntã	E	
+13	[Legacy] Breton Se	KONTEIN		E	
+78	[Legacy] Welsh C	CYFRIF		J	
+78	[Legacy] Welsh C	RHIFO		J	
+37	[Legacy] Irish A	COMHAIREAMH		J	

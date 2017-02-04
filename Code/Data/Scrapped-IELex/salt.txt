@@ -1,0 +1,147 @@
+114	Proto-Indo-European	*sal-		B	
+81	Tocharian A	sāle		B	
+82	Tocharian B	salyiye		B	
+88	Albanian	KRYP		C	
+143	Standard Albanian	kripë		C	
+2	Albanian Sicily	KRIP		C	
+4	Albanian Corinth	KRIPE		C	
+3	Albanian Gheg	KRYPA		C	
+6	Albanian Tosk	KRIPE		C	
+110	Ancient Greek	ἅλς	háls	B	
+32	Greek	αλάτι	a'lati	B	
+31	Greek Lesbos	HALATI		B	
+129	Classical Armenian	աղ	ał	B	
+8	Armenian Eastern	ał		B	
+7	Armenian Western	AGH		B	
+136	Sogdian	nm’δk		F	
+75	Wakhi	NIMUK		F	
+9	Baluchi	WHADH, WAHADH		A	
+137	Zazaki	sol		I	
+72	Tajik	namak	næmæk	F	
+54	Persian	NAMAK		F	
+77	Waziri	MOLGA		F	
+1	Pashto	MALGA		F	
+138	Shughni	namák		(F)	
+139	Sarikoli	namoδǰ		F	
+52	Ossetic	caexx	tsæχχ	H	
+124	Ossetic Iron	sɐχχ	sɐχχ	H	
+125	Ossetic Digor	cɐnχɐ	cɐnχɐ	H	
+141	Kata-viri	ẓ̌ukʰ		J	
+105	Vedic Sanskrit	lavaṇam		D	
+105	Vedic Sanskrit	kṣāra		(K)	
+162	Pāḷī	loṇa		D	
+41	Khaskura	NUN		D	
+51	Nepali	NUN		D	
+106	Assamese	lon	lon	D	
+106	Assamese	nun	nun	D	
+102	Oriya	luṇɔ	luɳɔ	D	
+10	Bengali	NUN		D	
+10	Bengali	LOBON		D	
+111	Bihari	nun	nun	D	
+144	Magahi	नीमक	nimək	(F)	
+104	Marwari	khāro		K	
+104	Marwari	lūn		D	
+35	Hindi	NEMEK		(F)	
+119	Urdu	نمک	nəmək	(F)	
+103	Sindhi	lūṇu		D	
+103	Sindhi	sēndhōlūṇu		D	
+43	Lahnda	LUN		D	
+53	Punjabi	LUN		D	
+33	Gujarati	MITHU		G	
+50	Marathi	mīth	mi:ʈʰ	G	
+50	Marathi	lon		D	
+40	Kashmiri	NUN		D	
+65	Sinhalese	LUNU		D	
+34	Romani Greece	LON		D	
+100	Old Church Slavonic	соль	sɔlɪ̆	B	
+95	Serbo-Croatian	sol	sɔ̂ːl	B	
+15	Bulgarian	сол	sɔɫ	B	
+92	Macedonian	сол	sol	B	
+60	Russian	соль	sɔlʲ	B	
+55	Polish	sól	sul	B	
+16	Belarusian	соль	sɔlʲ	B	
+73	Ukrainian	сіль	silʲ	B	
+66	Slovak	soľ	sɔlʲ	B	
+18	Czech	sůl	suːl	B	
+48	Sorbian Upper	sól / sel	sʊl / sɛl / sɘ̟l	B	
+47	Sorbian Lower	sol	sɔlʲ	B	
+97	Slovenian	sol	sôːw	B	
+108	Old Prussian	sali		B	
+44	Latvian	sā̀ls		B	
+46	Lithuanian	DRUSKA		E	
+109	Old Norse	salt	salt	B	
+36	Icelandic	salt	sal̥t	B	
+23	Faroese	salt	sal̥t	B	
+58	Norwegian Riksmal	salt	salt	B	
+159	Stavangersk	salt	salt	B	
+157	Old Swedish	salt	salt	B	
+69	Swedish	salt	salt	B	
+71	Swedish Vilhelmina	SALT		B	
+70	Swedish Uppland	SALT		B	
+145	Elfdalian	solt	solt	B	
+20	Danish	salt	salˀd̥ʰ	B	
+158	Danish Fjolde	sålt	sɔlt	B	
+161	Gutnish Lau	salt	salt	B	
+99	Old English	sealt		B	
+22	English	salt	sɔ:lt	B	
+26	Frisian	sâlt	sɔ:t	B	
+21	Dutch	zout	zɑut	B	
+24	Flemish	ZOUT		B	
+83	Afrikaans	SOUT		B	
+87	Sranan	ZOUTOE		B	
+126	Old High German	salz		B	
+27	German	Salz	zalt͜s	B	
+86	Pennsylvania Dutch	SOLSZ		B	
+120	Luxembourgish	Salz		B	
+121	German Switzerland	sauz		B	
+107	Gothic	salt		B	
+132	Umbrian	salu		B	
+112	Latin	sāl	saːl	B	
+17	Catalan	sal	sal	B	
+56	Portuguese	sal	sal	B	
+68	Spanish	sal	sal	B	
+61	Sardinian Cagliari	SALI		B	
+62	Sardinian Logudoro	SALE		B	
+63	Sardinian Nuoro	SALE		B	
+85	French Creole Dominica	SEL		B	
+76	Walloon	SE		B	
+25	French	sel	sɛl	B	
+57	Provencal	SAU		B	
+42	Ladin	SAL		B	
+146	Dolomite Ladino	sal		B	
+123	Romansh	sal		B	
+122	Friulian	sâl		B	
+39	Italian	sale	'sale	B	
+59	Romanian	sare		B	
+74	Vlach	SARE		B	
+127	Old Irish	salann	salann	B	
+101	Middle Cornish	holan	'hɤlan	B	
+172	Middle Breton	holen, olen, olèn, hòalen	ˈhoːlen, ˈoːlen	B	
+12	Breton	holen	ˈhoːlen, ˈoːlen	B	
+79	Welsh	halen		B	
+38	Irish	salann		B	
+115	Scottish Gaelic	salann		B	
+5	[Legacy] Albanian T	kripë	krip(ə)	C	
+29	[Legacy] Greek K	HALAS		B	
+28	[Legacy] Greek D	HALATI		B	
+30	[Legacy] Greek Md	HALATI		B	
+64	[Legacy] Serbocroatian	SOL		B	
+113	[Legacy] Serbian	so	sôː	B	
+89	[Legacy] Bulgarian P	SOL		B	
+49	[Legacy] Macedonian	SOL		B	
+94	[Legacy] Russian P	SOL		B	
+93	[Legacy] Polish P	SOL		B	
+90	[Legacy] Byelorussian P	SOL		B	
+98	[Legacy] Ukrainian P	SIL		B	
+19	[Legacy] Czech E	SUL		B	
+96	[Legacy] Slovak P	SOL		B	
+91	[Legacy] Czech P	SUL		B	
+67	[Legacy] Slovenian	SOV		B	
+45	[Legacy] Lithuanian O	DRUSKA		E	
+11	[Legacy] Brazilian	SAL		B	
+142	[Legacy] German Munich	Salz		B	
+84	[Legacy] French Creole C	SEL		B	
+14	[Legacy] Breton St	holen	'o:lɛn	B	
+13	[Legacy] Breton Se	HOLEN		B	
+78	[Legacy] Welsh C	HALEN		B	
+37	[Legacy] Irish A	SALANN		B	

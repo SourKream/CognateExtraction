@@ -1,0 +1,186 @@
+114	Proto-Indo-European	*ne, *ney		A	
+114	Proto-Indo-European	*mē		(F)	
+80	Hittite	natta		A	
+133	Luvian	nāwa		A	
+134	Lycian	ne		A	
+135	Palaic	ni		A	
+81	Tocharian A	mā		F	
+82	Tocharian B	mā		F	
+88	Albanian	nuk		A	
+143	Standard Albanian	nuk		A	
+2	Albanian Sicily	nuk		A	
+4	Albanian Corinth	jo		(A)	
+4	Albanian Corinth	mos		(F)	
+4	Albanian Corinth	nuk		A	
+3	Albanian Gheg	nuk		A	
+6	Albanian Tosk	nuk		A	
+6	Albanian Tosk	mos		(F)	
+6	Albanian Tosk	jo			
+173	Mycenaean Greek	o-u-	ou̯	B	
+110	Ancient Greek	μή	mɛː	(F)	
+110	Ancient Greek	οὐ	uː	B	
+152	Tsakonian	μη		F	
+152	Tsakonian	δεν		E	
+152	Tsakonian	ω		B	
+32	Greek	μη(ν)	mi(n)	(F)	
+32	Greek	δεν	ðe̞n	E	
+32	Greek	όχι		(B)	
+31	Greek Lesbos	DEN		E	
+129	Classical Armenian	ոչ	očʰ	B	
+8	Armenian Eastern	ոչ	voʧʰ	B	
+7	Armenian Western	VOCH		B	
+128	Avestan	nōiṯ		A	
+131	Old Persian	naiy		A	
+136	Sogdian	L’	/nē, nā/	A	
+75	Wakhi	NE		A	
+9	Baluchi	NA, N		A	
+118	Kurdish	ne		A	
+118	Kurdish	na		A	
+72	Tajik	NA, NE		A	
+54	Persian	NA		A	
+77	Waziri	NA		A	
+1	Pashto	NA		A	
+138	Shughni	na		A	
+139	Sarikoli	nay		A	
+52	Ossetic	nae, naetae	næ, nætæ	A	
+124	Ossetic Iron	nɐ/ma	nɐ/ma	A	
+125	Ossetic Digor	nɐ/ma	nɐ/ma	A	
+154	Vasi-vari	nă, nä		A	
+153	Askunu	ne, nă		A	
+105	Vedic Sanskrit	ná		A	
+162	Pāḷī	na		A	
+51	Nepali	NA		A	
+106	Assamese	no-		A	
+106	Assamese	nai, nɛ	nai, nɛ	A	
+102	Oriya	nahĩ	nahĩ	A	
+10	Bengali	NA		A	
+111	Bihari	nəi	nəi	A	
+144	Magahi	न	nə		
+104	Marwari	koni	koni		
+104	Marwari	nĩ	nĩ	A	
+35	Hindi	nehi	nəɦĩː	A	
+119	Urdu	نہیں	nəhĩ	A	
+103	Sindhi	nə	nə	A	
+43	Lahnda	NE, NI		A	
+53	Punjabi	NEI, NA		A	
+33	Gujarati	NEHI		A	
+50	Marathi	nāhī, na	'naɦi:, nə	A	
+40	Kashmiri	NA		A	
+65	Sinhalese	NAHA		A	
+34	Romani Greece	IN, NI		A	
+100	Old Church Slavonic	нє	nɛ	A	
+95	Serbo-Croatian	ne	nɛ	A	
+15	Bulgarian	не	nɛ	A	
+92	Macedonian	не	ne	A	
+60	Russian	не	nʲɛ	A	
+55	Polish	nie	ɲɛ	A	
+16	Belarusian	не	nʲɛ	A	
+73	Ukrainian	не	nɛ	A	
+66	Slovak	nie	ɲiɛ	A	
+18	Czech	ne	nɛ	A	
+48	Sorbian Upper	nje-	nĕɛ	A	
+47	Sorbian Lower	nje-	ɲɛ-	A	
+97	Slovenian	ne	nɛ	A	
+108	Old Prussian	ni		A	
+44	Latvian	ne		A	
+46	Lithuanian	NE- (PREFIX)		A	
+109	Old Norse	né	neː	(A)	
+109	Old Norse	ekki, eigi	ˈekːi, ˈɛiɡi	C	
+109	Old Norse	-a, -at, -t	a	(A)	
+36	Icelandic	ekki	ˈɛʰcːɪ	C	
+23	Faroese	ikki	ˈɪtʃʰːɪ	C	
+58	Norwegian Riksmal	ikke	ˈɪ̀kːə	C	
+159	Stavangersk	ikkjeˌ kje	ˈɪçːə, çə	C	
+157	Old Swedish	äkke	ˈækːe	C	
+69	Swedish	inte	ˈɪ̀ntə	C	
+71	Swedish Vilhelmina	INTA, INT, IT		C	
+70	Swedish Uppland	INTE		C	
+145	Elfdalian	inte	ɪ̀ntɛ	C	
+20	Danish	ikke	eg̥ʰə, eg̥ʰ	C	
+158	Danish Fjolde	ek	eɡ	C	
+160	Old Gutnish	ecci		C	
+160	Old Gutnish	ai		C	
+161	Gutnish Lau	intä	ˈintɛ	C	
+161	Gutnish Lau	(v)ick	(v)ɪkː	C	
+99	Old English	ne		A	
+22	English	not	nɒt	A	
+26	Frisian	nee	ne:	A	
+21	Dutch	niet	nit	A	
+24	Flemish	NIET		A	
+83	Afrikaans	NIE		A	
+87	Sranan	NO		A	
+126	Old High German	ni		A	
+27	German	nicht	nɪçt	A	
+86	Pennsylvania Dutch	NET		A	
+120	Luxembourgish	net		A	
+121	German Switzerland	nid		A	
+107	Gothic	ain		A	
+107	Gothic	ni		A	
+130	Oscan	nei		A	
+132	Umbrian	neip		A	
+112	Latin	nōn	noːn	A	
+17	Catalan	no	no	A	
+56	Portuguese	não	nɐ̃ũ	A	
+68	Spanish	no	no	A	
+61	Sardinian Cagliari	NO		A	
+62	Sardinian Logudoro	NON		A	
+63	Sardinian Nuoro	NO		A	
+85	French Creole Dominica	PE		D	
+76	Walloon	NENI		A	
+25	French	non	nɔ̃	A	
+57	Provencal	NOUN, NANI		A	
+42	Ladin	NA, NOAT, NUN		A	
+146	Dolomite Ladino	nó		A	
+123	Romansh	nun		A	
+123	Romansh	na ... betg		A	
+123	Romansh	bricha			
+123	Romansh	buc			
+122	Friulian	no		A	
+39	Italian	no, non	nɔ, non	A	
+59	Romanian	nu	nu	A	
+74	Vlach	NU		A	
+140	Gaulish	ne		A	
+127	Old Irish	ní	nʹi:	A	
+101	Middle Cornish	ny	nɪ	A	
+101	Middle Cornish	ni(ns)		(A)	
+148	Old Breton	ni / ne		A	
+148	Old Breton	ni / ne			
+172	Middle Breton	ne (... quet)	ne ... ket	A	
+172	Middle Breton	na, nac	na, nac	(A)	
+12	Breton	ne ... ket	ne ... ket	A	
+12	Breton	na, nag ... ket	na, nac ... ket	(A)	
+150	Old Welsh	ni		A	
+79	Welsh	ni		A	
+38	Irish	ní	nʲiː	A	
+38	Irish	cha		(B)	
+115	Scottish Gaelic	cha	xa	B	
+115	Scottish Gaelic	cha ni		(A), (B)	
+147	Manx	cha		B	
+147	Manx	ny		(A)	
+5	[Legacy] Albanian T	nuk		A	
+29	[Legacy] Greek K	ME		F	
+29	[Legacy] Greek K	DEN		E	
+28	[Legacy] Greek D	DEN		E	
+28	[Legacy] Greek D	ME		F	
+30	[Legacy] Greek Md	OCHI		B	
+30	[Legacy] Greek Md	DE		E	
+64	[Legacy] Serbocroatian	NE		A	
+113	[Legacy] Serbian	ne	ne	A	
+89	[Legacy] Bulgarian P	NE		A	
+49	[Legacy] Macedonian	NE		A	
+94	[Legacy] Russian P	NE		A	
+93	[Legacy] Polish P	NIE		A	
+90	[Legacy] Byelorussian P	NE		A	
+98	[Legacy] Ukrainian P	NE		A	
+19	[Legacy] Czech E	NE		A	
+96	[Legacy] Slovak P	NIE		A	
+91	[Legacy] Czech P	NE		A	
+67	[Legacy] Slovenian	NJE		A	
+45	[Legacy] Lithuanian O	NE		A	
+11	[Legacy] Brazilian	NAO		A	
+142	[Legacy] German Munich	nicht		A	
+84	[Legacy] French Creole C	PA		D	
+14	[Legacy] Breton St	ne	ne	A	
+13	[Legacy] Breton Se	NE...KET		A	
+78	[Legacy] Welsh C	NID		A	
+37	[Legacy] Irish A	NI		A	

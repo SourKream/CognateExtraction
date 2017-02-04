@@ -1,0 +1,162 @@
+114	Proto-Indo-European	*dluh₂gʰós		B	
+80	Hittite	dalukis		B	
+133	Luvian	ārrāyis			
+81	Tocharian A	pärkär		K	
+82	Tocharian B	pärkare		K	
+88	Albanian	gjatë		B	
+143	Standard Albanian	i, e gjatë		B	
+2	Albanian Sicily	gl(h)atë		B	
+4	Albanian Corinth	gl(h)atë		B	
+3	Albanian Gheg	gjatë		B	
+6	Albanian Tosk	gjatë		B	
+110	Ancient Greek	μακρός	makrós	H	
+152	Tsakonian	μακρου		H	
+32	Greek	μακρύς	ma'kris	H	
+31	Greek Lesbos	MAKRUS		H	
+129	Classical Armenian	երկար	erkar	D	
+129	Classical Armenian	երկայն	erkayn	(D)	
+8	Armenian Eastern	երկար	jɛɾˈkɑɾ	D	
+7	Armenian Western	երկար	jɛɾˈgɑɾ	D	
+128	Avestan	darəγō		B	
+131	Old Persian	darga		B	
+136	Sogdian	βrzyy		L	
+75	Wakhi	DEROZ, VERZ		B	
+9	Baluchi	DRAZH		B	
+118	Kurdish	bilind		L	
+137	Zazaki	derg		B	
+72	Tajik	DAROZ, DUR		B	
+54	Persian	boland	bolænd	L	
+54	Persian	DERAZ		B	
+77	Waziri	WIZHD		A	
+1	Pashto	UZD		A	
+138	Shughni	vōγ̆ž		A	
+138	Shughni	darōz		B	
+139	Sarikoli	daruz		B	
+52	Ossetic	darg'	darʁ	B	
+124	Ossetic Iron	darʁ	darʁ	B	
+125	Ossetic Digor	darʁ	darʁ	B	
+141	Kata-viri	dʌrgʌ̣̃		B	
+154	Vasi-vari	ǰignî		B	
+153	Askunu	drigalä		B	
+105	Vedic Sanskrit	dīrghás		B	
+162	Pāḷī	dīgha		B	
+41	Khaskura	LAMO		E	
+51	Nepali	LAMU		E	
+106	Assamese	dighɒl	dighɒl	B	
+102	Oriya	lɔmba	lɔmba	E	
+102	Oriya	dirghɔ	dirghɔ	B	
+10	Bengali	LOMBA		E	
+111	Bihari	ləmba	ləmba	E	
+144	Magahi	लम्मा	ləmmɑ, ləmbɑ	E	
+104	Marwari	məmbo	məmbo	E	
+35	Hindi	LEMBA		E	
+119	Urdu	لمبا	ˈləm.bə	E	
+103	Sindhi	ḍrighō		B	
+43	Lahnda	LEMBA		E	
+53	Punjabi	LEMMA		E	
+33	Gujarati	LAMBU		E	
+50	Marathi	lā̃mb	lãmb	E	
+40	Kashmiri	ZYUTHU			
+65	Sinhalese	diga	digə	B	
+34	Romani Greece	LUNGO		B	
+100	Old Church Slavonic	длъгъ	dl̩ɡʊ̆	B	
+95	Serbo-Croatian	dug	dûɡ	B	
+15	Bulgarian	дълъг	ˈdɤɫəɡ	B	
+92	Macedonian	долг	dolɡ	B	
+60	Russian	длинный	'dlʲinnɨj	B	
+55	Polish	długi	ˈdwuɡʲi	B	
+16	Belarusian	доўгі	ˈdɔwɣʲi	B	
+73	Ukrainian	довгий	ˈdɔʋɦɪj	B	
+66	Slovak	dlhý	ˈdl̩ɦiː	B	
+18	Czech	dlouhý	ˈdlɔuɦiː	B	
+48	Sorbian Upper	dołhi	ˈdo.i	B	
+47	Sorbian Lower	dłujki	ˈdwujki	B	
+97	Slovenian	dolg	dɔ̌ːwɡ	B	
+108	Old Prussian	ilgi		B	
+44	Latvian	garš		J	
+46	Lithuanian	ILGAS		B	
+109	Old Norse	langr	lanɣr	B	
+36	Icelandic	langur	ˈlaŋɡ̊ʏr, ˈlauŋɡ̊ʏr	B	
+23	Faroese	langur	ˈlɛŋɡ̊ʊɹ	B	
+58	Norwegian Riksmal	lang	laŋː	B	
+159	Stavangersk	lanɡe	ˈlaŋːə	B	
+157	Old Swedish	langer	ˈlaŋːer	B	
+69	Swedish	lång	lɔŋ	B	
+71	Swedish Vilhelmina	LONG		B	
+70	Swedish Uppland	LANG		B	
+145	Elfdalian	laungg	lɑʉŋg	B	
+20	Danish	lang	lɑŋˀ	B	
+158	Danish Fjolde	låång	lɔːŋ	B	
+160	Old Gutnish	langr		B	
+161	Gutnish Lau	langgar	ˈlaŋɡar	B	
+99	Old English	lang		B	
+22	English	long	lɒŋ	B	
+26	Frisian	lang	laŋ	B	
+21	Dutch	lang	lɑŋ	B	
+24	Flemish	LANG		B	
+83	Afrikaans	LANG		B	
+87	Sranan	LANGA		B	
+126	Old High German	lang		B	
+27	German	lang	laŋ	B	
+86	Pennsylvania Dutch	LUNG		B	
+120	Luxembourgish	laang		B	
+121	German Switzerland	läng		B	
+107	Gothic	laggs		B	
+112	Latin	longus	ˈlongus	B	
+17	Catalan	llarg	ʎaɾk	G	
+56	Portuguese	longo	ˈlõɣu	B	
+56	Portuguese	COMPRIDO			
+68	Spanish	largo	'laɾɣo	G	
+61	Sardinian Cagliari	LONGU		B	
+62	Sardinian Logudoro	LONGU		B	
+63	Sardinian Nuoro	LONGU		B	
+85	French Creole Dominica	LON		B	
+76	Walloon	LONG, LONGUE		B	
+25	French	long	lɔ̃	B	
+57	Provencal	LONG, LONGO		B	
+42	Ladin	LUNGIA		B	
+146	Dolomite Ladino	lènch		B	
+123	Romansh	liung		B	
+122	Friulian	lunc		B	
+39	Italian	lungo	'lungo	B	
+59	Romanian	lung		B	
+74	Vlach	LUNGU		B	
+140	Gaulish	siros		F	
+127	Old Irish	fota	fota	I	
+127	Old Irish	sír	sʹi:r	(F)	
+149	Old Cornish	hir		F	
+101	Middle Cornish	hir	hi:r	F	
+148	Old Breton	hir		F	
+172	Middle Breton	hir, hirr, hyr, hyrr	ˈhiːr	F	
+12	Breton	hir	ˈhiːr, ˈiːr	F	
+150	Old Welsh	hir		F	
+79	Welsh	hir		F	
+38	Irish	fada	fˠɑd̪ˠə, ˈfˠad̪ˠə	I	
+115	Scottish Gaelic	fada	fad̪̊ə	I	
+147	Manx	foddey		I	
+5	[Legacy] Albanian T	gjatë		B	
+29	[Legacy] Greek K	MAKROS		H	
+28	[Legacy] Greek D	MAKRUS		H	
+30	[Legacy] Greek Md	MAKRUS		H	
+64	[Legacy] Serbocroatian	DUG		B	
+113	[Legacy] Serbian	dug	dûɡ	B	
+113	[Legacy] Serbian	dugačak	duɡǎtʃak	B	
+89	[Legacy] Bulgarian P	DULUG		B	
+49	[Legacy] Macedonian	DOLG		B	
+94	[Legacy] Russian P	DOLGIJ		B	
+93	[Legacy] Polish P	DLUGI		B	
+90	[Legacy] Byelorussian P	DOUHI		B	
+98	[Legacy] Ukrainian P	DOUHYJ		B	
+19	[Legacy] Czech E	DLUHE		B	
+96	[Legacy] Slovak P	DLHY		B	
+91	[Legacy] Czech P	DLOUHY		B	
+67	[Legacy] Slovenian	DOVGU		B	
+45	[Legacy] Lithuanian O	ILGAS		B	
+11	[Legacy] Brazilian	COMPRIDO		B	
+11	[Legacy] Brazilian	longo	ˈlõɡu	B	
+142	[Legacy] German Munich	lang		B	
+84	[Legacy] French Creole C	LON		B	
+14	[Legacy] Breton St	hir	i:r	F	
+13	[Legacy] Breton Se	HIR		F	
+78	[Legacy] Welsh C	HIR		F	
+37	[Legacy] Irish A	FADA		I	

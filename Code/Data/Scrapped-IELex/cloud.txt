@@ -1,0 +1,164 @@
+114	Proto-Indo-European	*nébʰ-os		D	
+80	Hittite	alpās			
+81	Tocharian A	tärkär		S	
+82	Tocharian B	tarkär		S	
+88	Albanian	REJA		C	
+143	Standard Albanian	re		(C)	
+2	Albanian Sicily	MJEGUGHA		Q	
+4	Albanian Corinth	REE		C	
+3	Albanian Gheg	REJA		C	
+6	Albanian Tosk	re		C	
+110	Ancient Greek	νέφος	népʰos	D	
+152	Tsakonian	συγνεφο		D	
+32	Greek	σύννεφο	ˈsine̞ˌfo̞	D	
+31	Greek Lesbos	SUNNEFO		D	
+129	Classical Armenian	ամպ	ɑmp	D	
+8	Armenian Eastern	ամպ	ɑmp	D	
+7	Armenian Western	ամպ	ɑmb	D	
+128	Avestan	snaoδō		F	
+128	Avestan	maēγəm		E	
+128	Avestan	aβrəm		D	
+136	Sogdian	pr’yβ’k		D	
+75	Wakhi	WETIS		P	
+75	Wakhi	MOR		V	
+9	Baluchi	JH UR		(U)	
+118	Kurdish	ewr		D	
+72	Tajik	ABR		D	
+54	Persian	ABR		D	
+77	Waziri	WERYEZ		A	
+1	Pashto	TORA URIADZ, XERA URIADZ		A	
+138	Shughni	abri		D	
+139	Sarikoli	varm		W	
+52	Ossetic	mig'	migʲ	E	
+124	Ossetic Iron	miʁ	miʁ	E	
+125	Ossetic Digor	meʁɐ	meʁɐ	E	
+141	Kata-viri	naru		D	
+154	Vasi-vari	mārə		E	
+153	Askunu	nălī		D	
+105	Vedic Sanskrit	nábhas-		D	
+105	Vedic Sanskrit	mēghás		(E)	
+162	Pāḷī	megha		E	
+41	Khaskura	DHUNRI		L	
+41	Khaskura	BADAL		K	
+51	Nepali	BADAL		K	
+106	Assamese	mɛgh	mɛgh	E	
+102	Oriya	meghɔ	meghɔ	E	
+10	Bengali	MEG		E	
+111	Bihari	megh	megh	E	
+144	Magahi	बादर	bɑd̪ər	K	
+104	Marwari	ghūghūhapa		M	
+104	Marwari	bādaḷī		K	
+35	Hindi	badel	bɑːdəl	K	
+119	Urdu	بادل	bɑd̪əl	K	
+103	Sindhi	ǰhuṛ-ālō		U	
+43	Lahnda	BEDDEL		K	
+53	Punjabi	BEDDEL		K	
+33	Gujarati	WADEL		K	
+50	Marathi	dhag	ɖʱag	X	
+40	Kashmiri	OBUR		D	
+65	Sinhalese	VALAKULA		Y	
+34	Romani Greece	BULUTO		Z	
+100	Old Church Slavonic	облакъ	ɔblɑkʊ̆	H	
+95	Serbo-Croatian	oblak	ˈɔ̂blaːk	H	
+15	Bulgarian	облак	ˈɔbɫək	H	
+92	Macedonian	облак	ˈoblak	H	
+60	Russian	облако	'ɔbɫakɔ	H	
+55	Polish	chmura	ˈxmura	I	
+16	Belarusian	воблака	ˈvɔbɫaka	H	
+73	Ukrainian	хмара	ˈxmara	I	
+66	Slovak	oblak	ˈɔblak	H	
+18	Czech	oblak	ˈɔblak	H	
+48	Sorbian Upper	mróčel	ˈmʀʊtʃɛl	Q	
+47	Sorbian Lower	mrokawa	ˈmrɔkawa	Q	
+97	Slovenian	oblak	ɔˈblâːk	H	
+108	Old Prussian	wupyan			
+44	Latvian	padebesis		D	
+44	Latvian	mãkônis		O	
+46	Lithuanian	DEBESIS		D	
+109	Old Norse	ský	skyː	J	
+36	Icelandic	ský	sciː	J	
+23	Faroese	skýggj	skʊd̥ʒ	J	
+58	Norwegian Riksmal	sky	ʃyː	J	
+159	Stavangersk	sjy	ʂyː	J	
+157	Old Swedish	sky	skyː	J	
+69	Swedish	moln	mo:ln	R	
+69	Swedish	sky	ɧy:	J	
+71	Swedish Vilhelmina	MARN  MARN		R	
+70	Swedish Uppland	MOLN		R	
+145	Elfdalian	muoln	mʉəln	R	
+20	Danish	sky	sg̥ʰyˀ	J	
+158	Danish Fjolde	skøj	sxøj	J	
+161	Gutnish Lau	sköi	skœɪ	J	
+161	Gutnish Lau	måuln	mouln	R	
+99	Old English	wolcen		B	
+22	English	cloud	klaʊd		
+26	Frisian	wolk	volk	B	
+21	Dutch	wolk	wɔlk	B	
+24	Flemish	WOLK		B	
+83	Afrikaans	WOLK		B	
+87	Sranan	BLAKA VO TAPOE			
+87	Sranan	WOLKOE		B	
+126	Old High German	wolcan		B	
+27	German	Wolke	'vɔlkə	B	
+86	Pennsylvania Dutch	WULLG		B	
+120	Luxembourgish	Wollek		B	
+121	German Switzerland	wúuche		B	
+107	Gothic	milhma			
+112	Latin	nimbus	ˈnimbus		
+112	Latin	nūbēs	ˈnuːbeːs	F	
+17	Catalan	núvol	'nuβul	F	
+56	Portuguese	nuvem	ˈnuvɐ̃j	F	
+68	Spanish	nube	'nuβe	F	
+61	Sardinian Cagliari	NUI		F	
+62	Sardinian Logudoro	NUE		F	
+63	Sardinian Nuoro	NUGE		F	
+85	French Creole Dominica	NWAZ		F	
+76	Walloon	NULEYE		F	
+25	French	nuage	nyaʒ	F	
+57	Provencal	NIVO, NIEU		F	
+42	Ladin	NUVLA		F	
+146	Dolomite Ladino	nigol		F	
+123	Romansh	nivel		F	
+123	Romansh	nebla		F	
+122	Friulian	nûl		F	
+39	Italian	nuvola, nube	'nuvola, 'nube	F	
+59	Romanian	nor	nor	F	
+74	Vlach	NIORI		F	
+127	Old Irish	nél	nʹe:l	F	
+101	Middle Cornish	kommolen	'kɔm:ɔl	G	
+172	Middle Breton	couffablenn, couffabrenn, coüabren	kuˈvablǝn, kuˈvabrǝn	N	
+12	Breton	koumoulenn	kuˈmuːlɛn	G	
+79	Welsh	cwmwl		G	
+38	Irish	scamall		T	
+38	Irish	néal		(F)	
+38	Irish	spéir			
+115	Scottish Gaelic	sgòth		(T)	
+115	Scottish Gaelic	neul		F	
+147	Manx	neeal, niaul		F	
+5	[Legacy] Albanian T	re		C	
+5	[Legacy] Albanian T	mjegull		Q	
+29	[Legacy] Greek K	NEFOS		D	
+28	[Legacy] Greek D	SUNNEFO		D	
+30	[Legacy] Greek Md	SUNNEFO		D	
+64	[Legacy] Serbocroatian	OBLAK		H	
+113	[Legacy] Serbian	oblak		H	
+89	[Legacy] Bulgarian P	OBLAK		H	
+49	[Legacy] Macedonian	OBLAK		H	
+94	[Legacy] Russian P	OBLAKO		H	
+93	[Legacy] Polish P	OBLOK		H	
+90	[Legacy] Byelorussian P	VOBLAKA		H	
+98	[Legacy] Ukrainian P	CHMARA		I	
+19	[Legacy] Czech E	MRACNO		Q	
+19	[Legacy] Czech E	OBLOHA		H	
+96	[Legacy] Slovak P	OBLAK		H	
+91	[Legacy] Czech P	OBLAK		H	
+67	[Legacy] Slovenian	OBLAK		H	
+45	[Legacy] Lithuanian O	DEBESIS		D	
+11	[Legacy] Brazilian	NUVEM		F	
+142	[Legacy] German Munich	Wolke		B	
+84	[Legacy] French Creole C	NIAZ		F	
+14	[Legacy] Breton St	koumoul	'kũmul	G	
+13	[Legacy] Breton Se	KOGUSEN			
+78	[Legacy] Welsh C	CWMWL		G	
+37	[Legacy] Irish A	SGAMALL		T	
+37	[Legacy] Irish A	NEAL		F	

@@ -1,0 +1,186 @@
+114	Proto-Indo-European	*solwo-			
+114	Proto-Indo-European	*kaylo-			
+80	Hittite	kuiesqa		L	
+81	Tocharian A	ṣome		I	
+82	Tocharian B	ṣemi		I	
+88	Albanian	DITSH		C	
+88	Albanian	GJA			
+88	Albanian	SETSH			
+143	Standard Albanian	disa		C	
+2	Albanian Sicily	CA		J	
+4	Albanian Corinth	CA		J	
+3	Albanian Gheg	DITSH		C	
+6	Albanian Tosk	CA		J	
+110	Ancient Greek	τινες	tines	L	
+32	Greek	μερικοί	ˌme̞riˈci	M	
+31	Greek Lesbos	LIGOS		N	
+129	Classical Armenian	inč‘			
+129	Classical Armenian	imn			
+129	Classical Armenian	okʰ			
+8	Armenian Eastern	mi k‘ani			
+8	Armenian Eastern	OMANK`			
+8	Armenian Eastern	oroš	voˈɾoʃ		
+131	Old Persian	*kaičiy		L	
+75	Wakhi	TSUM, TSUMER, KUMD, CIZ		K	
+9	Baluchi	KHARD-E		Y	
+137	Zazaki	tāy(n)		Z	
+137	Zazaki	čend		V	
+72	Tajik	ANDAK, KAM		K	
+54	Persian	BA'ZI		(G)	
+77	Waziri	DZENE, TSE		Aa	
+1	Pashto	CO, CE KADR		V	
+138	Shughni	bázi		(G)	
+138	Shughni	čand		V	
+138	Shughni	ač			
+139	Sarikoli	cund, čand		V	
+52	Ossetic	CYSYL		V	
+52	Ossetic	caldaer	tsaldær, saldær	V	
+124	Ossetic Iron	sydɐr	sydɐr	V	
+125	Ossetic Digor	čidɐr	čidɐr	V	
+105	Vedic Sanskrit	kḗ cit		L	
+162	Pāḷī	kiñci		L	
+41	Khaskura	KOI		L	
+51	Nepali	KOI		L	
+106	Assamese	kisuman	kisuman	L	
+106	Assamese	kono		L	
+102	Oriya	kichi	kichi	L	
+10	Bengali	kicu	kitʃʰu, kisu	L	
+111	Bihari	kichu	kichu	L	
+111	Bihari	kayo	kayo	L	
+111	Bihari	thor		O	
+144	Magahi	कुछ	kʊcʰ		
+104	Marwari	kiɳ	kiɳ	L	
+35	Hindi	KOI, KEI		L	
+35	Hindi	KUCH		L	
+119	Urdu	کُچھ	kʊʧʰ	L	
+43	Lahnda	KUJH		L	
+53	Punjabi	KUS		L	
+33	Gujarati	THORU		O	
+33	Gujarati	KETLAK			
+50	Marathi	kāhī	'kaɦi:	L	
+65	Sinhalese	TIKA			
+34	Romani Greece	XARNWK		X	
+100	Old Church Slavonic	нѣколикъ	nækɔlikʊ̆	A, L	
+95	Serbo-Croatian	nekoliko	ˈnɛ̂kɔlikɔ	A, L	
+15	Bulgarian	няколко	ˈnʲakuɫku	A, L	
+92	Macedonian	неколку	ˈnekɔlku	A, L	
+60	Russian	немного	ˈnʲɛskɔlʲkɔ	L	
+55	Polish	kilka	ˈkʲilka	L	
+55	Polish	trochę	ˈtrɔxɛ	(Q)	
+16	Belarusian	трохі	ˈtrɔxʲi	(Q)	
+16	Belarusian	некалькі	ˈnʲɛkalʲkʲi	A, L	
+73	Ukrainian	трохи	ˈtrɔxɪ	(Q)	
+73	Ukrainian	кілька	ˈkilʲka	L	
+66	Slovak	niekoľko	ˈɲiɛkɔlʲkɔ	A, L	
+18	Czech	několik	ˈɲɛkolɪk	A, L	
+48	Sorbian Upper	někotry	ˈnʲɪkɔtʀɘ̟	A, L	
+47	Sorbian Lower	někotary	ˈɲɛkɔtarɘ̟	A, L	
+97	Slovenian	nekoliko	nɛˈkǒːlikɔ, nɛˈkôːlikɔ	A, L	
+108	Old Prussian	aīnunts			
+44	Latvian	DRUSKU			
+44	Latvian	KADS			
+44	Latvian	daži		R	
+46	Lithuanian	KELI, KELETAS		F	
+109	Old Norse	sumir	ˈsumir	S	
+109	Old Norse	nokkurir	ˈnokːurir	B	
+36	Icelandic	sumur	ˈsʏːmʏr	S	
+36	Icelandic	nokkrir	ˈnɔʰkːrɪr	B	
+23	Faroese	nakrir	ˈnaːkʰɹɪɹ	B	
+58	Norwegian Riksmal	somme	ˈsɔ̀mːə	S	
+58	Norwegian Riksmal	noen	nuːən	B	
+159	Stavangersk	någen	ˈnòːɡən	B	
+159	Stavangersk	somme	ˈsùmːə	S	
+157	Old Swedish	sumber	ˈsumber	S	
+157	Old Swedish	nokor	ˈnoːkor	B	
+69	Swedish	några	ˈnòː(g)ra	B	
+71	Swedish Vilhelmina	NAGRA, NA ENAR		B	
+70	Swedish Uppland	NAGRA		B	
+145	Elfdalian	summ-	ˈsʉmː-	S	
+145	Elfdalian	noger	ˈnògɛr	B	
+20	Danish	nogle	ˈnolə	B	
+20	Danish	somme	ˈsʌmə	S	
+158	Danish Fjolde	nåvər, når	ˈnɔvəɹ, nɔɹ	B	
+158	Danish Fjolde	som	som	S	
+160	Old Gutnish	nequar, naqwar		B	
+160	Old Gutnish	sumir		S	
+161	Gutnish Lau	summä	ˈsumːɛ	S	
+161	Gutnish Lau	någlä, någrä	ˈnoːɡlɛ, ˈnoːɡrɛ	B	
+99	Old English	sume		S	
+22	English	some	sʌm	S	
+26	Frisian	guon	ɡwon		
+21	Dutch	enig	'enəχ	T	
+21	Dutch	sommige	'sɔməɣə	S	
+24	Flemish	SOMMIGE		S	
+24	Flemish	EENIGE		T	
+83	Afrikaans	ENIGE		T	
+83	Afrikaans	PARTY			
+83	Afrikaans	SOMMIGE		S	
+87	Sranan	SOM		S	
+126	Old High German	sume		S	
+27	German	etwas	'ɛtvas		
+86	Pennsylvania Dutch	DAYL			
+120	Luxembourgish	puer		U	
+120	Luxembourgish	e puer		U	
+121	German Switzerland	äs paar		U	
+107	Gothic	sumai		S	
+112	Latin	aliqui	ˈalɪkʷiː	L	
+17	Catalan	COLCOM		L	
+17	Catalan	algun	əl’ɣun	L, T	
+56	Portuguese	alguns	aɫˈɣũʃ	L, T	
+68	Spanish	algunos	al'ɣunos	L, T	
+61	Sardinian Cagliari	CERTU		W	
+62	Sardinian Logudoro	CALCHI		L	
+63	Sardinian Nuoro	KARKI		L	
+85	French Creole Dominica	CEK		L	
+76	Walloon	KEKE, QUEQUE		L	
+25	French	quelque	kɛlk	L	
+57	Provencal	QUAUQUIS-UN		L	
+42	Ladin	ALCH		L	
+42	Ladin	QUALCHE		L	
+42	Ladin	TSCHERTUNS		W	
+146	Dolomite Ladino	calche		L	
+146	Dolomite Ladino	alcuanti		L, T	
+123	Romansh	insatge			
+122	Friulian	cualchi		L	
+122	Friulian	cetancj		W	
+39	Italian	alcuni	al'kuni	L, T	
+59	Romanian	CITEVA			
+59	Romanian	nişte			
+74	Vlach	NEDEAME			
+127	Old Irish	éicin	e:gʹənʹ	E	
+127	Old Irish	alaile, araile	aləlʹe, arəlʹe		
+101	Middle Cornish	re		(D)	
+101	Middle Cornish	nebes	ˈnɛbɛs	A, L	
+101	Middle Cornish	radn	radn	(D)	
+172	Middle Breton	bennac, pennac ?	beˈnak, peˈnak		
+12	Breton	bennak		L	
+79	Welsh	rhai		H	
+38	Irish	éigin		E	
+38	Irish	roinnt	ɾˠɪɲtʲ		
+115	Scottish Gaelic	-éigin		E	
+115	Scottish Gaelic	cuid			
+115	Scottish Gaelic	feadhainn			
+5	[Legacy] Albanian T	DISA		C	
+29	[Legacy] Greek K	MERIKOI		M	
+28	[Legacy] Greek D	MERIKOI		M	
+30	[Legacy] Greek Md	MERIKOI		M	
+30	[Legacy] Greek Md	LIGOS		N	
+64	[Legacy] Serbocroatian	NEKI		A, L	
+113	[Legacy] Serbian	nekoliko	nêkoliko	A	
+89	[Legacy] Bulgarian P	N AKOJ		A, L	
+49	[Legacy] Macedonian	NEKOLKU		A, L	
+49	[Legacy] Macedonian	málku	ˈmalku		
+94	[Legacy] Russian P	NEKIJ		A, L	
+93	[Legacy] Polish P	NIEJAKI		A, P	
+90	[Legacy] Byelorussian P	NEJKI		A, L	
+98	[Legacy] Ukrainian P	DEJAKIJ		A, P	
+19	[Legacy] Czech E	NEKERE, NEKOLIK		A, L	
+96	[Legacy] Slovak P	NIEKTORY		A, L	
+91	[Legacy] Czech P	NEJAKY		A	
+67	[Legacy] Slovenian	MALO			
+45	[Legacy] Lithuanian O	KELI		F	
+11	[Legacy] Brazilian	alguns	auˈgũs	L, T	
+142	[Legacy] German Munich	einige		T	
+84	[Legacy] French Creole C	CEK (ADJ.), ADA (PN.)		L	
+78	[Legacy] Welsh C	RHAI		H	
+37	[Legacy] Irish A	EIGIAN		E	

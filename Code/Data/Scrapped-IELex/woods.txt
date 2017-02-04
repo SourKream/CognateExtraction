@@ -1,0 +1,165 @@
+80	Hittite	tiessar			
+81	Tocharian A	kārāś		P	
+81	Tocharian A	wärt		Q	
+82	Tocharian B	karāś		P	
+82	Tocharian B	wartto		Q	
+88	Albanian	PYLLI		(C)	
+143	Standard Albanian	pyll		(C)	
+2	Albanian Sicily	VOSKU		(B)	
+4	Albanian Corinth	DHASO		J	
+3	Albanian Gheg	PYLLI		C	
+6	Albanian Tosk	PYL		(C)	
+110	Ancient Greek	ὕλη	hýːlɛː	Ai	
+32	Greek	δάσος	ˈðaso̞s	J	
+31	Greek Lesbos	DASOS		J	
+129	Classical Armenian	անտառ	antaṙ	D	
+129	Classical Armenian	մայրի	mayri	(X)	
+8	Armenian Eastern	անտառ	ɑnˈtɑr	D	
+7	Armenian Western	անտառ	ɑnˈdɑr	D	
+7	Armenian Western	MAYRI		(X)	
+128	Avestan	razurəm		Ae	
+9	Baluchi	LADH		Af	
+72	Tajik	BESA		Ab	
+72	Tajik	cangal	dʒænɡæl	(A)	
+54	Persian	jangal	dʒænɡæl	(A)	
+77	Waziri	ZANGAL		(A)	
+1	Pashto	DZANGAL		(A)	
+138	Shughni	diraxtzōr		Ag	
+138	Shughni	jangal		(A)	
+139	Sarikoli	ǰangal		(A)	
+52	Ossetic	x'aed	qæd	W	
+124	Ossetic Iron	qɐd	qɐd	W	
+125	Ossetic Digor	ʁɐdɐ	ʁɐdɐ	W	
+105	Vedic Sanskrit	vánam		S	
+162	Pāḷī	vana		S	
+41	Khaskura	BAN		S	
+51	Nepali	BAN		S	
+106	Assamese	kathɒni	kathɒni	(T)	
+102	Oriya	bɔṇɔ	bɔɳɔ	S	
+102	Oriya	ǰɔŋgɔlɔ	ǰɔŋgɔlɔ	A	
+10	Bengali	JONGOL		A	
+10	Bengali	BON		S	
+111	Bihari	‘wood’ kaʈh	kaʈh	(T)	
+111	Bihari	ban		S	
+144	Magahi	जंगल	ɟəŋɡəl	A	
+104	Marwari	kaʈh	kaʈh	(T)	
+35	Hindi	JENGEL		A	
+119	Urdu	جنگل	ʤə̃ɡəl	A	
+103	Sindhi	vaṇakāre		S	
+43	Lahnda	JENGEL		A	
+53	Punjabi	JENGEL		A	
+33	Gujarati	JENGEE		A	
+50	Marathi	dzhādī	dzʰa'ɖi:	Y	
+50	Marathi	dʒāŋgal	'dʒaŋgəl	A	
+40	Kashmiri	WAN		S	
+65	Sinhalese	KALE		Aa	
+34	Romani Greece	veš		(Ab)	
+100	Old Church Slavonic	лѣсъ	læsʊ̆	H	
+95	Serbo-Croatian	šuma	ˈʃûma	U	
+15	Bulgarian	гора	gu'ra	M	
+92	Macedonian	шума	ˈʃuma	U	
+92	Macedonian	гора	ˈɡora	M	
+60	Russian	лес	lʲɛs	H	
+55	Polish	las	las	H	
+16	Belarusian	лес	lʲɛs	H	
+73	Ukrainian	ліс	lʲis	H	
+66	Slovak	les	lɛs	H	
+18	Czech	les	lɛs	H	
+48	Sorbian Upper	lěs	lɪs	H	
+47	Sorbian Lower	góla	ˈɡɘ̟lʲa	Ah	
+97	Slovenian	gozd	gɔzd, ɡôːzd	Aj	
+108	Old Prussian	median		G	
+44	Latvian	mežs		G	
+46	Lithuanian	MISKAS		G	
+109	Old Norse	mo̜rk	mɔrk	Ad	
+109	Old Norse	viðr	viðr	N	
+109	Old Norse	skógr	skoːɡr	I	
+36	Icelandic	skógur	ˈskouːʏr	I	
+36	Icelandic	mörk	mœr̥k	Ad	
+23	Faroese	skógur, skóg	ˈskɔuːɡʊɹ, skɔuːɡ	I	
+23	Faroese	mørk	mœɹ̥k	Ad	
+58	Norwegian Riksmal	skog	skuːɡ	I	
+159	Stavangersk	skoɡ	skuːɡ	I	
+157	Old Swedish	mark	mark	Ad	
+157	Old Swedish	skogher	ˈskoːɣer	I	
+69	Swedish	skog	skuːg	I	
+71	Swedish Vilhelmina	SKOGA		I	
+70	Swedish Uppland	SKOGAR		I	
+145	Elfdalian	rais	rɑɪs	Ac	
+145	Elfdalian	skuog	skʉəg	I	
+20	Danish	skov	sg̥ɒwˀ	I	
+158	Danish Fjolde	skåv	sɡɔw	I	
+160	Old Gutnish	scogr		I	
+161	Gutnish Lau	skåug	skouɡ	I	
+99	Old English	wudu		N	
+99	Old English	weald		O	
+22	English	woods	wʊdz	N	
+26	Frisian	bosk	bosk	(B)	
+21	Dutch	woud	wɑut	O	
+21	Dutch	bos	bɔs	(B)	
+24	Flemish	BOSCH		(B)	
+24	Flemish	WOUD		O	
+83	Afrikaans	BOS		(B)	
+87	Sranan	BOESI		(B)	
+126	Old High German	holz			
+126	Old High German	wald		O	
+27	German	Wald	valt	O	
+86	Pennsylvania Dutch	BUSCH		(B)	
+120	Luxembourgish	Bësch		(B)	
+121	German Switzerland	waud		O	
+107	Gothic	waldus		O	
+112	Latin	silva	ˈsilwa	R	
+17	Catalan	bosc	bɔsk	B	
+56	Portuguese	SELVA		R	
+56	Portuguese	floresta	fluˈɾɛʃtɐ	E	
+56	Portuguese	BOSQUE		B	
+68	Spanish	bosque	'boske	B	
+61	Sardinian Cagliari	BOSKU		B	
+62	Sardinian Logudoro	ISCI		B	
+63	Sardinian Nuoro	BUSKU		B	
+85	French Creole Dominica	BWE		B	
+76	Walloon	BWES		B	
+25	French	bois	bwa	B	
+57	Provencal	SEUVO		R	
+57	Provencal	FOUREST		E	
+42	Ladin	SELVA		R	
+42	Ladin	GOD		K	
+146	Dolomite Ladino	bosch		B	
+123	Romansh	guaud		K	
+122	Friulian	bosc		B	
+39	Italian	bosco	'bɔsko	B	
+59	Romanian	pădure	pəˈduɾe	L	
+74	Vlach	PEDURI		L	
+140	Gaulish	uidu-		Z	
+127	Old Irish	ross	ros		
+127	Old Irish	caill	kalʹlʹ	T	
+127	Old Irish	fid	ɸʹið	(Z)	
+101	Middle Cornish	predn	predn		
+101	Middle Cornish	koswik	'kɤzwɪk	F	
+172	Middle Breton	coat, quoat	ˈkoat	F	
+12	Breton	koad	ˈkwaːt	F	
+79	Welsh	coed		F	
+38	Irish	coill		T	
+38	Irish	fiodh		(N)	
+115	Scottish Gaelic	coille	kɤʎɪ	T	
+5	[Legacy] Albanian T	PYJE		(C)	
+29	[Legacy] Greek K	DASOS		J	
+28	[Legacy] Greek D	DASOS		J	
+30	[Legacy] Greek Md	DASOS		J	
+64	[Legacy] Serbocroatian	SUMA		U	
+113	[Legacy] Serbian	gora		M	
+113	[Legacy] Serbian	šuma	ʃûma	U	
+49	[Legacy] Macedonian	šúma	ˈʃuma	U	
+19	[Legacy] Czech E	LES		H	
+67	[Legacy] Slovenian	DOVO		V	
+45	[Legacy] Lithuanian O	MISKAS		G	
+45	[Legacy] Lithuanian O	GIRIA		M	
+11	[Legacy] Brazilian	floresta	floˈɾɛstɐ	E	
+11	[Legacy] Brazilian	BOSQUE		B	
+11	[Legacy] Brazilian	SELVA		R	
+142	[Legacy] German Munich	Wald		O	
+84	[Legacy] French Creole C	GHWA BWA		B	
+14	[Legacy] Breton St	koad	kwa:t	F	
+13	[Legacy] Breton Se	KOED		F	
+78	[Legacy] Welsh C	GALLT			
+37	[Legacy] Irish A	COILLTE		T	

@@ -1,0 +1,163 @@
+114	Proto-Indo-European	*ḱewero-			
+80	Hittite	huwanz		B	
+81	Tocharian A	want		B	
+82	Tocharian B	yente		B	
+88	Albanian	ERA		(C)	
+143	Standard Albanian	erë		(C)	
+2	Albanian Sicily	ER		(C)	
+4	Albanian Corinth	EERE		(C)	
+3	Albanian Gheg	ERA		(C)	
+6	Albanian Tosk	ERE		(C)	
+173	Mycenaean Greek	a-ne-mo	anémo̞-	D	
+110	Ancient Greek	ἄνεμος	ánemos	D	
+32	Greek	αέρας	aˈʝe̞ras	J	
+31	Greek Lesbos	AGERAS		J	
+129	Classical Armenian	քամի	k'ami		
+129	Classical Armenian	այս	ays		
+129	Classical Armenian	հողմ	hołm	D	
+8	Armenian Eastern	հողմ	hɔʁm	(D)	
+8	Armenian Eastern	քամի	kʰɑˈmi		
+7	Armenian Western	հով	hov	B	
+128	Avestan	vātō		B	
+136	Sogdian	w’δ		B	
+75	Wakhi	DUMA		L	
+75	Wakhi	SEMOL		(K)	
+9	Baluchi	GO		A	
+137	Zazaki	vā		A	
+72	Tajik	SAMOL		(K)	
+72	Tajik	BOD		A	
+54	Persian	BAD		A	
+77	Waziri	BOD		A	
+1	Pashto	BAD		A	
+138	Shughni	x̆už			
+138	Shughni	šamōl		(K)	
+139	Sarikoli	šamul		(K)	
+52	Ossetic	DYMGAE		L	
+52	Ossetic	uad	wad	A	
+124	Ossetic Iron	dymgɐ	dymgɐ	L	
+125	Ossetic Digor	dungɐ	dungɐ	L	
+141	Kata-viri	dɨmi		L	
+105	Vedic Sanskrit	vā́tas		B	
+162	Pāḷī	vāta		B	
+41	Khaskura	BATAS		B	
+51	Nepali	BATAS		B	
+106	Assamese	bɒtah	bɒtah	B	
+102	Oriya	bɔtasɔ	bɔtasɔ	B	
+102	Oriya	pɔbɔnɔ	pɔbɔnɔ	E	
+10	Bengali	BAIU		B	
+10	Bengali	HAOA		(H)	
+111	Bihari	hawa	hawa	(H)	
+111	Bihari	basāt		B	
+144	Magahi	हवा	həwɑ	(H)	
+104	Marwari	pun	pun	E	
+35	Hindi	VAYU		B	
+35	Hindi	HEVA		(H)	
+119	Urdu	ہَوا	həwɑ	(H)	
+103	Sindhi	vāu		B	
+43	Lahnda	HEWA		(H)	
+53	Punjabi	VA		B	
+33	Gujarati	PEWEN		E	
+50	Marathi	wārā	'waɾa	B	
+50	Marathi	heva		(H)	
+40	Kashmiri	WAV		B	
+65	Sinhalese	SULANGA			
+34	Romani Greece	BALVAL		B	
+100	Old Church Slavonic	вѣтръ	vætrʊ̆	B	
+95	Serbo-Croatian	vjetar	ˈvjɛ̂tar	B	
+15	Bulgarian	вятър	ˈvʲatər	B	
+92	Macedonian	ветар	ˈvetar	B	
+60	Russian	ветер	'vʲɛtʲɛr	B	
+55	Polish	wiatr	vjatr	B	
+16	Belarusian	вецер	ˈvʲɛtsʲɛr	B	
+73	Ukrainian	вітер	ˈʋitɛr	B	
+66	Slovak	vietor	ˈviɛtɔr	B	
+18	Czech	vítr	ˈviːtr̩	B	
+48	Sorbian Upper	wětřik	ˈwɪtsik	B	
+47	Sorbian Lower	wětš	wɪtʂ	B	
+97	Slovenian	veter	ˈvêːtər	B	
+108	Old Prussian	wetro		B	
+44	Latvian	vẽjš		B	
+46	Lithuanian	vėjas	ˈʋʲe:jɛs	B	
+109	Old Norse	vindr	vindr	B	
+36	Icelandic	vindur	ˈvɪnd̥ʏr	B	
+23	Faroese	vindur	ˈvɪnd̥ʊɹ	B	
+58	Norwegian Riksmal	vind	ʋin	B	
+159	Stavangersk	vinn	ʋɪnː	B	
+157	Old Swedish	vinder	ˈvinder	B	
+69	Swedish	blåsa	'blo:sa	(I)	
+69	Swedish	vind	vɪnd	B	
+71	Swedish Vilhelmina	BLASVER  BLASVAR, BLAST		I	
+70	Swedish Uppland	VIND		B	
+145	Elfdalian	bläst	blæːst	I	
+20	Danish	vind	venˀ	B	
+158	Danish Fjolde	blæst	blæsd	I	
+158	Danish Fjolde	veer	veːɹ	B	
+161	Gutnish Lau	vinn	vɪnː	B	
+99	Old English	wind		B	
+22	English	wind	wɪnd	B	
+26	Frisian	wyn	vin	B	
+21	Dutch	wind	wɪnt	B	
+24	Flemish	WIND		B	
+83	Afrikaans	WIND		B	
+87	Sranan	WINTI		B	
+126	Old High German	wint		B	
+27	German	wind	vɪnt	B	
+86	Pennsylvania Dutch	WINDT		B	
+120	Luxembourgish	Wand		B	
+120	Luxembourgish	Loft			
+121	German Switzerland	wind		B	
+107	Gothic	winds		B	
+112	Latin	uentus	ˈwentus	B	
+17	Catalan	vent	ben	B	
+17	Catalan	aire	'aijrə	J	
+56	Portuguese	vento	ˈvẽtu	B	
+68	Spanish	viento	'bjento	B	
+61	Sardinian Cagliari	BENTU		B	
+62	Sardinian Logudoro	BENTU		B	
+63	Sardinian Nuoro	VENTU		B	
+85	French Creole Dominica	VA		B	
+76	Walloon	VINT		B	
+25	French	vent	vɑ̃	B	
+57	Provencal	VENT		B	
+57	Provencal	AURO		J	
+42	Ladin	VENT		B	
+42	Ladin	SOFFEL			
+146	Dolomite Ladino	vent		B	
+123	Romansh	vent		B	
+122	Friulian	vint		B	
+122	Friulian	aiar, arie		J	
+39	Italian	vento	'vɛnto	B	
+59	Romanian	vânt		B	
+74	Vlach	VINTU		B	
+127	Old Irish	gáeth	gaiθ	F	
+101	Middle Cornish	awel	'awɛl	B	
+101	Middle Cornish	gwyns	gwɪnz	B	
+172	Middle Breton	avel, auel	ˈaːvel	B	
+12	Breton	avel	ˈaːvɛɭ	B	
+79	Welsh	awel		B	
+38	Irish	gaoth		F	
+115	Scottish Gaelic	gaoth		F	
+5	[Legacy] Albanian T	erë	ɛɹ	(C)	
+29	[Legacy] Greek K	ANEMOS		D	
+28	[Legacy] Greek D	ANEMOS		D	
+30	[Legacy] Greek Md	AERAS		J	
+64	[Legacy] Serbocroatian	VETAR		B	
+113	[Legacy] Serbian	vetar		B	
+89	[Legacy] Bulgarian P	V ATUR		B	
+49	[Legacy] Macedonian	VETER		B	
+94	[Legacy] Russian P	VETER		B	
+93	[Legacy] Polish P	WIATR		B	
+90	[Legacy] Byelorussian P	VECER		B	
+98	[Legacy] Ukrainian P	VITER		B	
+19	[Legacy] Czech E	LUFT, VETR		B	
+96	[Legacy] Slovak P	VIETOR		B	
+91	[Legacy] Czech P	VITR		B	
+67	[Legacy] Slovenian	SAPA			
+45	[Legacy] Lithuanian O	VEJAS		B	
+11	[Legacy] Brazilian	VENTO		B	
+142	[Legacy] German Munich	Wind		B	
+84	[Legacy] French Creole C	VA		B	
+14	[Legacy] Breton St	avel	'a:vɛl	B	
+13	[Legacy] Breton Se	AUEL		B	
+78	[Legacy] Welsh C	GWYNT		B	
+37	[Legacy] Irish A	GAOTH		F	

@@ -1,0 +1,196 @@
+80	Hittite	*kuwanz		Z	
+134	Lycian	lada			
+81	Tocharian A	śäṃ		M	
+82	Tocharian B	śana		M	
+88	Albanian	GRUJA		B	
+143	Standard Albanian	grua		B	
+2	Albanian Sicily	SOKE		N	
+4	Albanian Corinth	GRUA		B	
+3	Albanian Gheg	ZOJA			
+3	Albanian Gheg	GRUJA		B	
+3	Albanian Gheg	SHOKJE		N	
+6	Albanian Tosk	GRUA		B	
+110	Ancient Greek	γυνή	ɡynɛ́ː	Z	
+32	Greek	σύζυγος	ˈsiziˌɣo̞s	Ap	
+32	Greek	γυναίκα	ʝiˈne̞ka	(Z)	
+31	Greek Lesbos	GUNAIKA		Z	
+129	Classical Armenian	կին	kin	Z	
+8	Armenian Eastern	կին	kin	Z	
+7	Armenian Western	կին	gin	Z	
+128	Avestan	nāirīka		C	
+128	Avestan	nāiri		C	
+136	Sogdian	δβ’mbn		Q	
+75	Wakhi	JUMAUT, KEND, YUPKWOR		Ad	
+9	Baluchi	ZAL		Z	
+137	Zazaki	ǰinī		Z	
+72	Tajik	ZAN, ZAVCA		Z	
+54	Persian	ZAN		Z	
+77	Waziri	TABAR		Ae	
+1	Pashto	SEDZA		Af	
+138	Shughni	γ̆in		Z	
+139	Sarikoli	ɣ̆in		Z	
+139	Sarikoli	parxox̆		Ag	
+52	Ossetic	binojnag	binojnaɡ	Y	
+124	Ossetic Iron	binojnag	binojnag	Y	
+125	Ossetic Digor	bijnojnag	bijnojnag	Y	
+141	Kata-viri	štɪri		O	
+153	Askunu	istrí		O	
+105	Vedic Sanskrit	jāyā́		(Z)	
+105	Vedic Sanskrit	pátnī		Q	
+162	Pāḷī	jāni		Z	
+41	Khaskura	SWASHNI		I	
+51	Nepali	JOI		P	
+51	Nepali	AIMAI			
+51	Nepali	STRI		O	
+51	Nepali	SWASNI		I	
+106	Assamese	mālōk		Ah	
+106	Assamese	ghainī		Z	
+106	Assamese	pɒtni	pɒtni	Q	
+102	Oriya	stri	stri	O	
+102	Oriya	pɔtni	pɔtni	Q	
+10	Bengali	BOU		K	
+111	Bihari	patnī		Q	
+111	Bihari	strī		O	
+111	Bihari	gharwalī		R	
+111	Bihari	bahū		K	
+144	Magahi	मेहरारु	mehrɑru	Ai	
+104	Marwari	gaurjān		R	
+104	Marwari	bahū		K	
+104	Marwari	jōṛāyat		Aj	
+35	Hindi	PETNI		Q	
+119	Urdu	بِیوی	biwi	Ak	
+103	Sindhi	ǰōe		P	
+43	Lahnda	KWAR		Al	
+53	Punjabi	VOTTI		Am	
+33	Gujarati	PETNI		Q	
+33	Gujarati	vəhu	vəhu	K	
+50	Marathi	pātnī	'patni:	Q	
+50	Marathi	bāyko	'bajko		
+40	Kashmiri	KOLAY		An	
+65	Sinhalese	BIRIYA, GANI		Z	
+34	Romani Greece	ROMNI  JUVLI		Aa	
+100	Old Church Slavonic	жєна	ʒɛnɑ	Z	
+95	Serbo-Croatian	žena	ˈʒɛ̌na	Z	
+15	Bulgarian	жена	ʒɘˈna	Z	
+92	Macedonian	жена	ˈʒena	Z	
+60	Russian	жена	ʐɛ'na	Z	
+55	Polish	żona	ˈʐɔna	Z	
+16	Belarusian	жонка	ʐɔnka	Z	
+73	Ukrainian	дружина	druˈʐɪna	Aq	
+66	Slovak	manželka	ˈmanʒɛlka	Z	
+18	Czech	manželka	ˈmanʒɛlka	Z	
+48	Sorbian Upper	žona	ˈʒɔna	Z	
+47	Sorbian Lower	žeńska	ˈʐeɲska	Z	
+97	Slovenian	žena	ˈʒɛ̌ːna	Z	
+108	Old Prussian	gennan		Z	
+44	Latvian	siẽva		J	
+46	Lithuanian	ZMONA		H	
+109	Old Norse	kona	ˈkona	Z	
+109	Old Norse	víf	viːf	F	
+109	Old Norse	húsfrú, hústrú	ˈhuːsˌfruː, ˈhuːsˌtruː	S, T	
+36	Icelandic	eiginkona	ˈeiːjɪn.kʰɔːna	Z	
+23	Faroese	vív	vʊiːv	(F)	
+23	Faroese	húsfrú	ˈhʉuːsˌfɹʉuː	S, T	
+23	Faroese	kona	ˈkʰoːna	Z	
+58	Norwegian Riksmal	frue	ˈfɾʉ̀ːə	S	
+58	Norwegian Riksmal	kone	ˈkùːnə	Z	
+58	Norwegian Riksmal	hustru	ˈhʉ̀ːsˌtɾʉː	S, T	
+159	Stavangersk	kåna	ˈkòːna	Z	
+157	Old Swedish	hustru, husfru	ˈhuːsˌtruː, ˈhuːsˌfruː	S, T	
+157	Old Swedish	kona	ˈkoːna	Z	
+157	Old Swedish	vif	viːf	F	
+69	Swedish	fru	frʉː	S	
+69	Swedish	maka	ˈmɑ̀:ka	Ac	
+69	Swedish	hustru	ˈhɵ̀sːtrɵ	S, T	
+71	Swedish Vilhelmina	TZARING			
+70	Swedish Uppland	HUSTRU, GUMMA		S, T	
+145	Elfdalian	kelingg	ˈkɛ̀lɪŋg	Ab	
+20	Danish	hustru	ˈhusd̥ʰʁu	S, T	
+20	Danish	kone	ˈg̥ʰo:nə	Z	
+158	Danish Fjolde	kuun	kuːn	Z	
+160	Old Gutnish	cuna		Z	
+160	Old Gutnish	husfroy(i)a		S, T	
+161	Gutnish Lau	hustrå	ˈhuːsˌtroː	S, T	
+161	Gutnish Lau	kunå	ˈkuːno	Z	
+161	Gutnish Lau	fräu	frɛu	S	
+99	Old English	cwēn		Z	
+99	Old English	wīf		F	
+22	English	wife	waɪf	F	
+26	Frisian	frou	frɔ.u̯	S	
+21	Dutch	echtɡenote	ˈɛχtɣənotə	A	
+21	Dutch	huisvrouw	'hœysfrɑu	S, (T)	
+21	Dutch	vrouw	vrɑu	S	
+24	Flemish	ECHTGENOOTE		A	
+24	Flemish	VROUW		S	
+83	Afrikaans	EGGENOTE		A	
+83	Afrikaans	GADE		U	
+83	Afrikaans	VROU		S	
+87	Sranan	WEFI		F	
+126	Old High German	gimahha		Z	
+126	Old High German	hīwa			
+126	Old High German	quena		Z	
+126	Old High German	wīb		A	
+27	German	Gattin	'gatɪn	U	
+27	German	Frau	fraŭ	S	
+86	Pennsylvania Dutch	FRAW		S	
+120	Luxembourgish	Fra		S	
+121	German Switzerland	frou		S	
+107	Gothic	qēns		Z	
+112	Latin	uxor	ˈuksor		
+17	Catalan	dona	'dɔnə	X	
+17	Catalan	muller	mu'ʎe	D	
+56	Portuguese	mulher	muˈʎɛɾ	D	
+56	Portuguese	esposa	ɨʃˈpozɐ	V	
+68	Spanish	mujer	mu'xeɾ	D	
+68	Spanish	esposa	es'posa	V	
+61	Sardinian Cagliari	MULLERI		D	
+62	Sardinian Logudoro	FEMINA		W	
+63	Sardinian Nuoro	MUTHTHERE		D	
+85	French Creole Dominica	MADAM		G	
+76	Walloon	FEUME		W	
+25	French	épouse	epuz	V	
+25	French	femme	fam	W	
+57	Provencal	MOUIE		D	
+42	Ladin	MUGLIER		D	
+146	Dolomite Ladino	femena		W	
+123	Romansh	consorta			
+123	Romansh	dunna		X	
+122	Friulian	femine		W	
+39	Italian	moglie	'moʎʎe	D	
+39	Italian	sposa	'spoza	V	
+59	Romanian	NEVASTA			
+59	Romanian	soţie		N	
+74	Vlach	MBLARE		D	
+127	Old Irish	ben	bʹen	(Z)	
+127	Old Irish	séitig	sʹe:dʹəɣʹ	Z	
+101	Middle Cornish	gwreg	gwrɛ:g	E	
+172	Middle Breton	gurec, greuc, grec, grouec, groec	ˈgureːk, ˈgurek,	E	
+172	Middle Breton	priet, pryed	ˈpriːet	Ao	
+12	Breton	gwreg	gwreːg-k	E	
+12	Breton	pried	ˈpriːɛd-t		
+79	Welsh	gwraig		E	
+38	Irish	bean chéile		Z	
+115	Scottish Gaelic	bean, bean-phòsta		Z	
+5	[Legacy] Albanian T	SHAGE		N	
+5	[Legacy] Albanian T	GRUA		B	
+29	[Legacy] Greek K	SUDZUGOS		Ap	
+28	[Legacy] Greek D	GUNAIKA		Z	
+30	[Legacy] Greek Md	GUNAIKA		Z	
+64	[Legacy] Serbocroatian	SUPRUGA		L	
+64	[Legacy] Serbocroatian	ZENA		Z	
+113	[Legacy] Serbian	supruga		L	
+113	[Legacy] Serbian	žena		Z	
+49	[Legacy] Macedonian	ZENA		Z	
+49	[Legacy] Macedonian	sópruga	ˈsɔpruɡa	L	
+19	[Legacy] Czech E	ZENA		Z	
+67	[Legacy] Slovenian	ZENA		Z	
+45	[Legacy] Lithuanian O	PATI		Q	
+45	[Legacy] Lithuanian O	ZMONA		H	
+11	[Legacy] Brazilian	esposa	isˈpoza	V	
+142	[Legacy] German Munich	Ehefrau		S	
+84	[Legacy] French Creole C	MADAM		G	
+14	[Legacy] Breton St	gwreg	gwre:k	E	
+13	[Legacy] Breton Se	GROEG (DIAL.)		E	
+13	[Legacy] Breton Se	MOEZ			
+78	[Legacy] Welsh C	GWRAIG		E	
+37	[Legacy] Irish A	BEAN		Z	

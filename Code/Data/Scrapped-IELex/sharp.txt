@@ -1,0 +1,168 @@
+114	Proto-Indo-European	*h₁edʰ-			
+114	Proto-Indo-European	*h₂eḱ-		C	
+80	Hittite	alpus		F	
+82	Tocharian B	akwatse		C	
+82	Tocharian B	mātre			
+88	Albanian	PREFET		C	
+143	Standard Albanian	i, e mprehtë		C	
+4	Albanian Corinth	I-ECURE			
+3	Albanian Gheg	PREFET		C	
+6	Albanian Tosk	I-MBRETE		C	
+110	Ancient Greek	ὀξύς	oksýs	C	
+32	Greek	κοφτερός	ˌko̞fte̞ˈro̞s	J	
+31	Greek Lesbos	KOFTEROS		J	
+129	Classical Armenian	սուր	sowr	D	
+129	Classical Armenian	cʰicʰ			
+8	Armenian Eastern	sur	suɾ	D	
+7	Armenian Western	SOOR		D	
+128	Avestan	tiγrō		A	
+131	Old Persian	tigra		A	
+136	Sogdian	trγ		A	
+136	Sogdian	sqrb		M	
+75	Wakhi	TEGHD, TIZ		A	
+9	Baluchi	TEZ		A	
+72	Tajik	TEZ		A	
+54	Persian	TIZ		A	
+77	Waziri	TERA		A	
+1	Pashto	TERE		A	
+138	Shughni	tēz		A	
+139	Sarikoli	tɛyd		A	
+52	Ossetic	cyrg'	tsɨrʁ	A	
+124	Ossetic Iron	syrʁ	syrʁ	A	
+125	Ossetic Digor	čirʁ	čirʁ	A	
+105	Vedic Sanskrit	tīkṣṇás		A	
+162	Pāḷī	tejate		A	
+41	Khaskura	LAGNE		P	
+41	Khaskura	DHARILO		E	
+51	Nepali	LAGNE		P	
+51	Nepali	DHARILO		E	
+106	Assamese	soka	soka		
+102	Oriya	daḍhua	daɖhua		
+10	Bengali	DHARALO		E	
+111	Bihari	tejgər	tejgər	A	
+111	Bihari	nokhila	nokhila		
+144	Magahi	पज्जल	pəɟɟəl		
+104	Marwari	pāṇa			
+104	Marwari	tikho	tikho	A	
+35	Hindi	TEJ		A	
+119	Urdu	تیز	t̪ez	A	
+43	Lahnda	TEZ		A	
+53	Punjabi	TIKKHA		A	
+33	Gujarati	DHARDAR, DHARWALU		E	
+50	Marathi	dhārdār	'dʰaɾdaɾ	E	
+50	Marathi	tīksna	'ti:kʂɳə	A	
+40	Kashmiri	TEZ		A	
+65	Sinhalese	MUHATA			
+100	Old Church Slavonic	остръ	ɔstrʊ̆	C	
+95	Serbo-Croatian	oštar	ˈɔʃtar	C	
+15	Bulgarian	остър	ˈɔstər	C	
+92	Macedonian	остар	ˈostar	C	
+60	Russian	острый	'ɔstrɨj	C	
+55	Polish	ostry	ˈɔstrɘ̟	C	
+16	Belarusian	востры	ˈvɔstrɨ	C	
+73	Ukrainian	гострий	ˈɦɔstrɪj	C	
+66	Slovak	ostrý	ˈɔstriː	C	
+18	Czech	ostrý	ˈɔstriː	C	
+48	Sorbian Upper	wótry	ˈwʊtʀɘ̟	C	
+47	Sorbian Lower	wótšy	ˈwɘ̟tʂɘ̟	C	
+97	Slovenian	oster	ˈǒːstər	C	
+44	Latvian	ass		C	
+46	Lithuanian	ASTRUS		C	
+109	Old Norse	hvass	ɣvasː	H	
+109	Old Norse	bitr	bitr	K	
+109	Old Norse	skarpr	skarpr	B	
+36	Icelandic	hvass	xʷasː, kʰvasː	H	
+36	Icelandic	skarpur	ˈskar̥pʰʏr	B	
+36	Icelandic	beittur	ˈb̥eiʰtːʏr	K	
+23	Faroese	bitur	ˈb̥iːtʰʊɹ	(K)	
+23	Faroese	skarpur	ˈskaɹpʰʊɹ	B	
+23	Faroese	hvassur	ˈkʰvasːʊɹ	H	
+58	Norwegian Riksmal	hvass	ʋasː	H	
+58	Norwegian Riksmal	skarp	skaɾp	B	
+159	Stavangersk	kvasse	ˈkʋasːə	H	
+159	Stavangersk	skarpe	ˈskaʁpə	B	
+157	Old Swedish	hvas	ˈhvasː	H	
+157	Old Swedish	biter	ˈbiːter	K	
+157	Old Swedish	skarper	ˈskarper	B	
+69	Swedish	vass	vasː	H	
+69	Swedish	skarp	skarp	B	
+71	Swedish Vilhelmina	VAS		H	
+70	Swedish Uppland	VASS		H	
+145	Elfdalian	wass	wɑsː	H	
+20	Danish	skarp	sg̥ʰɑ:b̥	B	
+158	Danish Fjolde	skarəp	ˈsxɑɹəb	B	
+161	Gutnish Lau	skarpar	ˈskarpar	B	
+161	Gutnish Lau	vassar	ˈvasːar	H	
+99	Old English	hwæs		H	
+99	Old English	scearp		B	
+22	English	sharp	ʃɑ:p	B	
+26	Frisian	skerp	skɛrp	B	
+21	Dutch	scherp	sχɛrp	B	
+24	Flemish	SCHERP		B	
+83	Afrikaans	SKERP		B	
+87	Sranan	SRAPOE		B	
+126	Old High German	scarf		B	
+126	Old High German	was		H	
+27	German	scharf	ʃarf	B	
+86	Pennsylvania Dutch	SCHARIF		B	
+120	Luxembourgish	schaarf		B	
+121	German Switzerland	scharf		B	
+107	Gothic	*ƕass		H	
+112	Latin	acer	ˈaːker	(C)	
+112	Latin	acūtus	aˈkuːtus	C	
+17	Catalan	TALLANT		G	
+17	Catalan	CARNICER			
+17	Catalan	punxegut	punʃə'ɣut		
+56	Portuguese	afiado	ɐfiˈadu	C	
+56	Portuguese	aguçado	ɐɡuˈsadu	C	
+68	Spanish	afilado	afi'laðo	C	
+68	Spanish	agudo	a'ɣuðo	C	
+61	Sardinian Cagliari	AKKUCCU		C	
+62	Sardinian Logudoro	ARRODATU		N	
+63	Sardinian Nuoro	ARROTTATU		N	
+85	French Creole Dominica	FILE		C	
+76	Walloon	CWAHANT			
+25	French	tranchant	tʀɑ̃ʃɑ̃	I	
+57	Provencal	TAIU		G	
+57	Provencal	TRANCHU		I	
+42	Ladin	TAGLIAINT		G	
+146	Dolomite Ladino	taient		G	
+123	Romansh	giz			
+122	Friulian	uçât, guât			
+39	Italian	tagliente	taʎ'ʎɛnte	G	
+59	Romanian	ascuțit		C	
+59	Romanian	TAIOS		G	
+127	Old Irish	gér	gʹe:r	L	
+127	Old Irish	fáebar	ɸaiβər	(O)	
+127	Old Irish	áith	a:θʹ		
+101	Middle Cornish	lymm	lɪm:	F	
+172	Middle Breton	lem	ˈlemː	F	
+12	Breton	lemm		F	
+79	Welsh	awchus			
+38	Irish	faobhar		(O)	
+38	Irish	géar	ɟeːɾˠ	L	
+115	Scottish Gaelic	geur		L	
+5	[Legacy] Albanian T	I, E MPREHTE		C	
+29	[Legacy] Greek K	AICHMEROS			
+28	[Legacy] Greek D	MUTEROS			
+30	[Legacy] Greek Md	KOFTEROS		J	
+64	[Legacy] Serbocroatian	OSTAR		C	
+113	[Legacy] Serbian	oštar	ôʃtar	C	
+89	[Legacy] Bulgarian P	OSTUR		C	
+49	[Legacy] Macedonian	OSTAR		C	
+94	[Legacy] Russian P	OSTRYJ		C	
+93	[Legacy] Polish P	OSTRY		C	
+90	[Legacy] Byelorussian P	VOSTRY		C	
+98	[Legacy] Ukrainian P	HOSTRYJ		C	
+19	[Legacy] Czech E	OSTRE		C	
+96	[Legacy] Slovak P	OSTRY		C	
+91	[Legacy] Czech P	OSTRY		C	
+67	[Legacy] Slovenian	OSTER		C	
+45	[Legacy] Lithuanian O	ASTRUS		C	
+11	[Legacy] Brazilian	AFIADO, AGUCADO		C	
+142	[Legacy] German Munich	scharf		B	
+84	[Legacy] French Creole C	FILE		C	
+14	[Legacy] Breton St	lemm	lɛm	F	
+13	[Legacy] Breton Se	LEMM		F	
+78	[Legacy] Welsh C	LLYM		F	
+37	[Legacy] Irish A	GEAR		L	

@@ -1,0 +1,164 @@
+114	Proto-Indo-European	*bʰenǵʰ		I	
+88	Albanian	TRASH		B	
+143	Standard Albanian	i, e trashë		(B)	
+2	Albanian Sicily	I-TRAS		B	
+4	Albanian Corinth	I TRAS		B	
+3	Albanian Gheg	TRASH		B	
+6	Albanian Tosk	TRASE		B	
+110	Ancient Greek	πυκνός	pyknós	(H)	
+110	Ancient Greek	παχύς	pakʰýs	I	
+32	Greek	khondros	xo̞ˈ(n)dro̞s	N	
+31	Greek Lesbos	PACHUS		I	
+129	Classical Armenian	stowar		P	
+8	Armenian Eastern	C`AL			
+8	Armenian Eastern	stvar		(P)	
+8	Armenian Eastern	hast	hɑst		
+7	Armenian Western	HASD (T)			
+75	Wakhi	BAJ		I	
+9	Baluchi	THULAR		(P)	
+72	Tajik	WAFS, FARBEX		W	
+54	Persian	KOLOFT		X	
+77	Waziri	GHWUT		V	
+1	Pashto	PEND, ZAXIM		Y	
+138	Shughni	farbiyaki		Z	
+139	Sarikoli	dы/ivez		Aa	
+52	Ossetic	ystavd	stavd, ʃtavd	Ab	
+124	Ossetic Iron	bɐždžyn	bɐždžyn	R	
+125	Ossetic Digor	bɐžgin	bɐžgin	R	
+105	Vedic Sanskrit	bahulás		(I)	
+105	Vedic Sanskrit	sthūrás		P	
+162	Pāḷī	bahala		I	
+41	Khaskura	MOTO		C	
+41	Khaskura	BAKLO		Ac	
+41	Khaskura	KHASRO		O	
+51	Nepali	KHASRO		O	
+106	Assamese	dath	dath	Ad	
+102	Oriya	moṭa	moʈa	C	
+10	Bengali	MOTA		C	
+111	Bihari	ghən	ghən		
+111	Bihari	moṭ		C	
+144	Magahi	मोट	mot	C	
+104	Marwari	jāḍō		J	
+35	Hindi	MOTA		C	
+119	Urdu	موٹا	ˈmo.ʈə	C	
+43	Lahnda	MOTA		C	
+53	Punjabi	GARA			
+33	Gujarati	JARU		J	
+50	Marathi	jad		J	
+50	Marathi	ghatta	'gʰəʈʈə		
+40	Kashmiri	MOTU		C	
+65	Sinhalese	MAHATA			
+34	Romani Greece	thulo		P	
+100	Old Church Slavonic	дєбєлъ	dɛbɛlʊ̆	(E)	
+100	Old Church Slavonic	тлъстъ	tl̩stʊ̆	(F)	
+95	Serbo-Croatian	debeo	ˈdɛ̌bɛ.ɔ	E	
+15	Bulgarian	дебел	dɘˈbɛɫ	E	
+92	Macedonian	дебел	ˈdebɛl	E	
+60	Russian	толстый	'tɔɫstɨj	F	
+55	Polish	gruby	ˈgrubɘ̟	M	
+16	Belarusian	тоўсты	ˈtɔwstɨ	F	
+73	Ukrainian	товстий	tɔʋˈstɪj	F	
+66	Slovak	hrubý	ˈɦrubiː	M	
+18	Czech	tlustý	ˈtlustiː	F	
+48	Sorbian Upper	tołsty	ˈtostɘ̟	F	
+47	Sorbian Lower	tłusty	ˈtwustɘ̟	F	
+97	Slovenian	debel	ˈdɛ̌ːbɛw	E	
+44	Latvian	bìezs		I	
+44	Latvian	ręsns			
+46	Lithuanian	STORAS		K	
+46	Lithuanian	tankus	ˈta:ŋkʊs		
+109	Old Norse	þykkr	θykːr	A	
+109	Old Norse	digr	diɡr	T	
+36	Icelandic	þykkur	ˈθɪʰkːʏr	A	
+36	Icelandic	digur	ˈd̥ɪːɣʏr	T	
+36	Icelandic	gildur	ˈɡ̊ɪld̥ʏr	U	
+23	Faroese	digur	ˈd̥iːɡ̊ʊɹ	T	
+23	Faroese	tjúkkur	ˈtʃʰʏʰkːʊɹ	A	
+58	Norwegian Riksmal	tykk	tʏkː	A	
+159	Stavangersk	tjokke	ˈçukːə	A	
+157	Old Swedish	thiokker	ˈθjokːer	A	
+157	Old Swedish	digher	ˈdiːɣer	T	
+69	Swedish	tjock	ɕɔkː	A	
+71	Swedish Vilhelmina	TZAK  TZOK		A	
+70	Swedish Uppland	TJOCK		A	
+145	Elfdalian	tjokk		A	
+145	Elfdalian	diger	ˈdɪ́ːgɛr	T	
+20	Danish	tyk	d̥ʰyg̥ʰ	A	
+158	Danish Fjolde	tjyk	cyɡ	A	
+160	Old Gutnish	þiokr		A	
+161	Gutnish Lau	tjåckar	ˈtjokːar	A	
+99	Old English	þicce		A	
+22	English	thick	θɪk	A	
+26	Frisian	tsjok	tsjok	A	
+21	Dutch	dik	dɪk	A	
+24	Flemish	DIK		A	
+83	Afrikaans	DIK, DIG, TROEBEL, TROEWEL		A	
+87	Sranan	DEKI, TEKI		A	
+126	Old High German	dicchi		A	
+27	German	dick	dɪk	A	
+86	Pennsylvania Dutch	DICK		A	
+120	Luxembourgish	déck		A	
+121	German Switzerland	dick		A	
+107	Gothic	*dig-r-s?		A	
+107	Gothic	digrei		A	
+112	Latin	spissus	ˈspisːus	(Q)	
+112	Latin	crassus	ˈkrasːus		
+17	Catalan	gros	gɾɔs	D	
+17	Catalan	espès	əs'pɛs	Q	
+17	Catalan	gruixut	gɾu’ʃut	D	
+56	Portuguese	espesso	ɨʃˈpesu	Q	
+56	Portuguese	GROSSO		D	
+68	Spanish	gordo	'ɡoɾðo		
+68	Spanish	ESPESO		Q	
+61	Sardinian Cagliari	GRUSSU		D	
+62	Sardinian Logudoro	RUSSU		D	
+63	Sardinian Nuoro	GRUSSU		D	
+85	French Creole Dominica	EPE		Q	
+76	Walloon	SPES		Q	
+25	French	épais	epɛ	Q	
+57	Provencal	ESPES, ESSO		Q	
+146	Dolomite Ladino	gros		D	
+146	Dolomite Ladino	fis			
+123	Romansh	gross		D	
+122	Friulian	grues		D	
+122	Friulian	penç			
+39	Italian	grosso	'grɔsso	D	
+59	Romanian	gros		D	
+74	Vlach	GROS		D	
+127	Old Irish	tiug	tʹiuɣ	A	
+127	Old Irish	remor	rʹeṽər	(S)	
+101	Middle Cornish	bras		D	
+101	Middle Cornish	liaz			
+101	Middle Cornish	tew		A	
+172	Middle Breton	teu, téo	ˈtew, ˈteo		
+12	Breton	tev		A	
+79	Welsh	trwchus		L	
+38	Irish	ramhar		(S)	
+38	Irish	tiubh	tʲjuː	A	
+115	Scottish Gaelic	tiugh		A	
+5	[Legacy] Albanian T	i trashë		B	
+29	[Legacy] Greek K	PUKNOS		H	
+28	[Legacy] Greek D	PUKNOS		H	
+30	[Legacy] Greek Md	PACHUS		I	
+30	[Legacy] Greek Md	CHONTROS		N	
+64	[Legacy] Serbocroatian	DEBEO		E	
+113	[Legacy] Serbian	debeo	děbeo	E	
+89	[Legacy] Bulgarian P	DEBEL		E	
+49	[Legacy] Macedonian	ɡust	ɡust	G	
+94	[Legacy] Russian P	TOLSTYJ		F	
+93	[Legacy] Polish P	TLUSTY		F	
+90	[Legacy] Byelorussian P	TOUSTY		F	
+98	[Legacy] Ukrainian P	TOUSTYJ		F	
+19	[Legacy] Czech E	TLUSTE		F	
+96	[Legacy] Slovak P	TLSTY		F	
+91	[Legacy] Czech P	TLUSTY		F	
+67	[Legacy] Slovenian	GOSTO		G	
+45	[Legacy] Lithuanian O	STORAS		K	
+11	[Legacy] Brazilian	espesso	isˈpesu	Q	
+11	[Legacy] Brazilian	GROSSO		D	
+142	[Legacy] German Munich	dick		A	
+84	[Legacy] French Creole C	EPE		Q	
+14	[Legacy] Breton St	tev	tew	A	
+13	[Legacy] Breton Se	TEU		A	
+78	[Legacy] Welsh C	TRWCHUS		L	
+37	[Legacy] Irish A	TIUGH		A	

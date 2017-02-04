@@ -1,0 +1,155 @@
+114	Proto-Indo-European	*gʷel-			
+114	Proto-Indo-European	*peth₂-		H	
+80	Hittite	pittai		H	
+81	Tocharian A	plawar		M	
+82	Tocharian B	pluṣäṃ		M	
+88	Albanian	fluturoj		(B)	
+143	Standard Albanian	fluturoj		(B)	
+2	Albanian Sicily	fluturoj		(B)	
+4	Albanian Corinth	furtulon		(B)	
+3	Albanian Gheg	fluturoj		(B)	
+6	Albanian Tosk	fluturoj		(B)	
+110	Ancient Greek	πέτομαι	pétomai̯	H	
+152	Tsakonian	πετου		H	
+32	Greek	πετώ	pe̞ˈto̞	H	
+31	Greek Lesbos	PETO		H	
+129	Classical Armenian	թռչիմ	tʰṙčʰim	H	
+8	Armenian Eastern	t’ṙč'el	tʰərˈʧʰɛl	H	
+7	Armenian Western	TURCHIL		H	
+128	Avestan	frauuaite (pataiti Daevic)		K	
+136	Sogdian	frwz		J	
+9	Baluchi	BAL GIRAGH, BAL GIPTA		N	
+118	Kurdish	firrîn		J	
+137	Zazaki	per̄āyiš		J	
+137	Zazaki	fir̄-dāyiš		J	
+72	Tajik	paridan	pæridæn	J	
+72	Tajik	PARVOZ KARDAN		J	
+54	Persian	PARVAZ KARDAN		J	
+77	Waziri	WRATEL		J	
+1	Pashto	ALVOTEL		J	
+138	Shughni	riwāz		J	
+139	Sarikoli	rawoz : rawыx̆t		J	
+52	Ossetic	taexyn	tæχɨn	C	
+124	Ossetic Iron	tɐχ-	tɐχ-	C	
+125	Ossetic Digor	tɐχ-	tɐχ-	C	
+141	Kata-viri	undr-		D	
+154	Vasi-vari	ušti		O	
+153	Askunu	õst		O	
+105	Vedic Sanskrit	pátati		H	
+162	Pāḷī	uḍḍeti		D	
+41	Khaskura	URNU		D	
+51	Nepali	URNU		D	
+106	Assamese	uru	uru	D	
+102	Oriya	uṛ-	uɽ-	D	
+10	Bengali	ORA		D	
+111	Bihari	urəb	urəb	D	
+144	Magahi	उडना	ʊɽənɑ	D	
+104	Marwari	uḍaṇō		D	
+35	Hindi	urna	ʊɽ.na:	D	
+119	Urdu	اُڑنا	ʔʊɽnə	D	
+103	Sindhi	uḍ̄āmaṇu		D	
+43	Lahnda	UDDEN		D	
+53	Punjabi	UDDENA		D	
+33	Gujarati	URWU		D	
+50	Marathi	udne	uɖ'ɳe	D	
+40	Kashmiri	WUPHUN, WUDUN		D	
+65	Sinhalese	PIHA/BINAWA		P	
+34	Romani Greece	UCAV		Q	
+100	Old Church Slavonic	лєтѣти	lɛtæti	G	
+95	Serbo-Croatian	letjeti	ˈlɛ̌tjɛti	G	
+15	Bulgarian	летя	lɘˈtʲɤ	G	
+92	Macedonian	лета	ˈleta	G	
+60	Russian	лететь	lʲɛ'tʲɛtʲ	G	
+55	Polish	lecieć	ˈletɕɛtɕ	G	
+16	Belarusian	ляцець	lʲaˈtsʲɛtsʲ	G	
+73	Ukrainian	летіти	ɫɛˈtʲitɪ	G	
+66	Slovak	letieť	ˈlɛciɛc	G	
+18	Czech	letět	ˈlɛcɛt	G	
+48	Sorbian Upper	lećeć	ˈletʃɛtʃ	G	
+47	Sorbian Lower	leśeś	ˈleɕeɕ	G	
+97	Slovenian	leteti	leˈtěːti	G	
+108	Old Prussian	skreītwei		L	
+44	Latvian	LIDOT			
+44	Latvian	laîžas			
+44	Latvian	skrìen		L	
+46	Lithuanian	skristi	ˈsʲkʲɾʲɪsʲtʲɪ	L	
+46	Lithuanian	LEKTI		G	
+109	Old Norse	fljúga	ˈfljuːɣa	A	
+36	Icelandic	fljúga	ˈfljuːa	A	
+23	Faroese	flúgva	ˈflɪɡ̊va	A	
+58	Norwegian Riksmal	fly	fɽyː, fly:	A	
+159	Stavangersk	flyɡa	ˈflỳːɡa	A	
+157	Old Swedish	flygha	ˈflyːɣa	A	
+69	Swedish	flyga	ˈflỳ:ga	A	
+71	Swedish Vilhelmina	FLYG		A	
+70	Swedish Uppland	FLYGA		A	
+145	Elfdalian	fliuoga	ˈfljʉ̀əgɑ	A	
+20	Danish	flyve	ˈfly:və	A	
+158	Danish Fjolde	flyv	flyw	A	
+160	Old Gutnish	fliauga		A	
+161	Gutnish Lau	flaugä	ˈflauɡɛ	A	
+99	Old English	flīegþ		A	
+22	English	to fly	flaɪ	A	
+26	Frisian	WJUKJE			
+21	Dutch	vliegen	'vliɣə(n)	A	
+24	Flemish	VLIEGEN		A	
+83	Afrikaans	VLIE, VLIEG		A	
+87	Sranan	FLEI		A	
+126	Old High German	fliugit		A	
+27	German	fliegen	'fli:gn̩	A	
+86	Pennsylvania Dutch	FLIEK		A	
+120	Luxembourgish	fléien		A	
+121	German Switzerland	flüge		A	
+107	Gothic	*flaugjan		A	
+112	Latin	uolāre	woˈlaːre	E	
+17	Catalan	volar		E	
+56	Portuguese	voar	vuˈaɾ	E	
+68	Spanish	volar	bo'laɾ	E	
+61	Sardinian Cagliari	BOLAI		E	
+62	Sardinian Logudoro	BOLARE		E	
+63	Sardinian Nuoro	VOLARE		E	
+85	French Creole Dominica	VOLE		E	
+76	Walloon	VOLER		E	
+25	French	voler	vɔle	E	
+57	Provencal	VOULA, RAUBA		E	
+42	Ladin	SVOLER		E	
+146	Dolomite Ladino	jgolèr		E	
+123	Romansh	sgular, svolar		E	
+122	Friulian	svolâr		E	
+39	Italian	volare	vo'lare	E	
+59	Romanian	a zbura		E	
+74	Vlach	PITEKSESKU			
+127	Old Irish	etillid, etellaigid	etʹəlʹlʹəðʹ, etʹələɣʹəðʹ	(H), (I)	
+127	Old Irish	fo·luathar	foˈlu:əθər	M	
+101	Middle Cornish	neyja	'nɛɪʤa	F	
+172	Middle Breton	nigal, nigàl	ˈniːʒal	F	
+12	Breton	nijal	ˈniːʒal	F	
+150	Old Welsh	ehedec		H	
+79	Welsh	ehedeg		H	
+38	Irish	eitil		H, I	
+115	Scottish Gaelic	tha air iteig		H, I	
+147	Manx	etlagh		H, I	
+5	[Legacy] Albanian T	fluturoj		(B)	
+29	[Legacy] Greek K	HIPTAMAI		H	
+28	[Legacy] Greek D	PETAO		H	
+30	[Legacy] Greek Md	PETO		H	
+64	[Legacy] Serbocroatian	LETETI		G	
+113	[Legacy] Serbian	leteti	lěteti	G	
+89	[Legacy] Bulgarian P	LET A		G	
+49	[Legacy] Macedonian	LETNE, ZAREE		G	
+94	[Legacy] Russian P	LETET		G	
+93	[Legacy] Polish P	lecieć	ˈletɕɛtɕ	G	
+90	[Legacy] Byelorussian P	L OTAC		G	
+98	[Legacy] Ukrainian P	LETITY		G	
+19	[Legacy] Czech E	LETAT		G	
+96	[Legacy] Slovak P	LETET		G	
+91	[Legacy] Czech P	LETETI		G	
+67	[Legacy] Slovenian	LETETI		G	
+45	[Legacy] Lithuanian O	SKRISTI		L	
+11	[Legacy] Brazilian	VOAR		E	
+142	[Legacy] German Munich	fliegen		A	
+84	[Legacy] French Creole C	VOLE		E	
+14	[Legacy] Breton St	n(e)ijal	'ni:ʒal	F	
+13	[Legacy] Breton Se	NEIJAL		F	
+78	[Legacy] Welsh C	HEDFAN		H	
+37	[Legacy] Irish A	EITILT		H, I	

@@ -1,0 +1,150 @@
+114	Proto-Indo-European	*kan-		D	
+80	Hittite	ishamai			
+81	Tocharian A	piya-		G	
+82	Tocharian B	piyaṃ		G	
+88	Albanian	KENDOJ		(D)	
+143	Standard Albanian	këndoj		(D)	
+2	Albanian Sicily	KENDON		(D)	
+4	Albanian Corinth	KENDON		(D)	
+3	Albanian Gheg	KENDOJ		(D)	
+6	Albanian Tosk	KENDON		(D)	
+110	Ancient Greek	ᾄδω	áːjdɔː	L	
+32	Greek	τραγουδώ	ˌtraɣuˈðo̞	H	
+31	Greek Lesbos	TRAGOUDO		H	
+129	Classical Armenian	երգեմ	ergem	E	
+8	Armenian Eastern	ergel	jɛɾˈkʰɛl	E	
+7	Armenian Western	YERKEL		E	
+128	Avestan	gā-			
+136	Sogdian	p’š-		M	
+75	Wakhi	BAEIT XAN-		K	
+9	Baluchi	GUSHAGH, GUSHTA, GWASHTA		N	
+72	Tajik	SAROIDAN		M	
+72	Tajik	XONDAN		K	
+54	Persian	AVAZ KHANDAN		K	
+77	Waziri	SANDARA (SONG)		O	
+1	Pashto	VAJEL		P	
+138	Shughni	luv		Q	
+139	Sarikoli	soyramiš čɛyg(ɛw)		M	
+52	Ossetic	zaryn	zarɨn	A	
+124	Ossetic Iron	žar-	žar-	A	
+125	Ossetic Digor	zar-	zar-	A	
+105	Vedic Sanskrit	gá̄yati		F	
+162	Pāḷī	gāyati		F	
+41	Khaskura	GANU		F	
+51	Nepali	GAUNU		F	
+106	Assamese	isāyā		C	
+106	Assamese	ga	ga	F	
+102	Oriya	ga-	ga-	F	
+10	Bengali	GAOA		F	
+111	Bihari	gaeəb	gaeəb	F	
+144	Magahi	गाना	ɡɑnɑ		
+151	Bhojpuri	gáw		F	
+104	Marwari	ga-	ga-	F	
+35	Hindi	gana	ɡa:na	F	
+119	Urdu	گانا	ɡɑnə	F	
+103	Sindhi	g̑ãyũ		F	
+43	Lahnda	GAWEN		F	
+53	Punjabi	GONA		F	
+33	Gujarati	GAWU		F	
+50	Marathi	gāne	'gaɳe	F	
+40	Kashmiri	GEWUN		F	
+65	Sinhalese	SINOU/KIYANAWA			
+34	Romani Greece	GILABAV		F	
+100	Old Church Slavonic	пѣти	pæti	G	
+95	Serbo-Croatian	pevati	pjɛ̂vati	G	
+15	Bulgarian	пея	ˈpɛjə	G	
+92	Macedonian	пее	ˈpe.ɛ	G	
+60	Russian	петь	pʲɛtʲ	G	
+55	Polish	śpiewać	ˈɕpjɛvatɕ	G	
+16	Belarusian	спяваць	sʲpʲaˈvatsʲ	G	
+73	Ukrainian	співати	spiˈʋatɪ	G	
+66	Slovak	spievať	ˈspiɛvac	G	
+18	Czech	zpívat	ˈspiːvat	G	
+48	Sorbian Upper	spěwać	ˈspɪwatʃ	G	
+47	Sorbian Lower	spiwaś	ˈspiwaɕ	G	
+97	Slovenian	peti	ˈpěːti	G	
+108	Old Prussian	grīmons			
+44	Latvian	dziêd		G	
+46	Lithuanian	dainuoti	dɐjˈnuɔtʲɪ	I	
+109	Old Norse	syngva, syngja	ˈsynɣva, synɣja	B	
+109	Old Norse	ɡala	ˈɡala	R	
+36	Icelandic	syngja	ˈsɪɲca	B	
+23	Faroese	syngja	ˈsɪɲd̥ʒa	B	
+23	Faroese	kvøða	ˈkvøːa	(J)	
+58	Norwegian Riksmal	synge	ˈsʏ̀ŋːə	B	
+159	Stavangersk	synga	ˈsʏ̀ŋːa	B	
+157	Old Swedish	siunga	ˈsjuŋːa	B	
+157	Old Swedish	qvädha	ˈkvæːða	J	
+69	Swedish	sjunga	ˈɧɵ̀ŋːa	B	
+71	Swedish Vilhelmina	SONG		B	
+70	Swedish Uppland	SJUNGA		B	
+145	Elfdalian	kweðå	ˈkwɛ̀ðɔ	J	
+20	Danish	synge	ˈsøŋə	B	
+158	Danish Fjolde	kveæ	kveæ	J	
+160	Old Gutnish	singua		B	
+161	Gutnish Lau	singgä	ˈsɪŋɡɛ	B	
+99	Old English	singþ		B	
+22	English	to sing	sɪŋ	B	
+26	Frisian	sjonge	'sjoŋə	B	
+21	Dutch	zingen	'zɪŋə(n)	B	
+24	Flemish	ZINGEN		B	
+83	Afrikaans	SING		B	
+87	Sranan	SINGI		B	
+126	Old High German	singit		B	
+27	German	singen	'zɪŋən	B	
+86	Pennsylvania Dutch	SING		B	
+120	Luxembourgish	sangen		B	
+121	German Switzerland	singe		B	
+107	Gothic	siggwiþ		B	
+132	Umbrian	kanetu		D	
+112	Latin	canere	ˈkanere	D	
+17	Catalan	cantar	kənˈta, kanˈtaɾ		
+17	Catalan	COPLA			
+56	Portuguese	cantar	kɐ̃ˈtaɾ	D	
+68	Spanish	cantar	kan'taɾ	D	
+61	Sardinian Cagliari	KANTAI		D	
+62	Sardinian Logudoro	CANTARE		D	
+63	Sardinian Nuoro	KANTARE		D	
+85	French Creole Dominica	SATE		D	
+76	Walloon	TCHANTER		D	
+25	French	chanter	ʃɑ̃te	D	
+57	Provencal	CANTA		D	
+42	Ladin	CHANTER		D	
+146	Dolomite Ladino	ciantà,  cantà		D	
+123	Romansh	chantar	tʃanˈtar	D	
+122	Friulian	cjantâ		D	
+39	Italian	cantare	kan'tare	D	
+59	Romanian	a cânta	a kɨnˈta	D	
+74	Vlach	KYNTU		D	
+127	Old Irish	canaid	kanəðʹ	D	
+101	Middle Cornish	kana	'kana	D	
+172	Middle Breton	canaff	ˈkaːnaṽ		
+12	Breton	kanañ		D	
+79	Welsh	canu	kænɪi	D	
+38	Irish	can	kan̪ˠ	D	
+38	Irish	seinn		(K)	
+115	Scottish Gaelic	seinn		K	
+5	[Legacy] Albanian T	me kënduar		(D)	
+29	[Legacy] Greek K	ADO		L	
+28	[Legacy] Greek D	TRAGOUDAO		H	
+30	[Legacy] Greek Md	TRAGOUDO		H	
+64	[Legacy] Serbocroatian	PEVATI		G	
+113	[Legacy] Serbian	pevati	pêʋati	G	
+89	[Legacy] Bulgarian P	PEJA		G	
+49	[Legacy] Macedonian	PEE		G	
+94	[Legacy] Russian P	PET		G	
+93	[Legacy] Polish P	SPIEWAC		G	
+90	[Legacy] Byelorussian P	PEC		G	
+98	[Legacy] Ukrainian P	SPIVATY		G	
+19	[Legacy] Czech E	SPIVAT		G	
+96	[Legacy] Slovak P	SPIEVAT		G	
+91	[Legacy] Czech P	ZPIVATI		G	
+67	[Legacy] Slovenian	PETI		G	
+45	[Legacy] Lithuanian O	DAINUOTI		I	
+11	[Legacy] Brazilian	CANTAR		D	
+142	[Legacy] German Munich	singen		B	
+84	[Legacy] French Creole C	SATE		D	
+14	[Legacy] Breton St	kanañ	'kã:nã	D	
+13	[Legacy] Breton Se	KANNEIN		D	
+78	[Legacy] Welsh C	CANU		D	
+37	[Legacy] Irish A	AMHRAN DO RADH			

@@ -1,0 +1,165 @@
+114	Proto-Indo-European	*swep-		C	
+114	Proto-Indo-European	*drem-		E	
+80	Hittite	sup-, supparija-		(C)	
+80	Hittite	seszi		P	
+81	Tocharian A	klisnāṣ		A	
+82	Tocharian B	kläntsaṃ		A	
+88	Albanian	fle		B	
+143	Standard Albanian	fle		B	
+2	Albanian Sicily	fle		B	
+4	Albanian Corinth	fle		B	
+3	Albanian Gheg	fle		B	
+6	Albanian Tosk	fle		B	
+110	Ancient Greek	καθεύδω	katʰéu̯dɔː	R	
+152	Tsakonian	κασηου		R	
+32	Greek	κοιμάμαι	ciˈmame̞	G	
+31	Greek Lesbos	KOIMAMAI		G	
+129	Classical Armenian	քունեմ	kʰunem		
+129	Classical Armenian	nnǰem			
+8	Armenian Eastern	nnǰel			
+8	Armenian Eastern	k'nel	kʰəˈnɛl	C	
+7	Armenian Western	KUNANAL		C	
+128	Avestan	xvafsaiti		C	
+136	Sogdian	γwβn-		C	
+75	Wakhi	RUXP-, RUSEP-		K	
+9	Baluchi	AKSAGH,  AKASTHA		M	
+118	Kurdish	razan		K	
+118	Kurdish	xewtin		C	
+137	Zazaki	rā-kewtiš		K	
+137	Zazaki	witiš		O	
+72	Tajik	xobidan	xɔːbi’dæn	C	
+54	Persian	KHABIDAN		C	
+77	Waziri	KHEB		C	
+1	Pashto	BIDEDEL		N	
+138	Shughni	x̆ōfc		C	
+139	Sarikoli	x̆ufs : x̆uvd		C	
+52	Ossetic	xuyssyn	χwɨsɨn	J	
+52	Ossetic	FYNAEJ KAENYN		J	
+124	Ossetic Iron	fynɐj kɐn-	fynɐj kɐn-	J	
+125	Ossetic Digor	funɐj kɐn-	funɐj kɐn-	J	
+141	Kata-viri	pruš-		Q	
+154	Vasi-vari	süu		C, S	
+105	Vedic Sanskrit	dra-		(E)	
+105	Vedic Sanskrit	sásti		P	
+162	Pāḷī	supati		C	
+41	Khaskura	SUTNU		C	
+51	Nepali	SUTNU		C	
+106	Assamese	gumjeiyā			
+106	Assamese	xo	xo	C	
+102	Oriya	so-	so-	C	
+10	Bengali	NID JAOA		D	
+111	Bihari	suʈəb	suʈəb	C	
+111	Bihari	nind pərəb	nind pərəb	C	
+144	Magahi	सोना	sonɑ		
+151	Bhojpuri	sút		C	
+104	Marwari	so		C	
+104	Marwari	nind	nind	C	
+35	Hindi	SONA		C	
+119	Urdu	سونا	sonə	C	
+103	Sindhi	ninḍra		C	
+103	Sindhi	sumh-	sumh-	C	
+43	Lahnda	SEMMEN		C	
+53	Punjabi	SONA		C	
+33	Gujarati	UGHEWU			
+33	Gujarati	SUWU		C	
+50	Marathi	dzopne	'dzopɳe	D	
+50	Marathi	nijne		D	
+40	Kashmiri	SHONGUN		C	
+65	Sinhalese	NIDIYAGANAWA		D	
+34	Romani Greece	PASLAV			
+100	Old Church Slavonic	съпати	sʊ̆pɑti	C	
+95	Serbo-Croatian	spavati	ˈspǎːvati	C	
+15	Bulgarian	спя	spʲɤ	C	
+92	Macedonian	спие	ˈspi.ɛ	C	
+60	Russian	спать	spatʲ	C	
+55	Polish	spać	spatɕ	C	
+16	Belarusian	спаць	spatsʲ	C	
+73	Ukrainian	спати	ˈspatɪ	C	
+66	Slovak	spať	spac	C	
+18	Czech	spát	spaːt	C	
+48	Sorbian Upper	spać	spatʃ	C	
+47	Sorbian Lower	spaś	spaɕ	C	
+97	Slovenian	spati	ˈspǎːti	C	
+108	Old Prussian	meicte		I	
+44	Latvian	mieguot		I	
+44	Latvian	gul ̜		L	
+46	Lithuanian	MIEGOTI		I	
+109	Old Norse	sofa	ˈsova	C	
+36	Icelandic	sofa	ˈsɔːva	C	
+23	Faroese	sova	ˈsoːva	C	
+58	Norwegian Riksmal	sove	ˈsòːʋə	C	
+159	Stavangersk	såva	ˈsòːʋa	C	
+157	Old Swedish	sova	ˈsoːva	C	
+69	Swedish	sova	ˈsò:va	C	
+71	Swedish Vilhelmina	SAVA		C	
+70	Swedish Uppland	SOVA		C	
+145	Elfdalian	såvå	ˈsɔ̀vɔ	C	
+20	Danish	sove	ˈsɒwə	C	
+158	Danish Fjolde	sååv	sɔːw	C	
+160	Old Gutnish	sufa		C	
+161	Gutnish Lau	sivä	ˈsɪːvɛ	C	
+99	Old English	slǣpþ		C	
+22	English	to sleep	sli:p	C	
+26	Frisian	sliepe	'sli.əpə	C	
+21	Dutch	slapen	'slapə(n)	C	
+24	Flemish	SLAPEN		C	
+83	Afrikaans	SLAAP		C	
+87	Sranan	SLIBI		C	
+126	Old High German	slāfit		C	
+27	German	schlafen	ʃla:fn̩	C	
+86	Pennsylvania Dutch	SCHLOEF		C	
+120	Luxembourgish	schlofen		C	
+121	German Switzerland	schlaafe		C	
+107	Gothic	slēpiþ		C	
+112	Latin	dormīre	dorˈmiːre	E	
+17	Catalan	ADORMIRSE		E	
+17	Catalan	dormir	duɾ'mi	E	
+56	Portuguese	dormir	duɾˈmiɾ	E	
+68	Spanish	dormir	doɾ'miɾ	E	
+61	Sardinian Cagliari	DORMIRI		E	
+62	Sardinian Logudoro	DORMIRE		E	
+63	Sardinian Nuoro	DURMIRE		E	
+85	French Creole Dominica	DOMI		E	
+76	Walloon	DWERMI		E	
+25	French	dormir	doʀmiʀ	E	
+57	Provencal	DOURMI		E	
+42	Ladin	DORMIR		E	
+146	Dolomite Ladino	dormir		E	
+123	Romansh	durmir		E	
+122	Friulian	durmî		E	
+39	Italian	dormire	dor'mire	E	
+59	Romanian	a dormi	a dorˈmi	E	
+74	Vlach	DORMU		E	
+127	Old Irish	con-tuili	konˈtulʹi	H	
+101	Middle Cornish	koska	'kɔska	F	
+172	Middle Breton	cousquet	ˈkusket		
+12	Breton	HUNIA		(C)	
+12	Breton	kousket		F	
+79	Welsh	cysgu		F	
+38	Irish	codail		H	
+115	Scottish Gaelic	cadal		H	
+147	Manx	cadley		H	
+5	[Legacy] Albanian T	fle		B	
+29	[Legacy] Greek K	KOIMOMAI		G	
+28	[Legacy] Greek D	KOIMAMAI		G	
+30	[Legacy] Greek Md	KOIMAMAI		G	
+64	[Legacy] Serbocroatian	SPAVATI		C	
+113	[Legacy] Serbian	spavati	spǎːʋati	C	
+89	[Legacy] Bulgarian P	SP A		C	
+49	[Legacy] Macedonian	SPIE		C	
+94	[Legacy] Russian P	SPAT		C	
+93	[Legacy] Polish P	SPAC		C	
+90	[Legacy] Byelorussian P	SPAC		C	
+98	[Legacy] Ukrainian P	SPATY		C	
+19	[Legacy] Czech E	SPAT		C	
+96	[Legacy] Slovak P	SPAT		C	
+91	[Legacy] Czech P	SPATI		C	
+67	[Legacy] Slovenian	SPATI		C	
+45	[Legacy] Lithuanian O	MIEGOTI		I	
+11	[Legacy] Brazilian	DORMIR		E	
+142	[Legacy] German Munich	schlafen		C	
+84	[Legacy] French Creole C	DOMI		E	
+14	[Legacy] Breton St	kousket	'kuskɛt	F	
+13	[Legacy] Breton Se	KOUSKET		F	
+78	[Legacy] Welsh C	CYSGU		F	
+37	[Legacy] Irish A	CODLADH		H	

@@ -1,0 +1,160 @@
+114	Proto-Indo-European	*wéy		A	
+80	Hittite	wēs		A	
+133	Luvian	ānza		B	
+81	Tocharian A	was		A	
+82	Tocharian B	wes		A	
+88	Albanian	ne		A	
+143	Standard Albanian	ne		A	
+2	Albanian Sicily	na		A	
+4	Albanian Corinth	na		A	
+3	Albanian Gheg	ne		A	
+6	Albanian Tosk	ne		A	
+110	Ancient Greek	ἡμεῖς	hɛːmȇːs	A	
+152	Tsakonian	εμει, ενει		A	
+32	Greek	εμείς	e̞ˈmis	A	
+31	Greek Lesbos	EMEIS		A	
+129	Classical Armenian	մեզ	mez	(A)	
+129	Classical Armenian	մեք	mekʰ	A	
+8	Armenian Eastern	menk'	mɛnkʰ	A	
+7	Armenian Western	MENK		A	
+128	Avestan	ahma		A	
+128	Avestan	vaēm		A	
+131	Old Persian	vayam		A	
+136	Sogdian	m’x		A	
+75	Wakhi	SUK			
+9	Baluchi	MA		A	
+118	Kurdish	em		A	
+118	Kurdish	me		A	
+137	Zazaki	mā			
+72	Tajik	mo	mɔ:	A	
+54	Persian	ma	mɒː	A	
+77	Waziri	MIZH		A	
+1	Pashto	MUZ		A	
+138	Shughni	māš			
+139	Sarikoli	maš			
+52	Ossetic	max, maxtae	maχ, maχtæ	A	
+124	Ossetic Iron	maχ	maχ	A	
+125	Ossetic Digor	maχ	maχ	A	
+141	Kata-viri	imũ		A	
+154	Vasi-vari	asẽ		A	
+153	Askunu	ima		A	
+105	Vedic Sanskrit	vayám		A	
+162	Pāḷī	amhe		A	
+41	Khaskura	HAMIHARU		A	
+51	Nepali	HAMI		A	
+106	Assamese	āmi		A	
+102	Oriya	ame	ame	A	
+10	Bengali	AMRA		A	
+111	Bihari	həmsəb	həmsəb	A	
+144	Magahi	हमनी सब	həmni səb		
+144	Magahi	हमनी	həmni		
+104	Marwari	mhe	mhe	A	
+35	Hindi	hem	ɦəm	A	
+119	Urdu	ہم	həm	A	
+103	Sindhi	əsĩ	əsĩ	A	
+43	Lahnda	ESSA		A	
+53	Punjabi	esi	əsī̃	A	
+33	Gujarati	EHME		A	
+50	Marathi	āmhī, āpan	am'ʰi:, 'apəɳ	A	
+40	Kashmiri	ASI		A	
+65	Sinhalese	API		A	
+34	Romani Greece	AMEN		A	
+100	Old Church Slavonic	мы	mɯ	A	
+95	Serbo-Croatian	mi	mîː	A	
+15	Bulgarian	ние	ˈni.ɘ	C	
+92	Macedonian	ние	ˈni.ɛ	C	
+60	Russian	мы	mɨ	A	
+55	Polish	my	mɘ̟	A	
+16	Belarusian	мы	mɨ	A	
+73	Ukrainian	ми	mɪ	A	
+66	Slovak	my	mi	A	
+18	Czech	my	mɪ	A	
+48	Sorbian Upper	my	mɘ̟	A	
+47	Sorbian Lower	my	mɘ̟	A	
+97	Slovenian	mi	mîː	A	
+108	Old Prussian	mes		A	
+44	Latvian	mẽs		A	
+46	Lithuanian	mes	mæ:s	A	
+109	Old Norse	vér	veːr	A	
+36	Icelandic	við	vɪ(ː)ð	A	
+23	Faroese	vit	viːt, vɪʰtː	A	
+58	Norwegian Riksmal	vi	ʋiː	A	
+159	Stavangersk	me	meː, me, mə	A	
+157	Old Swedish	vir	viːr	A	
+69	Swedish	vi	viː	A	
+71	Swedish Vilhelmina	VI		A	
+70	Swedish Uppland	VI		A	
+145	Elfdalian	wįd	wɪ̃ːð	A	
+20	Danish	vi	viˀ	A	
+158	Danish Fjolde	vi	vi	A	
+160	Old Gutnish	vir		A	
+161	Gutnish Lau	vöir, vörr	vœɪr, vœrː	A	
+99	Old English	wē		A	
+22	English	we	wi:	A	
+26	Frisian	wy	vɛɪ	A	
+21	Dutch	wij	wɛi	A	
+24	Flemish	WY		A	
+83	Afrikaans	ONS		A	
+87	Sranan	WI		A	
+126	Old High German	unsih		A	
+126	Old High German	wir		A	
+27	German	wir	vi:ɐ̯	A	
+86	Pennsylvania Dutch	MIER		A	
+120	Luxembourgish	mir		A	
+121	German Switzerland	mir (mer)		A	
+107	Gothic	weis		A	
+112	Latin	nōs	noːs	A	
+17	Catalan	nosaltres	nuz’altrəs	A	
+56	Portuguese	nós	ˈnɔʃ	A	
+68	Spanish	nosotros	no'sotɾos	A	
+61	Sardinian Cagliari	NOSUS		A	
+62	Sardinian Logudoro	NOS		A	
+63	Sardinian Nuoro	NOIS		A	
+85	French Creole Dominica	NU		A	
+76	Walloon	NOS		A	
+25	French	nous	nu	A	
+57	Provencal	NOUS, NAUTRE		A	
+42	Ladin	NUS		A	
+146	Dolomite Ladino	nos		A	
+123	Romansh	nus		A	
+122	Friulian	nô, noaltris		A	
+39	Italian	NOI		A	
+59	Romanian	noi	noj	A	
+74	Vlach	NOI		A	
+140	Gaulish	sni		A	
+127	Old Irish	-n-	n	(A)	
+127	Old Irish	sní	sʹnʹi:	A	
+101	Middle Cornish	ni	ni:	A	
+148	Old Breton	ni		A	
+172	Middle Breton	ny, ni	ni		
+12	Breton	ni		A	
+150	Old Welsh	ni		A	
+79	Welsh	ni	ni	A	
+38	Irish	muid	mˠɪdʲ		
+38	Irish	sinn	ʃɪnʲ	(A)	
+115	Scottish Gaelic	sinn		A	
+147	Manx	shin		A	
+5	[Legacy] Albanian T	ne	ne	A	
+29	[Legacy] Greek K	HEMEIS		A	
+28	[Legacy] Greek D	EMEIS		A	
+30	[Legacy] Greek Md	EMEIS, MEIS, MAS		A	
+64	[Legacy] Serbocroatian	MI		A	
+113	[Legacy] Serbian	mi	mîː	A	
+89	[Legacy] Bulgarian P	NIE		A	
+49	[Legacy] Macedonian	nie	niɛ	A	
+94	[Legacy] Russian P	MY		A	
+93	[Legacy] Polish P	MY		A	
+90	[Legacy] Byelorussian P	MY		A	
+98	[Legacy] Ukrainian P	MY		A	
+19	[Legacy] Czech E	MI		A	
+96	[Legacy] Slovak P	MY		A	
+91	[Legacy] Czech P	MY		A	
+67	[Legacy] Slovenian	MI		A	
+45	[Legacy] Lithuanian O	MES		A	
+11	[Legacy] Brazilian	nós	ˈnɔs	A	
+142	[Legacy] German Munich	wir		A	
+84	[Legacy] French Creole C	NU		A	
+14	[Legacy] Breton St	ni	ni:	A	
+13	[Legacy] Breton Se	NI		A	
+78	[Legacy] Welsh C	NI		A	
+37	[Legacy] Irish A	SINN		A	

@@ -1,0 +1,166 @@
+114	Proto-Indo-European	*h₃okʷ-n-		B	
+80	Hittite	sākuwa		I	
+133	Luvian	tāwīs		I	
+134	Lycian	tawa		I	
+81	Tocharian A	ak		B	
+82	Tocharian B	ek		B	
+88	Albanian	sy		B	
+143	Standard Albanian	sy		B	
+2	Albanian Sicily	sy		B	
+4	Albanian Corinth	sy		B	
+3	Albanian Gheg	sy		B	
+6	Albanian Tosk	sy		B	
+173	Mycenaean Greek	-o-qo	-okʷs	B	
+110	Ancient Greek	ὀφθαλμός	opʰtʰalmós	B	
+152	Tsakonian	εψιλε, ψιλε			
+32	Greek	μάτι	'mati	B	
+31	Greek Lesbos	MATI		B	
+129	Classical Armenian	ակն	ɑkn	B	
+8	Armenian Eastern	աչք	ɑʧʰkʰ	B	
+7	Armenian Western	աչք	ɑʧʰkʰ	B	
+128	Avestan	čama		D	
+131	Old Persian	čašna		D	
+136	Sogdian	cšm		D	
+75	Wakhi	CEZM		D	
+9	Baluchi	CHHAM		D	
+118	Kurdish	çav		D	
+137	Zazaki	čim		D	
+72	Tajik	DIDA		C	
+72	Tajik	casm	tʃæʃm	D	
+54	Persian	chasm	tʃʰæʃm, tʃʰeʃm	D	
+77	Waziri	STERGA		A	
+1	Pashto	STERGA		A	
+138	Shughni	čax̆m		(D)	
+138	Shughni	cem		D	
+138	Shughni	dīda		(C)	
+139	Sarikoli	cem		D	
+52	Ossetic	caest	ʦæst	D	
+124	Ossetic Iron	sɐšt	sɐšt	D	
+125	Ossetic Digor	cɐstɐ	cɐstɐ	D	
+141	Kata-viri	ʌč̣ẽ		B	
+154	Vasi-vari	ižī		B	
+153	Askunu	aċĩ		B	
+105	Vedic Sanskrit	ákṣi		B	
+162	Pāḷī	cakkhu		D	
+162	Pāḷī	akkhi		B	
+41	Khaskura	ANKHA		B	
+51	Nepali	AKHO		B	
+106	Assamese	sâku		B	
+106	Assamese	ākhi		B	
+102	Oriya	akhi	akhi	B	
+10	Bengali	cok	tʃokʰ	D	
+111	Bihari	aĩkh	aĩkh	B	
+144	Magahi	आंख	ɑ̃kʰ	B	
+104	Marwari	năĭṇ		H	
+104	Marwari	ā̃kh		B	
+35	Hindi	akh	ɑ̃ŋkʰ	B	
+119	Urdu	آنکھ	ʔɑ̃kʰ	B	
+103	Sindhi	nēṇu		H	
+103	Sindhi	akhe		B	
+43	Lahnda	EKH		B	
+53	Punjabi	EKKH		B	
+33	Gujarati	AKH		B	
+50	Marathi	dolā	'ɖoɭa	J	
+40	Kashmiri	ACHI		B	
+40	Kashmiri	NITHAR		K	
+65	Sinhalese	ASA		B	
+34	Romani Greece	YAK		B	
+100	Old Church Slavonic	око	ɔkɔ	B	
+95	Serbo-Croatian	oko	ˈɔ̂kɔ	B	
+15	Bulgarian	око	uˈkɔ	B	
+92	Macedonian	око	ˈokɔ	B	
+60	Russian	глаз	gɫaz	G	
+55	Polish	oko	ˈɔkɔ	B	
+16	Belarusian	вока	ˈvɔka	B	
+73	Ukrainian	око	ˈɔkɔ	B	
+66	Slovak	oko	ˈɔkɔ	B	
+18	Czech	oko	ˈɔkɔ	B	
+48	Sorbian Upper	woko	ˈwɔkɔ	B	
+47	Sorbian Lower	woko	ˈhɔkɔ	B	
+97	Slovenian	oko	ɔˈkôː	B	
+108	Old Prussian	ackis		B	
+44	Latvian	acs		B	
+46	Lithuanian	akis	ɐˈkʲɪs	B	
+109	Old Norse	auga	ˈauɣa	B	
+36	Icelandic	auga	ˈøɪːɣa	B	
+23	Faroese	eyga	ˈɛiːja	B	
+58	Norwegian Riksmal	øye	ˈœʏ̀ə	B	
+159	Stavangersk	öïa	ˈœɪ̀a	B	
+157	Old Swedish	ögha	ˈøːɣa	B	
+69	Swedish	öga	ˈø̀ːɡa	B	
+71	Swedish Vilhelmina	YGA  OGA		B	
+70	Swedish Uppland	OGA		B	
+145	Elfdalian	oga	ˈòːgɑ	B	
+20	Danish	øje	ˈʌjə	B	
+158	Danish Fjolde	øj	øj	B	
+160	Old Gutnish	auga		B	
+161	Gutnish Lau	augä	ˈauɡɛ	B	
+99	Old English	ēage		B	
+22	English	eye	aɪ	B	
+26	Frisian	each	jɛx	B	
+21	Dutch	oog	oχ	B	
+24	Flemish	OOG		B	
+83	Afrikaans	OOG		B	
+87	Sranan	HAI		B	
+126	Old High German	ouga		B	
+27	German	Auge	'aŭgə	B	
+86	Pennsylvania Dutch	AWK		B	
+120	Luxembourgish	A		B	
+121	German Switzerland	oug		B	
+107	Gothic	augō		B	
+112	Latin	oculus	ˈokulus	B	
+17	Catalan	ull	uʎ	B	
+56	Portuguese	olho	ˈoʎu	B	
+68	Spanish	ojo	'oxo	B	
+61	Sardinian Cagliari	OGU		B	
+62	Sardinian Logudoro	OJU		B	
+63	Sardinian Nuoro	OKRU		B	
+85	French Creole Dominica	ZJE		B	
+76	Walloon	OUY		B	
+25	French	oeil	œj	B	
+57	Provencal	UEI		B	
+42	Ladin	OGL		B	
+146	Dolomite Ladino	èie		B	
+123	Romansh	egl		B	
+122	Friulian	voli		B	
+39	Italian	occhio	'ɔkkjo	B	
+59	Romanian	ochi	'oki	B	
+74	Vlach	OKLI		B	
+140	Gaulish	derco		L	
+127	Old Irish	derc	dʹerk	(L)	
+127	Old Irish	súil	su:lʹ	F	
+149	Old Cornish	lagat		E	
+101	Middle Cornish	lagas	'lagas	E	
+148	Old Breton	lagat		E	
+172	Middle Breton	lagat, laguat	ˈlaːgat	E	
+12	Breton	lagad	ˈlɑːgat	E	
+150	Old Welsh	llygat		E	
+79	Welsh	llygad		E	
+38	Irish	súil	sˠuːlʲ	F	
+38	Irish	dearc		(L)	
+115	Scottish Gaelic	sùil	suːl	F	
+147	Manx	sooill		F	
+5	[Legacy] Albanian T	sy	sy	B	
+29	[Legacy] Greek K	OFTHALMOS		B	
+28	[Legacy] Greek D	MATI		B	
+30	[Legacy] Greek Md	MATI		B	
+64	[Legacy] Serbocroatian	OKO		B	
+113	[Legacy] Serbian	oko	ôko	B	
+89	[Legacy] Bulgarian P	OKO		B	
+49	[Legacy] Macedonian	oko	ˈɔkɔ	B	
+94	[Legacy] Russian P	GLAZ		(G)	
+93	[Legacy] Polish P	OKO		B	
+90	[Legacy] Byelorussian P	VOKA		B	
+98	[Legacy] Ukrainian P	OKO		B	
+19	[Legacy] Czech E	OKO		B	
+96	[Legacy] Slovak P	OKO		B	
+91	[Legacy] Czech P	OKO		B	
+67	[Legacy] Slovenian	OKO		B	
+45	[Legacy] Lithuanian O	AKIS		B	
+11	[Legacy] Brazilian	OLHO		B	
+142	[Legacy] German Munich	Auge		B	
+84	[Legacy] French Creole C	ZYE		B	
+14	[Legacy] Breton St	lagad	'la:gat	E	
+13	[Legacy] Breton Se	LAGAD		E	
+78	[Legacy] Welsh C	LLYGAD		E	
+37	[Legacy] Irish A	SUIL		F	

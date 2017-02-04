@@ -1,0 +1,187 @@
+114	Proto-Indo-European	*gʷerh₃-		A	
+133	Luvian	*ariyattis			
+81	Tocharian A	ṣul		K	
+82	Tocharian B	ṣale		K	
+88	Albanian	mal		C	
+143	Standard Albanian	mal		C	
+2	Albanian Sicily	mal		C	
+4	Albanian Corinth	mal		C	
+3	Albanian Gheg	mal		C	
+6	Albanian Tosk	mal		C	
+173	Mycenaean Greek	o-ṛẹ-i	órehi	G	
+110	Ancient Greek	ὄρος	óros	G	
+152	Tsakonian	βραχο			
+32	Greek	όρος		(G)	
+32	Greek	βουνό	vuˈno̞	L	
+31	Greek Lesbos	BOUNO		L	
+129	Classical Armenian	լեառն	leaṙn	D	
+129	Classical Armenian	սար	sar	(A)	
+8	Armenian Eastern	leṙ	lɛr	D	
+8	Armenian Eastern	sar	sɑɾ	A	
+7	Armenian Western	LEV		D	
+128	Avestan	gairiš		A	
+131	Old Persian	kaufa		J	
+136	Sogdian	γr-		A	
+174	Khotanese	ggarä	gɐrə	A	
+75	Wakhi	KU(H)		J	
+9	Baluchi	PHAWAD		Ad	
+118	Kurdish	sax		J	
+118	Kurdish	çiya		T	
+137	Zazaki	ko		J	
+72	Tajik	KUX		J	
+54	Persian	KUH		J	
+77	Waziri	GHAR		A	
+1	Pashto	GAR		A	
+138	Shughni	pux̆tā		X	
+138	Shughni	kū		(J)	
+138	Shughni	tāx		(Z)	
+139	Sarikoli	ano		Y	
+52	Ossetic	xox	χoχ	Q	
+124	Ossetic Iron	χoχ	χoχ	Q	
+125	Ossetic Digor	χʷɐnχ	χʷɐnχ	Q	
+154	Vasi-vari	dō		(Ac)	
+154	Vasi-vari	kū		J	
+153	Askunu	dā		Ac	
+105	Vedic Sanskrit	girís		A	
+162	Pāḷī	pabbata		E	
+162	Pāḷī	giri		(A)	
+41	Khaskura	PARBAT, LEKH		E	
+51	Nepali	PARBAT		E	
+106	Assamese	pɒrbɒt	pɒrbɒt	E	
+102	Oriya	pɔrbɔtɔ	pɔrbɔtɔ	E	
+10	Bengali	PORBOT		E	
+111	Bihari	pəhar	pəhar	M	
+144	Magahi	पहाड	pəhɑɽ	M	
+104	Marwari	ḍūṅgara		N	
+35	Hindi	pehar	pəhɑːɽ	M	
+119	Urdu	پہاڑ	pəhɑɽ	M	
+103	Sindhi	čhaparu		U	
+43	Lahnda	PEHAR		M	
+53	Punjabi	PAR		E	
+33	Gujarati	PEHAR		M	
+33	Gujarati	PERWET		E	
+50	Marathi	parwat	'pəɾwət	E	
+50	Marathi	donger		N	
+40	Kashmiri	PARBATH		E	
+40	Kashmiri	BAL		V	
+65	Sinhalese	KANDA		W	
+34	Romani Greece	VOS		(R)	
+100	Old Church Slavonic	гора	gɔrɑ	A	
+95	Serbo-Croatian	gora	ˈɡɔ̌ra	A	
+95	Serbo-Croatian	planina	plaˈnǐna	O	
+15	Bulgarian	планина	pɫəniˈna	O	
+92	Macedonian	планина	ˈplanina	O	
+60	Russian	гора	gɔ'ra	A	
+55	Polish	góra	ˈɡura	A	
+16	Belarusian	гара	ɣaˈra	A	
+73	Ukrainian	гора	ɦɔˈra	A	
+66	Slovak	vrch	vr̩x	Ae	
+66	Slovak	kopec	ˈkɔpɛts	Af	
+18	Czech	hora	ˈɦɔra	A	
+48	Sorbian Upper	hora	ˈhɔʀa	A	
+47	Sorbian Lower	góra	ˈɡɘ̟ra	A	
+97	Slovenian	gora	ˈɡɔ̌ːra	A	
+108	Old Prussian	grabis			
+44	Latvian	kal ̂-ns		I	
+46	Lithuanian	kalnas	ˈka:lnɐs	I	
+109	Old Norse	berg, bjarg	berɡ, bjarɡ	(B)	
+109	Old Norse	fjall	fjalː	P	
+36	Icelandic	fjall	fjad̥l	P	
+23	Faroese	berg	b̥ɛɹɡ̊	(B)	
+23	Faroese	fjall	fjad̥l	P	
+58	Norwegian Riksmal	berg	bɛrɡ	B	
+58	Norwegian Riksmal	fjell	fjɛlː	(P)	
+159	Stavangersk	fjeddl, fjell	ˈfjɛdːl̩, fjɛlː	(P)	
+159	Stavangersk	barg, bærg	baʁɡ, bæʁɡ	B	
+157	Old Swedish	fiäl	fjælː	P	
+157	Old Swedish	biärgh	bjærɣ	B	
+69	Swedish	fjäll	fjɛlː	(P)	
+69	Swedish	berg	bærj	B	
+71	Swedish Vilhelmina	FJEL  FJAL		P	
+71	Swedish Vilhelmina	BARJ		B	
+70	Swedish Uppland	BERG		B	
+145	Elfdalian	fjäll		P	
+145	Elfdalian	bjärr	bjærː	B	
+20	Danish	bjerg	ˈb̥jɛɐ̯ˀw	B	
+20	Danish	fjeld	fjɛlˀ	(P)	
+158	Danish Fjolde	bjerər	ˈbjeɹəɹ	B	
+161	Gutnish Lau	b(j)ärg	b(j)ɛrɡ	B	
+99	Old English	beorg		B	
+99	Old English	munt		(F)	
+22	English	mountain	'maʊntɪn	(F)	
+26	Frisian	berch	bɛrx	B	
+21	Dutch	berg	bɛrχ	B	
+24	Flemish	BERG		B	
+83	Afrikaans	BERG		B	
+87	Sranan	BERGI		B	
+126	Old High German	berg		B	
+27	German	Berg	bɛrk	B	
+86	Pennsylvania Dutch	MOUNTAIN		(F)	
+120	Luxembourgish	Bierg		B	
+121	German Switzerland	bärg		B	
+107	Gothic	rintsch			
+107	Gothic	faírguni			
+112	Latin	mōns	moːns	F	
+17	Catalan	mont	mon	F	
+56	Portuguese	montanha	mõˈtɐɲɐ	F	
+68	Spanish	montaña	mon'taɲa	F	
+61	Sardinian Cagliari	MONTI		F	
+62	Sardinian Logudoro	MUNTAGNA		F	
+63	Sardinian Nuoro	MONTE		F	
+85	French Creole Dominica	MON		F	
+76	Walloon	MONTAGNE		F	
+25	French	montagne	mɔ̃taɲ	F	
+57	Provencal	MOUNTAGNO		F	
+42	Ladin	MUNT, MUNTAGNA		F	
+146	Dolomite Ladino	mont		F	
+123	Romansh	cuolm		S	
+123	Romansh	mun, montogna		F	
+122	Friulian	grum		S	
+122	Friulian	mont		F	
+39	Italian	montagna, monte	mon'taɲɲa, 'monte	F	
+59	Romanian	munte		F	
+74	Vlach	MUNDE		F	
+140	Gaulish	bergona, briga		B	
+127	Old Irish	slíab	sʹlʹi:əβ	H	
+127	Old Irish	cnocc	knok	(Ab)	
+127	Old Irish	benn	bʹenn	(Aa)	
+149	Old Cornish	menit		F	
+101	Middle Cornish	menydh	'mɛnɪð	F	
+148	Old Breton	monid		F	
+172	Middle Breton	menez	ˈmeːneð	F	
+12	Breton	menez	ˈmeːnǝs	F	
+79	Welsh	mynydd		F	
+38	Irish	sliabh		H	
+38	Irish	cnoc		(Ab)	
+115	Scottish Gaelic	monadh		(F)	
+115	Scottish Gaelic	beinn		Aa	
+147	Manx	beinn		(Aa)	
+147	Manx	slieau		H	
+5	[Legacy] Albanian T	mal	mal	C	
+29	[Legacy] Greek K	OROS		G	
+28	[Legacy] Greek D	BOUNO		L	
+30	[Legacy] Greek Md	OROS		G	
+30	[Legacy] Greek Md	BOUNO		L	
+64	[Legacy] Serbocroatian	GORA		A	
+113	[Legacy] Serbian	planina		O	
+113	[Legacy] Serbian	gora		A	
+89	[Legacy] Bulgarian P	PLANINA		O	
+49	[Legacy] Macedonian	BRDO			
+49	[Legacy] Macedonian	PLANINA		O	
+49	[Legacy] Macedonian	GORA		A	
+94	[Legacy] Russian P	GORA		A	
+93	[Legacy] Polish P	GORA		A	
+90	[Legacy] Byelorussian P	HARA		A	
+98	[Legacy] Ukrainian P	HORA		A	
+19	[Legacy] Czech E	HORA		A	
+96	[Legacy] Slovak P	HORA		A	
+91	[Legacy] Czech P	HORA		A	
+67	[Legacy] Slovenian	GORE		A	
+45	[Legacy] Lithuanian O	KALNAS		I	
+11	[Legacy] Brazilian	MONTANHA		F	
+142	[Legacy] German Munich	Berg		B	
+84	[Legacy] French Creole C	MON, MOTAY		F	
+14	[Legacy] Breton St	menez	'mẽ:nɛs	F	
+13	[Legacy] Breton Se	MANNE		F	
+78	[Legacy] Welsh C	MYNYDD		F	
+37	[Legacy] Irish A	SLIABH		H	

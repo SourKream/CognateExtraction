@@ -1,0 +1,194 @@
+80	Hittite	iskunanz			
+81	Tocharian A	krāke		X	
+82	Tocharian B	kraketstse		X	
+82	Tocharian B	sal		M	
+88	Albanian	NDYT			
+88	Albanian	ZHGRYM		C	
+143	Standard Albanian	i, e pisët			
+2	Albanian Sicily	GHORDU			
+4	Albanian Corinth	I PERGUAM			
+3	Albanian Gheg	TROK			
+3	Albanian Gheg	ZHGRYM		C	
+6	Albanian Tosk	FELIKUR			
+110	Ancient Greek	ῥυπαρός	hryparós	Bb	
+32	Greek	βρόμικος	ˈvro̞miˌko̞s	Y	
+31	Greek Lesbos	LEROS		O	
+129	Classical Armenian	աղտեղի	ɑɫt-ɛɫ-i		
+8	Armenian Eastern	կեղտոտ	kɛχˈtɔt		
+8	Armenian Eastern	աղտոտ	ɑχˈtɔt		
+7	Armenian Western	աղտոտ	ɑʁdod		
+128	Avestan	āhitō		P	
+136	Sogdian	’’γwstk		Ad	
+75	Wakhi	RIM		Ae	
+9	Baluchi	MELAR		(D)	
+137	Zazaki	łīmin		Ae	
+72	Tajik	IFLOS		Af	
+72	Tajik	CIRKIN		Ag	
+54	Persian	KASIF		T	
+77	Waziri	KHACHEN, KHIRAN		A	
+1	Pashto	CATAL		A	
+1	Pashto	XIREN		A	
+138	Shughni	γažd		Aj	
+138	Shughni	čirkin		(Ag)	
+138	Shughni	čālīn		Ai	
+138	Shughni	qarq		Ah	
+139	Sarikoli	ɣažd		Aj	
+52	Ossetic	c'izi	ʧʲizi	T	
+124	Ossetic Iron	č'iži	č'iži	T	
+125	Ossetic Digor	c'umur	c'umur	Ao	
+105	Vedic Sanskrit	kalkin			
+105	Vedic Sanskrit	kaccara			
+105	Vedic Sanskrit	kaluṣa		(An)	
+105	Vedic Sanskrit	anirmala		(D)	
+105	Vedic Sanskrit	malina		(D)	
+162	Pāḷī	malina		D	
+162	Pāḷī	kalusa		An	
+41	Khaskura	MAILO		D	
+41	Khaskura	PHORI		Ap	
+51	Nepali	MAILO		D	
+51	Nepali	GUHE		Aq	
+106	Assamese	lɛtɛra	lɛtɛra	Ar	
+102	Oriya	mɔiḷa	mɔiɭa	D	
+102	Oriya	ɔsɔna	ɔsɔna	As	
+10	Bengali	MOELA		D	
+111	Bihari	gənda	gənda	V	
+144	Magahi	गंदा	ɡənd̪ɑ	V	
+104	Marwari	melo	melo	D	
+35	Hindi	genda	ɡənd̪a	V	
+35	Hindi	MELA		D	
+119	Urdu	مَیلا، گنْدا	mɛlə	D	
+103	Sindhi	mailu		D	
+43	Lahnda	MAELA		D	
+53	Punjabi	MELLA		D	
+33	Gujarati	GENDU		V	
+50	Marathi	mallela	mə'ɭelə	D	
+50	Marathi	ghānerda	'gʱaneɾɖə	V	
+40	Kashmiri	MALABORUTU		At	
+40	Kashmiri	ASORSHU		Av	
+40	Kashmiri	ACHOLU		Au	
+65	Sinhalese	KILUTU		Aw	
+34	Romani Greece	PISI		Ax	
+100	Old Church Slavonic	nečistŭ	neʧistŭ	(Az)	
+95	Serbo-Croatian	prljav	ˈpr̂ʎav	S	
+15	Bulgarian	мръсен	ˈmrɤsɘn	G	
+92	Macedonian	нечист	ˈnetʃist	Az	
+60	Russian	грязный	'grʲaznɨj	I	
+55	Polish	brudny	'brudnɘ̟	H	
+16	Belarusian	брудны	ˈbrudnɨ	H	
+73	Ukrainian	брудний	bruˈdnɪj	H	
+66	Slovak	špinavý	ˈʃpinaviː	J	
+18	Czech	špinavý	ˈʃpɪnaviː	J	
+48	Sorbian Upper	mazany	ˈmazanɘ̟	R	
+47	Sorbian Lower	njerěšny	ˈɲɛrʲɪʂnɘ̟	Ay	
+97	Slovenian	umazan	uˈmǎːzan	R	
+44	Latvian	netĩrs		Z	
+46	Lithuanian	NESVARUS			
+46	Lithuanian	PURVINAS		Q	
+109	Old Norse	skítugr	ˈskitugr	K	
+109	Old Norse	úhreinn	uːˈɣrɛinː	(Aa)	
+109	Old Norse	saurugr	ˈsauruɣr	(Ak)	
+36	Icelandic	saurugur	ˈsaurʏɣʏr	Ak	
+36	Icelandic	óhreinn	ˈouːr̥eid̥n	Aa	
+36	Icelandic	skítugur	ˈsciːtʰʏːɣʏr	K	
+23	Faroese	skitin	ˈʃiːtɪn	K	
+23	Faroese	óreinur	ɔuːˈɹaiːnʊɹ	Aa	
+58	Norwegian Riksmal	skitten	ˈʃɪ̀tːən	K	
+58	Norwegian Riksmal	uren, urein	ʉɾeːn, ʉɾɑɪn	Aa	
+159	Stavangersk	ureine	uːˈʁɛɪnə	Aa	
+159	Stavangersk	sjedn	ˈʂèːdn̩	K	
+157	Old Swedish	sörogher	ˈsøːroɣer	Ak	
+157	Old Swedish	skiten	ˈskiːten	K	
+157	Old Swedish	oren	ˈoːreːn	Aa	
+69	Swedish	oren	ˈùːˌre:n	Aa	
+69	Swedish	smutsig	ˈsmɵ̀tsɪ(ɡ)	(N)	
+71	Swedish Vilhelmina	DYNGI			
+70	Swedish Uppland	SMUTSIG		(N)	
+70	Swedish Uppland	LORTIG			
+145	Elfdalian	dritun	ˈdrɪ̀tʉn	L	
+145	Elfdalian	ųotäg		Al	
+145	Elfdalian	ųorien		Aa	
+20	Danish	uren	ˈuˌʁɛˀn	Aa	
+20	Danish	skiden	ˈsɡ̊iðən	K	
+20	Danish	snavset	ˈsnɑwsəð	Am	
+158	Danish Fjolde	sketən	ˈsxetən	K	
+158	Danish Fjolde	snaavs(k)ər	ˈsnɑːws(x)əɹ	Am	
+160	Old Gutnish	ful		B	
+161	Gutnish Lau	åurain	ˈouraɪn	Aa	
+99	Old English	horig			
+99	Old English	fūl		B	
+22	English	dirty	dɜ:tɪ	(L)	
+26	Frisian	fiis	fi:s	B	
+21	Dutch	vuil	vœyl	B	
+21	Dutch	vies	vis	B	
+24	Flemish	VIES		B	
+24	Flemish	VUIL		B	
+83	Afrikaans	SMERIG			
+83	Afrikaans	VUIL		B	
+87	Sranan	MORSOE, MOTOMOTO			
+87	Sranan	DOTI		(L)	
+126	Old High German	unreini		Aa	
+126	Old High German	unsūbiri			
+27	German	schmutzig	'ʃmʊt͜sɪç	N	
+86	Pennsylvania Dutch	DRECKICH		W	
+120	Luxembourgish	knaschteg			
+120	Luxembourgish	dreckeg		W	
+121	German Switzerland	dräckig		W	
+107	Gothic	unþwahans			
+107	Gothic	unhrains		Aa	
+112	Latin	sordidus	ˈsordidus	Ba	
+17	Catalan	porc	pɔrk	E	
+17	Catalan	brut	bɾut	Ab	
+56	Portuguese	sujo	ˈsuʒu	Ac	
+56	Portuguese	PORCO		E	
+68	Spanish	sucio	'suθjo	Ac	
+61	Sardinian Cagliari	BRUTTU		Ab	
+62	Sardinian Logudoro	BRUTTU		Ab	
+63	Sardinian Nuoro	BRUTTU		Ab	
+85	French Creole Dominica	SAL		M	
+76	Walloon	MASSI			
+25	French	sale	sal	M	
+57	Provencal	SALE, ALO		M	
+42	Ladin	ASCHER			
+146	Dolomite Ladino	sporch		E	
+123	Romansh	tschuf			
+122	Friulian	sporc, soç		E	
+39	Italian	sporco	'spɔrko	E	
+59	Romanian	murdar			
+74	Vlach	(NE)LATE			
+127	Old Irish	salach	saləx	M	
+101	Middle Cornish	plos	plɔ:z	F	
+172	Middle Breton	lous	ˈluːs	F	
+12	Breton	FANK			
+12	Breton	louidik		(F)	
+12	Breton	loudour	ˈluːdur		
+12	Breton	louan, loued		(F)	
+12	Breton	lous	ˈluːs	F	
+12	Breton	lastez	ˈlaste(s)		
+79	Welsh	BUDR			
+79	Welsh	brwnt		U	
+38	Irish	salach	ˈsˠal̪ˠəx, sˠəˈl̪ˠax	M	
+115	Scottish Gaelic	salach	sɑləx	M	
+5	[Legacy] Albanian T	I, E NDOHTUR			
+29	[Legacy] Greek K	AKATHARTOS			
+28	[Legacy] Greek D	BROMIKOS		Y	
+30	[Legacy] Greek Md	BROMIKOS		Y	
+30	[Legacy] Greek Md	LEROMENOS		O	
+64	[Legacy] Serbocroatian	PRLJAV		S	
+113	[Legacy] Serbian	prljav	prʎaʋ	S	
+89	[Legacy] Bulgarian P	MRUSEN		G	
+94	[Legacy] Russian P	GRAZNYJ		I	
+93	[Legacy] Polish P	BRUDNY		H	
+90	[Legacy] Byelorussian P	HRAZKI		I	
+98	[Legacy] Ukrainian P	SKVERNYJ			
+19	[Legacy] Czech E	SPINAVE		J	
+96	[Legacy] Slovak P	SPINAVY		J	
+91	[Legacy] Czech P	SPINAVY		J	
+67	[Legacy] Slovenian	UMAZANU		R	
+45	[Legacy] Lithuanian O	PURVINAS		Q	
+11	[Legacy] Brazilian	SUJO		Ac	
+142	[Legacy] German Munich	dreckig		W	
+84	[Legacy] French Creole C	SAL		M	
+14	[Legacy] Breton St	lous	lu:s	F	
+13	[Legacy] Breton Se	LOUS		F	
+78	[Legacy] Welsh C	BRWNT		U	
+37	[Legacy] Irish A	SALACH		M	

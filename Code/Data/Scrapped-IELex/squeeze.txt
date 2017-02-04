@@ -1,0 +1,172 @@
+80	Hittite	sai			
+133	Luvian	wisiti			
+81	Tocharian A	nuskaṣṣäṃ		H	
+82	Tocharian B	nuskaṣṣäṃ		H	
+82	Tocharian B	klupnātär			
+88	Albanian	SHTYP		B	
+143	Standard Albanian	shtrydh		C	
+2	Albanian Sicily	STRENGON			
+4	Albanian Corinth	STRIDHIN		C	
+3	Albanian Gheg	SHTYP		B	
+6	Albanian Tosk	STRYTH, AOR. STRYDHA		C	
+110	Ancient Greek	θλίβω	tʰlíbɔː		
+110	Ancient Greek	πιέζω	piézdɔː	N	
+32	Greek	ζουλώ	zuˈlo̞	Au	
+31	Greek Lesbos	DZOULO		Au	
+129	Classical Armenian	kʰamem		Ac	
+129	Classical Armenian	čmlem			
+8	Armenian Eastern	seġmel	sɛχˈmɛl		
+8	Armenian Eastern	k'amel		Ac	
+8	Armenian Eastern	čzmel			
+75	Wakhi	WEZEM-			
+75	Wakhi	FERIL		Ad	
+75	Wakhi	TRUNJ-		X	
+9	Baluchi	DABAGH, DABITHA		Ae	
+72	Tajik	FUSURDAN, FISOR DODAN		S	
+54	Persian	FESHAR DADAN		S	
+1	Pashto	KSEKSEL		Af	
+139	Sarikoli	waɣrɛyson : waɣrɛysond		Ag	
+52	Ossetic	aelx'ivyn	ælqivɨn	Ah	
+124	Ossetic Iron	lɐmar-	lɐmar-	Ab	
+125	Ossetic Digor	lɐmar-	lɐmar-	Ab	
+105	Vedic Sanskrit	pīḍáyati		N	
+162	Pāḷī	nippīḷeti		N	
+41	Khaskura	ANTIAUNU		An	
+41	Khaskura	CHEPNU		D	
+41	Khaskura	NICHAUNU		O	
+51	Nepali	MICNU		Ao	
+106	Assamese	sɛp	sɛp	D	
+102	Oriya	nigaḍiba	nigaɖiba	Ap	
+10	Bengali	CAP		D	
+10	Bengali	DEOA		Aq	
+111	Bihari	sanhīyāyab		Ar	
+111	Bihari	ras garəb	ras garəb	Am	
+144	Magahi	अंईठना	əitʰənɑ		
+104	Marwari	dab	dab	W	
+35	Hindi	NICORNA		O	
+119	Urdu	دبانا	d̪əbɑnə	W	
+103	Sindhi	thanhaṇu			
+43	Lahnda	NICOREN		O	
+53	Punjabi	NECORNA		O	
+33	Gujarati	NICOWEWU		O	
+50	Marathi	pilne	piɭ'ɳe	N	
+65	Sinhalese	MIRIKANAWA			
+100	Old Church Slavonic	(-)тискати	(-)tiskɑti	G	
+95	Serbo-Croatian	stiskati	ˈstǐːskati	G	
+15	Bulgarian	стискам	ˈstiskəm	G	
+92	Macedonian	стисне	ˈstisnɛ	G	
+60	Russian	сжимать	sʐɨ'matʲ	Q	
+55	Polish	gnieść	ˈgɲɛɕtɕ	(H)	
+55	Polish	cisnąć	ˈtɕisnɔɲtɕ	G	
+16	Belarusian	сціскаць	sʲtsʲiˈskatsʲ	G	
+73	Ukrainian	тиснути	ˈtɪsnutɪ	G	
+73	Ukrainian	гнітити	ɦnʲiˈtɪtɪ	(H)	
+73	Ukrainian	давити	daˈvɪtɪ	(Av)	
+66	Slovak	tlačiť	ˈtlatʃic	As	
+18	Czech	mačkat	ˈmatʃkat	At	
+48	Sorbian Upper	tłóčić	ˈtwʊtʃitʃ	As	
+47	Sorbian Lower	tłocyś	ˈtwɔtsɘ̟ɕ	As	
+97	Slovenian	stiskati	ˈstǐːskati	G	
+44	Latvian	spiêž		V	
+46	Lithuanian	SUSPAUSTI		P	
+109	Old Norse	kreista	ˈkrɛista	J	
+109	Old Norse	þryngva	ˈθrynɣva	X	
+36	Icelandic	kreista	ˈkʰreista	J	
+23	Faroese	klemma, kleima	ˈkʰlɛmːa, kʰlaiːma	(T)	
+23	Faroese	trýsa	ˈtʰɹʊiːsa	Aj	
+23	Faroese	kroysta	ˈkʰɹɔista	J	
+58	Norwegian Riksmal	kreiste		J	
+58	Norwegian Riksmal	klemme	ˈklɛ̀mːə	(T)	
+58	Norwegian Riksmal	presse	ˈpɾɛ̀sːə	(A)	
+157	Old Swedish	thrykkja	ˈθrykːja	I	
+157	Old Swedish	krista	ˈkrista	J	
+157	Old Swedish	klämma	ˈklæmːa	(T)	
+69	Swedish	klämma	ˈklɛ̀mːa	(T)	
+69	Swedish	krama	ˈkrɑ̀:ma	(Al)	
+69	Swedish	pressa	ˈprɛ̀sːa	(A)	
+71	Swedish Vilhelmina	KLAM		T	
+70	Swedish Uppland	KLAMMA		T	
+145	Elfdalian	klemma	ˈklɛ̀mːɑ	(T)	
+20	Danish	klemme	ˈɡ̊ʰlɛmə	(T)	
+20	Danish	trykke	ˈd̥ʰʁœg̥ʰə	I	
+20	Danish	presse	ˈb̥ʰʁasə	(A)	
+158	Danish Fjolde	trøk	tɹøɡ	I	
+161	Gutnish Lau	prässä	ˈprɛsːɛ	(A)	
+161	Gutnish Lau	klämmä	ˈklɛmːɛ	(T)	
+161	Gutnish Lau	bråu	brou	Ai	
+99	Old English	þringþ		X	
+22	English	to squeeze	skwi:z		
+26	Frisian	wringe	'vrɪŋə	K	
+21	Dutch	wringen		K	
+21	Dutch	knijpen	ˈknɛipə	Ak	
+21	Dutch	persen	'pɛrsə(n)	A	
+24	Flemish	WRINGEN		K	
+83	Afrikaans	UITPERS		A	
+126	Old High German	drucchit		I	
+27	German	drücken	'drʏkn̩	I	
+86	Pennsylvania Dutch	DRICK		I	
+120	Luxembourgish	drécken		I	
+121	German Switzerland	drücke		I	
+107	Gothic	þreihiþ		X	
+112	Latin	premere	ˈpremere	A	
+17	Catalan	comprimir	kumpɾi'mi	A	
+17	Catalan	estrènyer	ə'stɾɛɲə	Y	
+17	Catalan	pitjar	pi'dʒa		
+56	Portuguese	apertar	ɐpɨɾˈtaɾ	E	
+56	Portuguese	COMPRIMIR		A	
+68	Spanish	COMORIMIR		A	
+68	Spanish	apretar	apɾe'taɾ	E	
+68	Spanish	ESTRECHAR		Y	
+61	Sardinian Cagliari	SPREMI		A	
+62	Sardinian Logudoro	PREMERE		A	
+63	Sardinian Nuoro	ISPREMERE		A	
+85	French Creole Dominica	PIZE		M	
+76	Walloon	STRINDE			
+76	Walloon	SERER		L	
+25	French	serrer	sɛʀe	L	
+57	Provencal	SARRA		L	
+57	Provencal	PRESSA		A	
+42	Ladin	SQUITSCHER		Aa	
+146	Dolomite Ladino	strucà		U	
+123	Romansh	smatgar			
+123	Romansh	squitschar		Aa	
+122	Friulian	struçâ		U	
+39	Italian	premere	'prɛmere	A	
+59	Romanian	a strânge		Z	
+59	Romanian	A STOARCE		U	
+74	Vlach	STIRKORU		U	
+127	Old Irish	fáiscid	ɸa:sʹkʹəðʹ	F	
+101	Middle Cornish	gwaska	'gwaska	F	
+101	Middle Cornish	strotha			
+101	Middle Cornish	gwrynnya	'gwrɪn:ja		
+172	Middle Breton	goascaff, goaschaff, goschaff	ˈgoaskaṽ		
+172	Middle Breton	stardaff ?	ˈstardaṽ		
+12	Breton	gwaskañ		F	
+12	Breton	STARDA, STENNA			
+79	Welsh	gwasgu		F	
+38	Irish	fáisc		F	
+115	Scottish Gaelic	teannaich			
+5	[Legacy] Albanian T	ME SHTRYDHUR		C	
+29	[Legacy] Greek K	PIEDZO		N	
+28	[Legacy] Greek D	PIEDZO		N	
+30	[Legacy] Greek Md	SFIGGO		V	
+64	[Legacy] Serbocroatian	PROTURATI			
+113	[Legacy] Serbian	stisnuti	stîsnuti	G	
+89	[Legacy] Bulgarian P	GNETA		H	
+49	[Legacy] Macedonian	STEGA		R	
+94	[Legacy] Russian P	GNESTI		H	
+93	[Legacy] Polish P	GNIESC		H	
+90	[Legacy] Byelorussian P	HN ASCI		H	
+98	[Legacy] Ukrainian P	HNITYTY		H	
+19	[Legacy] Czech E	STYISKNUT		G	
+96	[Legacy] Slovak P	HNIEST		H	
+91	[Legacy] Czech P	HNISTI		H	
+67	[Legacy] Slovenian	STISNI		G	
+45	[Legacy] Lithuanian O	SPAUDYTI		P	
+11	[Legacy] Brazilian	APERTAR		E	
+142	[Legacy] German Munich	ausdrücken		I	
+84	[Legacy] French Creole C	PIZE		M	
+14	[Legacy] Breton St	GWESKEL		F	
+13	[Legacy] Breton Se	GOASKEIN		F	
+78	[Legacy] Welsh C	GWASGU		F	
+37	[Legacy] Irish A	BRUGHADH			

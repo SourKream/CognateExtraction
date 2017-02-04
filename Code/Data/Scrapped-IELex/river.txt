@@ -1,0 +1,181 @@
+114	Proto-Indo-European	*h₂ekw-eh₂-		O	
+80	Hittite	hapas		L	
+133	Luvian	hāpis		L	
+82	Tocharian B	cake			
+88	Albanian	LUMI		C	
+143	Standard Albanian	lumë		C	
+2	Albanian Sicily	LUM		C	
+4	Albanian Corinth	LUME		C	
+3	Albanian Gheg	LUMI		C	
+6	Albanian Tosk	LHUME		C	
+110	Ancient Greek	ῥοή	hroɛ́ː	(B)	
+110	Ancient Greek	ποταμός	potamós	K	
+32	Greek	ποτάμι	po̞ˈtami	K	
+31	Greek Lesbos	POTAMOS		K	
+129	Classical Armenian	գետ	get	D	
+8	Armenian Eastern	get	gɛt	D	
+7	Armenian Western	GED		D	
+128	Avestan	θraotō		B	
+128	Avestan	rauua		B	
+131	Old Persian	rauta		B	
+136	Sogdian	rwt		B	
+75	Wakhi	DERIO		(A)	
+9	Baluchi	DIRA		(A)	
+137	Zazaki	ro(y)		B	
+137	Zazaki	čem		T	
+137	Zazaki	lā		S	
+72	Tajik	RUD		B	
+72	Tajik	daryo	dærjɔ:	A	
+54	Persian	SUDKHANE		Q	
+77	Waziri	TOI		U	
+77	Waziri	DARYOB		(A)	
+1	Pashto	SIND		(V)	
+1	Pashto	RUD		B	
+138	Shughni	daryō		(A)	
+139	Sarikoli	daryu		(A)	
+52	Ossetic	DON		I	
+52	Ossetic	caeugaedon	ʦæwɡædon	I	
+124	Ossetic Iron	don	don	I	
+125	Ossetic Digor	don	don	I	
+141	Kata-viri	nʌ̣̃o		E	
+105	Vedic Sanskrit	síndhus		V	
+105	Vedic Sanskrit	nadi		(E)	
+162	Pāḷī	nadī		E	
+41	Khaskura	GANGA		M	
+51	Nepali	NAD		E	
+51	Nepali	DARIYA		(A)	
+106	Assamese	nɔdi	nɔdi	E	
+102	Oriya	nɔ(d)i	nɔ(d)i	E	
+10	Bengali	NODI		E	
+111	Bihari	dhar	dhar	(A)	
+144	Magahi	नदी	nəd̪i	E	
+104	Marwari	nədi	nədi	E	
+35	Hindi	nedi	nədi:	E	
+119	Urdu	دریا	d̪əɾjɑ	(A)	
+103	Sindhi	nəndī		E	
+43	Lahnda	DERYA		(A)	
+53	Punjabi	NEDI		E	
+53	Punjabi	DERYA		(A)	
+33	Gujarati	NEDI		E	
+50	Marathi	nadī	nə'di:	E	
+40	Kashmiri	KOL			
+65	Sinhalese	GANGA		M	
+34	Romani Greece	POTAMI		(K)	
+100	Old Church Slavonic	рѣка	rækɑ	H	
+95	Serbo-Croatian	rijeka	ˈrjɛ̌ːka	H	
+15	Bulgarian	река	rɘˈka	H	
+92	Macedonian	река	ˈreka	H	
+60	Russian	река	rʲɛ'ka	H	
+55	Polish	rzeka	ˈʐɛka	H	
+16	Belarusian	рака	raˈka	H	
+73	Ukrainian	ріка	rʲiˈka	H	
+66	Slovak	rieka	riɛka	H	
+18	Czech	řeka	ˈr̝ɛka	H	
+48	Sorbian Upper	rěka	ˈʀɪka	H	
+47	Sorbian Lower	rěka	ˈrɪka	H	
+97	Slovenian	reka	ˈrěːka	H	
+108	Old Prussian	ape		L	
+44	Latvian	upe		L	
+46	Lithuanian	upė	ʊpʲe:	L	
+109	Old Norse	á	aː	O	
+109	Old Norse	fljót		(R)	
+109	Old Norse	elfr	elfr	(N)	
+36	Icelandic	á	auː	O	
+36	Icelandic	elfur	ˈɛlvʏr	(N)	
+36	Icelandic	fljót	fljouːtʰ	(R)	
+23	Faroese	elvur	ˈɛlvʊɹ	(N)	
+23	Faroese	á	ɔaː	O	
+58	Norwegian Riksmal	flod	fluːd	(P)	
+58	Norwegian Riksmal	elv	ɛlʋ	N	
+58	Norwegian Riksmal	å	oː	(O)	
+159	Stavangersk	elv	ɛlʋ	N	
+159	Stavangersk	å	oː	(O)	
+157	Old Swedish	flodh	floːð	(P)	
+157	Old Swedish	a	aː	(O)	
+157	Old Swedish	älf	ælf	N	
+69	Swedish	å	oː	(O)	
+69	Swedish	älv	ɛlv	(N)	
+69	Swedish	flod	flu:d	(P)	
+71	Swedish Vilhelmina	A		O	
+70	Swedish Uppland	älv	ælv	N	
+145	Elfdalian	å		O	
+145	Elfdalian	öve	œ̀ːvɛ	N	
+20	Danish	elv	ɛlˀv	(N)	
+20	Danish	å	ɔˀ	(O)	
+20	Danish	flod	floˀð	(P)	
+158	Danish Fjolde	oa	oa	O	
+158	Danish Fjolde	fluo	fluo	(P)	
+161	Gutnish Lau	flåud	floud	(P)	
+161	Gutnish Lau	a	ɑː	O	
+99	Old English	ēa		O	
+22	English	river	'rɪvə	(F)	
+26	Frisian	rivier	rə'vi.ər	F	
+21	Dutch	rivier	ri'vir	(F)	
+24	Flemish	RIVIER		F	
+83	Afrikaans	RIVIER		(F)	
+87	Sranan	RIBA		(F)	
+87	Sranan	LIBA		(F)	
+126	Old High German	fluz		P	
+126	Old High German	aha		O	
+27	German	Fluss	flʊs	P	
+86	Pennsylvania Dutch	REVVER		(F)	
+120	Luxembourgish	Floss		P	
+121	German Switzerland	fluss		P	
+107	Gothic	runs		H	
+107	Gothic	aƕa		O	
+107	Gothic	flōdus		P	
+112	Latin	flūmen	ˈfluːmen	J	
+17	Catalan	riu	ˈriw	H	
+56	Portuguese	rio	ˈʀiu	H	
+68	Spanish	río	'rio	H	
+61	Sardinian Cagliari	FLUMINI		J	
+62	Sardinian Logudoro	FLUMEN		J	
+63	Sardinian Nuoro	RIVU		H	
+85	French Creole Dominica	LAYVYE		F	
+76	Walloon	RIVIRE		F	
+25	French	rivière	ʀivjɛʀ	F	
+57	Provencal	riu	ˈrriw	H	
+57	Provencal	RIBIERO		F	
+42	Ladin	FLUM		J	
+146	Dolomite Ladino	ru		H	
+123	Romansh	flum		J	
+122	Friulian	flum		J	
+39	Italian	fiume	'fjume	J	
+59	Romanian	râu	rɨw	H	
+59	Romanian	FLUVIU		J	
+74	Vlach	ARUW		F	
+140	Gaulish	abona		L	
+127	Old Irish	aub	auβ	L	
+101	Middle Cornish	hel			
+101	Middle Cornish	avon	'avɔn	L	
+101	Middle Cornish	thour			
+101	Middle Cornish	wy			
+172	Middle Breton	auon, auoun, auonn	ˈaːvon	L	
+12	Breton	ster		G	
+79	Welsh	afon		L	
+38	Irish	abhainn	əunʲ, əun̠ʲ, oːn̠ʲ	L	
+115	Scottish Gaelic	abhainn		L	
+5	[Legacy] Albanian T	lumë		C	
+29	[Legacy] Greek K	POTAMOS		K	
+28	[Legacy] Greek D	POTAMOS, POTAMI		K	
+30	[Legacy] Greek Md	POTAMI		K	
+64	[Legacy] Serbocroatian	REKA		H	
+113	[Legacy] Serbian	reka	rěːka	H	
+89	[Legacy] Bulgarian P	REKA		H	
+49	[Legacy] Macedonian	REKA		H	
+94	[Legacy] Russian P	REKA		H	
+93	[Legacy] Polish P	RZEKA		H	
+90	[Legacy] Byelorussian P	RAKA		H	
+98	[Legacy] Ukrainian P	RIKA		H	
+19	[Legacy] Czech E	XVOYNYICA			
+96	[Legacy] Slovak P	RIEKA		H	
+91	[Legacy] Czech P	REKA		H	
+67	[Legacy] Slovenian	POTOK			
+45	[Legacy] Lithuanian O	UPE		L	
+11	[Legacy] Brazilian	RIO		H	
+142	[Legacy] German Munich	Fluss		P	
+84	[Legacy] French Creole C	LAYVYE		F	
+14	[Legacy] Breton St	stêr	stɛ:r	G	
+13	[Legacy] Breton Se	STER		G	
+78	[Legacy] Welsh C	AFON		L	
+37	[Legacy] Irish A	ABHAINN		L	

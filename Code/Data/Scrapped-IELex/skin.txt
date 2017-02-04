@@ -1,0 +1,181 @@
+114	Proto-Indo-European	*pel-ni-		B	
+80	Hittite	*kursa-			
+81	Tocharian A	yats		J	
+82	Tocharian B	ewe		M	
+82	Tocharian B	yetse		J	
+88	Albanian	lëkurë		C	
+143	Standard Albanian	lëkurë		C	
+2	Albanian Sicily	lëkurë		C	
+4	Albanian Corinth	lëkurë		C	
+3	Albanian Gheg	likura		C	
+6	Albanian Tosk	lëkurë		C	
+6	Albanian Tosk	cipë			
+173	Mycenaean Greek	de-ma-si	dérmasi	H	
+110	Ancient Greek	δέρμα	dérma	H	
+152	Tsakonian	τομάρι		N	
+32	Greek	petsi	pe̞ˈʦi	(A)	
+32	Greek	τομάρι		(N)	
+32	Greek	δέρμα	ˈðe̞rma	H	
+31	Greek Lesbos	DERMA		H	
+129	Classical Armenian	մորթ	mortʰ	D	
+8	Armenian Eastern	մաշկ	mɑʃk	(D)	
+8	Armenian Eastern	kaši	kɑˈʃi		
+7	Armenian Western	մորթ	mortʰ	D	
+128	Avestan	suri		E	
+136	Sogdian	crm		E	
+75	Wakhi	PIST		A	
+9	Baluchi	PHOST		A	
+118	Kurdish	çerm		E	
+72	Tajik	pust	pust	A	
+54	Persian	pust	pust	A	
+77	Waziri	TSARMAN		E	
+1	Pashto	POST		A	
+138	Shughni	pust			
+139	Sarikoli	p/bast			
+52	Ossetic	carm	tsarm	E	
+124	Ossetic Iron	sar	sar	E	
+125	Ossetic Digor	car	car	E	
+141	Kata-viri	čʊm		E	
+154	Vasi-vari	čāmə		E	
+153	Askunu	cʌm		E	
+105	Vedic Sanskrit	tvák		M	
+162	Pāḷī	camma		E	
+41	Khaskura	CHHALA		I	
+51	Nepali	KHALO		I	
+106	Assamese	sal	sal	I	
+102	Oriya	čhalɔ	čhalɔ	I	
+10	Bengali	CAM		E	
+111	Bihari	cəmra	cəmra	E	
+144	Magahi	चमडा	cəmɽɑ		
+104	Marwari	cam	cam	E	
+35	Hindi	CAM		E	
+35	Hindi	chal	cʰal	I	
+119	Urdu	کھال، چمڑی	kʰɑl, ʧəmɽi	E	
+103	Sindhi	khala			
+43	Lahnda	CEMRI		E	
+53	Punjabi	PINDA			
+33	Gujarati	CAMERI		E	
+50	Marathi	twatSā	twət'ʃa		
+50	Marathi	tsāmdī	tsam'ɖi:	E	
+50	Marathi	katedi			
+40	Kashmiri	TSAM		E	
+65	Sinhalese	HAMA			
+34	Romani Greece	MORKHI			
+100	Old Church Slavonic	кожа	kɔʒa	G	
+95	Serbo-Croatian	koža	ˈkɔ̂ʒa	G	
+15	Bulgarian	кожа	ˈkɔʒə	G	
+92	Macedonian	кожа	ˈkoʒa	G	
+60	Russian	кожа	ˈkɔʐa	G	
+55	Polish	skóra	ˈskura	E	
+16	Belarusian	скура	ˈskura	(E)	
+73	Ukrainian	шкіра	ˈʂkira	(E)	
+66	Slovak	koža	ˈkɔʒa	G	
+18	Czech	kůže	ˈkuːʒɛ	G	
+48	Sorbian Upper	koža	ˈkɔʒa	G	
+47	Sorbian Lower	kóža	ˈkɘ̟ʐa	G	
+97	Slovenian	koža	ˈkǒːʒa	G	
+108	Old Prussian	keuto			
+44	Latvian	âda		J	
+46	Lithuanian	ODA		J	
+46	Lithuanian	plėnė̃		B	
+109	Old Norse	húð	huːð	E	
+109	Old Norse	hœrund	ˈhøːrund	O	
+109	Old Norse	skinn	skinː	(L)	
+36	Icelandic	húð	huːð	E	
+36	Icelandic	hörund	ˈhœːrʏnd̥	O	
+36	Icelandic	skinn	scɪnː	(L)	
+23	Faroese	húð	hʉuː	E	
+23	Faroese	SKINN		(L)	
+23	Faroese	hold		P	
+58	Norwegian Riksmal	hud	huːd	E	
+58	Norwegian Riksmal	skinn	ʃɪnː	(L)	
+159	Stavangersk	sjinn	ʂɪnː	(L)	
+159	Stavangersk	hu	hʉː	E	
+157	Old Swedish	hudh	huːð	E	
+157	Old Swedish	skin	skinː	L	
+69	Swedish	hud	hʉ:d	E	
+69	Swedish	skinn	ɧɪnː	L	
+71	Swedish Vilhelmina	SIN		L	
+70	Swedish Uppland	SKINN		L	
+145	Elfdalian	stjinn	stʃɪnː	L	
+20	Danish	skind	sɡ̊ʰenˀ	L	
+20	Danish	hud	huðˀ	E	
+158	Danish Fjolde	hu	hu	E	
+158	Danish Fjolde	skind	sxinʲ	(L)	
+161	Gutnish Lau	skinn	skɪnː	L	
+161	Gutnish Lau	häud	hɛud	E	
+99	Old English	hȳd		E	
+99	Old English	fell		B	
+22	English	skin	skɪn	(L)	
+26	Frisian	hûd	hu:t	E	
+21	Dutch	huid	hœyt	E	
+21	Dutch	vel		B	
+24	Flemish	HUID		E	
+83	Afrikaans	HUID		E	
+87	Sranan	BOEBA			
+126	Old High German	hūt		E	
+126	Old High German	fel		B	
+27	German	Haut	haŭt	B	
+86	Pennsylvania Dutch	HAUT		E	
+120	Luxembourgish	Haut		E	
+121	German Switzerland	hut		E	
+107	Gothic	*fill		B	
+112	Latin	pellis	ˈpelːis	(B)	
+112	Latin	cutis	ˈkutis	E	
+17	Catalan	pell	peʎ	B	
+56	Portuguese	pele	ˈpɛlɨ	B	
+68	Spanish	piel	pjel	B	
+68	Spanish	CUTIS		E	
+61	Sardinian Cagliari	PEDDI		B	
+62	Sardinian Logudoro	PEDDE		B	
+63	Sardinian Nuoro	PEDDE		B	
+85	French Creole Dominica	LAPO		B	
+76	Walloon	PE		B	
+25	French	peau	po	B	
+57	Provencal	pèl	pɛl	B	
+57	Provencal	PEAU		B	
+42	Ladin	PEL		B	
+146	Dolomite Ladino	pèl		B	
+123	Romansh	tgir			
+123	Romansh	pial		B	
+122	Friulian	piel		B	
+39	Italian	pelle	'pɛlle	B	
+59	Romanian	piele	ˈpjele	B	
+74	Vlach	KALE			
+127	Old Irish	cnes	kʹnʹes	(K)	
+127	Old Irish	croiccenn	krokʹənn	F	
+149	Old Cornish	croin		F	
+101	Middle Cornish	croghen		F	
+148	Old Breton	crochenn		F	
+172	Middle Breton	crochenn, crochen, crohen	ˈkrohen		
+12	Breton	kroc'hen		F	
+150	Old Welsh	croen		F	
+79	Welsh	croen		F	
+38	Irish	craiceann	ˈkɾˠacən̪ˠ	F	
+38	Irish	cneas		(K)	
+115	Scottish Gaelic	craiceann		F	
+147	Manx	crackan		F	
+5	[Legacy] Albanian T	lëkurë	ləkuɹə	C	
+29	[Legacy] Greek K	DERMA		H	
+28	[Legacy] Greek D	DERMA		H	
+30	[Legacy] Greek Md	PETSI		A	
+64	[Legacy] Serbocroatian	KOZA		G	
+113	[Legacy] Serbian	koža	kôʒa	G	
+89	[Legacy] Bulgarian P	KOZA		G	
+49	[Legacy] Macedonian	KOZA		G	
+94	[Legacy] Russian P	KOZA		G	
+93	[Legacy] Polish P	SKORA		E	
+90	[Legacy] Byelorussian P	SKURA		E	
+98	[Legacy] Ukrainian P	SKURA		E	
+19	[Legacy] Czech E	KOZA		G	
+96	[Legacy] Slovak P	KOZA		G	
+91	[Legacy] Czech P	KUZE		G	
+67	[Legacy] Slovenian	KOZA		G	
+45	[Legacy] Lithuanian O	SKURAS		E	
+11	[Legacy] Brazilian	pele	ˈpɛli	B	
+142	[Legacy] German Munich	Haut		E	
+84	[Legacy] French Creole C	LAPO		B	
+14	[Legacy] Breton St	kroc'hen	ˈkʁoːχɛn	F	
+13	[Legacy] Breton Se	KROHEN		F	
+78	[Legacy] Welsh C	CROEN		F	
+37	[Legacy] Irish A	CRAICEANN		F	

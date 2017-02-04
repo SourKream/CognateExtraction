@@ -1,0 +1,212 @@
+114	Proto-Indo-European	*mánus			
+80	Hittite	antuhsas		M	
+133	Luvian	zītis			
+81	Tocharian A	napeṃ			
+82	Tocharian B	śaumo			
+88	Albanian	njeri		B	
+143	Standard Albanian	njeri		B	
+2	Albanian Sicily	GINDE, ISTER			
+4	Albanian Corinth	njeri		B	
+3	Albanian Gheg	njeriu		B	
+6	Albanian Tosk	njeri		B	
+173	Mycenaean Greek	a-to-ro-qo	antʰró̞ːkʷo-	P	
+110	Ancient Greek	ἄνθρωπος	ántʰrɔːpos	P	
+152	Tsakonian	ανθροπο		P	
+32	Greek	πρόσωπο		(I)	
+32	Greek	άτομο		(X)	
+32	Greek	άνθρωπος	ˈan̪θro̞ˌpo̞s	P	
+31	Greek Lesbos	PROSOPO		I	
+129	Classical Armenian	մարդ	mard	L	
+129	Classical Armenian	անձն	anjn	C	
+8	Armenian Eastern	mard		L	
+8	Armenian Eastern	anj		(C)	
+7	Armenian Western	ANTZ		C	
+128	Avestan	mašiiākō		L	
+128	Avestan	mašiiō		L	
+131	Old Persian	martiya		L	
+136	Sogdian	’γryw(h)		Aa	
+9	Baluchi	KHAS		S	
+118	Kurdish	mirov		L	
+118	Kurdish	meriv		L	
+137	Zazaki	īnsān		(A)	
+137	Zazaki	merdim		L	
+72	Tajik	INSON		(A)	
+72	Tajik	KAS		S	
+72	Tajik	ODAM		(A)	
+72	Tajik	SAXA		(T)	
+54	Persian	SHAKHS		(Z)	
+77	Waziri	TAN		U	
+77	Waziri	KAS		S	
+1	Pashto	KAS		S	
+1	Pashto	TAN		U	
+138	Shughni	nafar			
+138	Shughni	čōr		Ab	
+139	Sarikoli	xɛy		Ac	
+124	Ossetic Iron	adɐjmag	adɐjmag	W	
+125	Ossetic Digor	adɐjmag	adɐjmag	W	
+154	Vasi-vari	māṭek		L	
+105	Vedic Sanskrit	mánus		A	
+105	Vedic Sanskrit	puruṣa		(R)	
+162	Pāḷī	jana		J	
+51	Nepali	MANIS, MANCHE		A	
+106	Assamese	purux	purux	R	
+106	Assamese	lōk		O	
+106	Assamese	bhâniyek-zânī			
+102	Oriya	byɔkti	byɔkti		
+102	Oriya	mɔṇisɔ	mɔɳisɔ	A	
+102	Oriya	lokɔ	lokɔ	O	
+10	Bengali	LOK		O	
+10	Bengali	manus	manuʃ	A	
+111	Bihari	admi	admi	(Ad)	
+111	Bihari	byekti	byekti		
+111	Bihari	lok		O	
+111	Bihari	manuṣy		(A)	
+111	Bihari	goṭ			
+144	Magahi	अदमी	əd̪əmi	(Ad)	
+104	Marwari	log	log	O	
+104	Marwari	jaṇau		J	
+35	Hindi	INSAN		(Q)	
+35	Hindi	LOG		O	
+119	Urdu	اِنسان	ʔɪnsɑn	Q	
+103	Sindhi	jīv	jīv		
+43	Lahnda	SEXS		K	
+53	Punjabi	JENA		J	
+33	Gujarati	RYEKTI		A	
+33	Gujarati	MANES		A	
+50	Marathi	mānūs, manusya	maɳu:s, manu:ʂjə	A	
+50	Marathi	lok		O	
+40	Kashmiri	MURTH		L	
+40	Kashmiri	ZAN		J	
+65	Sinhalese	MINIHA		A	
+34	Romani Greece	MANUS		A	
+100	Old Church Slavonic	чловѣкъ	ʧlɔvækʊ̆	N	
+95	Serbo-Croatian	čȍvjek	ˈtʃɔ̂vjɛk	N	
+15	Bulgarian	човек	tʃuˈvɛk	N	
+92	Macedonian	човек	ˈtʃovɛk	N	
+60	Russian	человек	tʃila'vʲɛk	N	
+55	Polish	człowiek	ˈtʂwɔvjɛk	N	
+16	Belarusian	чалавек	tʂaɫaˈvʲɛk	N	
+73	Ukrainian	людина	lʲuˈdɪna	Ae	
+66	Slovak	človek	ˈtʃlɔvɛk	N	
+18	Czech	člověk	ˈtʃlɔvjɛk	N	
+48	Sorbian Upper	čłowjek	ˈtʃwojɛk	N	
+47	Sorbian Lower	luź	lʲuʑ	Ae	
+97	Slovenian	človek	ˈtʃlɔ̂ːvɛk	N	
+108	Old Prussian	smunents			
+44	Latvian	cìlvę̄ks		(N)	
+44	Latvian	PERSONA		(D)	
+46	Lithuanian	ASMUO			
+46	Lithuanian	žmogus	ʒmoˈɡʊs		
+109	Old Norse	gumi	ˈɡumi	(E)	
+109	Old Norse	maðr	maðr	A	
+36	Icelandic	maður	ˈmaːðʏr	A	
+36	Icelandic	persóna	pʰɛrˈsouːna	(D)	
+23	Faroese	persónur	pɛˈʂɔuːnʊɹ	(D)	
+23	Faroese	maður	ˈmɛaːvʊɹ	A	
+23	Faroese	fólk		Y, Y	
+58	Norwegian Riksmal	person	pæˈʂu:n	(D)	
+58	Norwegian Riksmal	menneske	ˈmɛ̀nː(ə)skə	(A)	
+159	Stavangersk	mennesk	ˈmɛ̀nːəsk	(A)	
+157	Old Swedish	madher	ˈmaːðer	A	
+69	Swedish	person	pæˈʂu:n	(D)	
+71	Swedish Vilhelmina	PASON		(D)	
+71	Swedish Vilhelmina	MANIS		A	
+70	Swedish Uppland	PERSON		(D)	
+145	Elfdalian	persuon		(D)	
+145	Elfdalian	menistj	mɛ̀nɪstʃ	(A)	
+20	Danish	menneske		(A)	
+20	Danish	person	b̥ʰæɐ̯ˈson	(D)	
+158	Danish Fjolde	pesoon	pəˈsoːn	(D)	
+161	Gutnish Lau	människå	ˈmɛnːɪsko	(A)	
+161	Gutnish Lau	pärsåun	pɛrˈsoun	(D)	
+99	Old English	mann		A	
+22	English	person	'pɜ:sən	(D)	
+26	Frisian	minske	mẽːskə	A	
+21	Dutch	persoon	ˈpɛrson	(D)	
+21	Dutch	mens	mɛns	A	
+24	Flemish	MENSCH		A	
+24	Flemish	PERSOON		(D)	
+83	Afrikaans	PERSOON		(D)	
+87	Sranan	SOEMA			
+126	Old High German	man		E	
+126	Old High German	mennisco		A	
+27	German	Mensch	mɛnʃ	A	
+86	Pennsylvania Dutch	MENSCH		A	
+120	Luxembourgish	Mënsch		A	
+121	German Switzerland	Mensch		A	
+107	Gothic	manna		A	
+107	Gothic	and-vairþi			
+130	Oscan	humuns			
+132	Umbrian	homonus			
+112	Latin	persōna	perˈsoːna	(D)	
+112	Latin	homō	ˈhomoː	E	
+17	Catalan	persona	pəɾˈsonə	D	
+56	Portuguese	PESSOA		D	
+68	Spanish	hombre	'ombɾe	E	
+68	Spanish	PERSONA		D	
+61	Sardinian Cagliari	PERSONA		D	
+62	Sardinian Logudoro	PERSONA		D	
+63	Sardinian Nuoro	PESSONE		D	
+85	French Creole Dominica	MUA		H	
+76	Walloon	PERSONE		D	
+25	French	personne	pɛʀsɔn	D	
+57	Provencal	GENT			
+57	Provencal	òme	ˈɔme	E	
+57	Provencal	PERSOUNO		D	
+42	Ladin	HOMENS		E	
+42	Ladin	PERSUNA		D	
+42	Ladin	CRASTIAUN		V	
+146	Dolomite Ladino	persona		D	
+146	Dolomite Ladino	cristian		V	
+123	Romansh	carstiaun, stgaun		V	
+123	Romansh	uman		E	
+122	Friulian	cristian		V	
+122	Friulian	persone		D	
+39	Italian	persona	per'sona	D	
+59	Romanian	PERSOANA		D	
+59	Romanian	om	om	E	
+74	Vlach	OM		E	
+140	Gaulish	gdonios		E	
+127	Old Irish	duine	dunʹe	E	
+149	Old Cornish	den		E	
+101	Middle Cornish	den	dɛ:n	E	
+148	Old Breton	don / den		E	
+172	Middle Breton	den	ˈdeːn	E	
+12	Breton	den	ˈdeːn	E	
+150	Old Welsh	dyn		E	
+79	Welsh	dyn		E	
+79	Welsh	PERSON		(D)	
+38	Irish	duine	dɪnʲə	E	
+38	Irish	pearsa		(D)	
+115	Scottish Gaelic	pearsa		(D)	
+115	Scottish Gaelic	duine		E	
+115	Scottish Gaelic	neach			
+147	Manx	dooinney		E	
+5	[Legacy] Albanian T	njeri	ɲɛˈɾi	B	
+29	[Legacy] Greek K	PROSOPON		I	
+28	[Legacy] Greek D	PROSOPO		I	
+30	[Legacy] Greek Md	KURIOS			
+30	[Legacy] Greek Md	PROSOPO		I	
+30	[Legacy] Greek Md	ATOMO		X	
+30	[Legacy] Greek Md	ANTHROPOS		P	
+64	[Legacy] Serbocroatian	OSOBA		G	
+113	[Legacy] Serbian	čovek		N	
+89	[Legacy] Bulgarian P	LICE		F	
+49	[Legacy] Macedonian	LICE		F	
+49	[Legacy] Macedonian	covek	ˈʧɔvɛk	N	
+94	[Legacy] Russian P	LICO		F	
+93	[Legacy] Polish P	OSOBA		G	
+90	[Legacy] Byelorussian P	ASOBA		G	
+98	[Legacy] Ukrainian P	OSOBA		G	
+96	[Legacy] Slovak P	OSOBA		G	
+91	[Legacy] Czech P	OSOBA		G	
+67	[Legacy] Slovenian	OSJBA		G	
+45	[Legacy] Lithuanian O	ZMOGUS			
+11	[Legacy] Brazilian	homem	ˈomẽĩ	E	
+11	[Legacy] Brazilian	PESSOA		D	
+142	[Legacy] German Munich	Mensch		A	
+84	[Legacy] French Creole C	MUN		H	
+14	[Legacy] Breton St	den	dẽ:n	E	
+13	[Legacy] Breton Se	DEN		E	
+78	[Legacy] Welsh C	PERSON		(D)	
+37	[Legacy] Irish A	DUINE		E	

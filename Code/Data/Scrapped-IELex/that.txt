@@ -1,0 +1,194 @@
+114	Proto-Indo-European	*só, *séh₂, *tód		B	
+80	Hittite	apās		L	
+133	Luvian	apās		L	
+135	Palaic	apa-		L	
+81	Tocharian A	säm		B	
+82	Tocharian B	samp		B	
+82	Tocharian B	su		B	
+88	Albanian	ky (m.), kjo (f.)		(B)	
+88	Albanian	ai, ay (m.), ajo (f.), ata (n.)		B	
+143	Standard Albanian	atë		B	
+2	Albanian Sicily	ai, ay (m.), ajo (f.), ata (n.)		B	
+4	Albanian Corinth	ai, ay (m.), ajo (f.), ata (n.)		B	
+3	Albanian Gheg	ai, ay (m.), ajo (f.), ata (n.)		B	
+6	Albanian Tosk	ai, ay (m.), ajo (f.), ata (n.)		B	
+110	Ancient Greek	ἐκεῖνος	ekȇːnos	F, I	
+152	Tsakonian	ετηνε, ετηνα, εκειν		F, I	
+32	Greek	εκείνο	e̞ˈcino̞	F, I	
+32	Greek	να		(G)	
+31	Greek Lesbos	EKEINOS		F, I	
+129	Classical Armenian	ayn		B	
+8	Armenian Eastern	ayn	ɑɪ̯n	B	
+7	Armenian Western	AYT		B	
+128	Avestan	hō		B	
+131	Old Persian	ava			
+136	Sogdian	xw		B	
+75	Wakhi	YA		C	
+9	Baluchi	AN		C	
+118	Kurdish	ew			
+72	Tajik	on	ɔːn	B	
+54	Persian	AN (UN)		B	
+77	Waziri	AGHA, HAGHA		A	
+1	Pashto	HAGA, HUGA		A	
+138	Shughni	yā			
+52	Ossetic	ucy	wɨtsɨ	C	
+124	Ossetic Iron	wusy	wusy	C	
+125	Ossetic Digor	ječi	ječi		
+141	Kata-viri	iki		M	
+154	Vasi-vari	(u)wū		N	
+154	Vasi-vari	sū			
+153	Askunu	yäk		M	
+153	Askunu	kī			
+153	Askunu	səkə		B	
+153	Askunu	poi		N	
+105	Vedic Sanskrit	sá		B	
+162	Pāḷī	tad		B	
+41	Khaskura	TIO		B	
+51	Nepali	U		J	
+51	Nepali	TYO		B	
+106	Assamese	xeito	xeito	B	
+106	Assamese	h̰i(ye)			
+106	Assamese	teõ, tẽwe		B	
+106	Assamese	au			
+102	Oriya	se(iṭa)	se(iʈa)	B	
+10	Bengali	SETA, OTA		B	
+111	Bihari	je			
+111	Bihari	o	o	J	
+144	Magahi	ऊ	ʊ		
+151	Bhojpuri	u		J	
+104	Marwari	bo	bo		
+35	Hindi	voh	vo	J	
+119	Urdu	وُہ	woʰ	J	
+103	Sindhi	uhā		J	
+103	Sindhi	hū/ō		J	
+103	Sindhi	sō		B	
+43	Lahnda	O		J	
+53	Punjabi	O		J	
+33	Gujarati	PELU			
+50	Marathi	to, tī, te	to, ti:, te	B	
+40	Kashmiri	TIH		B	
+40	Kashmiri	ATH		B	
+65	Sinhalese	oyə	ojə		
+65	Sinhalese	arə	aɾə		
+65	Sinhalese	ee	e:		
+65	Sinhalese	AKA		C	
+34	Romani Greece	KODOVA		C	
+100	Old Church Slavonic	тъ	tʊ̆	B	
+100	Old Church Slavonic	онъ	ɔnʊ̆	F	
+95	Serbo-Croatian	taj	tâːj	B	
+95	Serbo-Croatian	onaj	ˈɔ̌naːj	F	
+15	Bulgarian	онзи	ˈɔnzi	F	
+92	Macedonian	тој	toj	B	
+92	Macedonian	оној	ˈonɔj	F	
+60	Russian	тот	tɔt	B	
+55	Polish	tamten	ˈtamtɛn	B	
+16	Belarusian	той	tɔj	B	
+73	Ukrainian	той	tɔj	B	
+66	Slovak	tamten	tamtɛn	B	
+18	Czech	tamten	ˈtamtɛn	B	
+48	Sorbian Upper	tamny	ˈtamnɘ̟	B	
+47	Sorbian Lower	wóny	ˈwɘ̟nɘ̟	F	
+47	Sorbian Lower	tamny	ˈtamnɘ̟	B	
+97	Slovenian	tisti	ˈtǐːsti	B	
+108	Old Prussian	stas		H	
+44	Latvian	tas		B	
+46	Lithuanian	TAS		B	
+109	Old Norse	sá	saː	B	
+109	Old Norse	þat	θat	B	
+36	Icelandic	sá	sauː	B	
+36	Icelandic	þessi	ˈθɛsːɪ	B	
+36	Icelandic	hinn	hɪnː	O	
+23	Faroese	hasin	ˈhɛaːsɪn	P	
+23	Faroese	tann	tʰanː	B	
+58	Norwegian Riksmal	den	dɛnː	B	
+159	Stavangersk	denne, dette, disse	ˈdɛ̀nːə, ˈdɛ̀tːə, ˈdɪ̀sːə	B	
+157	Old Swedish	thänne	ˈθænːe	B	
+157	Old Swedish	sar	saːr	B	
+69	Swedish	denne, denna	ˈdɛ̀nə, ˈdɛ̀na	B	
+71	Swedish Vilhelmina	A DANA		B	
+70	Swedish Uppland	ATT		B	
+145	Elfdalian	eð-dar; an-dar; ą̊-dar	ɛːðˈdɑːr; ɑnˈdɑːr; õːˈdɑːr	B	
+20	Danish	den, det	dɛn, de	B	
+158	Danish Fjolde	dænd	dænʲ	B	
+160	Old Gutnish	þann		B	
+161	Gutnish Lau	dän där	dɛnː (dɛːr)	B	
+99	Old English	sē		B	
+22	English	that	ðæt	B	
+26	Frisian	dat	dɔt	B	
+21	Dutch	die, dat, gene	di, dɑt, 'ɣenə	B	
+24	Flemish	DAT, DIE		B	
+83	Afrikaans	DAT		B	
+87	Sranan	DATI		B	
+126	Old High German	der			
+27	German	jener	je:nɐ	G	
+27	German	das	das	B	
+86	Pennsylvania Dutch	ASZ		B	
+120	Luxembourgish	dat		B	
+121	German Switzerland	dä/die/das		B	
+107	Gothic	sa		B	
+130	Oscan	úlleis			
+132	Umbrian	uru			
+132	Umbrian	ulu			
+112	Latin	ille	ˈilːe	E	
+17	Catalan	aquell	ə’kɛʎ		
+17	Catalan	aquiex	ə'kɛʃ	D, E	
+56	Portuguese	aquilo	ɐˈkilu	D, E	
+68	Spanish	aquel	a'kel	D, E	
+68	Spanish	ese	'ese		
+61	Sardinian Cagliari	KUDDU		D, E	
+62	Sardinian Logudoro	CUDDU		D, E	
+63	Sardinian Nuoro	KUSSU		D, E	
+85	French Creole Dominica	SA		D	
+76	Walloon	COULA		D, E	
+25	French	cela	səla	D, E	
+57	Provencal	AQUEST, ESTO		D, E	
+42	Ladin	QUEL		D, E	
+42	Ladin	LESS			
+146	Dolomite Ladino	chèl		D, E	
+123	Romansh	gliez, lez(za)		E	
+123	Romansh	quel(la)		D, E	
+122	Friulian	lui, le		E	
+122	Friulian	chel, chê		D, E	
+39	Italian	quel	kwel	D, E	
+59	Romanian	acela	aˈʧela	D, E	
+74	Vlach	ACEL		D, E	
+140	Gaulish	se, so, san(a)		B	
+127	Old Irish	sin	sʹinʹ	B	
+101	Middle Cornish	henna	'hɛn:a	B	
+101	Middle Cornish	an…se		(B)	
+101	Middle Cornish	na	na		
+172	Middle Breton	hennez m.sg., honnez, hounnez f.sg., an re-se pl.	ˈhenːes, ˈhonːes, arˈreːze		
+172	Middle Breton	an ... se	se		
+12	Breton	se		B	
+79	Welsh	hwnnw		B	
+38	Irish	sin		B	
+115	Scottish Gaelic	an...siud	an, ən...ʃʲud	(B)	
+115	Scottish Gaelic	sin		B	
+147	Manx	shen		B	
+5	[Legacy] Albanian T	ai, aj (m.), ajo (f.)		B	
+29	[Legacy] Greek K	HOTI		K	
+28	[Legacy] Greek D	HOTI		K	
+30	[Legacy] Greek Md	EKEINOS		F, I	
+64	[Legacy] Serbocroatian	DA			
+113	[Legacy] Serbian	onaj			
+113	[Legacy] Serbian	taj	tâːj		
+89	[Legacy] Bulgarian P	ON A		F	
+49	[Legacy] Macedonian	ONOJ		F	
+49	[Legacy] Macedonian	toa	tɔa	B	
+94	[Legacy] Russian P	TOT		B	
+93	[Legacy] Polish P	TAMTEN		B	
+90	[Legacy] Byelorussian P	TOJ		B	
+98	[Legacy] Ukrainian P	TOJ		B	
+19	[Legacy] Czech E	TO		B	
+96	[Legacy] Slovak P	ONEN		F	
+91	[Legacy] Czech P	ONEN		F	
+67	[Legacy] Slovenian	TISTO		B	
+45	[Legacy] Lithuanian O	TAS		B	
+11	[Legacy] Brazilian	aquilo	aˈkilu	D, E	
+142	[Legacy] German Munich	dies-er/-es/-en			
+84	[Legacy] French Creole C	SA		D	
+14	[Legacy] Breton St	an...-se	ãn...-se	B	
+14	[Legacy] Breton St	hennezh		B	
+13	[Legacy] Breton Se	EN...-SE		B	
+78	[Legacy] Welsh C	HWNNA		B	
+37	[Legacy] Irish A	SAN		B	

@@ -1,0 +1,159 @@
+114	Proto-Indo-European	*yū		A	
+80	Hittite	sumēs		A	
+133	Luvian	ūnza(s)		A	
+81	Tocharian A	yas		A	
+82	Tocharian B	yes		A	
+88	Albanian	JU, JUVE		A	
+143	Standard Albanian	ju		A	
+2	Albanian Sicily	ju		A	
+4	Albanian Corinth	ju		A	
+3	Albanian Gheg	ju		A	
+6	Albanian Tosk	ju		A	
+110	Ancient Greek	ὑμεῖς	hyːmȇːs	A	
+32	Greek	εσείς	e̞ˈsis	G	
+31	Greek Lesbos	ESEIS		G	
+129	Classical Armenian	ձեզ	jez	(A)	
+129	Classical Armenian	դուք	du-kʰ	B	
+8	Armenian Eastern	դուք	dukʰ	B	
+7	Armenian Western	դուք	tʰukʰ	B	
+128	Avestan	yūžəm		A	
+128	Avestan	vō (encl.)		A	
+136	Sogdian	šm’x		A	
+75	Wakhi	SUST		A	
+9	Baluchi	SHA		A	
+137	Zazaki	šimā		A	
+72	Tajik	sumo	ʃumɔ:	A	
+54	Persian	shoma	ʃomɒː	A	
+77	Waziri	TUS, TOSE		A	
+1	Pashto	TASI		A	
+138	Shughni	tama		A	
+139	Sarikoli	tamaš		A	
+52	Ossetic	cmax, cmaxtae	sɨmaχ, ʃɨmaχ, sɨmaχtæ, ʃɨmaχtæ	A	
+124	Ossetic Iron	šymaχ	šymaχ	A	
+125	Ossetic Digor	sumaχ	sumaχ	A	
+141	Kata-viri	šo		A	
+105	Vedic Sanskrit	yūyám		A	
+162	Pāḷī	tumhe		A	
+41	Khaskura	TIMIHARU		A	
+51	Nepali	timi-haru	timi-haru	A	
+51	Nepali	tə̃-haru	tə̃-haru	A	
+106	Assamese	ta		A	
+106	Assamese	tomo(lāk)		A	
+102	Oriya	mane	mane	H	
+102	Oriya	apɔṇɔmanɔ-nkɔ	apɔɳɔmanɔ-nkɔ	H	
+102	Oriya	tumɔmanɔ-nkɔ	tumɔmanɔ-nkɔ	A	
+10	Bengali	TUMI		A	
+111	Bihari	əhãsəb	əhãsəb	I	
+111	Bihari	tõh sabh		A	
+144	Magahi	तोहनी सब	t̪ohəni səb	A	
+104	Marwari	the	the	A	
+35	Hindi	AP (FORMAL)		H	
+35	Hindi	tum	tʊm	A	
+119	Urdu	تُم	t̪ʊm	A	
+103	Sindhi	(t)ə̃vhĩ		A	
+43	Lahnda	TUSSA		A	
+53	Punjabi	tusi	tʊsĩ	A	
+33	Gujarati	TEME		A	
+50	Marathi	apen		H	
+50	Marathi	tumhi		A	
+40	Kashmiri	TOHI		A	
+65	Sinhalese	UMBALA		C	
+34	Romani Greece	TUMEN		A	
+100	Old Church Slavonic	вы	vɯ	A	
+95	Serbo-Croatian	vi	vîː	A	
+15	Bulgarian	вие	ˈvi.ɘ	A	
+92	Macedonian	вие	ˈvi.ɛ	A	
+60	Russian	вы	vɨ	A	
+55	Polish	wy	vɘ̟	A	
+16	Belarusian	вы	vɨ	A	
+73	Ukrainian	ви	ʋɪ	A	
+66	Slovak	vy	vi	A	
+18	Czech	vy	vɪ	A	
+48	Sorbian Upper	wy	wɘ̟	A	
+47	Sorbian Lower	wy	wɘ̟	A	
+97	Slovenian	vi	vîː	A	
+108	Old Prussian	ioūs		A	
+44	Latvian	jũs		A	
+46	Lithuanian	JUS		A	
+109	Old Norse	(þ)ér	(θ)eːr	A	
+36	Icelandic	þið	θɪːð	E	
+23	Faroese	tit	tʰiːt	E	
+58	Norwegian Riksmal	dere	ˈdèːɾə	A	
+159	Stavangersk	de	deː, de, də	A	
+157	Old Swedish	i	iː	A	
+69	Swedish	ni	niː	A	
+71	Swedish Vilhelmina	JI		A	
+70	Swedish Uppland	NI			
+145	Elfdalian	ið	ɪːð	A	
+20	Danish	i	i	A	
+158	Danish Fjolde	im	im	A	
+160	Old Gutnish	ir		A	
+161	Gutnish Lau	i	iː	A	
+99	Old English	gē		A	
+22	English	you		A	
+22	English	ye	ji:	(A)	
+26	Frisian	jy, jo, jim(me)	ji, jo.u̯, 'jɪm(ə)	A	
+21	Dutch	jullie	ˈjʏli	A	
+24	Flemish	U, GY		A	
+83	Afrikaans	JULLE, JUL		A	
+87	Sranan	OENOE			
+126	Old High German	iuwih		A	
+126	Old High German	ir		A	
+27	German	ihr	i:ɐ̯	A	
+120	Luxembourgish	dir		A	
+121	German Switzerland	dir		A	
+107	Gothic	jūs		A	
+130	Oscan	uus			
+112	Latin	uōs	woːs	A	
+17	Catalan	vosaltres	buz’altrəs	A	
+56	Portuguese	vós, vocês	ˈvɔʃ, vɔˈseʃ	A	
+68	Spanish	vosotros	bo'sotɾos	A	
+68	Spanish	ustedes	us'teðes		
+61	Sardinian Cagliari	BOSATRUS		A	
+62	Sardinian Logudoro	VOS		A	
+63	Sardinian Nuoro	VOIS		A	
+85	French Creole Dominica	ZOT		F	
+76	Walloon	VOS		A	
+25	French	vous	vu	A	
+57	Provencal	VOUS, VAUTRE		A	
+42	Ladin	VUS		A	
+146	Dolomite Ladino	voiauter		A	
+146	Dolomite Ladino	voi		A	
+123	Romansh	vus		A	
+122	Friulian	vô, voaltris		A	
+39	Italian	voi	'voi	A	
+59	Romanian	voi	voj	A	
+74	Vlach	VOI		A	
+127	Old Irish	sí, sib	sʹi:, sʹiβʹ	A	
+127	Old Irish	-b-	β	(A)	
+101	Middle Cornish	hwi	ʍi:	A	
+172	Middle Breton	huy, hui, hu	ˈhui, ˈhu	A	
+12	Breton	c'hwi	ˈxwi, ˈhwi	A	
+79	Welsh	chwi	xwi	A	
+38	Irish	sibh	ʃivʲ	A	
+115	Scottish Gaelic	sibh		A	
+5	[Legacy] Albanian T	ju	ju	A	
+29	[Legacy] Greek K	SEIS		G	
+28	[Legacy] Greek D	ESEIS, SEIS		G	
+30	[Legacy] Greek Md	ESEIS, SEIS, SAS		G	
+64	[Legacy] Serbocroatian	VI		A	
+113	[Legacy] Serbian	vi	ʋîː	A	
+89	[Legacy] Bulgarian P	VIE		A	
+49	[Legacy] Macedonian	vie	viɛ	A	
+94	[Legacy] Russian P	VY		A	
+93	[Legacy] Polish P	WY		A	
+90	[Legacy] Byelorussian P	VY		A	
+98	[Legacy] Ukrainian P	VY		A	
+19	[Legacy] Czech E	VI		A	
+96	[Legacy] Slovak P	VY		A	
+91	[Legacy] Czech P	VY		A	
+67	[Legacy] Slovenian	JE		A	
+45	[Legacy] Lithuanian O	JUS		A	
+11	[Legacy] Brazilian	vocês	vɔˈses	A	
+11	[Legacy] Brazilian	vós	ˈvɔs	A	
+142	[Legacy] German Munich	ihr		A	
+84	[Legacy] French Creole C	ZOT		F	
+14	[Legacy] Breton St	c'hwi	xwi	A	
+13	[Legacy] Breton Se	HUI		A	
+78	[Legacy] Welsh C	CHWI		A	
+37	[Legacy] Irish A	SIBH		A	

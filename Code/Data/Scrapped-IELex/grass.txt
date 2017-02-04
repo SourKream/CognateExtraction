@@ -1,0 +1,155 @@
+114	Proto-Indo-European	*koino-			
+80	Hittite	wēlku		G	
+133	Luvian	zuhri			
+81	Tocharian A	āti		M	
+82	Tocharian B	atiyai		M	
+88	Albanian	BARI		C	
+143	Standard Albanian	bar		C	
+2	Albanian Sicily	BAR		C	
+4	Albanian Corinth	BAAR		C	
+3	Albanian Gheg	BAR		C	
+6	Albanian Tosk	BAR		C	
+110	Ancient Greek	πόα	póa	T	
+110	Ancient Greek	χλόη	kʰlóɛː	(J)	
+32	Greek	χορτάρι	xo̞rˈtari	I	
+31	Greek Lesbos	CHORTARI		I	
+129	Classical Armenian	խոտ	xot	D	
+8	Armenian Eastern	xot	χot	D	
+7	Armenian Western	KHOD		D	
+75	Wakhi	WUS		A	
+9	Baluchi	RENV, REM		R	
+137	Zazaki	vāš		A	
+72	Tajik	ALAF		(L)	
+54	Persian	ALAF		(L)	
+77	Waziri	WOSHE		A	
+1	Pashto	VASE		A	
+138	Shughni	wōx̆		A	
+138	Shughni	alaf		(L)	
+139	Sarikoli	savʓi		P	
+139	Sarikoli	qič		Q	
+139	Sarikoli	wux̆		A	
+52	Ossetic	kaerdaeg	kærdæɡ	O	
+124	Ossetic Iron	kɐrdɐg	kɐrdɐg	O	
+125	Ossetic Digor	kɐrdɐg	kɐrdɐg	O	
+105	Vedic Sanskrit	tŕ̥ṇam		S	
+162	Pāḷī	tiṇa		S	
+162	Pāḷī	ghāsa		(E)	
+41	Khaskura	GHAS		E	
+41	Khaskura	JHAR		N	
+51	Nepali	GHAS		E	
+106	Assamese	ghãh	ghãh	E	
+102	Oriya	ghasɔ	ghasɔ	E	
+10	Bengali	GHAS		E	
+144	Magahi	घास	ɡʰɑs	E	
+104	Marwari	charo		N	
+35	Hindi	GHAS		E	
+119	Urdu	گھاس	ɡʰɑs	E	
+103	Sindhi	gaahu		E	
+103	Sindhi	chhaachhari		N	
+43	Lahnda	GHA		E	
+53	Punjabi	KA		N	
+33	Gujarati	GHAS		E	
+50	Marathi	ghas	gʰəs	E	
+50	Marathi	gawat	'gəwət	E	
+40	Kashmiri	GASA		E	
+65	Sinhalese	TANAKOLA		S	
+34	Romani Greece	CAR		N	
+100	Old Church Slavonic	трава	trɑvɑ	H	
+95	Serbo-Croatian	trava	ˈtrǎːva	H	
+15	Bulgarian	трева	trɘˈva	H	
+92	Macedonian	трева	ˈtreva	H	
+60	Russian	трава	tra'va	H	
+55	Polish	trawa	ˈtrava	H	
+16	Belarusian	трава	traˈva	H	
+73	Ukrainian	трава	traˈʋa	H	
+66	Slovak	tráva	ˈtraːva	H	
+18	Czech	tráva	ˈtraːva	H	
+48	Sorbian Upper	trawa	ˈtʀawa	H	
+47	Sorbian Lower	tšawa	ˈtʂawa	H	
+97	Slovenian	trava	ˈtrǎːva	H	
+108	Old Prussian	schokis			
+44	Latvian	zâle		J	
+46	Lithuanian	žolė	ʒoˈlʲe:	J	
+109	Old Norse	gras	ɡras	B	
+36	Icelandic	gras	ˈɡ̊raːs	B	
+23	Faroese	gras	ˈɡ̊ɹɛaːs	B	
+58	Norwegian Riksmal	gress	ɡɾɛsː	B	
+159	Stavangersk	ɡrass	ɡʁasː	B	
+157	Old Swedish	gräs	ɡræːs	B	
+69	Swedish	gräs	grɛ:s	B	
+71	Swedish Vilhelmina	GRAS		B	
+70	Swedish Uppland	GRAS		B	
+145	Elfdalian	gras	grɑːs	B	
+20	Danish	græs	g̥ʁas	B	
+158	Danish Fjolde	grees	ɡɹeːs	B	
+161	Gutnish Lau	gras	ɡrɑːs	B	
+99	Old English	græs		B	
+22	English	grass	grɑ:s	B	
+26	Frisian	gers	gɛːs	B	
+21	Dutch	gras	ɣrɑs	B	
+24	Flemish	GRAS		B	
+83	Afrikaans	GRAS		B	
+87	Sranan	GRASI		B	
+126	Old High German	gras		B	
+27	German	Gras	gra:s	B	
+86	Pennsylvania Dutch	GRAWSZ		B	
+120	Luxembourgish	Gras		B	
+121	German Switzerland	gras		B	
+107	Gothic	hawi			
+107	Gothic	gra-s*		B	
+112	Latin	herba	ˈherba	(F)	
+112	Latin	grāmen	ˈgraːmen	B	
+17	Catalan	herba	'erβə	F	
+56	Portuguese	RELVA		F	
+56	Portuguese	herva	ˈɛɾvɐ	F	
+68	Spanish	hierba	'jeɾβa	F	
+61	Sardinian Cagliari	ERBA		F	
+62	Sardinian Logudoro	ERBA		F	
+63	Sardinian Nuoro	ERVA		F	
+85	French Creole Dominica	ZEB		F	
+76	Walloon	JEBE		F	
+25	French	herbe	ɛʀb	F	
+57	Provencal	èrba	ˈɛrβo	F	
+57	Provencal	GERME		F	
+42	Ladin	ERVA		F	
+146	Dolomite Ladino	erba		F	
+123	Romansh	erva		F	
+122	Friulian	jerbe		F	
+39	Italian	erba	'ɛrba	F	
+59	Romanian	iarbă	ˈjarbə	F	
+74	Vlach	YERBE		F	
+127	Old Irish	fér	fʹe:r	K	
+101	Middle Cornish	gwels	gwɛlz	G	
+172	Middle Breton	gueautenn	ˈgeoten	G	
+12	Breton	geot		G	
+12	Breton	LETON			
+79	Welsh	gwair		(K)	
+79	Welsh	gwellt		G	
+79	Welsh	GLASWELLT		(G)	
+38	Irish	féar		K	
+115	Scottish Gaelic	feur		K	
+5	[Legacy] Albanian T	BAR		C	
+29	[Legacy] Greek K	CHLOE		J	
+28	[Legacy] Greek D	CHORTO, CHORTARI		I	
+30	[Legacy] Greek Md	CHORTARI, CHORTO		I	
+30	[Legacy] Greek Md	GRASIDI			
+64	[Legacy] Serbocroatian	TRAVA		H	
+113	[Legacy] Serbian	trava	trǎːʋa	H	
+89	[Legacy] Bulgarian P	TREVA		H	
+49	[Legacy] Macedonian	TREVA		H	
+94	[Legacy] Russian P	TRAVA		H	
+93	[Legacy] Polish P	TRAWA		H	
+90	[Legacy] Byelorussian P	TRAVA		H	
+98	[Legacy] Ukrainian P	TRAVA		H	
+19	[Legacy] Czech E	TRAVA		H	
+96	[Legacy] Slovak P	TRAVA		H	
+91	[Legacy] Czech P	TRAVA		H	
+67	[Legacy] Slovenian	TRAVA		H	
+45	[Legacy] Lithuanian O	ZOLE		J	
+11	[Legacy] Brazilian	erva	ˈʁɾvɐ	F	
+142	[Legacy] German Munich	Gras		B	
+84	[Legacy] French Creole C	ZEB		F	
+14	[Legacy] Breton St	geot	gɛwt	G	
+13	[Legacy] Breton Se	GEAUT		G	
+78	[Legacy] Welsh C	PORFA			
+37	[Legacy] Irish A	FEAR		K	

@@ -1,0 +1,208 @@
+114	Proto-Indo-European	*uba		U	
+80	Hittite	idālus		Ac	
+133	Luvian	ādduwālis		Ac	
+81	Tocharian A	umparäñ*			
+81	Tocharian A	omäskeṃ			
+82	Tocharian B	pakwāre			
+82	Tocharian B	yolo		Ac, (Ad)	
+88	Albanian	LIG		C	
+88	Albanian	KEKJ		I	
+143	Standard Albanian	i, e keq		I	
+2	Albanian Sicily	lig		C	
+4	Albanian Corinth	PALHO			
+3	Albanian Gheg	KEKJ		I	
+6	Albanian Tosk	ILIK		C	
+173	Mycenaean Greek	ka-zo-e	kaki̯ohes	Be	
+110	Ancient Greek	κακός	kakós	Be	
+32	Greek	κακός	kaˈko̞s	Be	
+31	Greek Lesbos	KAKOS		Be	
+129	Classical Armenian	չար	čʰar		
+129	Classical Armenian	վատ	vɑt	Bc, (P)	
+8	Armenian Eastern	վատ	vɑt	Bc	
+7	Armenian Western	գէշ	kʰɛʃ		
+128	Avestan	akō		I	
+128	Avestan	aγō		I	
+131	Old Persian	gasta		Z	
+136	Sogdian	βyz-		Af	
+75	Wakhi	SUK		Ae	
+9	Baluchi	HARAB		(A)	
+9	Baluchi	GANDAGH		Z	
+72	Tajik	BAD		P	
+72	Tajik	GANDA		Z	
+54	Persian	BAD		P	
+77	Waziri	KHAROP		(A)	
+77	Waziri	BAD		(P)	
+1	Pashto	BAD		(P)	
+138	Shughni	gandā		Z	
+138	Shughni	šakki		Ae	
+139	Sarikoli	žit		Ag	
+52	Ossetic	aevzaer	ævzær	Ab	
+124	Ossetic Iron	ɐvžɐr	ɐvžɐr	Ab	
+125	Ossetic Digor	lɐʁuz	lɐʁuz	An	
+141	Kata-viri	dɪgʌr		Ah	
+105	Vedic Sanskrit	pāpás		Ai	
+162	Pāḷī	pāpa		Ai	
+41	Khaskura	NARAMRO		Aj	
+51	Nepali	GHATIYA		Ak	
+106	Assamese	hobā-nāyā		Am	
+106	Assamese	beyā	beyā	Al	
+102	Oriya	khɔrap(ɔ)	khɔrap(ɔ)	(A)	
+10	Bengali	KHARAP		(A)	
+111	Bihari	khərap	khərap	(A)	
+144	Magahi	खराब	kʰərɑb	(A)	
+104	Marwari	bəd	bəd	(P)	
+104	Marwari	bhū̃ḍō		W	
+35	Hindi	BURA		W	
+35	Hindi	KHERAB		(A)	
+119	Urdu	بُرا	bʊɾɑ	W	
+119	Urdu	خراب	χəɾɑb	(A)	
+103	Sindhi	badu		(P)	
+103	Sindhi	xərāb(u)	xərāb(u)	(A)	
+103	Sindhi	maṭhō		X	
+103	Sindhi	ḍ̄uṣ̌ṭu		Ao	
+43	Lahnda	BURA		W	
+53	Punjabi	PERA		W	
+33	Gujarati	KNERAB		(A)	
+50	Marathi	wāīt	wa͜i:ʈ	As	
+40	Kashmiri	AROTU		Ap	
+40	Kashmiri	MADA		X	
+40	Kashmiri	BAD		(P)	
+65	Sinhalese	NARAKA		Aq	
+34	Romani Greece	NASUL		Ar	
+100	Old Church Slavonic	зълъ	zʊ̆lʊ̆	G	
+95	Serbo-Croatian	loš	lɔ̂ʃ	F	
+15	Bulgarian	лош	ɫɔʃ	F	
+92	Macedonian	лош	loʃ	F	
+60	Russian	плохой	pɫɔˈxɔj	Az	
+55	Polish	zły	zwɘ̟	G	
+16	Belarusian	дрэнны	ˈdrɛnnɨ	Ba	
+73	Ukrainian	поганий	pɔˈɦanɪj	Ay	
+66	Slovak	zlý	zliː	G	
+18	Czech	špatný	ˈʃpatniː	(Bb)	
+48	Sorbian Upper	špatny	ˈʃpatnɘ̟	(Bb)	
+47	Sorbian Lower	špatny	ˈʂpatnɘ̟	(Bb)	
+97	Slovenian	slab	slab	Bd	
+108	Old Prussian	wargan			
+44	Latvian	nelabs			
+44	Latvian	slikts		(B)	
+46	Lithuanian	NEGERAS		Y	
+46	Lithuanian	blogas	ˈblo:ɡɐs	K	
+109	Old Norse	vándr	vaːndr	Q	
+109	Old Norse	dáligr	ˈdaːliɣr	(M)	
+109	Old Norse	íllr	ilːr	(R)	
+36	Icelandic	lélegur	ˈljɛːlɛɡ̊ʏr	R	
+36	Icelandic	illur	ˈɪd̥lʏr	R	
+36	Icelandic	vondur	ˈvɔnd̥ʏr	Q	
+23	Faroese	illur	ˈɪd̥lʊɹ	R	
+23	Faroese	óndur	ˈœnd̥ʊɹ	Q	
+58	Norwegian Riksmal	ille	ˈɪ̀lːə	(R)	
+58	Norwegian Riksmal	vond	ʋɔnː	Q	
+58	Norwegian Riksmal	dårlig	ˈdòːɭɪ	M	
+159	Stavangersk	fille	ˈfɪlːə	Av	
+159	Stavangersk	dårlige	ˈdòːʁlɪɡə	M	
+159	Stavangersk	idla	ˈɪ̀dla	(R)	
+159	Stavangersk	vonne	ˈʋunːə	Q	
+157	Old Swedish	ilder	ˈilder	R	
+157	Old Swedish	onder	ˈonder	Q	
+69	Swedish	usel	ˈʉ:səl	(Aw)	
+69	Swedish	illa	ɪ̀lːa	(R)	
+69	Swedish	ond	und	Q	
+69	Swedish	dålig	ˈdòːlɪ(ɡ)	M	
+71	Swedish Vilhelmina	DALI		M	
+70	Swedish Uppland	DALIG		M	
+145	Elfdalian	liuot		Au	
+145	Elfdalian	dålin	dɔ̀ːlɪn	M	
+145	Elfdalian	illa		(R)	
+145	Elfdalian	uond		Q	
+20	Danish	ond	ɔnˀ	Q	
+20	Danish	ilde	ˈilə	R	
+20	Danish	dårlig	ˈdɒːli	M	
+158	Danish Fjolde	ild	ilʲ	R	
+158	Danish Fjolde	reng	ɹeŋ	Ax	
+158	Danish Fjolde	uund	uːnʲ	Q	
+160	Old Gutnish	aumbr		At	
+160	Old Gutnish	ildr		R	
+161	Gutnish Lau	åundar	ˈoundar	Q	
+161	Gutnish Lau	dålir	ˈdoːlɪr	M	
+161	Gutnish Lau	illä	ˈɪlːɛ	(R)	
+99	Old English	yfel		U	
+22	English	bad	bæd	T	
+26	Frisian	LILK			
+26	Frisian	bar	bar	H	
+26	Frisian	ERCH			
+21	Dutch	slecht	slɛχt	B	
+24	Flemish	SLECHT		B	
+83	Afrikaans	SLEG		B	
+87	Sranan	SLEKTI		B	
+87	Sranan	OGRI		B	
+126	Old High German	ubil		U	
+27	German	schlecht	ʃlɛçt	B	
+86	Pennsylvania Dutch	SCHLECHT		B	
+120	Luxembourgish	schlecht		B	
+121	German Switzerland	schlächt		B	
+107	Gothic	ubils		U	
+130	Oscan	mallom		D	
+112	Latin	malus	ˈmalus	D	
+17	Catalan	mal	mal	D	
+56	Portuguese	mau	maw	D	
+68	Spanish	malo	'malo	D	
+61	Sardinian Cagliari	MALU		D	
+62	Sardinian Logudoro	MALU		D	
+63	Sardinian Nuoro	MALU		D	
+85	French Creole Dominica	MOVE		D	
+76	Walloon	MAL		D	
+25	French	mauvais	mɔvɛ	D	
+57	Provencal	MARRIT			
+57	Provencal	caitiu		V	
+57	Provencal	IDO			
+42	Ladin	MEL		D	
+146	Dolomite Ladino	ruo			
+123	Romansh	nausch			
+123	Romansh	mal		D	
+122	Friulian	trist			
+39	Italian	cattivo	kat'tivo	V	
+59	Romanian	rău	rəw		
+59	Romanian	prost	prost		
+74	Vlach	SLAB		N	
+127	Old Irish	olc	olk	(J)	
+127	Old Irish	droch	drox	O	
+101	Middle Cornish	bad	bad	(T)	
+101	Middle Cornish	drog	drɔ:g	O	
+172	Middle Breton	drouc	ˈdruːk	O	
+172	Middle Breton	goal, goall	ˈgoalː	L	
+12	Breton	gwall	ˈgwalː	L	
+12	Breton	drouk	ˈdruːk	O	
+12	Breton	fall	ˈfalː	E	
+79	Welsh	drwg		O	
+38	Irish	olc		(J)	
+38	Irish	dona	d̪ˠoːn̪ˠə	(Aa)	
+38	Irish	droch		O	
+115	Scottish Gaelic	droch		O	
+115	Scottish Gaelic	olc		(J)	
+115	Scottish Gaelic	dona	d̪̊ɔnə	(Aa)	
+5	[Legacy] Albanian T	keq	kɛcɕ	I	
+29	[Legacy] Greek K	KAKOS		Be	
+28	[Legacy] Greek D	KAKOS		Be	
+30	[Legacy] Greek Md	ASKEMOS			
+64	[Legacy] Serbocroatian	ZAO		G	
+113	[Legacy] Serbian	loš		F	
+89	[Legacy] Bulgarian P	ZUL		G	
+49	[Legacy] Macedonian	LOS		F	
+94	[Legacy] Russian P	ZLOJ		G	
+93	[Legacy] Polish P	ZLY		G	
+90	[Legacy] Byelorussian P	ZLY		G	
+98	[Legacy] Ukrainian P	ZLYJ		G	
+19	[Legacy] Czech E	ZLE		G	
+19	[Legacy] Czech E	SPATNE		S	
+96	[Legacy] Slovak P	ZLY		G	
+91	[Legacy] Czech P	ZLY		G	
+67	[Legacy] Slovenian	SLABU		N	
+45	[Legacy] Lithuanian O	NEGERAS		Y	
+45	[Legacy] Lithuanian O	BLOGAS		K	
+11	[Legacy] Brazilian	MAU		D	
+142	[Legacy] German Munich	schlecht		B	
+84	[Legacy] French Creole C	MOVE		D	
+14	[Legacy] Breton St	fall	fal	E	
+13	[Legacy] Breton Se	FALL		E	
+78	[Legacy] Welsh C	DRWG		O	
+37	[Legacy] Irish A	OLC		J	

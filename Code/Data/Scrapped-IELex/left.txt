@@ -1,0 +1,152 @@
+114	Proto-Indo-European	*(H)sei̯u̯ó-		T	
+133	Luvian	ipalis			
+81	Tocharian A	śālyi			
+82	Tocharian B	śwālyai			
+88	Albanian	MAJT		(C)	
+143	Standard Albanian	i, e majtë		(C)	
+2	Albanian Sicily	E-STREMBRA			
+4	Albanian Corinth	ZERVIST		U	
+3	Albanian Gheg	MAJT		(C)	
+6	Albanian Tosk	MENGER		D	
+110	Ancient Greek	λαιός	lai̯ós	(J)	
+110	Ancient Greek	ἀριστερός	aristerós	M	
+32	Greek	zerva	ze̞rˈva	(U)	
+32	Greek	αριστερός	aˌriste̞ˈra	M	
+31	Greek Lesbos	ARISTEROS		M	
+129	Classical Armenian	ձախ	jax	E	
+129	Classical Armenian	ահեակ	aheak		
+8	Armenian Eastern	jax	ʣɑχ	E	
+7	Armenian Western	ZAGH (ZARK)		E	
+128	Avestan	haoiiō		T	
+136	Sogdian	pr’γsy		Y	
+75	Wakhi	CUP		F	
+9	Baluchi	CHAP		F	
+137	Zazaki	čep		F	
+72	Tajik	CAP		F	
+54	Persian	CHAP		F	
+77	Waziri	KINR		A	
+1	Pashto	KIN		A	
+138	Shughni	čāp		F	
+139	Sarikoli	čop		F	
+52	Ossetic	galau	ɡaliw	W	
+124	Ossetic Iron	galiw	galiw	W	
+125	Ossetic Digor	galew	galew	W	
+141	Kata-viri	ka		Z	
+105	Vedic Sanskrit	savyás		T	
+162	Pāḷī	vāma		G	
+41	Khaskura	DEBRO		N	
+51	Nepali	DEBRE		N	
+106	Assamese	baõ	baõ	G	
+102	Oriya	bã	bã	G	
+10	Bengali	BA, BAM		G	
+111	Bihari	bama	bama	G	
+144	Magahi	बांमा	bɑ̃mɑ	G	
+104	Marwari	khōbalyā		O	
+35	Hindi	BAYA		G	
+119	Urdu	اُلٹے ہاتھ	ʔʊlʈe hɑt̪ʰ	Ab	
+119	Urdu	بایاں	bɑjɑ̃	G	
+103	Sindhi	khab̄ō		O	
+43	Lahnda	KHEBBA		O	
+53	Punjabi	KHEBBA		O	
+33	Gujarati	DABU		N	
+50	Marathi	dāwī bādzū	'ɖawi: 'badzu:	N	
+40	Kashmiri	KHOWORU		O	
+65	Sinhalese	VAMATA		Aa	
+34	Romani Greece	NASUL			
+100	Old Church Slavonic	шѹи	ʃyjɪ̆	T	
+100	Old Church Slavonic	лѣвъ	lævʊ̆	J	
+95	Serbo-Croatian	lijevi	ljɛ̂ːviː	J	
+15	Bulgarian	ляв	lʲav	J	
+92	Macedonian	лев	lev	J	
+60	Russian	левый	'lʲɛvɨj	J	
+55	Polish	lewy	ˈlɛvɘ̟	J	
+16	Belarusian	левы	lʲɛvɨ	J	
+73	Ukrainian	лівий	ˈlʲivɪj	J	
+66	Slovak	ľavý	ˈlʲaviː	J	
+18	Czech	levý	ˈlɛviː	J	
+48	Sorbian Upper	lěwy	ˈlɪwɘ̟	J	
+47	Sorbian Lower	lěwy	ˈlɪwɘ̟	J	
+97	Slovenian	levi	ˈlěːvi	J	
+44	Latvian	krèiss		V	
+46	Lithuanian	KAIRYS		P	
+109	Old Norse	vinstri	ˈvinstri	K	
+36	Icelandic	vinstri	ˈvɪnstrɪ	K	
+23	Faroese	vinstri	ˈvɪnstɹɪ	K	
+58	Norwegian Riksmal	venstre	ˈʋɛnstɾə	K	
+159	Stavangersk	venstre	ˈʋɛ̀nstʁə	K	
+157	Old Swedish	vinstre	ˈvinstre	K	
+69	Swedish	vänster	vɛnstər	K	
+71	Swedish Vilhelmina	VINSTAR  VANSTAR		K	
+70	Swedish Uppland	VANSTER		K	
+145	Elfdalian	wįster	ˈwɪ̃́ːstɛr	K	
+20	Danish	venstre	ˈvɛnsd̥ʰʁʌ	K	
+158	Danish Fjolde	lengs	læŋs	(B)	
+161	Gutnish Lau	vänstar	ˈvɛnstar	K	
+99	Old English	winestra		K	
+22	English	left (hand)	lɛft		
+26	Frisian	links	lɪɪks	B	
+21	Dutch	links	lɪŋks	B	
+24	Flemish	LINKSCH		B	
+83	Afrikaans	LINKS, HOT		B	
+87	Sranan	KROEKOETOE			
+126	Old High German	slinc		B	
+126	Old High German	winistar		K	
+27	German	link	lɪŋk	B	
+86	Pennsylvania Dutch	LINGSS		B	
+120	Luxembourgish	lénks		B	
+121	German Switzerland	linggs		B	
+107	Gothic	hleiduma		I	
+130	Oscan	nertrak		X	
+132	Umbrian	nertru		X	
+112	Latin	sinister	siˈnister	H	
+17	Catalan	esquerre	əs'kɛrə	S	
+17	Catalan	sinistre	si'nistɾə	H	
+56	Portuguese	esquerda	ɨʃˈkeɾdɐ	S	
+68	Spanish	izquierda	iθ'kjeɾða	S	
+61	Sardinian Cagliari	MANKA		R	
+62	Sardinian Logudoro	INFAUSTU			
+63	Sardinian Nuoro	MANKA		R	
+85	French Creole Dominica	GOS		L	
+76	Walloon	GOCHE		L	
+25	French	gauche	goʃ	L	
+57	Provencal	GAUCHE, AUCHO		L	
+42	Ladin	SCHNESTER		H	
+146	Dolomite Ladino	zanch			
+123	Romansh	sanester		H	
+122	Friulian	çampe			
+39	Italian	sinistro	si'nistro	H	
+59	Romanian	stâng		Q	
+74	Vlach	ASTEGU		Q	
+127	Old Irish	clé	kʹlʹe:	I	
+101	Middle Cornish	kledh		I	
+172	Middle Breton	cleiz, cleïz	ˈklejs	I	
+12	Breton	kleiz	ˈklɛjs	I	
+79	Welsh	aswy		(T)	
+79	Welsh	chwith		P	
+38	Irish	clé	clʲeː	I	
+115	Scottish Gaelic	clì		I	
+5	[Legacy] Albanian T	i, e mëngjër		D	
+29	[Legacy] Greek K	ARISTERA		M	
+28	[Legacy] Greek D	ARISTERO		M	
+30	[Legacy] Greek Md	DZERBOS		U	
+30	[Legacy] Greek Md	ARISTEROS		M	
+64	[Legacy] Serbocroatian	LJEVICA		J	
+113	[Legacy] Serbian	levi		J	
+89	[Legacy] Bulgarian P	L AV		J	
+49	[Legacy] Macedonian	LEV		J	
+94	[Legacy] Russian P	LEVYJ		J	
+93	[Legacy] Polish P	LEWY		J	
+90	[Legacy] Byelorussian P	LEVY		J	
+98	[Legacy] Ukrainian P	LIVYJ		J	
+19	[Legacy] Czech E	LEVO		J	
+96	[Legacy] Slovak P	L AVY		J	
+91	[Legacy] Czech P	LEVY		J	
+67	[Legacy] Slovenian	LEVIC		J	
+45	[Legacy] Lithuanian O	KAIRINIS		P	
+11	[Legacy] Brazilian	ESQUERDO		S	
+142	[Legacy] German Munich	links		B	
+84	[Legacy] French Creole C	GOS		L	
+14	[Legacy] Breton St	kleiz	klɛjs	I	
+13	[Legacy] Breton Se	KLEI		I	
+78	[Legacy] Welsh C	CHWITH		P	
+37	[Legacy] Irish A	CLE		I	

@@ -1,0 +1,198 @@
+114	Proto-Indo-European	*pleh₂g-, *pleh₂k-			
+80	Hittite	walhzi			
+133	Luvian	dūpiti		Aj	
+134	Lycian	tubidi		Aj	
+81	Tocharian A	kärn-		Q	
+82	Tocharian B	kärn-		Q	
+88	Albanian	RRAF		C	
+143	Standard Albanian	godas		(D)	
+2	Albanian Sicily	FORT			
+4	Albanian Corinth	I BIE (AOR. I-RAASE)			
+3	Albanian Gheg	RRAF		C	
+3	Albanian Gheg	SILL			
+6	Albanian Tosk	godas		(D)	
+110	Ancient Greek	τύπτω	týptɔː	K	
+32	Greek	χτυπώ	xtiˈpo̞	L	
+31	Greek Lesbos	CHTUPO		L	
+129	Classical Armenian	հարկանեմ	harkanem		
+8	Armenian Eastern	x'pel	χəˈpʰɛl		
+8	Armenian Eastern	harvacel	hɑɾvɑˈʦɛl		
+8	Armenian Eastern	zarkel		(E)	
+7	Armenian Western	ZARNELL		E	
+128	Avestan	ǰainti		N	
+131	Old Persian	ǰantiy		N	
+136	Sogdian	zn		N	
+75	Wakhi	DI-		Ac	
+9	Baluchi	JANAGH		N	
+137	Zazaki	piro-dāyiš		Ae	
+137	Zazaki	kuwāyiš		Ad	
+72	Tajik	ZADAN, ZARBA ZADAN		N	
+54	Persian	ZADAN		N	
+77	Waziri	TAKAWEL		Af	
+77	Waziri	WAHEL		A	
+1	Pashto	VAHEL		A	
+52	Ossetic	cavyn	ʦavɨn	Ab	
+52	Ossetic	NAEMYN			
+124	Ossetic Iron	sɐv-	sɐv-	Ab	
+125	Ossetic Digor	cɐv-	cɐv-	Ab	
+105	Vedic Sanskrit	hánti		N	
+162	Pāḷī	abhihanati		N	
+41	Khaskura	HIRKANU			
+41	Khaskura	HANNU		N	
+51	Nepali	THOKNU		R	
+51	Nepali	HANNU		N	
+106	Assamese	pit	pit	S	
+106	Assamese	kilāni			
+106	Assamese	mār(ā)		F	
+102	Oriya	piṭiba	piʈiba	S	
+102	Oriya	bɔṛe-	bɔɽe-		
+10	Bengali	MARA		F	
+111	Bihari	marəb	marəb	F	
+144	Magahi	मरना	mɑrnɑ		
+104	Marwari	māraṇō		F	
+104	Marwari	ʈhokalã	ʈhokalã	R	
+104	Marwari	kūṭ			
+35	Hindi	marna	marna	F	
+119	Urdu	ٹکرانا	ʈəkɾɑnə	R	
+103	Sindhi	mārīṇū		F	
+43	Lahnda	MAREN		F	
+53	Punjabi	MARNA		F	
+53	Punjabi	THOKKER		R	
+33	Gujarati	MAREWU		F	
+50	Marathi	mārne	'maɾɳe	F	
+50	Marathi	apetne		S	
+40	Kashmiri	LAYUN			
+65	Sinhalese	GAHANAWA			
+34	Romani Greece	CALAVAV			
+100	Old Church Slavonic	ѹдарити	udɑriti	I	
+95	Serbo-Croatian	udariti	ˈǔdariti	I	
+15	Bulgarian	удрям	ˈudrʲəm	I	
+92	Macedonian	удира	ˈudira	I	
+60	Russian	ударять	udaˈrʲatʲ	I	
+55	Polish	uderzać	uˈdɛʐaʨ	I	
+16	Belarusian	удараць	udaˈratsʲ	I	
+73	Ukrainian	ударяти	udaˈrʲatɪ	I	
+66	Slovak	uderiť	ˈuɟɛric	I	
+18	Czech	udeřit	ˈudɛr̝ɪt	I	
+48	Sorbian Upper	dyrić	ˈdɘ̟ʀitʃ	I	
+47	Sorbian Lower	deriś	ˈdɛrʲiɕ	I	
+97	Slovenian	udarjati	uˈdǎːrjati	I	
+108	Old Prussian	kyrteis			
+108	Old Prussian	trīnktweī			
+44	Latvian	sit		U	
+46	Lithuanian	MUSTI			
+109	Old Norse	berja	ˈberja	(X)	
+109	Old Norse	drepa	ˈdrepa	(W)	
+109	Old Norse	slá	slaː	V	
+109	Old Norse	lýstr		(Ag)	
+36	Icelandic	berja	ˈb̥ɛrja	X	
+36	Icelandic	slá	stlauː	V	
+36	Icelandic	drepa	ˈd̥rɛːpʰa	W	
+23	Faroese	sláa	ˈslo̜ːa	V	
+23	Faroese	berja		X	
+58	Norwegian Riksmal	slå	ʃloː	V	
+159	Stavangersk	treffa	ˈtʁɛ̀fːa	(W)	
+159	Stavangersk	slå	sloː	V	
+157	Old Swedish	sla	slaː	V	
+69	Swedish	slå	slo:	V	
+71	Swedish Vilhelmina	SLA  SLA		V	
+70	Swedish Uppland	TRAFFA		W	
+145	Elfdalian	slå	l̥lɔː	V	
+145	Elfdalian	daindja	ˈdɑ̀ɪndʒɑ	(Ah)	
+20	Danish	ramme	ˈʁɑmə	(Ai)	
+20	Danish	slå	slɔˀ	V	
+20	Danish	træffe	ˈd̥ʰʁafə	(W)	
+158	Danish Fjolde	sloa	sloa	V	
+160	Old Gutnish	beria		X	
+160	Old Gutnish	sla		V	
+161	Gutnish Lau	sla	slɑː	V	
+99	Old English	sliehþ		V	
+99	Old English	bēatt			
+22	English	to hit	hɪt	(P)	
+26	Frisian	SLAEN		V	
+21	Dutch	stoten	'stotə(n)	(K)	
+21	Dutch	slaan	slan	V	
+21	Dutch	raken	rakə(n)	(B)	
+24	Flemish	SLAEN		V	
+24	Flemish	RAKEN		B	
+24	Flemish	TREFFEN		W	
+83	Afrikaans	SLAAN		V	
+83	Afrikaans	RAPS			
+87	Sranan	NAKI			
+126	Old High German	slehit		V	
+27	German	schlagen	'ʃla:gŋ̩	V	
+27	German	treffen	'trɛfn̩	W	
+86	Pennsylvania Dutch	SCHLOCK		V	
+120	Luxembourgish	schloen		V	
+121	German Switzerland	houe			
+107	Gothic	stautiþ		(K)	
+107	Gothic	slahiþ		V	
+107	Gothic	bliggwiþ			
+112	Latin	ferīre	feˈriːre	X	
+17	Catalan	copejar	kupə'ʒa	G	
+17	Catalan	batre	'batɾə	Y	
+56	Portuguese	DAR UMA PANCADA			
+56	Portuguese	bater	bɐˈteɾ		
+68	Spanish	golpear	ɡolpe'aɾ	G	
+61	Sardinian Cagliari	PIGAI		Z	
+62	Sardinian Logudoro	COLPIRE		G	
+63	Sardinian Nuoro	KURPIRE		G	
+85	French Creole Dominica	FUTE		J	
+76	Walloon	FERI		X	
+76	Walloon	MAKER D'SSUS			
+76	Walloon	(SOMEONE) BOUHI			
+25	French	frapper	fʀape		
+57	Provencal	PICA		Z	
+57	Provencal	BACELA			
+57	Provencal	TABASA			
+42	Ladin	COLPIR		G	
+146	Dolomite Ladino	bate, sbate		Y	
+123	Romansh	batter		Y	
+122	Friulian	colpî		G	
+39	Italian	colpire	kol'pire	G	
+39	Italian	battere	'battere	Y	
+59	Romanian	A NIMERI			
+59	Romanian	a lovi			
+74	Vlach	AGUDESKU			
+127	Old Irish	búailid	bu:əlʹəðʹ	M	
+127	Old Irish	benaid	bʹenəðʹ	T	
+101	Middle Cornish	cnoncyé			
+101	Middle Cornish	skwattya	'skwatja	H	
+101	Middle Cornish	caro			
+101	Middle Cornish	terhi			
+101	Middle Cornish	thehesy			
+101	Middle Cornish	fyscy		(Aa)	
+101	Middle Cornish	gweskel	'gwɛskɛl	Aa	
+172	Middle Breton	squeiff, squeyff	ˈskejṽ	H	
+12	Breton	skoiñ, skeiñ	ˈskoi, ˈskei	H	
+79	Welsh	taro		O	
+38	Irish	do bhualadh		(M)	
+38	Irish	buail	bˠuəlʲ	M	
+38	Irish	amas			
+115	Scottish Gaelic	buail	ˈbuɪl	M	
+5	[Legacy] Albanian T	ME GODITUR		(D)	
+29	[Legacy] Greek K	KTUPO		L	
+28	[Legacy] Greek D	CHLUPAO			
+30	[Legacy] Greek Md	CHTUPO		L	
+64	[Legacy] Serbocroatian	UDARITI		I	
+113	[Legacy] Serbian	udariti	ǔdarati		
+89	[Legacy] Bulgarian P	UDAR AM		I	
+49	[Legacy] Macedonian	PERNE			
+94	[Legacy] Russian P	UDARIT		I	
+93	[Legacy] Polish P	UDERZAC		I	
+90	[Legacy] Byelorussian P	UDARAC		I	
+98	[Legacy] Ukrainian P	UDARYTY		I	
+19	[Legacy] Czech E	UDERIT		I	
+19	[Legacy] Czech E	BIT		T	
+96	[Legacy] Slovak P	UDERIT		I	
+91	[Legacy] Czech P	BITI		T	
+67	[Legacy] Slovenian	UDARIT		I	
+45	[Legacy] Lithuanian O	SUDUOTI			
+11	[Legacy] Brazilian	GOLPEAR		G	
+142	[Legacy] German Munich	schlagen		V	
+84	[Legacy] French Creole C	FUTE, BAY KU		J	
+14	[Legacy] Breton St	skeiñ	'skɛĩ	H	
+13	[Legacy] Breton Se	SKOEIN		H	
+78	[Legacy] Welsh C	BWRW			
+78	[Legacy] Welsh C	TARO		O	
+37	[Legacy] Irish A	BUALADH		M	

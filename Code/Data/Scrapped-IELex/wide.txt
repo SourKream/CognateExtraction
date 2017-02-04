@@ -1,0 +1,171 @@
+80	Hittite	palhis		D	
+81	Tocharian A	wärts			
+82	Tocharian B	aurtstse			
+88	Albanian	GJAN		C	
+143	Standard Albanian	i, e gjerë		C	
+2	Albanian Sicily	I-GER		C	
+4	Albanian Corinth	I GERE		C	
+3	Albanian Gheg	GJAN		C	
+6	Albanian Tosk	I-GERE		C	
+110	Ancient Greek	εὐρύς	eurýs	L	
+32	Greek	πλατύς	pla'tis	(D)	
+32	Greek	φαρδύς	farˈðis	M	
+31	Greek Lesbos	FARDUS		M	
+129	Classical Armenian	յաղթ	yaɫt‘	(D)	
+129	Classical Armenian	լայն	layn	D	
+8	Armenian Eastern	լայն	lɑɪ̯n	D	
+7	Armenian Western	լայն	lɑjn	D	
+128	Avestan	pərəθuš		D	
+128	Avestan	paθanō		A	
+136	Sogdian	pδn’y		A	
+75	Wakhi	KESOD		K	
+75	Wakhi	FERUX		A	
+9	Baluchi	PRAH		A	
+137	Zazaki	herā		A	
+72	Tajik	VASE		S	
+54	Persian	PAHN		A	
+54	Persian	GOSHAD		K	
+77	Waziri	PLAN		J	
+1	Pashto	PRAX		A	
+138	Shughni	firōx		U	
+138	Shughni	dax̆t		T	
+139	Sarikoli	k(ы/ix̆)uδ		V	
+124	Ossetic Iron	wɐrɐχ	wɐrɐχ	R	
+125	Ossetic Digor	wuruχ	wuruχ	R	
+105	Vedic Sanskrit	pr̥thús		D	
+105	Vedic Sanskrit	urús		L	
+162	Pāḷī	uru		L	
+41	Khaskura	GAJILO		N	
+51	Nepali	CAURO		E	
+51	Nepali	PHATILO		O	
+51	Nepali	GAJILO		N	
+106	Assamese	bɒhɒlu	bɒhɒlu	O	
+102	Oriya	osaria	osaria	W	
+102	Oriya	cɔuḍau	cɔuɖau	E	
+10	Bengali	COORA		E	
+144	Magahi	चौला	cɔlɑ	X	
+35	Hindi	CORA		E	
+119	Urdu	چَوڑا	ˈʧɔ.ɽə	E	
+103	Sindhi	vēkirō		Y	
+43	Lahnda	CORA		E	
+53	Punjabi	CORA		E	
+33	Gujarati	POHLU		O	
+50	Marathi	rũnda	'ɾũndə	Z	
+40	Kashmiri	KHULA		Aa	
+65	Sinhalese	PALAL		O	
+34	Romani Greece	BULO		O	
+100	Old Church Slavonic	широкъ	ʃirɔkʊ̆	G	
+95	Serbo-Croatian	širok	ˈʃǐrɔk	G	
+15	Bulgarian	широк	ʃiˈrɔk	G	
+92	Macedonian	широк	ˈʃirɔk	G	
+60	Russian	широкий	ʂɨ'rɔkʲij	G	
+55	Polish	szeroki	ʂɛˈrɔkʲi	G	
+16	Belarusian	шырокі	ʂɨˈrɔkʲi	G	
+73	Ukrainian	широкий	ʂɪˈrɔkɪj	G	
+66	Slovak	široký	ˈʃirɔkiː	G	
+18	Czech	široký	ˈʃɪrɔkiː	G	
+48	Sorbian Upper	šěroki	ˈʃɪʀɔki	G	
+47	Sorbian Lower	šyroki	ˈʂɘ̟rɔki	G	
+97	Slovenian	širok	ʃiˈrɔk	G	
+44	Latvian	plats		D	
+46	Lithuanian	PLATUS		D	
+109	Old Norse	víðr	viːðr	B	
+109	Old Norse	breiðr	brɛiðr	I	
+36	Icelandic	víður	ˑviːðʏr	B	
+36	Icelandic	breiður	ˈb̥reiːðʏr	I	
+23	Faroese	breiður	ˈb̥raiːjʊɹ	I	
+23	Faroese	víður	ˈvʊiːjʊɹ	B	
+58	Norwegian Riksmal	bred	bɾeː	I	
+58	Norwegian Riksmal	vid	ʋiː	B	
+159	Stavangersk	vie	ˈʋiːə	B	
+159	Stavangersk	breie	ˈbʁɛɪə	I	
+157	Old Swedish	vidher	ˈviːðer	B	
+157	Old Swedish	bredher	ˈbreːðer	I	
+69	Swedish	bred	breːd	I	
+69	Swedish	vid	viːd	B	
+71	Swedish Vilhelmina	VI		B	
+71	Swedish Vilhelmina	BRE		I	
+70	Swedish Uppland	VID		B	
+70	Swedish Uppland	BRED		I	
+145	Elfdalian	brieð	brɪɛːð	I	
+145	Elfdalian	waiðum	ˈwɑ̀ɪðʉm	B	
+20	Danish	bred	b̥ʁɛˀð	I	
+20	Danish	vid	viðˀ	B	
+158	Danish Fjolde	vii	viː	B	
+158	Danish Fjolde	brie	bɹie	I	
+160	Old Gutnish	braiþr		I	
+161	Gutnish Lau	braidar	ˈbraɪdar	I	
+161	Gutnish Lau	väidar	ˈvɛɪdar	B	
+99	Old English	brād		I	
+99	Old English	wīd		B	
+22	English	broad		I	
+22	English	wide	waɪd	B	
+26	Frisian	wiid	vi:t	B	
+21	Dutch	breed		I	
+21	Dutch	wijd, ruim	wɛit, rœym	B	
+24	Flemish	WYD		B	
+83	Afrikaans	WYDE		B	
+87	Sranan	BRADI		I	
+126	Old High German	breit		I	
+126	Old High German	wīt		B	
+27	German	breit	braĭt	I	
+86	Pennsylvania Dutch	BRAYT		I	
+120	Luxembourgish	breet		I	
+121	German Switzerland	wit		B	
+107	Gothic	braiþs		I	
+112	Latin	lātus	ˈlaːtus	P	
+17	Catalan	ample	'amplə	H	
+56	Portuguese	largo	ˈlaɾɣu	F	
+68	Spanish	ancho	'anʧo	H	
+61	Sardinian Cagliari	LARGU		F	
+62	Sardinian Logudoro	LARGU		F	
+63	Sardinian Nuoro	LARGU		F	
+85	French Creole Dominica	LAZ		F	
+76	Walloon	LADJE		F	
+25	French	large	laʀʒ	F	
+57	Provencal	LARG, ARGO, LARGE		F	
+42	Ladin	LARG, LED		F	
+146	Dolomite Ladino	larch		F	
+123	Romansh	lad, lartg		F	
+122	Friulian	larc		F	
+39	Italian	largo	'largo	F	
+59	Romanian	LAT		P	
+59	Romanian	larg	larg	F	
+74	Vlach	LARGU		F	
+140	Gaulish	litanos		D	
+127	Old Irish	lethan	lʹeθən	D	
+101	Middle Cornish	ledan	'lɛdan	D	
+172	Middle Breton	ledan	ˈleːdan	D	
+12	Breton	lark	larg-k	(F)	
+12	Breton	frank	frɑ̃ŋ-k	(Q)	
+12	Breton	ec'hon	ˈeːɣõn	(Q)	
+12	Breton	ledan	ˈleːdɑ̃n	D	
+79	Welsh	llydan	ˈɬədan	D	
+38	Irish	fairsing		(Q)	
+38	Irish	leathan	l̻ʲahən̻ˠ	D	
+115	Scottish Gaelic	leathann		D	
+5	[Legacy] Albanian T	i gjerë		C	
+29	[Legacy] Greek K	FARDUS		M	
+28	[Legacy] Greek D	FARDUS		M	
+30	[Legacy] Greek Md	FARDUS		M	
+30	[Legacy] Greek Md	PLATUS		D	
+64	[Legacy] Serbocroatian	SIROK		G	
+113	[Legacy] Serbian	širok	ʃǐrok	G	
+89	[Legacy] Bulgarian P	SIROK		G	
+49	[Legacy] Macedonian	SI'ROK		G	
+94	[Legacy] Russian P	SYROKIJ		G	
+93	[Legacy] Polish P	SZEROKI		G	
+90	[Legacy] Byelorussian P	SYROKI		G	
+98	[Legacy] Ukrainian P	SYROKYJ		G	
+19	[Legacy] Czech E	SIROKE		G	
+96	[Legacy] Slovak P	SIROKY		G	
+91	[Legacy] Czech P	SIROKY		G	
+67	[Legacy] Slovenian	SROKO		G	
+45	[Legacy] Lithuanian O	PLATUS		D	
+11	[Legacy] Brazilian	largo	ˈlaʁgu	F	
+142	[Legacy] German Munich	breit		I	
+84	[Legacy] French Creole C	LAZ		F	
+14	[Legacy] Breton St	ledan	'le:dãn	D	
+13	[Legacy] Breton Se	LEDAN		D	
+78	[Legacy] Welsh C	LLYDAN		D	
+37	[Legacy] Irish A	LEATHAN		D	

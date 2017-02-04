@@ -1,0 +1,186 @@
+114	Proto-Indo-European	*mey-		H	
+80	Hittite	kappis		A	
+81	Tocharian A	lykäly		Q	
+81	Tocharian A	tsru			
+82	Tocharian B	totka			
+82	Tocharian B	lykaśke		Q	
+88	Albanian	vogël		C	
+143	Standard Albanian	i, e vogël		C	
+2	Albanian Sicily	vogël		C	
+4	Albanian Corinth	vogël		C	
+3	Albanian Gheg	vogël		C	
+6	Albanian Tosk	vogël		C	
+110	Ancient Greek	μικρός	mikrós	K	
+152	Tsakonian	μιτσι		K	
+32	Greek	μικρός	miˈkro̞s	K	
+31	Greek Lesbos	MIKROS		K	
+129	Classical Armenian	փոքր	pʰokʰr	S	
+8	Armenian Eastern	p’ok’r	pʰoˈkʰəɾ	S	
+7	Armenian Western	BUZDIG			
+128	Avestan	kasuš		V	
+136	Sogdian	kβn’kk		W	
+75	Wakhi	ZUQ, ZUQIQ, ZUQULAEI		D	
+9	Baluchi	KIK		D	
+118	Kurdish	biçûk		D	
+137	Zazaki	šenik		X	
+137	Zazaki	qiž		Z	
+137	Zazaki	werdī		Y	
+72	Tajik	XUDR, MAJDA		L	
+54	Persian	kuchek	kʰuːtʃʰekʲ	D	
+77	Waziri	KAM, KAMKAI		A	
+77	Waziri	WRIKAI WOR		O	
+1	Pashto	KUCNAJ		D	
+1	Pashto	VOR		O	
+138	Shughni	žal		Aa	
+139	Sarikoli	ʓыl		Ab	
+52	Ossetic	cysyl, gyccyl	tʃɨsɨl, ɡɨts'ɨl	D	
+124	Ossetic Iron	gyccyl	gyccyl	D	
+125	Ossetic Digor	mink'ij	mink'ij		
+141	Kata-viri	pʌrmi		T	
+154	Vasi-vari	bannia			
+153	Askunu	lakurə			
+105	Vedic Sanskrit	árbhas			
+162	Pāḷī	khudda		U	
+41	Khaskura	SIANO		R	
+51	Nepali	CHOTO		E	
+51	Nepali	SANU		R	
+51	Nepali	JHINU			
+106	Assamese	xɔru	xɔru		
+102	Oriya	choṭɔ	choʈɔ	E	
+10	Bengali	CHOTO		E	
+111	Bihari	choʈ	choʈ	E	
+144	Magahi	छोट	cʰot(ɑ)	E	
+104	Marwari	lhō&dcirc;ō			
+35	Hindi	chota	tʃʰoˈʈa	E	
+119	Urdu	چھوٹا	ˈʧʰo.ʈə	E	
+103	Sindhi	thōrō			
+103	Sindhi	nanḍhō			
+43	Lahnda	CHOTA		E	
+53	Punjabi	CHOTTA		E	
+33	Gujarati	NAHNU			
+50	Marathi	tSotā	'tʃoʈa	E	
+50	Marathi	lahān	lə'ɦan		
+40	Kashmiri	LUKU, LOKUTU, NIKA			
+65	Sinhalese	KUDA			
+65	Sinhalese	PODI			
+34	Romani Greece	XURDO		(L)	
+100	Old Church Slavonic	малъ	mɑlʊ̆	H	
+95	Serbo-Croatian	malen	ˈmǎlɛn	H	
+15	Bulgarian	малък	ˈmaɫək	H	
+92	Macedonian	мал	mal	H	
+60	Russian	маленький	'malʲɛnʲkʲij	H	
+55	Polish	mały	ˈmawɘ̟	H	
+16	Belarusian	маленькі	ˈmalʲɛnʲkʲi	H	
+73	Ukrainian	малий	maˈɫɪj	H	
+66	Slovak	malý	ˈmaliː	H	
+18	Czech	malý	maliː	H	
+48	Sorbian Upper	małki	ˈmawki	H	
+47	Sorbian Lower	mały	mawɘ̟	H	
+97	Slovenian	majhen	ˈmâːjhən	H	
+108	Old Prussian	likuts		J	
+44	Latvian	mazs		N	
+46	Lithuanian	mazas	ˈma:ʒɐs	N	
+109	Old Norse	lítill	ˈliːtilː	P	
+109	Old Norse	smár	smaːr	K	
+36	Icelandic	smár	smauːr	K	
+36	Icelandic	lítill	ˈliːtɪd̥l	P	
+23	Faroese	smáur	ˈsmɔaːvʊɹ	K	
+23	Faroese	lítil	ˈlʊiːtʰɪl	P	
+58	Norwegian Riksmal	små	smoː	K	
+58	Norwegian Riksmal	liten	ˈlìːtən	P	
+159	Stavangersk	lidn	ˈlìːdn̩	P	
+159	Stavangersk	småe	ˈsmoːə	K	
+157	Old Swedish	smar	smaːr	K	
+157	Old Swedish	litil	ˈliːtil	P	
+69	Swedish	liten	ˈlìːtən	P	
+69	Swedish	små	smoː	K	
+71	Swedish Vilhelmina	LITN		P	
+70	Swedish Uppland	LITEN		P	
+145	Elfdalian	litn	lɪ̀ːtn̩	P	
+145	Elfdalian	smą̊	smõː	K	
+20	Danish	lille	ˈlilə	P	
+20	Danish	små	smɔˀ	K	
+158	Danish Fjolde	lild	lilʲ	P	
+158	Danish Fjolde	smoa	smoa	K	
+160	Old Gutnish	smar		K	
+161	Gutnish Lau	läitn	lɛɪtn	P	
+161	Gutnish Lau	smaar	ˈsmɑːar	K	
+99	Old English	lȳtel		J	
+99	Old English	smæl		H	
+22	English	small	smɔ:l	H	
+26	Frisian	klien	kli.ən	B	
+21	Dutch	klein	klɛin	B	
+24	Flemish	KLEIN		B	
+83	Afrikaans	KLEIN		B	
+87	Sranan	PIKIN			
+126	Old High German	smal		H	
+126	Old High German	luzzil		P	
+27	German	klein	klaĭn	B	
+86	Pennsylvania Dutch	GLAY		B	
+120	Luxembourgish	kleng		B	
+121	German Switzerland	chlii		B	
+107	Gothic	leitils		P	
+130	Oscan	malaks			
+112	Latin	paruus	ˈparwus		
+17	Catalan	petit	pə'tit	I	
+56	Portuguese	pequeno	pɨˈkenu	F	
+68	Spanish	pequeño	pe'keɲo	F	
+61	Sardinian Cagliari	PITTIKKU		I	
+62	Sardinian Logudoro	PICOCCU		M	
+63	Sardinian Nuoro	MINORE			
+85	French Creole Dominica	PITI		I	
+76	Walloon	P(I)TIT		I	
+25	French	petit	pəti	I	
+57	Provencal	OTO			
+57	Provencal	PICHOT		I	
+57	Provencal	PICHOUN		M	
+42	Ladin	PITSCHEN		M	
+146	Dolomite Ladino	picol		M	
+123	Romansh	manü, manedel			
+123	Romansh	petschen		M	
+123	Romansh	pign			
+122	Friulian	piçul		M	
+122	Friulian	picinin		M	
+39	Italian	piccolo	'pikkolo	M	
+59	Romanian	MARUNT			
+59	Romanian	mic	mik	K	
+74	Vlach	NIKU			
+140	Gaulish	bikko-		G	
+140	Gaulish	meion			
+140	Gaulish	lagu-, lau			
+127	Old Irish	bec, becc	bʹeg, bʹek	G	
+149	Old Cornish	boghan		G	
+101	Middle Cornish	byghan, bian	'bɪhan, 'bi:ɐn	G	
+148	Old Breton	bican		G	
+172	Middle Breton	bihan, bichan, bigan, byhan, bian	ˈbijan		
+12	Breton	bihan		G	
+150	Old Welsh	bichan		G	
+79	Welsh	bach		G	
+38	Irish	caol			
+38	Irish	beag		G	
+115	Scottish Gaelic	beag	b̊eɡ	G	
+147	Manx	beg		G	
+5	[Legacy] Albanian T	vogël	ˈvɔɡəl	C	
+29	[Legacy] Greek K	MIKROS		K	
+28	[Legacy] Greek D	MIKROS		K	
+30	[Legacy] Greek Md	MIKROS		K	
+64	[Legacy] Serbocroatian	MALI		H	
+113	[Legacy] Serbian	mali		H	
+89	[Legacy] Bulgarian P	MALUK		H	
+49	[Legacy] Macedonian	mal	mal	H	
+94	[Legacy] Russian P	MALYJ		H	
+93	[Legacy] Polish P	MALY		H	
+90	[Legacy] Byelorussian P	MALY		H	
+98	[Legacy] Ukrainian P	MALYJ		H	
+19	[Legacy] Czech E	MALE		H	
+96	[Legacy] Slovak P	MALY		H	
+91	[Legacy] Czech P	MALY		H	
+67	[Legacy] Slovenian	MAJKEN, MICKN		H	
+45	[Legacy] Lithuanian O	MAZAS		N	
+11	[Legacy] Brazilian	pequeno	piˈkenu	F	
+142	[Legacy] German Munich	klein		B	
+84	[Legacy] French Creole C	PITI		I	
+14	[Legacy] Breton St	bihan	'bi:ãn	G	
+13	[Legacy] Breton Se	BIHAN		G	
+78	[Legacy] Welsh C	BACH		G	
+37	[Legacy] Irish A	BEAG		G	

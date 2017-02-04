@@ -1,0 +1,167 @@
+114	Proto-Indo-European	*me-		(D)	
+114	Proto-Indo-European	*h₁eg̑h₂-óm		A	
+80	Hittite	ūk		A	
+133	Luvian	(a)mu		D	
+134	Lycian	emu		D	
+134	Lycian	ẽmu		D	
+81	Tocharian A	näṣ		A	
+82	Tocharian B	ñäś		A	
+88	Albanian	unë		A	
+143	Standard Albanian	unë		A	
+2	Albanian Sicily	unë		A	
+4	Albanian Corinth	unë		A	
+3	Albanian Gheg	un		A	
+6	Albanian Tosk	unë		A	
+110	Ancient Greek	ἐγώ	eɡɔ́ː	A	
+152	Tsakonian	εζου		A	
+32	Greek	εγώ	e̞ˈɣo̞	A	
+31	Greek Lesbos	EGO		A	
+129	Classical Armenian	զիս	z-is	(A)	
+129	Classical Armenian	ես	ɛs	A	
+8	Armenian Eastern	ես	jɛs	A	
+7	Armenian Western	ես	jɛs	A	
+128	Avestan	azəm		A	
+128	Avestan	mąm		A	
+131	Old Persian	mām		(A)	
+131	Old Persian	adam		A	
+136	Sogdian	’zw		A	
+174	Khotanese	aysu	ɐzu	A	
+75	Wakhi	WUZ		A	
+9	Baluchi	MAN		A	
+118	Kurdish	min		A	
+118	Kurdish	ez		A	
+137	Zazaki	ez		A	
+72	Tajik	man	mæn	A	
+54	Persian	man	mæn	A	
+77	Waziri	ZE		A	
+1	Pashto	ZE		A	
+138	Shughni	wuz		A	
+139	Sarikoli	az		A	
+124	Ossetic Iron	ɐž	ɐž	A	
+125	Ossetic Digor	ɐz	ɐz	A	
+141	Kata-viri	ũt͡s		A	
+154	Vasi-vari	unzū, unʒu		A	
+153	Askunu	ai		A	
+105	Vedic Sanskrit	ahám		A	
+162	Pāḷī	ahaŋ		A	
+41	Khaskura	M		A	
+51	Nepali	MA		A	
+106	Assamese	mɒe	mɒe	A	
+102	Oriya	mũ	mũ	A	
+10	Bengali	ami	'ɑmi:	A	
+111	Bihari	mẽ	mẽ	A	
+111	Bihari	həm	həm	A	
+144	Magahi	हम	həm	A	
+151	Bhojpuri	ham		A	
+104	Marwari	mɛ̃	mɛ̃	A	
+35	Hindi	me	mɛ̃	A	
+119	Urdu	مَیں	mɛ̃	A	
+103	Sindhi	ã(ũ)		A	
+103	Sindhi	mã	mã	A	
+43	Lahnda	MAE		A	
+53	Punjabi	me	mɛ̃	A	
+33	Gujarati	HU		A	
+50	Marathi	mī	mi:	A	
+40	Kashmiri	BOH		A	
+65	Sinhalese	MAMA		A	
+34	Romani Greece	ME		A	
+100	Old Church Slavonic	азъ	ɑzʊ̆	A	
+95	Serbo-Croatian	ja	jâː	A	
+15	Bulgarian	аз	as	A	
+92	Macedonian	јас	jas	A	
+60	Russian	я	ja	A	
+55	Polish	ja	ja	A	
+16	Belarusian	я	ja	A	
+73	Ukrainian	я	ja	A	
+66	Slovak	ja	ja	A	
+18	Czech	já	jaː	A	
+48	Sorbian Upper	ja	ja	A	
+47	Sorbian Lower	ja	ja	A	
+97	Slovenian	jaz	jas	A	
+108	Old Prussian	as		A	
+44	Latvian	es		A	
+46	Lithuanian	as	ɐʃ	A	
+109	Old Norse	ek	ek	A	
+36	Icelandic	ég	jɛɣ	A	
+23	Faroese	eg	e:	A	
+58	Norwegian Riksmal	jeg	jæɪ	A	
+159	Stavangersk	eɡ	eːɡ, ɛɡ, ɛ	A	
+157	Old Swedish	iak	jaːk	A	
+69	Swedish	jag	jɑːɡ, jɑː	A	
+71	Swedish Vilhelmina	JAG, JA  JAG, JA		A	
+70	Swedish Uppland	JAG		A	
+145	Elfdalian	ig	ɪːg	A	
+20	Danish	jeg	jɑj	A	
+158	Danish Fjolde	æ	æ	A	
+160	Old Gutnish	iac, iec		A	
+161	Gutnish Lau	ja	jɑː	A	
+99	Old English	ic		A	
+22	English	I	aɪ	A	
+26	Frisian	ik, ikke	ɪk, ɪkə	A	
+21	Dutch	ik	ɪk	A	
+24	Flemish	IK		A	
+83	Afrikaans	EK, EKKE		A	
+87	Sranan	MI		D	
+126	Old High German	ih		A	
+126	Old High German	mih		A	
+27	German	ich	ɪç	A	
+86	Pennsylvania Dutch	ICH		A	
+120	Luxembourgish	ech	œx	A	
+121	German Switzerland	i(g)		A	
+107	Gothic	ik		A	
+130	Oscan	íív			
+132	Umbrian	mehe			
+112	Latin	ego	ˈego	A	
+17	Catalan	jo	ʒɔ, jɔ	A	
+56	Portuguese	eu	eu	A	
+68	Spanish	yo	ʝo	A	
+61	Sardinian Cagliari	DEU		A	
+62	Sardinian Logudoro	EGO		A	
+63	Sardinian Nuoro	JEO		A	
+85	French Creole Dominica	MWE		A	
+76	Walloon	DJI		A	
+25	French	je	ʒə	A	
+57	Provencal	ieu	jew	A	
+42	Ladin	EAU		A	
+146	Dolomite Ladino	gio, ge		A	
+123	Romansh	jeu		A	
+122	Friulian	jo		A	
+39	Italian	io	'io	A	
+59	Romanian	eu	jew, jo	A	
+74	Vlach	EO		A	
+140	Gaulish	mi ?		D	
+127	Old Irish	-m-	m	(D)	
+127	Old Irish	mé	me:	D	
+101	Middle Cornish	my	mɪ:	D	
+148	Old Breton	me ?		D	
+172	Middle Breton	me	ˈmeː	D	
+12	Breton	me	ˈmeː	D	
+150	Old Welsh	mi		D	
+79	Welsh	mi, fi	miː, viː	D	
+38	Irish	mé	mʲeː	D	
+115	Scottish Gaelic	mi		D	
+147	Manx	mee		D	
+5	[Legacy] Albanian T	unë	ˈunə	A	
+29	[Legacy] Greek K	EGO		A	
+28	[Legacy] Greek D	EGO		A	
+30	[Legacy] Greek Md	EGO, MOU		A	
+64	[Legacy] Serbocroatian	JA		A	
+113	[Legacy] Serbian	ja	jâː	A	
+89	[Legacy] Bulgarian P	AZ		A	
+49	[Legacy] Macedonian	jac	jas	A	
+94	[Legacy] Russian P	JA		A	
+93	[Legacy] Polish P	JA		A	
+90	[Legacy] Byelorussian P	JA		A	
+98	[Legacy] Ukrainian P	JA		A	
+19	[Legacy] Czech E	YA		A	
+96	[Legacy] Slovak P	JA		A	
+91	[Legacy] Czech P	JA		A	
+67	[Legacy] Slovenian	JEST		A	
+45	[Legacy] Lithuanian O	AS		A	
+11	[Legacy] Brazilian	EU		A	
+142	[Legacy] German Munich	ich		A	
+84	[Legacy] French Creole C	MWE		A	
+14	[Legacy] Breton St	me	me:	D	
+13	[Legacy] Breton Se	ME		D	
+78	[Legacy] Welsh C	FI		D	
+37	[Legacy] Irish A	ME		D	

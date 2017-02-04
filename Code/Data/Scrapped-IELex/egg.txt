@@ -1,0 +1,146 @@
+114	Proto-Indo-European	*h₂ōu-ió-		A, B	
+88	Albanian	ve		A	
+143	Standard Albanian	vezë		A	
+2	Albanian Sicily	ve		A	
+4	Albanian Corinth	ve		A	
+3	Albanian Gheg	ve		A	
+6	Albanian Tosk	kokove		B	
+110	Ancient Greek	ᾠόν	ɔːjón	A	
+152	Tsakonian	αυουγο		A	
+32	Greek	αυγό	avˈɣo̞	A	
+31	Greek Lesbos	AUGO		A	
+129	Classical Armenian	ձու	dzu	A	
+8	Armenian Eastern	ձու	dzu	A	
+7	Armenian Western	հաւկիթ	hɑvˈgitʰ		
+128	Avestan	aēm		(A)	
+136	Sogdian	mrγyz’tk		J	
+75	Wakhi	TUXM MURGH		(F), (J)	
+9	Baluchi	HAIKH, ANU		A	
+118	Kurdish	hêk		A	
+137	Zazaki	hāk		A	
+72	Tajik	tuxm	tuxm	F	
+54	Persian	tokhm	toxm	F	
+77	Waziri	YOWYA, YIYA		A	
+1	Pashto	HAGEJ		A	
+138	Shughni	tarmurx		F, J	
+139	Sarikoli	kako		I	
+139	Sarikoli	tыxыm		F	
+124	Ossetic Iron	ajk	ajk	A	
+125	Ossetic Digor	ajkɐ	ajkɐ	A	
+141	Kata-viri	kakʊk puḍuk		K	
+154	Vasi-vari	puḍux		K	
+154	Vasi-vari	wəẓigə		C	
+153	Askunu	žau, ǰau		C	
+105	Vedic Sanskrit	aṇḍam		C	
+162	Pāḷī	aṇḍa		C	
+41	Khaskura	PHUL		D	
+51	Nepali	PHUL		D	
+106	Assamese	kɔni	kɔni	M	
+102	Oriya	ɔṇḍa(-)	ɔɳɖa(-)	C	
+10	Bengali	ANDA		C	
+111	Bihari	ənɖa	ənɖa	C	
+144	Magahi	अंडा	ə̃ndɑ	C	
+35	Hindi	ENDA		C	
+119	Urdu	انڈا	ʔənɖɑ	C	
+103	Sindhi	aano		C	
+43	Lahnda	ENDA		C	
+53	Punjabi	ANDA		C	
+33	Gujarati	INDU		C	
+50	Marathi	anda	'əɳɖə	C	
+40	Kashmiri	THUL		D	
+65	Sinhalese	BITTARA		(L)	
+34	Romani Greece	ARNO		C	
+100	Old Church Slavonic	аицє	ɑjɪ̆tsʲɛ	A	
+95	Serbo-Croatian	jaje	ˈjǎːjɛ	A	
+15	Bulgarian	яйце	jəjˈtsɛ	A	
+92	Macedonian	јајце	ˈjajtsɛ	A	
+60	Russian	яйцо	jaj'tsɔ	A	
+55	Polish	jajko	ˈjajkɔ	A	
+16	Belarusian	яйка	ˈjajka	A	
+73	Ukrainian	яйце	jajˈtsɛ	A	
+66	Slovak	vajce	ˈvajtsɛ	A	
+18	Czech	vejce	ˈvɛjtsɛ	A	
+48	Sorbian Upper	jejo	jeɔ	A	
+47	Sorbian Lower	jajo	ˈjajɔ	A	
+97	Slovenian	jajce	ˈjǎːjtsɛ	A	
+108	Old Prussian	paute		H	
+44	Latvian	õla		G	
+46	Lithuanian	KIAUSINIS		E	
+109	Old Norse	egg	eɡː	A	
+36	Icelandic	egg	ɛɡ̊ː	A	
+23	Faroese	egg	ɛɡː	A	
+58	Norwegian Riksmal	egg	ɛɡː	A	
+159	Stavangersk	egg	ɛɡː	A	
+157	Old Swedish	äg	æɡː	A	
+69	Swedish	ägg	ɛgː	A	
+71	Swedish Vilhelmina	AG		A	
+70	Swedish Uppland	AGG		A	
+145	Elfdalian	egg	ɛgː	A	
+20	Danish	æg	ɛˀg̥	A	
+158	Danish Fjolde	æg	æɣ	A	
+161	Gutnish Lau	ägg	ɛɡː	A	
+99	Old English	ǣg		A	
+22	English	egg	ɛg	A	
+26	Frisian	aai	aːɨ	A	
+26	Frisian	EIKE		A	
+21	Dutch	ei	ɛi	A	
+24	Flemish	EI		A	
+83	Afrikaans	EIER		A	
+87	Sranan	EKSI		A	
+126	Old High German	ei		A	
+27	German	Ei	aĭ	A	
+86	Pennsylvania Dutch	OI		A	
+120	Luxembourgish	Ee		A	
+121	German Switzerland	ei		A	
+107	Gothic	ada		A	
+112	Latin	ōuum	ˈoːwum	A	
+17	Catalan	ou	ɔu	A	
+56	Portuguese	ovo	'ovu	A	
+68	Spanish	huevo	'weβo	A	
+61	Sardinian Cagliari	OU		A	
+62	Sardinian Logudoro	OU		A	
+63	Sardinian Nuoro	OVU		A	
+85	French Creole Dominica	ZE		A	
+76	Walloon	OU		A	
+25	French	oeuf	œf	A	
+57	Provencal	IOU		A	
+42	Ladin	OV		A	
+146	Dolomite Ladino	ef		A	
+123	Romansh	iev		A	
+122	Friulian	ûf		A	
+39	Italian	uovo	'wɔvo	A	
+59	Romanian	ou	ow	A	
+74	Vlach	OU		A	
+127	Old Irish	og	oɣ	A	
+101	Middle Cornish	oy	ɔˑɪ	A	
+101	Middle Cornish	wiy		(A)	
+172	Middle Breton	uy, üi, vy, vuy	ˈviː, ˈɥiː	A	
+12	Breton	ui, vi	ˈviː, ˈɥiː	A	
+79	Welsh	ŵy		A	
+38	Irish	ubh	u:, uv	A	
+115	Scottish Gaelic	ubh, ogh		A	
+147	Manx	ooh		A	
+5	[Legacy] Albanian T	ve		A	
+29	[Legacy] Greek K	HOON		B	
+28	[Legacy] Greek D	AUGO		A	
+30	[Legacy] Greek Md	AUGO		A	
+64	[Legacy] Serbocroatian	JAJE		A	
+113	[Legacy] Serbian	jaje		A	
+89	[Legacy] Bulgarian P	JAJCE		A	
+49	[Legacy] Macedonian	JAJCE		A	
+94	[Legacy] Russian P	JAJCO		A	
+93	[Legacy] Polish P	JAJE		A	
+90	[Legacy] Byelorussian P	JAJCO		A	
+98	[Legacy] Ukrainian P	JAJCE		A	
+19	[Legacy] Czech E	VAYCO		A	
+96	[Legacy] Slovak P	VAJCE		A	
+91	[Legacy] Czech P	VEJCE		A	
+67	[Legacy] Slovenian	JAJCE		A	
+45	[Legacy] Lithuanian O	KIAUSINIS		E	
+11	[Legacy] Brazilian	OVO		A	
+142	[Legacy] German Munich	Ei		A	
+84	[Legacy] French Creole C	ZE		A	
+14	[Legacy] Breton St	vi, ui	vi:, ɥi:	A	
+13	[Legacy] Breton Se	UI		A	
+78	[Legacy] Welsh C	WY		A	
+37	[Legacy] Irish A	UBH		A	

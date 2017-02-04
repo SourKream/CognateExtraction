@@ -1,0 +1,176 @@
+80	Hittite	kuērzi		E	
+133	Luvian	kuwarti		E	
+133	Luvian	karsti		E	
+81	Tocharian A	lātäṅkāṣ		U	
+81	Tocharian A	kärṣnāṣ		E	
+82	Tocharian B	latkanaṃ		U	
+82	Tocharian B	karsnaṃ		E	
+88	Albanian	PRES		C	
+143	Standard Albanian	pres		C	
+2	Albanian Sicily	PRES		C	
+4	Albanian Corinth	SKLHIEN			
+4	Albanian Corinth	PRES		C	
+3	Albanian Gheg	PRES (PRE = INF.)		C	
+6	Albanian Tosk	PRES, AOR. PREVA		C	
+110	Ancient Greek	τέμνω	témnɔː	R	
+110	Ancient Greek	κόπτω	kóptɔː	(I)	
+32	Greek	κόβω	ˈko̞vo̞	I	
+31	Greek Lesbos	KOBO		I	
+129	Classical Armenian	հատանեմ	hɑt-ɑn-ɛ-m		
+8	Armenian Eastern	կտրել	kətˈɾɛl	D, E	
+8	Armenian Eastern	հատել	hatel		
+7	Armenian Western	կտրել	gədˈrɛl	D	
+128	Avestan	kərəntaiti		E	
+131	Old Persian	*kart-		E	
+136	Sogdian	’nkr’nt		E	
+75	Wakhi	RESED-		V	
+9	Baluchi	CHAKAGH, CHAKITHA		X	
+137	Zazaki	qesnāyiš		Y	
+72	Tajik	BURIDAN		M	
+54	Persian	BORIDAN		M	
+77	Waziri	PREKREL		A	
+1	Pashto	PREKAVEL		A	
+138	Shughni	tēb		Z	
+139	Sarikoli	x̆ыčɛyɣ̆ : x̆ыčax̆t		Aa	
+52	Ossetic	kaerdyn	kærdɨn	E	
+124	Ossetic Iron	kɐrd-	kɐrd-	E	
+125	Ossetic Digor	kɐrd-	kɐrd-	E	
+105	Vedic Sanskrit	kr̥ntáti		E	
+162	Pāḷī	karati		E	
+41	Khaskura	KATNU		E	
+51	Nepali	KATNU		E	
+51	Nepali	PHARNU		W	
+106	Assamese	bellō		Ab	
+106	Assamese	katu		E	
+102	Oriya	khɔṇḍ-	khɔɳɖ-	E	
+10	Bengali	KATA		E	
+111	Bihari	ʈukra kərəb	ʈukra kərəb	Ac	
+111	Bihari	kaʈəb	kaʈəb	E	
+144	Magahi	काटना	kɑtənɑ	E	
+151	Bhojpuri	katál		E	
+104	Marwari	bāḍhnā		L	
+104	Marwari	bəɖɖhai	bəɖɖhai	L	
+35	Hindi	KATNA		E	
+119	Urdu	کاٹنا	kɑʈnə	E	
+103	Sindhi	vāḍh-ō		L	
+43	Lahnda	KETTEN		E	
+53	Punjabi	KHETTENA		E	
+33	Gujarati	KAPWU		J	
+50	Marathi	kāpne	'kapɳe	J	
+40	Kashmiri	KATUN		E	
+40	Kashmiri	TSATUN		Ae	
+65	Sinhalese	kapanawa	kapənəwa	J	
+34	Romani Greece	CINAV		Ad	
+100	Old Church Slavonic	рѣзати	ræzɑti	G	
+95	Serbo-Croatian	sjeći	ˈsjɛ̂tɕi	P	
+95	Serbo-Croatian	rezati	ˈrɛ̂zati	G	
+15	Bulgarian	режа	ˈrɛʒə	G	
+92	Macedonian	реже	ˈreʒɛ	G	
+92	Macedonian	сече	ˈsetʃɛ	P	
+60	Russian	резать	'rʲɛzatʲ	G	
+55	Polish	ciąć	ʨɔɲʨ	R	
+16	Belarusian	рэзаць	ˈrɛzatsʲ	G	
+73	Ukrainian	різати	ˈrizatɪ	G	
+66	Slovak	rezať	ˈrɛzac	G	
+18	Czech	řezat	ˈr̝ɛzat	G	
+48	Sorbian Upper	rězać	ˈʀɪzatʃ	G	
+47	Sorbian Lower	rězaś	ˈrʲɪzaɕ	G	
+97	Slovenian	rezati	ˈrěːzati	G	
+44	Latvian	griêž		S	
+46	Lithuanian	PIAUTI			
+46	Lithuanian	RIEKTI (BREAD)			
+109	Old Norse	meita	ˈmɛita	(O)	
+109	Old Norse	sníða	ˈsniːða	(B)	
+109	Old Norse	skera	ˈskera	E	
+36	Icelandic	skera	ˈscɛːra	E	
+36	Icelandic	sníða	ˈstniːða	B	
+23	Faroese	sníða	ˈsnʊiːja	(B)	
+23	Faroese	skera	ˈʃeːɹa	E	
+58	Norwegian Riksmal	skjære	ˈʃæ̀ːɾə	E	
+58	Norwegian Riksmal	sneie	ˈsnæɪ̀ə	(B)	
+159	Stavangersk	sjera	ˈʂèːʁa	E	
+157	Old Swedish	snedha	ˈsneːða	B	
+157	Old Swedish	skära	ˈskæːra	E	
+69	Swedish	skära	ˈɧæ̀ːra	E	
+71	Swedish Vilhelmina	SARA		E	
+70	Swedish Uppland	KOTTA		E	
+70	Swedish Uppland	SKARA		E	
+145	Elfdalian	ogga	ˈògːɑ	(Af)	
+145	Elfdalian	stjärå	ˈstjæ̀rɔ	E	
+20	Danish	skære	ˈsg̥ʰɛːʌ	E	
+158	Danish Fjolde	skeær	sxeæɹ	E	
+160	Old Gutnish	schiera		E	
+161	Gutnish Lau	skärä	ˈskɛːrɛ	E	
+99	Old English	snīþþ		B	
+99	Old English	scirþ		E	
+22	English	to cut	kʌt	Q	
+26	Frisian	snije	'snɛiə	B	
+21	Dutch	snijden	'snɛidə(n)	B	
+24	Flemish	SNYDEN		B	
+83	Afrikaans	SNY, SNOEI		B	
+87	Sranan	KOTI		Q	
+126	Old High German	meizan		O	
+126	Old High German	snīdit		B	
+27	German	schneiden	'ʃnaĭdn̩	B	
+86	Pennsylvania Dutch	SCHNEIDT		B	
+120	Luxembourgish	schneiden		B	
+121	German Switzerland	schnide		B	
+107	Gothic	maitiþ		O	
+130	Oscan	lamtir			
+132	Umbrian	-setatu			
+112	Latin	secāre	seˈkaːre	P	
+17	Catalan	tallar	tə'ʎa	T	
+56	Portuguese	cortar	kuɾˈtaɾ	E	
+68	Spanish	cortar	koɾ'taɾ	E	
+61	Sardinian Cagliari	SEGAI		P	
+62	Sardinian Logudoro	SEGARE		P	
+63	Sardinian Nuoro	SEKARE		P	
+85	French Creole Dominica	KUPE		H	
+76	Walloon	COPER		H	
+76	Walloon	TEYI		T	
+25	French	couper	kupe	H	
+57	Provencal	COUPA		H	
+42	Ladin	TAGLIER		T	
+146	Dolomite Ladino	taià		T	
+123	Romansh	tagliar		T	
+122	Friulian	taiâ		T	
+39	Italian	tagliare	taʎ'ʎare	T	
+59	Romanian	a tăia		T	
+74	Vlach	TALU		T	
+127	Old Irish	tescaid	tʹeskəðʹ		
+127	Old Irish	gerraid	gʹerrəðʹ	K	
+101	Middle Cornish	treghi	trɛhi	F	
+172	Middle Breton	trouchaff	ˈtruːɣaṽ	F	
+12	Breton	skejañ	ˈskeːʒã	(V)	
+12	Breton	troc'hañ	ˈtroːɣã	F	
+79	Welsh	torri		N	
+38	Irish	gearr		K	
+38	Irish	bain	bˠanʲ, bˠɪnʲ		
+115	Scottish Gaelic	geàrr	ɡ̊ʲaːᵲ	K	
+5	[Legacy] Albanian T	ME PRERE		C	
+29	[Legacy] Greek K	KOPTO		I	
+28	[Legacy] Greek D	KOBO		I	
+30	[Legacy] Greek Md	KOBO		I	
+64	[Legacy] Serbocroatian	SECI		P	
+113	[Legacy] Serbian	seći	sêtɕi	P	
+113	[Legacy] Serbian	rezati	rêzati	G	
+89	[Legacy] Bulgarian P	REZA		G	
+49	[Legacy] Macedonian	PO REZE		G	
+49	[Legacy] Macedonian	REZE		G	
+49	[Legacy] Macedonian	SECE		P	
+94	[Legacy] Russian P	REZAT		G	
+93	[Legacy] Polish P	RZEZAC		G	
+90	[Legacy] Byelorussian P	REZAC		G	
+98	[Legacy] Ukrainian P	RIZATY		G	
+19	[Legacy] Czech E	REZAT		G	
+96	[Legacy] Slovak P	REZAT		G	
+91	[Legacy] Czech P	REZATI		G	
+67	[Legacy] Slovenian	REZAT		G	
+45	[Legacy] Lithuanian O	KIRSTI		E	
+11	[Legacy] Brazilian	CORTAR		E	
+142	[Legacy] German Munich	schneiden		B	
+84	[Legacy] French Creole C	KUPE		H	
+14	[Legacy] Breton St	troc'hañ	'trɔ:ɣã	F	
+13	[Legacy] Breton Se	TROHEIN		F	
+78	[Legacy] Welsh C	TORRI		N	
+37	[Legacy] Irish A	GEARRADH		K	

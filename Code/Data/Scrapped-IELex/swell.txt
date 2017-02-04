@@ -1,0 +1,176 @@
+80	Hittite	suwattari			
+82	Tocharian B	staukkanatär			
+88	Albanian	AJEM		C	
+143	Standard Albanian	fryhem		E	
+2	Albanian Sicily	EXET (3 SG.)		D	
+4	Albanian Corinth	FRIXEM		E	
+3	Albanian Gheg	AJEM		C	
+6	Albanian Tosk	ENTEM, AOR. UENTA		D	
+110	Ancient Greek	κυμαίνω	kymái̯nɔː	(R)	
+110	Ancient Greek	οἰδέω	oi̯déɔː	S	
+32	Greek	πρήζομαι	ˈprizo̞ˌme̞	L	
+32	Greek	φουσκώνω	fuˈsko̞no̞	(T)	
+31	Greek Lesbos	FOUSKONO		T	
+129	Classical Armenian	aytnum		S	
+129	Classical Armenian	uṙnum / uṙč‘im		S	
+8	Armenian Eastern	AYTNUM		(S)	
+8	Armenian Eastern	uṙč‘el		F	
+7	Armenian Western	SURIL		F	
+128	Avestan	sispimnō (ptc.)		R	
+136	Sogdian	δm’s		Q	
+75	Wakhi	PEDEMES-		Q	
+9	Baluchi	SIAGH, SITHA		R	
+72	Tajik	VARAM KARDAN, OMOSIDAN		X	
+54	Persian	BAD KARDAN		Y	
+77	Waziri	PARSEDEL		A	
+1	Pashto	PARSEDEL		A	
+138	Shughni	waram čidow		X	
+139	Sarikoli	b(ы)lis : bыlɛyd		W	
+52	Ossetic	dymyn	dɨmɨn	Q	
+52	Ossetic	RAESIJYN		R	
+124	Ossetic Iron	rɐšyj-	rɐšyj-	R	
+125	Ossetic Digor	rɐsuj-	rɐsuj-	R	
+105	Vedic Sanskrit	śváyati		R	
+162	Pāḷī	phāti		Ab	
+41	Khaskura	SUNINU		R	
+51	Nepali	SUJNU, SUNINU		R	
+106	Assamese	phul	phul	G	
+102	Oriya	phuliba	phuliba	G	
+10	Bengali	PHOLA		G	
+111	Bihari	phuləb	phuləb	G	
+144	Magahi	उधियाना	ud̪ʰijɑnɑ	Ad	
+104	Marwari	phalo	phalo	G	
+35	Hindi	PHULNA		G	
+119	Urdu	سُوجنا	suʤnə	R	
+103	Sindhi	suj̄aṇu		R	
+43	Lahnda	SUJJEN		R	
+53	Punjabi	PHULLENA		G	
+33	Gujarati	SUJWU		R	
+50	Marathi	sudzne	'sudzɳe	R	
+50	Marathi	phugne		R	
+40	Kashmiri	WOTHUN		Ae	
+40	Kashmiri	HANUN		R	
+65	Sinhalese	IDIMENAWA		Ac	
+34	Romani Greece	SUVLI  AV		R	
+100	Old Church Slavonic	дѫти сѧ	dɔ̃ti sɛ̃	U	
+95	Serbo-Croatian	oteći	ˈɔ̌tɛtɕi	O	
+15	Bulgarian	отичам	uˈtitʃəm	O	
+15	Bulgarian	подувам se	puˈduvəm sɛ	U	
+15	Bulgarian	подпухвам	pudˈpuxvəm	T	
+92	Macedonian	отече	ˈotɛtʃɛ	O	
+60	Russian	пухнуть	'puxnutʲ	T	
+55	Polish	pęcznieć	ˈpɛntʂɲɛtɕ	(Ag)	
+55	Polish	puchnąć	ˈpuxnɔɲtɕ	T	
+16	Belarusian	пухнуць	ˈpuxnutsʲ	T	
+16	Belarusian	набухаць	nabuˈxatsʲ	(P)	
+73	Ukrainian	набухати	nabuˈxatɪ	(P)	
+73	Ukrainian	пухнути	ˈpuxnutɪ	T	
+66	Slovak	nabobtnať	ˈnabɔptnac	(Ai)	
+66	Slovak	puchnúť	ˈpuchnuːc	T	
+18	Czech	nabýt	ˈnabiːt	(Ah)	
+18	Czech	otéct	ˈɔtɛːtst	O	
+18	Czech	opuchnout	ˈɔpuxnɔut	T	
+48	Sorbian Upper	bubnić	ˈbubnʲitʃ	Af	
+47	Sorbian Lower	wopuknuś	ˈhɔpuknuɕ	Ag	
+47	Sorbian Lower	naběgnuś	ˈnabɪɡnuɕ	Ak	
+97	Slovenian	nabrekati	naˈbrěːkati, naˈbrêːkati	Aj	
+108	Old Prussian	gūnziks			
+44	Latvian	tûkst		J	
+44	Latvian	pàmpst		M	
+46	Lithuanian	PUSTI		T	
+109	Old Norse	þrútna	ˈθruːtna	R	
+109	Old Norse	svella	ˈsvelːa	B	
+36	Icelandic	svella	ˈsvɛd̥la	B	
+36	Icelandic	þrútna	ˈθruːtʰna	R	
+36	Icelandic	bólgna	ˈb̥oulna	K	
+23	Faroese	túsna	ˈtʰʉuːsna	Aa	
+23	Faroese	hovna	ˈhoːvna	Z	
+23	Faroese	trútna	ˈtʰɹʉuːtʰna	R	
+23	Faroese	bólgna		(K)	
+58	Norwegian Riksmal	svelle	ˈsʋɛ̀lːə	B	
+58	Norwegian Riksmal	trutne	ˈtɾʉ̀ːtnə	R	
+58	Norwegian Riksmal	hovne	ˈhòːʋnə	Z	
+159	Stavangersk	håvna	ˈhɔ̀ʋna	Z	
+159	Stavangersk	trutna	ˈtʁʉ̀tna	R	
+159	Stavangersk	svedla, svella	ˈsʋɛ̀dla, ˈsʋɛ̀lːa	B	
+157	Old Swedish	svälla	ˈsvælːa	B	
+157	Old Swedish	thrutna	ˈθruːtna	R	
+69	Swedish	pösa	'pø:sa	(B)	
+69	Swedish	svälla	ˈsvɛ̀lːa	B	
+71	Swedish Vilhelmina	SVAL		B	
+70	Swedish Uppland	SVALLA, SVULLNA		B	
+145	Elfdalian	swella	ˈswɛ̀lːɑ	B	
+20	Danish	svulme	ˈsvulmə	B	
+158	Danish Fjolde	svol	svol	B	
+161	Gutnish Lau	svällä	ˈsvɛlːɛ	B	
+99	Old English	swilþ		B	
+22	English	to swell	swɛl	B	
+26	Frisian	FORBOLGEN		K	
+21	Dutch	zwellen	'zwɛlə(n)	B	
+24	Flemish	OPZWELLEN		B	
+83	Afrikaans	OPSWEL, SWEL		B	
+126	Old High German	swillit		B	
+27	German	schwellen	'ʃvɛlən	B	
+86	Pennsylvania Dutch	SCHWELLE UF		B	
+120	Luxembourgish	schwëllen		B	
+121	German Switzerland	gschweue		B	
+107	Gothic	*swilan		B	
+112	Latin	tumēre	tuˈmeːre	H	
+17	Catalan	inflar	in'fla	V	
+17	Catalan	ENTUMIR		H	
+56	Portuguese	INTUMECER		H	
+56	Portuguese	inchar	ĩˈʃaɾ	V	
+68	Spanish	hincharse	in'ʧaɾse	V	
+61	Sardinian Cagliari	UNFRAI		V	
+62	Sardinian Logudoro	UNFIARE		V	
+63	Sardinian Nuoro	UFFRARE		V	
+85	French Creole Dominica	AFLE		V	
+76	Walloon	INFLER		V	
+25	French	enfler	ɑ̃fle	V	
+57	Provencal	GOUNFLA		V	
+57	Provencal	BOUFIGA		V	
+57	Provencal	ENFLA		V	
+42	Ladin	IFFLER		V	
+42	Ladin	SCUFFLER		V	
+146	Dolomite Ladino	sgionfà		V	
+123	Romansh	unflar		V	
+122	Friulian	sglonfâ		V	
+39	Italian	gonfiare	gon'fjare	V	
+59	Romanian	a se umfla		V	
+74	Vlach	SUFLU		V	
+127	Old Irish	attaid	atəðʹ	N	
+101	Middle Cornish	hwedhi	'ʍɛði	I	
+172	Middle Breton	huezaff	ˈxweːðaṽ		
+172	Middle Breton	coezffuiff, coezffuaff, couezfuiff	ˈkweðviṽ, ˈkweðvaṽ,		
+12	Breton	c'hwezan		I	
+12	Breton	STAMBOUC'HA			
+12	Breton	PENBOUFI			
+79	Welsh	chwyddo		I	
+38	Irish	at		N	
+115	Scottish Gaelic	at		N	
+5	[Legacy] Albanian T	ME U FRYRE		E	
+29	[Legacy] Greek K	PRIDZOMAI		L	
+28	[Legacy] Greek D	PRIDZOMAI		L	
+28	[Legacy] Greek D	FOUSKONO		T	
+30	[Legacy] Greek Md	PREDZOMAI		L	
+64	[Legacy] Serbocroatian	OTECI		O	
+113	[Legacy] Serbian	oteći	ǒtetɕi	O	
+89	[Legacy] Bulgarian P	NADUVAM SE		U	
+49	[Legacy] Macedonian	NABABRI			
+94	[Legacy] Russian P	PUCHNUT		T	
+93	[Legacy] Polish P	PUCHNAC		T	
+90	[Legacy] Byelorussian P	PUCHNUC		T	
+98	[Legacy] Ukrainian P	PUCHNUTY		T	
+19	[Legacy] Czech E	SPUXNUT		T	
+96	[Legacy] Slovak P	PUCHNUT		T	
+91	[Legacy] Czech P	PUCHNOUTI		T	
+67	[Legacy] Slovenian	ZETEKLU		O	
+45	[Legacy] Lithuanian O	ISSIPUSTI, PASIPUSTI		T	
+11	[Legacy] Brazilian	INCHAR		V	
+142	[Legacy] German Munich	schwellen		B	
+84	[Legacy] French Creole C	AFLE		V	
+14	[Legacy] Breton St	c'hwezhañ	'xwe:zã	I	
+14	[Legacy] Breton St	koeñviñ	'kwẽ:vĩ	I	
+13	[Legacy] Breton Se	HUEHEIN, FOEUEIN		I	
+78	[Legacy] Welsh C	CHWYDDO		I	
+37	[Legacy] Irish A	AT		N	

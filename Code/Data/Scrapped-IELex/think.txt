@@ -1,0 +1,164 @@
+114	Proto-Indo-European	*tong-		B	
+133	Luvian	maliti			
+81	Tocharian A	pältsäṅkāṣ		L	
+82	Tocharian B	pälskanaṃ		L	
+88	Albanian	KUJTOJ		C	
+143	Standard Albanian	mendoj		(M)	
+2	Albanian Sicily	PINCAR			
+4	Albanian Corinth	SKEPSEM		(H)	
+3	Albanian Gheg	MENDOJ		(M)	
+3	Albanian Gheg	KUJTOJ		C	
+6	Albanian Tosk	MEJTO(H)EM ( ), AOR. MEJTOVA		(M)	
+110	Ancient Greek	νομίζω	nomízdɔː	(N)	
+110	Ancient Greek	οἴομαι	oíomai̯		
+110	Ancient Greek	γιγνώσκω	giŋnɔ́ːskɔː	(Q)	
+32	Greek	σκέφτομαι	ˈsce̞fto̞ˌme̞	H	
+32	Greek	νομίζω	no̞ˈmizo̞	(N)	
+31	Greek Lesbos	SKEBOMAI		H	
+129	Classical Armenian	zmtaw acem			
+129	Classical Armenian	xorhim			
+8	Armenian Eastern	mtacel	mətɑˈʦɛl		
+8	Armenian Eastern	xorhel			
+7	Armenian Western	GHORIL			
+128	Avestan	mainiiete		S	
+131	Old Persian	maniyataiy		S	
+136	Sogdian	šm’r		W	
+9	Baluchi	ZANAGH, ZANTHA		Aa	
+72	Tajik	FIKR KARDAN		(A)	
+54	Persian	FEKR KARDAN		(A)	
+1	Pashto	FIKR KAVEL, GUMAN KAVEL		(A)	
+138	Shughni	xayol čidow		(X)	
+138	Shughni	fikri čidow		(A)	
+139	Sarikoli	uy(lamiš) čɛyg(ɛw)			
+52	Ossetic	x'uydy kaenyn	qwɨdɨ kænɨn	E	
+124	Ossetic Iron	qudy kɐn-	qudy kɐn-	E	
+125	Ossetic Digor	ʁudi kɐn-	ʁudi kɐn-	E	
+105	Vedic Sanskrit	mányatē		S	
+105	Vedic Sanskrit	dī́dhēti		(Z)	
+162	Pāḷī	cinteti		R	
+41	Khaskura	BICHAR GARNU		O	
+41	Khaskura	SOCHNU		I	
+51	Nepali	CITAUNU		R	
+51	Nepali	GUNNU			
+106	Assamese	bhab	bhab	P	
+102	Oriya	dharɔṇa	dharɔɳa		
+102	Oriya	bhaḷ-	bhaɭ-	P	
+10	Bengali	BHABA		P	
+111	Bihari	socab		I	
+111	Bihari	bicar kərəb	bicar kərəb	O	
+144	Magahi	सोचना	socənɑ	I	
+104	Marwari	soc-ɳo		I	
+35	Hindi	socna	sotʃn̪a	I	
+119	Urdu	سوچنا	soʧnə	I	
+43	Lahnda	SOCAN		I	
+53	Punjabi	SOCNA		I	
+33	Gujarati	VICARWU, VICAR KERWO		O	
+50	Marathi	vatne			
+50	Marathi	witSār karne	'witʃaɾ kəɾ'ɳe	O	
+40	Kashmiri	ZANUN		Q	
+65	Sinhalese	HITANAWA		R	
+34	Romani Greece	DWSINIRIM		Y	
+100	Old Church Slavonic	мыслити	mɯsliti	F	
+95	Serbo-Croatian	misliti	ˈmîsliti	F	
+15	Bulgarian	мисля	ˈmislʲə	F	
+92	Macedonian	мисли	ˈmisli	F	
+60	Russian	думать	'dumatʲ	T	
+55	Polish	myśleć	ˈmɘ̟ɕlɛtɕ	F	
+16	Belarusian	думаць	ˈdumatsʲ	T	
+73	Ukrainian	думати	ˈdumatɪ	T	
+66	Slovak	myslieť	ˈmisliɛc	F	
+18	Czech	myslet	ˈmɪslɛt	F	
+48	Sorbian Upper	myslić	ˈmɘ̟slitʃ	F	
+47	Sorbian Lower	mysliś	ˈmɘ̟sliɕ	F	
+97	Slovenian	misliti	ˈmǐːsliti	F	
+108	Old Prussian	pomīrit			
+44	Latvian	dõmã		T	
+46	Lithuanian	MASTYTI		F	
+46	Lithuanian	GALVOTI			
+109	Old Norse	hyggja	ˈhyɡːja	G	
+36	Icelandic	hugsa	ˈhʏɡ̊sa	G	
+23	Faroese	teinkja	ˈtɔɲ̊tʃa	(B)	
+23	Faroese	hugsa	ˈhʊksa	G	
+58	Norwegian Riksmal	tenke	ˈtɛ̀ŋkə	(B)	
+159	Stavangersk	tenka, tenkja	ˈtɛ̀ŋka, ˈtɛ̀ŋça	(B)	
+157	Old Swedish	hyggia	ˈhyɡːja	G	
+69	Swedish	tänka	ˈtɛ̀ŋka	(B)	
+71	Swedish Vilhelmina	TANGK		B	
+70	Swedish Uppland	TANKA		B	
+145	Elfdalian	taintja	ˈtɑ̀ɪntʃɑ	(B)	
+145	Elfdalian	ugsa		G	
+20	Danish	tænke	ˈd̥ʰɛŋ g̥ʰə	(B)	
+158	Danish Fjolde	teenk	teːŋɡ	(B)	
+160	Old Gutnish	hyggia		G	
+161	Gutnish Lau	tängka	ˈtɛŋka	(B)	
+99	Old English	(ge)þencþ		B	
+99	Old English	hygþ		G	
+22	English	to think	θɪŋk	B	
+26	Frisian	tinke	'tɪŋkə	B	
+21	Dutch	denken	'dɛŋkə(n)	B	
+24	Flemish	DENKEN		B	
+83	Afrikaans	DINK		B	
+87	Sranan	DENKI		B	
+126	Old High German	denkit		B	
+27	German	denken	'dɛŋkn̩	B	
+86	Pennsylvania Dutch	DENK		B	
+120	Luxembourgish	denken		B	
+121	German Switzerland	dänke		B	
+107	Gothic	fraþjiþ			
+107	Gothic	hugjiþ		G	
+112	Latin	cōgitāre	koːgiˈtaːre		
+17	Catalan	DONAR PIENSO		D	
+17	Catalan	pensar	pən'sa, pen'saɾ	D	
+56	Portuguese	pensar	pẽˈsaɾ	D	
+68	Spanish	pensar	pen'saɾ	D	
+61	Sardinian Cagliari	PENSAI		D	
+62	Sardinian Logudoro	PENSARE		D	
+63	Sardinian Nuoro	PESSARE		D	
+85	French Creole Dominica	SOZE		U	
+76	Walloon	PINSER		D	
+76	Walloon	SONDJI		U	
+25	French	penser	pɑ̃se	D	
+57	Provencal	PENSA, CUJA		D	
+42	Ladin	S'IMPISSER, PENSER		D	
+146	Dolomite Ladino	pensà		D	
+123	Romansh	pensar		D	
+122	Friulian	pensâ		D	
+39	Italian	pensare	pen'sare	D	
+59	Romanian	a se gândi	a se ɡɨnˈdi		
+74	Vlach	MISKIPSESKU			
+127	Old Irish	smúainid	smu:ənʹəðʹ	(J)	
+127	Old Irish	imm·rádi	imˈra:di		
+101	Middle Cornish	tibias			
+101	Middle Cornish	prederi	prɛ'dɛri	V	
+172	Middle Breton	pridiri, prydyry	priˈdiːri		
+172	Middle Breton	soingaff, songaff, songal, soingal	ˈsonʒaṽ, ˈsonʒal		
+12	Breton	sonjal		(U)	
+12	Breton	prederiañ		(V)	
+79	Welsh	meddwl	ˈmɛðʊl	K	
+38	Irish	smaoinigh		J	
+115	Scottish Gaelic	smaoinich		J	
+5	[Legacy] Albanian T	ME U MENDUAR		(M)	
+29	[Legacy] Greek K	SKEPTOMAI		H	
+28	[Legacy] Greek D	SKEPTOMAI		H	
+30	[Legacy] Greek Md	NOMIDZO		(N)	
+64	[Legacy] Serbocroatian	MISLITI		F	
+113	[Legacy] Serbian	misliti	mîsliti	F	
+89	[Legacy] Bulgarian P	MISL A		F	
+49	[Legacy] Macedonian	MISLI		F	
+94	[Legacy] Russian P	MYSLIT		F	
+93	[Legacy] Polish P	MYSLEC		F	
+90	[Legacy] Byelorussian P	MYSLIC		F	
+98	[Legacy] Ukrainian P	MYSLYTY		F	
+19	[Legacy] Czech E	MISLET		F	
+96	[Legacy] Slovak P	MYSLIET		F	
+91	[Legacy] Czech P	MYSLITI		F	
+67	[Legacy] Slovenian	ZAMISLIT		F	
+45	[Legacy] Lithuanian O	MISLYTI		F	
+11	[Legacy] Brazilian	PENSAR		D	
+142	[Legacy] German Munich	denken		B	
+84	[Legacy] French Creole C	SOZE		U	
+14	[Legacy] Breton St	soñjal	'sɔ̃:ʒal	(U)	
+14	[Legacy] Breton St	meizañ	'mɛjzã	J	
+13	[Legacy] Breton Se	CHONJAL		(U)	
+78	[Legacy] Welsh C	MEDDWL		K	
+37	[Legacy] Irish A	SMAOINEAMH		J	

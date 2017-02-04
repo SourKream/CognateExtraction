@@ -1,0 +1,196 @@
+114	Proto-Indo-European	*pulo-		Q	
+80	Hittite	tetanas			
+133	Luvian	tappānis			
+81	Tocharian A	śāku			
+82	Tocharian B	matsi			
+88	Albanian	qime		(C)	
+143	Standard Albanian	flokë		Aa	
+2	Albanian Sicily	KRIP			
+4	Albanian Corinth	lesh		D	
+3	Albanian Gheg	qime		(C)	
+3	Albanian Gheg	flok		(Aa)	
+6	Albanian Tosk	lesh		D	
+6	Albanian Tosk	qime		(C)	
+110	Ancient Greek	θρίξ	tʰríkʰs	Ab	
+110	Ancient Greek	κόμη	kómɛː	(T)	
+152	Tsakonian	τσιχα		Ab	
+32	Greek	τρίχα		(Ab)	
+32	Greek	μαλλιά	maˈʎa	K	
+31	Greek Lesbos	MALLIA		K	
+129	Classical Armenian	հեր	her	S	
+129	Classical Armenian	մազ	maz	E	
+8	Armenian Eastern	մազ	mɑz	E	
+8	Armenian Eastern	GES			
+8	Armenian Eastern	հեր	hɛɾ	(S)	
+7	Armenian Western	մազ	mɑz	E	
+128	Avestan	varəsō		J	
+136	Sogdian	wrs		J	
+75	Wakhi	SUFS, PICA		U	
+9	Baluchi	PHUT			
+118	Kurdish	mû		N	
+118	Kurdish	por		V	
+137	Zazaki	pinč		U	
+137	Zazaki	por		V	
+137	Zazaki	mū		N	
+72	Tajik	muj	mɵ	N	
+54	Persian	mu	mu	N	
+77	Waziri	WESHTE		J	
+1	Pashto	VESTE		J	
+138	Shughni	mūy		N	
+138	Shughni	tōr		A	
+138	Shughni	γūnj		W	
+139	Sarikoli	x̆ad		X	
+139	Sarikoli	reb		Y	
+52	Ossetic	SAERYX"UYN		Z	
+52	Ossetic	x'uyn	qwɨn	Z	
+124	Ossetic Iron	χil	χil	R	
+125	Ossetic Digor	χelɐ	χelɐ	R	
+141	Kata-viri	ẓ̌u		J	
+154	Vasi-vari	žūi		(J)	
+154	Vasi-vari	ḍui			
+153	Askunu	žū (ẓū?)		J	
+105	Vedic Sanskrit	kḗśas		P	
+105	Vedic Sanskrit	pula-*		(Q)	
+162	Pāḷī	kesa		P	
+41	Khaskura	RAUN			
+51	Nepali	KAPAL, BAL		F	
+106	Assamese	sul(i)			
+102	Oriya	baḷɔ	baɭɔ	F	
+10	Bengali	KES		P	
+10	Bengali	cul	tʃul, tsul		
+111	Bihari	kes	kes	P	
+144	Magahi	केस	kes		
+104	Marwari	bāḷ		F	
+104	Marwari	kēs		P	
+35	Hindi	KES		P	
+35	Hindi	BAL		F	
+119	Urdu	بال	bɑl	F	
+103	Sindhi	vaaru		Ac	
+43	Lahnda	WAL		F	
+53	Punjabi	VAL		F	
+33	Gujarati	WAL		F	
+50	Marathi	kes	kes	P	
+40	Kashmiri	MAS, RUM, WAL		F	
+65	Sinhalese	KONDE			
+65	Sinhalese	KES		P	
+34	Romani Greece	BALA		F	
+100	Old Church Slavonic	власи	vlɑsi	J	
+95	Serbo-Croatian	kosa	ˈkɔ̌sa	I	
+15	Bulgarian	коса	kuˈsa	I	
+92	Macedonian	коса	ˈkosa	I	
+60	Russian	волосы	'vɔɫɔsɨ	J	
+55	Polish	włosy	'vwɔsɘ̟	J	
+16	Belarusian	валасы	vaɫaˈsɨ	J	
+73	Ukrainian	волосся	ʋɔˈɫɔsʲsʲa	J	
+66	Slovak	vlasy	ˈvlasi	J	
+18	Czech	vlasy	ˈvlasɪ	J	
+48	Sorbian Upper	włosy	ˈwɔsɘ̟	J	
+47	Sorbian Lower	włose	ˈwɔsɛ	J	
+97	Slovenian	lasi	ˈlâːsi	J	
+108	Old Prussian	scebelis			
+44	Latvian	mats		O	
+46	Lithuanian	PLAUKAS		M	
+109	Old Norse	skopt	skopt	(Ad)	
+109	Old Norse	hár	haːr	B	
+36	Icelandic	hár	hauːr	B	
+23	Faroese	hár	hɔaːɹ	B	
+58	Norwegian Riksmal	hår	hoːɾ	B	
+159	Stavangersk	hår	hoːʁ	B	
+157	Old Swedish	har	haːr	B	
+69	Swedish	hår	ho:r	B	
+71	Swedish Vilhelmina	HAR		B	
+70	Swedish Uppland	HAR		B	
+145	Elfdalian	år	ɔːr	B	
+20	Danish	hår	hɒˀ	B	
+158	Danish Fjolde	hoar	hoaɹ	B	
+160	Old Gutnish	har		B	
+161	Gutnish Lau	har	hɑːr	B	
+99	Old English	hǣr		B	
+22	English	hair	hɛə	B	
+26	Frisian	hier	hi.ər	B	
+21	Dutch	haar	har	B	
+24	Flemish	HAIR, HAER		B	
+83	Afrikaans	HAAR, HARE		B	
+87	Sranan	WIWIRI			
+126	Old High German	fahs			
+126	Old High German	hār		B	
+27	German	Haar	ha:ɐ̯	B	
+86	Pennsylvania Dutch	HORR		B	
+120	Luxembourgish	Hoer		B	
+121	German Switzerland	haar		B	
+107	Gothic	skuft			
+107	Gothic	tagl			
+112	Latin	capillī	kaˈpilːiː	G	
+17	Catalan	cabell	kə'βɛʎ	G	
+17	Catalan	pèl	pɛl	Q	
+56	Portuguese	cabelo	kɐˈβelu	G	
+68	Spanish	cabello	ka'βeʎo	G	
+68	Spanish	PELO		Q	
+61	Sardinian Cagliari	PILU		Q	
+62	Sardinian Logudoro	PILU		Q	
+63	Sardinian Nuoro	PILU		Q	
+85	French Creole Dominica	SIVE		G	
+76	Walloon	TCHIVE, DJ'VE		G	
+25	French	cheveu	ʃəvø	G	
+57	Provencal	CABEU		G	
+57	Provencal	PEU		Q	
+42	Ladin	CHAVE		G	
+146	Dolomite Ladino	ciavel		G	
+123	Romansh	cavegl		G	
+123	Romansh	peil		Q	
+123	Romansh	zazna			
+122	Friulian	pêl		Q	
+122	Friulian	cjaveli		G	
+39	Italian	pelo	'pelo	Q	
+39	Italian	capello	ka'pello	G	
+59	Romanian	păr		Q	
+74	Vlach	PERI		Q	
+140	Gaulish	uolto-		J	
+127	Old Irish	folt	folt	J	
+149	Old Cornish	gols		J	
+149	Old Cornish	bleu		H	
+101	Middle Cornish	gols	gɔlz	J	
+101	Middle Cornish	blew	blɛˑʊ	H	
+148	Old Breton	guolt		J	
+148	Old Breton	bleu		H	
+172	Middle Breton	bleau, bleu	ˈbleo	H	
+12	Breton	blev, blew, bleo	ˈblɛw	H	
+150	Old Welsh	bleu		H	
+150	Old Welsh	gwallt		J	
+79	Welsh	gwallt		J	
+79	Welsh	blew		H	
+38	Irish	gruaig		L	
+38	Irish	folt		(J)	
+115	Scottish Gaelic	falt		J	
+115	Scottish Gaelic	gruag		(L)	
+147	Manx	folt		J	
+147	Manx	gruag		(L)	
+5	[Legacy] Albanian T	lesh		D	
+5	[Legacy] Albanian T	qime		(C)	
+5	[Legacy] Albanian T	flok			
+29	[Legacy] Greek K	KOME		T	
+28	[Legacy] Greek D	MALLIA		K	
+30	[Legacy] Greek Md	MALLIA		K	
+64	[Legacy] Serbocroatian	KOSA		I	
+113	[Legacy] Serbian	kosa	kǒsa	I	
+113	[Legacy] Serbian	vlas		J	
+113	[Legacy] Serbian	dlaka	dlâka		
+89	[Legacy] Bulgarian P	VLAS		J	
+49	[Legacy] Macedonian	kosa	ˈkɔsa	I	
+49	[Legacy] Macedonian	vlákno	ˈvlaknɔ	J	
+94	[Legacy] Russian P	VOLOS		J	
+93	[Legacy] Polish P	WLOS		J	
+90	[Legacy] Byelorussian P	VOLAS		J	
+98	[Legacy] Ukrainian P	VOLOS		J	
+19	[Legacy] Czech E	VLASI		J	
+96	[Legacy] Slovak P	VLASY		J	
+91	[Legacy] Czech P	VLAS		J	
+67	[Legacy] Slovenian	LASJE		J	
+45	[Legacy] Lithuanian O	PLAUKAI		M	
+11	[Legacy] Brazilian	cabelo	kaˈbelu	G	
+142	[Legacy] German Munich	Haare		B	
+84	[Legacy] French Creole C	SIVE		G	
+14	[Legacy] Breton St	blev	blɛw	H	
+13	[Legacy] Breton Se	BLEU		H	
+78	[Legacy] Welsh C	GWALLT		J	
+37	[Legacy] Irish A	GRUAIG		L	

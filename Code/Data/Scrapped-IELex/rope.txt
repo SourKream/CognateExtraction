@@ -1,0 +1,194 @@
+80	Hittite	ishimas		X	
+81	Tocharian A	sparp			
+88	Albanian	LITARI		C	
+88	Albanian	KONOPI		(E)	
+143	Standard Albanian	litar		C	
+2	Albanian Sicily	TRIKUZ		D	
+4	Albanian Corinth	TELH			
+3	Albanian Gheg	LITARI		C	
+6	Albanian Tosk	TERKUZE		D	
+110	Ancient Greek	δεσμός	dezmós	(S)	
+110	Ancient Greek	κάλως	kálɔːs	R	
+110	Ancient Greek	πεῖσμα	péì̯sma	(W)	
+110	Ancient Greek	σπάρτον	spárton		
+32	Greek	σκοινί	sçiˈni	L	
+31	Greek Lesbos	SKOINI		L	
+129	Classical Armenian	պարան	paran	Y	
+129	Classical Armenian	տոռն	toṙn		
+129	Classical Armenian	malowx			
+129	Classical Armenian	չուան	tʃʰəvɑn	H	
+8	Armenian Eastern	T`OK			
+8	Armenian Eastern	պարան	pɑˈɾɑn	Y	
+7	Armenian Western	չուան	tʃʰəvɑn	H	
+75	Wakhi	NUS		Ae	
+75	Wakhi	SIVEN		W	
+75	Wakhi	TUNOV		O	
+75	Wakhi	DEROWI		Af	
+9	Baluchi	REZ		T	
+137	Zazaki	resen		T	
+72	Tajik	ARWAMCINI		Ag	
+54	Persian	TANAB		O	
+77	Waziri	PERAI		A	
+1	Pashto	PERAJ		A	
+138	Shughni	(sar)bānd		W	
+139	Sarikoli	vыx̆, vůx̆		W	
+52	Ossetic	baendaen	bændæn	W	
+124	Ossetic Iron	bɐttɐn	bɐttɐn	W	
+125	Ossetic Digor	bɐttɐn	bɐttɐn	W	
+105	Vedic Sanskrit	dā́ma		(S)	
+105	Vedic Sanskrit	rájjus		Ah	
+162	Pāḷī	rajju		Ah	
+41	Khaskura	JIURI		Aj	
+41	Khaskura	DORI		F	
+41	Khaskura	SUTARI		Ai	
+51	Nepali	DORI		F	
+106	Assamese	rɔsi	rɔsi	T	
+102	Oriya	ḍorɔ	ɖorɔ	F	
+10	Bengali	DORI		F	
+111	Bihari	rəssa	rəssa	T	
+144	Magahi	जउरी	ɟəuri	Aj	
+144	Magahi	रासा,रस्सी	rɑsɑ, rəssi	T	
+104	Marwari	jewaḍī			
+104	Marwari	jūṇṇa			
+104	Marwari	raṇḍū			
+35	Hindi	dori	ɖori	F	
+35	Hindi	RESSA		T	
+119	Urdu	رسّا، رسّی	ɾəsːə, ɾəsːi	T	
+103	Sindhi	ra(s)sī		T	
+103	Sindhi	nōṛī			
+43	Lahnda	RESSI		T	
+53	Punjabi	RESSA		T	
+33	Gujarati	DORERU		F	
+50	Marathi	dor	doɾ	F	
+40	Kashmiri	RAZ		T	
+65	Sinhalese	LANUWA			
+34	Romani Greece	SKINI		(L)	
+100	Old Church Slavonic	врьвь	vrɪ̆vɪ̆	I	
+95	Serbo-Croatian	konopac	ˈkɔ̌nɔpats	(E)	
+15	Bulgarian	въже	vəˈʒɛ	M	
+92	Macedonian	јаже	ˈjaʒɛ	M	
+60	Russian	верёвка	vʲi'rʲɔvka	I	
+55	Polish	sznur	ʂnur	(U)	
+55	Polish	lina	ˈlina	(V)	
+16	Belarusian	вяроўка	vʲaˈrɔwka	I	
+73	Ukrainian	мотуз	ˈmɔtuz	J	
+66	Slovak	povraz	ˈpɔvraz	Ak	
+18	Czech	provaz	ˈprɔvaz	M	
+48	Sorbian Upper	powjaz	ˈpojaz	M	
+47	Sorbian Lower	powrjoz	ˈpowrʲɔz	Ak	
+97	Slovenian	vrv	və̂ːrw	I	
+108	Old Prussian	wirbe		I	
+44	Latvian	vìrve		I	
+44	Latvian	taũva		(B)	
+46	Lithuanian	VIRVE		I	
+109	Old Norse	taug, tog	tauɡ, toɡ	(B)	
+109	Old Norse	reip	rɛip	K	
+109	Old Norse	strengr	strenɣr	(Z)	
+109	Old Norse	síma	ˈsiːma	(X)	
+36	Icelandic	strengur	ˈstrɛŋɡ̊ʏr	Z	
+36	Icelandic	taug	tʰøɪːɣ	B	
+36	Icelandic	reipi	ˈreiːpʰɪ	K	
+23	Faroese	reip	ɹaiːp	K	
+23	Faroese	tog	tʰo:	B	
+58	Norwegian Riksmal	tau	tœʏ	B	
+58	Norwegian Riksmal	rep	ɾeːp	K	
+58	Norwegian Riksmal	line	ˈlìːnə	(V)	
+159	Stavangersk	reib	ʁɛɪb	K	
+159	Stavangersk	təu	təʉ	B	
+157	Old Swedish	tugh	tuːɣ	B	
+157	Old Swedish	rep	reːp	K	
+157	Old Swedish	simi	ˈsiːmi	X	
+69	Swedish	rep	re:p	K	
+69	Swedish	tåg	toːɡ	B	
+69	Swedish	lina	ˈlì:na	(V)	
+71	Swedish Vilhelmina	REP		K	
+70	Swedish Uppland	REP		K	
+145	Elfdalian	tråss		Aa	
+145	Elfdalian	riep	rɪɛp	K	
+20	Danish	reb	ʁɛˀb̥	K	
+20	Danish	tov	tɒw	B	
+158	Danish Fjolde	töv	tœw	B	
+158	Danish Fjolde	rieb	ɹieb	K	
+160	Old Gutnish	tug		B	
+161	Gutnish Lau	raip	raɪp	K	
+161	Gutnish Lau	tug	tuːɡ	B	
+99	Old English	streng		Z	
+99	Old English	sāl		X	
+99	Old English	rāp		K	
+22	English	rope	rəʊp	K	
+26	Frisian	tou	tɔ.u	B	
+21	Dutch	touw	tɑu	B	
+21	Dutch	koord	kort	(G)	
+24	Flemish	TOUW		B	
+83	Afrikaans	TOU		B	
+87	Sranan	TETEI			
+126	Old High German	seil		X	
+126	Old High German	stric			
+126	Old High German	strang		Z	
+27	German	Seil	zaĭl	X	
+86	Pennsylvania Dutch	SCHTRICK			
+120	Luxembourgish	Seel		X	
+121	German Switzerland	seili		X	
+107	Gothic	in-sailjanu		X	
+107	Gothic	raip		K	
+112	Latin	fūnis	ˈfuːnis	Q	
+17	Catalan	corda	'kɔɾðə	G	
+17	Catalan	cordill	'kuɾðiʎ	G	
+56	Portuguese	corda	ˈkɔɾðɐ	G	
+68	Spanish	cuerda	'kweɾða	G	
+61	Sardinian Cagliari	FUNI		Q	
+62	Sardinian Logudoro	FUNE		Q	
+63	Sardinian Nuoro	KANNAU			
+85	French Creole Dominica	KOD		G	
+76	Walloon	CWEDE		G	
+25	French	corde	kɔʀd	G	
+57	Provencal	CORDO		G	
+42	Ladin	CORDA		G	
+146	Dolomite Ladino	corda		G	
+123	Romansh	corda		G	
+122	Friulian	cuarde		G	
+39	Italian	corda	'kɔrda	G	
+59	Romanian	frânghie			
+59	Romanian	ODGON			
+74	Vlach	FUNI		Q	
+127	Old Irish	loman	loṽən	(Ac)	
+127	Old Irish	tét	tʹe:d	N	
+127	Old Irish	súainem	su:ənʹəṽʹ		
+101	Middle Cornish	guzen			
+101	Middle Cornish	lovan	'lɔvan	Ac	
+172	Middle Breton	cordenn, corden	ˈkorden	Ab, (G)	
+12	Breton	kordenn	ˈkɔrdɛn	Ab, (G)	
+79	Welsh	rhaff		(K)	
+38	Irish	téad	tʲiad̪ˠ, tʲeːd̪ˠ	N	
+115	Scottish Gaelic	ròpa		Ad, (K)	
+5	[Legacy] Albanian T	LITAR		C	
+29	[Legacy] Greek K	SCHOINION		L	
+29	[Legacy] Greek K	CHONDRON		L	
+28	[Legacy] Greek D	SKOINI		L	
+30	[Legacy] Greek Md	SKOINI		L	
+30	[Legacy] Greek Md	PALAMARI			
+64	[Legacy] Serbocroatian	KONOPAC		(E)	
+113	[Legacy] Serbian	uže		I	
+113	[Legacy] Serbian	konopac	kǒnopats	(E)	
+113	[Legacy] Serbian	kanap	kǎnaːp	(E)	
+89	[Legacy] Bulgarian P	VRUV		I	
+49	[Legacy] Macedonian	ORTOMA			
+49	[Legacy] Macedonian	jáže	ˈjaʒɛ	I	
+94	[Legacy] Russian P	VER OVKA		I	
+93	[Legacy] Polish P	POWROZ		M	
+90	[Legacy] Byelorussian P	V AROUKA		I	
+98	[Legacy] Ukrainian P	VIRJOUKA		I	
+19	[Legacy] Czech E	SPAGAT		P	
+19	[Legacy] Czech E	PROVAS		M	
+96	[Legacy] Slovak P	POVRAZ		M	
+91	[Legacy] Czech P	PROVAZ		M	
+67	[Legacy] Slovenian	SPAH		P	
+45	[Legacy] Lithuanian O	VIRVE		I	
+11	[Legacy] Brazilian	corda	ˈkɔʁdɐ	G	
+142	[Legacy] German Munich	Seil		X	
+84	[Legacy] French Creole C	KOD		G	
+84	[Legacy] French Creole C	LIN		V	
+14	[Legacy] Breton St	kordenn	'kɔrdɛn	Ab, (G)	
+13	[Legacy] Breton Se	KORDENN		Ab, (G)	
+78	[Legacy] Welsh C	RHAFF		(K)	
+37	[Legacy] Irish A	TEAD		N	

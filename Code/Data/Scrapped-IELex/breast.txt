@@ -1,0 +1,142 @@
+114	Proto-Indo-European	*speno-, *p(H)sten-o-		I	
+80	Hittite	tētan		M	
+133	Luvian	tītan		M	
+81	Tocharian A	päśśäṃ		I	
+82	Tocharian B	päścane		I	
+143	Standard Albanian	gjoks			
+6	Albanian Tosk	gjiri, gjîni		H	
+110	Ancient Greek	στῆθος	stɛ̑ːtʰos	I	
+152	Tsakonian	βουζι, βυζι		Z	
+152	Tsakonian	στηθι		I	
+32	Greek	στήθος	ˈstiθo̞s	I	
+32	Greek	βυζί	viˈzi	(Z)	
+129	Classical Armenian	ստին	stin	(I)	
+129	Classical Armenian	կուրծք	kuɾt͡s-kʰ	Ac	
+129	Classical Armenian	լանջք	lanǰk‘		
+8	Armenian Eastern	ստին	stin	(I)	
+8	Armenian Eastern	կուրծք	kuɾʦkʰ	Ac	
+7	Armenian Western	կուրծք	ɡurd͡zkʰ	Ac	
+128	Avestan	fštānō		I	
+136	Sogdian	’štnh		I	
+118	Kurdish	çiçik		O	
+118	Kurdish	pêsîr		P	
+137	Zazaki	sēnē		N	
+137	Zazaki	virār		Q	
+54	Persian	pistān		P	
+138	Shughni	bar		S	
+138	Shughni	bat		T	
+138	Shughni	biš		R	
+138	Shughni	sīnā		N	
+139	Sarikoli	puz		U	
+141	Kata-viri	čuk		V	
+154	Vasi-vari	pašī		Ab	
+154	Vasi-vari	žüžu		Aa	
+153	Askunu	(židi-)wāṭ		Aa	
+105	Vedic Sanskrit	stánas		I	
+162	Pāḷī	thana		I	
+106	Assamese	ston		(I)	
+106	Assamese	pi.ha			
+106	Assamese	u.roj			
+106	Assamese	du.du		K	
+106	Assamese	bo.khyo.ju.gol			
+106	Assamese	kus		L	
+102	Oriya	dud	dud	K	
+111	Bihari	cuci	cuci	L	
+144	Magahi	छाती	cʰɑt̪i	W	
+104	Marwari	bobo		X	
+119	Urdu	پِستان، سِینہ	pɪstɑn, sinə	(I)	
+103	Sindhi	chhaatii		W	
+34	Romani Greece	THUD		K	
+100	Old Church Slavonic	прьси	pr̩ʲsi	D	
+95	Serbo-Croatian	grudi	ˈɡrûːdi	E	
+95	Serbo-Croatian	prsa	ˈpr̂sa	D	
+15	Bulgarian	гръд	ɡrɤd	E	
+92	Macedonian	гради	ˈɡradi	E	
+60	Russian	грудь	grudʲ	E	
+55	Polish	pierś	pjɛrɕ	D	
+16	Belarusian	грудзі	ˈɣrudzʲi	E	
+73	Ukrainian	груди	ˈɦrudɪ	E	
+66	Slovak	prsia	ˈpr̩sia	D	
+66	Slovak	hruď	ɦruɟ	E	
+18	Czech	hruď	ɦruɟ	E	
+48	Sorbian Upper	hrudź	ʀudʒ	E	
+47	Sorbian Lower	gruź	ɡruʑ	E	
+97	Slovenian	prsi	ˈpə̌ːrsi	D	
+108	Old Prussian	kraclan		G	
+44	Latvian	pups		B	
+44	Latvian	krùts		G	
+46	Lithuanian	krūtis		G	
+109	Old Norse	brjóst	brjoːst	C	
+36	Icelandic	brjóst	ˈb̥rjoust	C	
+23	Faroese	bróst	b̥ɹœst	C	
+58	Norwegian Riksmal	bryst	bɾʏst	C	
+157	Old Swedish	bryst	bryst	C	
+69	Swedish	bröst	brøst	C	
+145	Elfdalian	brest	brɛst	C	
+20	Danish	bryst	ˈb̥ʁɶsd̥	C	
+158	Danish Fjolde	bryst	bɹyst	C	
+160	Old Gutnish	briaust		C	
+161	Gutnish Lau	braust	braust	C	
+99	Old English	brēost		C	
+22	English	breast		C	
+21	Dutch	borst		C	
+126	Old High German	brust		C	
+27	German	Brust		C	
+120	Luxembourgish	Broscht		C	
+121	German Switzerland	bruscht		C	
+107	Gothic	barms			
+107	Gothic	brusts		C	
+107	Gothic	brusts		C	
+112	Latin	mamma	ˈmamːa	(A)	
+112	Latin	pectus	ˈpektus	Y	
+112	Latin	sinus	ˈsinus	(H)	
+68	Spanish	teta		M	
+68	Spanish	pecho	'peʧo		
+25	French	mamelle	mamɛl	A	
+25	French	téton	tetɔ̃	M	
+25	French	sein	sɛ̃	H	
+146	Dolomite Ladino	stomech			
+123	Romansh	sain		H	
+123	Romansh	pèz		Y	
+122	Friulian	polmon			
+122	Friulian	stomi			
+122	Friulian	pet		Y	
+39	Italian	mamella	mam'mɛlla	A	
+39	Italian	tetta	'tetta	M	
+39	Italian	poppa	'poppa	B	
+59	Romanian	piept	pjept		
+59	Romanian	ƫâƫă		M	
+140	Gaulish	brunnio-		C	
+127	Old Irish	bruinne	brunʹnʹe	C	
+127	Old Irish	cích	kʹi:x	(J)	
+127	Old Irish	ucht	uxt	Y	
+149	Old Cornish	bron		C	
+101	Middle Cornish	bron		C	
+148	Old Breton	bronn		C	
+172	Middle Breton	bronn	ˈbronː	C	
+12	Breton	bronn	ˈbrɔ̃nː	C	
+150	Old Welsh	bronn		C	
+79	Welsh	bron	brɔn	C	
+79	Welsh	brest		(C)	
+38	Irish	cíoch		(J)	
+38	Irish	ucht		Y	
+115	Scottish Gaelic	cìoch		(J)	
+115	Scottish Gaelic	broilleach		C	
+147	Manx	sheeiney			
+5	[Legacy] Albanian T	sisë		(F)	
+5	[Legacy] Albanian T	pupë		(B)	
+5	[Legacy] Albanian T	gji		H	
+5	[Legacy] Albanian T	parzëm		(D)	
+5	[Legacy] Albanian T	krahëror, krahnuer			
+64	[Legacy] Serbocroatian	sisa		F	
+113	[Legacy] Serbian	grudi	ɡrûːdi	E	
+113	[Legacy] Serbian	prsa	prsa	D	
+49	[Legacy] Macedonian	gráda	ˈɡrada	E	
+19	[Legacy] Czech E	prs		D	
+11	[Legacy] Brazilian	seios	ˈseius	H	
+11	[Legacy] Brazilian	peito	ˈpeitu	Y	
+142	[Legacy] German Munich	Brust		C	
+14	[Legacy] Breton St	bronn		C	
+78	[Legacy] Welsh C	bron		C	
+37	[Legacy] Irish A	mama		A	
+37	[Legacy] Irish A	cīoch		J	

@@ -1,0 +1,177 @@
+114	Proto-Indo-European	*h₂engwi		D	
+114	Proto-Indo-European	*neh₁tr-			
+81	Tocharian A	arṣāl		N	
+82	Tocharian B	arṣāklo		N	
+82	Tocharian B	auk			
+88	Albanian	BOLLA		O	
+88	Albanian	BERI		C	
+88	Albanian	GJARPEN		E	
+143	Standard Albanian	gjarpër		E	
+2	Albanian Sicily	GALPHRH		E	
+4	Albanian Corinth	GARPER		E	
+3	Albanian Gheg	BERI		C	
+3	Albanian Gheg	GJARPEN		E	
+3	Albanian Gheg	BOLLA		O	
+6	Albanian Tosk	GARPER		E	
+110	Ancient Greek	ὄφις	ópʰis	D	
+110	Ancient Greek	ἑρπετόν	herpetón	(E)	
+110	Ancient Greek	ἔχιδνα	ékʰidna	(D)	
+32	Greek	φίδι	ˈfiði	D	
+31	Greek Lesbos	FIDI		D	
+129	Classical Armenian	աւձ	awj	D	
+8	Armenian Eastern	ōj		D	
+7	Armenian Western	OTZ		D	
+128	Avestan	ažiš		D	
+136	Sogdian	kyrm		Q	
+75	Wakhi	FUKS		S	
+9	Baluchi	MAR		A	
+137	Zazaki	mār		A	
+72	Tajik	mor	mɔːr	A	
+54	Persian	mar	mɒːɾ	A	
+77	Waziri	MANGER		A	
+1	Pashto	MAR		A	
+138	Shughni	mōr		A	
+138	Shughni	divūsk		T	
+139	Sarikoli	tыfыsk		T	
+52	Ossetic	kalm	kalm	Q	
+124	Ossetic Iron	kalm	kalm	Q	
+125	Ossetic Digor	χelagɐ	χelagɐ	R	
+141	Kata-viri	bimbistʌ		U	
+105	Vedic Sanskrit	áhis		D	
+162	Pāḷī	sappa		E	
+41	Khaskura	NAG		L	
+41	Khaskura	LAMKIRA			
+51	Nepali	SAP		E	
+106	Assamese	tāngloi			
+106	Assamese	xap	xap	E	
+102	Oriya	sapɔ	sapɔ	E	
+10	Bengali	sap	ʃɑp	E	
+111	Bihari	sãp	sãp	E	
+144	Magahi	सांप	sɑ̃p	E	
+104	Marwari	sap	sap	E	
+35	Hindi	sap	sɑ̃ːp	E	
+119	Urdu	سانپ	sɑ̃p	E	
+103	Sindhi	balā̄			
+103	Sindhi	sapu		E	
+43	Lahnda	SEP		E	
+53	Punjabi	SEPP		E	
+33	Gujarati	NAG		L	
+33	Gujarati	SAP		E	
+50	Marathi	sāp	sap	E	
+40	Kashmiri	SARAPH		E	
+65	Sinhalese	NAYA		L	
+34	Romani Greece	SAP		E	
+100	Old Church Slavonic	змия	zmija	H	
+95	Serbo-Croatian	zmija	ˈzmǐja	H	
+15	Bulgarian	змия	zmiˈja	H	
+92	Macedonian	змија	ˈzmija	H	
+60	Russian	змея	'zmʲɛja	H	
+55	Polish	wąż	vɔɰ̃ʐ	D	
+16	Belarusian	змяя	zʲmʲaˈja	H	
+73	Ukrainian	змія	zmiˈja	H	
+66	Slovak	had	ɦad	I	
+18	Czech	had	ɦad	I	
+48	Sorbian Upper	had	had	I	
+47	Sorbian Lower	wuž	huʐ	D	
+97	Slovenian	kača	kǎːtʃa	V	
+108	Old Prussian	angis		D	
+44	Latvian	čũska		P	
+46	Lithuanian	gyvatė	ɡʲi:ˈʋa:tʲe:	M	
+46	Lithuanian	ZALTYS			
+109	Old Norse	ormr	ormr	K	
+109	Old Norse	snákr	snaːkr	J	
+109	Old Norse	slangi	ˈslanɣi	(B)	
+109	Old Norse	naðr	naðr	G	
+36	Icelandic	slanga	ˈstlauŋɡ̊a	(B)	
+36	Icelandic	ormur	ˈɔrmʏr	K	
+36	Icelandic	snákur	ˈstnauːkʰʏr	J	
+23	Faroese	snákur	ˈsnɔaːkʰʊɹ	(J)	
+23	Faroese	ormur	ˈɔɹmʊɹ	K	
+23	Faroese	slanga	ˈslaŋɡ̊a	(B)	
+58	Norwegian Riksmal	orm	uɾm	K	
+58	Norwegian Riksmal	slange	ˈslàŋːə	(B)	
+159	Stavangersk	årm	ɔʁm	K	
+157	Old Swedish	slanga	ˈslaŋːa	(B)	
+157	Old Swedish	ormber	ˈormber	K	
+69	Swedish	orm	ʊrm	K	
+71	Swedish Vilhelmina	ORM		K	
+70	Swedish Uppland	ORM		K	
+145	Elfdalian	uorm	ʉərm	K	
+20	Danish	slange	ˈslɑŋə	(B)	
+20	Danish	snog	snoˀ	(J)	
+158	Danish Fjolde	snuog	snuoɣ	(J)	
+158	Danish Fjolde	slange	ˈslɑŋə	(B)	
+160	Old Gutnish	ormr		K	
+161	Gutnish Lau	årm	orm	K	
+99	Old English	nædre		G	
+99	Old English	wyrm		K	
+99	Old English	snaca		J	
+22	English	snake	sneɪk	J	
+26	Frisian	slang(e)	'slaŋ(ə)	B	
+21	Dutch	slang	slɑŋ	B	
+24	Flemish	SLANG		B	
+83	Afrikaans	SLANG		B	
+87	Sranan	SNEKI		J	
+126	Old High German	nātra			
+126	Old High German	slango		B	
+126	Old High German	wurm		K	
+27	German	Schlange	'ʃlaŋə	B	
+86	Pennsylvania Dutch	SCHLUNG		B	
+120	Luxembourgish	Schlaang		B	
+121	German Switzerland	schlange		B	
+107	Gothic	adrs		G	
+107	Gothic	waúrms		K	
+112	Latin	anguis	ˈaŋgwis	D	
+112	Latin	serpēns	ˈserpeːns	E	
+17	Catalan	serp, serpent	seɾp, səɾ'pen	E	
+56	Portuguese	serpente	sɨɾˈpẽtɨ	E	
+56	Portuguese	cobra	ˈkɔβɾɐ	F	
+68	Spanish	serpiente	seɾ'pjente	E	
+68	Spanish	CULEBRA		F	
+61	Sardinian Cagliari	SERPENTI		E	
+62	Sardinian Logudoro	SERPENTE		E	
+63	Sardinian Nuoro	THERPENTE		E	
+76	Walloon	SIERPINT, CHERPINT		E	
+25	French	serpent	sɛʀpɑ̃	E	
+57	Provencal	SERP, SERPENT		E	
+42	Ladin	SERP, ZERP		E	
+123	Romansh	serp		E	
+122	Friulian	sarpint		E	
+122	Friulian	madrac			
+39	Italian	serpe	'sɛrpe	E	
+59	Romanian	șarpe	ˈʃarpe	E	
+74	Vlach	NEPUNDIKE			
+127	Old Irish	nathair	naθərʹ	G	
+101	Middle Cornish	nader		G	
+101	Middle Cornish	sarf		(E)	
+101	Middle Cornish	gorthfyl			
+101	Middle Cornish	aer		(G)	
+172	Middle Breton	azr, aezr	ˈaðr		
+12	Breton	naer, aer		G	
+79	Welsh	neidr		G	
+38	Irish	nathair		G	
+115	Scottish Gaelic	nathair		G	
+5	[Legacy] Albanian T	gjarpër	ˈɟʑaɾpəɹ	E	
+29	[Legacy] Greek K	OFUS		D	
+28	[Legacy] Greek D	FIDI		D	
+30	[Legacy] Greek Md	FIDI		D	
+64	[Legacy] Serbocroatian	ZMIJA		H	
+113	[Legacy] Serbian	zmija	zmǐja	H	
+89	[Legacy] Bulgarian P	ZMIJA		H	
+49	[Legacy] Macedonian	ZMIJA		H	
+94	[Legacy] Russian P	ZMEJA		H	
+93	[Legacy] Polish P	ZMIJA		H	
+90	[Legacy] Byelorussian P	ZM AJA		H	
+98	[Legacy] Ukrainian P	ZMIJA		H	
+19	[Legacy] Czech E	HAD		I	
+96	[Legacy] Slovak P	ZMIJA		H	
+91	[Legacy] Czech P	HAD		I	
+67	[Legacy] Slovenian	KACA			
+45	[Legacy] Lithuanian O	GYVATE		M	
+11	[Legacy] Brazilian	serpente	seʁˈpẽtʃi	E	
+11	[Legacy] Brazilian	cobra	ˈkɔbɾɐ	F	
+142	[Legacy] German Munich	Schlange		B	
+84	[Legacy] French Creole C	(NO GENERIC TERM) KULEV, KUHWES (GRASS)		F	
+14	[Legacy] Breton St	naer	'naɛr	G	
+13	[Legacy] Breton Se	NAER		G	
+78	[Legacy] Welsh C	NEIDR		G	

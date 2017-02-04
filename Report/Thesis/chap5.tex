@@ -1,0 +1,78 @@
+\chapter{Conclusion}
+
+The analysis of the results from the subsequence models reveals that the performance of the system is not uniform across concepts. There are concepts where the cognate classes are segregated finely enough so that the model is able to learn cognates pairs with high precision and recall but others where the cognate classes are so broad that the model is not able to predict anything. This split in the data can come from the fact that for some concepts, the sound classes have evolved a lot, such that there is significant variation in the structure of the words, while in others this evolution has not been so drastic. 
+
+\begin{table}[h]
+\centering
+	\begin{minipage}{.5\linewidth}
+      \centering
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{\textbf{"WHAT"}} \\ \hline
+\textbf{Language}   & \textbf{Word}   \\ \hline
+Hindi               & KYA             \\ \hline
+Nepali              & KE              \\ \hline
+Spanish             & QUE             \\ \hline
+Swedish             & VA              \\ \hline
+Danish              & HVAD            \\ \hline
+\end{tabular}
+
+
+	\end{minipage}%
+    \begin{minipage}{.5\linewidth}
+    \centering
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{\textbf{"HOW"}} \\ \hline
+\textbf{Language}   & \textbf{Word}  \\ \hline
+Swedish             & HUR            \\ \hline
+Icelandic           & HVERSU         \\ \hline
+Hindi               & KESA           \\ \hline
+Russian             & KAK            \\ \hline
+Spanish             & COMO           \\ \hline
+\end{tabular}
+
+	\end{minipage} 
+\end{table}
+
+\begin{table}[h]
+\centering
+	\begin{minipage}{.5\linewidth}
+      \centering
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{\textbf{"LAKE"}} \\ \hline
+\textbf{Language}   & \textbf{Word}   \\ \hline
+Ukrainian           & OZERO           \\ \hline
+Slovak              & JAZERO          \\ \hline
+Serbocroatian       & JEZERO          \\ \hline
+Polish              & JEZIORO         \\ \hline
+Lusatian            & JEZOR           \\ \hline
+\end{tabular}
+
+
+	\end{minipage}%
+    \begin{minipage}{.5\linewidth}
+    \centering
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{\textbf{"CHILD"}} \\ \hline
+\textbf{Language}    & \textbf{Word}   \\ \hline
+Ukrainian            & DYTYNA          \\ \hline
+Slovak               & DIETNA          \\ \hline
+Serbocroatian        & DETE            \\ \hline
+Czech                & DITE            \\ \hline
+Lusatian             & ZESE            \\ \hline
+\end{tabular}
+
+	\end{minipage} 
+\end{table}
+
+We can see such examples of drastic and non-drastic changes in structure, in the tables shown that present few words from the same cognate class for the specified meanings.
+
+Cognate formation results from the evolution of sound changes in the words over time. From our experiments we have seen that there is a link in this evolution of sound class with the semantics of the words. Because words with different meanings are used in different frequencies, some appear to go through rapid adaptation and while others do not change by a lot. Nouns and Adjective words are seen to have better performance and more number of cognate classes. In particular, words like \textit{`WHAT'}, \textit{`WHEN'}, \textit{`HOW'} show a lot of variation even within a cognate class, so much that some cognate word pairs do not share any subsequence. Thus, the semantics of a word seem to be playing a significant role in the cognate prediction task and should be used along with the phonetic and orthographic features.
+

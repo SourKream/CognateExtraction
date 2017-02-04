@@ -1,0 +1,190 @@
+114	Proto-Indo-European	*gʷʰen-		W	
+80	Hittite	kuēnzi		W	
+81	Tocharian A	koṣ			
+82	Tocharian B	kauṣäṃ			
+88	Albanian	vras		C	
+143	Standard Albanian	vras		C	
+2	Albanian Sicily	vras		C	
+4	Albanian Corinth	vras		C	
+3	Albanian Gheg	vras		C	
+6	Albanian Tosk	vras		C	
+110	Ancient Greek	(ἀπο-)κτείνω	(apo-)ktéːnɔː	Ai	
+110	Ancient Greek	φονεύω	pʰonéu̯ɔː	(W)	
+152	Tsakonian	θανατουκου		Y	
+152	Tsakonian	σκοτουνου		L	
+32	Greek	φονεύω		(U)	
+32	Greek	σκοτώνω	sko̞ˈto̞no̞	L	
+31	Greek Lesbos	SKOTONO		L	
+129	Classical Armenian	սպանանեմ	spananem	D	
+8	Armenian Eastern	spanel	spɑˈnɛl	D	
+7	Armenian Western	SBANNELL		D	
+128	Avestan	ǰainti		W	
+131	Old Persian	avaǰantiy		W	
+75	Wakhi	SAEI-		Ac	
+9	Baluchi	KHUSHAGH, KHUSHTA		E	
+118	Kurdish	kuştin		E	
+137	Zazaki	kištiš		E	
+72	Tajik	SAR BURIDAN		Ad	
+72	Tajik	kuštan	kuʃtæn	E	
+72	Tajik	ZADAN		W	
+54	Persian	KOSHTAN		E	
+77	Waziri	WEZHLEL		A	
+1	Pashto	VAZEL		A	
+138	Shughni	kaγ̆		E	
+139	Sarikoli	zon : zed		(W)	
+139	Sarikoli	kɛyɣ̆ : kax̆t		E	
+52	Ossetic	maryn	marɨn	F	
+124	Ossetic Iron	mar-	mar-	F	
+125	Ossetic Digor	mar-	mar-	F	
+141	Kata-viri	ǰʌ̃i-		W	
+154	Vasi-vari	o-žnü-		W	
+153	Askunu	lā-		R	
+105	Vedic Sanskrit	hánti		W	
+162	Pāḷī	māreti		F	
+51	Nepali	MARNU		F	
+106	Assamese	mar	mar	F	
+102	Oriya	mar-	mar-	F	
+10	Bengali	MARA		F	
+111	Bihari	marəb	marəb	F	
+144	Magahi	मरना	mɑrnɑ	F	
+104	Marwari	mār aṇō		F	
+104	Marwari	kāṭagērabō		Ae	
+35	Hindi	marna	marna	F	
+119	Urdu	مارنا	mɑɾnə	F	
+103	Sindhi	kuh-aṇu		Af	
+43	Lahnda	MAREN		F	
+53	Punjabi	MARNA		F	
+33	Gujarati	MAREWU		F	
+50	Marathi	tākne	ʈak'ɳe	Ag	
+50	Marathi	mārūn	'maɾun	F	
+50	Marathi	mārne	'maɾɳe	F	
+40	Kashmiri	MARUN		F	
+65	Sinhalese	MARANAWA		F	
+65	Sinhalese	marə	maɾə	F	
+34	Romani Greece	MUNDARAV  MUTARAV		Ah	
+100	Old Church Slavonic	ѹбити	ubiti	I	
+95	Serbo-Croatian	ubiti	ˈǔbiti	I	
+15	Bulgarian	убивам	uˈbivəm	I	
+92	Macedonian	убива	ˈubiva	I	
+60	Russian	убивать	ubʲi'vatʲ	I	
+55	Polish	zabić	ˈzabitɕ	I	
+16	Belarusian	забіваць	zabʲiˈvatsʲ	I	
+73	Ukrainian	убити	ubɪtɪ	I	
+66	Slovak	zabiť	ˈzabic	I	
+18	Czech	zabíjet	ˈzabiːjɛt	I	
+48	Sorbian Upper	zabić	ˈzabitʃ	I	
+47	Sorbian Lower	zabiś	ˈzabiɕ	I	
+97	Slovenian	ubiti	uˈbǐːti	I	
+108	Old Prussian	gallintwei		Q	
+44	Latvian	nònâvẽ		Q	
+46	Lithuanian	UZMUSTI		M	
+109	Old Norse	vega	ˈveːɡa	(Z)	
+109	Old Norse	drepa	ˈdrepa	(B)	
+109	Old Norse	deyða	ˈdɛyða	T	
+36	Icelandic	deyða	ˈd̥eiːða	T	
+36	Icelandic	drepa	ˈd̥rɛːpʰa	B	
+23	Faroese	drepa	ˈd̥ɹeːpa	B	
+23	Faroese	deyða, doyða	ˈd̥ɛiːja, ˈd̥ɔiːja	T	
+58	Norwegian Riksmal	drepe	ˈdɾèːpə	B	
+159	Stavangersk	dreba	ˈdʁèːba	B	
+157	Old Swedish	dödha	ˈdøːða	T	
+157	Old Swedish	dräpa	ˈdræːpa	B	
+69	Swedish	dräpa	ˈdrɛ̀:pa	B	
+69	Swedish	döda	ˈdø̀ːda	T	
+71	Swedish Vilhelmina	DRAPA		B	
+70	Swedish Uppland	SLA IHJAL		S	
+145	Elfdalian	ev ijel	ˌɛːv ɪˈjɛːl	Ab	
+145	Elfdalian	drepå	ˈdrɛ̀pɔ	B	
+145	Elfdalian	ela	ˈɛ̀ːlɑ	Aa	
+20	Danish	døde	ˈd̥øːðə	T	
+20	Danish	dræbe	ˈdʁɛ:b̥ə	B	
+160	Old Gutnish	vega		Z	
+160	Old Gutnish	drepa		B	
+161	Gutnish Lau	dödä	ˈdœːdɛ	T	
+99	Old English	sliehþ		S	
+22	English	to kill	kɪl	J	
+26	Frisian	DEIJE		T	
+26	Frisian	deadzje	'dɪ.ədzjə	T	
+21	Dutch	slachten	'slɑχtə(n)	(S)	
+21	Dutch	doden	'dodə(n)	T	
+24	Flemish	DOODEN		T	
+83	Afrikaans	DOODMAAK		T	
+87	Sranan	KILI		J	
+126	Old High German	(ar)slehit		S	
+126	Old High German	gitōtit		T	
+27	German	töten	'tø:tn̩	T	
+120	Luxembourgish	doud maachen		T	
+121	German Switzerland	töte		T	
+107	Gothic	usqimiþ			
+107	Gothic	afdauþeiþ		T	
+107	Gothic	afslahiþ		S	
+112	Latin	interficere	interˈfikere		
+112	Latin	occīdere	oˈkːiːdere	(O)	
+17	Catalan	NAFRAR			
+17	Catalan	matar	mə'ta	G	
+56	Portuguese	matar	mɐˈtaɾ	G	
+68	Spanish	matar	ma'taɾ	G	
+61	Sardinian Cagliari	BOCCIRI		N	
+62	Sardinian Logudoro	BOCCHIRE		N	
+63	Sardinian Nuoro	UKKIERE		O	
+85	French Creole Dominica	CWE		K	
+76	Walloon	TOUWER		K	
+25	French	tuer	tɥe	K	
+57	Provencal	PERI			
+57	Provencal	TUA		K	
+42	Ladin	MAZZER		P	
+42	Ladin	MURENTER		F	
+146	Dolomite Ladino	mazèr		P	
+146	Dolomite Ladino	desemà			
+146	Dolomite Ladino	copèr		X	
+123	Romansh	mazzar		P	
+123	Romansh	coppar		X	
+122	Friulian	maçâ		P	
+122	Friulian	copâ		X	
+39	Italian	ammazzare	ammat'tsare	P	
+39	Italian	uccidere	ut'tʃidere	O	
+59	Romanian	a omorî	a omoˈrɨ	(F)	
+59	Romanian	a ucide	a uˈtʃide	O	
+74	Vlach	VATEMU			
+140	Gaulish	orge		V	
+127	Old Irish	orcaid, oirgid	orgəðʹ, orʹgʹəðʹ	V	
+127	Old Irish	marbaid	marβəðʹ	F	
+101	Middle Cornish	ladha	'laða	H	
+148	Old Breton	ladam		H	
+172	Middle Breton	lazaff, lazaf	ˈlaːðaṽ	H	
+12	Breton	lazañ	ˈlaːzã	H	
+150	Old Welsh	ledit		H	
+79	Welsh	lladd		H	
+38	Irish	marbh		(F)	
+38	Irish	maraigh		F	
+115	Scottish Gaelic	marbh		F	
+147	Manx	marroo		F	
+5	[Legacy] Albanian T	vras		C	
+5	[Legacy] Albanian T	mbys			
+29	[Legacy] Greek K	FONEUO		U	
+28	[Legacy] Greek D	SKOTONO		L	
+30	[Legacy] Greek Md	KSEKANO			
+30	[Legacy] Greek Md	SKOTONO		L	
+30	[Legacy] Greek Md	THANATONO		Y	
+64	[Legacy] Serbocroatian	UBITI		I	
+113	[Legacy] Serbian	ubiti	ǔbiti	I	
+89	[Legacy] Bulgarian P	UBIVAM		I	
+49	[Legacy] Macedonian	úbiva	ˈubiva	I	
+49	[Legacy] Macedonian	OTEPA			
+94	[Legacy] Russian P	UBIT		I	
+93	[Legacy] Polish P	ZABIC		I	
+90	[Legacy] Byelorussian P	ZABIC		I	
+98	[Legacy] Ukrainian P	UBYVATI		I	
+19	[Legacy] Czech E	ZABIT		I	
+96	[Legacy] Slovak P	ZABIT		I	
+91	[Legacy] Czech P	ZABIJETI		I	
+67	[Legacy] Slovenian	UBIJAT		I	
+45	[Legacy] Lithuanian O	UZMUSTI		M	
+45	[Legacy] Lithuanian O	NAIKINTI			
+11	[Legacy] Brazilian	MATAR		G	
+142	[Legacy] German Munich	töten		T	
+84	[Legacy] French Creole C	CWE		K	
+14	[Legacy] Breton St	lazhañ	'la:zã	H	
+13	[Legacy] Breton Se	LAHEIN		H	
+78	[Legacy] Welsh C	LLADD		H	
+37	[Legacy] Irish A	MARBHUGHADH		F	

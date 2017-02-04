@@ -1,0 +1,177 @@
+114	Proto-Indo-European	*túh₂		A	
+80	Hittite	zīk		A	
+133	Luvian	tū		A	
+133	Luvian	tī		A	
+135	Palaic	tī		A	
+81	Tocharian A	tu		A	
+82	Tocharian B	tuwe		A	
+88	Albanian	ti		A	
+143	Standard Albanian	ti		A	
+143	Standard Albanian	ju			
+2	Albanian Sicily	ti		A	
+4	Albanian Corinth	ti		A	
+3	Albanian Gheg	ti		A	
+6	Albanian Tosk	ti		A	
+110	Ancient Greek	σύ	sý	A	
+152	Tsakonian	εκιου		A	
+32	Greek	εσύ	e̞ˈsi	A	
+31	Greek Lesbos	ESU		A	
+129	Classical Armenian	դու	dow	A	
+8	Armenian Eastern	դու	du	A	
+7	Armenian Western	դուն	tʰun		
+128	Avestan	θβąm		A	
+128	Avestan	tūm		A	
+131	Old Persian	tuvam		A	
+131	Old Persian	θuvām		A	
+136	Sogdian	tγw		A	
+174	Khotanese	thu		A	
+75	Wakhi	TU		A	
+9	Baluchi	THAU		A	
+118	Kurdish	tu		A	
+137	Zazaki	ti		A	
+72	Tajik	tu	t̪u	A	
+54	Persian	to	t̪o	A	
+77	Waziri	TE		A	
+1	Pashto	TE		A	
+138	Shughni	tu, tōθ		A	
+139	Sarikoli	tɛw		A	
+52	Ossetic	dy	dɨ	A	
+124	Ossetic Iron	dy	dy	A	
+125	Ossetic Digor	du	du	A	
+141	Kata-viri	tʷi		A	
+154	Vasi-vari	iyū		A	
+153	Askunu	tū		A	
+105	Vedic Sanskrit	tvám		A	
+162	Pāḷī	tuvaŋ		A	
+41	Khaskura	T		A	
+51	Nepali	timi	timi	E	
+51	Nepali	ta	tə̃	A	
+106	Assamese	tumi		E	
+106	Assamese	tay		A	
+106	Assamese	āpuni		F	
+106	Assamese	ti		A	
+102	Oriya	apɔṇɔ-nkɔ	apɔɳɔ-nkɔ	F	
+102	Oriya	tumɔ	tumɔ	E	
+102	Oriya	to	to	A	
+10	Bengali	tumi	'θʊmi:	E	
+111	Bihari	əhã			
+111	Bihari	tõ(h)		A	
+144	Magahi	तु	t̪ʊ		
+151	Bhojpuri	tõ, tú		A	
+104	Marwari	tũ	tũ	A	
+35	Hindi	tu	t̪uː	A	
+119	Urdu	تُو	t̪u	A	
+103	Sindhi	tũ	tũ	A	
+43	Lahnda	TU		A	
+53	Punjabi	tu	tũ	A	
+33	Gujarati	TU		A	
+50	Marathi	tū	tu:	A	
+40	Kashmiri	TSAH		A	
+65	Sinhalese	UMBA		E	
+34	Romani Greece	TU		A	
+100	Old Church Slavonic	ты	tɯ	A	
+95	Serbo-Croatian	ti	tîː	A	
+15	Bulgarian	ти	ti	A	
+92	Macedonian	ти	ti	A	
+60	Russian	ты	tɨ	A	
+55	Polish	ty	tɘ̟	A	
+16	Belarusian	ты	tɨ	A	
+73	Ukrainian	ти	tɪ	A	
+66	Slovak	ty	ti	A	
+18	Czech	ty	tɪ	A	
+48	Sorbian Upper	ty	tɘ̟	A	
+47	Sorbian Lower	ty	tɘ̟	A	
+97	Slovenian	ti	tîː	A	
+108	Old Prussian	toū		A	
+44	Latvian	tu		A	
+46	Lithuanian	tu	tʊ	A	
+109	Old Norse	þú	θuː	A	
+36	Icelandic	þú	θu:	A	
+23	Faroese	tú	tʰʉuː	A	
+58	Norwegian Riksmal	du	dʉː	A	
+159	Stavangersk	du	dʉː, dʉ	A	
+157	Old Swedish	thu	θuː	A	
+69	Swedish	du	dʉː	A	
+71	Swedish Vilhelmina	DU		A	
+70	Swedish Uppland	DU		A	
+145	Elfdalian	du	dʉː	A	
+20	Danish	du	du	A	
+158	Danish Fjolde	du	du	A	
+161	Gutnish Lau	däu	dɛu	A	
+99	Old English	þū		A	
+22	English	you		B	
+22	English	thou	ðaʊ	(A)	
+26	Frisian	dû	du	A	
+21	Dutch	je	jə	B	
+21	Dutch	gij	ɣɛi	B	
+24	Flemish	GY		B	
+24	Flemish	U		B	
+83	Afrikaans	U		B	
+83	Afrikaans	JY		B	
+87	Sranan	JOE		A	
+126	Old High German	dih		A	
+126	Old High German	dū		A	
+27	German	du	du:	A	
+86	Pennsylvania Dutch	DU		A	
+120	Luxembourgish	du		A	
+121	German Switzerland	du		A	
+107	Gothic	þū		A	
+130	Oscan	tiium		A	
+132	Umbrian	tiu, tiom		A	
+112	Latin	tū	tuː	A	
+17	Catalan	tu	tu	A	
+56	Portuguese	tu	tu	A	
+68	Spanish	tú	tu	A	
+68	Spanish	usted	us'teð		
+61	Sardinian Cagliari	TUI		A	
+62	Sardinian Logudoro	TUE		A	
+63	Sardinian Nuoro	TUE		A	
+85	French Creole Dominica	U		D	
+76	Walloon	TI		A	
+25	French	tu	ty	A	
+57	Provencal	TU, TE		A	
+42	Ladin	TU		A	
+146	Dolomite Ladino	tu		A	
+123	Romansh	ti		A	
+122	Friulian	tu		A	
+39	Italian	tu	tu	A	
+59	Romanian	tu	tu	A	
+74	Vlach	TINE		A	
+140	Gaulish	ti		A	
+127	Old Irish	tú	tu:	A	
+127	Old Irish	-t-	t		
+101	Middle Cornish	ty	tɪ:	A	
+101	Middle Cornish	tʃi	tʃi	(A)	
+148	Old Breton	te		A	
+172	Middle Breton	te	ˈte	A	
+12	Breton	te		A	
+150	Old Welsh	ti		A	
+79	Welsh	ti		A	
+38	Irish	tú	t̪ˠuː	A	
+115	Scottish Gaelic	thu	hu, u	A	
+147	Manx	oo		A	
+5	[Legacy] Albanian T	ti	ti	A	
+29	[Legacy] Greek K	ESU, SO		A	
+28	[Legacy] Greek D	ESU, SU		A	
+30	[Legacy] Greek Md	ESU, SE		A	
+64	[Legacy] Serbocroatian	TI		A	
+113	[Legacy] Serbian	ti	tîː	A	
+89	[Legacy] Bulgarian P	TI		A	
+49	[Legacy] Macedonian	ti	ti	A	
+94	[Legacy] Russian P	TY		A	
+93	[Legacy] Polish P	TY		A	
+90	[Legacy] Byelorussian P	TY		A	
+98	[Legacy] Ukrainian P	TY		A	
+19	[Legacy] Czech E	TI		A	
+96	[Legacy] Slovak P	TY		A	
+91	[Legacy] Czech P	TY		A	
+67	[Legacy] Slovenian	ti		A	
+45	[Legacy] Lithuanian O	TU		A	
+11	[Legacy] Brazilian	TU		A	
+11	[Legacy] Brazilian	você	voˈse		
+142	[Legacy] German Munich	du		A	
+84	[Legacy] French Creole C	U  W		D	
+14	[Legacy] Breton St	te	te:	A	
+13	[Legacy] Breton Se	TE		A	
+78	[Legacy] Welsh C	TI		A	
+37	[Legacy] Irish A	TU		A	

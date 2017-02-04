@@ -1,0 +1,162 @@
+80	Hittite	kā		B	
+133	Luvian	zāwi(n)		B	
+134	Lycian	ebei			
+81	Tocharian A	tṣaṃ			
+82	Tocharian B	tane		N	
+88	Albanian	KETU		C, N	
+143	Standard Albanian	këtu		C, N	
+2	Albanian Sicily	XTU		C, N	
+4	Albanian Corinth	KETU		C, N	
+3	Albanian Gheg	KETU		C, N	
+6	Albanian Tosk	KETU		C, N	
+110	Ancient Greek	ἐνθάδε	entʰáde	D	
+110	Ancient Greek	ἐνταῦθα	entáù̯tʰa	D	
+32	Greek	εδώ	e̞ˈðo̞	H	
+31	Greek Lesbos	EDO		H	
+129	Classical Armenian	աստ	ast		
+8	Armenian Eastern	aysteł		B, J	
+7	Armenian Western	HOS			
+128	Avestan	iδa		P	
+131	Old Persian	idā		P	
+136	Sogdian	’mδ		Q	
+75	Wakhi	DREM, HADREM		R	
+75	Wakhi	YEM, YAEI		J	
+9	Baluchi	EDHA		P	
+137	Zazaki	nāzā		S	
+137	Zazaki	injā		(W)	
+137	Zazaki	tiyā		P	
+72	Tajik	DAR NI CO, NI CO		T	
+54	Persian	INJA		W	
+77	Waziri	DELE, DOLATA		A	
+1	Pashto	DELTA, DALE		A	
+138	Shughni	arēd		U	
+139	Sarikoli	ɛwd		V	
+52	Ossetic	am	am	Q	
+124	Ossetic Iron	am	am	Q	
+125	Ossetic Digor	ami	ami	Q	
+105	Vedic Sanskrit	ihá		P	
+162	Pāḷī	idha		P	
+41	Khaskura	YAHAN		J, P	
+51	Nepali	YATA		J, O	
+51	Nepali	YAHA		J, P	
+106	Assamese	iyāt		J	
+102	Oriya	eṭhi	eʈhi	L	
+10	Bengali	EKHANE		L	
+111	Bihari	emhar			
+111	Bihari	eta		L	
+144	Magahi	इंहा	ĩhɑ		
+104	Marwari	əʈʈhɛ	əʈʈhɛ	L	
+35	Hindi	YEHA		J, P	
+119	Urdu	یہاں	jəhɑ̃	J, P	
+103	Sindhi	(h)itē	(h)itē	L	
+43	Lahnda	ITTHA		L	
+53	Punjabi	ETTHE		L	
+33	Gujarati	EHI		L	
+50	Marathi	ithe, yethe	'itʰe, 'jetʰe	L	
+40	Kashmiri	YOR		J	
+40	Kashmiri	YUTU		J, O	
+65	Sinhalese	METANA			
+65	Sinhalese	mehee	mehe:		
+34	Romani Greece	KATE		C, N	
+100	Old Church Slavonic	сьдє	sɪ̆dɛ	B	
+95	Serbo-Croatian	ovdje	ˈɔ̌ːvdjɛ	E	
+15	Bulgarian	тук(а)	(ˈ)tuk(a)	N	
+92	Macedonian	овде	ˈovdɛ	E	
+92	Macedonian	тука	ˈtuka	N	
+60	Russian	здесь	zdʲɛsʲ	B	
+55	Polish	tu(taj)	'tu(taj)	N	
+16	Belarusian	тут	tut	N	
+73	Ukrainian	тут	tut	N	
+66	Slovak	tu	tu	N	
+18	Czech	tady	ˈtadɪ	N	
+48	Sorbian Upper	tu	tu	N	
+47	Sorbian Lower	how	how	E	
+97	Slovenian	tu	tu	N	
+108	Old Prussian	schai		B	
+44	Latvian	šeĩt		B	
+44	Latvian	te			
+46	Lithuanian	cia	tʃʲɛ	N	
+109	Old Norse	hér	heːr	B	
+36	Icelandic	hér	hjɛːr	B	
+23	Faroese	her	heːɹ	B	
+58	Norwegian Riksmal	her	hæːɾ	B	
+159	Stavangersk	her	heːʁ	B	
+157	Old Swedish	här	hæːr	B	
+69	Swedish	här	hæːr	B	
+71	Swedish Vilhelmina	HAR, HENA  HENAN		B	
+70	Swedish Uppland	HAR		B	
+145	Elfdalian	jär; jenę	jæːr; ˈjɛ́ːnɛ̃	B	
+20	Danish	her	hɛˀɐ̯, heˀɐ̯	B	
+158	Danish Fjolde	heær	heæɹ	B	
+160	Old Gutnish	hier		B	
+161	Gutnish Lau	hjär	jæːr	B	
+99	Old English	hēr		B	
+22	English	here	hɪə	B	
+26	Frisian	hjir	jɪr	B	
+21	Dutch	hier	hir	B	
+24	Flemish	HIER		B	
+83	Afrikaans	HIER		B	
+87	Sranan	DIA, DIASO			
+126	Old High German	hier		B	
+27	German	hier	hi:ɐ̯	B	
+86	Pennsylvania Dutch	HAIIR		B	
+120	Luxembourgish	hei		B	
+121	German Switzerland	hie		B	
+107	Gothic	hēr		B	
+112	Latin	hīc	hiːk	F	
+17	Catalan	ENSA			
+17	Catalan	aqui	ə'ki	B, F, J	
+56	Portuguese	aqui	ɐˈki	B, F, J	
+68	Spanish	aqui	a'ki	B, F, J	
+68	Spanish	acá	a'ka		
+61	Sardinian Cagliari	INNOI		K	
+62	Sardinian Logudoro	INOGHE		K	
+63	Sardinian Nuoro	INOKKE		K	
+85	French Creole Dominica	ISI		B, F, J	
+76	Walloon	CHAL			
+25	French	ici	isi	B, F, J	
+57	Provencal	EICI, CAI		B, F, J	
+42	Ladin	TSCHO, ACCO / ACQUI, QUI		B, F, J	
+146	Dolomite Ladino	ca		B	
+123	Romansh	qua			
+122	Friulian	ca, chi, culì, chenti			
+39	Italian	qui, qua	kwi, kwa	B, F, J	
+59	Romanian	INCOACE		B, F, J	
+59	Romanian	aici	aˈitʃʲ	B, F, J	
+74	Vlach	AWA			
+127	Old Irish	sund	sun(d)	N	
+101	Middle Cornish	omma	'ɔm:a	G	
+101	Middle Cornish	dev			
+172	Middle Breton	aman	ˈãmãn	G	
+12	Breton	amañ	ˈɑ̃mɑ̃	G	
+79	Welsh	yma		G	
+38	Irish	anseo	ənˈʃo	N	
+115	Scottish Gaelic	an seo		N	
+5	[Legacy] Albanian T	këtu		C, N	
+29	[Legacy] Greek K	EDO		H	
+28	[Legacy] Greek D	EDO		H	
+30	[Legacy] Greek Md	EDO		H	
+64	[Legacy] Serbocroatian	OVDE		E	
+113	[Legacy] Serbian	ovde	ǒːʋde	E	
+89	[Legacy] Bulgarian P	TUK		N	
+49	[Legacy] Macedonian	ovde	ˈɔvdɛ	E	
+49	[Legacy] Macedonian	OVDEKA		E	
+49	[Legacy] Macedonian	tuka	ˈtuka	N	
+49	[Legacy] Macedonian	HAVAKA		E	
+94	[Legacy] Russian P	ZDES		B	
+93	[Legacy] Polish P	TU		N	
+90	[Legacy] Byelorussian P	TUT		N	
+98	[Legacy] Ukrainian P	TUT		N	
+19	[Legacy] Czech E	SEM		M	
+19	[Legacy] Czech E	TU, TADI		N	
+96	[Legacy] Slovak P	TU		N	
+91	[Legacy] Czech P	ZDE		B	
+67	[Legacy] Slovenian	TUKAJ		N	
+45	[Legacy] Lithuanian O	CIA, SICIA		N	
+11	[Legacy] Brazilian	aqui	aˈki	B, F, J	
+142	[Legacy] German Munich	hier		B	
+84	[Legacy] French Creole C	ESIT, ISI		B, F, J	
+14	[Legacy] Breton St	amañ	ˈa.mɑ	G	
+13	[Legacy] Breton Se	AMEN		G	
+78	[Legacy] Welsh C	YMA		G	
+37	[Legacy] Irish A	ANNSO		N	

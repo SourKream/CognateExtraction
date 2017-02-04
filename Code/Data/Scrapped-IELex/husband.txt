@@ -1,0 +1,204 @@
+80	Hittite	pisēnas			
+133	Luvian	zitis		Ag	
+134	Lycian	sidi		Ag	
+81	Tocharian A	pats		P	
+82	Tocharian B	petso		P	
+88	Albanian	I SHOKJ		C	
+143	Standard Albanian	burrë		(R)	
+2	Albanian Sicily	I-SOK		C	
+4	Albanian Corinth	BURE		(R)	
+3	Albanian Gheg	I SHOKJ		C	
+6	Albanian Tosk	BURE		(R)	
+110	Ancient Greek	πόσις	pósis	(P)	
+110	Ancient Greek	ἀνήρ	anɛ́ːr	I	
+32	Greek	άντρας	ˈandras	(I)	
+32	Greek	σύζυγος	ˈsiziˌɣo̞s	Av	
+31	Greek Lesbos	ANTRAS		I	
+129	Classical Armenian	այր	ayr	I	
+8	Armenian Eastern	amusin	ɑmuˈsin	D	
+7	Armenian Western	AMOUSIN		D	
+128	Avestan	paitiš		P	
+136	Sogdian	wyr		J	
+75	Wakhi	SAUHER		(M)	
+9	Baluchi	MARD		E	
+137	Zazaki	mērd(e)		E	
+72	Tajik	SAVXAR, SUJ		M	
+54	Persian	SHOWHAR		M	
+77	Waziri	MERE		A	
+77	Waziri	CHESHTAN			
+1	Pashto	MERE		A	
+138	Shughni	čōr		Aa	
+139	Sarikoli	čur		Aa	
+124	Ossetic Iron	lɐg	lɐg	W	
+125	Ossetic Digor	lɐg	lɐg	W	
+141	Kata-viri	mʌč		(E)	
+105	Vedic Sanskrit	pátis		P	
+105	Vedic Sanskrit	bhártā		(Z)	
+162	Pāḷī	pati		P	
+41	Khaskura	LOGNIA		L	
+51	Nepali	POI		P	
+51	Nepali	LOGNE		L	
+51	Nepali	PURUKH		Q	
+106	Assamese	giriɛk	giriɛk	Ai	
+106	Assamese	pai		P	
+102	Oriya	bɔrɔ	bɔrɔ	Y	
+102	Oriya	swami	swami	F	
+102	Oriya	pɔti	pɔti	P	
+10	Bengali	SAMI		F	
+111	Bihari	bar		Y	
+111	Bihari	swāmi		F	
+111	Bihari	gharwalā		(Ah)	
+144	Magahi	भतार	bʰət̪ɑr	Z	
+104	Marwari	bālam		Aj	
+104	Marwari	moṭyār		Ak	
+104	Marwari	dhaṇī		Al	
+104	Marwari	kantha		Ap	
+104	Marwari	pālati		Am	
+104	Marwari	lauṇṭhō		An	
+104	Marwari	paraṇyōṃ		Ao	
+35	Hindi	PETI		P	
+119	Urdu	شَوہر	ʃɔhəɾ	(M)	
+103	Sindhi	bhatāru		Z	
+103	Sindhi	pae		P	
+43	Lahnda	GEBHRU		Aq	
+53	Punjabi	PETI		P	
+33	Gujarati	WER		Ab	
+33	Gujarati	PATI		P	
+50	Marathi	nawrā	nəw'ɾa	Ar	
+40	Kashmiri	BARTA		Z	
+40	Kashmiri	RUNU		K	
+65	Sinhalese	SWAMIYA		F	
+65	Sinhalese	PURUSAYA		F	
+34	Romani Greece	ROM		K	
+100	Old Church Slavonic	мѫжь	mɔ̃ʒɪ̆	B	
+95	Serbo-Croatian	muž	mûːʒ	B	
+15	Bulgarian	мъж	mɤʒ	B	
+92	Macedonian	маж	maʒ	B	
+60	Russian	муж	muʐ	B	
+55	Polish	mąż	mɔɰ̃ʐ	B	
+16	Belarusian	муж	muʐ	B	
+73	Ukrainian	чоловік	tʂɔɫɔˈvik	As	
+66	Slovak	manžel	ˈmanʒɛl	(At)	
+66	Slovak	muž	muʒ	B	
+18	Czech	muž	muʒ	B	
+18	Czech	manžel	ˈmanʒɛl	(At)	
+48	Sorbian Upper	muž	muʃ	B	
+47	Sorbian Lower	cłowjek	ˈtswɔjɛk	As	
+97	Slovenian	mož	môːʒ	B	
+108	Old Prussian	wijrs		J	
+44	Latvian	vĩrs		J	
+46	Lithuanian	vyras	ˈʋʲi:rɐs	J	
+109	Old Norse	bóndi	ˈboːndi	(O)	
+109	Old Norse	maðr	maðr	(B)	
+109	Old Norse	verr	verː	J	
+36	Icelandic	eiginmaður	ˈeiːjɪn.maːðʏr	B	
+36	Icelandic	bóndi, húsbóndi	ˈb̥ound̥ɪ, huːsb̥ound̥ɪ	H, O	
+23	Faroese	húsbóndi	ˈhʉuːsˌb̥œnd̥ɪ	(H)	
+23	Faroese	maður	ˈmɛaːvʊɹ	B	
+23	Faroese	ektamaður	ˈɛktaˌmɛaːvʊɹ	(V)	
+58	Norwegian Riksmal	ektemann	ˈɛktəmanː	B, (V)	
+58	Norwegian Riksmal	mann	manː	B	
+159	Stavangersk	ektemann	ˈɛ̀ktəˌmanː	B, (V)	
+159	Stavangersk	mann	manː	B	
+157	Old Swedish	bonde	ˈbonde	O	
+157	Old Swedish	madher	ˈmaːðer	B	
+69	Swedish	make	ˈmɑ̀ːkə	Ae	
+69	Swedish	HUSHALLA		(H)	
+69	Swedish	äktaman	ˈɛ̀ktaˌmanː	(V)	
+69	Swedish	man	manː	B	
+71	Swedish Vilhelmina	goba			
+70	Swedish Uppland	(AKTA) MAN		B, V	
+145	Elfdalian	gubbe	ˈgʉ̀bːɛ	Ac	
+145	Elfdalian	kall	kɑlː	Ad	
+20	Danish	mand	manˀ	B	
+158	Danish Fjolde	mand	mɑnʲ	B	
+160	Old Gutnish	bondi		O	
+160	Old Gutnish	husbondi		H, O	
+161	Gutnish Lau	båundä	ˈboundɛ	O	
+161	Gutnish Lau	man	manː	B	
+99	Old English	wer		J	
+22	English	husband	hʌzbənd	H, (O)	
+26	Frisian	man	mɔn	B	
+21	Dutch	echtgenoot	'ɛχtχənot	V	
+21	Dutch	man	mɑn	B	
+24	Flemish	ECHTGENOOT		V, X	
+24	Flemish	MAN		B	
+83	Afrikaans	EGGENOOT		V	
+83	Afrikaans	MAN		B	
+87	Sranan	MAN		B	
+126	Old High German	gomman		B	
+27	German	Ehemann	'e:əman	B, V	
+27	German	Gatte	'gatə		
+86	Pennsylvania Dutch	MAAN		B	
+120	Luxembourgish	Mann		B	
+121	German Switzerland	maa		B	
+107	Gothic	aba			
+112	Latin	marītus	maˈriːtus	E	
+17	Catalan	marit	məˈɾit	E	
+17	Catalan	espòs	əs'pɔs	S	
+17	Catalan	home	ˈɔmə	T	
+56	Portuguese	esposo	ɨʃˈpozu	S	
+56	Portuguese	marido	mɐˈɾiðu	E	
+68	Spanish	esposo	es'poso	S	
+68	Spanish	marido	ma'ɾiðo	E	
+61	Sardinian Cagliari	MARIRU		E	
+62	Sardinian Logudoro	MARIDU		E	
+63	Sardinian Nuoro	MARITU		E	
+85	French Creole Dominica	MAWI		E	
+76	Walloon	OME		T	
+25	French	mari	maʀi	E	
+57	Provencal	MARIT		E	
+57	Provencal	OME		T	
+42	Ladin	MARID		E	
+146	Dolomite Ladino	om		T	
+123	Romansh	um		T	
+123	Romansh	consort			
+122	Friulian	om		T	
+122	Friulian	marît		E	
+39	Italian	marito	ma'rito	E	
+39	Italian	sposo	'spozo	S	
+59	Romanian	soţ	sots		
+59	Romanian	BARBAT		N	
+74	Vlach	BERBATU		N	
+127	Old Irish	fer	ɸʹer	(J)	
+127	Old Irish	céile	kʹe:lʹe	Af	
+101	Middle Cornish	gour	gu:r	J	
+172	Middle Breton	ozech, osech, ozec'h	ˈoːzex	P	
+172	Middle Breton	priet, pryet	ˈpriːet	Au	
+12	Breton	pried		(Au)	
+12	Breton	gwaz		G	
+12	Breton	ozac'h	ˈoːzax	(P)	
+79	Welsh	gwr	gu:r	J	
+38	Irish	fear	fʲaɾˠ	(J)	
+38	Irish	fear céile		Af, J	
+38	Irish	fear pósta		(J)	
+115	Scottish Gaelic	fear-pòsta		(J)	
+115	Scottish Gaelic	cèile		Af	
+5	[Legacy] Albanian T	SHOG		C	
+5	[Legacy] Albanian T	BURRE		(R)	
+29	[Legacy] Greek K	SUDZUGOS		Av	
+28	[Legacy] Greek D	ANTRAS		I	
+30	[Legacy] Greek Md	ANTRAS		I	
+64	[Legacy] Serbocroatian	MUZ		B	
+113	[Legacy] Serbian	suprug	sûpruɡ	U	
+113	[Legacy] Serbian	muž		B	
+89	[Legacy] Bulgarian P	MUZ		B	
+49	[Legacy] Macedonian	sóprug	ˈsɔpruk	U	
+49	[Legacy] Macedonian	maz	maʃ	B	
+94	[Legacy] Russian P	MUZ		B	
+93	[Legacy] Polish P	MAZ		B	
+90	[Legacy] Byelorussian P	MUZ		B	
+98	[Legacy] Ukrainian P	MUZ		B	
+19	[Legacy] Czech E	MUZ		B	
+96	[Legacy] Slovak P	MUZ		B	
+91	[Legacy] Czech P	MUZ		B	
+67	[Legacy] Slovenian	MAS		B	
+45	[Legacy] Lithuanian O	VYRAS		J	
+11	[Legacy] Brazilian	marido	maˈɾidu	E	
+11	[Legacy] Brazilian	esposo	isˈpozu	S	
+142	[Legacy] German Munich	Ehemann		B, V	
+84	[Legacy] French Creole C	MAHWI		E	
+14	[Legacy] Breton St	gwaz	gwa:s	G	
+13	[Legacy] Breton Se	GOAS		G	
+78	[Legacy] Welsh C	GWR		J	
+37	[Legacy] Irish A	FEAR		J	

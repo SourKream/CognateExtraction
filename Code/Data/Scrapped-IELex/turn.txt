@@ -1,0 +1,202 @@
+80	Hittite	wehzi			
+80	Hittite	nēa			
+133	Luvian	kuwalīti			
+81	Tocharian A	sparcwatär		Q	
+82	Tocharian B	kluttaṅktär			
+82	Tocharian B	sporttotär		Q	
+82	Tocharian B	TÄRK-			
+88	Albanian	KETHEJ		C	
+143	Standard Albanian	kthej		C	
+2	Albanian Sicily	PRIREM		D	
+4	Albanian Corinth	PRIREM		D	
+3	Albanian Gheg	KETHEJ		C	
+6	Albanian Tosk	KTHENEM, AOR. UKTHEVA		C	
+173	Mycenaean Greek	to-ro-qe-jo-me-no	torkʷei̯omenos		
+110	Ancient Greek	στρέφω	strépʰɔː	(L)	
+110	Ancient Greek	τρέπω	trépɔː		
+32	Greek	γυρίζω	ʝiˈrizo̞	A	
+32	Greek	στρέφομαι	ˈstre̞fo̞ˌme̞	(L)	
+31	Greek Lesbos	GURIDZO		A	
+129	Classical Armenian	šrǰem			
+129	Classical Armenian	daṙnam		E	
+8	Armenian Eastern	daṙnal		E	
+8	Armenian Eastern	šrǰ(v)el	ʃəɾʤˈ(v)ɛl		
+7	Armenian Western	TARNEL		E	
+128	Avestan	uruuisiieiti		H	
+131	Old Persian	vartataiy		H	
+136	Sogdian	prn’z		W	
+75	Wakhi	ɣir(d)		R	
+9	Baluchi	tərrəg		E	
+137	Zazaki	čerx		Y	
+72	Tajik	gardidan	ɡærdidæn	R	
+72	Tajik	TOFTAN		R	
+54	Persian	gaštan/gard-		(R)	
+54	Persian	PICHIDAN		(X)	
+77	Waziri	GERZEDEL		R	
+1	Pashto	GERZEDEL		R	
+138	Shughni	garδēn		R	
+139	Sarikoli	ɣɛyron, ɣayron		R	
+52	Ossetic	yzdaxyn	zdaχɨn	V	
+124	Ossetic Iron	ždɐχ-	ždɐχ-	V	
+125	Ossetic Digor	ɐzdɐχ-	ɐzdɐχ-	V	
+105	Vedic Sanskrit	vártatē		H	
+105	Vedic Sanskrit	vr̥ṅktḗ		(H)	
+162	Pāḷī	vaṭṭati		H	
+41	Khaskura	PHARKNU		M	
+51	Nepali	PHARKANU, PHIRNU		M	
+106	Assamese	ohot	ohot		
+102	Oriya	ol(ɔ)ṭeiba	ol(ɔ)ʈeiba	O	
+10	Bengali	GHORA		Aa	
+111	Bihari	láuṭab		Ae	
+111	Bihari	unʈəb	unʈəb	O	
+111	Bihari	paṭ hāyab			
+111	Bihari	ulṭā karab		O	
+111	Bihari	ghumab		Aa	
+144	Magahi	घुमना	ɡʰʊmnɑ	Aa	
+151	Bhojpuri	ghumáw		Aa	
+104	Marwari	uthēlabō		O	
+104	Marwari	dabh	dabh		
+104	Marwari	bāva&dcirc;abō			
+35	Hindi	MURNA		N	
+119	Urdu	مُڑنا	mʊɽnə	N	
+103	Sindhi	phiraṇu		M	
+103	Sindhi	var-aṇu			
+43	Lahnda	ULTAWEN		O	
+53	Punjabi	MORNA		N	
+33	Gujarati	FERWU		M	
+50	Marathi	walne	wəɭ'ɳe	H	
+65	Sinhalese	HARENAWA			
+34	Romani Greece	boldól		Z	
+100	Old Church Slavonic	обратити	ɔbrɑtiti	H	
+95	Serbo-Croatian	obrnuti	ɔˈbř̩ːnuti	H	
+15	Bulgarian	обръщам	uˈbrɤʃtəm	H	
+92	Macedonian	врти	ˈvərti	H	
+60	Russian	поворачивать	pɔvɔ'ratʃivatʲ	H	
+55	Polish	odwracać	ɔdˈvratsatɕ	H	
+55	Polish	skręcać	ˈskrentsatɕ	(J)	
+16	Belarusian	паварочваць	pavaˈrotʂvatsʲ	H	
+73	Ukrainian	обертати	ɔbɛrˈtatɪ	H	
+66	Slovak	odbočiť	ˈɔdbɔtʃic	(Af)	
+66	Slovak	otočiť	ˈɔtɔtʃic	S	
+18	Czech	otočit	ˈɔtɔtʃɪt	S	
+18	Czech	odbočit	ˈɔdbɔtʃɪt	(Af)	
+48	Sorbian Upper	wobroćić	ˈwɔbʀɔtʃitʃ	H	
+48	Sorbian Upper	wotbočić	ˈwɔtbotʃitʃ	(Af)	
+48	Sorbian Upper	zwjertnyć	ˈzwĕɛʀtnɘ̟tʃ	H	
+47	Sorbian Lower	wótbocyś	ˈwɘ̟tbɔtsɘ̟ɕ	(Af)	
+47	Sorbian Lower	wobrośiś	ˈhɔbrɔɕiɕ	H	
+97	Slovenian	obračati	ɔˈbrǎːtʃati	H	
+108	Old Prussian	wartinna		H	
+44	Latvian	vḕrš		H	
+44	Latvian	grìež		T	
+46	Lithuanian	SUKTI			
+46	Lithuanian	KRYPTI		P	
+109	Old Norse	hverfa	ˈɣverva	Ab	
+109	Old Norse	ríða		Ac	
+109	Old Norse	snúa(sk)	ˈsnuːa(sk)	K	
+109	Old Norse	venda	ˈvenda	U	
+36	Icelandic	snúa	ˈstnuːa	K	
+36	Icelandic	venda	ˈvɛnd̥a	U	
+23	Faroese	venda	ˈvɛnd̥a	U	
+23	Faroese	snúgva	ˈsnɪɡ̊va	K	
+58	Norwegian Riksmal	snu	snʉː	K	
+58	Norwegian Riksmal	vende	ˈvɛ̀nːə	U	
+58	Norwegian Riksmal	vri		Ac	
+159	Stavangersk	vria	ˈvʁìːa	Ac	
+159	Stavangersk	venna	ˈʋɛ̀nːa	U	
+159	Stavangersk	snu	snʉː	K	
+157	Old Swedish	hvärva	ˈhværva	Ab	
+157	Old Swedish	vända	ˈvænda	U	
+157	Old Swedish	snoa	ˈsnoːa	K	
+157	Old Swedish	vridha	ˈvriːða	Ac	
+69	Swedish	vrida	ˈvrìːda	Ac	
+69	Swedish	vända	ˈvɛ̀nda	U	
+71	Swedish Vilhelmina	SNO, VAN		K	
+70	Swedish Uppland	VANDA SIG OM		U	
+145	Elfdalian	rwaiða	ˈrwɑ̀ɪðɑ	Ac	
+145	Elfdalian	wenda		U	
+20	Danish	vende sig	ˈvɛnə sɑj	U	
+20	Danish	dreje	ˈdʁɑjə	(B)	
+20	Danish	vride	ˈvʁiːðə	Ac	
+158	Danish Fjolde	dræj	dɹæj	(B)	
+158	Danish Fjolde	vrii	vɹiː	Ac	
+158	Danish Fjolde	veend	veːnʲ	U	
+161	Gutnish Lau	snåu	snou	K	
+161	Gutnish Lau	vändä	ˈvɛndɛ	U	
+161	Gutnish Lau	bräidä	ˈbrɛɪdɛ	Ac	
+99	Old English	went		U	
+22	English	to turn	tɜ:n	(I)	
+26	Frisian	wiele, wielje	'vi.ələ, 'vi.əljə		
+26	Frisian	draaie	'dra:i̯ə	B	
+21	Dutch	wenden	'wɛndə(n)	U	
+21	Dutch	draaien	ˈdraɪə	B	
+24	Flemish	DRAAIJEN		B	
+83	Afrikaans	OMDRAAI, DRAAI, KEER		B	
+87	Sranan	DRAI		B	
+126	Old High German	wentit		U	
+126	Old High German	kērit		J	
+27	German	wenden	'vɛndn̩	U	
+86	Pennsylvania Dutch	DRAY		B	
+120	Luxembourgish	dréinen		B	
+121	German Switzerland	trääie		B	
+107	Gothic	wandeiþ		U	
+132	Umbrian	vurtus		H	
+132	Umbrian	couertu		H	
+112	Latin	uertere	ˈwertere	H	
+17	Catalan	girar	ʒi'ɾa	A	
+56	Portuguese	girar	ʒiˈɾaɾ	A	
+56	Portuguese	virar	viˈɾaɾ	F	
+68	Spanish	VOLVER		H	
+68	Spanish	girar	xi'ɾaɾ	A	
+61	Sardinian Cagliari	FURRIAI		F	
+62	Sardinian Logudoro	GIRARE		A	
+63	Sardinian Nuoro	ORTARE		I	
+85	French Creole Dominica	VIWE		F	
+76	Walloon	TOURNER		I	
+25	French	tourner	tuʀne	I	
+57	Provencal	VIRA, VIROUIA		F	
+42	Ladin	VERDSCHER		H	
+42	Ladin	GIRER		A	
+146	Dolomite Ladino	menà			
+123	Romansh	volver		H	
+122	Friulian	voltâ			
+122	Friulian	zirâ		A	
+39	Italian	girare	dʒi'rare	A	
+59	Romanian	A COTI		F	
+59	Romanian	a se întoarce	a se ɨnˈto̯ar.ʧe		
+59	Romanian	A VIRA		F	
+127	Old Irish	soïd	soʔiðʹ	Ad	
+101	Middle Cornish	nedha	'nɛða		
+101	Middle Cornish	omdreylya	əm'drɛɪlja		
+172	Middle Breton	treiff	ˈtreiṽ		
+12	Breton	troiñ		G	
+12	Breton	TURGNA			
+79	Welsh	troi		G	
+38	Irish	COR			
+38	Irish	cas	kas		
+115	Scottish Gaelic	tionndaidh		Ad	
+5	[Legacy] Albanian T	ME U KTHYER		C	
+29	[Legacy] Greek K	STREFO		L	
+28	[Legacy] Greek D	GURNAO		A	
+30	[Legacy] Greek Md	GURISZO, GURNO		A	
+30	[Legacy] Greek Md	STRIBO		L	
+64	[Legacy] Serbocroatian	OKRENUTI SE		J	
+113	[Legacy] Serbian	skrenuti	skrěːnuti	J	
+89	[Legacy] Bulgarian P	VURT A		H	
+49	[Legacy] Macedonian	VRTI, ZAVRTI, OBRNE		H	
+94	[Legacy] Russian P	VERTET		H	
+93	[Legacy] Polish P	WIERCIC		H	
+90	[Legacy] Byelorussian P	VAROCAC		H	
+98	[Legacy] Ukrainian P	VERTITY		H	
+19	[Legacy] Czech E	KRUTIT		J	
+96	[Legacy] Slovak P	VRTIET		H	
+91	[Legacy] Czech P	VRATITI		H	
+67	[Legacy] Slovenian	ABRNI SE		H	
+45	[Legacy] Lithuanian O	KREIPTI		P	
+11	[Legacy] Brazilian	VIRAR		F	
+142	[Legacy] German Munich	drehen		B	
+84	[Legacy] French Creole C	VUHWE, TUNE		I	
+14	[Legacy] Breton St	treiñ	trɛĩ	G	
+13	[Legacy] Breton Se	TROEIN		G	
+78	[Legacy] Welsh C	TROI		G	
+37	[Legacy] Irish A	CASADH			

@@ -1,0 +1,145 @@
+114	Proto-Indo-European	*pénkʷe		O	
+81	Tocharian A	päñ		O	
+82	Tocharian B	piś		O	
+88	Albanian	PES		O	
+143	Standard Albanian	pesë		O	
+2	Albanian Sicily	PES		O	
+4	Albanian Corinth	PESE		O	
+3	Albanian Gheg	PES		O	
+6	Albanian Tosk	PESE		O	
+110	Ancient Greek	πέντε	pénte	O	
+32	Greek	πέντε	ˈpe̞nde̞	O	
+31	Greek Lesbos	PENTE		O	
+129	Classical Armenian	հինգ	hing	O	
+8	Armenian Eastern	հինգ	hiŋg	O	
+7	Armenian Western	հինգ	hiŋkʰ	O	
+128	Avestan	panča		O	
+136	Sogdian	pnc ~ pnj		O	
+174	Khotanese	paṃjsa	pɐndzɐ	O	
+75	Wakhi	PANZ		O	
+9	Baluchi	PHANCH		O	
+72	Tajik	PANC		O	
+54	Persian	PANJ		O	
+77	Waziri	PINZE		O	
+1	Pashto	PINDZE		O	
+138	Shughni	panj, pinž		O	
+139	Sarikoli	pinʓ		O	
+52	Ossetic	fondz	fondz, fonz	O	
+124	Ossetic Iron	fonz	fonz	O	
+125	Ossetic Digor	fondz	fondz	O	
+141	Kata-viri	puč		O	
+105	Vedic Sanskrit	páñca		O	
+162	Pāḷī	pañca		O	
+41	Khaskura	PANCH		O	
+51	Nepali	pãc	pãtʃ	O	
+106	Assamese	pas	pas	O	
+102	Oriya	pancɔ	pancɔ	O	
+10	Bengali	PAC		O	
+111	Bihari	pãc	pãc	O	
+144	Magahi	पांच	pɑ̃c	O	
+104	Marwari	pã̄ch		O	
+35	Hindi	pac	pãtʃ	O	
+119	Urdu	پانچ	pɑnʧ	O	
+103	Sindhi	panǰa		O	
+43	Lahnda	PENJ		O	
+53	Punjabi	penj	pə̃ndʒ	O	
+33	Gujarati	PAE		O	
+50	Marathi	pāts	pats	O	
+40	Kashmiri	PANTS		O	
+65	Sinhalese	paha	paha	O	
+34	Romani Greece	PANCH		O	
+100	Old Church Slavonic	пѧть	pɛ̃tɪ̆	O	
+95	Serbo-Croatian	pet	pɛ̂ːt	O	
+15	Bulgarian	пет	pɛt	O	
+92	Macedonian	пет	pet	O	
+60	Russian	пять	pʲatʲ	O	
+55	Polish	pięć	pjɛɲtɕ	O	
+16	Belarusian	пяць	pʲatsʲ	O	
+73	Ukrainian	п’ять	pjatʲ	O	
+66	Slovak	päť	pæc	O	
+18	Czech	pět	pjɛt	O	
+48	Sorbian Upper	pjeć	pĕɛtʃ	O	
+47	Sorbian Lower	pěś	pɪɕ	O	
+97	Slovenian	pet	pêːt	O	
+108	Old Prussian	piēcts		O	
+44	Latvian	pìeci		O	
+46	Lithuanian	PENKI		O	
+109	Old Norse	fimm	fimː	O	
+36	Icelandic	fimm	fɪmː	O	
+23	Faroese	fimm	fɪmː	O	
+58	Norwegian Riksmal	fem	fɛmː	O	
+159	Stavangersk	femm	fɛmː	O	
+157	Old Swedish	fäm	fæmː	O	
+69	Swedish	fem	fɛmː	O	
+71	Swedish Vilhelmina	FAM		O	
+70	Swedish Uppland	FEM		O	
+145	Elfdalian	fem	fɛmː	O	
+20	Danish	fem	fɛmˀ	O	
+158	Danish Fjolde	feem	feːm	O	
+160	Old Gutnish	fem		O	
+161	Gutnish Lau	fäm	fɛmː	O	
+99	Old English	fīf		O	
+22	English	five	faɪv	O	
+26	Frisian	fiif	fi:f	O	
+21	Dutch	vijf	vɛif	O	
+24	Flemish	VYF		O	
+83	Afrikaans	VYF		O	
+87	Sranan	FEIFI		O	
+126	Old High German	fimf		O	
+27	German	Fünf	fʏnf	O	
+86	Pennsylvania Dutch	FINFE		O	
+120	Luxembourgish	fënnef		O	
+121	German Switzerland	füüf		O	
+107	Gothic	fimf		O	
+130	Oscan	*púmpe		O	
+132	Umbrian	*pumpe		O	
+112	Latin	quīnque	ˈkʷiːnkʷe	O	
+17	Catalan	cinc	siŋk	O	
+56	Portuguese	cinco	ˈsĩku	O	
+68	Spanish	cinco	'θiŋko	O	
+61	Sardinian Cagliari	CINKU		O	
+62	Sardinian Logudoro	CHIMBE		O	
+63	Sardinian Nuoro	KIMBE		O	
+85	French Creole Dominica	SEK		O	
+76	Walloon	CINQ'		O	
+25	French	cinq	s ɛ̃k	O	
+57	Provencal	cinc	siŋk	O	
+42	Ladin	TSCHINCH		O	
+146	Dolomite Ladino	zinch, zincue		O	
+123	Romansh	tschintg		O	
+122	Friulian	cinc		O	
+39	Italian	cinque	'tʃinkwe	O	
+59	Romanian	cinci	ʧinʧʲ	O	
+74	Vlach	CINJE		O	
+140	Gaulish	pempe		O	
+127	Old Irish	cóic	ko:gʹ	O	
+101	Middle Cornish	pymp	pɪmp	O	
+172	Middle Breton	pemp	ˈpemp	O	
+12	Breton	pemp	ˈpɛmp, ˈpẽmp	O	
+79	Welsh	pump	pɪmp	O	
+38	Irish	cúig	kuːɟ	O	
+115	Scottish Gaelic	còig	koːɡ̊ʲ	O	
+5	[Legacy] Albanian T	pesë	pɛs(ə)	O	
+29	[Legacy] Greek K	PENTE		O	
+28	[Legacy] Greek D	PENTE		O	
+30	[Legacy] Greek Md	PENTE		O	
+64	[Legacy] Serbocroatian	PET		O	
+113	[Legacy] Serbian	pet	pê:t	O	
+89	[Legacy] Bulgarian P	PET		O	
+49	[Legacy] Macedonian	PET		O	
+94	[Legacy] Russian P	P AT		O	
+93	[Legacy] Polish P	PIEC		O	
+90	[Legacy] Byelorussian P	P AC		O	
+98	[Legacy] Ukrainian P	P AT		O	
+19	[Legacy] Czech E	PYET		O	
+96	[Legacy] Slovak P	PAT		O	
+91	[Legacy] Czech P	PET		O	
+67	[Legacy] Slovenian	PJT		O	
+45	[Legacy] Lithuanian O	PENKI		O	
+11	[Legacy] Brazilian	CINCO		O	
+142	[Legacy] German Munich	fünf		O	
+84	[Legacy] French Creole C	SEK		O	
+14	[Legacy] Breton St	pemp	pɛmp, pɛ̃mp	O	
+13	[Legacy] Breton Se	PEMP		O	
+78	[Legacy] Welsh C	PUMP		O	
+37	[Legacy] Irish A	CUIG		O	

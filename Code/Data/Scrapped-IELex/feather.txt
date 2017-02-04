@@ -1,0 +1,157 @@
+82	Tocharian B	paruwa		D	
+88	Albanian	pendë		(A)	
+143	Standard Albanian	pendë		(A)	
+2	Albanian Sicily	pendë		(A)	
+4	Albanian Corinth	pendë		(A)	
+3	Albanian Gheg	pendë		(A)	
+6	Albanian Tosk	pendë		(A)	
+173	Mycenaean Greek	pi-ti-ro₂-we-sa	ptilːo-u̯esa		
+110	Ancient Greek	πτερόν	pterón	A	
+152	Tsakonian	φτερε		A	
+32	Greek	φτερό	fte̞ˈro̞	A	
+31	Greek Lesbos	FTERO		A	
+129	Classical Armenian	փետուր	pʰetowr	A	
+8	Armenian Eastern	T`EW		A	
+8	Armenian Eastern	p’etur	pʰɛˈtuɾ	A	
+7	Armenian Western	PEDUR		A	
+128	Avestan	parənəm		D	
+136	Sogdian	prn		D	
+75	Wakhi	PUR		D	
+9	Baluchi	KHAMB		(J)	
+9	Baluchi	PHAR		D	
+118	Kurdish	per		D	
+137	Zazaki	pūrtī		D	
+72	Tajik	par	pær	D	
+54	Persian	par	pær	D	
+77	Waziri	PAKHA		(G)	
+1	Pashto	BENA, BANEKA		B	
+138	Shughni	pār		D	
+139	Sarikoli	par		D	
+52	Ossetic	sis	sis	C	
+124	Ossetic Iron	šiš	šiš	C	
+125	Ossetic Digor	šes	šes	C	
+154	Vasi-vari	pəṭegë		A	
+105	Vedic Sanskrit	parṇám		D	
+162	Pāḷī	paṇṇa		D	
+162	Pāḷī	patta		D	
+41	Khaskura	PWANKH		G	
+51	Nepali	PWAKH		G	
+106	Assamese	pakhi	pakhi	G	
+102	Oriya	pɔkhi	pɔkhi	G	
+10	Bengali	PALOK		G	
+111	Bihari	paĩkh	paĩkh	G	
+144	Magahi	पांख	pɑ̃kʰ	G	
+104	Marwari	pãnkh	pãnkh	G	
+35	Hindi	PER		D	
+119	Urdu	پَر	pəɾ	D	
+43	Lahnda	PER		D	
+53	Punjabi	KHEMB		J	
+33	Gujarati	PICU		F	
+50	Marathi	pãŋkha	'pãŋkʰə	G	
+50	Marathi	PIS		F	
+40	Kashmiri	PAKHACH		G	
+40	Kashmiri	TIR		N	
+65	Sinhalese	PIHATTA		F	
+34	Romani Greece	PHAK		G	
+100	Old Church Slavonic	пєро	pɛrɔ	D	
+95	Serbo-Croatian	pero	ˈpɛ̌rɔ	D	
+15	Bulgarian	перо	pɘˈrɔ	D	
+92	Macedonian	перо	ˈperɔ	D	
+60	Russian	перо	pʲɛ'rɔ	D	
+55	Polish	pióro	ˈpjurɔ	D	
+16	Belarusian	пяро	pʲaˈrɔ	D	
+73	Ukrainian	перо	pɛˈrɔ	D	
+66	Slovak	pero	ˈpɛrɔ	D	
+18	Czech	péro	ˈpɛːrɔ	D	
+48	Sorbian Upper	pjero	ˈpĕɛʀɔ	D	
+47	Sorbian Lower	pjero	ˈpĕɛrɔ	D	
+97	Slovenian	pero	pɛˈrôː	D	
+108	Old Prussian	plāugzā		I	
+44	Latvian	spal̃va		D	
+46	Lithuanian	PLUNKSNA		I	
+109	Old Norse	fjo̜ðr	fjɔðr	A	
+36	Icelandic	fjöður	fjœːðʏr	A	
+23	Faroese	fjøður	ˈfjøːvʊɹ	A	
+58	Norwegian Riksmal	fjær, fjør	fjæːɾ, fjøːɾ	A	
+159	Stavangersk	fjør	fjœːʁ	A	
+157	Old Swedish	fiädher	ˈfiæːðer	A	
+69	Swedish	fjäder	ˈfjɛ:dər	A	
+71	Swedish Vilhelmina	FJAR  FJER		A	
+70	Swedish Uppland	FJADER		A	
+145	Elfdalian	fjäðer		A	
+145	Elfdalian	daungen	ˈdɑ́ʉŋɛn	K	
+20	Danish	fjer	fjeˀɐ̯	A	
+158	Danish Fjolde	fied	fieð	A	
+161	Gutnish Lau	fjädar	ˈfjɛːdar	A	
+99	Old English	feþer		A	
+22	English	feather	'fɛðə	A	
+26	Frisian	fear	fɪ.ər	A	
+21	Dutch	veer	ver	A	
+83	Afrikaans	PLUIM		(E)	
+83	Afrikaans	VEER		A	
+87	Sranan	WIURRI, FOUWLOE-WIURRI			
+126	Old High German	federa		A	
+27	German	Feder	'fe:dɐ	A	
+86	Pennsylvania Dutch	FEDDER		A	
+120	Luxembourgish	Fieder		A	
+120	Luxembourgish	Plomm		(E)	
+121	German Switzerland	fädere		A	
+112	Latin	penna	ˈpenːa	(A)	
+112	Latin	plūma	ˈpluːma	E	
+17	Catalan	ploma	'plomə	E	
+56	Portuguese	PLUMA		E	
+56	Portuguese	pena	ˈpenɐ	A	
+68	Spanish	pluma	'pluma	E	
+61	Sardinian Cagliari	PINNA		A	
+62	Sardinian Logudoro	PIUMAGGIU		E	
+63	Sardinian Nuoro	PIA		A	
+85	French Creole Dominica	PLIM		E	
+76	Walloon	PLOME		E	
+25	French	plume (d'oiseau)	plym (dwazo)	E	
+57	Provencal	PLUMO		E	
+42	Ladin	PENNA		A	
+146	Dolomite Ladino	piuma		E	
+146	Dolomite Ladino	pena		A	
+123	Romansh	plema, plüma		E	
+123	Romansh	penna		A	
+122	Friulian	pene		A	
+122	Friulian	plume		E	
+39	Italian	piuma	'pjuma	E	
+59	Romanian	fulg	fulg		
+59	Romanian	pană		A	
+74	Vlach	PEANE		A	
+127	Old Irish	clúm	klu:ṽ	(E), (L)	
+127	Old Irish	cleitte	kʹlʹetʹe	H	
+127	Old Irish	ette	etʹe	(A)	
+101	Middle Cornish	pluven	'plʏvɛn	(E), M	
+172	Middle Breton	pluuenn, pluffenn, pluenn, plufuenn	ˈplyːven, ˈplyːen	(E), M	
+12	Breton	pluenn, pluñvenn	ˈplyːɛn, ˈplỹːven	(E), M	
+79	Welsh	pluen		(E), M	
+38	Irish	cleite		H	
+38	Irish	eiteog		(A)	
+115	Scottish Gaelic	ite		A	
+147	Manx	clooie		(E), L	
+5	[Legacy] Albanian T	pendë		(A)	
+29	[Legacy] Greek K	PTERUKS		A	
+28	[Legacy] Greek D	FTEROUGA		A	
+30	[Legacy] Greek Md	POUPOULO			
+64	[Legacy] Serbocroatian	PERO		D	
+113	[Legacy] Serbian	pero		D	
+89	[Legacy] Bulgarian P	PERO		D	
+49	[Legacy] Macedonian	PERO, PERJE, PERJA		D	
+94	[Legacy] Russian P	PERO		D	
+93	[Legacy] Polish P	PIORO		D	
+90	[Legacy] Byelorussian P	P ARO		D	
+98	[Legacy] Ukrainian P	PERO		D	
+19	[Legacy] Czech E	PERO		D	
+96	[Legacy] Slovak P	PERO		D	
+91	[Legacy] Czech P	PERO		D	
+67	[Legacy] Slovenian	PERU		D	
+45	[Legacy] Lithuanian O	PLUNKENA		I	
+11	[Legacy] Brazilian	PLUMA		E	
+142	[Legacy] German Munich	Feder		A	
+84	[Legacy] French Creole C	PLIM		E	
+14	[Legacy] Breton St	pluenn	'pluɛn	(E), M	
+13	[Legacy] Breton Se	PLUENN		(E), M	
+78	[Legacy] Welsh C	PLUFYN		(E), M	
+37	[Legacy] Irish A	CLEITE		H	

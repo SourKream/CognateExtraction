@@ -1,0 +1,175 @@
+80	Hittite	nāhi			
+133	Luvian	kuwaya-			
+81	Tocharian A	prāskatär		N	
+82	Tocharian B	pärsk-		I	
+88	Albanian	DRUJ, DRUHEM		C	
+143	Standard Albanian	kam frikë			
+2	Albanian Sicily	TREMBEM		D	
+4	Albanian Corinth	TREMBEM		D	
+3	Albanian Gheg	DRUJ, DRUHEM		C	
+6	Albanian Tosk	TREMBEM		D	
+110	Ancient Greek	δείδω	déːdɔː	T	
+110	Ancient Greek	φοβέομαι	pʰobéomai̯	K	
+32	Greek	φοβάμαι	fo̞ˈvame̞	K	
+31	Greek Lesbos	FOBAMAI		K	
+129	Classical Armenian	երկնչիմ		T	
+8	Armenian Eastern	vaxenal			
+7	Armenian Western	VAKHNAL			
+128	Avestan	biβāiia		E	
+131	Old Persian	tarsatiy		D	
+136	Sogdian	pc’ykwyr		R	
+75	Wakhi	WESI-		D	
+9	Baluchi	THURSAGH		D	
+72	Tajik	TARSIDAN		D	
+72	Tajik	VAXMIDAN		E	
+54	Persian	TARSIDAN		D	
+77	Waziri	DAREDEL, WYEREDEL		A	
+1	Pashto	BEREDEL		A	
+138	Shughni	aks čīdōw		S	
+52	Ossetic	taersyn	tærsɨn	D	
+124	Ossetic Iron	tɐrš-	tɐrš-	D	
+125	Ossetic Digor	tɐrs-	tɐrs-	D	
+105	Vedic Sanskrit	bibhá̄ya		E	
+162	Pāḷī	dara		M	
+41	Khaskura	DARNU		M	
+51	Nepali	DARNU		M	
+106	Assamese	bhay		E	
+106	Assamese	dɒra	dɒra	M	
+102	Oriya	ḍɔr-	ɖɔr-	M	
+102	Oriya	bhɔyɔ kɔriba	bhɔyɔ kɔriba	E	
+10	Bengali	BHOE		E	
+111	Bihari	ɖərəb	ɖərəb	M	
+144	Magahi	डरना	dərnɑ		
+104	Marwari	bhəi	bhəi	E	
+104	Marwari	ɖər	ɖər	M	
+35	Hindi	DERNA		M	
+119	Urdu	ڈرنا	ɖəɾnə	M	
+103	Sindhi	bhavu		E	
+103	Sindhi	ḍrij̄-aṇu		M	
+103	Sindhi	dapu			
+43	Lahnda	DEREN		M	
+53	Punjabi	DERNA		M	
+33	Gujarati	DERWU		M	
+33	Gujarati	BIHWU		E	
+50	Marathi	bhay	bʱaj	E	
+50	Marathi	bhitī	bʱi'ti:	E	
+40	Kashmiri	DARUN		M	
+40	Kashmiri	KHOTSUN			
+40	Kashmiri	TARSUN		D	
+65	Sinhalese	BAYA		E	
+34	Romani Greece	TRASAV		D	
+100	Old Church Slavonic	бояти сѧ	bɔjati sɛ̃	E	
+95	Serbo-Croatian	bojati se	ˈbɔ̌jati sɛ	E	
+95	Serbo-Croatian	plašiti se	ˈplâʃiti sɛ	V	
+15	Bulgarian	плаша се	ˈpɫaʃə sɛ	V	
+15	Bulgarian	страхувам се	strəˈxuvəm sɛ	H	
+15	Bulgarian	боя се	buˈjɤ sɛ	E	
+92	Macedonian	плаши се	ˈplaʃi sɛ	V	
+60	Russian	бояться	bɔ'jatʲsʲa	E	
+55	Polish	bać się	ˈbatɕ ɕɛ(ɰ̃)	E	
+16	Belarusian	баяцца	baˈjatstsa	E	
+73	Ukrainian	боятися	bɔˈjatɪsʲa	E	
+66	Slovak	báť sa	baːc sa	E	
+18	Czech	bát se	baːt sɛ	E	
+48	Sorbian Upper	bojeć so	ˈbɔjɛtʃ sɔ	E	
+47	Sorbian Lower	bójaś se	ˈbɛjaɕ sɛ	E	
+97	Slovenian	bati se	ˈbǎːti sɛ	E	
+108	Old Prussian	bia		E	
+108	Old Prussian	bijatwei		E	
+44	Latvian	baĩdâs		E	
+44	Latvian	bîstas			
+46	Lithuanian	BIJOTI		E	
+109	Old Norse	óttask	ˈoːtːask	Q	
+109	Old Norse	hræðask	ˈɣrɛðask	J	
+36	Icelandic	óttast	ˈouʰtːast	Q	
+36	Icelandic	VERA HRAEDDR		J	
+36	Icelandic	hræðast	ˈr̥aiːðast	J	
+23	Faroese	óttast	ˈœʰtːast	Q	
+23	Faroese	vera ræddur	ˈveːɹa ˈɹadːʊɹ	J	
+23	Faroese	ræðast	ˈɹe̜ːast	J	
+58	Norwegian Riksmal	frykte	ˈfɾʏ̀ktə	(I)	
+157	Old Swedish	rädhas	ˈræːðas	J	
+157	Old Swedish	frukta	ˈfrukta	(I)	
+69	Swedish	farhåga	'fɑ:rho:ga	(I)	
+69	Swedish	rädas	ˈrɛ̀ːdas	J	
+69	Swedish	frukta	ˈfrɵ̀kta	(I)	
+71	Swedish Vilhelmina	FRUKT		I	
+70	Swedish Uppland	VARA RADD FOR		J	
+145	Elfdalian	räðas	ˈræ̀ːðɑs	J	
+145	Elfdalian	frukta		(I)	
+20	Danish	ræddes	ˈʁɑðəs	J	
+20	Danish	frygte	ˈfʁœ̝g̥d̥ʰə	I	
+161	Gutnish Lau	byckäs	ˈbʏkːɛs	U	
+161	Gutnish Lau	fruktä	ˈfruktɛ	(I)	
+99	Old English	fyrht		I	
+99	Old English	forhtaþ		I	
+22	English	to fear	fɪə	B	
+26	Frisian	eangje	'ɪ.ənjə	Q	
+21	Dutch	vrezen	'vrezə(n)	B	
+24	Flemish	VREZEN		B	
+83	Afrikaans	VREES		B	
+83	Afrikaans	BANG WEES		Q	
+87	Sranan	FREDE		B	
+126	Old High German	forhtit		I	
+27	German	fürchten	'fʏrçtn̩	I	
+120	Luxembourgish	fäerten		I	
+121	German Switzerland	angscht ha			
+107	Gothic	faúrhteiþ		I	
+107	Gothic	ōg(jan)		Q	
+112	Latin	timēre	tiˈmeːre	F	
+17	Catalan	TEMOREJAR		F	
+17	Catalan	témer	ˈtemə, ˈtemeɾ	F	
+56	Portuguese	temer	tɨˈmeɾ	F	
+68	Spanish	temer	te'meɾ	F	
+61	Sardinian Cagliari	TIMMI		F	
+62	Sardinian Logudoro	TIMERE		F	
+63	Sardinian Nuoro	TIMERE		F	
+85	French Creole Dominica	PE		O	
+76	Walloon	AVEUR SOGNE			
+25	French	craindre	kʀɛ̃dʀ	D, J	
+57	Provencal	TEME		F	
+57	Provencal	CREGNE		D, J	
+42	Ladin	TMAIR		F	
+146	Dolomite Ladino	teme		F	
+123	Romansh	temair		F	
+122	Friulian	temê, temi		F	
+39	Italian	temere	te'mere	F	
+59	Romanian	a se teme		F	
+74	Vlach	MESPARU			
+127	Old Irish	ad·ágathar	að·a:ɣəθər	Q	
+127	Old Irish	ecla (nn.)	egla	P	
+101	Middle Cornish	own (nn.)	ɔʊn	L	
+172	Middle Breton	caffout oun, aoun	ˌkaːvut ˈuːn, ˈaun	L	
+12	Breton	kaout (endevout) aon	ˈkɔwd ˈãwn	L	
+12	Breton	doujañ	ˈduːʒã	(G)	
+79	Welsh	ofni		L	
+38	Irish	eagla (nn.)		P	
+115	Scottish Gaelic	gabh eagal		P	
+5	[Legacy] Albanian T	ME PASUR FRIKE			
+29	[Legacy] Greek K	FOBOUMAI		K	
+28	[Legacy] Greek D	FOBAMAI		K	
+30	[Legacy] Greek Md	FOBAMAI		K	
+64	[Legacy] Serbocroatian	BOJATI SE		E	
+113	[Legacy] Serbian	bojati (se)		E	
+113	[Legacy] Serbian	plašiti	plâʃiti		
+89	[Legacy] Bulgarian P	BOJA SE		E	
+49	[Legacy] Macedonian	BOI SE		E	
+94	[Legacy] Russian P	BOJAT S A		E	
+93	[Legacy] Polish P	BAC SIE		E	
+90	[Legacy] Byelorussian P	BAJACCA		E	
+98	[Legacy] Ukrainian P	BOJATYS A		E	
+19	[Legacy] Czech E	BATSA		E	
+96	[Legacy] Slovak P	BAT SA		E	
+91	[Legacy] Czech P	BATI SE		E	
+67	[Legacy] Slovenian	STRAH		H	
+45	[Legacy] Lithuanian O	BIJOTI		E	
+11	[Legacy] Brazilian	TEMER		F	
+142	[Legacy] German Munich	Angst haben			
+84	[Legacy] French Creole C	PE		O	
+84	[Legacy] French Creole C	KHWEN			
+14	[Legacy] Breton St	KAOUT AON RAK		L	
+14	[Legacy] Breton St	doujañ	'du:ʒã	G	
+13	[Legacy] Breton Se	DOUJEIN		G	
+13	[Legacy] Breton Se	EN DEVOUT EUN RAK			
+78	[Legacy] Welsh C	OFNI		L	
+37	[Legacy] Irish A	TA EAGLA AIR		P	

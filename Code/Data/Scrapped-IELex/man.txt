@@ -1,0 +1,222 @@
+114	Proto-Indo-European	*h₂nḗr		F	
+114	Proto-Indo-European	*wiHrós		C	
+80	Hittite	pisēnas		N	
+133	Luvian	zītis			
+81	Tocharian A	ātäl			
+81	Tocharian A	oṅk		O	
+82	Tocharian B	eṅkwe		O	
+88	Albanian	njeri		F	
+143	Standard Albanian	mashkull		S	
+143	Standard Albanian	burrë		(R)	
+2	Albanian Sicily	burrë		(R)	
+4	Albanian Corinth	burrë		(R)	
+3	Albanian Gheg	njer		F	
+3	Albanian Gheg	burrë		(R)	
+6	Albanian Tosk	njeri		F	
+6	Albanian Tosk	burrë			
+6	Albanian Tosk	mashkull		(S)	
+110	Ancient Greek	ἀνήρ	anɛ́ːr	F	
+32	Greek	άντρας	ˈandras	F	
+31	Greek Lesbos	ANTRAS		F	
+129	Classical Armenian	այր	ayr	F	
+8	Armenian Eastern	մարդ	mɑɾtʰ	K	
+8	Armenian Eastern	այր	ayr	(F)	
+7	Armenian Western	մարդ	mɑɾtʰ	K	
+128	Avestan	vīrō		C	
+128	Avestan	nā		F	
+131	Old Persian	*nar-		(F)	
+136	Sogdian	nyrk		F	
+75	Wakhi	DAEI			
+75	Wakhi	XULG			
+75	Wakhi	MERDINA		K	
+9	Baluchi	MARD, MAR		K	
+118	Kurdish	mêr		K	
+137	Zazaki	merdim		K	
+137	Zazaki	mērdek		K	
+72	Tajik	MARD		K	
+54	Persian	mard	mæɾd	K	
+54	Persian	ADAM		(L)	
+77	Waziri	NAR		F	
+77	Waziri	SARAI		A	
+77	Waziri	NER		F	
+1	Pashto	SARAJ		A	
+138	Shughni	čōr		P	
+138	Shughni	nafar		(Q)	
+139	Sarikoli	čurik		P	
+139	Sarikoli	xalg		(V)	
+52	Ossetic	laeg, naelgojmag	læɡ, nælɡojmaɡ	D	
+124	Ossetic Iron	lɐg	lɐg	D	
+125	Ossetic Digor	lɐg	lɐg	D	
+141	Kata-viri	mʌnši		A	
+154	Vasi-vari	wërǰimī, warǰemī		C	
+153	Askunu	mac		K	
+105	Vedic Sanskrit	nā́		F	
+162	Pāḷī	nara		F	
+41	Khaskura	MANCHHA		A	
+41	Khaskura	MANIS		A	
+41	Khaskura	JANA		W	
+51	Nepali	MANCHE		A	
+51	Nepali	PURUKH		M	
+51	Nepali	LOGNE		X	
+106	Assamese	mūni		A	
+106	Assamese	mānuh		A	
+102	Oriya	lokɔ	lokɔ	(X)	
+102	Oriya	mɔṇisɔ	mɔɳisɔ	A	
+102	Oriya	purusɔ	purusɔ	M	
+10	Bengali	PURUS		M	
+111	Bihari	admi	admi	(L)	
+144	Magahi	मरद	mərəd̪	(K)	
+104	Marwari	minakh		A	
+104	Marwari	ādamī		(L)	
+35	Hindi	ADMI		(L)	
+119	Urdu	آدمی	ʔɑd̪mi	(L)	
+119	Urdu	مرد	məɾd̪	(K)	
+103	Sindhi	purusu		M	
+103	Sindhi	naru		F	
+103	Sindhi	māṇhũ		A	
+43	Lahnda	ADMI		(L)	
+53	Punjabi	ADMI		(L)	
+33	Gujarati	MANES		A	
+50	Marathi	purus		M	
+40	Kashmiri	MARD		(K)	
+40	Kashmiri	PORUSH		M	
+40	Kashmiri	NAR		F	
+40	Kashmiri	ZONU		A	
+65	Sinhalese	miniha	miniha	A	
+34	Romani Greece	MRUS		K	
+100	Old Church Slavonic	мѫжь	mɔ̃ʒɪ̆	A	
+95	Serbo-Croatian	muškarac	muʃˈkǎːrats	A	
+15	Bulgarian	мъж	mɤʒ	A	
+92	Macedonian	маж	maʒ	A	
+60	Russian	мужчина	muʐ'tʃina	A	
+55	Polish	mężczyzna	mɛɰ̃ʂˈtʂɘ̟zna	A	
+16	Belarusian	мужчына	muʐˈtʂɨna	A	
+73	Ukrainian	чоловік	tʂɔɫɔˈvik	G	
+66	Slovak	muž	muʒ	A	
+66	Slovak	chlap	xlap	I	
+18	Czech	muž	muʒ	A	
+48	Sorbian Upper	muž	muʒ	A	
+47	Sorbian Lower	muski	ˈmuski	A	
+97	Slovenian	človek	ˈtʃlɔ̂ːvɛk	G	
+108	Old Prussian	wijrs		C	
+44	Latvian	vĩrs		C	
+46	Lithuanian	vyras	ˈʋʲi:rɐs	C	
+109	Old Norse	maðr	ˈmaðr	A	
+109	Old Norse	verr	verː	(C)	
+109	Old Norse	karl	karl	(H)	
+109	Old Norse	karlmaðr	ˈkarlˌmaðr	A, H	
+109	Old Norse	gumi	ˈɡumi	(B)	
+36	Icelandic	karlmaður	ˈkʰard̥lˌmaːðʏr	A, H	
+36	Icelandic	maður	ˈmaːðʏr	A	
+36	Icelandic	karl	ˈkʰard̻l	H	
+23	Faroese	maður	ˈmɛaːvʊɹ	A	
+23	Faroese	kallmaður	ˈkʰad̥lˌmɛaːvʊɹ	A, H	
+58	Norwegian Riksmal	mann	manː	A	
+58	Norwegian Riksmal	kar	kaːɾ	H	
+159	Stavangersk	kar	kɑːʁ	H	
+159	Stavangersk	mann	manː	A	
+157	Old Swedish	gumi	ˈɡuːmi	B	
+157	Old Swedish	karl	kaːrl	H	
+157	Old Swedish	madher	ˈmaːðer	A	
+69	Swedish	karl	kɑ:r	H	
+69	Swedish	man	manː	A	
+71	Swedish Vilhelmina	MAN		A	
+71	Swedish Vilhelmina	KAR		H	
+70	Swedish Uppland	MAN		A	
+70	Swedish Uppland	KARL		H	
+145	Elfdalian	kall	kɑlː	H	
+145	Elfdalian	mann		A	
+20	Danish	mand	manˀ	A	
+158	Danish Fjolde	mand	mɑnʲ	A	
+160	Old Gutnish	karl		H	
+160	Old Gutnish	maþr		A	
+161	Gutnish Lau	man	manː	A	
+161	Gutnish Lau	kal	kɑːl	H	
+99	Old English	wer		C	
+22	English	man	mæn	A	
+26	Frisian	man	mɔn	A	
+21	Dutch	man	mɑn	A	
+24	Flemish	MAN		A	
+83	Afrikaans	MAN		A	
+87	Sranan	SOEMA			
+126	Old High German	man		A	
+27	German	Mann	man	A	
+86	Pennsylvania Dutch	MAAN		A	
+120	Luxembourgish	Mann		A	
+121	German Switzerland	maa		A	
+107	Gothic	guma		B	
+107	Gothic	waír		C	
+112	Latin	uir	wir	C	
+17	Catalan	home	ˈɔmə	B	
+56	Portuguese	homem	ˈɔmɐ̃ĩ	B	
+56	Portuguese	VARAO			
+68	Spanish	hombre	'ombɾe	B	
+61	Sardinian Cagliari	OMINI		B	
+62	Sardinian Logudoro	OMINE		B	
+63	Sardinian Nuoro	OMINE		B	
+85	French Creole Dominica	NOM		B	
+76	Walloon	OME		B	
+25	French	homme	ɔm	B	
+57	Provencal	òme	ˈɔme	B	
+42	Ladin	HOMENS, CRASTIAUN		B	
+146	Dolomite Ladino	uómo		B	
+146	Dolomite Ladino	mašcio		T	
+146	Dolomite Ladino	cristian			
+123	Romansh	bia(ra)			
+123	Romansh	um		B	
+123	Romansh	mascal		T	
+122	Friulian	om		B	
+122	Friulian	mascli		T	
+39	Italian	uomo	'wɔmo	B	
+59	Romanian	bărbat	bərˈbat	E	
+74	Vlach	BERBATU		E	
+140	Gaulish	uiros		C	
+127	Old Irish	fer	ɸʹer	C	
+149	Old Cornish	gur		C	
+101	Middle Cornish	gour	gu:r	(C)	
+101	Middle Cornish	den	dɛ:n	B	
+101	Middle Cornish	gwas		(U)	
+148	Old Breton	gur		C	
+172	Middle Breton	den, din	ˈdeːn	B	
+172	Middle Breton	gour	ˈguːr	C	
+12	Breton	paotr			
+12	Breton	den	ˈdẽːn	B	
+150	Old Welsh	gur		C	
+79	Welsh	gŵr	gu:r	C	
+79	Welsh	dyn		B	
+38	Irish	fear		C	
+38	Irish	duine		(B)	
+115	Scottish Gaelic	duine		(B)	
+115	Scottish Gaelic	fear	fɛɾ	C	
+147	Manx	fer		(C)	
+147	Manx	dooinney		B	
+5	[Legacy] Albanian T	burrë	ˈburə		
+5	[Legacy] Albanian T	mashkull		(S)	
+5	[Legacy] Albanian T	njeri		F	
+29	[Legacy] Greek K	ANER		F	
+28	[Legacy] Greek D	ANTRAS		F	
+30	[Legacy] Greek Md	ANTRAS		F	
+64	[Legacy] Serbocroatian	COVEK		G	
+113	[Legacy] Serbian	muškarac	muʃkǎːrats	A	
+89	[Legacy] Bulgarian P	COVEK		G	
+49	[Legacy] Macedonian	maz	maʃ	A	
+49	[Legacy] Macedonian	COVEK		G	
+94	[Legacy] Russian P	CELOVEK		G	
+93	[Legacy] Polish P	CZLOWIEK		G	
+90	[Legacy] Byelorussian P	CALAVEK		G	
+98	[Legacy] Ukrainian P	COLOVIK		G	
+19	[Legacy] Czech E	MUSKI		A	
+19	[Legacy] Czech E	XLAP		I	
+96	[Legacy] Slovak P	CLOVEK		G	
+91	[Legacy] Czech P	CLOVEK		G	
+67	[Legacy] Slovenian	MOZ, MASKI		A	
+45	[Legacy] Lithuanian O	VYRAS		C	
+11	[Legacy] Brazilian	homem	ˈomẽĩ	B	
+142	[Legacy] German Munich	Mann		A	
+84	[Legacy] French Creole C	NOM		B	
+14	[Legacy] Breton St	gwaz	gwa:s	U	
+14	[Legacy] Breton St	gour		C	
+14	[Legacy] Breton St	den		B	
+13	[Legacy] Breton Se	GOAS		U	
+78	[Legacy] Welsh C	DYN		B	
+37	[Legacy] Irish A	FEAR		C	

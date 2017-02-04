@@ -1,0 +1,175 @@
+80	Hittite	takku			
+133	Luvian	mān		X	
+134	Lycian	ẽ			
+135	Palaic	mān		X	
+81	Tocharian A	kuprene		U	
+82	Tocharian B	ente			
+82	Tocharian B	krui			
+88	Albanian	NE		C	
+143	Standard Albanian	nëse		C	
+2	Albanian Sicily	NA		C	
+4	Albanian Corinth	PO		D	
+3	Albanian Gheg	NE		C	
+6	Albanian Tosk	PO		D	
+110	Ancient Greek	εἰ	eː	Q	
+32	Greek	ει	i	(Q)	
+32	Greek	αν	an	M	
+31	Greek Lesbos	AN		M	
+129	Classical Armenian	եթե	etʰe	W	
+8	Armenian Eastern	et‘e			
+7	Armenian Western	YETE		W	
+128	Avestan	yaṯ		P	
+131	Old Persian	yadiy		Z	
+136	Sogdian	’YK	/čānu, kaδu/	Y	
+75	Wakhi	UGER		E	
+9	Baluchi	AR, AR KI		E	
+137	Zazaki	eger		E	
+137	Zazaki	sew (ki)		Ac	
+137	Zazaki	wexto ki		Ad	
+137	Zazaki	gāvā		Ab	
+137	Zazaki	-se		Aa	
+72	Tajik	AGAR		E	
+54	Persian	AGAR		E	
+77	Waziri	CHE, KE		A	
+1	Pashto	KA		A	
+138	Shughni	aga(r)		E	
+139	Sarikoli	agar		E	
+52	Ossetic	kuy	kwɨ	A	
+124	Ossetic Iron	kɐd/kʷy	kɐd/kʷy	A	
+125	Ossetic Digor	kɐd/ku	kɐd/ku	A	
+105	Vedic Sanskrit	yát		P	
+162	Pāḷī	yadi		P	
+41	Khaskura	BHANEDEKHIN		Ah	
+51	Nepali	JADI		P	
+106	Assamese	z̤âdi	z̤âdi	P	
+106	Assamese	te		N	
+102	Oriya	jɔdi	jɔdi	P	
+10	Bengali	JODI		P	
+111	Bihari	yadi		P	
+111	Bihari	ta		N	
+111	Bihari	agar		(E)	
+144	Magahi	अगर	əɡər	(E)	
+104	Marwari	jē		P	
+35	Hindi	YEDI		P	
+35	Hindi	EGER		(E)	
+119	Urdu	اگر	ʔəɡəɾ	(E)	
+103	Sindhi	ǰē(kara)	ʤē(kara)	P	
+43	Lahnda	JE		P	
+53	Punjabi	JE		P	
+53	Punjabi	EGER		(E)	
+33	Gujarati	JO		P	
+50	Marathi	dzar	dzəɾ	P	
+40	Kashmiri	AY		P	
+40	Kashmiri	YED		P	
+65	Sinhalese	TOT		N	
+34	Romani Greece	TE		N	
+100	Old Church Slavonic	ащє	ɑʃtɛ	Ai	
+95	Serbo-Croatian	ako	ˈâkɔ	R	
+15	Bulgarian	ако	əˈkɔ	R	
+92	Macedonian	ako	ˈakɔ	R	
+60	Russian	если	'jɛsʲlʲi	I	
+55	Polish	jeżeli	jɛˈʐɛli	I	
+16	Belarusian	калі	kaˈlʲi	T	
+73	Ukrainian	якщо	jakˈʂtʂɔ	R	
+66	Slovak	keby	ˈkɛbi	F	
+66	Slovak	ak	ak	R	
+18	Czech	jestli	ˈjɛstlɪ	I	
+48	Sorbian Upper	hdyž	dɘ̟ʃ	U	
+47	Sorbian Lower	gaž	ɡaʂ	U	
+97	Slovenian	ako	ˈakɔ	R	
+108	Old Prussian	ickai			
+44	Latvian	ja		S	
+46	Lithuanian	KAD		U	
+46	Lithuanian	jei	jæj	S	
+109	Old Norse	ef	ef	R	
+36	Icelandic	ef	ɛf	R	
+23	Faroese	um	ʊmː	K	
+23	Faroese	VISS		(J)	
+58	Norwegian Riksmal	hvis	ʋiːs	(J)	
+159	Stavangersk	viss, vist	ʋɪsː, ʋɪst	(J)	
+157	Old Swedish	um	umː	K	
+69	Swedish	VRAMT		(Ag)	
+69	Swedish	såvida	soˈvìːda	(Af)	
+69	Swedish	om	ɔmː	K	
+69	Swedish	ifall	iˈfalː	V	
+71	Swedish Vilhelmina	OM  OM		K	
+70	Swedish Uppland	I FALL (ATT)		V	
+70	Swedish Uppland	OM		K	
+145	Elfdalian	um	ʉm	K	
+20	Danish	hvis	ves	(J)	
+158	Danish Fjolde	væn	væn	(U)	
+161	Gutnish Lau	um	umː	K	
+99	Old English	gif		R	
+22	English	if	ɪf	R	
+26	Frisian	of	ɔf	R	
+26	Frisian	at	ɔt		
+21	Dutch	als	ɑls	Ae	
+21	Dutch	indien	ɪn'din	B	
+83	Afrikaans	INDIEN		B	
+83	Afrikaans	AS			
+87	Sranan	EFI		R	
+126	Old High German	ibu		R	
+126	Old High German	oba			
+27	German	wenn	vɛn	U	
+86	Pennsylvania Dutch	WONN		U	
+120	Luxembourgish	wann		U	
+121	German Switzerland	we(nn)		U	
+107	Gothic	jabai		R	
+130	Oscan	svaí			
+132	Umbrian	sve			
+112	Latin	sī	siː	G	
+17	Catalan	si	si	G	
+56	Portuguese	se	sɨ	G	
+68	Spanish	si	si	G	
+61	Sardinian Cagliari	SI		G	
+62	Sardinian Logudoro	SI		G	
+63	Sardinian Nuoro	SI		G	
+85	French Creole Dominica	SI		G	
+76	Walloon	SI		G	
+25	French	si	si	G	
+57	Provencal	SE		G	
+42	Ladin	SCHA		G	
+146	Dolomite Ladino	se		G	
+123	Romansh	sche		G	
+122	Friulian	se		G	
+39	Italian	se	se	G	
+59	Romanian	dacă	ˈdakə	L	
+74	Vlach	KA		L	
+127	Old Irish	má, ma	ma:, ma	H	
+101	Middle Cornish	yn			
+101	Middle Cornish	mar	mar	H	
+101	Middle Cornish	a	a		
+101	Middle Cornish	po			
+101	Middle Cornish	py			
+101	Middle Cornish	cen			
+172	Middle Breton	ma, mar	ma, mar	H	
+12	Breton	ma	ma	H	
+79	Welsh	os		(O)	
+79	Welsh	pe			
+38	Irish	má		H	
+115	Scottish Gaelic	nan/nam			
+115	Scottish Gaelic	ma		H	
+5	[Legacy] Albanian T	ME GOFTI SE			
+29	[Legacy] Greek K	AN		M	
+28	[Legacy] Greek D	AN		M	
+30	[Legacy] Greek Md	AN		M	
+64	[Legacy] Serbocroatian	AKO		R	
+113	[Legacy] Serbian	ako	âko	R	
+89	[Legacy] Bulgarian P	AKO		R	
+49	[Legacy] Macedonian	AKO		R	
+94	[Legacy] Russian P	JESLI		I	
+93	[Legacy] Polish P	JESLI		I	
+90	[Legacy] Byelorussian P	KALI		T	
+98	[Legacy] Ukrainian P	KOLY		T	
+19	[Legacy] Czech E	KEBI		F	
+96	[Legacy] Slovak P	JESTLI		I	
+91	[Legacy] Czech P	JESTLI		I	
+67	[Legacy] Slovenian	CEBIBLO			
+45	[Legacy] Lithuanian O	JEI, JEIGU		S	
+11	[Legacy] Brazilian	SE		G	
+142	[Legacy] German Munich	wenn		U	
+84	[Legacy] French Creole C	SI		G	
+14	[Legacy] Breton St	ma, mar	ma, mar	H	
+13	[Legacy] Breton Se	MAR		H	
+78	[Legacy] Welsh C	OS		O	
+37	[Legacy] Irish A	MA		H	

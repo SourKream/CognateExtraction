@@ -1,0 +1,166 @@
+80	Hittite	paddai		J	
+81	Tocharian A	rpeñc		S	
+82	Tocharian B	rapanaṃ		S	
+88	Albanian	GERMOJ		C	
+143	Standard Albanian	gërmoj		C	
+2	Albanian Sicily	KAVAR		B	
+4	Albanian Corinth	REMON		D	
+3	Albanian Gheg	GERMOJ		C	
+6	Albanian Tosk	MIN, AOR. MIVA			
+110	Ancient Greek	ὀρύττω	orýtːɔː	O	
+110	Ancient Greek	σκάπτω	skáptɔː	B	
+32	Greek	σκάβω	ˈskavo̞	B	
+31	Greek Lesbos	SKABO		B	
+129	Classical Armenian	փորեմ	pʰɔɾ-ɛ-m	E	
+129	Classical Armenian	պեղեմ	pełem		
+129	Classical Armenian	բրեմ	brem		
+8	Armenian Eastern	փորել	pʰoˈɾɛl	E	
+7	Armenian Western	փորել	pʰoˈrɛl	E	
+128	Avestan	kanaiti		Ad	
+131	Old Persian	kantiy		Ad	
+136	Sogdian	qn-		Ad	
+75	Wakhi	PUS-		A	
+9	Baluchi	PHATAGH, KATAGH		V	
+9	Baluchi	JANAGH		U	
+137	Zazaki	kendiš		Ad	
+72	Tajik	KANDAN		Ad	
+72	Tajik	KOFTAN		B	
+54	Persian	BILZADAN		W	
+77	Waziri	KANDEL		Ad	
+1	Pashto	KINEL, KINDEL		Ad	
+138	Shughni	čān		X	
+139	Sarikoli	kɛw		Ad	
+52	Ossetic	k'axyn	kʲaχɨn	T	
+124	Ossetic Iron	k'aχ-	k'aχ-	T	
+125	Ossetic Digor	k'aχ-	k'aχ-	T	
+105	Vedic Sanskrit	khánati		Ad	
+162	Pāḷī	khaṇati		Ad	
+41	Khaskura	KHANNU		Ad	
+51	Nepali	KHANNU		Ad	
+106	Assamese	khand	khand	Ad	
+102	Oriya	khoḷiba	khoɭiba	F	
+10	Bengali	KHODAI		F	
+10	Bengali	KORA		Y	
+111	Bihari	khuəb	khuəb	Ad	
+144	Magahi	खोदना	kʰod̪ənɑ	Ad	
+144	Magahi	खनना	kʰənnɑ	Ad	
+104	Marwari	khod	khod	F	
+35	Hindi	KHODNA		F	
+119	Urdu	کھودنا	kʰod̪nə	F	
+103	Sindhi	kharnarnu			
+43	Lahnda	KHODEN		F	
+53	Punjabi	KHODNA		F	
+33	Gujarati	KHODWU		F	
+50	Marathi	khodne	'kʰodɳe	Ad	
+40	Kashmiri	KHANUN		Ad	
+65	Sinhalese	HARANAWA		Z	
+34	Romani Greece	SKAVO		(B)	
+100	Old Church Slavonic	копати	kɔpɑti	B	
+95	Serbo-Croatian	kopati	ˈkɔ̌pati	B	
+15	Bulgarian	копая	kuˈpajə	B	
+92	Macedonian	копа	ˈkopa	B	
+60	Russian	рыть	rɨtʲ	O	
+60	Russian	копать	kɔˈpatʲ	B	
+55	Polish	kopać	ˈkɔpaʨ	B	
+16	Belarusian	капаць	kaˈpatsʲ	B	
+73	Ukrainian	копати	kɔˈpatɪ	B	
+66	Slovak	kopať	ˈkɔpac	B	
+18	Czech	kopat	ˈkɔpat	B	
+48	Sorbian Upper	ryć	ʀɘ̟tʃ	O	
+47	Sorbian Lower	ryś	rɘ̟ɕ	O	
+97	Slovenian	kopati	kɔˈpǎːti	B	
+108	Old Prussian	rawas		O	
+44	Latvian	ròk		Q	
+46	Lithuanian	KASTI		L	
+109	Old Norse	grafa	ˈɡrava	N	
+36	Icelandic	grafa	ˈɡ̊raːva	N	
+23	Faroese	grava	ˈɡ̊ɹɛaːva	N	
+58	Norwegian Riksmal	grave	ˈɡɾàːʋə	N	
+159	Stavangersk	grava	ˈgʁɑ̀ːʋa	N	
+157	Old Swedish	grava	ˈɡraːva	N	
+69	Swedish	gräva	ˈgrɛ̀:va	N	
+71	Swedish Vilhelmina	GRAVA  GRAVA		N	
+70	Swedish Uppland	GRAVA		N	
+145	Elfdalian	gråvå	ˈgrɔ̀vɔ	N	
+20	Danish	grave	ˈg̥ʁɑːvə	N	
+158	Danish Fjolde	greev	ɡɹeːw	N	
+160	Old Gutnish	grafa		N	
+161	Gutnish Lau	gravä	ˈɡrɑːvɛ	N	
+99	Old English	dilfþ		P	
+99	Old English	græfþ		N	
+22	English	to dig	dɪg	(I)	
+26	Frisian	DOLLE			
+26	Frisian	grave	'gra:və	N	
+21	Dutch	delven	'dɛlvə(n)	P	
+21	Dutch	graven	ˈɣravə	N	
+24	Flemish	GRAVEN		N	
+24	Flemish	DELVEN		P	
+83	Afrikaans	GRAAF, GRAWE		N	
+87	Sranan	DIKI		(I)	
+126	Old High German	grebit		N	
+126	Old High German	telban		P	
+27	German	graben	'gra:bn̩	N	
+86	Pennsylvania Dutch	GRAWB		N	
+120	Luxembourgish	buddelen			
+121	German Switzerland	grabe		N	
+107	Gothic	grabiþ		N	
+112	Latin	fodere	ˈfodere	J	
+17	Catalan	PENETRAR			
+17	Catalan	cavar	kə'βa	G	
+56	Portuguese	cavar	kɐˈvaɾ	G	
+68	Spanish	cavar	ka'βaɾ	G	
+61	Sardinian Cagliari	SKAVAI		G	
+62	Sardinian Logudoro	ISCAVARE		G	
+63	Sardinian Nuoro	ISKAVARE		G	
+85	French Creole Dominica	FWIYE		J	
+76	Walloon	TCHABOTER			
+25	French	creuser	kʀøze		
+57	Provencal	FURA		J	
+57	Provencal	CAVA		G	
+42	Ladin	CHAVER		G	
+146	Dolomite Ladino	giavà		G	
+123	Romansh	chavar, stgavar		G	
+122	Friulian	sgjavâ, sgarfâ		G	
+39	Italian	vangare	van'gare		
+39	Italian	scavare	ska'vare	G	
+59	Romanian	a săpa		M	
+59	Romanian	a excava	a ek.skaˈva	G	
+74	Vlach	SAPU		M	
+127	Old Irish	claidid	klaðʹəðʹ	H	
+101	Middle Cornish	palas	'palas	K	
+172	Middle Breton	caffaff, cauaf	ˈkaːuaṽ	(G)	
+172	Middle Breton	cleusy	ˈkløːðiṽ, ˈkløːsi	H	
+12	Breton	TOULLA		(R)	
+12	Breton	kleuzañ	ˈkløːzã	H	
+12	Breton	kawañ, kawiñ	ˈkawɑ̃, ˈkaːvǝ, ˈkaɥɛɲ	(G)	
+79	Welsh	cloddio		H	
+79	Welsh	PALU (DIG A GARDEN)		(K)	
+38	Irish	tochail		H	
+38	Irish	rómhair		(O)	
+115	Scottish Gaelic	cladhaich		H	
+5	[Legacy] Albanian T	ME REMIRE		D	
+29	[Legacy] Greek K	SKAPTO		B	
+28	[Legacy] Greek D	SKABO		B	
+30	[Legacy] Greek Md	SKABO		B	
+64	[Legacy] Serbocroatian	KOPATI		B	
+113	[Legacy] Serbian	kopati	kǒpati	B	
+89	[Legacy] Bulgarian P	KOPAJA		B	
+49	[Legacy] Macedonian	KOPA		B	
+49	[Legacy] Macedonian	GREBE		(N)	
+94	[Legacy] Russian P	KOPAT		B	
+93	[Legacy] Polish P	KOPAC		B	
+90	[Legacy] Byelorussian P	KAPAC		B	
+98	[Legacy] Ukrainian P	KOPATY		B	
+19	[Legacy] Czech E	KOPAT		B	
+96	[Legacy] Slovak P	KOPAT		B	
+91	[Legacy] Czech P	KOPATI		B	
+67	[Legacy] Slovenian	KOPAT		B	
+45	[Legacy] Lithuanian O	KASTI		L	
+11	[Legacy] Brazilian	CAVAR		G	
+142	[Legacy] German Munich	graben		N	
+84	[Legacy] French Creole C	FUYE  FWIYE		J	
+14	[Legacy] Breton St	kleuziañ	'kløzjã	H	
+14	[Legacy] Breton St	toullañ	'tulã	R	
+13	[Legacy] Breton Se	KLAUEIN		H	
+78	[Legacy] Welsh C	PALU		K	
+37	[Legacy] Irish A	ROMHAR		O	

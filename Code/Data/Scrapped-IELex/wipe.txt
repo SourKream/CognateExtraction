@@ -1,0 +1,145 @@
+80	Hittite	ānssi		Z	
+133	Luvian	ammassiti		Z	
+81	Tocharian A	lyāseñc		Q	
+82	Tocharian B	lyyāstär		Q	
+143	Standard Albanian	fshij		(C)	
+2	Albanian Sicily	FSIN		(C)	
+4	Albanian Corinth	SFUNGARISIN		(J)	
+6	Albanian Tosk	FSI, AOR. FSIVA		(C)	
+110	Ancient Greek	ὀμόργνῡμι	omórgnyːmi		
+110	Ancient Greek	περιψάω	peripsáɔː	(C)	
+32	Greek	σφογγίζω	spo̞ˈ(ɲ)ɟizo̞	(J)	
+31	Greek Lesbos	KATHARIDZO		P	
+129	Classical Armenian	սրբեմ	surb-e-m		
+129	Classical Armenian	ջնջեմ	ǰnǰem		
+8	Armenian Eastern	մաքրել	mɑkʰɾɛl		
+8	Armenian Eastern	սրբել	səɾˈpʰɛl	Aa	
+7	Armenian Western	սրբել	səɾˈpʰɛl	Aa	
+128	Avestan	marəz-		(R)	
+75	Wakhi	VISUV, TUF DI-		A	
+137	Zazaki	besterdiš		Ab	
+72	Tajik	POK KARDAN		O	
+54	Persian	PAK KARDAN		O	
+77	Waziri	MASHEL		R	
+1	Pashto	VUCAVEL		A	
+139	Sarikoli	zыdor, zidor		Ac	
+52	Ossetic	saerfyn	særfɨn	X	
+124	Ossetic Iron	šɐrf-	šɐrf-	X	
+125	Ossetic Digor	sɐrf-	sɐrf-	X	
+105	Vedic Sanskrit	mā́rṣṭi		R	
+162	Pāḷī	majjati		R	
+41	Khaskura	POCHHNU, GASNU		D	
+51	Nepali	PUCHNU		D	
+106	Assamese	mɒs	mɒs	R	
+102	Oriya	počhi	počhi	D	
+10	Bengali	POCHA		D	
+111	Bihari	pochəb		D	
+144	Magahi	पोंछना	põcʰnɑ	D	
+35	Hindi	MITANA		R	
+119	Urdu	پونچھنا	põnʧʰnə	D	
+103	Sindhi	ughaṇu		Ae	
+43	Lahnda	SAF KEREN		(Ad)	
+53	Punjabi	PUJNA		D	
+33	Gujarati	LUCHWU		Af	
+50	Marathi	pusne	pus'ɳe	D	
+40	Kashmiri	WOTHARUN		Ag	
+65	Sinhalese	PISINU, PIHINU		D	
+34	Romani Greece	SULAVAV		Ah	
+100	Old Church Slavonic	трьти, трѣти	tr̩ʲti, træti	G	
+95	Serbo-Croatian	brisati	ˈbrîsati	N	
+15	Bulgarian	бърша	ˈbɤrʃə	N	
+15	Bulgarian	изтривам	izˈtrivəm	G	
+92	Macedonian	брише	ˈbriʃɛ	N	
+60	Russian	вытирать	vɨtʲi'ratʲ	G	
+55	Polish	wycierać	ˈvɘ̟tɕɛratɕ	G	
+16	Belarusian	выціраць	vɨtsʲiˈratsʲ	G	
+73	Ukrainian	витирати	ʋɪtɪˈratɪ	G	
+66	Slovak	trieť	triɛc	G	
+18	Czech	vytírat	ˈvɪciːrat	G	
+48	Sorbian Upper	trěć	tʀɪtʃ	G	
+47	Sorbian Lower	wótrěś	ˈwɘ̟trʲɪɕ	G	
+97	Slovenian	brisati	ˈbrǐːsati	N	
+44	Latvian	slaũka		M	
+46	Lithuanian	SLUOSTYTI		M	
+109	Old Norse	þurka	ˈθurka	H	
+109	Old Norse	þerra	ˈθerːa	H	
+36	Icelandic	þurrka	ˈθʏrːkʰa	H	
+23	Faroese	turka	ˈtʰʊɹ̊kʰa	H	
+58	Norwegian Riksmal	torke	ˈtɔ̀ɾkə	H	
+159	Stavangersk	torka	ˈtùʁka	H	
+157	Old Swedish	thörka	ˈθørka	H	
+69	Swedish	torka	ˈtɔ̀rka	H	
+71	Swedish Vilhelmina	TORK		H	
+70	Swedish Uppland	TORKA (AV)		H	
+145	Elfdalian	torka	ˈtòrkɑ	H	
+20	Danish	tørre	ˈd̥ʰɶɐ̯ʌ	H	
+158	Danish Fjolde	tør	tøɹ	H	
+160	Old Gutnish	þorca		H	
+161	Gutnish Lau	tårkä	ˈtorkɛ	H	
+99	Old English	wīpaþ		S	
+22	English	wipe	waɪp	S	
+26	Frisian	feie	'fai̯ə, fɛi̯ə	B	
+21	Dutch	vegen	'veɣə(n)	B	
+24	Flemish	VEEG		B	
+83	Afrikaans	AFDROE, AFDROOG, AFVEE(G)		B	
+87	Sranan	FIGI		B	
+126	Old High German	swirbit		Y	
+27	German	wischen	'vɪʃn̩	T	
+86	Pennsylvania Dutch	BUUTZ			
+120	Luxembourgish	wëschen		T	
+121	German Switzerland	wüsche		T	
+107	Gothic	biswaírbiþ		Y	
+112	Latin	tergēre	terˈgeːre	L	
+17	Catalan	ESCURAR			
+17	Catalan	LLIMPIAR		E	
+17	Catalan	netejar	nətə'ʒa	V	
+17	Catalan	eixugar	əʃu'ɣa	U	
+56	Portuguese	ALIMPAR		E	
+56	Portuguese	enxugar	ẽʃuˈɡaɾ	U	
+56	Portuguese	ESFREGAR		W	
+68	Spanish	limpiar	lim'pjaɾ	E	
+61	Sardinian Cagliari	SPRUINAI			
+62	Sardinian Logudoro	PULIRE			
+63	Sardinian Nuoro	INNETTARE		V	
+85	French Creole Dominica	SWIYE		U	
+76	Walloon	HORBI			
+25	French	essuyer	ɛsɥije	U	
+57	Provencal	eissugar	ejsyˈɣa	U	
+42	Ladin	TERDSCHER		L	
+146	Dolomite Ladino	suià, sugà		Ai	
+123	Romansh	sfruschar		W	
+122	Friulian	suiâ		U	
+39	Italian	asciugare	aʃʃu'gare	Ai	
+59	Romanian	a șterge		L	
+101	Middle Cornish	sygha	'sɛha	F	
+101	Middle Cornish	ystynny			
+172	Middle Breton	torchaff	ˈtorʃaṽ	Aj	
+12	Breton	torchañ, torchiñ	ˈtɔrʃǝ	Aj, (F)	
+79	Welsh	sychu		F	
+38	Irish	cuimil		K	
+115	Scottish Gaelic	suath			
+5	[Legacy] Albanian T	ME FSHIRE		(C)	
+29	[Legacy] Greek K	SFOUGGIDZO		J	
+28	[Legacy] Greek D	SKOUPIDZO		I	
+30	[Legacy] Greek Md	SKOUPIDZO		I	
+30	[Legacy] Greek Md	KATHARIDZO		P	
+64	[Legacy] Serbocroatian	OBRISAC		N	
+113	[Legacy] Serbian	brisati	brîsati	N	
+89	[Legacy] Bulgarian P	IZTRIVAM		G	
+94	[Legacy] Russian P	VYTIRAT		G	
+93	[Legacy] Polish P	WYCIERAC		G	
+90	[Legacy] Byelorussian P	VYCIRAC		G	
+98	[Legacy] Ukrainian P	VYTYRATY		G	
+19	[Legacy] Czech E	UTRIT		G	
+96	[Legacy] Slovak P	UTIERAT		G	
+91	[Legacy] Czech P	UTIRATI		G	
+67	[Legacy] Slovenian	ABRESI		N	
+45	[Legacy] Lithuanian O	NUSLUOSTYTI		M	
+11	[Legacy] Brazilian	ESFREGAR		W	
+11	[Legacy] Brazilian	ENXUGAR		U	
+142	[Legacy] German Munich	wischen		T	
+84	[Legacy] French Creole C	SWIYE  SUYE		U	
+14	[Legacy] Breton St	sec'hañ	'sɛ:ɣã	F	
+13	[Legacy] Breton Se	SEHEIN		F	
+78	[Legacy] Welsh C	SYCHU		F	
+37	[Legacy] Irish A	CUIMILT		K	

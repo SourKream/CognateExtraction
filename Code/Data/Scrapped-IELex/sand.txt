@@ -1,0 +1,155 @@
+81	Tocharian A	wāryāñc		P	
+82	Tocharian B	waraṃç		P	
+88	Albanian	rërë		(G)	
+143	Standard Albanian	rërë		(G)	
+2	Albanian Sicily	rërë		(G)	
+4	Albanian Corinth	SUUR		(D)	
+3	Albanian Gheg	ranë		(G)	
+6	Albanian Tosk	kum			
+6	Albanian Tosk	rërë		(G)	
+110	Ancient Greek	ἄμμος	ámmos	B	
+152	Tsakonian	αμμο		B	
+32	Greek	άμμος	ˈamo̞s	B	
+31	Greek Lesbos	HAMMOS		B	
+129	Classical Armenian	աւազ	awaz	B	
+8	Armenian Eastern	avaz	ɑˈvɑz	B	
+7	Armenian Western	AVAZ		B	
+75	Wakhi	LUWORC		T	
+9	Baluchi	REKH		R	
+118	Kurdish	qum		(J)	
+118	Kurdish	rik		R	
+137	Zazaki	qūm		(J)	
+72	Tajik	reg	reg	R	
+54	Persian	SHEN		U	
+77	Waziri	SHEGGA		A	
+1	Pashto	RIG		R	
+1	Pashto	SEGA		A	
+138	Shughni	šōš		S	
+138	Shughni	rēg		(R)	
+139	Sarikoli	rɛyg		(R)	
+139	Sarikoli	šuš		S	
+52	Ossetic	yzmic	zmis	E	
+124	Ossetic Iron	žmiš	žmiš	E	
+125	Ossetic Digor	ɐzmensɐ	ɐzmensɐ	E	
+141	Kata-viri	t͡süyü		A	
+154	Vasi-vari	wəžibzix			
+153	Askunu	šõrä/ə		Q	
+105	Vedic Sanskrit	síkatās		V	
+162	Pāḷī	sikatā		V	
+162	Pāḷī	vālukā		P	
+41	Khaskura	BALUWA		P	
+51	Nepali	RETI		F	
+106	Assamese	bali	bali	P	
+102	Oriya	bali	bali	P	
+10	Bengali	BALU		P	
+111	Bihari	baul	baul	P	
+144	Magahi	बालू	bɑlu		
+104	Marwari	bekaro			
+35	Hindi	BALU		P	
+119	Urdu	ریت	ɾet̪	F	
+103	Sindhi	dhūṛy-o			
+103	Sindhi	vārī		P	
+43	Lahnda	RET		F	
+53	Punjabi	RET		F	
+33	Gujarati	RETI		F	
+50	Marathi	retī	'reti:	F	
+50	Marathi	valu		P	
+40	Kashmiri	SEKH		A	
+65	Sinhalese	VALI		P	
+34	Romani Greece	KISAY			
+100	Old Church Slavonic	пѣсъкъ	pæsʊ̆kʊ̆	I	
+95	Serbo-Croatian	pijesak	ˈpjɛ̌ːsak	I	
+15	Bulgarian	пясък	ˈpʲasək	I	
+92	Macedonian	песок	ˈpesɔk	I	
+60	Russian	песок	pʲi'sɔk	I	
+55	Polish	piasek	ˈpjasɛk	I	
+16	Belarusian	пясок	pʲaˈsɔk	I	
+73	Ukrainian	пісок	piˈsɔk	I	
+66	Slovak	piesok	ˈpiɛsɔk	I	
+18	Czech	písek	ˈpiːsɛk	I	
+48	Sorbian Upper	pěsk	pɪsk	I	
+47	Sorbian Lower	pěsk	pɪsk	I	
+97	Slovenian	pesek	ˈpěːsək	I	
+108	Old Prussian	sixdo			
+44	Latvian	smìlts		L	
+46	Lithuanian	SMELIS, SMELYS		L	
+109	Old Norse	sandr	sandr	B	
+36	Icelandic	sandur	ˈsand̥ʏr	B	
+23	Faroese	sandur	ˈsand̥ʊɹ	B	
+58	Norwegian Riksmal	sand	sanː	B	
+159	Stavangersk	sann	sanː	B	
+157	Old Swedish	sander	ˈsander	B	
+69	Swedish	sand	sand	B	
+71	Swedish Vilhelmina	SAN		B	
+70	Swedish Uppland	SAND		B	
+145	Elfdalian	sand	sɑnd	B	
+20	Danish	sand	sanˀ	B	
+158	Danish Fjolde	saand	sɑːnʲ	B	
+161	Gutnish Lau	sand	sand	B	
+99	Old English	sand		B	
+22	English	sand	sænd	B	
+26	Frisian	sân	sɔ:n	B	
+21	Dutch	zand	zɑnt	B	
+24	Flemish	ZAND		B	
+83	Afrikaans	SAND		B	
+87	Sranan	SANTI		B	
+126	Old High German	sant		B	
+27	German	Sand	sant	B	
+86	Pennsylvania Dutch	SONNDT		B	
+120	Luxembourgish	Sand		B	
+121	German Switzerland	sang		B	
+107	Gothic	malma		L	
+112	Latin	(h)arēna	(h)aˈreːna	G	
+17	Catalan	sorra	'sɔrə		
+56	Portuguese	areia	ɐˈɾejɐ	N	
+68	Spanish	arena	a'ɾena	N	
+61	Sardinian Cagliari	ARENA		N	
+62	Sardinian Logudoro	RENA		N	
+63	Sardinian Nuoro	RENA		N	
+85	French Creole Dominica	SAB		B	
+76	Walloon	SAVION		B	
+25	French	sable	sɑbl	B	
+57	Provencal	sabla	ˈsaβlo	B	
+42	Ladin	SABLUN		B	
+146	Dolomite Ladino	saolon		B	
+123	Romansh	sablun		B	
+122	Friulian	savalon		B	
+39	Italian	sabbia	'sabbja	B	
+39	Italian	rena	'rena	G	
+59	Romanian	nisip		(O)	
+74	Vlach	ARINE		G	
+140	Gaulish	graua			
+127	Old Irish	gainem	ganʹəṽ	K	
+149	Old Cornish	trait		(H)	
+101	Middle Cornish	treth	trɛ:θ	(H)	
+172	Middle Breton	treez, træz, traez	ˈtrɛːθ	(H)	
+12	Breton	traezh	ˈtrɛːz	(H)	
+79	Welsh	tywod		M	
+38	Irish	gaineamh		K	
+115	Scottish Gaelic	gaineamh		K	
+147	Manx	geinnagh		K	
+5	[Legacy] Albanian T	rërë		(G)	
+5	[Legacy] Albanian T	SHUR		(D)	
+29	[Legacy] Greek K	AMMOS		B	
+28	[Legacy] Greek D	HAMMOS		B	
+30	[Legacy] Greek Md	AMMOS		B	
+64	[Legacy] Serbocroatian	PESAK		I	
+113	[Legacy] Serbian	pesak	pěːsak	I	
+89	[Legacy] Bulgarian P	P ASUK		I	
+49	[Legacy] Macedonian	PESOK		I	
+94	[Legacy] Russian P	PESOK		I	
+93	[Legacy] Polish P	PIASEK		I	
+90	[Legacy] Byelorussian P	P ASOK		I	
+98	[Legacy] Ukrainian P	PISOK		I	
+19	[Legacy] Czech E	PISEK		I	
+96	[Legacy] Slovak P	PIESOK		I	
+91	[Legacy] Czech P	PISEK		I	
+67	[Legacy] Slovenian	PESK		I	
+45	[Legacy] Lithuanian O	SMELIS		L	
+11	[Legacy] Brazilian	AREIA		N	
+142	[Legacy] German Munich	Sand		B	
+84	[Legacy] French Creole C	SAB		B	
+14	[Legacy] Breton St	traezh	trɛ:s	H	
+13	[Legacy] Breton Se	SABL		(B)	
+78	[Legacy] Welsh C	TYWOD		M	
+37	[Legacy] Irish A	GAINEAMH		K	

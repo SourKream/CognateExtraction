@@ -1,0 +1,163 @@
+114	Proto-Indo-European	*nókʷts		B	
+80	Hittite	ispanz			
+80	Hittite	nekuz		B	
+81	Tocharian A	wṣe			
+81	Tocharian A	nakcu		B	
+82	Tocharian B	nekcīye		B	
+82	Tocharian B	yṣiye			
+88	Albanian	natë		B	
+143	Standard Albanian	natë		B	
+2	Albanian Sicily	natë		B	
+4	Albanian Corinth	natë		B	
+3	Albanian Gheg	nata		B	
+6	Albanian Tosk	natë		B	
+110	Ancient Greek	νύξ	nýks	B	
+152	Tsakonian	νιουτα		B	
+32	Greek	νύχτα	nyçta	B	
+31	Greek Lesbos	NUCHTA		B	
+129	Classical Armenian	գիշեր	gišer	C	
+8	Armenian Eastern	gišer	giˈʃɛɾ	C	
+7	Armenian Western	KISHER		C	
+128	Avestan	xšap-		A	
+131	Old Persian	xšap-		A	
+136	Sogdian	γšp		A	
+75	Wakhi	NUGHD		B	
+9	Baluchi	SHAF		A	
+118	Kurdish	şev		A	
+137	Zazaki	šew		A	
+137	Zazaki	pesewe			
+72	Tajik	SAB		A	
+54	Persian	SHAB		A	
+77	Waziri	SHPA		A	
+1	Pashto	SPA		A	
+138	Shughni	x̆āb		A	
+139	Sarikoli	x̆ob		A	
+52	Ossetic	aexcaev	æχsæv	A	
+124	Ossetic Iron	ɐχšɐv	ɐχšɐv	A	
+125	Ossetic Digor	ɐχsɐvɐ	ɐχsɐvɐ	A	
+141	Kata-viri	radʊr		D	
+154	Vasi-vari	žət, ẓet, əštā		D	
+153	Askunu	zatr, žātr		D	
+105	Vedic Sanskrit	raatri		D	
+105	Vedic Sanskrit	kṣap-			
+105	Vedic Sanskrit	नक्ति	nákti	B	
+105	Vedic Sanskrit	kālī			
+162	Pāḷī	ratti		D	
+41	Khaskura	RAT		D	
+51	Nepali	RAT		D	
+106	Assamese	nixa	nixa		
+106	Assamese	rāti		D	
+102	Oriya	rati	rati	D	
+102	Oriya	ɔndharɔ	ɔndharɔ		
+10	Bengali	RAT		D	
+111	Bihari	rait	rait	D	
+144	Magahi	रात	rɑt̪		
+104	Marwari	rat	rat	D	
+35	Hindi	rat	ra:t̪	D	
+119	Urdu	رات	ɾɑt̪	D	
+103	Sindhi	rāte		D	
+43	Lahnda	RAT		D	
+53	Punjabi	RAT, RAT		D	
+33	Gujarati	RAT, RATU		D	
+50	Marathi	rātra	'ɾatɾə	D	
+40	Kashmiri	RATH		D	
+65	Sinhalese	RA		D	
+34	Romani Greece	RAKI  RAT		D	
+100	Old Church Slavonic	нощь	nɔʃtɪ̆	B	
+95	Serbo-Croatian	noć	nɔ̂ːtɕ	B	
+15	Bulgarian	нощ	nɔʃt	B	
+92	Macedonian	ноќ	noc	B	
+60	Russian	ночь	nɔtʃ	B	
+55	Polish	noc	nɔts	B	
+16	Belarusian	ноч	nɔtʂ	B	
+73	Ukrainian	ніч	nʲitʂ	B	
+66	Slovak	noc	nɔts	B	
+18	Czech	noc	nɔts	B	
+48	Sorbian Upper	nóc	nʊts	B	
+47	Sorbian Lower	noc	nɔts	B	
+97	Slovenian	noč	nôːtʃ	B	
+108	Old Prussian	nacktien		B	
+44	Latvian	nakts		B	
+46	Lithuanian	naktis	nɐkˈtɪs	B	
+109	Old Norse	nótt	noːtː	B	
+36	Icelandic	nótt	nouʰtː	B	
+23	Faroese	nátt	nɔʰtː	B	
+58	Norwegian Riksmal	natt	natː	B	
+159	Stavangersk	nått	nɔtː	B	
+157	Old Swedish	nat	natː	B	
+69	Swedish	natt	natː	B	
+71	Swedish Vilhelmina	NAT		B	
+70	Swedish Uppland	NATT		B	
+145	Elfdalian	ną̊t	nõːt	B	
+20	Danish	nat	nad̥ʰ	B	
+158	Danish Fjolde	nat	nɑt	B	
+160	Old Gutnish	nat		B	
+161	Gutnish Lau	nat	nɑːt	B	
+99	Old English	niht		B	
+22	English	night	naɪt	B	
+26	Frisian	nacht	naxt	B	
+26	Frisian	JOUN		B	
+21	Dutch	nacht	nɑχt	B	
+24	Flemish	NACHT		B	
+83	Afrikaans	NAG, AAND		B	
+87	Sranan	NETI		B	
+126	Old High German	naht		B	
+27	German	Nacht	naxt	B	
+86	Pennsylvania Dutch	NAACHT		B	
+120	Luxembourgish	Nuecht		B	
+121	German Switzerland	nacht		B	
+107	Gothic	nahts		B	
+112	Latin	nox	noks	B	
+17	Catalan	nit	nit	B	
+56	Portuguese	noite	ˈnɔjtɨ	B	
+68	Spanish	noche	'noʧe	B	
+61	Sardinian Cagliari	NOTTI		B	
+62	Sardinian Logudoro	NOTTE		B	
+63	Sardinian Nuoro	NOTTE		B	
+85	French Creole Dominica	LENWIT		B	
+76	Walloon	NUT'		B	
+25	French	nuit	nɥi	B	
+57	Provencal	nuèch	nɥɛʧ	B	
+57	Provencal	NUE, NIUE		B	
+42	Ladin	NOT, NOAT		B	
+146	Dolomite Ladino	nètt		B	
+123	Romansh	notg		B	
+122	Friulian	gnot		B	
+39	Italian	notte	'nɔtte	B	
+59	Romanian	noapte	ˈno̯ap.te	B	
+74	Vlach	NWAPTE		B	
+140	Gaulish	noxt-		B	
+127	Old Irish	adaig	aðəɣʹ	E	
+101	Middle Cornish	nos	nɔ:z	B	
+148	Old Breton	nos		B	
+172	Middle Breton	nos	ˈnoːs	(B)	
+12	Breton	noz	ˈnoːs	(B)	
+150	Old Welsh	nos		B	
+79	Welsh	nos	noːs	B	
+38	Irish	oíche	ˈiːçə, ˈiːhə, ˈiː	E	
+115	Scottish Gaelic	oidhche		E	
+147	Manx	oie		E	
+5	[Legacy] Albanian T	natë	ˈnatə	B	
+29	[Legacy] Greek K	NUKS		B	
+28	[Legacy] Greek D	NUCHTA		B	
+30	[Legacy] Greek Md	NUCHTA		B	
+64	[Legacy] Serbocroatian	NOC		B	
+113	[Legacy] Serbian	noć		B	
+89	[Legacy] Bulgarian P	NOST		B	
+49	[Legacy] Macedonian	NOK		B	
+94	[Legacy] Russian P	NOC		B	
+93	[Legacy] Polish P	NOC		B	
+90	[Legacy] Byelorussian P	NOC		B	
+98	[Legacy] Ukrainian P	NIC		B	
+19	[Legacy] Czech E	NOC		B	
+96	[Legacy] Slovak P	NOC		B	
+91	[Legacy] Czech P	NOC		B	
+67	[Legacy] Slovenian	NOC		B	
+45	[Legacy] Lithuanian O	NAKTIS		B	
+11	[Legacy] Brazilian	NOITE		B	
+142	[Legacy] German Munich	Nacht		B	
+84	[Legacy] French Creole C	LANWIT		B	
+14	[Legacy] Breton St	noz	no:s	B	
+13	[Legacy] Breton Se	NOZ		B	
+78	[Legacy] Welsh C	NOS		B	
+37	[Legacy] Irish A	OIDHCHE		E	

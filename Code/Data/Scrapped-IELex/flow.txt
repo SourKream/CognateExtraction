@@ -1,0 +1,182 @@
+114	Proto-Indo-European	*sreu̯-		I	
+80	Hittite	ārszi			
+133	Luvian	ārsi(ya)-			
+81	Tocharian A	tsnāntr-äṃ			
+82	Tocharian B	reṣṣäṃ			
+88	Albanian	RJEDH		C	
+143	Standard Albanian	rrjedh		C	
+4	Albanian Corinth	RETH		C	
+3	Albanian Gheg	RRJEDH		C	
+6	Albanian Tosk	RIETH		C	
+110	Ancient Greek	ῥέω	hréɔː	I	
+32	Greek	κυλώ	kuˈlo̞		
+32	Greek	ρέω	ˈre̞ˌo̞	(I)	
+31	Greek Lesbos	TRECHEI		H	
+129	Classical Armenian	հեղում	hełum		
+129	Classical Armenian	հոսեմ	hɔsɛm		
+8	Armenian Eastern	hosel		D	
+7	Armenian Western	HOSIL		D	
+128	Avestan	γžāraiti		B	
+128	Avestan	raoδaiti		O	
+131	Old Persian	danu(va)-		Q	
+136	Sogdian	rwš’t		P	
+75	Wakhi	CAU		K	
+75	Wakhi	REC-		P	
+9	Baluchi	BAHAGH, BAHITHA		(A)	
+137	Zazaki	rižiyāyiš		P	
+137	Zazaki	čičēge		T	
+72	Tajik	CORI SUD		K	
+54	Persian	JARI SHODAN		K	
+77	Waziri	BAIYEDEL		(A)	
+1	Pashto	BAHEDEL		(A)	
+1	Pashto	TOJEDEL		R	
+52	Ossetic	kaelyn	kælɨn	N	
+52	Ossetic	UAJYN		S	
+52	Ossetic	CAEUYN		K	
+124	Ossetic Iron	kɐl-	kɐl-	N	
+125	Ossetic Digor	kɐl-	kɐl-	N	
+105	Vedic Sanskrit	kṣárati		B	
+105	Vedic Sanskrit	srav-		(I)	
+162	Pāḷī	dhāvati		X	
+162	Pāḷī	paggharati		B	
+41	Khaskura	BAHANU, BAGNU		A	
+51	Nepali	BAGNU, BAHANU		A	
+106	Assamese	bɒ	bɒ	A	
+102	Oriya	bɔh-	bɔh-	A	
+10	Bengali	BOOA		A	
+111	Bihari	bəhəb	bəhəb	A	
+144	Magahi	बहना	bəhənɑ	A	
+104	Marwari	bahaṇō		A	
+35	Hindi	BEHNA		A	
+119	Urdu	بہنا	bəhnə	A	
+43	Lahnda	WAWEN		A	
+53	Punjabi	VEGNA		A	
+33	Gujarati	WEHEWU		A	
+50	Marathi	wāhne	'waɦne	A	
+40	Kashmiri	WAHUN		A	
+65	Sinhalese	GALANAWA		Y	
+34	Romani Greece	thávdel		U	
+100	Old Church Slavonic	тєщи	tɛʃti	H	
+95	Serbo-Croatian	teći	ˈtêtɕi	H	
+15	Bulgarian	тека	tɘˈkɤ	H	
+92	Macedonian	тече	ˈtetʃɛ	H	
+60	Russian	течь	tʲɛtʃ	H	
+55	Polish	płynąć	ˈpwɘ̟nɔɲʨ	B	
+16	Belarusian	цячы	tsʲaˈtʂɨ	H	
+73	Ukrainian	текти	tɛˈktɪ	H	
+66	Slovak	tiecť	ciɛtsc	H	
+18	Czech	téct	tɛːtst	H	
+48	Sorbian Upper	běžeć	ˈbeʒɛtʃ	Z	
+47	Sorbian Lower	běžaś	ˈbɪʐaɕ	Z	
+97	Slovenian	teči	ˈtɛ̂ːtʃi	H	
+108	Old Prussian	tektweī		H	
+44	Latvian	plûst		B	
+44	Latvian	tęk		H	
+46	Lithuanian	TEKETI		H	
+109	Old Norse	fljótask	ˈfljoːtask	(B)	
+109	Old Norse	streyma	ˈstrɛyma	I	
+109	Old Norse	renna	ˈrenːa	(H)	
+36	Icelandic	renna	ˈrɛnːa	H	
+36	Icelandic	streyma	ˈstreiːma	I	
+23	Faroese	renna	ˈɹɛnːa	H	
+23	Faroese	floyma	ˈflɔiːma	V	
+23	Faroese	streyma	ˈstɹɛiːma	I	
+58	Norwegian Riksmal	flomme	ˈflɔ̀mːə	V	
+58	Norwegian Riksmal	renne	ˈrɛ̀nːə	H	
+58	Norwegian Riksmal	strømme	ˈstɾø̀mːə	I	
+58	Norwegian Riksmal	flyte	ˈflỳ:tə	B	
+159	Stavangersk	flyda	ˈflỳːda	B	
+159	Stavangersk	strömma, ströïma, strymma	ˈstʁœ̀mːa, ˈstʁœɪ̀ma, ˈstʁʏ̀mːa	I	
+159	Stavangersk	renna	ˈʁɛ̀nːa	H	
+157	Old Swedish	flyta	ˈfly:ta	B	
+157	Old Swedish	rinna	ˈrinːa	H	
+157	Old Swedish	ströma	ˈstrøːma	I	
+69	Swedish	rinna	ˈrɪ̀nːa	H	
+69	Swedish	flyta	ˈflỳ:ta	B	
+69	Swedish	strömma	ˈstrø̀mːa	I	
+71	Swedish Vilhelmina	FLYT		B	
+71	Swedish Vilhelmina	RIN		H	
+70	Swedish Uppland	FLYTA		B	
+70	Swedish Uppland	RINNA		H	
+145	Elfdalian	lopa	ˈlòːpɑ	W	
+20	Danish	rende	ˈʁanə	H	
+20	Danish	strømme	ˈsd̥ʁɶmə	I	
+20	Danish	flyde	ˈfly:ðə	B	
+158	Danish Fjolde	flyt	flyd	B	
+161	Gutnish Lau	rinnä	ˈrɪnːɛ	H	
+161	Gutnish Lau	flautä	ˈflautɛ	B	
+99	Old English	flēwþ		B	
+22	English	to flow	fləʊ	B	
+26	Frisian	STROME		I	
+21	Dutch	vloeien	'vlujə(n)	B	
+21	Dutch	stromen	ˈstromə	I	
+24	Flemish	STROMEN		I	
+83	Afrikaans	VLOEI		B	
+83	Afrikaans	STROOM		I	
+87	Sranan	RON		H	
+126	Old High German	fliuzit		B	
+126	Old High German	rinnit		H	
+27	German	fliessen	'fli:sn̩	B	
+86	Pennsylvania Dutch	LAWF			
+120	Luxembourgish	fléissen		B	
+121	German Switzerland	fliesse		B	
+107	Gothic	rinniþ		H	
+112	Latin	fluere	ˈfluere	E	
+17	Catalan	correr	'korə	H	
+17	Catalan	rajar	rə'ʒa	J	
+56	Portuguese	CORRER		H	
+56	Portuguese	fluir	fluˈiɾ	E	
+68	Spanish	fluir	flu'iɾ	E	
+61	Sardinian Cagliari	KURRI		E	
+62	Sardinian Logudoro	ISCURRERE		H	
+63	Sardinian Nuoro	ISKURRERE		H	
+85	French Creole Dominica	KULE		F	
+76	Walloon	COLER		F	
+25	French	couler	kule	F	
+57	Provencal	RAJA		J	
+57	Provencal	COULA		F	
+42	Ladin	FLUIR		E	
+146	Dolomite Ladino	colà, scolà		F	
+123	Romansh	fluir		E	
+122	Friulian	scolâ		F	
+39	Italian	colare	ko'lare	(F)	
+39	Italian	scorrere	'skorrere	H	
+39	Italian	fluire	flu'ire	E	
+59	Romanian	a curge		H	
+127	Old Irish	rethid	rʹeθʹəðʹ	H	
+101	Middle Cornish	redek		(H)	
+101	Middle Cornish	dinewi		(M)	
+101	Middle Cornish	bera		(G)	
+12	Breton	redek	ˈreːdǝg-k	H	
+12	Breton	BERA		(G)	
+12	Breton	DIVERA		(M)	
+79	Welsh	llifo		L	
+38	Irish	rith		H	
+115	Scottish Gaelic	ruith		H	
+5	[Legacy] Albanian T	ME RJEDHUR		C	
+29	[Legacy] Greek K	REO		I	
+28	[Legacy] Greek D	TRECHO		H	
+30	[Legacy] Greek Md	REO		I	
+30	[Legacy] Greek Md	TRECHO		H	
+64	[Legacy] Serbocroatian	TECI		H	
+113	[Legacy] Serbian	teći	têtɕi	H	
+89	[Legacy] Bulgarian P	TEKA		H	
+49	[Legacy] Macedonian	TECE		H	
+94	[Legacy] Russian P	TEC		H	
+93	[Legacy] Polish P	CIEC		H	
+90	[Legacy] Byelorussian P	C ACY		H	
+98	[Legacy] Ukrainian P	TEKTY		H	
+19	[Legacy] Czech E	TECIT		H	
+96	[Legacy] Slovak P	TIECT		H	
+91	[Legacy] Czech P	TECI		H	
+67	[Legacy] Slovenian	PLAVATI		B	
+45	[Legacy] Lithuanian O	TEKETI, BEGTI		H	
+11	[Legacy] Brazilian	ESCORRER		H	
+142	[Legacy] German Munich	fließen			
+84	[Legacy] French Creole C	KULE		F	
+14	[Legacy] Breton St	berañ	'be:rã	G	
+14	[Legacy] Breton St	redek	're:dɛk	H	
+13	[Legacy] Breton Se	BEREIN		G	
+13	[Legacy] Breton Se	RIDEK		H	
+78	[Legacy] Welsh C	LLIFO		L	
+37	[Legacy] Irish A	RITH		H	

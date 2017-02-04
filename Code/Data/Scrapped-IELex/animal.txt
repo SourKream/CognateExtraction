@@ -1,0 +1,171 @@
+80	Hittite	suppalas		(N)	
+80	Hittite	HUITAR			
+133	Luvian	huitarsa			
+81	Tocharian A	lu		L	
+82	Tocharian B	luwo		L	
+88	Albanian	SHTASA		B	
+143	Standard Albanian	kafshë		(C)	
+2	Albanian Sicily	ANIMAX		(F)	
+4	Albanian Corinth	KAFSE		C	
+3	Albanian Gheg	SHTASA		B	
+3	Albanian Gheg	BAKTIA			
+6	Albanian Tosk	KAFSE		C	
+110	Ancient Greek	θήρ	tʰɛ́ːr	(H)	
+110	Ancient Greek	ζῷον	zdɔ̑ːjon	G	
+32	Greek	ζώο	ˈzo̞ˌo̞	G	
+31	Greek Lesbos	DZOON		G	
+129	Classical Armenian	անասուն	ɑnɑsun	O	
+8	Armenian Eastern	կենդանի	kɛntʰɑˈni		
+7	Armenian Western	անասուն	ɑnɑsun	O	
+136	Sogdian	stwrpδyy		B	
+136	Sogdian	δttw		U	
+174	Khotanese	datä		U	
+9	Baluchi	JANWAR, ZANWAR, SHANWAR		(D)	
+137	Zazaki	heywān		(J)	
+72	Tajik	CONDOR		D	
+72	Tajik	XAJVON		(J)	
+54	Persian	janvar	dʒɒːnˈvæɾ	D	
+54	Persian	HEYVAN		(J)	
+77	Waziri	DZANAWAR		(D)	
+1	Pashto	HAJVAN		(J)	
+138	Shughni	aywūn		(J)	
+139	Sarikoli	ǰunwar		(D)	
+139	Sarikoli	ɛywun		(J)	
+139	Sarikoli	ǰundur		(D)	
+52	Ossetic	caeraegoj	tsæraɡoj	E	
+52	Ossetic	XAJUAN		(J)	
+124	Ossetic Iron	sɐrɐgoj	sɐrɐgoj	E	
+125	Ossetic Digor	cɐrɐgoj	cɐrɐgoj	E	
+105	Vedic Sanskrit	paśús		(K)	
+105	Vedic Sanskrit	mṛga		R	
+162	Pāḷī	miga		R	
+41	Khaskura	JANTU		D	
+41	Khaskura	PASHU		(K)	
+51	Nepali	PASU		(K)	
+51	Nepali	JANAWAR		(D)	
+106	Assamese	prani	prani	(F)	
+106	Assamese	zɒntu	zɒntu	D	
+102	Oriya	praṇi	praɳi	(F)	
+102	Oriya	pɔsu	pɔsu	K	
+102	Oriya	ǰɔntu	ǰɔntu	D	
+10	Bengali	JANOAR, JONTU		(D)	
+111	Bihari	janbər	janbər	(D)	
+144	Magahi	जनावर	ɟənɑwər	(D)	
+104	Marwari	jināwar		(D)	
+35	Hindi	janver	ˈdʒanʋər	(D)	
+119	Urdu	جانور	ʤɑnwəɾ	(D)	
+103	Sindhi	ǰanvarū		(D)	
+43	Lahnda	JANWER		(D)	
+53	Punjabi	JANVER		(D)	
+33	Gujarati	JANWER, JENAWER		(D)	
+33	Gujarati	PRANI		(F)	
+50	Marathi	prani		(F)	
+50	Marathi	dzanāwar	dzən'awəɾ	(D)	
+40	Kashmiri	JANAWAR		(D)	
+65	Sinhalese	SATA		S	
+100	Old Church Slavonic	звѣрь	zværɪ̆	H	
+100	Old Church Slavonic	животъ	ʒivɔtʊ̆	G	
+95	Serbo-Croatian	životinja	ʒiˈvɔ̌tiɲa	G	
+15	Bulgarian	животно	ʒiˈvɔtnu	G	
+92	Macedonian	животно	ˈʒivɔtnɔ	G	
+60	Russian	животное	ʐɨ'vɔtnɔjɛ	G	
+55	Polish	zwierzę	ˈzvjɛʐɛ(ɰ̃)	H	
+16	Belarusian	жывёла	ʐɨˈvʲɔɫa	G	
+73	Ukrainian	тварина	tʋaˈrɪna	T	
+66	Slovak	zviera	ˈzviera	H	
+18	Czech	zvíře	ˈzviːr̝ɛ	H	
+48	Sorbian Upper	zwěrjo	ˈzwɪʀʲɔ	H	
+47	Sorbian Lower	zwěrje	ˈzwɪrʲɛ	H	
+97	Slovenian	žival	ʒiˈvǎːw	G	
+108	Old Prussian	alne		F	
+108	Old Prussian	swīrins		H	
+44	Latvian	dzîvnieks		G	
+44	Latvian	zvērs		H	
+44	Latvian	KUSTONIS			
+46	Lithuanian	GYVULYS		G	
+46	Lithuanian	ZVERIS		H	
+109	Old Norse	dýr	dyːr	A	
+36	Icelandic	dýr	d̥iːr	A	
+23	Faroese	dýr	d̥ʊiːɹ	A	
+23	Faroese	djór	d̥ʒɔuːɹ	A	
+58	Norwegian Riksmal	dyr	dyːɾ	A	
+159	Stavangersk	dyr	dyːʁ	A	
+157	Old Swedish	diur	diuːr	A	
+69	Swedish	djur	jʉːr	A	
+71	Swedish Vilhelmina	JUR		A	
+70	Swedish Uppland	DJUR		A	
+145	Elfdalian	krytyr	krỳtyːr	(P)	
+145	Elfdalian	diuor	djʉər	A	
+20	Danish	dyr	ˈd̥yɐ̯ˀ	A	
+158	Danish Fjolde	deert	deːɹd	A	
+161	Gutnish Lau	djaur	djaur	A	
+99	Old English	dēor		A	
+22	English	animal	'ænɪməl	(F)	
+26	Frisian	dier	di.ər	A	
+26	Frisian	BISTEGUD		(I)	
+21	Dutch	dier	dir	A	
+24	Flemish	DIER		A	
+24	Flemish	BEEST		(I)	
+83	Afrikaans	DIER		A	
+126	Old High German	tior		A	
+27	German	Tier	ti:ɐ̯	A	
+86	Pennsylvania Dutch	GEDIER		A	
+120	Luxembourgish	Déier		A	
+121	German Switzerland	tier		A	
+107	Gothic	dius		A	
+112	Latin	bestia	ˈbestia	(I)	
+112	Latin	animal	ˈanimal	F	
+17	Catalan	animal	əni’mal	F	
+56	Portuguese	animal	ɐniˈmaɫ	F	
+68	Spanish	animal	ani'mal	F	
+61	Sardinian Cagliari	ANIMALI		F	
+62	Sardinian Logudoro	ANIMALE		F	
+63	Sardinian Nuoro	ANIMALE		F	
+76	Walloon	BIESSE		I	
+25	French	animal	animal	F	
+57	Provencal	ANIMAU		F	
+42	Ladin	ANIMAL, ARMAINT		F	
+146	Dolomite Ladino	canop, canopo			
+146	Dolomite Ladino	animal		F	
+123	Romansh	animal		F	
+122	Friulian	animâl, nemâl		F	
+39	Italian	animale	ani'male	F	
+59	Romanian	animal		F	
+127	Old Irish	anmandae	anṽan(d)e	F	
+101	Middle Cornish	be:st	be:st	(I)	
+101	Middle Cornish	enyval	ɛ'nɛval	(F), Q	
+172	Middle Breton	aneual	ãˈneːval	Q	
+172	Middle Breton	loezn	ˈloeðn	M	
+12	Breton	loen	ˈlwẽːn, ˈlɔ̃ːn	M	
+12	Breton	aneval	ãˈneːval	(F), Q	
+79	Welsh	anifail		(F), Q	
+38	Irish	ainmhí		F	
+115	Scottish Gaelic	ainmhidh		F	
+5	[Legacy] Albanian T	KAFSHE		C	
+29	[Legacy] Greek K	DZOON		G	
+28	[Legacy] Greek D	TO DZOO		G	
+30	[Legacy] Greek Md	DZOO		G	
+64	[Legacy] Serbocroatian	ZIVOTINJA		G	
+113	[Legacy] Serbian	životinja	ʒiʋǒtiɲa	G	
+89	[Legacy] Bulgarian P	ZV AR		H	
+49	[Legacy] Macedonian	ZIVOTINA, -INKA		H	
+94	[Legacy] Russian P	ZVER		H	
+93	[Legacy] Polish P	ZWIERZ		H	
+90	[Legacy] Byelorussian P	ZVER		H	
+98	[Legacy] Ukrainian P	ZVIR		H	
+19	[Legacy] Czech E	ZVIRE		H	
+96	[Legacy] Slovak P	ZVER		H	
+91	[Legacy] Czech P	ZVER		H	
+67	[Legacy] Slovenian	ZIVALI		G	
+45	[Legacy] Lithuanian O	GYVULYS		G	
+11	[Legacy] Brazilian	animal	aniˈmau	F	
+142	[Legacy] German Munich	Tier		A	
+84	[Legacy] French Creole C	ZANIMO		F	
+84	[Legacy] French Creole C	BET		I	
+14	[Legacy] Breton St	loen	lo.ɛ̃n	M	
+14	[Legacy] Breton St	aneval	ɑ̃ˈneval	(F), Q	
+13	[Legacy] Breton Se	lon		M	
+13	[Legacy] Breton Se	ENEVAL		(F), Q	
+78	[Legacy] Welsh C	ANIFAIL		(F), Q	
+37	[Legacy] Irish A	BEITHIDHEACH		G	
+37	[Legacy] Irish A	AINMHE		F	

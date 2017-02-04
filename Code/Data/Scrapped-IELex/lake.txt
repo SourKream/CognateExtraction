@@ -1,0 +1,158 @@
+114	Proto-Indo-European	*h₂ep-		L	
+80	Hittite	lulis			
+81	Tocharian A	lyäm		M	
+82	Tocharian B	lyam		M	
+88	Albanian	GJOLLI		C	
+88	Albanian	LIKJE NI		N	
+143	Standard Albanian	liqen		N	
+2	Albanian Sicily	LAGHU		N	
+4	Albanian Corinth	LUCE		N	
+3	Albanian Gheg	GJOLLI		C	
+6	Albanian Tosk	GOL		C	
+110	Ancient Greek	λίμνη	límnɛː	J	
+32	Greek	λίμνη	'limni	J	
+31	Greek Lesbos	LIMNE		J	
+129	Classical Armenian	ծովակ	covak		
+129	Classical Armenian	լիճ	lič	D	
+8	Armenian Eastern	lič	liʧ	D	
+7	Armenian Western	LICH		D	
+128	Avestan	vairiš		Y	
+136	Sogdian	swmdr		(U)	
+75	Wakhi	ZOI		X	
+9	Baluchi	DHAND		A	
+137	Zazaki	dol		(W)	
+137	Zazaki	gol		(V)	
+72	Tajik	kul	kɵl	O	
+54	Persian	DARYACHE		R	
+54	Persian	آب	âb	L	
+1	Pashto	DZIHIL		(P)	
+1	Pashto	KUL		O	
+1	Pashto	DAND		A	
+1	Pashto	DARJACA		(R)	
+1	Pashto	GADIR		Aa	
+138	Shughni	qul		(V)	
+139	Sarikoli	kɛwl		(V)	
+52	Ossetic	cad	tsad	T	
+124	Ossetic Iron	cad	cad	T	
+125	Ossetic Digor	cadɐ	cadɐ	T	
+105	Vedic Sanskrit	áp-	áp	(L)	
+105	Vedic Sanskrit	sáras		(K)	
+105	Vedic Sanskrit	hradás		S	
+162	Pāḷī	sara		K	
+41	Khaskura	TALAU, TAL		Q	
+51	Nepali	POKHARI		Ab	
+51	Nepali	TAL		Q	
+51	Nepali	JHIL		P	
+106	Assamese	hrɒd	hrɒd	(S)	
+102	Oriya	hrɔdɔ	hrɔdɔ	(S)	
+10	Bengali	BIL		Ac	
+111	Bihari	jhil	jhil	P	
+144	Magahi	झील	ɟʰil	P	
+104	Marwari	nāḍī		Ae	
+35	Hindi	JHIL		P	
+119	Urdu	جِھیل	ʤʰil	P	
+43	Lahnda	JHIL		P	
+53	Punjabi	CIL		P	
+33	Gujarati	SEROWER		K	
+50	Marathi	talāw	tə'law	Q	
+40	Kashmiri	SAR		K	
+40	Kashmiri	DAL		Ad	
+65	Sinhalese	WEWA		Af	
+100	Old Church Slavonic	ѥзєръ, ѥзєръ	jɛzɛrɔ, jɛzɛrʊ̆	F	
+95	Serbo-Croatian	jezero	ˈjɛ̂zɛrɔ	F	
+15	Bulgarian	езеро	ˈɛzɘru	F	
+92	Macedonian	езеро	ˈezɛrɔ	F	
+60	Russian	озеро	'ɔzʲɛrɔ	F	
+55	Polish	jezioro	jɛˈʑɔrɔ	F	
+16	Belarusian	возера	ˈvɔzʲɛra	F	
+73	Ukrainian	озеро	ˈɔzɛrɔ	F	
+66	Slovak	jazero	ˈjazɛrɔ	F	
+18	Czech	jezero	ˈjɛzɛrɔ	F	
+48	Sorbian Upper	jězor	ˈjɪzɔʀ	F	
+47	Sorbian Lower	jazor	ˈjazɔr	F	
+97	Slovenian	jezero	ˈjêːzɛrɔ	F	
+108	Old Prussian	assaran		F	
+44	Latvian	ęzęrs		F	
+46	Lithuanian	upė	ʊpʲe:	L	
+46	Lithuanian	ežeras	ˈæ:ʒʲɛɾɐs	F	
+109	Old Norse	vatn	vatn	H	
+36	Icelandic	vatn	vaʰtn	H	
+23	Faroese	vatn	vaʰtn̥	H	
+58	Norwegian Riksmal	innsjø		G	
+58	Norwegian Riksmal	vann	ʋanː	H	
+159	Stavangersk	sjø	ʂøː	G	
+159	Stavangersk	vattn, vann	ˈʋatːn̩, ʋanː	H	
+157	Old Swedish	vatn	vatn	H	
+69	Swedish	sjö	ɧøː	G	
+71	Swedish Vilhelmina	SO		G	
+70	Swedish Uppland	SJO		G	
+145	Elfdalian	sju	sjʉː	G	
+20	Danish	sø	søˀ	G	
+158	Danish Fjolde	skå	sxɔ	G	
+99	Old English	sǣ		G	
+99	Old English	mere		B	
+22	English	lake	leɪk	(E)	
+21	Dutch	meer	mer	B	
+24	Flemish	MEER		B	
+83	Afrikaans	MEER, PAN		B	
+87	Sranan	ZEE		G	
+126	Old High German	sēo		G	
+27	German	See	ze:	G	
+86	Pennsylvania Dutch	WASSER LOCH		H	
+120	Luxembourgish	Séi		G	
+121	German Switzerland	see		G	
+107	Gothic	saiws		G	
+112	Latin	lacus	ˈlakus	E	
+17	Catalan	ESTANY			
+17	Catalan	llac	ʎak	E	
+17	Catalan	bassa	'basa		
+56	Portuguese	lago	'lagu	E	
+68	Spanish	lago	'laɣo	E	
+61	Sardinian Cagliari	LAGU		E	
+62	Sardinian Logudoro	LAGU		E	
+63	Sardinian Nuoro	LAGU		E	
+85	French Creole Dominica	LETA		I	
+76	Walloon	LAC		E	
+25	French	lac	lak	E	
+57	Provencal	LAU, CLAR		E	
+42	Ladin	LEJ, LEIH		E	
+146	Dolomite Ladino	lach		E	
+123	Romansh	lai		E	
+122	Friulian	lâc		E	
+39	Italian	lago	'lago	E	
+59	Romanian	lac		E	
+140	Gaulish	locu		E	
+127	Old Irish	loch	lox	E	
+101	Middle Cornish	lynn	lɪn:	Z	
+172	Middle Breton	lenn	ˈlenː	Z	
+12	Breton	lenn	ˈlɛnː	Z	
+12	Breton	loc'h		(E)	
+79	Welsh	llyn		Z	
+38	Irish	loch	l̪ˠɔx	E	
+38	Irish	linn	lʲiːnʲ, lʲɪnʲ	(Z)	
+115	Scottish Gaelic	loch	ɫ̪ɔx	E	
+5	[Legacy] Albanian T	GJOL		C	
+5	[Legacy] Albanian T	LIGEN		N	
+29	[Legacy] Greek K	LIMNE		J	
+28	[Legacy] Greek D	LIMNE		J	
+30	[Legacy] Greek Md	LIMNE		J	
+64	[Legacy] Serbocroatian	JEZERO		F	
+113	[Legacy] Serbian	jezero	jêzero	F	
+89	[Legacy] Bulgarian P	EZERO		F	
+49	[Legacy] Macedonian	EZERO		F	
+94	[Legacy] Russian P	OZERO		F	
+93	[Legacy] Polish P	JEZIORO		F	
+90	[Legacy] Byelorussian P	VOZERA		F	
+98	[Legacy] Ukrainian P	OZERO		F	
+19	[Legacy] Czech E	YAZERO		F	
+96	[Legacy] Slovak P	JAZERO		F	
+91	[Legacy] Czech P	JEZERO		F	
+67	[Legacy] Slovenian	JEZERO		F	
+45	[Legacy] Lithuanian O	AZERAS		F	
+11	[Legacy] Brazilian	LAGO		E	
+142	[Legacy] German Munich	See		G	
+84	[Legacy] French Creole C	LETA		I	
+14	[Legacy] Breton St	lenn	lɛn	Z	
+13	[Legacy] Breton Se	LENN		Z	
+78	[Legacy] Welsh C	LLYN		Z	
+37	[Legacy] Irish A	LOCH		E	

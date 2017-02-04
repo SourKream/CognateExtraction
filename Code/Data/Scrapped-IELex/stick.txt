@@ -1,0 +1,188 @@
+114	Proto-Indo-European	*ǵhasto-, *ǵhazdho-			
+80	Hittite	pahhis			
+133	Luvian	winal			
+81	Tocharian A	ṣtop			
+82	Tocharian B	śakātai			
+88	Albanian	SHKOPI, TSHOMAGU		C	
+143	Standard Albanian	shkop		C	
+2	Albanian Sicily	DRU			
+4	Albanian Corinth	SKOP		C	
+3	Albanian Gheg	SHKOPI		C	
+6	Albanian Tosk	SKOP		C	
+110	Ancient Greek	ῥάβδος	hrábdos	Y	
+110	Ancient Greek	βακτηρία	baktɛːríaː	(T)	
+32	Greek	ραβδί	raˈvði	Y	
+32	Greek	ξύλο	ˈksilo̞	(L)	
+31	Greek Lesbos	KSULO		L	
+129	Classical Armenian	gawazan			
+129	Classical Armenian	bir		X	
+129	Classical Armenian	ǰin			
+8	Armenian Eastern	gavazan			
+8	Armenian Eastern	p'ayt	pʰɑɪ̯t	(V)	
+8	Armenian Eastern	MAHAK			
+8	Armenian Eastern	bir		X	
+7	Armenian Western	PAYD (I)		V	
+136	Sogdian	ptr’β’k		Ah	
+75	Wakhi	GHWUZ, SUNG		Ai	
+9	Baluchi	LATH		(E)	
+137	Zazaki	ušīr		Ak	
+137	Zazaki	čiwe		Aj	
+72	Tajik	TAEK, ASO		Al	
+54	Persian	CHUB		Am	
+77	Waziri	LARGAI		A	
+1	Pashto	LARGAJ, LAKARA		A	
+138	Shughni	muqōbā		An	
+139	Sarikoli	kaltak; ɣыldыk		Ao	
+52	Ossetic	laedzaeg	lædzæɡ	U	
+124	Ossetic Iron	lɐzɐg	lɐzɐg	U	
+125	Ossetic Digor	ʁelɐ	ʁelɐ		
+105	Vedic Sanskrit	daṇḍás		M	
+162	Pāḷī	laṭṭhi		E	
+41	Khaskura	CHHARI		O	
+41	Khaskura	LAURO		P	
+51	Nepali	JHATARO, LATHO		E	
+51	Nepali	LAURO		P	
+106	Assamese	lathi	lathi	E	
+102	Oriya	laṭhi	laʈhi	E	
+10	Bengali	LATHI		E	
+111	Bihari	chə̃ri	chə̃ri	O	
+144	Magahi	ठंटा	də̃ntɑ		
+104	Marwari	ɖoko	ɖoko	Q	
+35	Hindi	DENDA		M	
+119	Urdu	ڈنڈا	ɖənɖɑ	M	
+103	Sindhi	ḍ̄anḍu		M	
+103	Sindhi	dōḡī		Q	
+43	Lahnda	CHERI		O	
+53	Punjabi	SOTTI			
+33	Gujarati	LAKRI (WOOD = LAKRU)		P	
+50	Marathi	kāthī	kaʈʰi:	O	
+50	Marathi	dandu		M	
+40	Kashmiri	LURU		P	
+65	Sinhalese	DARA/KALLA, DARA/KOTTA			
+34	Romani Greece	KAS		O	
+100	Old Church Slavonic	палица	pɑlitsʲa	H	
+95	Serbo-Croatian	palica	ˈpâlitsa	H	
+95	Serbo-Croatian	prut	prûːt	G	
+15	Bulgarian	пръчка	ˈprɤtʃkə	G	
+92	Macedonian	прат	prat	G	
+60	Russian	палка	'paɫka	H	
+55	Polish	kij	kʲij	I	
+16	Belarusian	кій	kʲij	I	
+73	Ukrainian	палиця	ˈpaɫɪtsʲa	H	
+66	Slovak	prút	pruːt	(G)	
+66	Slovak	palica	ˈpalitsa	H	
+18	Czech	hůl	ɦuːl	J	
+48	Sorbian Upper	kij	ki	I	
+47	Sorbian Lower	kij	kij	I	
+97	Slovenian	palica	ˈpǎːlitsa	H	
+108	Old Prussian	laxde		(W)	
+44	Latvian	spiẽk ̜-is			
+44	Latvian	nũja		R	
+46	Lithuanian	lazda	lɐzˈdɐ	W	
+46	Lithuanian	PAGALYS			
+109	Old Norse	pinni	ˈpinːi	(Aa)	
+109	Old Norse	vo̜lr	vɔlr	S	
+109	Old Norse	keppr	kepːr	Ab	
+109	Old Norse	stafr	stavr	D	
+109	Old Norse	kefli	ˈkefli		
+36	Icelandic	völur	ˈvœːlʏr	S	
+36	Icelandic	stafur	ˈstaːvʏr	D	
+23	Faroese	keppur	ˈtʃɛpːʊɹ	Ab	
+23	Faroese	stavur	ˈstɛaːvʊɹ	D	
+58	Norwegian Riksmal	stokk	stɔkː	B	
+58	Norwegian Riksmal	stav	staːʋ	D	
+58	Norwegian Riksmal	kjepp	çɛpː	Ab	
+159	Stavangersk	stav	stɑːv	D	
+159	Stavangersk	kjepp	çɛpː	Ab	
+159	Stavangersk	ståkk	stɔkː	B	
+157	Old Swedish	staver	ˈstaːver	D	
+157	Old Swedish	käpper	ˈkæpːer	Ab	
+157	Old Swedish	val	vaːl	S	
+69	Swedish	kvist	kvist	(Ac)	
+69	Swedish	käpp	ɕɛpː	Ab	
+69	Swedish	pinne	ˈpɪ̀nːə	(Aa)	
+69	Swedish	stav	stɑːv	D	
+71	Swedish Vilhelmina	STIKA, TZVET,TZAP		B	
+70	Swedish Uppland	KAPP, STICKA		B	
+145	Elfdalian	pinne	ˈpɪ̀nːɛ	(Ae)	
+145	Elfdalian	kwist	kwɪst	(Ac)	
+145	Elfdalian	stor		Ad	
+20	Danish	stok	sd̥ʰʌg̥ʰ	B	
+20	Danish	kæp	ɡ̊ʰɛb	Ab	
+158	Danish Fjolde	ståk	sdɔɡ	B	
+161	Gutnish Lau	stuck	stukː	B	
+161	Gutnish Lau	käpp	kɛpː	Ab	
+161	Gutnish Lau	stav	stɑːv	D	
+99	Old English	stæf		D	
+99	Old English	sticca		B	
+22	English	stick	stɪk	B	
+26	Frisian	stôk, stok	stɔ:k, stɔk	B	
+21	Dutch	stok	stɔk	B	
+24	Flemish	STOK		B	
+83	Afrikaans	STOK		B	
+87	Sranan	TIKI		B	
+126	Old High German	ruota			
+126	Old High German	gerta			
+27	German	Stock	ʃtɔk	B	
+86	Pennsylvania Dutch	SCHTECKE		B	
+120	Luxembourgish	Bengel			
+121	German Switzerland	schtäcke		B	
+107	Gothic	walus		S	
+107	Gothic	hrugga			
+132	Umbrian	percam			
+112	Latin	baculum	ˈbakulum	T	
+17	Catalan	PERN			
+17	Catalan	garrot	gə'rɔt		
+56	Portuguese	PAO		N	
+56	Portuguese	bastão	bɐʃˈtɐ̃ũ	K	
+68	Spanish	palo	'palo	N	
+61	Sardinian Cagliari	BASTONI		K	
+62	Sardinian Logudoro	BASTONE		K	
+63	Sardinian Nuoro	RAMU			
+85	French Creole Dominica	MOSO BWA			
+76	Walloon	BASTON, BORDON		K	
+25	French	bâton	bɑtɔ̃	K	
+57	Provencal	BASTOUN, TRICO, CANO		K	
+42	Ladin	BASTUN		K	
+123	Romansh	bastun		K	
+122	Friulian	mace		F	
+122	Friulian	baston		K	
+39	Italian	bastone	bas'tone	K	
+59	Romanian	băț		K	
+127	Old Irish	bata		(K)	
+127	Old Irish	slatt	slat	Z	
+101	Middle Cornish	gwelen	'gwɛlɛn	Af	
+101	Middle Cornish	prennyer			
+172	Middle Breton	baz, bazz	ˈbaθ		
+12	Breton	bazh		K	
+79	Welsh	ffon			
+38	Irish	bata	ˈbˠat̪ˠə	Ag, (K)	
+115	Scottish Gaelic	bata	pahtə	Ag, (K)	
+115	Scottish Gaelic	maide	mad̊ʲɪ		
+5	[Legacy] Albanian T	SHKOP		C	
+29	[Legacy] Greek K	KSULON		L	
+28	[Legacy] Greek D	KSULARAKI		L	
+30	[Legacy] Greek Md	KLARI			
+64	[Legacy] Serbocroatian	STAP		(D)	
+113	[Legacy] Serbian	palica		H	
+113	[Legacy] Serbian	prut	prûːt	G	
+113	[Legacy] Serbian	štap	ʃtâ:p	D	
+89	[Legacy] Bulgarian P	PALICA		H	
+49	[Legacy] Macedonian	práčka	ˈpraʧka	G	
+49	[Legacy] Macedonian	stap	stap	D	
+94	[Legacy] Russian P	PALKA		H	
+93	[Legacy] Polish P	PALKA		H	
+90	[Legacy] Byelorussian P	PALKA		H	
+98	[Legacy] Ukrainian P	PALKA		H	
+19	[Legacy] Czech E	PALICKA		H	
+96	[Legacy] Slovak P	PALICA		H	
+91	[Legacy] Czech P	HUL		J	
+67	[Legacy] Slovenian	PALCA		H	
+45	[Legacy] Lithuanian O	MALKAS			
+11	[Legacy] Brazilian	bastão	basˈtɐ̃u	K	
+142	[Legacy] German Munich	Stock		B	
+84	[Legacy] French Creole C	BATO		K	
+14	[Legacy] Breton St	bazh	ba:s	K	
+13	[Legacy] Breton Se	BAH		K	
+78	[Legacy] Welsh C	GWIALEN		Af	
+37	[Legacy] Irish A	MAIDE			

@@ -1,0 +1,112 @@
+114	Proto-Indo-European	*k̑r̥-n-/*k̑erh₂-/*k̑or-o-h₂-		A	
+80	Hittite	karāwar		A	
+133	Luvian	zurni		A	
+135	Palaic	sāwidār			
+81	Tocharian A	kror		A	
+82	Tocharian B	krorīyai		A	
+143	Standard Albanian	bri		I	
+6	Albanian Tosk	bri		I	
+173	Mycenaean Greek	ke-ra	kéras	A	
+110	Ancient Greek	κέρας	kéras	A	
+152	Tsakonian	τζερι, τζερατε		A	
+32	Greek	κέρατο	ˈce̞raˌto̞	A	
+129	Classical Armenian	եղջեւր	ełǰewr	E	
+8	Armenian Eastern	ełǰyur		E	
+8	Armenian Eastern	poz	poz		
+128	Avestan	sruiie (du.)		A	
+136	Sogdian	qrn’		G	
+118	Kurdish	qiloç		H	
+137	Zazaki	qoč		H	
+72	Tajik	šox	ʃɔːx	F	
+54	Persian	shåkh	ʃɒx	F	
+138	Shughni	xōx̆		F	
+139	Sarikoli	x̆ɛw		F	
+141	Kata-viri	šiŋ		(A)	
+154	Vasi-vari	siṅgi		A	
+153	Askunu	sĭṅ		A	
+105	Vedic Sanskrit	śŕ̥ṅgam		A	
+162	Pāḷī	singa		A	
+106	Assamese	xiŋ	xiŋ	A	
+102	Oriya	siŋ(h)ɔ	siŋ(h)ɔ	A	
+10	Bengali	siṅ		A	
+111	Bihari	siŋgh	siŋgh	A	
+144	Magahi	सींग	sĩŋɡʰ	A	
+104	Marwari	sing	sing	A	
+35	Hindi	sīg	sĩːɡ	A	
+119	Urdu	سِینگ	siŋɡ	A	
+103	Sindhi	sing~u		A	
+43	Lahnda	siṅg		A	
+53	Punjabi	siṅg		A	
+33	Gujarati	sĩg		A	
+50	Marathi	śinga	'ʃiŋga	A	
+40	Kashmiri	heṅg		A	
+65	Sinhalese	(h)anga		A	
+34	Romani Greece	Šiṅ		A	
+100	Old Church Slavonic	рогъ	rɔɡʊ̆	B	
+95	Serbo-Croatian	rog	rɔ̂ːɡ	B	
+15	Bulgarian	рог	rɔɡ	B	
+92	Macedonian	рог	roɡ	B	
+60	Russian	рог	'rɔg	B	
+55	Polish	róg	ruɡ	B	
+16	Belarusian	рог	roɣ	B	
+73	Ukrainian	ріг	rʲiɦ	B	
+66	Slovak	roh	rɔɦ	B	
+18	Czech	roh	rɔɦ	B	
+48	Sorbian Upper	róh	ʀʊ	B	
+47	Sorbian Lower	roɡ	rɔɡ	B	
+97	Slovenian	rog	rôːɡ	B	
+108	Old Prussian	ragis		B	
+44	Latvian	rags		B	
+46	Lithuanian	ragas		A	
+109	Old Norse	horn	horn	A	
+36	Icelandic	horn	hɔrd̥n	A	
+23	Faroese	horn	hɔd̥n	A	
+58	Norwegian Riksmal	horn	huːɳ	A	
+159	Stavangersk	håddn	ˈhɔdːn̩	A	
+157	Old Swedish	horn	horn	A	
+69	Swedish	horn	hu:ɳ	A	
+145	Elfdalian	uonn	ʉənː	A	
+20	Danish	horn	hoɐ̯ˀn	A	
+158	Danish Fjolde	huorn	huoɹn	A	
+160	Old Gutnish	horn		A	
+161	Gutnish Lau	hånn	honː	A	
+99	Old English	horn		A	
+22	English	horn		A	
+21	Dutch	hoorn	horn	A	
+126	Old High German	horn		A	
+27	German	Horn	hɔrn	A	
+120	Luxembourgish	Har		A	
+121	German Switzerland	horn		A	
+107	Gothic	haúrn		A	
+112	Latin	cornū	ˈkornuː	A	
+68	Spanish	hasta		D	
+68	Spanish	cuerno	'kweɾno	A	
+25	French	corne	kɔʀn	A	
+146	Dolomite Ladino	corn		A	
+123	Romansh	tgiern		A	
+122	Friulian	cuar		A	
+39	Italian	corno	'kɔrno	A	
+59	Romanian	corn	korn	A	
+140	Gaulish	carnon		A	
+140	Gaulish	banno-			
+127	Old Irish	adarc	aðərk	C	
+127	Old Irish	benn	bʹenn	(J)	
+127	Old Irish	corn	korn	(A)	
+149	Old Cornish	corn		A	
+101	Middle Cornish	corn	kɔrn	A	
+148	Old Breton	corn		A	
+172	Middle Breton	corn, cornn	ˈkorn	A	
+12	Breton	korn	ˈkɔrn	A	
+150	Old Welsh	corn		A	
+79	Welsh	corn		A	
+38	Irish	adharc	ɤ.əɾk	C	
+38	Irish	corn	koːɾˠn̪ˠ	(A)	
+115	Scottish Gaelic	adharc	ɤ.əɾk	C	
+147	Manx	eairk		C	
+5	[Legacy] Albanian T	bri		I	
+64	[Legacy] Serbocroatian	rog		B	
+113	[Legacy] Serbian	rog	rôːɡ	B	
+11	[Legacy] Brazilian	chifre	ˈʃifɾi		
+11	[Legacy] Brazilian	corno	ˈkoʁnu	A	
+142	[Legacy] German Munich	Horn		A	
+14	[Legacy] Breton St	korn		A	

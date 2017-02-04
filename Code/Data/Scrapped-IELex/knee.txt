@@ -1,0 +1,99 @@
+114	Proto-Indo-European	*g̑ónu-/*g̑énu-, *g̑n-éu-		N	
+80	Hittite	gēnu		N	
+81	Tocharian A	kanweṃ		N	
+82	Tocharian B	keni		N	
+143	Standard Albanian	gju		N	
+3	Albanian Gheg	gju		N	
+6	Albanian Tosk	gju		N	
+110	Ancient Greek	γόνυ	ɡóny	N	
+152	Tsakonian	γούνα		N	
+32	Greek	γόνατο	ˈɣo̞nato̞	N	
+129	Classical Armenian	ծունր	cownr	N	
+8	Armenian Eastern	cunk	ʦunk	N	
+128	Avestan	žnu-		N	
+136	Sogdian	j(n)wwq		A	
+118	Kurdish	çok		F	
+137	Zazaki	čok		F	
+137	Zazaki	sāqe		G	
+72	Tajik	zonu	zɔːnu	A	
+54	Persian	zanu	zɒnu	A	
+138	Shughni	zun		A	
+139	Sarikoli	zun		A	
+154	Vasi-vari	uzogur, zowur		I	
+153	Askunu	zã, zã-ḍõ		N	
+153	Askunu	ḍoŋ, ḍeŋg		J	
+105	Vedic Sanskrit	já̄nu		N	
+162	Pāḷī	jānu		N	
+106	Assamese	a~.thu		D	
+106	Assamese	ja.nu		N	
+102	Oriya	aṇṭhu	aɳʈhu	D	
+10	Bengali	hatu	ˈɦaʈu, ˈɦãʈu	D	
+10	Bengali	GOṚ		E	
+111	Bihari	ʈhehun	ʈhehun	K	
+144	Magahi	ठेहुना	tʰehʊnɑ	K	
+104	Marwari	goɖo	goɖo	E	
+119	Urdu	گھُٹنا	ɡʰʊʈnɑ	E	
+34	Romani Greece	koč		(H)	
+100	Old Church Slavonic	колѣно	kɔlænɔ	B	
+95	Serbo-Croatian	koleno	kɔ̌ljɛnɔ	B	
+15	Bulgarian	коляно	kuˈlʲanu	B	
+92	Macedonian	колено	ˈkolɛnɔ	B	
+60	Russian	колено	kalʲɛ'nɔ	B	
+55	Polish	kolano	kɔˈlanɔ	B	
+16	Belarusian	калена	kaˈlʲɛna	B	
+73	Ukrainian	коліно	kɔˈlʲinɔ	B	
+66	Slovak	koleno	ˈkɔlɛnɔ	B	
+18	Czech	koleno	ˈkɔlɛnɔ	B	
+48	Sorbian Upper	koleno	ˈkɔlɛnɔ	B	
+47	Sorbian Lower	kóleno	ˈkɘ̟lʲɛnɔ	B	
+97	Slovenian	koleno	kɔˈlěːnɔ	B	
+108	Old Prussian	klupstis		B	
+44	Latvian	celis		B	
+46	Lithuanian	kelis	ˈkælɪs	B	
+109	Old Norse	kné	kneː	N	
+36	Icelandic	kné, hné	kʰnjɛː, n̥jɛː	N	
+23	Faroese	knæ	knɛaː	N	
+58	Norwegian Riksmal	kne	kneː	N	
+159	Stavangersk	kne	kneː	N	
+157	Old Swedish	knä	knæː	N	
+69	Swedish	knä	knɛ:	N	
+145	Elfdalian	kni	knɪː	N	
+20	Danish	knæ	knɛˀ	N	
+158	Danish Fjolde	kneebən	ˈkneːbən	N	
+160	Old Gutnish	kni		N	
+161	Gutnish Lau	knäi	knɛɪ	N	
+99	Old English	cnēow		N	
+22	English	knee	ni:	N	
+21	Dutch	knie	kni	N	
+126	Old High German	kniu		N	
+126	Old High German	cneo		N	
+27	German	Knie	kni:	N	
+120	Luxembourgish	Knéi		N	
+121	German Switzerland	chnöi		N	
+107	Gothic	kniu		N	
+112	Latin	genu	ˈɡenu	N	
+17	Catalan	genoll	ʒə'noʎ, dʒe'noʎ	N	
+68	Spanish	rodilla	ro'ðiʎa	C	
+25	French	genou	ʒənu	N	
+57	Provencal	genolh	(d)ʒeˈnul	N	
+146	Dolomite Ladino	jenèie		N	
+123	Romansh	schanugl		N	
+122	Friulian	zenoli		N	
+39	Italian	ginocchio	dʒi'nɔkkjo	N	
+39	Italian	rotella	ro'tɛlla	(C)	
+59	Romanian	genunchiu	dʒeˈnunkʲ	N	
+127	Old Irish	glún	glu:n	N	
+149	Old Cornish	penglin		N	
+101	Middle Cornish	glin	gli:n	N	
+172	Middle Breton	glin	ˈgliːn	N	
+12	Breton	glin	ˈgliːn	N	
+150	Old Welsh	glin		N	
+79	Welsh	glin		N	
+38	Irish	glúin	ɡˠɫuːɲ	N	
+115	Scottish Gaelic	glùn		N	
+147	Manx	glioon		N	
+5	[Legacy] Albanian T	gju		N	
+113	[Legacy] Serbian	kol(j)eno		B	
+11	[Legacy] Brazilian	joelho	ʒuˈeʎu	N	
+142	[Legacy] German Munich	Knie		N	
+14	[Legacy] Breton St	glin	'glĩ:n	N	

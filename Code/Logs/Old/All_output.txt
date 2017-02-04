@@ -1,0 +1,120 @@
+---------------------------------
+FOLD  1 
+
+Training on fold  1
+Training set size :  528656
+Positive Labels :  133951 
+
+.......*
+optimization finished, #iter = 71
+Objective value = -299352.689906
+nSV = 511607
+
+Testing on fold  1
+Testing set size :  132164
+Positive Labels :  33670 
+
+Accuracy = 81.6372% (107895/132164) (classification)
+Confusion Matrix : 
+[[11449 22221]
+ [ 2048 96446]]
+Precision :  84.8262576869 %
+Recall :  34.0035640036 %
+F-Score :  0.485466533805
+---------------------------------
+---------------------------------
+FOLD  2 
+
+Training on fold  2
+Training set size :  528656
+Positive Labels :  133942 
+
+......*.
+optimization finished, #iter = 70
+Objective value = -299096.033280
+nSV = 511699
+
+Testing on fold  2
+Testing set size :  132164
+Positive Labels :  33679 
+
+Accuracy = 81.4488% (107646/132164) (classification)
+Confusion Matrix : 
+[[11265 22414]
+ [ 2104 96381]]
+Precision :  84.2620988855 %
+Recall :  33.4481427596 %
+F-Score :  0.478872640707
+---------------------------------
+---------------------------------
+FOLD  3 
+
+Training on fold  1
+Training set size :  528656
+Positive Labels :  134181 
+
+.......*
+optimization finished, #iter = 71
+Objective value = -299321.531066
+nSV = 511659
+
+Testing on fold  1
+Testing set size :  132164
+Positive Labels :  33440 
+
+Accuracy = 81.6962% (107973/132164) (classification)
+Confusion Matrix : 
+[[11399 22041]
+ [ 2150 96574]]
+Precision :  84.131670234 %
+Recall :  34.0879186603 %
+F-Score :  0.48517738194
+---------------------------------
+---------------------------------
+FOLD  5 
+
+Training on fold  2
+Training set size :  528656
+Positive Labels :  133943 
+
+......*.
+optimization finished, #iter = 70
+Objective value = -298780.662358
+nSV = 511766
+
+Testing on fold  2
+Testing set size :  132164
+Positive Labels :  33678 
+
+Accuracy = 81.4117% (107597/132164) (classification)
+Confusion Matrix : 
+[[11238 22440]
+ [ 2127 96359]]
+Precision :  84.0852974186 %
+Recall :  33.3689649029 %
+F-Score :  0.477775652063
+---------------------------------
+---------------------------------
+FOLD  5 
+
+Training on fold  3
+Training set size :  528656
+Positive Labels :  134213 
+
+.......*
+optimization finished, #iter = 71
+Objective value = -299119.169602
+nSV = 511683
+
+Testing on fold  3
+Testing set size :  132164
+Positive Labels :  33408 
+
+Accuracy = 81.5858% (107827/132164) (classification)
+Confusion Matrix : 
+[[11240 22168]
+ [ 2169 96587]]
+Precision :  83.8242971139 %
+Recall :  33.6446360153 %
+F-Score :  0.480167460538
+---------------------------------

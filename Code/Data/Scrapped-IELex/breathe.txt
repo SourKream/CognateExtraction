@@ -1,0 +1,154 @@
+114	Proto-Indo-European	*pneu̯-		P	
+81	Tocharian A	wärsäṣ			
+82	Tocharian B	satāṣṣäṃ		O	
+82	Tocharian B	anāṣṣäṃ		O	
+88	Albanian	šnč'em		J	
+143	Standard Albanian	marr frymë		B	
+2	Albanian Sicily	CATAR			
+4	Albanian Corinth	MAR FRIIME		B	
+3	Albanian Gheg	MARR FRYM		B	
+6	Albanian Tosk	MAR FRYME, MORA FRYME KAM		B	
+110	Ancient Greek	πνέω	pnéɔː	P	
+32	Greek	αναπνέω	anaˈpne̞ˌo̞	P	
+31	Greek Lesbos	ANASAINO			
+129	Classical Armenian	շնչեմ	ʃunʧʰ-ɛ-m	J	
+129	Classical Armenian	փչեմ	pʰčʰem	(C)	
+8	Armenian Eastern	շնչել	ʃəɲˈʧʰɛl	J	
+7	Armenian Western	շնչել	ʃəɲˈʧʰɛl	J	
+128	Avestan	an-		O	
+9	Baluchi	SAH ZIRAGH		B	
+137	Zazaki	nefes		(I)	
+72	Tajik	NAFAS KASIDAN		(I)	
+54	Persian	NAFAS KASHIDAN		(I)	
+77	Waziri	SAYA		(C)	
+1	Pashto	TANAFFUS KAVEL		(I)	
+138	Shughni	xu dām ziwestow		D	
+139	Sarikoli	ɛwx̆ čɛyg(ɛw)		F	
+139	Sarikoli	dam tižd(ɛw)		D	
+139	Sarikoli	nafas zox̆t(ɛw)		(I)	
+52	Ossetic	ULAEFYN		G	
+124	Ossetic Iron	ulɐf-	ulɐf-	G	
+125	Ossetic Digor	wolɐf-	wolɐf-	G	
+105	Vedic Sanskrit	ániti		O	
+162	Pāḷī	sasati		C	
+51	Nepali	SAS PHERNU		C	
+106	Assamese	uxah lɒ	uxah lɒ	C	
+102	Oriya	nisvasɔ neba	nisvasɔ neba	(C)	
+10	Bengali	SAS+PHELA		C	
+111	Bihari	sãs pherəb	sãs pherəb	C	
+144	Magahi	सांस लेना	sɑ̃s lenɑ	C	
+35	Hindi	SAS+LENA		C	
+119	Urdu	سانس لینا	sɑ̃s lenə	C	
+103	Sindhi	sāhu		C	
+43	Lahnda	SA GHINNEN		C	
+53	Punjabi	SA+LENA		C	
+33	Gujarati	SWASLEWO		C	
+50	Marathi	śwās ghene	ʃwas 'gʱeɳe	C	
+40	Kashmiri	SHAH HYONU		C	
+65	Sinhalese	GANAWA		Q	
+65	Sinhalese	HUSMA		C	
+34	Romani Greece	phurdel		C	
+100	Old Church Slavonic	дыхати	dɯxɑti	E	
+95	Serbo-Croatian	disati	ˈdǐːsati	E	
+15	Bulgarian	дишам	ˈdiʃəm	E	
+92	Macedonian	дише	ˈdiʃɛ	E	
+60	Russian	дышать	'dɨʂatʲ	E	
+55	Polish	oddychać	ɔdˈdɘ̟xatɕ	E	
+16	Belarusian	дыхаць	ˈdɨxatsʲ	E	
+73	Ukrainian	дихати	dɪˈxatɪ	E	
+66	Slovak	dýchať	ˈdiːxac	E	
+18	Czech	dýchat	ˈdiːxat	E	
+48	Sorbian Upper	dychać	ˈdɘ̟xatʃ	E	
+47	Sorbian Lower	dychaś	ˈdɘ̟xaɕ	E	
+97	Slovenian	dihati	ˈdǐːxati	E	
+44	Latvian	dvašõ		E	
+44	Latvian	ęl̃põ		K	
+46	Lithuanian	ALSUOTI			
+46	Lithuanian	KVEPUOTI		H	
+109	Old Norse	o̜nd		(O)	
+109	Old Norse	anda	ˈanda	O	
+36	Icelandic	anda	ˈand̥a	O	
+23	Faroese	anda	ˈand̥a	O	
+58	Norwegian Riksmal	puste	ˈpʉ̀stə	R	
+58	Norwegian Riksmal	ånde	ˈɔ̀nːə	O	
+159	Stavangersk	pusta	ˈpʉ̀sta	R	
+157	Old Swedish	anda	ˈanda	O	
+69	Swedish	leva	ˈlè:va	(T)	
+69	Swedish	andas	ˈàndas	O	
+71	Swedish Vilhelmina	AN		O	
+70	Swedish Uppland	ANDAS		O	
+145	Elfdalian	węsa	ˈwɛ̃̀ːsɑ	S	
+145	Elfdalian	andas		O	
+20	Danish	ånde	ˈʌnə	O	
+158	Danish Fjolde	oand	oanʲ	O	
+161	Gutnish Lau	andäs	ˈandɛs	O	
+99	Old English	ēþaþ		O	
+99	Old English	orþaþ		O	
+22	English	to breathe	bri:ð	N	
+26	Frisian	AMJE, AZEMJE		A	
+21	Dutch	ademen	'adəmə(n)	A	
+24	Flemish	ADEMEN		A	
+83	Afrikaans	ASEMHAAL		A	
+87	Sranan	BRO		N	
+126	Old High German	ātumōt		A	
+27	German	atmen	'a:tmən	A	
+86	Pennsylvania Dutch	ODOM		A	
+120	Luxembourgish	otmen		A	
+121	German Switzerland	schnuufe			
+107	Gothic	*aniþ		O	
+112	Latin	spīrāre	spiːˈraːre	L	
+17	Catalan	alenar	ələ'na	O	
+56	Portuguese	respirar	ɾɨʃpiˈɾaɾ	L	
+68	Spanish	respirar	respi'ɾaɾ	L	
+61	Sardinian Cagliari	RESPIRAI		L	
+62	Sardinian Logudoro	RESPIRARE		L	
+63	Sardinian Nuoro	SUSPIRARE		L	
+85	French Creole Dominica	WESPIRE		L	
+76	Walloon	RESPIRER		L	
+25	French	respirer	ʀɛspiʀe	L	
+57	Provencal	RESPIRA		L	
+57	Provencal	ALENA		O	
+42	Ladin	RESPIRER		L	
+146	Dolomite Ladino	respirà		L	
+123	Romansh	fladar			
+123	Romansh	respirar		L	
+122	Friulian	respirâ		L	
+39	Italian	respirare	respi'rare	L	
+59	Romanian	A RASUFLA		M	
+59	Romanian	a respira		L	
+127	Old Irish	do·beir anál	doˈbʹerʹ ana:l	O	
+101	Middle Cornish	anella	a'nɛl:a	O	
+172	Middle Breton	alaznaff	aˈlaðnaṽ	(O)	
+172	Middle Breton	tennaff e alazn	ˈtenːaṽ e ˈaːlaðn	O	
+12	Breton	tennañ e anal	ˈtɛnːã e ˈãːnal	O	
+12	Breton	c'hwezhañ, c'houeza	ˈxweːzã		
+12	Breton	analañ, analiñ	ãˈnɑːlã		
+79	Welsh	anadlu		O	
+38	Irish	anáil (nn.)		O	
+115	Scottish Gaelic	tarraing anail		O	
+5	[Legacy] Albanian T	ME MANE FRYME		B	
+29	[Legacy] Greek K	ANAPNEO		P	
+28	[Legacy] Greek D	ANAPNEO		P	
+30	[Legacy] Greek Md	ANAPNEO		P	
+64	[Legacy] Serbocroatian	DISATI		E	
+113	[Legacy] Serbian	disati		E	
+89	[Legacy] Bulgarian P	DISAM		E	
+49	[Legacy] Macedonian	DISI		E	
+94	[Legacy] Russian P	DYSAT		E	
+93	[Legacy] Polish P	DYSZEC		E	
+90	[Legacy] Byelorussian P	DYCHAC		E	
+98	[Legacy] Ukrainian P	DYCHATY		E	
+19	[Legacy] Czech E	DIXAT		E	
+96	[Legacy] Slovak P	DYCHAT		E	
+91	[Legacy] Czech P	DYCHATI		E	
+67	[Legacy] Slovenian	DIHAT, DIHAS		E	
+45	[Legacy] Lithuanian O	KVEPUOTI		H	
+11	[Legacy] Brazilian	RESPIRAR		L	
+142	[Legacy] German Munich	atmen		A	
+84	[Legacy] French Creole C	PWA HALEN		O	
+84	[Legacy] French Creole C	HWESPIHWE		L	
+84	[Legacy] French Creole C	PWA SUF		M	
+14	[Legacy] Breton St	analat	ã'na:lat	O	
+13	[Legacy] Breton Se	HANALEIN		O	
+78	[Legacy] Welsh C	ANADLU		O	
+37	[Legacy] Irish A	ANAL DO THARRAINMGT		O	

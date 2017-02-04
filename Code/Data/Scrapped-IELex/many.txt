@@ -1,0 +1,182 @@
+80	Hittite	mēkkies		H	
+81	Tocharian A	māk		H	
+82	Tocharian B	māka		H	
+88	Albanian	shumë		(C)	
+143	Standard Albanian	shumë		(C)	
+2	Albanian Sicily	shumë		(C)	
+4	Albanian Corinth	shumë		(C)	
+3	Albanian Gheg	shumë		(C)	
+6	Albanian Tosk	shumë		(C)	
+173	Mycenaean Greek	po-ru-º	polu-	B	
+110	Ancient Greek	πολλοί	polloí	B	
+152	Tsakonian	περσε			
+32	Greek	πολλοί	po̞ˈli	B	
+31	Greek Lesbos	POLLOI		B	
+129	Classical Armenian	յոլով	yolov	(B)	
+129	Classical Armenian	բազում	bazowm	(U)	
+8	Armenian Eastern	šat	ʃɑt	D	
+8	Armenian Eastern	bazum		(U)	
+7	Armenian Western	SHAD		D	
+128	Avestan	parauuō		W	
+131	Old Persian	parava		W	
+136	Sogdian	’ft’r			
+75	Wakhi	GHUFC			
+9	Baluchi	BA Z		(X)	
+118	Kurdish	pirr		W	
+118	Kurdish	gelek			
+72	Tajik	BIS ER, XELE, ZIED		N	
+54	Persian	CHANDIN		N	
+54	Persian	ziad	ziːˈjɒːd	N	
+77	Waziri	DER		Al	
+1	Pashto	DER		Al	
+138	Shughni	bisyōr		(V)	
+139	Sarikoli	čarɛyn			
+52	Ossetic	birae	biræ	T	
+124	Ossetic Iron	birɐ	birɐ	T	
+125	Ossetic Digor	berɐ	berɐ	T	
+141	Kata-viri	bʌluk		Y	
+154	Vasi-vari	skal			
+105	Vedic Sanskrit	bahávas		E	
+162	Pāḷī	bahu		E	
+41	Khaskura	DHERI, SASTI		A	
+51	Nepali	DHER, GHANERO		A	
+106	Assamese	miyām			
+106	Assamese	bɒhut	bɒhut	E	
+102	Oriya	bɔhut(ɔ)	bɔhut(ɔ)	E	
+102	Oriya	ɔnekɔ	ɔnekɔ	F	
+102	Oriya	guṛie	guɽie	E	
+10	Bengali	onek	ɔnek	F	
+111	Bihari	bəhut	bəhut	E	
+144	Magahi	बडीमनी	bəɽiməni	Aa	
+104	Marwari	bōlā		E	
+35	Hindi	bahut	bəˈɦʊt	E	
+119	Urdu	بہُت	bəˈhʊt̪	E	
+103	Sindhi	ǰama		(Ab)	
+43	Lahnda	KEI			
+53	Punjabi	BOT		E	
+33	Gujarati	GHERU (BEHU)		K	
+50	Marathi	puskal	'puʂkaɭ	Ac	
+50	Marathi	phar		Ad	
+50	Marathi	khūp	kʰup	Ae	
+40	Kashmiri	SETHAH		Af	
+65	Sinhalese	HUNGAK		F	
+34	Romani Greece	BUT		E	
+100	Old Church Slavonic	мъного	mʊ̆nɔɡɔ	H	
+95	Serbo-Croatian	mnogo	ˈmnɔ̂ɡɔ	H	
+15	Bulgarian	много	ˈmnɔɡu	H	
+92	Macedonian	многу	ˈmnoɡu	H	
+60	Russian	много	'mnɔgɔ	H	
+55	Polish	dużo	ˈduʐɔ	M	
+16	Belarusian	многа	ˈmnɔɣa	H	
+73	Ukrainian	багато	baˈɦatɔ	P	
+66	Slovak	mnoho	ˈmnɔɦɔ	H	
+66	Slovak	veľa	ˈvɛlʲa	Q	
+18	Czech	mnoho	ˈmnɔɦɔ	H	
+48	Sorbian Upper	wjele	ˈwĕɛlɛ	Q	
+47	Sorbian Lower	wjele	ˈwĕɛlʲɛ	Q	
+97	Slovenian	mnogo	ˈmnôːɡɔ	H	
+108	Old Prussian	tūlan			
+44	Latvian	daũdzi		M	
+46	Lithuanian	daug	dɐuɡ	M	
+109	Old Norse	margir	ˈmarɡir	H	
+36	Icelandic	margir	ˈmarɡ̊ɪr	H	
+23	Faroese	mangir	ˈmaŋɡ̊ɪɹ	H	
+58	Norwegian Riksmal	mange	ˈmàŋːə	H	
+159	Stavangersk	manɡe	ˈmàŋːə	H	
+157	Old Swedish	manger	ˈmaŋːer	H	
+69	Swedish	många	ˈmɔ̀ŋːa	H	
+71	Swedish Vilhelmina	MANG  MONG		H	
+70	Swedish Uppland	MANGA		H	
+145	Elfdalian	mikkel	mɪ̀kːɛl	H	
+145	Elfdalian	maungg	mɑʉŋg	H	
+20	Danish	mange	ˈmɑŋə	H	
+158	Danish Fjolde	manəng	ˈmɑnəŋ	H	
+160	Old Gutnish	mangir		H	
+161	Gutnish Lau	manggä	ˈmaŋɡɛ	H	
+99	Old English	manige		H	
+99	Old English	fela		B	
+22	English	many	'mɛnɪ	H	
+26	Frisian	bot	bot		
+26	Frisian	rju	rjø(.ə)		
+21	Dutch	veel	vel	B	
+24	Flemish	VEEL, VELE		B	
+83	Afrikaans	BAIE, VEEL		B	
+87	Sranan	FOELOE		B	
+126	Old High German	filu		B	
+126	Old High German	manage		H	
+27	German	viel	fi:l	B	
+86	Pennsylvania Dutch	FIEL		B	
+120	Luxembourgish	vill		B	
+121	German Switzerland	huufe			
+107	Gothic	managai		H	
+107	Gothic	filu		B	
+112	Latin	multī	multiː	G	
+17	Catalan	FORSA			
+17	Catalan	molt	moɫ, moɫt	G	
+56	Portuguese	muito	ˈmũĩtu	G	
+68	Spanish	muchos	'muʧos	G	
+61	Sardinian Cagliari	MERAS		O	
+62	Sardinian Logudoro	MEDAS		O	
+63	Sardinian Nuoro	METAS		O	
+85	French Creole Dominica	OTA		J	
+76	Walloon	BECOP		I	
+25	French	beaucoup	boku	I	
+57	Provencal	ANTO			
+57	Provencal	MANT		G	
+42	Ladin	BAINQUAUNTS		I	
+42	Ladin	BGER		S	
+146	Dolomite Ladino	tant		Ag	
+146	Dolomite Ladino	trop		Ah	
+123	Romansh	massa		Z	
+123	Romansh	bler		S	
+123	Romansh	daried			
+122	Friulian	tancj		Ag	
+122	Friulian	trop		Ah	
+122	Friulian	masse		Z	
+39	Italian	molti	'molti	G	
+59	Romanian	mulţi	mulʦʲ	G	
+74	Vlach	MULTI		G	
+140	Gaulish	elu-		B	
+127	Old Irish	il	ilʹ	B	
+127	Old Irish	imdae	imde	(Ak)	
+101	Middle Cornish	lies	'li:ɛs	(B)	
+101	Middle Cornish	lower	'lɔwɛr	R	
+148	Old Breton	lios		B	
+172	Middle Breton	cals	ˈkals	Ai	
+12	Breton	kalz	ˈkals	Ai	
+150	Old Welsh	liaus		B	
+79	Welsh	llawer		R	
+79	Welsh	lliaws		(B)	
+38	Irish	iomaí		(Ak)	
+38	Irish	iol-		(B)	
+38	Irish	mórán		L	
+115	Scottish Gaelic	mòran	moːɾan	L	
+115	Scottish Gaelic	iol-		(B)	
+115	Scottish Gaelic	iomadh		(Ak)	
+147	Manx	mooaran(e)		L	
+5	[Legacy] Albanian T	shumë		(C)	
+29	[Legacy] Greek K	POLLOI		B	
+28	[Legacy] Greek D	POLLOI		B	
+30	[Legacy] Greek Md	POLLOI		B	
+64	[Legacy] Serbocroatian	MNOGI		H	
+113	[Legacy] Serbian	mnogo	mnôɡo	H	
+89	[Legacy] Bulgarian P	MNOGO		H	
+49	[Legacy] Macedonian	mnógu	ˈmnɔɡu		
+94	[Legacy] Russian P	MNOGO		H	
+93	[Legacy] Polish P	wiele	ˈvʲɛlɛ	Q	
+90	[Legacy] Byelorussian P	MNOHA		H	
+98	[Legacy] Ukrainian P	BAHATO		P	
+19	[Legacy] Czech E	HODNE			
+96	[Legacy] Slovak P	MNOHY		H	
+91	[Legacy] Czech P	MNOHY		H	
+67	[Legacy] Slovenian	DOSTI			
+45	[Legacy] Lithuanian O	DAUG		M	
+11	[Legacy] Brazilian	MUITOS		G	
+142	[Legacy] German Munich	viele		B	
+84	[Legacy] French Creole C	STA, A PIL		J	
+14	[Legacy] Breton St	lies		B	
+14	[Legacy] Breton St	kalz	kals	B	
+13	[Legacy] Breton Se	KALZ		B	
+78	[Legacy] Welsh C	LLAWER		R	
+37	[Legacy] Irish A	GO LEOR		R	
+37	[Legacy] Irish A	MORAN		L	

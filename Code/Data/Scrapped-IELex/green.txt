@@ -1,0 +1,164 @@
+80	Hittite	hahlawanz		N	
+133	Luvian	hahhaluwantis		N	
+81	Tocharian A	motarci		L	
+82	Tocharian B	motartstse		L	
+88	Albanian	jeshil		(C)	
+143	Standard Albanian	jeshil, jeshile		(C)	
+2	Albanian Sicily	VIRDHI		G	
+4	Albanian Corinth	BIME (PLANTS), I-RIMTE (OBJECTS)			
+3	Albanian Gheg	jeshil		(C)	
+6	Albanian Tosk	gjelbër		(D)	
+110	Ancient Greek	χλωρός	kʰlɔːrós	A	
+152	Tsakonian	πρασινε		H	
+32	Greek	πράσινος	ˈprasiˌno̞s	H	
+31	Greek Lesbos	PRASINOS		H	
+129	Classical Armenian	կանաչ	kanačʰ	E	
+8	Armenian Eastern	kanač'	kɑˈnɑʧʰ	E	
+7	Armenian Western	GANANCH		E	
+136	Sogdian	’xs’yn		A	
+75	Wakhi	SUVZ		(F)	
+9	Baluchi	SAVZ, MAUNSHAR		(F)	
+118	Kurdish	kesk		O	
+118	Kurdish	hêşîn		A	
+137	Zazaki	k̇ewi		Q	
+137	Zazaki	kiḥo		P	
+72	Tajik	SABZ, KABUD		F	
+54	Persian	SABZ		F	
+77	Waziri	SHIN, ZARGHIN		A	
+1	Pashto	SIN		A	
+138	Shughni	savž		F	
+138	Shughni	xum		R	
+139	Sarikoli	sovz		(F)	
+52	Ossetic	c'aex	tsʲæχ	M	
+124	Ossetic Iron	c'ɐχ	c'ɐχ	M	
+125	Ossetic Digor	c'ɐχ	c'ɐχ	M	
+154	Vasi-vari	žirä		A	
+154	Vasi-vari	wəžī		S	
+153	Askunu	nīlə		U	
+153	Askunu	kaukãŗä		V	
+153	Askunu	ōža		S	
+105	Vedic Sanskrit	háritas		A	
+162	Pāḷī	hari		(A)	
+41	Khaskura	HARIO		A	
+51	Nepali	HARIYO		A	
+106	Assamese	xeuzia	xeuzia	(F)	
+102	Oriya	sagua	sagua	(F)	
+10	Bengali	SOBUJ		(F)	
+111	Bihari	həriyər	həriyər	A	
+144	Magahi	हरिअर	həriər	A	
+35	Hindi	HERA		I	
+119	Urdu	ہرا	həɾɑ	I	
+103	Sindhi	sāvā	sāvā	W	
+43	Lahnda	HERA		I	
+53	Punjabi	HERA		I	
+33	Gujarati	LILU		U	
+50	Marathi	hirwa	'ɦiɾwa	J	
+40	Kashmiri	SABAZ		(F)	
+40	Kashmiri	NYULU		U	
+65	Sinhalese	KOLA			
+34	Romani Greece	ESILI		(A)	
+100	Old Church Slavonic	зєлєнъ	zɛlɛnʊ̆	A	
+95	Serbo-Croatian	zelen	ˈzɛ̌lɛn	A	
+15	Bulgarian	зелен	zɘˈlɛn	A	
+92	Macedonian	зелен	ˈzelɛn	A	
+60	Russian	зелёный	zʲɛ'lʲɔnɨj	A	
+55	Polish	zielony	ʑɛˈlɔnɘ̟	A	
+16	Belarusian	зялёны	zʲaˈlʲɔnɨ	A	
+73	Ukrainian	зелений	zɛˈɫɛnɪj	A	
+66	Slovak	zelený	ˈzɛlɛniː	A	
+18	Czech	zelený	ˈzɛlɛniː	A	
+48	Sorbian Upper	zeleny	ˈzɛlɛnɘ̟	A	
+47	Sorbian Lower	zeleny	ˈzɛlʲɛnɘ̟	A	
+97	Slovenian	zelen	zɛˈlɛn	A	
+108	Old Prussian	saligan		A	
+44	Latvian	zal ̜š		A	
+46	Lithuanian	ZALIAS		A	
+109	Old Norse	grœnn	ɡrøːnː	B	
+36	Icelandic	grænn	ˈɡ̊raid̥n	B	
+23	Faroese	grønur	ˈɡ̊ɹøːnʊɹ	B	
+58	Norwegian Riksmal	ɡrønn	ɡɾønː	B	
+159	Stavangersk	grönne, grynne	ˈgʁœnːə, ˈɡʁʏnːə	B	
+157	Old Swedish	grön	ɡrøːn	B	
+69	Swedish	grön	grøːn	B	
+71	Swedish Vilhelmina	GRON		B	
+70	Swedish Uppland	GRON		B	
+145	Elfdalian	gryön	gryœn	B	
+20	Danish	grøn	g̥ʁɶ̝nˀ	B	
+158	Danish Fjolde	gryøn	ɡɹyøn	B	
+161	Gutnish Lau	gröinar	ˈɡrœɪnar	B	
+99	Old English	grēne		B	
+22	English	green	gri:n	B	
+26	Frisian	grien	gri.ən	B	
+21	Dutch	groen	ɣrun	B	
+24	Flemish	GROEN		B	
+83	Afrikaans	GROEN		B	
+87	Sranan	GROEN		B	
+126	Old High German	gruoni		B	
+27	German	grün	gry:n	B	
+86	Pennsylvania Dutch	GRIE		B	
+120	Luxembourgish	gréng		B	
+121	German Switzerland	grüen		B	
+112	Latin	uiridis	ˈwiridis	G	
+17	Catalan	verd	bert	G	
+56	Portuguese	verde	ˈveɾdɨ	G	
+68	Spanish	verde	'beɾðe	G	
+61	Sardinian Cagliari	BIRDI		G	
+62	Sardinian Logudoro	BIRDE		G	
+63	Sardinian Nuoro	VIRDE		G	
+85	French Creole Dominica	VE		G	
+76	Walloon	VERT		G	
+25	French	vert	vɛʀ	G	
+57	Provencal	VERT, ERDO		G	
+42	Ladin	VERD, VIERD		G	
+146	Dolomite Ladino	vért		G	
+123	Romansh	verd		G	
+122	Friulian	vert		G	
+39	Italian	verde	'verde	G	
+59	Romanian	verde	ˈverde	G	
+74	Vlach	VEARDE		G	
+140	Gaulish	glastum		A	
+127	Old Irish	glas(s)	glas	A	
+127	Old Irish	úaine	u:ənʹe	(K)	
+101	Middle Cornish	glas	gla:z	A	
+101	Middle Cornish	gwer	gwɛ:r	T	
+172	Middle Breton	guezr, guerz, gwezr	ˈgueðr	(G), X	
+172	Middle Breton	glas	ˈglaːs	A	
+12	Breton	glas	ˈglaːs	A	
+12	Breton	gwer		(G), X	
+79	Welsh	gwyrdd	ɡwɨrð	G, X	
+79	Welsh	glas		A	
+38	Irish	uaine	ˈuənʲə	(K)	
+38	Irish	glas	ɡl̪ˠasˠ	A	
+115	Scottish Gaelic	glas	glas	(A)	
+115	Scottish Gaelic	gorm			
+115	Scottish Gaelic	uaine	ˈuənʲə	(K)	
+147	Manx	glass		A	
+147	Manx	eayney		(K)	
+5	[Legacy] Albanian T	blertë			
+5	[Legacy] Albanian T	gjelbër		(D)	
+5	[Legacy] Albanian T	kaltër			
+29	[Legacy] Greek K	PRASINOS		H	
+28	[Legacy] Greek D	PRASINOS		H	
+30	[Legacy] Greek Md	PRASINOS		H	
+64	[Legacy] Serbocroatian	ZELEN		A	
+113	[Legacy] Serbian	zelen	zělen	A	
+89	[Legacy] Bulgarian P	ZELEN		A	
+49	[Legacy] Macedonian	ZELEN		A	
+94	[Legacy] Russian P	ZEL ONYJ		A	
+93	[Legacy] Polish P	ZIELONY		A	
+90	[Legacy] Byelorussian P	Z AL ONY		A	
+98	[Legacy] Ukrainian P	ZELENYJ		A	
+19	[Legacy] Czech E	ZELENE		A	
+96	[Legacy] Slovak P	ZELENY		A	
+91	[Legacy] Czech P	ZELENY		A	
+67	[Legacy] Slovenian	ZELENO		A	
+45	[Legacy] Lithuanian O	ZALIAS		A	
+11	[Legacy] Brazilian	VERDE (VER)		G	
+142	[Legacy] German Munich	grün		B	
+84	[Legacy] French Creole C	VE		G	
+14	[Legacy] Breton St	glas	'gla:s	A	
+14	[Legacy] Breton St	gwer	'gwe:r	T	
+13	[Legacy] Breton Se	GLAS, GUERH		A	
+78	[Legacy] Welsh C	GWYRDD		T	
+37	[Legacy] Irish A	GLAS		A	
+37	[Legacy] Irish A	UAINE		K	

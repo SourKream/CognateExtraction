@@ -1,0 +1,189 @@
+114	Proto-Indo-European	*mon-			
+80	Hittite	kuttar			
+81	Tocharian A	kñuk			
+88	Albanian	qafë		(C)	
+143	Standard Albanian	qafë		(C)	
+2	Albanian Sicily	koc			
+4	Albanian Corinth	zverk			
+3	Albanian Gheg	qafë		(C)	
+6	Albanian Tosk	qafë		(C)	
+110	Ancient Greek	τράχηλος	trákʰɛːlos	R	
+110	Ancient Greek	αὐχήν	au̯kʰɛ́n	(D)	
+152	Tsakonian	λαιμο		I	
+32	Greek	λαιμός	le̞ˈmo̞s	I	
+32	Greek	αυχένας		(D)	
+32	Greek	τραχελος		(R)	
+31	Greek Lesbos	LAIMOS		I	
+129	Classical Armenian	պարանոց	paranocʰ		
+8	Armenian Eastern	COCRAK			
+8	Armenian Eastern	viz	viz	D	
+8	Armenian Eastern	paranoc‘			
+7	Armenian Western	VIZ		D	
+128	Avestan	manaoθri		K	
+128	Avestan	grīuua		Q	
+136	Sogdian	γrd’k		A	
+75	Wakhi	MAEYUK		K	
+75	Wakhi	GERDON		(A)	
+9	Baluchi	GWAR		A	
+118	Kurdish	gerden		A	
+137	Zazaki	mil, vil		K	
+72	Tajik	gardan	ɡærdæn	A	
+54	Persian	GARDAN		A	
+77	Waziri	MAGHZAI			
+77	Waziri	MA KANDAI			
+77	Waziri	GHWORA		A	
+1	Pashto	GARA		(A)	
+138	Shughni	gardān		(A)	
+138	Shughni	māk		K	
+139	Sarikoli	garδon		(A)	
+124	Ossetic Iron	bɐržɐj	bɐržɐj	E	
+125	Ossetic Digor	bɐrzɐj	bɐrzɐj	E	
+154	Vasi-vari	gīk		T	
+154	Vasi-vari	lumu, lümī			
+154	Vasi-vari	marnegi, marnäik		S	
+153	Askunu	maraṇīk		S	
+153	Askunu	mʌndʌ			
+105	Vedic Sanskrit	grīvā́		T	
+162	Pāḷī	gīva		T	
+41	Khaskura	GHANTI			
+51	Nepali	MANTO		U	
+106	Assamese	ḍiṅgi			
+106	Assamese	nārē			
+102	Oriya	bekɔ	bekɔ		
+10	Bengali	GORDAN		(A)	
+10	Bengali	GHAR		(A)	
+111	Bihari	gərdain	gərdain	(A)	
+144	Magahi	घेची	ɡʰẽci		
+104	Marwari	nād			
+35	Hindi	GERDEN		(A)	
+119	Urdu	گردن	ɡəɾd̪ən	(A)	
+103	Sindhi	ggichii			
+103	Sindhi	gardana		(A)	
+43	Lahnda	GERDEN		(A)	
+53	Punjabi	GICCI			
+33	Gujarati	GERDEN		(A)	
+33	Gujarati	GELU			
+33	Gujarati	dok	ɖok		
+50	Marathi	mān	man	U	
+40	Kashmiri	KORU		J	
+65	Sinhalese	KARA		J	
+34	Romani Greece	KHOR		J	
+100	Old Church Slavonic	выя	vɯja	V	
+95	Serbo-Croatian	vrat	vrâːt	A	
+15	Bulgarian	врат	vrat	A	
+15	Bulgarian	шия	ˈʃijə	H	
+92	Macedonian	врат	vrat	A	
+60	Russian	шея	'ʂɛja	H	
+55	Polish	szyja	'ʂɘ̟ja	H	
+16	Belarusian	шыя	ˈʂɨja	H	
+73	Ukrainian	шия	ˈʂɪja	H	
+66	Slovak	krk	kr̩k	P	
+18	Czech	krk	kr̩k	P	
+48	Sorbian Upper	šija	ˈʃija	H	
+47	Sorbian Lower	šyja	ˈʂɘ̟ja	H	
+97	Slovenian	vrat	vrâːt	A	
+108	Old Prussian	winsus			
+44	Latvian	kakls		L	
+46	Lithuanian	KAKLAS		L	
+109	Old Norse	hnakki	ɣnakːi	(N)	
+109	Old Norse	svíri	ˈsviːri	(O)	
+109	Old Norse	hals, háls	hals	B	
+36	Icelandic	hnakki	ˈn̥aʰkːɪ	(N)	
+36	Icelandic	svíri	ˈsviːrɪ	(O)	
+36	Icelandic	háls	hauls	B	
+23	Faroese	nakki	ˈnaʰkːɪ	(N)	
+23	Faroese	hálsur	ˈhɔlsʊɹ	B	
+23	Faroese	svíri	ˈsvʊiːɹɪ	(O)	
+58	Norwegian Riksmal	hals	hals	B	
+58	Norwegian Riksmal	nakke	ˈnàkːə	(N)	
+157	Old Swedish	hals	hals	B	
+157	Old Swedish	nakke	ˈnakːe	(N)	
+69	Swedish	nacke	ˈnàkːə	(N)	
+69	Swedish	hals	hals	B	
+71	Swedish Vilhelmina	HAS  HALS		B	
+70	Swedish Uppland	HALS		B	
+145	Elfdalian	ås	oːs	B	
+145	Elfdalian	nakke		(N)	
+20	Danish	nakke	ˈnɑɡ̊ʰe	(N)	
+20	Danish	hals	halˀs	B	
+158	Danish Fjolde	nak	naɡ	(N)	
+158	Danish Fjolde	hals	hɑls	B	
+160	Old Gutnish	nacci		(N)	
+160	Old Gutnish	hals		B	
+161	Gutnish Lau	hals	hals	B	
+161	Gutnish Lau	nakkä	ˈnakːɛ	(N)	
+99	Old English	heals		B	
+22	English	neck	nɛk	N	
+26	Frisian	nekke	'nɛkə	N	
+26	Frisian	hals	hɔls	B	
+21	Dutch	nek	nɛk	N	
+21	Dutch	hals	hɑls	B	
+24	Flemish	HALS		B	
+83	Afrikaans	HALS		B	
+83	Afrikaans	NEK		N	
+87	Sranan	NEKI		N	
+126	Old High German	hals		B	
+27	German	Hals	hals	B	
+27	German	Nacken	'nakn̩	N	
+86	Pennsylvania Dutch	HOLSZ		B	
+120	Luxembourgish	Hals		B	
+121	German Switzerland	haus		B	
+107	Gothic	hals		B	
+112	Latin	collum	ˈkolːum	B	
+17	Catalan	coll	kɔʎ	B	
+56	Portuguese	pescoço	pɨʃˈkosu	F	
+68	Spanish	cuello	'kweʎo	B	
+61	Sardinian Cagliari	ZUGU			
+62	Sardinian Logudoro	ATTILE			
+63	Sardinian Nuoro	THUKRU			
+85	French Creole Dominica	KU		B	
+76	Walloon	CO		B	
+25	French	cou	ku	B	
+57	Provencal	COU, COUI		B	
+42	Ladin	CULOZ		B	
+146	Dolomite Ladino	còl, còi		B	
+123	Romansh	culiez, culöz		B	
+122	Friulian	cuel		B	
+39	Italian	collo	'kollo	B	
+59	Romanian	gât	ɡɨt	M	
+74	Vlach	GUSE		M	
+140	Gaulish	man-		K	
+127	Old Irish	muinél	munʹe:l	K	
+127	Old Irish	brágae, bráige	bra:ɣe, bra:ɣʹe		
+101	Middle Cornish	konna	'kɔn:a		
+148	Old Breton	mun		K	
+172	Middle Breton	gouzouc	ˈguːðuk	G	
+12	Breton	gouzoug	ˈguːzuk, ˈguːk	G	
+150	Old Welsh	mwn		K	
+79	Welsh	mwnwgl		K	
+79	Welsh	gwddf		G	
+38	Irish	muineál		K	
+115	Scottish Gaelic	muineal		K	
+115	Scottish Gaelic	amhach			
+147	Manx	mwannal		K	
+5	[Legacy] Albanian T	qafë	cɕaf(ə)	(C)	
+29	[Legacy] Greek K	LAIMOS		I	
+28	[Legacy] Greek D	LAIMOS		I	
+30	[Legacy] Greek Md	LAIMOS		I	
+64	[Legacy] Serbocroatian	VRAT		A	
+113	[Legacy] Serbian	šija		H	
+113	[Legacy] Serbian	vrat		A	
+89	[Legacy] Bulgarian P	SIJA		H	
+49	[Legacy] Macedonian	šíja	ˈʃija	H	
+49	[Legacy] Macedonian	vrat	vrat	A	
+94	[Legacy] Russian P	SEJA		H	
+93	[Legacy] Polish P	SZYJA		H	
+90	[Legacy] Byelorussian P	SYJA		H	
+98	[Legacy] Ukrainian P	SYJA		H	
+19	[Legacy] Czech E	KRK		P	
+96	[Legacy] Slovak P	SIJA		H	
+91	[Legacy] Czech P	SIJE		H	
+67	[Legacy] Slovenian	VRAT		A	
+45	[Legacy] Lithuanian O	KAKLAS		L	
+11	[Legacy] Brazilian	pescoço	pesˈkosu	F	
+142	[Legacy] German Munich	Nacken		N	
+84	[Legacy] French Creole C	KU		B	
+14	[Legacy] Breton St	gouzoug	'gu:zuk	G	
+13	[Legacy] Breton Se	GOUG		G	
+78	[Legacy] Welsh C	GWDDF		G	
+37	[Legacy] Irish A	MUINEAL		K	

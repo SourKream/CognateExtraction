@@ -1,0 +1,203 @@
+114	Proto-Indo-European	*h₂ed		R	
+114	Proto-Indo-European	*h₁epi, *h₁opi		I	
+81	Tocharian A	-aṃ		B	
+82	Tocharian B	-ne		B	
+143	Standard Albanian	tek			
+2	Albanian Sicily	TE			
+4	Albanian Corinth	NDE		C	
+3	Albanian Gheg	ME			
+6	Albanian Tosk	NE		C	
+173	Mycenaean Greek	e-pi	epí	I	
+110	Ancient Greek	ἐπί	epí	I	
+110	Ancient Greek	ἐν	en	(J)	
+110	Ancient Greek	παρά	pará	(Ah)	
+32	Greek	σε	se̞	E	
+31	Greek Lesbos	SE		E	
+129	Classical Armenian	առ	ɑr	Ah	
+129	Classical Armenian	i / y-			
+8	Armenian Eastern	het			
+8	Armenian Eastern	- um	um		
+8	Armenian Eastern	GEN. + meǰ			
+8	Armenian Eastern	-in	in		
+7	Armenian Western	մօտ	mɔd	D	
+136	Sogdian	kw		X	
+75	Wakhi	TE		Z	
+75	Wakhi	DU		Y	
+9	Baluchi	SAR-A		(A)	
+9	Baluchi	A		Aa	
+137	Zazaki	verā		Ab	
+137	Zazaki	het(i)		Z	
+72	Tajik	BA		Ad	
+72	Tajik	dar	dær	Ac	
+77	Waziri	KSHE, PA, PERI		K	
+1	Pashto	DE...SERA		A	
+1	Pashto	TA NEZDE		Z	
+139	Sarikoli	bar		Ae	
+52	Ossetic	cur	tsur	A	
+52	Ossetic	(MAE - AEM)		D	
+124	Ossetic Iron	sur	sur	A	
+125	Ossetic Digor	cor	cor	A	
+105	Vedic Sanskrit	adhi		(H)	
+105	Vedic Sanskrit	api, pi		(I)	
+41	Khaskura	MA		G	
+51	Nepali	MA		G	
+106	Assamese	ɒt	ɒt	H	
+102	Oriya	re	re	M	
+102	Oriya	ṭhare	ʈhare	M	
+144	Magahi	में	mẽ	G	
+144	Magahi	पर	pər	L	
+35	Hindi	-me	mẽ	G	
+35	Hindi	-PER		L	
+119	Urdu	پر، پہ	pəɾ, pɛ	L	
+103	Sindhi				
+43	Lahnda	UTTE		H	
+53	Punjabi	PER		L	
+53	Punjabi	TE		G	
+50	Marathi	-t, -the	t, tʰe	G	
+50	Marathi	wādztā,	'wadzta	H	
+50	Marathi	-ver		L	
+40	Kashmiri	KANI		F	
+65	Sinhalese	E		Ag	
+34	Romani Greece	KAI		(Af)	
+100	Old Church Slavonic	на	nɑ	Q	
+100	Old Church Slavonic	въ	vʊ̆	J	
+95	Serbo-Croatian	u	u	J	
+95	Serbo-Croatian	na	na	Q	
+15	Bulgarian	в(ъв)	v(ɤf)	J	
+15	Bulgarian	на	na	Q	
+92	Macedonian	на	na	Q	
+92	Macedonian	во	vɔ	J	
+60	Russian	в	v	J	
+60	Russian	на	na	Q	
+55	Polish	w(e)	v(ɛ)	J	
+55	Polish	na	na	Q	
+16	Belarusian	у	u	J	
+16	Belarusian	на	na	Q	
+73	Ukrainian	в	ʋ	J	
+73	Ukrainian	на	na	Q	
+66	Slovak	na	na	Q	
+66	Slovak	v(o)	v(ɔ)	J	
+18	Czech	na	na	Q	
+18	Czech	v(e)	v(ɛ)	J	
+48	Sorbian Upper	w(e)	w(ɛ)	J	
+48	Sorbian Upper	na	na	Q	
+47	Sorbian Lower	w(e)	w(ɛ)	J	
+47	Sorbian Lower	na	na	Q	
+97	Slovenian	v	v	J	
+97	Slovenian	na	na	Q	
+108	Old Prussian	prēi		N	
+44	Latvian	pìe		N	
+44	Latvian	UZ			
+46	Lithuanian	į	i:	B	
+46	Lithuanian	PRIE		N	
+46	Lithuanian	pas	pɐs	N	
+109	Old Norse	við	við	U	
+109	Old Norse	at	at	(R)	
+36	Icelandic	hjá	çauː	Aj	
+36	Icelandic	við	vɪːð	U	
+23	Faroese	á	ɔaː	(R)	
+23	Faroese	hjá	tʃʰɔaː	Aj	
+23	Faroese	við	viː	U	
+58	Norwegian Riksmal	på	poː	Ai	
+58	Norwegian Riksmal	ved	ʋeːd	U	
+159	Stavangersk	på	poː	Ai	
+159	Stavangersk	ve	ʋeː	U	
+157	Old Swedish	vidh	viːð	U	
+157	Old Swedish	at	at	R	
+69	Swedish	på	po:	Ai	
+69	Swedish	vid	viː(d)	U	
+71	Swedish Vilhelmina	DEVE			
+71	Swedish Vilhelmina	OT  OT		R	
+70	Swedish Uppland	AT		R	
+70	Swedish Uppland	VID		U	
+145	Elfdalian	wið	wɪːð	U	
+145	Elfdalian	ą̊	õ	Ai	
+20	Danish	på	b̥ʰɔˀ	Ai	
+20	Danish	ved	veð	U	
+158	Danish Fjolde	oa	oa	Ai	
+158	Danish Fjolde	ve	ve	U	
+160	Old Gutnish	pa		Ai	
+160	Old Gutnish	viþr		U	
+161	Gutnish Lau	bäi	bɛɪ	(Ak)	
+161	Gutnish Lau	pa	pɑː	Ai	
+99	Old English	æt		R	
+22	English	at	æt	R	
+26	Frisian	op	op	I	
+21	Dutch	te	tə	V	
+21	Dutch	op	ɔp	I	
+24	Flemish	AEN		T	
+24	Flemish	TE		V	
+83	Afrikaans	TE		V	
+87	Sranan	NA, NA SEI VO			
+126	Old High German	az		R	
+126	Old High German	zi		N	
+27	German	an	an	T	
+86	Pennsylvania Dutch	ONN		T	
+120	Luxembourgish	op		I	
+120	Luxembourgish	dran		T	
+120	Luxembourgish	an		T	
+120	Luxembourgish	bei			
+121	German Switzerland	a		T	
+107	Gothic	at		R	
+130	Oscan	az		R	
+132	Umbrian	-ař		R	
+132	Umbrian	-kum		R	
+112	Latin	ad	ad	R	
+17	Catalan	a	a	R	
+17	Catalan	per	pər		
+56	Portuguese	a	a	S	
+56	Portuguese	em	ɐ̃j	J	
+68	Spanish	a	a	R	
+61	Sardinian Cagliari	A		R	
+62	Sardinian Logudoro	A		R	
+63	Sardinian Nuoro	A		R	
+85	French Creole Dominica	A-, A		R	
+76	Walloon	A		R	
+25	French	à	a	R	
+57	Provencal	A		R	
+42	Ladin	A, AD, ADA		R	
+146	Dolomite Ladino	a		R	
+123	Romansh	a		R	
+122	Friulian	a		R	
+39	Italian	a, ad	a, ad	R	
+59	Romanian	în	ɨn		
+59	Romanian	la	la	R	
+74	Vlach	A		R	
+127	Old Irish	oc	og	R	
+101	Middle Cornish	orth		W	
+172	Middle Breton	e, en(n), i, in	e, en, i, in	J	
+12	Breton	e(n)	e, en	J	
+79	Welsh	wrth		(W)	
+79	Welsh	yn		J	
+38	Irish	ag	ɛɟ	R	
+115	Scottish Gaelic	aig	ek	R	
+5	[Legacy] Albanian T	në	ˈnə	C	
+29	[Legacy] Greek K	EIS TO		E	
+28	[Legacy] Greek D	STO, STE		E	
+30	[Legacy] Greek Md	SE, STE		E	
+64	[Legacy] Serbocroatian	KOD		O	
+113	[Legacy] Serbian	u	u	P	
+113	[Legacy] Serbian	kod	kôd	O	
+113	[Legacy] Serbian	pri		N	
+89	[Legacy] Bulgarian P	U		P	
+49	[Legacy] Macedonian	NA		Q	
+49	[Legacy] Macedonian	U		P	
+94	[Legacy] Russian P	U		P	
+93	[Legacy] Polish P	U		P	
+90	[Legacy] Byelorussian P	U		P	
+98	[Legacy] Ukrainian P	U		P	
+19	[Legacy] Czech E	NA		Q	
+19	[Legacy] Czech E	PRI		N	
+96	[Legacy] Slovak P	U		P	
+91	[Legacy] Czech P	U		P	
+67	[Legacy] Slovenian	K		O	
+67	[Legacy] Slovenian	NE		Q	
+45	[Legacy] Lithuanian O	ANT			
+11	[Legacy] Brazilian	NO		S	
+11	[Legacy] Brazilian	A		R	
+142	[Legacy] German Munich	an		T	
+84	[Legacy] French Creole C	A		R	
+14	[Legacy] Breton St	e, en	e, ẽn	J	
+13	[Legacy] Breton Se	E, EN		J	
+78	[Legacy] Welsh C	YN		J	
+37	[Legacy] Irish A	AIG		R	

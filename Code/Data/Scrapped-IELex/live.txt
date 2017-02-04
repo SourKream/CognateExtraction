@@ -1,0 +1,173 @@
+114	Proto-Indo-European	*gʷeiH₃w-		A	
+80	Hittite	huiszi		E	
+81	Tocharian A	śoṣ		A	
+82	Tocharian B	śaiṃ		A	
+88	Albanian	RROJ, (RROJTA = AOR.) (RROJT = INF.)		C	
+143	Standard Albanian	jetoj		C	
+2	Albanian Sicily	RON (PRET / ROVA)		C	
+4	Albanian Corinth	RON		C	
+3	Albanian Gheg	JETOJ, RROJ, ( RROJT = INF.)		C	
+6	Albanian Tosk	RON, AOR. ROJTA		C	
+110	Ancient Greek	ζῶ	zdɔ̑ː	A	
+32	Greek	ζω	zo̞	A	
+31	Greek Lesbos	DZO		A	
+129	Classical Armenian	կեամ	keam	A	
+8	Armenian Eastern	aprel	ɑpˈɾɛl	D	
+7	Armenian Western	ABRIL		D	
+128	Avestan	ǰuuaiti		A	
+131	Old Persian	ǰīvatiy		A	
+136	Sogdian	zw		A	
+9	Baluchi	ZINDAGH (LIVING)		A	
+72	Tajik	ZINDAGI KARDAN, ZISTAN		A	
+54	Persian	ZENDEGI KARDAN		A	
+77	Waziri	PAEDEL			
+1	Pashto	ZVAND KAVEL		A	
+138	Shughni	guzarun čidow			
+139	Sarikoli	ыmr wand(ɛw), maθ wand(ɛw)			
+52	Ossetic	caeryn	ʦarɨn	H	
+124	Ossetic Iron	sɐr-	sɐr-	H	
+125	Ossetic Digor	cɐr-	cɐr-	H	
+105	Vedic Sanskrit	jī́vati		A	
+162	Pāḷī	jīvati		A	
+41	Khaskura	JIUNO		A	
+51	Nepali	JIUNU		A	
+106	Assamese	jingtā		A	
+106	Assamese	zī-		A	
+102	Oriya	ji-ɔnta	ji-ɔnta	A	
+102	Oriya	rɔhiba	rɔhiba	F	
+10	Bengali	JIOA (BE ALIVE)		A	
+111	Bihari	jib	jib	A	
+144	Magahi	रहना	rəhənɑ	F	
+104	Marwari	sarajīvata vhaibō			
+104	Marwari	nimhabō			
+35	Hindi	rehna	rɛɦnɑ	F	
+35	Hindi	JINA (BE ALIVE)		A	
+119	Urdu	جِینا	ʤinə	A	
+119	Urdu	رہنا	ɾɛhnə	F	
+103	Sindhi	ǰiaṇu		A	
+43	Lahnda	JIWEN		A	
+33	Gujarati	JIWEWU		A	
+50	Marathi	rāhne	'ɾaɦɳe	F	
+50	Marathi	dzagne	dzəg'ɳe	A	
+40	Kashmiri	ZUWUN		A	
+40	Kashmiri	LASUN		K	
+65	Sinhalese	WENAWA		L	
+65	Sinhalese	JIVAT		A	
+34	Romani Greece	dživel		A	
+100	Old Church Slavonic	жити	ʒiti	A	
+95	Serbo-Croatian	živjeti	ʒǐːvjɛti	A	
+15	Bulgarian	живея	ʒiˈvɛjə	A	
+92	Macedonian	живее	ˈʒivɛ.ɛ	A	
+60	Russian	жить	ʐɨtʲ	A	
+55	Polish	żyć	ʐɘ̟tɕ	A	
+55	Polish	mieszkać	ˈmjɛʂkatɕ	(M)	
+16	Belarusian	жыць	ʐɨtsʲ	A	
+73	Ukrainian	мешкати	ˈmɛʂkatɪ	(M)	
+73	Ukrainian	жити	ˈʐɪtɪ	A	
+66	Slovak	bývať	ˈbiːvac	(N)	
+66	Slovak	žiť	ʒic	A	
+18	Czech	bydlet	ˈbɪdlɛt	(N)	
+18	Czech	žít	ˈʒiːt	A	
+48	Sorbian Upper	bydlić	ˈbɘ̟dlitʃ	(N)	
+48	Sorbian Upper	žiwy być	ˈʒiwɘ̟ bytʃ	A	
+47	Sorbian Lower	žywy byś	ˈʐɘ̟wɘ̟ bɘ̟ɕ	A	
+47	Sorbian Lower	labowaś	ˈlʲabowaɕ	(B)	
+47	Sorbian Lower	bydliś	ˈbɘ̟dliɕ	(N)	
+97	Slovenian	živeti	ʒiˈvěːti	A	
+108	Old Prussian	giwa		A	
+44	Latvian	dzîvõ		A	
+46	Lithuanian	gyventi	ɡiˈʋæntɪ	A	
+109	Old Norse	lifa	ˈlifa	(B)	
+109	Old Norse	búa	buːa	(I)	
+36	Icelandic	lifa	ˈlɪːva	(B)	
+36	Icelandic	búa	ˈb̥uːa	I	
+23	Faroese	liva	ˈliːva	(B)	
+23	Faroese	búgva	ˈb̥ɪɡ̊va	I	
+58	Norwegian Riksmal	leve	ˈlèːʋə	(B)	
+58	Norwegian Riksmal	bu	bʉː	I	
+159	Stavangersk	bu	bʉː	I	
+159	Stavangersk	leva	ˈlèːʋa	(B)	
+157	Old Swedish	boa	ˈboːa	I	
+157	Old Swedish	liva	ˈliːva	(B)	
+69	Swedish	leva	ˈlè:va	(B)	
+69	Swedish	bo	buː	I	
+71	Swedish Vilhelmina	LEVA		B	
+70	Swedish Uppland	LEVA		B	
+145	Elfdalian	byddja	bỳd͡ʒːɑ	I	
+145	Elfdalian	livå	lɪ̀vɔ	(B)	
+20	Danish	leve	ˈle:və	(B)	
+20	Danish	bo	boˀ	I	
+158	Danish Fjolde	leev	leːw	(B)	
+158	Danish Fjolde	buo	buo	I	
+160	Old Gutnish	liva		(B)	
+160	Old Gutnish	boa		I	
+160	Old Gutnish	byggia		I	
+161	Gutnish Lau	livä	ˈlɪːvɛ	(B)	
+161	Gutnish Lau	båu	bou	I	
+99	Old English	liofaþ		B	
+22	English	to live	lɪv	B	
+26	Frisian	LEVE		B	
+21	Dutch	wonen	ˈwonə	J	
+21	Dutch	leven	levə(n)	(B)	
+24	Flemish	LEVEN		B	
+83	Afrikaans	LEEF, LEWE		B	
+87	Sranan	LIEBI		B	
+126	Old High German	lebēt		B	
+27	German	leben	'le:bn̩	B	
+86	Pennsylvania Dutch	LAYB		B	
+120	Luxembourgish	liewen		B	
+121	German Switzerland	läbe		B	
+107	Gothic	vizon		E	
+107	Gothic	libaiþ		B	
+112	Latin	uīuere	ˈwiːwere	A	
+17	Catalan	estar	əs'ta	G	
+17	Catalan	viure	ˈbiwɾə, ˈviwɾə; ˈbiwɾe, ˈviwɾe	A	
+17	Catalan	VIVRER		A	
+56	Portuguese	viver	viˈveɾ	A	
+68	Spanish	vivir	bi'βiɾ	A	
+61	Sardinian Cagliari	BIVI		A	
+62	Sardinian Logudoro	VIVERE		A	
+63	Sardinian Nuoro	KAMPARE			
+85	French Creole Dominica	VIV		A	
+76	Walloon	VIKER		A	
+25	French	vivre	vivʀ	A	
+57	Provencal	VIEURE		A	
+42	Ladin	VIVER		A	
+146	Dolomite Ladino	vive		A	
+123	Romansh	viver		A	
+122	Friulian	vivi		A	
+39	Italian	vivere	'vivere	A	
+59	Romanian	a trăi	a trəj		
+127	Old Irish	trebaid	tʹrʹeβəðʹ		
+127	Old Irish	is béo	is bʹe:o	A	
+101	Middle Cornish	bewa	'bɛwa	A	
+172	Middle Breton	beuaff, befaff	ˈbeːvaṽ	A	
+12	Breton	bevañ	ˈbeːwã	A	
+79	Welsh	byw		A	
+38	Irish	cónaigh			
+38	Irish	beo (nn.)		A	
+115	Scottish Gaelic	bi beò		A	
+5	[Legacy] Albanian T	ME RROJTUR		C	
+29	[Legacy] Greek K	DZO		A	
+28	[Legacy] Greek D	DZO		A	
+30	[Legacy] Greek Md	DZO		A	
+64	[Legacy] Serbocroatian	ZIVITI		A	
+113	[Legacy] Serbian	živeti	ʒǐːʋeti	A	
+89	[Legacy] Bulgarian P	ZIVEJA		A	
+49	[Legacy] Macedonian	ZIVEE		A	
+94	[Legacy] Russian P	ZYT		A	
+93	[Legacy] Polish P	ZYC		A	
+90	[Legacy] Byelorussian P	ZYC		A	
+98	[Legacy] Ukrainian P	ZYTY		A	
+19	[Legacy] Czech E	ZIT		A	
+96	[Legacy] Slovak P	ZIT		A	
+91	[Legacy] Czech P	ZITI		A	
+67	[Legacy] Slovenian	ZIVI		A	
+45	[Legacy] Lithuanian O	GYVENTI		A	
+11	[Legacy] Brazilian	VIVER		A	
+142	[Legacy] German Munich	wohnen			
+84	[Legacy] French Creole C	VIV		A	
+14	[Legacy] Breton St	bevañ	ˈbevɑ̃	A	
+13	[Legacy] Breton Se	BIUEIN		A	
+78	[Legacy] Welsh C	BYW		A	
+37	[Legacy] Irish A	MAIREACHTAINT			

@@ -1,0 +1,180 @@
+114	Proto-Indo-European	*tep-		D	
+114	Proto-Indo-European	*gʷʰer-		B	
+80	Hittite	ānz			
+81	Tocharian A	sāt			
+82	Tocharian B	emalle			
+88	Albanian	ngrohtë		B	
+143	Standard Albanian	i,e ngrohtë		B	
+2	Albanian Sicily	ngrohtë		B	
+4	Albanian Corinth	ngrohtë		B	
+3	Albanian Gheg	ngrohtë		B	
+6	Albanian Tosk	ngrohtë		B	
+110	Ancient Greek	θερμός	tʰermós	B	
+152	Tsakonian	σομο		B	
+32	Greek	ζεστός	ze̞ˈsto̞s	F	
+32	Greek	θερμός		(B)	
+31	Greek Lesbos	DZESTOS		F	
+129	Classical Armenian	ջերմ	d͡ʒɛɾm	B	
+8	Armenian Eastern	ŠOG			
+8	Armenian Eastern	տաք	tɑkʰ	I	
+8	Armenian Eastern	TOT`		(A)	
+8	Armenian Eastern	ջերմ	d͡ʒɛɾm	(B)	
+7	Armenian Western	տաք	dɑkʰ	I	
+128	Avestan	garəmō		B	
+128	Avestan	taptō		D	
+75	Wakhi	SONDER			
+75	Wakhi	THIN		B	
+75	Wakhi	GERM		B	
+9	Baluchi	GARM		B	
+118	Kurdish	germ		B	
+137	Zazaki	germ		B	
+72	Tajik	GARM		B	
+54	Persian	GARM		B	
+77	Waziri	TOD		A	
+1	Pashto	TOD		A	
+138	Shughni	gārm		B	
+139	Sarikoli	θыm			
+52	Ossetic	x'arm	qarm	B	
+124	Ossetic Iron	qarm	qarm	B	
+125	Ossetic Digor	ʁar	ʁar	B	
+154	Vasi-vari	tábe		D	
+153	Askunu	tapö		D	
+105	Vedic Sanskrit	uṣṇás		M	
+162	Pāḷī	samparitāpeti		D	
+41	Khaskura	TATO		G	
+41	Khaskura	MANTATO		G	
+51	Nepali	NIYANU			
+106	Assamese	gɒrɒm	gɒrɒm	(B)	
+102	Oriya	gɔrɔmɔ	gɔrɔmɔ	(B)	
+10	Bengali	gorom	ɡɔɾɔm, ɡɔɽɔm	(B)	
+111	Bihari	tapəb	tapəb	D	
+111	Bihari	gərm	gərm	(B)	
+144	Magahi	गरम	ɡərəm	(B)	
+104	Marwari	nivāñca			
+35	Hindi	GEREM		(B)	
+119	Urdu	گرم	ɡəɾm	(B)	
+103	Sindhi	koso			
+43	Lahnda	GERMI		(B)	
+53	Punjabi	GEREM		(B)	
+33	Gujarati	GEREM		(B)	
+50	Marathi	garam	'gəɾəm	(B)	
+50	Marathi	un			
+40	Kashmiri	WUSHUNU			
+65	Sinhalese	RASNE			
+34	Romani Greece	TATO		G	
+100	Old Church Slavonic	топлъ	tɔplʊ̆	D	
+95	Serbo-Croatian	topao	ˈtɔ̂pa.ɔ	D	
+15	Bulgarian	топъл	ˈtɔpəɫ	D	
+92	Macedonian	топол	ˈtopɔl	D	
+60	Russian	тёплый	'tʲɔpɫɨj	D	
+55	Polish	ciepły	ˈtɕɛpwɘ̟	D	
+16	Belarusian	цёплы	ˈtsʲɔpɫɨ	D	
+73	Ukrainian	теплий	ˈtɛpɫɪj	D	
+66	Slovak	teplý	ˈcɛpliː	D	
+18	Czech	teplý	ˈtɛpliː	D	
+48	Sorbian Upper	ćopły	ˈtʃɔpwɘ̟	D	
+47	Sorbian Lower	śopły	ˈɕɔpwɘ̟	D	
+97	Slovenian	topel	ˈtɔ̌ːpəw, ˈtǒːpəw	D	
+108	Old Prussian	tapīs		D	
+108	Old Prussian	ēnāistweī			
+44	Latvian	sìlts		E	
+46	Lithuanian	šiltas	ˈʃʲɪltɐs	E	
+109	Old Norse	heitr	hɛitr	H	
+109	Old Norse	varmr	varmr	B	
+109	Old Norse	hlýr	ɣlyːr	E	
+36	Icelandic	varmur	ˈvarmʏr	B	
+36	Icelandic	hlýr	l̥iːr	E	
+36	Icelandic	heitur	ˈheiːtʰʏr	H	
+23	Faroese	lýggjur	ˈlɪd̥ʒːʊɹ	E	
+23	Faroese	heitur	ˈhaiːtʰʊɹ	H	
+23	Faroese	flógvur	ˈflɛɡ̊vʊɹ	L	
+58	Norwegian Riksmal	varm	ʋaɾm	B	
+58	Norwegian Riksmal	ly		E	
+159	Stavangersk	varme	ˈʋaʁmə	B	
+157	Old Swedish	varmber	ˈvarmber	B	
+157	Old Swedish	heter	ˈheːter	H	
+69	Swedish	varm	varm	B	
+71	Swedish Vilhelmina	VARM		B	
+70	Swedish Uppland	VARM		B	
+145	Elfdalian	warm	wɑrm	B	
+20	Danish	varm	vɑˀm	B	
+158	Danish Fjolde	varm	vɑɹm	B	
+160	Old Gutnish	varmbr		B	
+161	Gutnish Lau	varmar	ˈvarmar	B	
+99	Old English	wearm		B	
+22	English	warm	wɔ:m	B	
+26	Frisian	waarm	vaːrm	B	
+21	Dutch	warm	wɑrm	B	
+24	Flemish	WARM		B	
+83	Afrikaans	WARM		B	
+87	Sranan	WARAM		B	
+126	Old High German	warm		B	
+27	German	warm	varm	B	
+86	Pennsylvania Dutch	WAAREM		B	
+120	Luxembourgish	waarm		B	
+121	German Switzerland	warm		B	
+107	Gothic	*warms		B	
+112	Latin	calidus	ˈkalidus	(E)	
+112	Latin	tepidus	ˈtepidus	D	
+17	Catalan	calent	kə'len	E	
+56	Portuguese	quente	kẽˈtɨ	C	
+68	Spanish	cálido	'kaliðo	E	
+61	Sardinian Cagliari	KALLENTI		E	
+62	Sardinian Logudoro	CALDU		E	
+63	Sardinian Nuoro	KAENTE		E	
+85	French Creole Dominica	SO		E	
+76	Walloon	TCHOD		E	
+25	French	chaud	ʃo	E	
+57	Provencal	CAUD, AUDO		E	
+42	Ladin	CHOD		E	
+146	Dolomite Ladino	ciaut		E	
+123	Romansh	tievi		D	
+123	Romansh	cauld		E	
+122	Friulian	tivit		D	
+122	Friulian	cjalt		E	
+39	Italian	caldo	'kaldo	E	
+59	Romanian	cald		E	
+74	Vlach	KELDURE		E	
+140	Gaulish	tess(i)-/teđđ(I)-		D	
+127	Old Irish	teë, té, te	teʔe, té, te	D	
+149	Old Cornish	toim		D	
+101	Middle Cornish	gwresak		(K)	
+101	Middle Cornish	claiar		(E)	
+101	Middle Cornish	tomm	tɤm:	D	
+148	Old Breton	toem		D	
+172	Middle Breton	toem, tomm, tom	ˈtoem, ˈtomː		
+12	Breton	tomm		D	
+79	Welsh	gwresog		(K)	
+79	Welsh	cynnes		(D)	
+79	Welsh	TEG		(D)	
+79	Welsh	twym		D	
+38	Irish	te/té		D	
+115	Scottish Gaelic	blàth		J	
+147	Manx	çheh		D	
+147	Manx	blah-		(J)	
+5	[Legacy] Albanian T	ngrohtë		B	
+29	[Legacy] Greek K	THERMOS		B	
+28	[Legacy] Greek D	DZESTOS		F	
+30	[Legacy] Greek Md	DZESTOS		F	
+64	[Legacy] Serbocroatian	TOPLO		D	
+113	[Legacy] Serbian	topao	tôpao	D	
+89	[Legacy] Bulgarian P	TOPUL		D	
+49	[Legacy] Macedonian	GREE		B	
+49	[Legacy] Macedonian	TOPLI, TOPUL		D	
+94	[Legacy] Russian P	T OPLYJ		D	
+93	[Legacy] Polish P	CIEPLY		D	
+90	[Legacy] Byelorussian P	C OPLY		D	
+98	[Legacy] Ukrainian P	TEPLYJ		D	
+19	[Legacy] Czech E	TEPLE		D	
+96	[Legacy] Slovak P	TEPLY		D	
+91	[Legacy] Czech P	TEPLY		D	
+67	[Legacy] Slovenian	GORKO		B	
+45	[Legacy] Lithuanian O	SILTAS		E	
+11	[Legacy] Brazilian	QUENTE		C	
+142	[Legacy] German Munich	warm		B	
+84	[Legacy] French Creole C	SO		E	
+14	[Legacy] Breton St	tomm	tɔm	D	
+14	[Legacy] Breton St	gwrezek		K	
+13	[Legacy] Breton Se	TUEM		D	
+78	[Legacy] Welsh C	TWYM		D	
+37	[Legacy] Irish A	BROTHALLACH			

@@ -1,0 +1,140 @@
+Common Subsequences Only
+Fold On Meanings - Train on some meanings and test on remaining
+
+JJ Tag Data Only
+
+---------------------------------
+FOLD  1 
+
+Training on fold  1
+Training set size :  75477
+Positive Labels :  12332 
+
+Confusion Matrix : 
+[[ 4749  7583]
+ [  663 62482]]
+Accuracy  :  89.0748174941 %
+Precision :  87.7494456763 %
+Recall    :  38.509568602 %
+F-Score   :  0.535279531109
+
+Testing on fold  1
+Testing set size :  18849
+Positive Labels :  3018 
+
+Confusion Matrix : 
+[[ 1091  1927]
+ [  205 15626]]
+Accuracy  :  88.6890551223 %
+Precision :  84.1820987654 %
+Recall    :  36.1497680583 %
+F-Score   :  0.505795085767
+---------------------------------
+---------------------------------
+FOLD  2 
+
+Training on fold  2
+Training set size :  75477
+Positive Labels :  12299 
+
+Confusion Matrix : 
+[[ 4695  7604]
+ [  676 62502]]
+Accuracy  :  89.0297706586 %
+Precision :  87.4138894061 %
+Recall    :  38.1738352712 %
+F-Score   :  0.531409168081
+
+Testing on fold  2
+Testing set size :  18849
+Positive Labels :  3051 
+
+Confusion Matrix : 
+[[ 1157  1894]
+ [  219 15579]]
+Accuracy  :  88.7898562258 %
+Precision :  84.0843023256 %
+Recall    :  37.9219927892 %
+F-Score   :  0.522701603795
+---------------------------------
+---------------------------------
+FOLD  3 
+
+Training on fold  3
+Training set size :  75477
+Positive Labels :  12323 
+
+Confusion Matrix : 
+[[ 4703  7620]
+ [  652 62502]]
+Accuracy  :  89.040369914 %
+Precision :  87.8244631186 %
+Recall    :  38.1644080175 %
+F-Score   :  0.532073764
+
+Testing on fold  3
+Testing set size :  18849
+Positive Labels :  3027 
+
+Confusion Matrix : 
+[[ 1131  1896]
+ [  181 15641]]
+Accuracy  :  88.9808477903 %
+Precision :  86.2042682927 %
+Recall    :  37.3637264618 %
+F-Score   :  0.5213182761
+---------------------------------
+---------------------------------
+FOLD  4 
+
+Training on fold  4
+Training set size :  75477
+Positive Labels :  12253 
+
+Confusion Matrix : 
+[[ 4646  7607]
+ [  688 62536]]
+Accuracy  :  89.0098970547 %
+Precision :  87.1016122985 %
+Recall    :  37.9172447564 %
+F-Score   :  0.528344800136
+
+Testing on fold  4
+Testing set size :  18849
+Positive Labels :  3097 
+
+Confusion Matrix : 
+[[ 1163  1934]
+ [  175 15577]]
+Accuracy  :  88.8110775107 %
+Precision :  86.9207772795 %
+Recall    :  37.5524701324 %
+F-Score   :  0.524464487035
+---------------------------------
+---------------------------------
+FOLD  5 
+
+Training on fold  5
+Training set size :  75477
+Positive Labels :  12206 
+
+Confusion Matrix : 
+[[ 4679  7527]
+ [  662 62609]]
+Accuracy  :  89.1503371888 %
+Precision :  87.6053173563 %
+Recall    :  38.3336064231 %
+F-Score   :  0.533310537414
+
+Testing on fold  5
+Testing set size :  18849
+Positive Labels :  3144 
+
+Confusion Matrix : 
+[[ 1114  2030]
+ [  192 15513]]
+Accuracy  :  88.2115762109 %
+Precision :  85.2986217458 %
+Recall    :  35.4325699746 %
+F-Score   :  0.500674157303
+---------------------------------

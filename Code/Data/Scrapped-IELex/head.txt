@@ -1,0 +1,173 @@
+114	Proto-Indo-European	*gʰebʰelo-			
+114	Proto-Indo-European	*kapu-ko-, *kaput-o		B	
+80	Hittite	harsar			
+133	Luvian	harmahis			
+81	Tocharian A	lap			
+82	Tocharian B	āśce			
+88	Albanian	krye		C	
+143	Standard Albanian	kokë		(N)	
+2	Albanian Sicily	krye		C	
+4	Albanian Corinth	krye		C	
+3	Albanian Gheg	krye		C	
+6	Albanian Tosk	kokë		(N)	
+173	Mycenaean Greek	ka-ra-a-pi	k(a)ra(ː)(h)a(p)pʰi		
+110	Ancient Greek	κεφαλή	kepʰalɛː	G	
+152	Tsakonian	τζουφα, τζουφαλα		G	
+32	Greek	κεφάλι	ce̞ˈfali	G	
+31	Greek Lesbos	KEFALI		G	
+129	Classical Armenian	գլուխ	glowx	F	
+8	Armenian Eastern	glux	gəˈluχ	F	
+7	Armenian Western	GALOKH		F	
+128	Avestan	sarō		A	
+136	Sogdian	sr		A	
+75	Wakhi	SER		A	
+9	Baluchi	SAGHAR		A	
+118	Kurdish	sar		A	
+137	Zazaki	sere		A	
+72	Tajik	KALLA		M	
+72	Tajik	sar	sær	A	
+54	Persian	sar	sær	A	
+77	Waziri	SAR		A	
+1	Pashto	SAR		A	
+138	Shughni	kāl, kīl		(M)	
+139	Sarikoli	kol		(M)	
+52	Ossetic	saer	sær	A	
+124	Ossetic Iron	šɐr	šɐr	A	
+125	Ossetic Digor	sɐr	sɐr	A	
+141	Kata-viri	ṣ̌e		A	
+154	Vasi-vari	ǰī			
+153	Askunu	sā		A	
+105	Vedic Sanskrit	śíras		A	
+162	Pāḷī	sira		A	
+41	Khaskura	TAUKO		J	
+41	Khaskura	MUNTO		L	
+51	Nepali	MATH		K	
+51	Nepali	TAUKO		J	
+51	Nepali	maṇṭo		L	
+51	Nepali	SIR		A	
+106	Assamese	mur	mur		
+106	Assamese	tik			
+102	Oriya	muṇḍɔ	muɳɖɔ	L	
+10	Bengali	matha	mat̪ʰa	K	
+111	Bihari	math	math	K	
+144	Magahi	कपार	kəpɑr		
+144	Magahi	माथा	mɑt̪ʰɑ		
+104	Marwari	bhoɖ	bhoɖ		
+104	Marwari	māthō		K	
+104	Marwari	sɪr	sɪr	A	
+35	Hindi	SIR		A	
+119	Urdu	سَر	səɾ	A	
+103	Sindhi	mətho		K	
+103	Sindhi	munḍhi		L	
+43	Lahnda	SIR		A	
+53	Punjabi	SIR		A	
+33	Gujarati	MATHU		K	
+50	Marathi	doka	'ɖokə	H	
+40	Kashmiri	KALA			
+65	Sinhalese	OLUWA, HISA			
+34	Romani Greece	SORO		A	
+100	Old Church Slavonic	глава	ɡlɑvɑ	F	
+95	Serbo-Croatian	ɡlava	ˈɡlǎːva	F	
+15	Bulgarian	глава	ɡɫəˈva	F	
+92	Macedonian	глава	ˈɡlava	F	
+60	Russian	голова	gɔɫɔ'va	F	
+55	Polish	głowa	ˈɡwɔva	F	
+16	Belarusian	галава	ɣaɫaˈva	F	
+73	Ukrainian	голова	ɦɔɫɔˈʋa	F	
+66	Slovak	hlava	ˈɦlava	F	
+18	Czech	hlava	ˈɦlava	F	
+48	Sorbian Upper	hłowa	ˈwo.a	F	
+47	Sorbian Lower	głowa	ˈɡwowa	F	
+97	Slovenian	glava	ˈɡlǎːva	F	
+108	Old Prussian	gallū		F	
+44	Latvian	gal ̂va		F	
+46	Lithuanian	GALVA		F	
+109	Old Norse	ho̜fuð	ˈhɔvuð	B	
+36	Icelandic	höfuð	ˈhœːfʏð	B	
+23	Faroese	høvur	ˈhøːvʊɹ	B	
+23	Faroese	høvd	hœd̥ː	B	
+58	Norwegian Riksmal	hode	ˈhùːdə	B	
+159	Stavangersk	håve	ˈhòːʋə	B	
+157	Old Swedish	hovudh	ˈhoːvuð	B	
+69	Swedish	huvud	ˈhʉ̀:vɵd, ˈhʉ̀ːvə	B	
+71	Swedish Vilhelmina	HUVA		B	
+70	Swedish Uppland	HUVUD		B	
+145	Elfdalian	skolle	ˈskòlːɛ	P	
+145	Elfdalian	ovuð	ˈòvʉð	B	
+20	Danish	hoved	ho:əð	B	
+158	Danish Fjolde	håver	ˈhɔwəɹ	B	
+160	Old Gutnish	hafuþ		B	
+161	Gutnish Lau	skallä	ˈskalːɛ	P	
+161	Gutnish Lau	haudä	ˈhaudɛ	B	
+99	Old English	hēafod		B	
+22	English	head	hɛd	B	
+26	Frisian	HAED		B	
+26	Frisian	kop	kɔp	B	
+21	Dutch	hoofd	hoft	B	
+24	Flemish	HOOFD		B	
+83	Afrikaans	HOOF		B	
+87	Sranan	HEDE		B	
+126	Old High German	houbit		B	
+27	German	Kopf	kɔp͜f	(O)	
+86	Pennsylvania Dutch	KUP		(O)	
+120	Luxembourgish	Kapp		B	
+121	German Switzerland	chopf		(O)	
+107	Gothic	haubiþ		B	
+112	Latin	caput	ˈkaput	B	
+17	Catalan	cap	kap	B	
+56	Portuguese	cabeça	kɐˈβesɐ	B	
+68	Spanish	cabeza	ka'βeθa	B	
+61	Sardinian Cagliari	KONKA		I	
+62	Sardinian Logudoro	TESTA		D	
+63	Sardinian Nuoro	KONKA		I	
+85	French Creole Dominica	TET		D	
+76	Walloon	TIESSE		D	
+25	French	tête	tɛt	D	
+57	Provencal	TESTO		D	
+57	Provencal	cap	kap	B	
+42	Ladin	TESTA		D	
+146	Dolomite Ladino	cef		B	
+146	Dolomite Ladino	testa		D	
+123	Romansh	testa		D	
+123	Romansh	tgau		B	
+123	Romansh	creppa			
+122	Friulian	teste		(D)	
+122	Friulian	cjâf		B	
+39	Italian	testa	'tɛsta	D	
+59	Romanian	cap	kap	B	
+74	Vlach	KAPU		B	
+140	Gaulish	barro-			
+140	Gaulish	penno-		E	
+127	Old Irish	cenn	kʹenn	E	
+101	Middle Cornish	pedn	pɛdn	E	
+172	Middle Breton	penn, pen	ˈpenː	E	
+12	Breton	penn	ˈpɛnː	E	
+79	Welsh	pen		E	
+38	Irish	ceann	caːn̪ˠ, can̪ˠ	E	
+115	Scottish Gaelic	ceann		E	
+147	Manx	kionne		E	
+5	[Legacy] Albanian T	kokë	kɔkə	(N)	
+5	[Legacy] Albanian T	krye		C	
+29	[Legacy] Greek K	KEFALE		G	
+28	[Legacy] Greek D	KEFALI		G	
+30	[Legacy] Greek Md	KEFALI		G	
+64	[Legacy] Serbocroatian	GLAVA		F	
+113	[Legacy] Serbian	glava		F	
+89	[Legacy] Bulgarian P	GLAVA		F	
+49	[Legacy] Macedonian	GLAVA		F	
+94	[Legacy] Russian P	GOLOVA		F	
+93	[Legacy] Polish P	GLOWA		F	
+90	[Legacy] Byelorussian P	HALAVA		F	
+98	[Legacy] Ukrainian P	HOLOVA		F	
+19	[Legacy] Czech E	HLAVA		F	
+96	[Legacy] Slovak P	HLAVA		F	
+91	[Legacy] Czech P	HLAVA		F	
+67	[Legacy] Slovenian	GLAVA		F	
+45	[Legacy] Lithuanian O	GALVA		F	
+11	[Legacy] Brazilian	cabeça	kaˈbesɐ	B	
+142	[Legacy] German Munich	Kopf		(O)	
+84	[Legacy] French Creole C	TET		D	
+14	[Legacy] Breton St	penn	pɛ̃n	E	
+13	[Legacy] Breton Se	PENN		E	
+78	[Legacy] Welsh C	PEN		E	
+37	[Legacy] Irish A	CEANN		E	

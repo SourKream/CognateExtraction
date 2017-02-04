@@ -1,0 +1,169 @@
+114	Proto-Indo-European	*kalda-		B	
+80	Hittite	ekunanz		F	
+81	Tocharian A	kuraś		H	
+82	Tocharian B	krośce		H	
+88	Albanian	FTOFT, FTOFET		C	
+143	Standard Albanian	i ftohtë		C	
+2	Albanian Sicily	TITIM			
+4	Albanian Corinth	FTOXETE		C	
+3	Albanian Gheg	FTOFT		C	
+6	Albanian Tosk	ftohët		C	
+110	Ancient Greek	κρυερός	kryerós	(H)	
+110	Ancient Greek	ψῡχρός	psyːkʰrós	K	
+152	Tsakonian	ψουχρε		K	
+32	Greek	κρύος	ˈkriˌo̞s	H	
+32	Greek	ψυχρός	psi'xros	(K)	
+31	Greek Lesbos	KRUO		H	
+129	Classical Armenian	ցուրտ	tsʰuɾt	A	
+8	Armenian Eastern	սառը	sɑṙə		
+8	Armenian Eastern	ցուրտ	tsʰuɾt	A	
+7	Armenian Western	BAKH			
+7	Armenian Western	ցուրտ	tsʰuɾd		
+128	Avestan	sarətō		A	
+128	Avestan	aotō		N	
+136	Sogdian	srt		A	
+174	Khotanese	sāḍa-		A	
+75	Wakhi	SUR, SOZ		A	
+9	Baluchi	SARTH		A	
+9	Baluchi	GWAHAR		O	
+118	Kurdish	sar		A	
+137	Zazaki	serd		A	
+72	Tajik	SARD		A	
+72	Tajik	XUNUK		P	
+54	Persian	SARD		A	
+77	Waziri	SOR		A	
+1	Pashto	SOR		A	
+138	Shughni	sard		A	
+139	Sarikoli	šitu		Q	
+139	Sarikoli	iš		Q	
+52	Ossetic	uazal	wazal	A	
+124	Ossetic Iron	wažal	wažal	A	
+125	Ossetic Digor	wazal	wazal	A	
+141	Kata-viri	yuz		R	
+154	Vasi-vari	yüzu		R	
+154	Vasi-vari	šülyu		A	
+153	Askunu	açage		Y	
+105	Vedic Sanskrit	śītás		A	
+162	Pāḷī	sīta		A	
+41	Khaskura	JARO		T	
+41	Khaskura	CHISO		W	
+51	Nepali	THANDA		D	
+106	Assamese	xit	xit	A	
+102	Oriya	thɔṇḍa	thɔɳɖa	D	
+10	Bengali	THANDA		D	
+111	Bihari	ʈhəndha	ʈhəndha	D	
+144	Magahi	कनकन	kənkən	U	
+144	Magahi	ठंढा	tʰəndʰɑ	D	
+104	Marwari	silo	silo	A	
+35	Hindi	THENDA		D	
+119	Urdu	سرد، ٹھنڈا	səɾd̪, ʈʰə̃ɖɑ	D	
+103	Sindhi	thadhe-kāra		D	
+43	Lahnda	THEND		D	
+53	Punjabi	THEND		D	
+33	Gujarati	THENDI		D	
+50	Marathi	thandī	'tʰaɳɖi:	D	
+40	Kashmiri	SHITAL		A	
+40	Kashmiri	TURU		V	
+65	Sinhalese	SI TALA		(A)	
+34	Romani Greece	SUDRO		S	
+100	Old Church Slavonic	стѹдєнъ	studɛnʊ̆	M	
+95	Serbo-Croatian	hladan	ˈhlǎːdan	G	
+15	Bulgarian	студен	stuˈdɛn	M	
+92	Macedonian	студен	ˈstudɛn	M	
+60	Russian	холодный	xɔ'ɫɔdnɨj	G	
+55	Polish	zimny	ˈʑimnɘ̟	L	
+16	Belarusian	халодны	xaˈɫɔdnɨ	G	
+73	Ukrainian	холодний	xɔˈɫɔdnɪj	G	
+66	Slovak	studený	ˈstuɟɛniː	M	
+18	Czech	studený	ˈstudɛniː	M	
+48	Sorbian Upper	zymny	ˈzɘ̟mnɘ̟	L	
+47	Sorbian Lower	zymny	ˈzɘ̟mnɘ̟	L	
+97	Slovenian	hladen	ˈhlǎːdɛn	G	
+108	Old Prussian	salta		A	
+44	Latvian	aũksts		I	
+44	Latvian	sal̂ts		A	
+46	Lithuanian	SALTAS		A	
+109	Old Norse	kaldr	kaldr	B	
+36	Icelandic	kaldur	ˈkʰald̥ʏr	B	
+23	Faroese	kaldur	ˈkʰald̥ʊɹ	B	
+58	Norwegian Riksmal	kald	kalː	B	
+159	Stavangersk	kalle	ˈkalːə	B	
+157	Old Swedish	kalder	ˈkalder	B	
+69	Swedish	kall	kalː	B	
+71	Swedish Vilhelmina	KAL		B	
+70	Swedish Uppland	KALL		B	
+145	Elfdalian	kold	kold	B	
+20	Danish	kold	g̥ʰʌlˀ	B	
+158	Danish Fjolde	koold	koːlʲ	B	
+160	Old Gutnish	caldr		B	
+161	Gutnish Lau	kaldar	ˈkaldar	B	
+99	Old English	ceald		B	
+22	English	cold	kəʊld	B	
+26	Frisian	kâld	kɔ:t	B	
+21	Dutch	koud	kɑut	B	
+24	Flemish	KOUD		B	
+83	Afrikaans	KOUD		B	
+87	Sranan	KOUROE		B	
+126	Old High German	calt		B	
+27	German	kalt	kalt	B	
+86	Pennsylvania Dutch	KELT		B	
+120	Luxembourgish	kal		B	
+121	German Switzerland	chaut		B	
+107	Gothic	kalds		B	
+112	Latin	frīgidus	ˈfriːgidus	E	
+17	Catalan	fred	fɾɛt, fret	E	
+56	Portuguese	frio	ˈfɾiu	E	
+68	Spanish	frío	'fɾio	E	
+61	Sardinian Cagliari	FRIRU		E	
+62	Sardinian Logudoro	FRITTU		E	
+63	Sardinian Nuoro	FRITTU		E	
+85	French Creole Dominica	FWET		E	
+76	Walloon	FREUD		E	
+25	French	froid	fʀwɑ	E	
+57	Provencal	FRE, EJO		E	
+42	Ladin	FRAID		E	
+146	Dolomite Ladino	fre(i)t		E	
+146	Dolomite Ladino	glacé		X	
+123	Romansh	freid		E	
+123	Romansh	schelau, dschlà		X	
+122	Friulian	glaçât		X	
+122	Friulian	frêt		E	
+39	Italian	freddo	'freddo	E	
+59	Romanian	rece	ˈreʧe		
+74	Vlach	ARKWARE			
+140	Gaulish	ougro-		I	
+127	Old Irish	úar	u:ər	I	
+149	Old Cornish	oir		I	
+101	Middle Cornish	yeyn	jɛɪn	F	
+172	Middle Breton	yen	ˈjeːn	F	
+12	Breton	yen	ˈjẽːn	F	
+79	Welsh	oer		I	
+38	Irish	fuar	fˠuəɾˠ	I	
+115	Scottish Gaelic	fuar	fuər	I	
+147	Manx	feayr		I	
+5	[Legacy] Albanian T	ftohët		C	
+29	[Legacy] Greek K	PSUCHROS		K	
+28	[Legacy] Greek D	KRUO		H	
+30	[Legacy] Greek Md	KRUOS		H	
+64	[Legacy] Serbocroatian	HLADNO		G	
+113	[Legacy] Serbian	studen		M	
+113	[Legacy] Serbian	hladno	xlǎːdno	G	
+89	[Legacy] Bulgarian P	STUDEN		M	
+49	[Legacy] Macedonian	STRUD		M	
+49	[Legacy] Macedonian	LADEN		G	
+94	[Legacy] Russian P	CHOLODNYJ		G	
+93	[Legacy] Polish P	CHLODNY		G	
+90	[Legacy] Byelorussian P	CHALODNY		G	
+98	[Legacy] Ukrainian P	CHOLODNYJ		G	
+19	[Legacy] Czech E	ZIMA		L	
+96	[Legacy] Slovak P	CHLADNY		G	
+91	[Legacy] Czech P	CHLADNY		G	
+67	[Legacy] Slovenian	MRAZ (MRZLO UREME)			
+45	[Legacy] Lithuanian O	SALTAS		A	
+11	[Legacy] Brazilian	FRIO		E	
+142	[Legacy] German Munich	kalt		B	
+84	[Legacy] French Creole C	FWET		E	
+14	[Legacy] Breton St	yen	jẽ:n	F	
+13	[Legacy] Breton Se	IEIN		F	
+78	[Legacy] Welsh C	OER		I	
+37	[Legacy] Irish A	FUAR		I	

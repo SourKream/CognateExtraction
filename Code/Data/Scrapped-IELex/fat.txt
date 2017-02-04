@@ -1,0 +1,188 @@
+114	Proto-Indo-European	*smer-u-		U	
+80	Hittite	sakan			
+81	Tocharian A	ṣälyp		O	
+82	Tocharian B	ṣalype		O	
+88	Albanian	yndyr		(P)	
+143	Standard Albanian	dhjamë		C	
+4	Albanian Corinth	LHIPOS		(J)	
+3	Albanian Gheg	dhjamë		C	
+3	Albanian Gheg	yndyr		(P)	
+6	Albanian Tosk	dhjamë		C	
+110	Ancient Greek	δημός	dɛːmós	(C)	
+110	Ancient Greek	λίπος	lípos	J	
+152	Tsakonian	ξυντζι		Ai	
+152	Tsakonian	παχι		Ah	
+32	Greek	λίπος	ˈlipo̞s	J	
+32	Greek	πάχος	ˈpaxo̞s	(Ah)	
+32	Greek	ξίγκι	ˈksiŋɟi	(Ai)	
+31	Greek Lesbos	LIPOS		J	
+129	Classical Armenian	ճարպ		(Z)	
+8	Armenian Eastern	ճարպ	ʧɑɾp	(Z)	
+7	Armenian Western	գէր	kʰɛr	A	
+128	Avestan	pīuuō		X	
+128	Avestan	āzūitiš		Ak	
+136	Sogdian	rwγn		Y	
+136	Sogdian	crp		D	
+9	Baluchi	PHIGH		Aa	
+118	Kurdish	qelew		Ab	
+137	Zazaki	ruwen		Y	
+72	Tajik	RAVWAN		Y	
+54	Persian	charbi	tʃærbiː	D	
+77	Waziri	WOZDA		Ac	
+1	Pashto	GVARI		A	
+138	Shughni	čarvi		D	
+138	Shughni	zōγ		Ad	
+139	Sarikoli	čorv		D	
+139	Sarikoli	rɛwn		Y	
+52	Ossetic	soj	soj	W	
+124	Ossetic Iron	šoj	šoj	W	
+125	Ossetic Digor	sojnɐ	sojnɐ	W	
+141	Kata-viri	skə		Ae	
+154	Vasi-vari	iskī, üskü		Ae	
+153	Askunu	šikă		Ae	
+105	Vedic Sanskrit	mḗdas		(R)	
+105	Vedic Sanskrit	pī́vas		X	
+162	Pāḷī	meda		R	
+41	Khaskura	BOSO		M	
+51	Nepali	BOSO		M	
+106	Assamese	tɛl	tɛl	S	
+102	Oriya	moṭa	moʈa	(Q)	
+102	Oriya	čɔrbi	čɔrbi	(D)	
+10	Bengali	mota	ˈmoʈa	(Q)	
+10	Bengali	CORBI		(D)	
+111	Bihari	tel	tel	S	
+111	Bihari	moʈ	moʈ	(Q)	
+144	Magahi	चर्बी	cərbi	(D)	
+104	Marwari	pōdō			
+35	Hindi	CERBI		(D)	
+119	Urdu	چربی	ʧəɾbi	(D)	
+103	Sindhi	thulho		K	
+43	Lahnda	MOTA		(Q)	
+53	Punjabi	CERBI		(D)	
+33	Gujarati	CERBI		(D)	
+50	Marathi	tSarbī	tʃəɾ'bi	(D)	
+40	Kashmiri	CARBI		(D)	
+40	Kashmiri	BIKH		Af	
+65	Sinhalese	TELA		S	
+34	Romani Greece	KHO		Al	
+34	Romani Greece	THULO		(K)	
+100	Old Church Slavonic	тѹкъ	tukʊ̆	H	
+95	Serbo-Croatian	mast	mâːst	G	
+15	Bulgarian	мазнина	məzniˈna	G	
+92	Macedonian	маст	mast	G	
+60	Russian	жир	ʐɨr	N	
+55	Polish	tłuszcz	twuʂtʂ	Am	
+16	Belarusian	тлушч	tɫuʂtʂ	Am	
+73	Ukrainian	жир	ʐɪr	N	
+66	Slovak	tuk	tuk	H	
+18	Czech	tuk	tuk	H	
+48	Sorbian Upper	tuk	tuk	H	
+47	Sorbian Lower	tucne	ˈtutsnɛ	H	
+97	Slovenian	mast	mâːst	G	
+108	Old Prussian	mynsis		X	
+108	Old Prussian	takis		H	
+108	Old Prussian	instran		H	
+44	Latvian	tàuki		H	
+46	Lithuanian	TAUKAI		H	
+109	Old Norse	fita	ˈfita	B	
+109	Old Norse	smjo̜r, smør	smjɔr, smør	(U)	
+36	Icelandic	fita	ˈfɪːtʰa	B	
+36	Icelandic	feiti	ˈfeiːtʰɪ	B	
+23	Faroese	fiti, feitt	fiːti, faiʰtː	B	
+58	Norwegian Riksmal	fett	fɛtː	B	
+157	Old Swedish	fitma	ˈfiːtma	B	
+69	Swedish	fett	fɛtː	B	
+71	Swedish Vilhelmina	FET		B	
+70	Swedish Uppland	FETT		B	
+145	Elfdalian	fieta	ˈfɪ̀ɛːtɑ	B	
+20	Danish	fedt	fɛd̥	B	
+158	Danish Fjolde	fæt	fæd	B	
+161	Gutnish Lau	fätt	fɛtː	B	
+99	Old English	smeoru		U	
+22	English	fat	fæt	B	
+26	Frisian	fet	fɛt	B	
+21	Dutch	vet	vɛt	B	
+24	Flemish	VET		B	
+83	Afrikaans	VET		B	
+87	Sranan	FATOE		B	
+126	Old High German	feizti		B	
+27	German	Fett	fɛt	B	
+86	Pennsylvania Dutch	FETT		B	
+120	Luxembourgish	Fett		B	
+121	German Switzerland	fett		B	
+107	Gothic	smairþr		U	
+132	Umbrian	ařepes			
+112	Latin	crassus	ˈkrasːus	(I)	
+112	Latin	adeps	ˈadeps		
+17	Catalan	gras	gras	I	
+17	Catalan	greix	greʃ	I	
+56	Portuguese	gordura	ɡuɾˈðuɾɐ	E	
+68	Spanish	grasa	'ɡɾasa	I	
+61	Sardinian Cagliari	GRASSU		I	
+62	Sardinian Logudoro	RASSU		I	
+63	Sardinian Nuoro	GRASSU		I	
+85	French Creole Dominica	GWES		I	
+76	Walloon	CRAHE		I	
+25	French	graisse	gʀɛs	I	
+57	Provencal	GRAISSO		I	
+42	Ladin	SUNDSCHA			
+146	Dolomite Ladino	gros		I	
+123	Romansh	grass		I	
+122	Friulian	gras		I	
+39	Italian	grasso	'grasso	I	
+59	Romanian	grăsime		I	
+74	Vlach	SEU			
+74	Vlach	GRASEAME		I	
+140	Gaulish	galba			
+127	Old Irish	geir	gʹerʹ	Ag	
+127	Old Irish	blonac	blonəg	T	
+127	Old Irish	íth	i:θʹ		
+149	Old Cornish	blonec		T	
+101	Middle Cornish	soath			
+101	Middle Cornish	blonek	'blɔnɛk	T	
+101	Middle Cornish	seym			
+101	Middle Cornish	bor			
+101	Middle Cornish	berric			
+101	Middle Cornish	tew			
+101	Middle Cornish	ithik			
+172	Middle Breton	lart, lard	ˈlart	(Aj)	
+12	Breton	lard	ˈlart	Aj	
+150	Old Welsh	bloneg		T	
+79	Welsh	bloneg		T	
+79	Welsh	braster		L	
+38	Irish	méathras			
+38	Irish	geir		Ag	
+38	Irish	blonag		T	
+115	Scottish Gaelic	geir		Ag	
+115	Scottish Gaelic	saill			
+147	Manx	geirr		Ag	
+5	[Legacy] Albanian T	dhjamë		C	
+5	[Legacy] Albanian T	undyrë			
+29	[Legacy] Greek K	LIPOS		J	
+28	[Legacy] Greek D	LIPOS		J	
+28	[Legacy] Greek D	KSUGGI			
+30	[Legacy] Greek Md	LIPOS		J	
+64	[Legacy] Serbocroatian	MAST		G	
+113	[Legacy] Serbian	debljina			
+113	[Legacy] Serbian	salo	sâlo	V	
+113	[Legacy] Serbian	mast		G	
+89	[Legacy] Bulgarian P	MAZ		G	
+49	[Legacy] Macedonian	salo	ˈsalɔ	V	
+49	[Legacy] Macedonian	MAST/LOJ		G	
+94	[Legacy] Russian P	ZYR		N	
+93	[Legacy] Polish P	TLUSZCZ		H	
+90	[Legacy] Byelorussian P	TLUSC		H	
+98	[Legacy] Ukrainian P	ZYR		N	
+19	[Legacy] Czech E	TLUSTI		H	
+96	[Legacy] Slovak P	TUK		H	
+91	[Legacy] Czech P	TUK		H	
+67	[Legacy] Slovenian	MAST		G	
+45	[Legacy] Lithuanian O	TAUKAI		H	
+11	[Legacy] Brazilian	gordura	ɡoʁˈduɾɐ	E	
+142	[Legacy] German Munich	Fett		B	
+84	[Legacy] French Creole C	GHWES		I	
+14	[Legacy] Breton St	druzoni	dry'zɔ̃:ni	F	
+13	[Legacy] Breton Se	DRU, DRUONI		F	
+78	[Legacy] Welsh C	BRASTER		L	
+37	[Legacy] Irish A	GEIR		Ag	
+37	[Legacy] Irish A	BLONAG		T	

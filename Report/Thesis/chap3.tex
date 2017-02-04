@@ -1,0 +1,25 @@
+\chapter{Dataset}
+
+The input data to the models for the task of cognate identification include dictionaries, multilingual word lists, and bitexts. But the word lists that have been used in all the works so far have been relatively small. This is  because cognacy judgement is a laborious task and requires expert domain knowledge, therefore not many datasets exist.
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{cc|c|c|c|}
+\cline{3-5}
+                                                 &         & \multicolumn{3}{c|}{Concepts} \\ \cline{3-5} 
+                                                 &         & ALL      & AND    & ANIMAL    \\ \hline
+\multicolumn{1}{|c|}{\multirow{4}{*}{Languages}} & English & All      & And    & Animal    \\ \cline{2-5} 
+\multicolumn{1}{|c|}{}                           & French  & Tut      & Et     & Animal    \\ \cline{2-5} 
+\multicolumn{1}{|c|}{}                           & Marathi & Serve    & Ani    & Jenaver   \\ \cline{2-5} 
+\multicolumn{1}{|c|}{}                           & Hindi   & Sara     & Or     & Janver    \\ \hline
+\end{tabular}
+\caption{Sample Word List from the Indo-European Dataset}
+\end{table}
+
+Table 3.1 shows a small part of a word list which is the typical data used in this task. The rows in the table represent individual languages and the columns represent individual concepts or meanings. Each entry in the table contains a unique cognate class label which defines the groups of cognate words.
+
+The freely available\footnote{http://www.wordgumbo.com/ie/cmp/iedata.txt} Indo-European Dataset \cite{dyen1992indoeuropean} by Dyen et al., is the most commonly used dataset for cognate identification. It provides 16,520 lexical items for 200 concepts and 84 language varieties. It provides a unique CCN (Cognate Class Number) to each word. Since this dataset is a very old data, it is transcribed in a broad romanized phonetic alphabet represented by the 26 characters.
+
+The IELex Database\footnote{http://ielex.mpi.nl} is also an Indo-European lexical database which has been derive from the Dyen Dataset and other sources and is curated by Michael Dunn. It has over 34,000 lexical items from 163 languages of the Indo-European family and information of around 5,000 cognate sets. However, the transcription in IELex is not uniform. T. Rama in their work \cite{rama2016siamese} cleaned a subset of the IELex database of any non-IPA-like transcriptions and converted the data to IPA (International Phonetic Alphabet), which we have used in our work.
+
+We would also use the TDIL Hindi-Marathi sentence-aligned corpus\footnote{http://tdil.mit.gov.in} as the testing data for our final model. This dataset would provide a large part of the vocabulary from the both the languages to search for cognates. This dataset is a sentence aligned corpus and not word aligned. It is meant for the task of machine translation. It should be noted that cognate words are not simply translations of each other in the different languages, they are words which are known to have historically evolved from the same common word in an ancestral language. Hence, the sentence aligned corpus does not provide any gold label for the cognacy detection task, it only provides a rich source of testing data. To evaluate the performance of model on this corpus, we would sample a subset of our predictions and manually annotate them for cognate judgements.

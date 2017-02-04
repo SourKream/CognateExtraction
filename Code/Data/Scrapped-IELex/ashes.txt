@@ -1,0 +1,157 @@
+114	Proto-Indo-European	*h₂éh₁s-s, *h₂h₁s-ós		A	
+80	Hittite	hās, hāss-		A	
+81	Tocharian A	tor		O	
+82	Tocharian B	taur		O	
+88	Albanian	HINI		E	
+143	Standard Albanian	hiri		E	
+2	Albanian Sicily	XI-RI		E	
+4	Albanian Corinth	XII		E	
+3	Albanian Gheg	HINI		E	
+6	Albanian Tosk	HI		E	
+110	Ancient Greek	σπόδος	spódos	(B)	
+110	Ancient Greek	τέφρᾱ	tépʰraː	L	
+110	Ancient Greek	κόνις	kóniːs	(U)	
+152	Tsakonian	σποδó, σποîα		B	
+152	Tsakonian	σκóνι		U	
+32	Greek	τέφρα	ˈte̞fra	(L)	
+32	Greek	στάχτη	ˈstaxti	H	
+31	Greek Lesbos	STACHTE		H	
+129	Classical Armenian	մոխիր	mɔχiɾ	C	
+129	Classical Armenian	աճիւն	ačiwn	(A)	
+8	Armenian Eastern	մոխիր	moˈχiɾ	C	
+7	Armenian Western	մոխիր	mɔχiɾ	C	
+128	Avestan	ātriiəm		Q	
+136	Sogdian	’’š’kw		Q	
+174	Khotanese	āhärä		Q	
+75	Wakhi	PERG		D	
+9	Baluchi	PHUR		D	
+118	Kurdish	xwelî		R	
+137	Zazaki	wel		R	
+72	Tajik	XOKISTAR		J	
+54	Persian	KHAKESTAR		J	
+77	Waziri	TRA		Q	
+1	Pashto	IRA		Q	
+138	Shughni	θīr		Q	
+139	Sarikoli	θer		Q	
+52	Ossetic	FAENYK		P	
+124	Ossetic Iron	fɐnyk	fɐnyk	P	
+125	Ossetic Digor	funuk	funuk	P	
+141	Kata-viri	asɨ̃		A	
+154	Vasi-vari	ásə		A	
+153	Askunu	š/șutī		X	
+105	Vedic Sanskrit	bhasman-		N	
+105	Vedic Sanskrit	ā́sas		(A)	
+162	Pāḷī	bhasma(n)		N	
+41	Khaskura	KHARANI		(J)	
+51	Nepali	KHAG, CHARO		(J)	
+106	Assamese	sai	sai	M	
+102	Oriya	bhɔsmoɔ	bhɔsmoɔ	(N)	
+102	Oriya	pãũsɔ	pãũsɔ	W	
+10	Bengali	CHAI		M	
+111	Bihari	chaur	chaur	M	
+144	Magahi	बानी	bɑni	T	
+104	Marwari	rakh	rakh	I	
+104	Marwari	bhobhaḷdo		N	
+35	Hindi	rakh	rakʰ	I	
+119	Urdu	راکھ	ɾɑkʰ	I	
+43	Lahnda	SWA		K	
+53	Punjabi	SVA		K	
+33	Gujarati	RAKH		I	
+50	Marathi	rākh	ɾakʰ	I	
+50	Marathi	bhasma	'bʱəsmə	(N)	
+40	Kashmiri	SUR		K	
+65	Sinhalese	ALU		V	
+34	Romani Greece	PRAXORA		(S)	
+100	Old Church Slavonic	попєлъ, пєпєлъ	pɔpɛlʊ̆, pɛpɛlʊ̆	G	
+95	Serbo-Croatian	pepeo	ˈpɛ̂pɛ.ɔ	G	
+15	Bulgarian	пепел	ˈpɛpɘɫ	G	
+92	Macedonian	пепел	ˈpepɛl	G	
+60	Russian	зола	zɔˈɫa	Y	
+55	Polish	popiół	ˈpɔpjuw	G	
+16	Belarusian	попел	ˈpɔpʲɛɫ	G	
+73	Ukrainian	попіл	ˈpɔpiɫ	G	
+66	Slovak	popol	ˈpɔpɔl	G	
+18	Czech	popel	ˈpopɛl	G	
+48	Sorbian Upper	popjeł	ˈpɔpĕɛw	G	
+47	Sorbian Lower	popjeł	ˈpɔpĕɛw	G	
+97	Slovenian	pepel	pɛˈpěːw	G	
+108	Old Prussian	pelanne		G	
+44	Latvian	pelni		G	
+46	Lithuanian	PELENAI		G	
+109	Old Norse	aska	ˈaska	A	
+36	Icelandic	aska	ˈaska	A	
+23	Faroese	øska	ˈœska	A	
+58	Norwegian Riksmal	aske	ˈàskə	A	
+159	Stavangersk	åska	ˈɔ̀ska	A	
+157	Old Swedish	aska	ˈaska	A	
+69	Swedish	stoft	stɔft	(H)	
+69	Swedish	aska	ˈàska	A	
+71	Swedish Vilhelmina	ASKA		A	
+70	Swedish Uppland	ASKA		A	
+145	Elfdalian	aska	ɑ̀skɑ	A	
+20	Danish	aske	ˈasg̥ʰə	A	
+158	Danish Fjolde	aask	ɑːsɡ	A	
+161	Gutnish Lau	askå	ˈasko	A	
+99	Old English	asce		A	
+22	English	ashes	æʃɪz	A	
+26	Frisian	jiske	ˈjɪskə	A	
+21	Dutch	as	ɑs	A	
+24	Flemish	ASCH		A	
+83	Afrikaans	AS		A	
+87	Sranan	ASESI		A	
+126	Old High German	asca		A	
+27	German	Asche	'aʃə	A	
+86	Pennsylvania Dutch	ESCH		A	
+120	Luxembourgish	Äschen		A	
+121	German Switzerland	äsche		A	
+107	Gothic	azgō		A	
+112	Latin	cinis	ˈkinis	E	
+17	Catalan	cendra	'sɛndrə	E	
+56	Portuguese	cinzas	ˈsĩzɐʃ	E	
+68	Spanish	cenizas	θe'niθas	E	
+61	Sardinian Cagliari	CINIZU		E	
+62	Sardinian Logudoro	CHIJNA		E	
+63	Sardinian Nuoro	KISINAS		E	
+85	French Creole Dominica	SAN		E	
+76	Walloon	CINDE		E	
+25	French	cendre	sɑ̃dʀ	E	
+57	Provencal	CENDRE		E	
+42	Ladin	TSCHENDRA		E	
+146	Dolomite Ladino	cènder		E	
+123	Romansh	tschendra		E	
+122	Friulian	cinise		E	
+39	Italian	cenere	'tʃenere	E	
+59	Romanian	cenușă		E	
+74	Vlach	CENUSE		E	
+127	Old Irish	lúaithred	lu:əθʹrʹəð	F	
+101	Middle Cornish	lusu, luju	'lʏzy	F	
+172	Middle Breton	ludu	ˈlyːdy	F	
+12	Breton	ludu	ˈlyːdy	F	
+79	Welsh	lludu		F	
+38	Irish	luaith		F	
+115	Scottish Gaelic	luaithre		F	
+147	Manx	leoie		F	
+5	[Legacy] Albanian T	hi, hî		E	
+29	[Legacy] Greek K	TEFRA		L	
+28	[Legacy] Greek D	STACHTE, STACHTES		H	
+30	[Legacy] Greek Md	STACHTE		H	
+64	[Legacy] Serbocroatian	PEPEO		G	
+113	[Legacy] Serbian	pepeo	pêpeo	G	
+89	[Legacy] Bulgarian P	PEPEL		G	
+49	[Legacy] Macedonian	PEPEL		G	
+94	[Legacy] Russian P	PEPEL		G	
+93	[Legacy] Polish P	POPIOL		G	
+90	[Legacy] Byelorussian P	POPEL		G	
+98	[Legacy] Ukrainian P	POPIL		G	
+19	[Legacy] Czech E	POPEL		G	
+96	[Legacy] Slovak P	POPOL		G	
+91	[Legacy] Czech P	POPEL		G	
+67	[Legacy] Slovenian	PEPJU		G	
+45	[Legacy] Lithuanian O	PELENAI		G	
+11	[Legacy] Brazilian	CINZA		E	
+142	[Legacy] German Munich	Asche		A	
+84	[Legacy] French Creole C	SAN		E	
+14	[Legacy] Breton St	ludu	'ly:dy	F	
+13	[Legacy] Breton Se	LUDU		F	
+78	[Legacy] Welsh C	LLUDW		F	
+37	[Legacy] Irish A	LUAITH		F	

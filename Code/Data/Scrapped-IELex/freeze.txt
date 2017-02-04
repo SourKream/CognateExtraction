@@ -1,0 +1,141 @@
+80	Hittite	ekāizzi			
+88	Albanian	MERDHIF		C	
+143	Standard Albanian	ngrij		D	
+4	Albanian Corinth	FTOXEM			
+3	Albanian Gheg	MERDHIF		C	
+6	Albanian Tosk	GRIN, AOR. GRIVA		D	
+110	Ancient Greek	πήγνυμαι	pɛ́ːgnumai̯	K	
+32	Greek	παγώνω	paˈɣo̞no̞	K	
+31	Greek Lesbos	PAGONO		K	
+129	Classical Armenian	պաղիմ	pałim		
+129	Classical Armenian	սառչիմ	saṙ-č'-im	E	
+8	Armenian Eastern	saṙč'el	sɑrˈʧʰɛl	E	
+7	Armenian Western	SARIL		E	
+75	Wakhi	YIS WOTS-, YIS TSER-		A	
+9	Baluchi	MADHAGH, MASTAGH		O	
+72	Tajik	JAX KARDAN, JAX BASTAN		A	
+54	Persian	YAKH BASTAN		A	
+77	Waziri	KARANG (FROZEN)		P	
+1	Pashto	JAX KEDEL		A	
+52	Ossetic	saelyn	sælɨn	M	
+52	Ossetic	IX KAENYN		A	
+124	Ossetic Iron	šɐl-	šɐl-	M	
+125	Ossetic Digor	sɐl-	sɐl-	M	
+105	Vedic Sanskrit	sthiriibhavati		(I), (L)	
+105	Vedic Sanskrit	ghaniibhavati		(L)	
+105	Vedic Sanskrit	sthagayati		(I)	
+105	Vedic Sanskrit	himiibhavati		(L)	
+105	Vedic Sanskrit	śīyate		(T)	
+162	Pāḷī	sīyati		T	
+51	Nepali	JAMNU		F	
+106	Assamese	got mar	got mar	U	
+102	Oriya	bɔsiǰiba	bɔsiǰiba	V	
+10	Bengali	JOMAT		F	
+10	Bengali	BADHANO		W	
+111	Bihari	jəməb	jəməb	F	
+144	Magahi	जमना	ɟəmnɑ	F	
+35	Hindi	JEMNA		F	
+119	Urdu	جمنا	ʤəmnə	F	
+43	Lahnda	JEMMEN		F	
+53	Punjabi	JEMMENA		F	
+33	Gujarati	JHAMEWU, JHAMI JEWU		F	
+33	Gujarati	THERWU		I	
+50	Marathi	gothne	'goʈʰɳe	U	
+40	Kashmiri	HANDARUN		X	
+65	Sinhalese	KARANAWA		Y	
+65	Sinhalese	SITA		T	
+34	Romani Greece	BUZLANDU		(N)	
+100	Old Church Slavonic	(по-/съ-)мръзнѫти	(po-/sʊ̆-)mr̩znɔ̃ti	C	
+95	Serbo-Croatian	smrznuti	ˈsmr̂znuti	C	
+15	Bulgarian	замръзвам	zəˈmrɤzvəm	C	
+92	Macedonian	мрзне	ˈmərznɛ	C	
+60	Russian	замер'зать	zamʲɛr'zatʲ	C	
+55	Polish	zamarzać	zaˈmarzatɕ	C	
+16	Belarusian	замярзаць	zamʲarzatsʲ	C	
+73	Ukrainian	замерзати	zamɛrˈzatɪ	C	
+66	Slovak	mrznúť	ˈmr̩znuc	C	
+18	Czech	mrznout	ˈmr̩znɔut	C	
+48	Sorbian Upper	mjerznyć	ˈmĕɛʀznɘ̟tʃ	C	
+47	Sorbian Lower	marznuś	ˈmarznuɕ	C	
+97	Slovenian	(-)mrzniti	(-)ˈmə̌ːrzniti	C	
+44	Latvian	sal̂st		J	
+46	Lithuanian	SALDYTI		J	
+109	Old Norse	frýss		(B)	
+109	Old Norse	kala	ˈkala	(R)	
+109	Old Norse	frjósa	ˈfrjoːsa	B	
+36	Icelandic	frjósa	ˈfrjouːsa	B	
+23	Faroese	frysta	ˈfɹɪsta	B	
+58	Norwegian Riksmal	fryse	ˈfɾỳːsə	B	
+159	Stavangersk	frysa	ˈfʁyːsa	B	
+157	Old Swedish	frysa	ˈfryːsa	B	
+69	Swedish	frysa	ˈfrỳ:sa	B	
+71	Swedish Vilhelmina	FRYS		B	
+70	Swedish Uppland	FRYSA		B	
+145	Elfdalian	työlå	tyœ̀lɔ	Q	
+145	Elfdalian	friuosa		B	
+20	Danish	fryse	ˈfʁy:sə	B	
+158	Danish Fjolde	fryys	fɹyːs	B	
+161	Gutnish Lau	frausä	ˈfrausɛ	B	
+99	Old English	frīest		B	
+22	English	to freeze	fri:z	B	
+26	Frisian	FRIEZE		B	
+21	Dutch	vriezen	'vrizə(n)	B	
+24	Flemish	BEVRIEZEN		B	
+83	Afrikaans	VRIES		B	
+126	Old High German	friusit		B	
+27	German	frieren	'fri:rən	B	
+120	Luxembourgish	fréieren		B	
+121	German Switzerland	gfriere		B	
+107	Gothic	*friusiþ		B	
+112	Latin	gelāre	geˈlaːre	G	
+17	Catalan	FLASSAR			
+17	Catalan	gelar	ʒə'la	G	
+56	Portuguese	gelar	ʒɨˈlaɾ	G	
+68	Spanish	helar	e'laɾ	G	
+61	Sardinian Cagliari	GELAI		G	
+62	Sardinian Logudoro	GHELARE		G	
+63	Sardinian Nuoro	ASTRAGARE			
+85	French Creole Dominica	ZELE		G	
+76	Walloon	DJALER		G	
+25	French	geler	ʒəle	G	
+57	Provencal	GELA, JALA		G	
+42	Ladin	DSCHLER		G	
+146	Dolomite Ladino	e ingiazà, se giazà		G	
+123	Romansh	schelar		G	
+122	Friulian	glaçâ		H	
+39	Italian	gelare	dʒe'lare	G	
+59	Romanian	a îngheța		G	
+74	Vlach	EGLICE		H	
+127	Old Irish	réodaid	rʹe:oðəðʹ	(B)	
+127	Old Irish	seccaid	sʹekəðʹ	S	
+101	Middle Cornish	rewi	rɛwi	B	
+12	Breton	reviñ	ˈreːvĩ	B	
+79	Welsh	rhewi		B	
+38	Irish	reoigh		(B)	
+38	Irish	sioc		S	
+115	Scottish Gaelic	reòdh		B	
+5	[Legacy] Albanian T	ME NGRIRE		D	
+29	[Legacy] Greek K	PSUGOMAI		K	
+28	[Legacy] Greek D	PAGONO		K	
+30	[Legacy] Greek Md	PAGONO		K	
+64	[Legacy] Serbocroatian	SLEDITI SE			
+113	[Legacy] Serbian	smrznuti	smrznuti	C	
+113	[Legacy] Serbian	zalediti	zalěditi		
+89	[Legacy] Bulgarian P	MRUZNA		C	
+49	[Legacy] Macedonian	MRAZI/MRZNE		C	
+94	[Legacy] Russian P	MOROZIT		C	
+93	[Legacy] Polish P	MROZIC		C	
+90	[Legacy] Byelorussian P	MAROZIC		C	
+98	[Legacy] Ukrainian P	MOROZYTY		C	
+19	[Legacy] Czech E	ZMRZNUT		C	
+96	[Legacy] Slovak P	MRAZIT SA		C	
+91	[Legacy] Czech P	MRAZITI		C	
+67	[Legacy] Slovenian	ZMRZNE		C	
+45	[Legacy] Lithuanian O	SALDYTI		J	
+11	[Legacy] Brazilian	GELAR		G	
+142	[Legacy] German Munich	gefrieren		B	
+84	[Legacy] French Creole C	ZELE (CONGEAL)		G	
+14	[Legacy] Breton St	reviñ	'rɛ:vĩ	B	
+13	[Legacy] Breton Se	REUEIN		B	
+78	[Legacy] Welsh C	RHEWI		B	
+37	[Legacy] Irish A	REODHADH		B	

@@ -1,0 +1,156 @@
+114	Proto-Indo-European	*peth₁-		N	
+80	Hittite	mauszi			
+81	Tocharian A	klawatär		R	
+82	Tocharian B	kloyotär		R	
+88	Albanian	bie		C	
+143	Standard Albanian	bie		C	
+2	Albanian Sicily	bie		C	
+4	Albanian Corinth	bie		C	
+3	Albanian Gheg	bie		C	
+6	Albanian Tosk	bie		C	
+110	Ancient Greek	πίπτω	píptɔː	N	
+32	Greek	πέφτω	ˈpe̞fto̞	N	
+31	Greek Lesbos	PEFTO		N	
+129	Classical Armenian	անկանիմ		T	
+8	Armenian Eastern	ənknel	ənkˈnɛl	T	
+7	Armenian Western	իյնալ	ijnɑl		
+128	Avestan	pataiti		N	
+136	Sogdian	w’pt		N	
+75	Wakhi	PULUN-		P	
+75	Wakhi	PERVE-		P	
+75	Wakhi	WUZ-		P	
+9	Baluchi	KHAPTA		E	
+9	Baluchi	KHAFAGH		E	
+137	Zazaki	kewtiš		E	
+137	Zazaki	gunāyiš		U	
+72	Tajik	AFTIDAN		N	
+54	Persian	OFTADAN		N	
+77	Waziri	WALWEDEL		S	
+77	Waziri	PREWATEL		A	
+1	Pashto	LVEDEL		S	
+138	Shughni	raz		V	
+139	Sarikoli	wux̆ : wox̆t		W	
+52	Ossetic	xauyn	χawɨn	M	
+124	Ossetic Iron	χaw-	χaw-	M	
+125	Ossetic Digor	χaw-	χaw-	M	
+105	Vedic Sanskrit	pádyatē		I	
+162	Pāḷī	patati		N	
+41	Khaskura	LOTNU		X	
+51	Nepali	GIRNU		D	
+51	Nepali	PARNU		N	
+106	Assamese	pɒr	pɒr	N	
+102	Oriya	khɔs-	khɔs-	F	
+102	Oriya	tɔḷ-	tɔɭ-	Y	
+102	Oriya	pɔḍiba	pɔɖiba	N	
+10	Bengali	PORA		N	
+111	Bihari	khəsəb	khəsəb	F	
+144	Magahi	गिरना	girnɑ	D	
+151	Bhojpuri	gir		D	
+104	Marwari	nānkh		Z	
+104	Marwari	pəɽ	pəɽ	N	
+35	Hindi	GIRNA		D	
+119	Urdu	گِرنا	ɡɪɾnə	D	
+103	Sindhi	gaṛaṇu		D	
+103	Sindhi	pūṇu		N	
+43	Lahnda	DHAWEN		Aa	
+53	Punjabi	DIGGENA		Ab	
+33	Gujarati	PERWU		N	
+50	Marathi	padne	pəɖ'ɳe	N	
+40	Kashmiri	PYONU		N	
+65	Sinhalese	VITENAWA		Ac	
+34	Romani Greece	PERAV		N	
+100	Old Church Slavonic	падати	pɑdɑti	I	
+95	Serbo-Croatian	padati	ˈpâdati	I	
+15	Bulgarian	падам	ˈpadəm	I	
+92	Macedonian	паѓа	ˈpaɟa	I	
+60	Russian	падать	'padatʲ	I	
+55	Polish	spadać	ˈspadaʨ	I	
+16	Belarusian	падаць	ˈpadatsʲ	I	
+73	Ukrainian	падати	ˈpadatɪ	I	
+66	Slovak	padať	ˈpadac	I	
+18	Czech	padat	ˈpadat	I	
+48	Sorbian Upper	padać	ˈpadatʃ	I	
+47	Sorbian Lower	padaś	ˈpadaɕ	I	
+97	Slovenian	pasti	ˈpǎːsti	I	
+108	Old Prussian	krūt		K	
+44	Latvian	krìt		K	
+46	Lithuanian	NUPULTI		B	
+46	Lithuanian	(NU)KRISTI		K	
+109	Old Norse	falla	ˈfalːa	B	
+36	Icelandic	falla	ˈfad̥la	B	
+23	Faroese	falla	ˈfad̥la	B	
+23	Faroese	detta	ˈdɛʰtːa	Ad	
+58	Norwegian Riksmal	falle	ˈfàlːə	B	
+159	Stavangersk	falla	ˈfàlːa	B	
+157	Old Swedish	falla	ˈfalːa	B	
+69	Swedish	falla	ˈfàlːa	B	
+71	Swedish Vilhelmina	FAL		B	
+70	Swedish Uppland	FALLA		B	
+145	Elfdalian	folla	ˈfòlːɑ	B	
+20	Danish	falde	ˈfalə	B	
+158	Danish Fjolde	fåld	fɔlʲ	B	
+161	Gutnish Lau	fallä	ˈfalːɛ	B	
+99	Old English	fielþ		B	
+22	English	to fall	fɔ:l	B	
+26	Frisian	falle	'fɔ(:)lə	B	
+21	Dutch	vallen	'vɑlə(n)	B	
+24	Flemish	VALLEN		B	
+83	Afrikaans	VAL		B	
+87	Sranan	FADOM		B	
+126	Old High German	fellit		B	
+27	German	fallen	'falən	B	
+86	Pennsylvania Dutch	FOLL		B	
+120	Luxembourgish	falen		B	
+121	German Switzerland	gheie			
+107	Gothic	driusiþ			
+112	Latin	cadere	ˈkadere	G	
+17	Catalan	caure	'kauwrə	G	
+56	Portuguese	cair	kɐˈiɾ	G	
+68	Spanish	caer	ka'eɾ	G	
+61	Sardinian Cagliari	ARRUI		O	
+62	Sardinian Logudoro	RUERE		O	
+63	Sardinian Nuoro	RUGERE		O	
+85	French Creole Dominica	TOBE		(J)	
+76	Walloon	TOUMER		(J)	
+25	French	tomber	tɔ̃be	(J)	
+57	Provencal	TOUMBA		(J)	
+42	Ladin	CRUDER		G	
+146	Dolomite Ladino	tomà		J	
+146	Dolomite Ladino	sautà du			
+123	Romansh	crudar		G	
+122	Friulian	colâ			
+39	Italian	cadere	ka'dere	G	
+59	Romanian	a cădea	a kəˈde̯a	G	
+74	Vlach	KADU		G	
+127	Old Irish	do·tuit	doˈtutʹ	L	
+101	Middle Cornish	koðə	'kɔða	H	
+172	Middle Breton	coezaff, coüezaff, couezaff	ˈkueðaṽ	H	
+12	Breton	kouezhañ	ˈkweː(z)ã	H	
+79	Welsh	cwympo		Q	
+79	Welsh	GOLLWNG			
+38	Irish	tit	tʲɪtʲ	L	
+115	Scottish Gaelic	tuit	t̪uʰtʲ	L	
+5	[Legacy] Albanian T	bie		C	
+29	[Legacy] Greek K	PIPTO		N	
+28	[Legacy] Greek D	PEFTO		N	
+30	[Legacy] Greek Md	PEFTO		N	
+64	[Legacy] Serbocroatian	PASTI		I	
+113	[Legacy] Serbian	pasti	pâsti	I	
+89	[Legacy] Bulgarian P	PADAM		I	
+49	[Legacy] Macedonian	PAGA, PAGNE		I	
+94	[Legacy] Russian P	PAST		I	
+93	[Legacy] Polish P	PASC		I	
+90	[Legacy] Byelorussian P	UPASCI		I	
+98	[Legacy] Ukrainian P	UPASTY		I	
+19	[Legacy] Czech E	PADNUT		I	
+96	[Legacy] Slovak P	PADAT		I	
+91	[Legacy] Czech P	PADATI		I	
+67	[Legacy] Slovenian	PADE		I	
+45	[Legacy] Lithuanian O	PULTI		B	
+11	[Legacy] Brazilian	CAIR		G	
+142	[Legacy] German Munich	fallen		B	
+84	[Legacy] French Creole C	TOBE		(J)	
+14	[Legacy] Breton St	kouezhañ	'kwe:zã	H	
+13	[Legacy] Breton Se	KOEHEIN		H	
+78	[Legacy] Welsh C	CWYMPO		Q	
+37	[Legacy] Irish A	TUITIM		L	

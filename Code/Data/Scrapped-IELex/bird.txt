@@ -1,0 +1,179 @@
+114	Proto-Indo-European	*h₂éu̯(-)i-		F	
+80	Hittite	suwais		F	
+81	Tocharian A	salat lu		M	
+82	Tocharian B	salamo luwo		M	
+88	Albanian	shpend			
+88	Albanian	ZOGU		C	
+143	Standard Albanian	zog		C	
+2	Albanian Sicily	ZOG		C	
+4	Albanian Corinth	ZOK		C	
+3	Albanian Gheg	shpend			
+3	Albanian Gheg	ZOGU			
+6	Albanian Tosk	ZOK		C	
+173	Mycenaean Greek	o-ni-ti-ja-pi	orniːtʰii̯apʰi(n)	U	
+110	Ancient Greek	ὄρνῑς	órniːs	U	
+110	Ancient Greek	ἀετός	aetós	(F)	
+152	Tsakonian	πουλí		I	
+32	Greek	πουλί	pu'li	I	
+31	Greek Lesbos	POULI		I	
+129	Classical Armenian	թռչուն	tʰir-tʃ͡ʰ-un	D	
+129	Classical Armenian	հաւ	haw	(F)	
+8	Armenian Eastern	թռչուն	tʰərˈʧʰun	D	
+7	Armenian Western	թռչուն	tʰərˈʧʰun	D	
+7	Armenian Western	հավ	hav	(F)	
+128	Avestan	vīš		F	
+136	Sogdian	mrγ’		A	
+174	Khotanese	murä		A	
+75	Wakhi	UNGUS		O	
+9	Baluchi	MURGH		A	
+118	Kurdish	çivîk		Q	
+118	Kurdish	balinde		J	
+137	Zazaki	ṭeyr		(N)	
+137	Zazaki	mirīčik		A	
+72	Tajik	parranda	paɾːan’da	J	
+54	Persian	MORGH		A	
+54	Persian	parande	pʰæɾænˈde	J	
+77	Waziri	MARGHAI		A	
+1	Pashto	MURGE		A	
+138	Shughni	parandā		(J)	
+139	Sarikoli	ǰarindo		R	
+139	Sarikoli	qыš		S	
+139	Sarikoli	waδič		P	
+52	Ossetic	marg'	marʁ	A	
+124	Ossetic Iron	marg	marg	A	
+124	Ossetic Iron	c'iw	c'iw		
+125	Ossetic Digor	marg	marg	A	
+125	Ossetic Digor	č'ew	č'ew		
+154	Vasi-vari	nĩj(ə), nyīnċ		A	
+153	Askunu	niŋasä		A	
+105	Vedic Sanskrit	pakṣin-		(E)	
+105	Vedic Sanskrit	vḗs		F	
+162	Pāḷī	pakkhin		E	
+41	Khaskura	CHARA		K	
+41	Khaskura	PANCHHI		E	
+51	Nepali	CARO		K	
+106	Assamese	pākhiyā		E	
+106	Assamese	sarāi		K	
+102	Oriya	pɔkhi	pɔkhi	E	
+10	Bengali	pakhi	pakʰi	E	
+111	Bihari	cirəi	cirəi	K	
+144	Magahi	चिंरईं	ciɽəĩ	K	
+104	Marwari	pãkhērū		E	
+104	Marwari	chirkalī		K	
+35	Hindi	PEKSI		(E)	
+35	Hindi	chidiya	tʃɪɽɪjɑ	K	
+119	Urdu	پرِندہ	pɾɪnd̪əh	J	
+103	Sindhi	pakhī		E	
+43	Lahnda	PERINDA		(J)	
+53	Punjabi	PENCHI		E	
+33	Gujarati	PENKHI, PEKSI		E	
+50	Marathi	paksī	pək'ʂi	(E)	
+40	Kashmiri	PANKHI		E	
+40	Kashmiri	JANAWAR		(T)	
+65	Sinhalese	KURULLA		K	
+34	Romani Greece	CIRIKLI		K	
+100	Old Church Slavonic	пътица	pʊ̆titsʲa	H	
+95	Serbo-Croatian	ptica	ˈptîtsa	H	
+15	Bulgarian	птица	ˈptitsə	H	
+92	Macedonian	птица	ˈptitsa	H	
+60	Russian	птица	'ptʲitsa	H	
+55	Polish	ptak	ptak	H	
+16	Belarusian	птушка	ˈptuʂka	H	
+73	Ukrainian	птах	ptax	H	
+66	Slovak	vták	ˈftaːk	H	
+18	Czech	pták	ptaːk	H	
+48	Sorbian Upper	ptačk	(p)tatʃk	H	
+47	Sorbian Lower	ptašk	ptaʂk	H	
+97	Slovenian	ptica	ˈptǐːtsa	H	
+108	Old Prussian	pippalins			
+44	Latvian	putns		H	
+46	Lithuanian	paukstis	ˈpɐukʲʃʲtʲɪs	H	
+109	Old Norse	fugl	fuɣl	B	
+36	Icelandic	fugl	fʏɡ̊l	B	
+23	Faroese	fuglur	ˈfʊɡ̊lʊɹ	B	
+58	Norwegian Riksmal	fugl	fʉːl	B	
+159	Stavangersk	foɡɡel	ˈfuɡːəl	B	
+157	Old Swedish	fughl	fuːɣl	B	
+69	Swedish	fågel	ˈfo:gəl	B	
+71	Swedish Vilhelmina	FOGAL		B	
+70	Swedish Uppland	FAGEL		B	
+145	Elfdalian	fugel	fʉ́gɛl	B	
+20	Danish	fugl	fuˀl	B	
+158	Danish Fjolde	fåvl	fɔwl	B	
+160	Old Gutnish	fugl		B	
+161	Gutnish Lau	fäugäl	ˈfɛuɡɛl	B	
+99	Old English	fugol		B	
+22	English	bird	bɜ:d		
+26	Frisian	fûgel	fu(:)gəl	B	
+21	Dutch	vogel	'voɣəl	B	
+24	Flemish	VOGEL		B	
+83	Afrikaans	VOEL		B	
+87	Sranan	FOUWLOE		B	
+126	Old High German	fugal		B	
+27	German	Vogel	'fo:gl̩	B	
+86	Pennsylvania Dutch	FUGGEL		B	
+120	Luxembourgish	Vull		B	
+121	German Switzerland	fogu		B	
+107	Gothic	fugls		B	
+132	Umbrian	avif		F	
+112	Latin	auis	ˈawis	F	
+17	Catalan	ocell	u'seʎ	F	
+17	Catalan	moixó	mu'ʃo		
+56	Portuguese	pássaro	ˈpasɐɾu		
+56	Portuguese	ave	ˈavɨ	F	
+68	Spanish	pájaro	'paxaɾo	G	
+68	Spanish	AVE		F	
+61	Sardinian Cagliari	PILLONI		H	
+62	Sardinian Logudoro	PUZZONE		H	
+63	Sardinian Nuoro	PUTHTHONE		H	
+85	French Creole Dominica	ZWEZO		F	
+76	Walloon	OUHE		F	
+25	French	oiseau	wazo	F	
+57	Provencal	aucèl	awˈsɛl	F	
+42	Ladin	UTSCHE		F	
+146	Dolomite Ladino	ucél, guzel		F	
+123	Romansh	utschals, utschi		F	
+122	Friulian	uciel		F	
+39	Italian	uccello	ut'tʃɛllo	F	
+59	Romanian	pasăre		G	
+74	Vlach	PULU		H	
+140	Gaulish	etno-		G	
+127	Old Irish	én	e:n	G	
+149	Old Cornish	hethen		G	
+101	Middle Cornish	edhen	'ɛðɛn	G	
+148	Old Breton	etn		G	
+172	Middle Breton	ezn, ezen, ezenn	ˈeðn	G	
+172	Middle Breton	lapoucc, labouçc	ˈlaːpus	L	
+12	Breton	labous	ˈlaːbus	L	
+12	Breton	evn	ˈẽvn, ˈẽwn, ẽːn	G	
+150	Old Welsh	etn		G	
+79	Welsh	edn		G	
+38	Irish	éan	eːnˠ	G	
+115	Scottish Gaelic	eun		G	
+147	Manx	eean		G	
+5	[Legacy] Albanian T	zog	zɔg	C	
+29	[Legacy] Greek K	PTENON		G	
+28	[Legacy] Greek D	POULI		I	
+30	[Legacy] Greek Md	POULI		I	
+64	[Legacy] Serbocroatian	PTICA		H	
+113	[Legacy] Serbian	ptica		H	
+89	[Legacy] Bulgarian P	PTICA		H	
+49	[Legacy] Macedonian	ptica	ˈpti.ʦa	H	
+94	[Legacy] Russian P	PTICA		H	
+93	[Legacy] Polish P	PTAK		H	
+90	[Legacy] Byelorussian P	PTACH		H	
+98	[Legacy] Ukrainian P	PTACH		H	
+19	[Legacy] Czech E	FTAK		H	
+96	[Legacy] Slovak P	VTAK		H	
+91	[Legacy] Czech P	PTAK		H	
+67	[Legacy] Slovenian	TICK		H	
+45	[Legacy] Lithuanian O	PAUKSTIS		H	
+11	[Legacy] Brazilian	pássaro	ˈpasaɾu		
+11	[Legacy] Brazilian	AVE		F	
+142	[Legacy] German Munich	Vogel		B	
+84	[Legacy] French Creole C	ZIBYE (BIG), ZWEZO (SMALL)		F	
+14	[Legacy] Breton St	labous	'la:bus	L	
+14	[Legacy] Breton St	evn	'ẽwn	G	
+13	[Legacy] Breton Se	EN		G	
+78	[Legacy] Welsh C	ADERYN		G	
+37	[Legacy] Irish A	EAN		G	

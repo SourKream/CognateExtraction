@@ -1,0 +1,179 @@
+80	Hittite	hūmantes		M	
+133	Luvian	pūnatinzi			
+133	Luvian	tanimminzi		N	
+134	Lycian	huwedri		N	
+134	Lycian	punemedezi		N	
+81	Tocharian A	salu		G	
+81	Tocharian A	pont-		L	
+82	Tocharian B	poñc		L	
+82	Tocharian B	solme		G	
+88	Albanian	GJITH		B	
+143	Standard Albanian	të gjithë		B	
+2	Albanian Sicily	GITH		B	
+4	Albanian Corinth	tuti		(Ae), (C)	
+3	Albanian Gheg	GJITH		B	
+6	Albanian Tosk	GITHE		B	
+173	Mycenaean Greek	-pa	pans	L	
+110	Ancient Greek	πᾶς	pȃːs	L	
+152	Tsakonian	őλε, őα (s), őλα (n)		G	
+32	Greek	πας	pas	(L)	
+32	Greek	όλος	ˈo̞lo̞s	G	
+31	Greek Lesbos	HOLOS		G	
+129	Classical Armenian	ամենայն	ɑmɛn-ɑjn	Aa	
+8	Armenian Eastern	բոլոր	boˈloɾ	D	
+8	Armenian Eastern	ամենայն	amenayn	(Aa)	
+7	Armenian Western	բոլոր	bɔlɔr	D	
+128	Avestan	vispe		H	
+131	Old Persian	visā		H	
+136	Sogdian	’γ’c		O	
+75	Wakhi	KUXT, CU, CUST		P	
+9	Baluchi	DRUH		R	
+9	Baluchi	THEGH, THEWAGH		S	
+9	Baluchi	KULL		(E)	
+9	Baluchi	SARO		(F)	
+118	Kurdish	giş		T	
+118	Kurdish	hemû		I	
+118	Kurdish	tev		S	
+137	Zazaki	pēro		U	
+137	Zazaki	heme		I	
+72	Tajik	XAMA		I	
+72	Tajik	TAMOM		(Q)	
+54	Persian	hame	hæme	I	
+77	Waziri	HAMAGI		I	
+77	Waziri	GHWUT		V	
+1	Pashto	TOL		W	
+138	Shughni	buqaθ		X	
+139	Sarikoli	ǰam		Y	
+52	Ossetic	iuyldaer	iuuɨldær	Z	
+124	Ossetic Iron	ɐppɐt	ɐppɐt	J	
+125	Ossetic Digor	ɐppɐt	ɐppɐt	J	
+141	Kata-viri	t͡sak			
+154	Vasi-vari	sučók		F	
+153	Askunu	sew, sawák		F	
+105	Vedic Sanskrit	víśvē		H	
+162	Pāḷī	sabba		(F)	
+41	Khaskura	SABAI		F	
+51	Nepali	SAB, SABAI, SARBA		F	
+106	Assamese	etāi			
+106	Assamese	hābi		F	
+106	Assamese	xɒkɔlo	xɒkɔlo		
+102	Oriya	sɔbɔ	sɔbɔ	F	
+10	Bengali	SOB		F	
+111	Bihari	səb	səb	F	
+144	Magahi	सब	səb	F	
+151	Bhojpuri	sab(h)		F	
+104	Marwari	səi	səi	F	
+35	Hindi	SEB, SARA		F	
+119	Urdu	سب	səb	F	
+103	Sindhi	hərkō	hərkō	(Ab)	
+103	Sindhi	sabhu	sabhu	F	
+43	Lahnda	SEBU, SARE		F	
+53	Punjabi	SEB, SARA		F	
+33	Gujarati	BEDHA		Ac	
+50	Marathi	sarwa, sagḷa	'səɾwə, 'səgɭə	F	
+40	Kashmiri	SORI		E	
+65	Sinhalese	OKKAMA		Ad	
+34	Romani Greece	SAVORA		F	
+100	Old Church Slavonic	вьси	vɪ̆si	H	
+95	Serbo-Croatian	svi	svî	H	
+15	Bulgarian	всички	ˈfsitʃki	H	
+92	Macedonian	сите	ˈsitɛ	H	
+60	Russian	все	vsʲɛ	H	
+55	Polish	wszyscy	ˈfʂɘ̟stsɘ̟	H	
+16	Belarusian	усе	uˈsʲɛ	H	
+73	Ukrainian	всі	ʋsi	H	
+66	Slovak	všetci	ˈfʃɛttsi	H	
+18	Czech	všichni	ˈfʃɪxɲɪ	H	
+48	Sorbian Upper	wšě	wʃɪ	H	
+47	Sorbian Lower	wše	wʂɛ	H	
+97	Slovenian	vsi	ʍsi	H	
+108	Old Prussian	wissay		H	
+44	Latvian	visi		H	
+46	Lithuanian	viskas	ˈʋʲɪskɐs	H	
+109	Old Norse	allir	alːɪr	A	
+36	Icelandic	allir	ˈad̥lɪr	A	
+23	Faroese	allir	ˈad̥lɪɹ	A	
+58	Norwegian Riksmal	alle	àlːə	A	
+159	Stavangersk	adle	ˈàdlə	A	
+157	Old Swedish	allir	alːir	A	
+69	Swedish	alla	ˈàlːa	A	
+71	Swedish Vilhelmina	AL  AL		A	
+70	Swedish Uppland	ALL		A	
+145	Elfdalian	oll	olː	A	
+20	Danish	alle	ˈalə	A	
+158	Danish Fjolde	åld	ɔlʲ	A	
+160	Old Gutnish	allir		A	
+161	Gutnish Lau	allä	alːɛ	A	
+99	Old English	ealle		A	
+22	English	all	ɔ:l	A	
+26	Frisian	alle, alles, allegearre	ɔlə, ɔləs, ɔləgjɛr(ə)	A	
+21	Dutch	alle	'ɑlə	A	
+24	Flemish	ALLE, ALLES		A	
+83	Afrikaans	AL, ALLE		A	
+87	Sranan	ALA		A	
+126	Old High German	alle		A	
+27	German	alle	'alə	A	
+86	Pennsylvania Dutch	OLL		A	
+120	Luxembourgish	all		A	
+121	German Switzerland	au		A	
+107	Gothic	allai		A	
+130	Oscan	súllus			
+112	Latin	tōtus	ˈtoːtus	(C)	
+112	Latin	omnis	ˈomnis	M	
+17	Catalan	tot	tot	C	
+56	Portuguese	todo	ˈtoðu	C	
+68	Spanish	todo	'toðo	C	
+61	Sardinian Cagliari	TOTTU		C	
+62	Sardinian Logudoro	TOTU		C	
+63	Sardinian Nuoro	TOTTU		C	
+85	French Creole Dominica	TUT		C	
+76	Walloon	TOT		C	
+25	French	tout	tu	C	
+57	Provencal	TOUT, TOUTO		C	
+42	Ladin	TUOT		C	
+146	Dolomite Ladino	dut		C	
+123	Romansh	tut(ta)		C	
+122	Friulian	dut		C	
+39	Italian	tutto	'tutto	C	
+59	Romanian	TOTI (M. PL.), TOATE (N. PL.)		C	
+74	Vlach	TUTI		C	
+127	Old Irish	uile	ulʹe	G	
+101	Middle Cornish	ol an	ol an	(G)	
+101	Middle Cornish	oll	ɔl:	G	
+101	Middle Cornish	an ol	an ol	(G)	
+148	Old Breton	holl		G	
+172	Middle Breton	oll, holl	ˈolː	G	
+12	Breton	holl	ˈɔlː	G	
+150	Old Welsh	hol		G	
+79	Welsh	pob		K	
+79	Welsh	holl		G	
+79	Welsh	CYFAN			
+38	Irish	uile		G	
+115	Scottish Gaelic	uile		G	
+147	Manx	ooilley		G	
+5	[Legacy] Albanian T	gjithë		B	
+29	[Legacy] Greek K	HOLOI		G	
+28	[Legacy] Greek D	HOLOI		G	
+30	[Legacy] Greek Md	HOLOI		G	
+64	[Legacy] Serbocroatian	SAV		H	
+113	[Legacy] Serbian	sve	sʋê	H	
+89	[Legacy] Bulgarian P	VSEKI		H	
+49	[Legacy] Macedonian	síte	ˈsitɛ		
+49	[Legacy] Macedonian	SA, SIOV-N-T		H	
+94	[Legacy] Russian P	VES		H	
+93	[Legacy] Polish P	WSZYSTEK		H	
+90	[Legacy] Byelorussian P	UVES		H	
+98	[Legacy] Ukrainian P	VES		H	
+19	[Legacy] Czech E	FSECKI		H	
+96	[Legacy] Slovak P	VSETOK		H	
+91	[Legacy] Czech P	VSECHEN		H	
+67	[Legacy] Slovenian	CELO			
+67	[Legacy] Slovenian	VSE		H	
+45	[Legacy] Lithuanian O	VISAS, VISI (PL)		H	
+11	[Legacy] Brazilian	todo	ˈtodu	C	
+142	[Legacy] German Munich	alle		A	
+84	[Legacy] French Creole C	TUT		C	
+14	[Legacy] Breton St	holl	ɔl	G	
+13	[Legacy] Breton Se	OL		G	
+78	[Legacy] Welsh C	PAWB		K	
+37	[Legacy] Irish A	UILE, GO LEIR, AR FAD		G	

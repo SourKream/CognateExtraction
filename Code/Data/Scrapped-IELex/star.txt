@@ -1,0 +1,159 @@
+114	Proto-Indo-European	*h₂stḗr		V	
+80	Hittite	hastērz		V	
+81	Tocharian A	śreñ		V	
+82	Tocharian B	ścirye		V	
+88	Albanian	yll		B	
+143	Standard Albanian	yll		B	
+2	Albanian Sicily	IZE			
+4	Albanian Corinth	yll		B	
+3	Albanian Gheg	ylli		B	
+6	Albanian Tosk	yll		B	
+110	Ancient Greek	ἀστήρ	astɛ́ːr	V	
+152	Tsakonian	ασι, ασκι		V	
+32	Greek	αστέρι	asˈte̞ri	V	
+31	Greek Lesbos	ASTRO		V	
+129	Classical Armenian	աստղ	ɑst-ł	V	
+8	Armenian Eastern	աստղ	ɑstəʁ	V	
+7	Armenian Western	ARD		V	
+7	Armenian Western	աստղ	ɑzdəʁ	V	
+128	Avestan	stārō (pl.)		V	
+136	Sogdian	’st’r’kt		V	
+75	Wakhi	STOR		V	
+9	Baluchi	ISTAR		V	
+118	Kurdish	stêr		V	
+137	Zazaki	estāre		V	
+72	Tajik	SITORA		V	
+54	Persian	SETARE		V	
+77	Waziri	STORAI		V	
+1	Pashto	STORAJ		V	
+138	Shughni	x̆itērž		V	
+139	Sarikoli	x̆ыturǰ		V	
+52	Ossetic	yst'aly	st'alɨ	V	
+124	Ossetic Iron	št'aly	št'aly	V	
+125	Ossetic Digor	st'alu	st'alu	V	
+141	Kata-viri	rušto		V	
+153	Askunu	istā		V	
+153	Askunu	išťīk/x		V	
+105	Vedic Sanskrit	star-		V	
+162	Pāḷī	tārakā		V	
+41	Khaskura	TARA		V	
+51	Nepali	TARO		V	
+106	Assamese	tarā		V	
+102	Oriya	tara	tara	V	
+10	Bengali	tara	'tɑˌɹɒ	V	
+111	Bihari	ʈara	ʈara	V	
+111	Bihari	taregan		V	
+144	Magahi	तरेगन	t̪əreɡən	V	
+104	Marwari	tārō		V	
+35	Hindi	TARA		V	
+119	Urdu	تارا، سِتارہ	t̪ɑɾə, sɪtɑɾə	V	
+103	Sindhi	tārō		V	
+43	Lahnda	TARA		V	
+53	Punjabi	TARA		V	
+33	Gujarati	TARO		V	
+50	Marathi	tārā	taɾa	V	
+50	Marathi	tsā̃ndanī	'tsãndəni:	A	
+40	Kashmiri	TARUKH		V	
+65	Sinhalese	TARUVA		V	
+34	Romani Greece	CERAIN		V	
+100	Old Church Slavonic	ѕвѣзда	dzʲvæzdɑ	C	
+95	Serbo-Croatian	zvijezda	ˈzvjɛ̌ːzda	C	
+15	Bulgarian	звезда	zvɘzˈda	C	
+92	Macedonian	ѕвезда	ˈdzvezda	C	
+60	Russian	звезда	zvʲɛz'da	C	
+55	Polish	gwiazda	ˈɡvjazda	C	
+16	Belarusian	зорка	ˈzɔrka	D	
+73	Ukrainian	зірка	ˈzirka	D	
+66	Slovak	hviezda	ˈɦviɛzda	C	
+18	Czech	hvězda	ˈɦvjɛzda	C	
+48	Sorbian Upper	hwězda	ˈwɪzda / ˈfɪzda / ˈvɪzda	C	
+47	Sorbian Lower	gwězda	ˈɡwɪzda	C	
+97	Slovenian	zvezda	ˈzvěːzda	C	
+108	Old Prussian	lauxnos			
+44	Latvian	zvàigzne		C	
+46	Lithuanian	žvaigždė	ʒʋɐjɡʲʒʲˈdʲe:	C	
+109	Old Norse	stjarna	ˈstjarna	V	
+36	Icelandic	stjarna	ˈstjard̥na	V	
+23	Faroese	stjørna	ˈʃœd̥na, ˈstjœd̥na	V	
+58	Norwegian Riksmal	stjerne	ˈstjæ̀ːɳə	V	
+159	Stavangersk	sjarna, sjærna	ˈʂàʁna, ˈʂæ̀ʁna	V	
+157	Old Swedish	stiärna	ˈstjæːrna	V	
+69	Swedish	stjärna	ˈɧæ̀ːɳa	V	
+71	Swedish Vilhelmina	SANA		V	
+70	Swedish Uppland	STJARNA		V	
+145	Elfdalian	stienna	ˈstɪ̀ɛnːɑ	V	
+20	Danish	stjerne	ˈsd̥ʰjæɐ̯nə	V	
+158	Danish Fjolde	steern	sdeːɹn	V	
+160	Old Gutnish	stierna		V	
+161	Gutnish Lau	stjännå	ˈstjɛnːo	V	
+99	Old English	steorra		V	
+22	English	star	stɑ:	V	
+26	Frisian	stjer	stjɛ:r	V	
+21	Dutch	ster	stɛr	V	
+24	Flemish	STER		V	
+83	Afrikaans	STER		V	
+87	Sranan	STAR, STARI		V	
+126	Old High German	sterro		V	
+27	German	Stern	ʃtɛrn	V	
+86	Pennsylvania Dutch	SCHTAAN		V	
+120	Luxembourgish	Stär		V	
+121	German Switzerland	schtärn		V	
+107	Gothic	staírnō		V	
+112	Latin	stēlla	ˈsteːlːa	V	
+17	Catalan	estel	əs'tɛl	V	
+56	Portuguese	estrela	ɨʃˈtɾelɐ	V	
+68	Spanish	estrella	es'tɾeʎa	V	
+61	Sardinian Cagliari	STELLA		V	
+62	Sardinian Logudoro	ISTELLA		V	
+63	Sardinian Nuoro	ISTEDDU		V	
+85	French Creole Dominica	ZETWEL		V	
+76	Walloon	STEULE		V	
+25	French	étoile	etwal	V	
+57	Provencal	ESTELLO		V	
+42	Ladin	ASTER		V	
+146	Dolomite Ladino	štèilå		V	
+123	Romansh	steila		V	
+122	Friulian	stele		V	
+39	Italian	stella	'stella	V	
+59	Romanian	stea		V	
+74	Vlach	STEAWE		V	
+140	Gaulish	stir-		V	
+127	Old Irish	rind	rʹin(d)	(E)	
+127	Old Irish	rét, rétglu	rʹe:t, rʹe:tɣlu	E	
+127	Old Irish	ser	sʹer	(V)	
+149	Old Cornish	steren		V	
+101	Middle Cornish	sterenn		V	
+148	Old Breton	sterenn		V	
+172	Middle Breton	sterenn, steren	ˈsteːren		
+12	Breton	stered		V	
+150	Old Welsh	sseren		V	
+79	Welsh	seren	ˈsɛrɛn	V	
+38	Irish	réalta		E	
+115	Scottish Gaelic	reul		E	
+115	Scottish Gaelic	rionnag, reannag	rʲuːnak	(E)	
+147	Manx	rontage		(E)	
+147	Manx	rollage		E	
+5	[Legacy] Albanian T	yll	yɫ	B	
+29	[Legacy] Greek K	ASTER		V	
+28	[Legacy] Greek D	ASTRO		V	
+30	[Legacy] Greek Md	ASTERI		V	
+64	[Legacy] Serbocroatian	ZVEZDA		C	
+113	[Legacy] Serbian	zvezda	zʋěːzda	C	
+89	[Legacy] Bulgarian P	ZVEZDA		C	
+49	[Legacy] Macedonian	SVEZDA		C	
+94	[Legacy] Russian P	ZVEZDA		C	
+93	[Legacy] Polish P	GWIAZDA		C	
+90	[Legacy] Byelorussian P	ZARA		D	
+98	[Legacy] Ukrainian P	ZVIZDA		C	
+19	[Legacy] Czech E	HVEZDA		C	
+96	[Legacy] Slovak P	HVIEZDA		C	
+91	[Legacy] Czech P	HVEZDA		C	
+67	[Legacy] Slovenian	ZVEZDO		C	
+45	[Legacy] Lithuanian O	ZVAIGZDE		C	
+11	[Legacy] Brazilian	ESTRELA (ESTRELLA)		V	
+142	[Legacy] German Munich	Stern		V	
+84	[Legacy] French Creole C	ZETWEL		V	
+14	[Legacy] Breton St	stered	'ste:rɛt	V	
+13	[Legacy] Breton Se	STIREN		V	
+78	[Legacy] Welsh C	SEREN		V	
+37	[Legacy] Irish A	REALT		E	

@@ -1,0 +1,181 @@
+114	Proto-Indo-European	*ténh₂us		B	
+80	Hittite	maklanz		M	
+88	Albanian	HOLL		C	
+143	Standard Albanian	i,e hollë		C	
+2	Albanian Sicily	I-XOGH		C	
+4	Albanian Corinth	I XOU		C	
+3	Albanian Gheg	HOLL, IMET		C	
+6	Albanian Tosk	HOLE		C	
+110	Ancient Greek	λεπτός	leptós	S	
+32	Greek	λεπτός	le̞ˈpto̞s	S	
+31	Greek Lesbos	PSILOS		H	
+129	Classical Armenian	նիհար	nihar		
+129	Classical Armenian	nurb			
+129	Classical Armenian	բարակ	barak		
+129	Classical Armenian	anawsr		(R)	
+8	Armenian Eastern	barak	bɑˈɾɑk	L	
+8	Armenian Eastern	nurb			
+8	Armenian Eastern	NOSR		(R)	
+7	Armenian Western	BARAK		L	
+136	Sogdian	γymr			
+75	Wakhi	SENUF		B	
+75	Wakhi	SENOR		B	
+75	Wakhi	BIRIK		L	
+75	Wakhi	TENUK		B	
+75	Wakhi	XEROB			
+9	Baluchi	LAGHAR			
+137	Zazaki	bārik̇ek		L	
+72	Tajik	TUNUK		B	
+72	Tajik	BORIK		L	
+54	Persian	BARIK		L	
+54	Persian	NAZOK		V	
+77	Waziri	NARAI		A	
+1	Pashto	NARAJ		A	
+138	Shughni	nōzuk		V	
+138	Shughni	birik, bōrik		L	
+138	Shughni	tānuk		B	
+139	Sarikoli	tanыk		B	
+139	Sarikoli	barik		L	
+52	Ossetic	taenaeg	tænæɡ	B	
+124	Ossetic Iron	tɐnɐg	tɐnɐg	B	
+125	Ossetic Digor	tɐnɐg	tɐnɐg	B	
+105	Vedic Sanskrit	tanús		B	
+162	Pāḷī	tanu		B	
+41	Khaskura	MASINO		O	
+41	Khaskura	DUBLO		N	
+51	Nepali	PATALO		D	
+51	Nepali	MASINU		O	
+106	Assamese	patɒl	patɒl	D	
+102	Oriya	sɔrua	sɔrua	W	
+10	Bengali	ROGA		X	
+10	Bengali	PATLA		D	
+111	Bihari	patər	patər	D	
+111	Bihari	mulāyam		Y	
+144	Magahi	पतरा	pətrɑ	D	
+144	Magahi	सुखल	sukʰəl	Z	
+104	Marwari	jhīṇī			
+35	Hindi	DUBLA		N	
+35	Hindi	PETLA		D	
+119	Urdu	پَتلا	ˈpət.lə	D	
+43	Lahnda	PETLA		D	
+53	Punjabi	PETLA		D	
+33	Gujarati	DUBLU		N	
+33	Gujarati	PATLU		D	
+50	Marathi	bārīk	ba'ɾi:k	(L)	
+50	Marathi	rod	ɾoɖ	X	
+50	Marathi	pātal	'patəɭ	D	
+40	Kashmiri	TONU, NYUKU		B	
+65	Sinhalese	HINI		Aa	
+34	Romani Greece	KISLO		T	
+100	Old Church Slavonic	тьнъкъ, тънъкъ	tɪ̆nʊ̆kʊ̆, tʊ̆nʊ̆kʊ̆	B	
+95	Serbo-Croatian	tanak	ˈtânak	B	
+15	Bulgarian	тънък	ˈtɤnək	B	
+92	Macedonian	танок, тенок	ˈtanɔk, ˈtenɔk	B	
+60	Russian	тонкий	'tɔnkʲij	B	
+55	Polish	cienki	ˈtɕɛnkʲi	B	
+16	Belarusian	тонкі	ˈtɔnkʲi	B	
+73	Ukrainian	тонкий	tɔnˈkɪj	B	
+66	Slovak	tenký	ˈtɛnkiː	B	
+18	Czech	tenký	ˈtɛŋkiː	B	
+48	Sorbian Upper	ćeńki	ˈtʃeŋki	B	
+47	Sorbian Lower	śańki	ˈɕaɲki	B	
+97	Slovenian	tanek	tǎːnək	B	
+44	Latvian	tiêvs		B	
+46	Lithuanian	PLONAS		J	
+109	Old Norse	þunnr	θunːr	B	
+109	Old Norse	mjór	mjoːr	F	
+109	Old Norse	grannr	ɡranːr	U	
+36	Icelandic	mjór	mjouːr	F	
+36	Icelandic	grannur	ˈɡ̊ranːʏr	U	
+36	Icelandic	þunnur	ˈθʏnːʏr	B	
+23	Faroese	grannur	ˈɡ̊ɹanːʊɹ	U	
+23	Faroese	tunnur	ˈtʰʊnːʊɹ	B	
+23	Faroese	mjáur	ˈmjɔaːvʊɹ	F	
+58	Norwegian Riksmal	mjå	mjoː	F	
+58	Norwegian Riksmal	grann	ɡɾanː	U	
+58	Norwegian Riksmal	tynn	tʏnː	B	
+159	Stavangersk	tynne	ˈtʏnːə	B	
+157	Old Swedish	thunder	ˈθunder	B	
+157	Old Swedish	mior	mjoːr	F	
+69	Swedish	tunn	tɵnː	B	
+71	Swedish Vilhelmina	TON		B	
+70	Swedish Uppland	TUNN		B	
+145	Elfdalian	tunn	tʉnː	B	
+145	Elfdalian	mjǫ		F	
+145	Elfdalian	grann		U	
+20	Danish	tynd	d̥ʰønˀ	B	
+158	Danish Fjolde	tynd	tynʲ	B	
+161	Gutnish Lau	tunnar	ˈtunːar	B	
+99	Old English	þynne		B	
+22	English	thin	θɪn	B	
+26	Frisian	TIN		B	
+21	Dutch	dun	dʏn	B	
+24	Flemish	DUN		B	
+83	Afrikaans	DUN		B	
+87	Sranan	FINI		B	
+126	Old High German	dunni		B	
+27	German	dünn	dʏn	B	
+86	Pennsylvania Dutch	DIN		B	
+120	Luxembourgish	dënn		B	
+121	German Switzerland	dünn		B	
+107	Gothic	þaúrsus			
+112	Latin	tenuis	ˈtenuis	B	
+112	Latin	macer	ˈmaker	(M)	
+17	Catalan	flac	flak		
+17	Catalan	prim	pɾim		
+56	Portuguese	fino	ˈfinu	Q	
+56	Portuguese	DELGADO		E	
+68	Spanish	delgado	del'ɣaðo	E	
+68	Spanish	flaco	'flako		
+61	Sardinian Cagliari	FINI		Q	
+62	Sardinian Logudoro	SUTTILE		I	
+63	Sardinian Nuoro	ROMASU			
+85	French Creole Dominica	MES		F	
+76	Walloon	TENE, HATE, MWINDE		B	
+25	French	mince	mɛ̃s	F	
+57	Provencal	MINCE, INCO		F	
+42	Ladin	STIGL		P	
+146	Dolomite Ladino	dentil			
+146	Dolomite Ladino	magher		M	
+123	Romansh	satigl		P	
+123	Romansh	fin		Q	
+122	Friulian	sutîl		I	
+122	Friulian	fin		Q	
+39	Italian	sottile	sot'tile	I	
+59	Romanian	slab	slab		
+59	Romanian	SUBTIRE		I	
+74	Vlach	MINUTU		F	
+127	Old Irish	séim	sʹe:ṽʹ		
+127	Old Irish	tanae	tane	B	
+101	Middle Cornish	tanow	'tanɔʊ	(B)	
+101	Middle Cornish	moen	mo:n	K	
+172	Middle Breton	moan	ˈmoan		
+172	Middle Breton	tanau	ˈtaːnau		
+12	Breton	moan		K	
+12	Breton	tano		(B)	
+79	Welsh	TENAU		(B)	
+79	Welsh	main		K	
+38	Irish	tanaí		B	
+115	Scottish Gaelic	caol			
+115	Scottish Gaelic	tana		B	
+5	[Legacy] Albanian T	i hollë		C	
+29	[Legacy] Greek K	ARAIOS		G	
+28	[Legacy] Greek D	ARAIOS		G	
+30	[Legacy] Greek Md	PSILOS		H	
+64	[Legacy] Serbocroatian	TANAK		B	
+113	[Legacy] Serbian	tanak	tânak	B	
+49	[Legacy] Macedonian	tenok	ˈtɛnɔk	B	
+19	[Legacy] Czech E	TENKE		B	
+67	[Legacy] Slovenian	RETKO			
+45	[Legacy] Lithuanian O	PLONAS		J	
+11	[Legacy] Brazilian	MAGRO		M	
+11	[Legacy] Brazilian	DELGADO		E	
+142	[Legacy] German Munich	dünn		B	
+84	[Legacy] French Creole C	MES, MEG (PERSON)		F	
+84	[Legacy] French Creole C	FIN (OBJECT)		Q	
+14	[Legacy] Breton St	tanav	'tã:naw	B	
+14	[Legacy] Breton St	moan	mwã:n	K	
+13	[Legacy] Breton Se	MOEN		K	
+13	[Legacy] Breton Se	TENAU		B	
+78	[Legacy] Welsh C	TENAU		B	
+37	[Legacy] Irish A	TANAI		B	

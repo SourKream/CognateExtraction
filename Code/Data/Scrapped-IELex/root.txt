@@ -1,0 +1,162 @@
+114	Proto-Indo-European	*wréh₂ds		B	
+80	Hittite	sūrkas			
+81	Tocharian A	tsmār			
+82	Tocharian B	witsako		B	
+88	Albanian	rrënjë		B	
+143	Standard Albanian	rrënjë		(B)	
+2	Albanian Sicily	rrënjë		B	
+4	Albanian Corinth	rrënjë		B	
+3	Albanian Gheg	rranjë		B	
+6	Albanian Tosk	rrënjë		B	
+173	Mycenaean Greek	wi-ri-za	u̯rídza	B	
+110	Ancient Greek	ῥίζα	rízda	B	
+152	Tsakonian	σινδα		B	
+32	Greek	ρίζα	'riza	B	
+31	Greek Lesbos	HRIDZA		B	
+129	Classical Armenian	արմատ	armat	C	
+8	Armenian Eastern	արմատ	ɑɾˈmɑt	C	
+7	Armenian Western	արմատ	ɑɾˈmɑd	C	
+128	Avestan	varəšaǰiš		L	
+136	Sogdian	wyx		A	
+75	Wakhi	WIUX		A	
+9	Baluchi	PAR			
+118	Kurdish	reh		B	
+137	Zazaki	rīče		B	
+72	Tajik	WAFS		A	
+72	Tajik	resa	reʃæ	B	
+72	Tajik	ASOS			
+72	Tajik	ASL			
+54	Persian	rishe	riʃe	B	
+77	Waziri	BEKH		A	
+77	Waziri	WEKH		A	
+1	Pashto	RISA		B	
+1	Pashto	BEX		A	
+138	Shughni	bex, wex		A	
+138	Shughni	wiyeš		A	
+139	Sarikoli	bыn		A	
+139	Sarikoli	yildiz		(J)	
+139	Sarikoli	tol			
+52	Ossetic	BYN		A	
+52	Ossetic	uidag	widaɡ	H	
+124	Ossetic Iron	widag	widag	H	
+125	Ossetic Digor	wedagɐ	wedagɐ	H	
+141	Kata-viri	ḷu		I	
+153	Askunu	žī			
+105	Vedic Sanskrit	mū́lam		E	
+162	Pāḷī	mūla		E	
+41	Khaskura	MULA		E	
+41	Khaskura	JARA		G	
+51	Nepali	JARO		G	
+106	Assamese	xia	xia		
+102	Oriya	muḷ-	muɭ-	E	
+102	Oriya	siɔ	siɔ		
+10	Bengali	SEKOR			
+111	Bihari	jəir	jəir	G	
+144	Magahi	जरी	ɟeri		
+104	Marwari	jəɽ	jəɽ	G	
+35	Hindi	MUL		E	
+119	Urdu	جڑ	ʤəɽ	G	
+103	Sindhi	paaRa		G	
+43	Lahnda	JER		G	
+53	Punjabi	JER		G	
+33	Gujarati	MUL		E	
+50	Marathi	mūl	mu:ɭ	E	
+40	Kashmiri	MUL		E	
+65	Sinhalese	MULA		E	
+34	Romani Greece	RIZA		(B)	
+100	Old Church Slavonic	корєнь	kɔrɛnɪ̆	D	
+95	Serbo-Croatian	korijen	ˈkɔ̂rjɛːn	D	
+15	Bulgarian	корен	ˈkɔrɘn	D	
+92	Macedonian	корен	ˈkorɛn	D	
+60	Russian	корень	'kɔrʲɛnʲ	D	
+55	Polish	korzeń	ˈkɔʐɛɲ	D	
+16	Belarusian	корань	ˈkɔranʲ	D	
+73	Ukrainian	корінь	ˈkɔrʲinʲ	D	
+66	Slovak	koreň	ˈkɔrɛɲ	D	
+18	Czech	kořen	ˈkɔr̝ɛn	D	
+48	Sorbian Upper	korjeń	ˈkɔʀen	D	
+47	Sorbian Lower	kórjeń	ˈkɘ̟reɲ	D	
+97	Slovenian	koren	kɔˈrêːn	D	
+108	Old Prussian	sagnis		F	
+44	Latvian	sakne		F	
+46	Lithuanian	SAKNIS		F	
+109	Old Norse	rót	roːt	B	
+36	Icelandic	rót	rouːt	B	
+23	Faroese	rót	ɹɔuːt	B	
+58	Norwegian Riksmal	rot	ɾuːt	B	
+159	Stavangersk	rod	ʁuːd	B	
+157	Old Swedish	rot	roːt	B	
+69	Swedish	rot	ru:t	B	
+71	Swedish Vilhelmina	ROT		B	
+70	Swedish Uppland	ROT		B	
+145	Elfdalian	ruot	rʉːət	B	
+20	Danish	rod	ʁoˀð	B	
+158	Danish Fjolde	ruoj	ɹuoj	B	
+161	Gutnish Lau	råut	rout	B	
+99	Old English	wyrttruma		B	
+22	English	root	ru:t	(B)	
+26	Frisian	woartel	'vuatəl	B	
+21	Dutch	wortel	'wɔrtəl	B	
+24	Flemish	WORTEL		B	
+83	Afrikaans	WORTEL		B	
+87	Sranan	LOETOE		B	
+126	Old High German	wurzala		B	
+27	German	Wurzel	'vʊt͜sl̩	B	
+86	Pennsylvania Dutch	WOTZEL		B	
+120	Luxembourgish	Wuerzel		B	
+121	German Switzerland	wurzle		B	
+107	Gothic	waúrts		B	
+112	Latin	rādix	ˈraːdiks	B	
+17	Catalan	arrel	ə'rɛl	B	
+56	Portuguese	raiz	ɾɐˈiʃ	B	
+68	Spanish	raiz	ra'iθ	B	
+61	Sardinian Cagliari	ARREZINA		B	
+62	Sardinian Logudoro	RAIGHINA		B	
+63	Sardinian Nuoro	RAIKINA		B	
+85	French Creole Dominica	WASIN		B	
+76	Walloon	RECENE		B	
+25	French	racine	ʀasin	B	
+57	Provencal	RACINO		B	
+42	Ladin	RISCH		B	
+146	Dolomite Ladino	rèiš		B	
+123	Romansh	ragisch		B	
+122	Friulian	lidrîs		B	
+39	Italian	radice	ra'ditʃe	B	
+59	Romanian	rădăcină		B	
+74	Vlach	ARIDICINA		B	
+127	Old Irish	frén, frém	ɸʹrʹe:n, ɸʹrʹe:ṽ	B	
+149	Old Cornish	grueiten		B	
+101	Middle Cornish	gwreydh	gwrɛɪð	B	
+148	Old Breton	ureid		B	
+172	Middle Breton	gruizyenn, gruyzyenn, gruyzienn, grizyenn, grizyen	ˈgwriðjen	B	
+12	Breton	gwrizienn	ˈg(w)ri(z)jɛn	B	
+150	Old Welsh	gwreid		B	
+79	Welsh	gwraidd		B	
+38	Irish	fréamh		B	
+115	Scottish Gaelic	freumh		B	
+115	Scottish Gaelic	bun		(K)	
+147	Manx	bun		(K)	
+147	Manx	fraue		B	
+5	[Legacy] Albanian T	rrënjë		B	
+29	[Legacy] Greek K	RIDZA		B	
+28	[Legacy] Greek D	RIDZA		B	
+30	[Legacy] Greek Md	RIDZA		B	
+64	[Legacy] Serbocroatian	KOREN		D	
+113	[Legacy] Serbian	koren	kôreːn	D	
+89	[Legacy] Bulgarian P	KOREN		D	
+94	[Legacy] Russian P	KOREN		D	
+93	[Legacy] Polish P	KORZEN		D	
+90	[Legacy] Byelorussian P	KORAN		D	
+98	[Legacy] Ukrainian P	KORIN		D	
+19	[Legacy] Czech E	KORENY		D	
+96	[Legacy] Slovak P	KOREN		D	
+91	[Legacy] Czech P	KOREN		D	
+67	[Legacy] Slovenian	KORERUKA		D	
+45	[Legacy] Lithuanian O	SAKNIS		F	
+11	[Legacy] Brazilian	raiz	xa'is	B	
+142	[Legacy] German Munich	Wurzel		B	
+84	[Legacy] French Creole C	HWASIN		B	
+14	[Legacy] Breton St	gwrizienn	'gwrizjɛn	B	
+13	[Legacy] Breton Se	GROUIEN		B	
+78	[Legacy] Welsh C	GWREIDDYN		B	
+37	[Legacy] Irish A	PREAMH		B	

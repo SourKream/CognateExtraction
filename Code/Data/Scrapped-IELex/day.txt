@@ -1,0 +1,164 @@
+114	Proto-Indo-European	*di̯eu̯-		C	
+114	Proto-Indo-European	*dʰōg̑ʰ-e/os-		B	
+80	Hittite	sīwaz		C	
+133	Luvian	halli			
+81	Tocharian A	koṃ		H	
+82	Tocharian B	kauṃ		H	
+88	Albanian	DITA		C	
+143	Standard Albanian	ditë		C	
+2	Albanian Sicily	DIT		C	
+4	Albanian Corinth	DITE		C	
+3	Albanian Gheg	DITA		C	
+6	Albanian Tosk	DITE		C	
+173	Mycenaean Greek	*a-ma		F	
+110	Ancient Greek	ἡμέρᾱ	hɛːméraː	F	
+32	Greek	μέρα	ˈme̞ra	F	
+31	Greek Lesbos	MERA		F	
+129	Classical Armenian	աւր	awr	(F)	
+129	Classical Armenian	տիւ	tiu̯	(C)	
+8	Armenian Eastern	ցերեկ	tsʰɛˈɾɛk		
+8	Armenian Eastern	օր	oɾ	F	
+7	Armenian Western	օր	or	F	
+128	Avestan	aiiarə		B	
+128	Avestan	azan-		B	
+131	Old Persian	rauča		E	
+136	Sogdian	myθ		I	
+75	Wakhi	ROR, REWOR		E	
+9	Baluchi	ROSH		E	
+137	Zazaki	rož		E	
+72	Tajik	RUZ		E	
+54	Persian	RUZ		E	
+77	Waziri	VREZ		A	
+77	Waziri	WREZ		A	
+1	Pashto	VRADZ		A	
+138	Shughni	mēθ		I	
+138	Shughni	rūz		(E)	
+139	Sarikoli	rыz		(E)	
+139	Sarikoli	maθ		I	
+52	Ossetic	bon	bon	D	
+124	Ossetic Iron	bon	bon	D	
+125	Ossetic Digor	bon(ɐ)	bon(ɐ)	D	
+141	Kata-viri	gɨǰur		J	
+105	Vedic Sanskrit	dyáv-		(C)	
+105	Vedic Sanskrit	áhar		B	
+162	Pāḷī	diva		C	
+162	Pāḷī	aṇha		B	
+41	Khaskura	DIUSO		C	
+51	Nepali	DIN		C	
+106	Assamese	niti		K	
+106	Assamese	din	din	C	
+102	Oriya	dinɔ	dinɔ	C	
+10	Bengali	DIN		C	
+111	Bihari	din	din	C	
+144	Magahi	दिन	d̪in	C	
+104	Marwari	dɪn	dɪn	C	
+35	Hindi	din	d̪ɪn̪	C	
+119	Urdu	دِن	d̪ɪn	C	
+103	Sindhi	ḍ̄ĩhu		C	
+43	Lahnda	DI		C	
+53	Punjabi	DIN		C	
+33	Gujarati	DIWES		C	
+50	Marathi	wār	waɾ	C	
+50	Marathi	diwas	'diwəs	C	
+40	Kashmiri	DEN, DOH		C	
+65	Sinhalese	DAVAL		C	
+34	Romani Greece	GYES		C	
+100	Old Church Slavonic	дьнь	dɪ̆nɪ̆	C	
+95	Serbo-Croatian	dan	dâːn	C	
+15	Bulgarian	ден	dɛn	C	
+92	Macedonian	ден	den	C	
+60	Russian	день	dʲɛnʲ	C	
+55	Polish	dzień	ʥɛɲ	C	
+16	Belarusian	дзень	dzʲɛnʲ	C	
+73	Ukrainian	день	dɛnʲ	C	
+66	Slovak	deň	ɟɛɲ	C	
+18	Czech	den	dɛn	C	
+48	Sorbian Upper	dźeń	dʒen	C	
+47	Sorbian Lower	źeń	ʑeɲ	C	
+97	Slovenian	dan	dâːn	C	
+108	Old Prussian	deinan		C	
+44	Latvian	dìena		C	
+46	Lithuanian	diena	dʲjɛˈnɐ	C	
+109	Old Norse	dagr	daɣr	B	
+36	Icelandic	dagur	ˈd̥aːɣʏr	B	
+23	Faroese	dagur	ˈd̥ɛaːvʊɹ	B	
+58	Norwegian Riksmal	dag	daːɡ	B	
+159	Stavangersk	daɡ	dɑːɡ	B	
+157	Old Swedish	dagher	ˈdaːɣer	B	
+69	Swedish	dag	dɑː(g)	B	
+71	Swedish Vilhelmina	DAG		B	
+70	Swedish Uppland	DAG		B	
+145	Elfdalian	dag	dɑːg	B	
+20	Danish	dag	d̥æˀ	B	
+158	Danish Fjolde	dav	dɑw	B	
+160	Old Gutnish	dagr		B	
+161	Gutnish Lau	dag	dɑːɡ	B	
+99	Old English	dæg		B	
+22	English	day	deɪ	B	
+26	Frisian	dei	dai, dɛi	B	
+21	Dutch	dag	dɑχ	B	
+24	Flemish	DAG		B	
+83	Afrikaans	DAG		B	
+87	Sranan	DEI		B	
+126	Old High German	tag		B	
+126	Old High German	tag		B	
+27	German	Tag	ta:k	B	
+86	Pennsylvania Dutch	DAWG		B	
+120	Luxembourgish	Dag		B	
+121	German Switzerland	taag		B	
+107	Gothic	dags		B	
+130	Oscan	zicolom		C	
+130	Oscan	iúkleí			
+132	Umbrian	tiçel		C	
+112	Latin	diēs	ˈdieːs	C	
+17	Catalan	dia	'diə	C	
+56	Portuguese	dia	ˈdiɐ	C	
+68	Spanish	día	'dia	C	
+61	Sardinian Cagliari	DI		C	
+62	Sardinian Logudoro	DIE		C	
+63	Sardinian Nuoro	DIE		C	
+85	French Creole Dominica	ZU		C	
+76	Walloon	DJOU		C	
+25	French	jour	ʒuʀ	C	
+57	Provencal	JOUR		C	
+42	Ladin	DI		C	
+146	Dolomite Ladino	dì		C	
+123	Romansh	di		C	
+122	Friulian	dì		C	
+122	Friulian	zornade			
+39	Italian	giorno	'dʒorno	C	
+59	Romanian	zi	zi	C	
+74	Vlach	ZUE		C	
+140	Gaulish	sindiu		C	
+127	Old Irish	laithe, lae	laθʹe, la.e	G	
+101	Middle Cornish	geydh			
+101	Middle Cornish	dydh	dɪ:ð	C	
+172	Middle Breton	dez, deyz, deiz	ˈdeːð, ˈdejð	C	
+12	Breton	deiz	ˈdɛj(s), ˈdeː	C	
+79	Welsh	dydd	dɨːð, diːð	C	
+38	Irish	lá	l̪ˠaː	G	
+115	Scottish Gaelic	là		G	
+5	[Legacy] Albanian T	DITE		C	
+29	[Legacy] Greek K	HEMERA		F	
+28	[Legacy] Greek D	MERA, HEMERA		F	
+30	[Legacy] Greek Md	MERA, HEMERA		F	
+64	[Legacy] Serbocroatian	DAN		C	
+113	[Legacy] Serbian	dan	dâːn	C	
+89	[Legacy] Bulgarian P	DEN		C	
+49	[Legacy] Macedonian	DEN		C	
+94	[Legacy] Russian P	DEN		C	
+93	[Legacy] Polish P	DZIEN		C	
+90	[Legacy] Byelorussian P	DZEN		C	
+98	[Legacy] Ukrainian P	DEN		C	
+19	[Legacy] Czech E	DENY		C	
+96	[Legacy] Slovak P	DEN		C	
+91	[Legacy] Czech P	DEN		C	
+67	[Legacy] Slovenian	DAN		C	
+45	[Legacy] Lithuanian O	DIENA		C	
+11	[Legacy] Brazilian	DIA		C	
+142	[Legacy] German Munich	Tag		B	
+84	[Legacy] French Creole C	ZU		C	
+14	[Legacy] Breton St	deiz	dɛj, dɛjs	C	
+13	[Legacy] Breton Se	DE		C	
+78	[Legacy] Welsh C	DYDD		C	
+37	[Legacy] Irish A	LA		G	

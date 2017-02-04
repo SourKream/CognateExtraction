@@ -1,0 +1,164 @@
+80	Hittite	huettiezzi			
+81	Tocharian A	tsäknāṣ			
+82	Tocharian B	slaṅktär			
+88	Albanian	HEK		C	
+143	Standard Albanian	tërheq		C	
+2	Albanian Sicily	RNAR			
+4	Albanian Corinth	XELHKIN		C	
+3	Albanian Gheg	HEK		C	
+6	Albanian Tosk	EK, AOR. OKA		C	
+110	Ancient Greek	ἕλκω	helkɔː	C	
+32	Greek	τραβώ	traˈvo̞	R	
+32	Greek	σέρνω			
+31	Greek Lesbos	TRABO		R	
+129	Classical Armenian	քարշեմ	kʰaršem	D	
+129	Classical Armenian	ձգեմ	jgem		
+8	Armenian Eastern	k’ašel	kʰɑˈʃɛl	D	
+8	Armenian Eastern	jgel	ʣəˈkʰɛl		
+7	Armenian Western	KASHEL		D	
+128	Avestan	θanǰaiiete			
+136	Sogdian	’wst’t			
+75	Wakhi	XUS-		A	
+9	Baluchi	CHIKAGH, CHIKITHA			
+137	Zazaki	āntiš			
+72	Tajik	KASIDAN, KASOLA KARDAN		A	
+54	Persian	KASHIDAN		A	
+77	Waziri	WUKSHEL, KSHEL		A	
+1	Pashto	KSEL, ISTEL		A	
+138	Shughni	tāž			
+52	Ossetic	ivazyn	ivazɨn		
+52	Ossetic	LASYN		Q	
+124	Ossetic Iron	laš-	laš-	Q	
+125	Ossetic Digor	las-	las-	Q	
+105	Vedic Sanskrit	kárṣati		A	
+162	Pāḷī	kaḍḍhati		W	
+41	Khaskura	TANNU		R, U	
+51	Nepali	KHAICNU		F	
+51	Nepali	TANNU		U	
+106	Assamese	tan	tan	U	
+102	Oriya	ṭaṇ-	ʈaɳ-	U	
+10	Bengali	TANA		U	
+111	Bihari	khicəb	khicəb	F	
+144	Magahi	खिचना	kʰĩcənɑ		
+104	Marwari	ləm-aɽi	ləm-aɽi	S	
+35	Hindi	KHICNA		F	
+119	Urdu	کھینچنا	kʰenʧnə	F	
+103	Sindhi	chikəṇu	chikəɳu	F	
+103	Sindhi	kašanu		A	
+43	Lahnda	KHICCEN		F	
+53	Punjabi	KHICCENA		F	
+33	Gujarati	KHECWU		F	
+50	Marathi	odhne	'oɖʰɳe	P	
+40	Kashmiri	LAMUN		S	
+65	Sinhalese	ADINAWA		P	
+34	Romani Greece	SWRDAV			
+100	Old Church Slavonic	влѣщи	vlæʃti	C	
+95	Serbo-Croatian	vući	ˈvûːtɕi	C	
+15	Bulgarian	дърпам	ˈdɤrpəm	X	
+92	Macedonian	влече	ˈvletʃɛ	C	
+60	Russian	тянуть	tʲaˈnutʲ	T	
+55	Polish	ciągnąć	ˈtɕɔŋɡnɔɲtɕ	T	
+16	Belarusian	цягнуць	tsʲaˈɣnutsʲ	T	
+73	Ukrainian	тягнути	tʲaɦˈtɪ	T	
+66	Slovak	ťahať	ˈcaɦac	T	
+18	Czech	táhnout	ˈtaːɦnɔut	T	
+48	Sorbian Upper	ćahnyć	ˈtʃanɘ̟tʃ	T	
+47	Sorbian Lower	śěgnuś	ˈɕɪɡnuɕ	T	
+97	Slovenian	vleči	ˈvlěːtʃi	C	
+108	Old Prussian	tēnsītweī		E, (T)	
+44	Latvian	vę̀lk		C	
+46	Lithuanian	TRAUKTI		O	
+109	Old Norse	toga	ˈtoɣa	(L)	
+109	Old Norse	draga	ˈdraɣa	J	
+36	Icelandic	draga	ˈd̥raːɣa	J	
+36	Icelandic	toga	ˈtʰɔːɣa	L	
+23	Faroese	draga	ˈd̥ɹɛaːɡa	J	
+23	Faroese	toga	ˈtʰoːɡa	L	
+23	Faroese	hála	ˈhɔaːla	V	
+58	Norwegian Riksmal	trekke	ˈtɾɛ̀kːə	(B)	
+58	Norwegian Riksmal	dra	dɾaː	J	
+159	Stavangersk	dra	dʁɑː	J	
+157	Old Swedish	dragha	ˈdraːɣa	J	
+69	Swedish	rycka	ˈrỳkːa	(J)	
+69	Swedish	dra	drɑ:	J	
+71	Swedish Vilhelmina	SLIT		M	
+71	Swedish Vilhelmina	DRA		J	
+70	Swedish Uppland	DRA(GA)		J	
+70	Swedish Uppland	SLITA		M	
+145	Elfdalian	drågå	drɔ̀gɔ	J	
+20	Danish	drage	ˈd̥ʁɑːwə	J	
+20	Danish	trække	d̥ʰʁag̥ʰə	(B)	
+158	Danish Fjolde	dræj	dɹæj	J	
+158	Danish Fjolde	træk	tɹæɡ	(B)	
+160	Old Gutnish	drega, draga		J	
+161	Gutnish Lau	drägä	ˈdrɛːɡɛ	J	
+99	Old English	drægþ		J	
+99	Old English	tīehþ		L	
+22	English	to pull	pʊl		
+26	Frisian	lûke	'lukə	B	
+26	Frisian	trekke	'trɛkə	B	
+21	Dutch	trekken	'trɛkə(n)	B	
+24	Flemish	TREKKEN		B	
+83	Afrikaans	TREK		B	
+87	Sranan	HALI			
+126	Old High German	ziuhit		L	
+126	Old High German	dinsit		E, (T)	
+27	German	ziehen	't͜si:ən	L	
+86	Pennsylvania Dutch	ZIEK		L	
+120	Luxembourgish	zéien		L	
+121	German Switzerland	zie		L	
+107	Gothic	atþinsiþ		E, (T)	
+112	Latin	trahere	ˈtrahere	J	
+17	Catalan	estirar	əsti'ɾa	K	
+17	Catalan	treure	'tɾɛuwɾə	K	
+56	Portuguese	puxar	puˈʃaɾ	G	
+68	Spanish	jalar	xa'laɾ		
+68	Spanish	tirar	ti'ɾaɾ	K	
+61	Sardinian Cagliari	TIRAI		K	
+62	Sardinian Logudoro	TIRARE		K	
+63	Sardinian Nuoro	ISTRITHTHIRE			
+85	French Creole Dominica	TIWE		K	
+76	Walloon	SETCHI			
+25	French	tirer	tiʀe	K	
+57	Provencal	TIRA, TRAIRE		K	
+42	Ladin	TRER		K	
+146	Dolomite Ladino	tirà		K	
+123	Romansh	trair		K	
+122	Friulian	tirâ		K	
+39	Italian	tirare	ti'rare	K	
+59	Romanian	a trage		J	
+74	Vlach	TRAGU		J	
+127	Old Irish	srengaid	sʹrʹeŋgəðʹ	N	
+101	Middle Cornish	tenna	'tɛn:a	H	
+172	Middle Breton	tennaff	ˈtenːaṽ	(H)	
+12	Breton	sachañ		I	
+12	Breton	tennañ	ˈtɛnːã	(H)	
+79	Welsh	tynnu		H	
+38	Irish	tarraing		N	
+115	Scottish Gaelic	tarraing		N	
+5	[Legacy] Albanian T	ME HEGUR		C	
+29	[Legacy] Greek K	TRABO		R	
+28	[Legacy] Greek D	TRABAO		R	
+30	[Legacy] Greek Md	TRABO		R	
+64	[Legacy] Serbocroatian	VUCI		C	
+113	[Legacy] Serbian	vući	ʋûːtɕi	C	
+89	[Legacy] Bulgarian P	VLACA		C	
+49	[Legacy] Macedonian	VLECE		C	
+49	[Legacy] Macedonian	TRGA		T	
+49	[Legacy] Macedonian	PROVIRA			
+94	[Legacy] Russian P	T AGAT		T	
+93	[Legacy] Polish P	CIAGNAC		T	
+90	[Legacy] Byelorussian P	C AHNYC		T	
+98	[Legacy] Ukrainian P	T AHATY		T	
+19	[Legacy] Czech E	TAHNUT		T	
+96	[Legacy] Slovak P	VLIECT		C	
+91	[Legacy] Czech P	VLECI		C	
+67	[Legacy] Slovenian	NATZRAT			
+45	[Legacy] Lithuanian O	TRAUKTI		O	
+11	[Legacy] Brazilian	PUXAR		G	
+142	[Legacy] German Munich	ziehen		L	
+84	[Legacy] French Creole C	TIHWE, HALE		K	
+14	[Legacy] Breton St	sachañ	'saʃã	I	
+13	[Legacy] Breton Se	CHACHEIN		I	
+78	[Legacy] Welsh C	TYNNU		H, (T)	
+37	[Legacy] Irish A	TARRAINGT		N	

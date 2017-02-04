@@ -1,0 +1,156 @@
+114	Proto-Indo-European	*dn̥ǵʰwéh₂s		W	
+80	Hittite	lalas		G	
+133	Luvian	lālis		G	
+81	Tocharian A	käntu		W	
+82	Tocharian B	kantwo		W	
+88	Albanian	gjuhë		C	
+143	Standard Albanian	gjuhë		C	
+2	Albanian Sicily	gjuhë		C	
+4	Albanian Corinth	gjuhë		C	
+3	Albanian Gheg	gjuhena		C	
+6	Albanian Tosk	gjuhë		C	
+110	Ancient Greek	γλῶττα	ɡlɔ̑ːtːa	D	
+152	Tsakonian	γρουσσα		D	
+32	Greek	γλώσσα	ˈɣlo̞sa	D	
+31	Greek Lesbos	GLOSSA		D	
+129	Classical Armenian	lezow		W	
+8	Armenian Eastern	lezu	lɛˈzu	W	
+7	Armenian Western	LEZOO		W	
+128	Avestan	hizuua		W	
+131	Old Persian	hazāna-		W	
+136	Sogdian	zb’q		W	
+75	Wakhi	ZIK		W	
+9	Baluchi	ZAWAN		W	
+118	Kurdish	ziman		W	
+137	Zazaki	ziwān		W	
+72	Tajik	zabon	zæbɔːn	W	
+54	Persian	zaban	zæˈbɒːn	W	
+77	Waziri	ZHEBBA		W	
+1	Pashto	ZEBA		W	
+138	Shughni	lavz			
+138	Shughni	ziv		W	
+139	Sarikoli	ziv		W	
+124	Ossetic Iron	ɐvžɐg	ɐvžɐg	W	
+125	Ossetic Digor	ɐvzɐg	ɐvzɐg	W	
+141	Kata-viri	dit͡s		W	
+154	Vasi-vari	luzux/k, wurjuk		W	
+153	Askunu	ž(y)ū		W	
+105	Vedic Sanskrit	jihvá̄		W	
+162	Pāḷī	jivhā		W	
+41	Khaskura	JIBRO		W	
+51	Nepali	JIBRO		W	
+106	Assamese	zīb(h)a		W	
+102	Oriya	jibhɔ	jibhɔ	W	
+10	Bengali	JIB		W	
+111	Bihari	jiu	jiu	W	
+144	Magahi	जीभ	ɟibʰ		
+104	Marwari	jīb		W	
+35	Hindi	jibh	dʒiːbʱ	W	
+119	Urdu	زبان	zəbɑn	W	
+103	Sindhi	j̄ibha		W	
+43	Lahnda	JIBH		W	
+53	Punjabi	JIB		W	
+33	Gujarati	JIB		W	
+50	Marathi	dʒībh	dʒibʰ	W	
+40	Kashmiri	ZEV		W	
+65	Sinhalese	DIVA		W	
+34	Romani Greece	CHIP		W	
+100	Old Church Slavonic	ѩзыкъ	jɛ̃zɯkʊ̆	W	
+95	Serbo-Croatian	jezik	ˈjɛ̌zik	W	
+15	Bulgarian	език	ɘˈzik	W	
+92	Macedonian	јазик	ˈjazik	W	
+60	Russian	язык	ji'zɨk	W	
+55	Polish	język	ˈjɛɰ̃zɘ̟k	W	
+16	Belarusian	язык	jaˈzɨk	W	
+73	Ukrainian	язик	jaˈzɪk	W	
+66	Slovak	jazyk	ˈjazik	W	
+18	Czech	jazyk	ˈjazɪk	W	
+48	Sorbian Upper	jazyk	ˈjazɘ̟k	W	
+47	Sorbian Lower	jězyk	ˈjɪzɘ̟k	W	
+97	Slovenian	jezik	ˈjɛ̌ːzik	W	
+108	Old Prussian	insuwis		W	
+44	Latvian	mèle		A	
+46	Lithuanian	LIEZUVIS		W	
+109	Old Norse	tunga	ˈtunɣa	W	
+36	Icelandic	tunga	ˈtʰuŋɡ̊a	W	
+23	Faroese	tunga	ˈtʰʊŋɡ̊a	W	
+58	Norwegian Riksmal	tunge	ˈtʉ̀ŋːə	W	
+159	Stavangersk	tonga	ˈtùŋːa	W	
+157	Old Swedish	tunga	ˈtuŋːa	W	
+69	Swedish	tunga	ˈtɵ̀ŋːa	W	
+71	Swedish Vilhelmina	TONGA		W	
+70	Swedish Uppland	TUNGA		W	
+145	Elfdalian	tungga	ˈtʉ̀ŋgɑ	W	
+20	Danish	tunge	ˈd̥ʰɔŋə	W	
+158	Danish Fjolde	tong	toŋ	W	
+160	Old Gutnish	tunga		W	
+161	Gutnish Lau	tunggå	ˈtuŋɡo	W	
+99	Old English	tunge		W	
+22	English	tongue	tʌŋ	W	
+26	Frisian	tonge	'toŋə	W	
+26	Frisian	blaai	bla:i̯		
+21	Dutch	tong	tɔŋ	W	
+24	Flemish	TONG		W	
+83	Afrikaans	TONG		W	
+87	Sranan	TONGO		W	
+126	Old High German	zunga		W	
+27	German	Zunge	't͜sʊŋə	W	
+86	Pennsylvania Dutch	ZUUNG		W	
+120	Luxembourgish	Zong		W	
+121	German Switzerland	zunge		W	
+107	Gothic	tuggō		W	
+130	Oscan	fangvam		W	
+112	Latin	lingua	ˈliŋɡwa	W	
+17	Catalan	llengua	'ʎɛŋɡwə, 'ʎeŋɡwa	W	
+56	Portuguese	lingua	ˈlĩguɐ	W	
+68	Spanish	lengua	'leŋɡwa	W	
+61	Sardinian Cagliari	LINGUA		W	
+62	Sardinian Logudoro	LIMBA		W	
+63	Sardinian Nuoro	LIMBA		W	
+85	French Creole Dominica	LAN		W	
+76	Walloon	LINWE		W	
+25	French	langue	lɑ̃g	W	
+57	Provencal	lenga	ˈleŋɡo	W	
+42	Ladin	LAUNGIA		W	
+146	Dolomite Ladino	lèngå		W	
+123	Romansh	lieunga		W	
+122	Friulian	lenghe		W	
+39	Italian	lingua	'lingwa	W	
+59	Romanian	limbă	ˈlimbə	W	
+74	Vlach	LIMBE		W	
+140	Gaulish	tengua		W	
+127	Old Irish	tengae	tʹeŋge	W	
+149	Old Cornish	tauot		W	
+101	Middle Cornish	tavas	'tavəs	W	
+148	Old Breton	teaut		W	
+172	Middle Breton	teaut, teut			
+12	Breton	teod		W	
+150	Old Welsh	tauawt		W	
+79	Welsh	tafod		W	
+38	Irish	teanga		W	
+115	Scottish Gaelic	teanga		W	
+147	Manx	çhengey		W	
+5	[Legacy] Albanian T	gjuhë	ˈɟʑuhə	C	
+29	[Legacy] Greek K	GLOSSA		D	
+28	[Legacy] Greek D	GLOSSA		D	
+30	[Legacy] Greek Md	GLOSSA		D	
+64	[Legacy] Serbocroatian	JEZIK		W	
+113	[Legacy] Serbian	jezik		W	
+89	[Legacy] Bulgarian P	EZIK		W	
+49	[Legacy] Macedonian	jazik	ˈjazik	W	
+94	[Legacy] Russian P	JAZYK		W	
+93	[Legacy] Polish P	JEZYK		W	
+90	[Legacy] Byelorussian P	JAZYK		W	
+98	[Legacy] Ukrainian P	JAZYK		W	
+19	[Legacy] Czech E	JAZIK		W	
+96	[Legacy] Slovak P	JAZYK		W	
+91	[Legacy] Czech P	JAZYK		W	
+67	[Legacy] Slovenian	JEZIK		W	
+45	[Legacy] Lithuanian O	LIEZUVIS		W	
+11	[Legacy] Brazilian	LINGUA		W	
+142	[Legacy] German Munich	Zunge		W	
+84	[Legacy] French Creole C	LAN		W	
+14	[Legacy] Breton St	teod	tɛwt	W	
+13	[Legacy] Breton Se	TEAD		W	
+78	[Legacy] Welsh C	TAFOD		W	
+37	[Legacy] Irish A	TEANGA		W	

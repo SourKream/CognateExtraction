@@ -1,0 +1,149 @@
+80	Hittite	māhhan		E	
+81	Tocharian A	mänt		E	
+82	Tocharian B	mäkte		E	
+88	Albanian	KJYSH, SI		B	
+143	Standard Albanian	si		B	
+2	Albanian Sicily	SI		B	
+4	Albanian Corinth	SI		B	
+3	Albanian Gheg	KJYSH, SI		B	
+6	Albanian Tosk	SI		B	
+110	Ancient Greek	πῶς	pɔːs	B	
+32	Greek	πώς	po̞s	B	
+31	Greek Lesbos	POS		B	
+129	Classical Armenian	զիարդ	ziard		
+129	Classical Armenian	որպէս	orpēs		
+8	Armenian Eastern	ինչպես	inʧʰˈpɛs	C	
+8	Armenian Eastern	ոնց	onc'		
+7	Armenian Western	ինչպէս	inʧʰˈbɛs	C	
+128	Avestan	čū		B	
+136	Sogdian	c’		B	
+75	Wakhi	TSERUNG		B	
+9	Baluchi	CHACCHO, CHON, CHO		B	
+137	Zazaki	čitur		B	
+137	Zazaki	senīn		A	
+72	Tajik	CI TAVR, CI XEL		B	
+54	Persian	chetowr	tʃʰetou̯ɾ	B	
+77	Waziri	TSANGRA		B	
+1	Pashto	CENGA		B	
+138	Shughni	ca		B	
+138	Shughni	ar-di		F	
+139	Sarikoli	ca		B	
+52	Ossetic	kuyd	kwɨd	B	
+124	Ossetic Iron	kʷyd	kʷyd	B	
+125	Ossetic Digor	kud	kud	B	
+105	Vedic Sanskrit	kathā́		B	
+162	Pāḷī	kathaŋ		B	
+41	Khaskura	KASTO, KASTARI		B	
+51	Nepali	kəso, kəsto	kəso, kəsto	B	
+106	Assamese	kɛnɛkɔi	kɛnɛkɔi	B	
+102	Oriya	kemiti	kemiti	B	
+10	Bengali	KEMON		B	
+111	Bihari	kena	kena	B	
+144	Magahi	कइसे	kəise	B	
+104	Marwari	kyānna		B	
+35	Hindi	KESA		B	
+119	Urdu	کیسے	kɛse	B	
+103	Sindhi	kiian		B	
+43	Lahnda	KIWE		B	
+53	Punjabi	KIS+TERA		B	
+33	Gujarati	kem	kɛm	B	
+50	Marathi	kasa	'kəsə	B	
+40	Kashmiri	KETHA		B	
+65	Sinhalese	KOHOMADA		B	
+34	Romani Greece	SAR		H	
+100	Old Church Slavonic	како	kɑkɔ	B	
+95	Serbo-Croatian	kako	ˈkǎkɔ	B	
+15	Bulgarian	как	kak	B	
+92	Macedonian	како	ˈkakɔ	B	
+60	Russian	как	kak	B	
+55	Polish	jak	jak	D	
+16	Belarusian	як	jak	D	
+73	Ukrainian	як	jak	D	
+66	Slovak	ako	ˈakɔ	D	
+18	Czech	jak	jak	D	
+48	Sorbian Upper	kak	kak	B	
+47	Sorbian Lower	kak	kak	B	
+97	Slovenian	kako	kaˈkǒː, kaˈkôː	B	
+108	Old Prussian	kai		B	
+44	Latvian	kâ		B	
+46	Lithuanian	KAIP		B	
+109	Old Norse	hvé	ɣveː	B	
+36	Icelandic	hve	ɣvɛː	B	
+23	Faroese	hvussu	ˈkʰʊsːʊ	B	
+58	Norwegian Riksmal	hvorledes	ˈʋùːɭeːdəs	B	
+159	Stavangersk	koss, kolles	kusː, ˈkulːəs	B	
+157	Old Swedish	huru	huːru	B	
+69	Swedish	hur	hʉ:r	B	
+71	Swedish Vilhelmina	HORA		B	
+70	Swedish Uppland	HUR		B	
+145	Elfdalian	ur; ukin	ʉːr; ˈʉ̀kɪn	B	
+20	Danish	hvorledes	vɒˈle:ðəs	B	
+158	Danish Fjolde	vunt	vund	B	
+160	Old Gutnish	huru		B	
+161	Gutnish Lau	hur	huːr	B	
+99	Old English	hū		B	
+22	English	how	haʊ	B	
+26	Frisian	HO'T		B	
+21	Dutch	hoe	hu	B	
+24	Flemish	HOE		B	
+83	Afrikaans	HOE		B	
+126	Old High German	wuo		B	
+126	Old High German	wio		B	
+27	German	wie	vi:	B	
+86	Pennsylvania Dutch	WIE		B	
+120	Luxembourgish	wéi		B	
+121	German Switzerland	wie		B	
+107	Gothic	ƕaiwa		B	
+112	Latin	quōmodo	ˈkʷoːmodo	B	
+112	Latin	quam	kʷam	(B)	
+112	Latin	quī	kʷiː	B	
+17	Catalan	com	kɔm	B	
+56	Portuguese	como	'komu	B	
+68	Spanish	como	'komo	B	
+61	Sardinian Cagliari	KOMMENTI		B	
+62	Sardinian Logudoro	COMENTE		B	
+63	Sardinian Nuoro	KOMENTE		B	
+85	French Creole Dominica	KUMA		B	
+76	Walloon	KIMINT		B	
+25	French	comment	kɔmɑ̃	B	
+57	Provencal	COUME		B	
+42	Ladin	QUANT		B	
+123	Romansh	co		B	
+122	Friulian	cemût		B	
+39	Italian	come	'kome	B	
+59	Romanian	cum	kum	B	
+74	Vlach	KU		B	
+127	Old Irish	cía cruth	kʹi:ə kruθ	B	
+101	Middle Cornish	fatəel	fatəel		
+101	Middle Cornish	ass	as		
+172	Middle Breton	penaus, pennaus, penos, penaux, penaulx	peˈnaus, ˈpenoːs	B	
+12	Breton	penaos	peˈnoːs	B	
+79	Welsh	pa		B	
+79	Welsh	sut		(G)	
+38	Irish	conas		B	
+115	Scottish Gaelic	ciamar		B	
+115	Scottish Gaelic	cionnas		(B)	
+5	[Legacy] Albanian T	SI		B	
+29	[Legacy] Greek K	POS		B	
+28	[Legacy] Greek D	POS		B	
+30	[Legacy] Greek Md	POS		B	
+64	[Legacy] Serbocroatian	KAKO		B	
+113	[Legacy] Serbian	kako	kâko	B	
+89	[Legacy] Bulgarian P	KAK		B	
+49	[Legacy] Macedonian	KAKO		B	
+94	[Legacy] Russian P	KAK		B	
+93	[Legacy] Polish P	JAK		D	
+90	[Legacy] Byelorussian P	JAK		D	
+98	[Legacy] Ukrainian P	JAK		D	
+19	[Legacy] Czech E	YAK		D	
+96	[Legacy] Slovak P	AKO		D	
+91	[Legacy] Czech P	JAK		D	
+67	[Legacy] Slovenian	KAKO		B	
+45	[Legacy] Lithuanian O	KAIP		B	
+11	[Legacy] Brazilian	COMO		B	
+142	[Legacy] German Munich	wie		B	
+84	[Legacy] French Creole C	KUMA		B	
+14	[Legacy] Breton St	penaos	pẽ'nɔ:s	B	
+13	[Legacy] Breton Se	PENAOS		B	
+78	[Legacy] Welsh C	SUT		G	
+37	[Legacy] Irish A	CONAS		B	

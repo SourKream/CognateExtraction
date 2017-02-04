@@ -1,0 +1,164 @@
+82	Tocharian B	enmetre			
+88	Albanian	zhapë		C	
+88	Albanian	KUJA			
+143	Standard Albanian	lëvore			
+4	Albanian Corinth	FUDHE			
+3	Albanian Gheg	kuje,a			
+3	Albanian Gheg	zhapë		C	
+6	Albanian Tosk	cipë			
+110	Ancient Greek	φλοιός	pʰloiós	L	
+152	Tsakonian	φρουα, φλουδα		K	
+32	Greek	φλούδα	ˈfluða	K	
+32	Greek	φλοιός	fliˈo̞s	(L)	
+31	Greek Lesbos	FLOUDA		K	
+129	Classical Armenian	կեղեւ	kɛɫɛu̯	(D)	
+8	Armenian Eastern	կեղև	kɛʁɛʋ	D	
+7	Armenian Western	կեղեւ	ɡɛʁɛv	D	
+75	Wakhi	DERUXTE PIST		(A)	
+9	Baluchi	GAWAZ		T	
+118	Kurdish	qaşik		U	
+118	Kurdish	qal		V	
+72	Tajik	PUST, TAXTAPUST		A	
+54	Persian	PUST		A	
+77	Waziri	PATIKAI		P	
+1	Pashto	POST		(A)	
+138	Shughni	pust		(A)	
+138	Shughni	čilyak		X	
+138	Shughni	anōq		W	
+52	Ossetic	c'ar	tsʲar	S	
+124	Ossetic Iron	c'ar	c'ar	S	
+125	Ossetic Digor	c'arɐ	c'arɐ	S	
+154	Vasi-vari	yiweyē			
+153	Askunu	cī			
+105	Vedic Sanskrit	tvák		Q	
+162	Pāḷī	taca		Q	
+41	Khaskura	BOKRA		N	
+51	Nepali	BOKRO		N	
+106	Assamese	sal		E	
+106	Assamese	bakɔli	bakɔli	N	
+102	Oriya	bɔkɔḷɔ	bɔkɔɭɔ	N	
+102	Oriya	čheli	čheli	E	
+10	Bengali	CHAL		E	
+111	Bihari	chal	chal	E	
+144	Magahi	छिलका	cʰilkɑ	E	
+104	Marwari	chauḍō		E	
+35	Hindi	chal	cʰal	E	
+119	Urdu	چھال	ʧɑl	E	
+103	Sindhi	čhilu		E	
+43	Lahnda	CHAL		E	
+53	Punjabi	CHELL		E	
+33	Gujarati	chal	tʃʰəl	E	
+50	Marathi	sāl	sal	E	
+40	Kashmiri	TSAM		S	
+40	Kashmiri	DEL		Y	
+65	Sinhalese	POTTA		Aa	
+34	Romani Greece	KOZA		(B)	
+100	Old Church Slavonic	кора	kɔrɑ	B	
+95	Serbo-Croatian	kora	ˈkɔ̂ra	B	
+15	Bulgarian	кора	kuˈra	B	
+92	Macedonian	кора	ˈkora	B	
+60	Russian	кора	kɔ'ra	B	
+55	Polish	kora	ˈkɔra	B	
+16	Belarusian	кара	kaˈra	B	
+73	Ukrainian	кора	kɔˈra	B	
+66	Slovak	kôra	ˈkuɔra	B	
+18	Czech	kůra	ˈkuːra	B	
+48	Sorbian Upper	skora	ˈskɔʀa	B	
+47	Sorbian Lower	škóra	ˈʂkɘ̟ra	B	
+97	Slovenian	skorja	ˈskǒːrja	B	
+108	Old Prussian	saxtis			
+44	Latvian	miza		R	
+46	Lithuanian	MEDZIO ZIEVE		O	
+109	Old Norse	bǫrkr	bɔrkr	G	
+36	Icelandic	börkur	ˈb̥œr̥kʏr	G	
+23	Faroese	børkur	ˈb̥œɹ̥kʊɹ	G	
+58	Norwegian Riksmal	bark	baɾk	G	
+159	Stavangersk	bårk	bɔʁk	G	
+157	Old Swedish	barker	ˈbarker	G	
+69	Swedish	bark	bark	G	
+71	Swedish Vilhelmina	BARK		G	
+70	Swedish Uppland	BARK		G	
+145	Elfdalian	bark	bɑrk	G	
+20	Danish	bark	b̥ɑːg̥ʰ	G	
+158	Danish Fjolde	barək	ˈbɑɹəɡ	G	
+161	Gutnish Lau	bark	bark	G	
+99	Old English	rinde		J	
+22	English	bark	bɑ:k	(G)	
+26	Frisian	bast	bɔst, bast	H	
+21	Dutch	schors	sχɔrs	(B)	
+21	Dutch	bast	bɑst	H	
+24	Flemish	BAST		H	
+83	Afrikaans	BOOMSKORS		B	
+83	Afrikaans	BAS		H	
+87	Sranan	BOEBA			
+126	Old High German	rinta		J	
+27	German	Rinde	'rɪndə	J	
+27	German	Borke	'bɔrkə	G	
+86	Pennsylvania Dutch	RINN		J	
+120	Luxembourgish	Schuel			
+121	German Switzerland	rinde		J	
+107	Gothic	hansa			
+107	Gothic	rintsch			
+112	Latin	cortex	ˈkorteks	B	
+17	Catalan	escorça	əs'kɔrsə	B	
+56	Portuguese	casca	ˈkaʃkɐ	B	
+56	Portuguese	CORTICA		B	
+68	Spanish	corteza	koɾ'teθa	B	
+61	Sardinian Cagliari	KROZU		B	
+62	Sardinian Logudoro	ISCORZA		B	
+63	Sardinian Nuoro	ISKORTHA		B	
+85	French Creole Dominica	LAPO		I	
+76	Walloon	PELOTE		I	
+25	French	écorce	ekɔʀs	B	
+57	Provencal	RUSCO		(F)	
+57	Provencal	GRUEIO			
+42	Ladin	SCORZA		B	
+146	Dolomite Ladino	scorza		B	
+123	Romansh	crusta		Z	
+123	Romansh	scorsa		B	
+122	Friulian	croste		Z	
+122	Friulian	scuarce, scusse		B	
+39	Italian	corteccia	kor'tettʃa	B	
+39	Italian	scorza	'skɔrdza	B	
+59	Romanian	scoarță		B	
+74	Vlach	FLUDHE		K	
+140	Gaulish	rusca		F	
+127	Old Irish	croiccenn	krokʹənn		
+127	Old Irish	coirt	korʹtʹ	(M)	
+127	Old Irish	rúsc	ru:sk	F	
+149	Old Cornish	rusc		F	
+101	Middle Cornish	rusk		F	
+148	Old Breton	rusc		F	
+172	Middle Breton	rusquenn	ˈrysken	F	
+12	Breton	rusk	ˈrysk	F	
+79	Welsh	rhisgl		F	
+38	Irish	coirt		(M)	
+38	Irish	rúsc		F	
+115	Scottish Gaelic	rùsg		F	
+115	Scottish Gaelic	cairt		(M)	
+147	Manx	roost		F	
+5	[Legacy] Albanian T	korë			
+5	[Legacy] Albanian T	lëvore			
+29	[Legacy] Greek K	FLOIOS		L	
+28	[Legacy] Greek D	FLOUDA		K	
+64	[Legacy] Serbocroatian	KORA		B	
+113	[Legacy] Serbian	kora		B	
+89	[Legacy] Bulgarian P	KORA		B	
+49	[Legacy] Macedonian	KORA		B	
+94	[Legacy] Russian P	KORA		B	
+93	[Legacy] Polish P	KORA		B	
+90	[Legacy] Byelorussian P	KARA		B	
+98	[Legacy] Ukrainian P	KORA		B	
+19	[Legacy] Czech E	KURA		B	
+96	[Legacy] Slovak P	KORA		B	
+91	[Legacy] Czech P	KURA		B	
+67	[Legacy] Slovenian	LUPOD DRVA			
+45	[Legacy] Lithuanian O	MEDZIO ZIEVE		O	
+11	[Legacy] Brazilian	casca	ˈkaskɐ	B	
+11	[Legacy] Brazilian	CORTEX, CORTICA		B	
+142	[Legacy] German Munich	Rinde		J	
+84	[Legacy] French Creole C	LAPO BWA		I	
+14	[Legacy] Breton St	rusk	rysk	F	
+13	[Legacy] Breton Se	KLOREN			
+78	[Legacy] Welsh C	RHISGL		F	
+37	[Legacy] Irish A	COIRT		M	

@@ -1,0 +1,600 @@
+
+\documentclass[journal]{IEEEtran}
+\usepackage{blindtext}
+\usepackage{graphicx}
+\usepackage{multirow}
+% *** MISC UTILITY PACKAGES ***
+%
+%\usepackage{ifpdf}
+% Heiko Oberdiek's ifpdf.sty is very useful if you need conditional
+% compilation based on whether the outpu]t is pdf or dvi.
+% usage:
+% \ifpdf
+%   % pdf code
+% \else
+%   % dvi code
+% \fi
+% The latest version of ifpdf.sty can be obtained from:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/oberdiek/
+% Also, note that IEEEtran.cls V1.7 and later provides a builtin
+% \ifCLASSINFOpdf conditional that works the same way.
+% When switching from latex to pdflatex and vice-versa, the compiler may
+% have to be run twice to clear warning/error messages.
+
+
+
+
+
+
+% *** CITATION PACKAGES ***
+%
+%\usepackage{cite}
+% cite.sty was written by Donald Arseneau
+% V1.6 and later of IEEEtran pre-defines the format of the cite.sty package
+% \cite{} output to follow that of IEEE. Loading the cite package will
+% result in citation numbers being automatically sorted and properly
+% "compressed/ranged". e.g., [1], [9], [2], [7], [5], [6] without using
+% cite.sty will become [1], [2], [5]--[7], [9] using cite.sty. cite.sty's
+% \cite will automatically add leading space, if needed. Use cite.sty's
+% noadjust option (cite.sty V3.8 and later) if you want to turn this off.
+% cite.sty is already installed on most LaTeX systems. Be sure and use
+% version 4.0 (2003-05-27) and later if using hyperref.sty. cite.sty does
+% not currently provide for hyperlinked citations.
+% The latest version can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/cite/
+% The documentation is contained in the cite.sty file itself.
+
+
+
+
+
+
+% *** GRAPHICS RELATED PACKAGES ***
+%
+\ifCLASSINFOpdf
+  % \usepackage[pdftex]{graphicx}
+  % declare the path(s) where your graphic files are
+  % \graphicspath{{../pdf/}{../jpeg/}}
+  % and their extensions so you won't have to specify these with
+  % every instance of \includegraphics
+  % \DeclareGraphicsExtensions{.pdf,.jpeg,.png}
+\else
+  % or other class option (dvipsone, dvipdf, if not using dvips). graphicx
+  % will default to the driver specified in the system graphics.cfg if no
+  % driver is specified.
+  % \usepackage[dvips]{graphicx}
+  % declare the path(s) where your graphic files are
+  % \graphicspath{{../eps/}}
+  % and their extensions so you won't have to specify these with
+  % every instance of \includegraphics
+  % \DeclareGraphicsExtensions{.eps}
+\fi
+% graphicx was written by David Carlisle and Sebastian Rahtz. It is
+% required if you want graphics, photos, etc. graphicx.sty is already
+% installed on most LaTeX systems. The latest version and documentation can
+% be obtained at: 
+% http://www.ctan.org/tex-archive/macros/latex/required/graphics/
+% Another good source of documentation is "Using Imported Graphics in
+% LaTeX2e" by Keith Reckdahl which can be found as epslatex.ps or
+% epslatex.pdf at: http://www.ctan.org/tex-archive/info/
+%
+% latex, and pdflatex in dvi mode, support graphics in encapsulated
+% postscript (.eps) format. pdflatex in pdf mode supports graphics
+% in .pdf, .jpeg, .png and .mps (metapost) formats. Users should ensure
+% that all non-photo figures use a vector format (.eps, .pdf, .mps) and
+% not a bitmapped formats (.jpeg, .png). IEEE frowns on bitmapped formats
+% which can result in "jaggedy"/blurry rendering of lines and letters as
+% well as large increases in file sizes.
+%
+% You can find documentation about the pdfTeX application at:
+% http://www.tug.org/applications/pdftex
+
+
+
+
+
+% *** MATH PACKAGES ***
+%
+%\usepackage[cmex10]{amsmath}
+% A popular package from the American Mathematical Society that provides
+% many useful and powerful commands for dealing with mathematics. If using
+% it, be sure to load this package with the cmex10 option to ensure that
+% only type 1 fonts will utilized at all point sizes. Without this option,
+% it is possible that some math symbols, particularly those within
+% footnotes, will be rendered in bitmap form which will result in a
+% document that can not be IEEE Xplore compliant!
+%
+% Also, note that the amsmath package sets \interdisplaylinepenalty to 10000
+% thus preventing page breaks from occurring within multiline equations. Use:
+%\interdisplaylinepenalty=2500
+% after loading amsmath to restore such page breaks as IEEEtran.cls normally
+% does. amsmath.sty is already installed on most LaTeX systems. The latest
+% version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/required/amslatex/math/
+
+
+
+
+
+% *** SPECIALIZED LIST PACKAGES ***
+%
+%\usepackage{algorithmic}
+% algorithmic.sty was written by Peter Williams and Rogerio Brito.
+% This package provides an algorithmic environment fo describing algorithms.
+% You can use the algorithmic environment in-text or within a figure
+% environment to provide for a floating algorithm. Do NOT use the algorithm
+% floating environment provided by algorithm.sty (by the same authors) or
+% algorithm2e.sty (by Christophe Fiorio) as IEEE does not use dedicated
+% algorithm float types and packages that provide these will not provide
+% correct IEEE style captions. The latest version and documentation of
+% algorithmic.sty can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/algorithms/
+% There is also a support site at:
+% http://algorithms.berlios.de/index.html
+% Also of interest may be the (relatively newer and more customizable)
+% algorithmicx.sty package by Szasz Janos:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/algorithmicx/
+
+
+
+
+% *** ALIGNMENT PACKAGES ***
+%
+%\usepackage{array}
+% Frank Mittelbach's and David Carlisle's array.sty patches and improves
+% the standard LaTeX2e array and tabular environments to provide better
+% appearance and additional user controls. As the default LaTeX2e table
+% generation code is lacking to the point of almost being broken with
+% respect to the quality of the end results, all users are strongly
+% advised to use an enhanced (at the very least that provided by array.sty)
+% set of table tools. array.sty is already installed on most systems. The
+% latest version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/required/tools/
+
+
+%\usepackage{mdwmath}
+%\usepackage{mdwtab}
+% Also highly recommended is Mark Wooding's extremely powerful MDW tools,
+% especially mdwmath.sty and mdwtab.sty which are used to format equations
+% and tables, respectively. The MDWtools set is already installed on most
+% LaTeX systems. The lastest version and documentation is available at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/mdwtools/
+
+
+% IEEEtran contains the IEEEeqnarray family of commands that can be used to
+% generate multiline equations as well as matrices, tables, etc., of high
+% quality.
+
+
+%\usepackage{eqparbox}
+% Also of notable interest is Scott Pakin's eqparbox package for creating
+% (automatically sized) equal width boxes - aka "natural width parboxes".
+% Available at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/eqparbox/
+
+
+
+
+
+% *** SUBFIGURE PACKAGES ***
+%\usepackage[tight,footnotesize]{subfigure}
+% subfigure.sty was written by Steven Douglas Cochran. This package makes it
+% easy to put subfigures in your figures. e.g., "Figure 1a and 1b". For IEEE
+% work, it is a good idea to load it with the tight package option to reduce
+% the amount of white space around the subfigures. subfigure.sty is already
+% installed on most LaTeX systems. The latest version and documentation can
+% be obtained at:
+% http://www.ctan.org/tex-archive/obsolete/macros/latex/contrib/subfigure/
+% subfigure.sty has been superceeded by subfig.sty.
+
+
+
+%\usepackage[caption=false]{caption}
+%\usepackage[font=footnotesize]{subfig}
+% subfig.sty, also written by Steven Douglas Cochran, is the modern
+% replacement for subfigure.sty. However, subfig.sty requires and
+% automatically loads Axel Sommerfeldt's caption.sty which will override
+% IEEEtran.cls handling of captions and this will result in nonIEEE style
+% figure/table captions. To prevent this problem, be sure and preload
+% caption.sty with its "caption=false" package option. This is will preserve
+% IEEEtran.cls handing of captions. Version 1.3 (2005/06/28) and later 
+% (recommended due to many improvements over 1.2) of subfig.sty supports
+% the caption=false option directly:
+%\usepackage[caption=false,font=footnotesize]{subfig}
+%
+% The latest version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/subfig/
+% The latest version and documentation of caption.sty can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/caption/
+
+
+
+
+% *** FLOAT PACKAGES ***
+%
+%\usepackage{fixltx2e}
+% fixltx2e, the successor to the earlier fix2col.sty, was written by
+% Frank Mittelbach and David Carlisle. This package corrects a few problems
+% in the LaTeX2e kernel, the most notable of which is that in current
+% LaTeX2e releases, the ordering of single and double column floats is not
+% guaranteed to be preserved. Thus, an unpatched LaTeX2e can allow a
+% single column figure to be placed prior to an earlier double column
+% figure. The latest version and documentation can be found at:
+% http://www.ctan.org/tex-archive/macros/latex/base/
+
+
+
+%\usepackage{stfloats}
+% stfloats.sty was written by Sigitas Tolusis. This package gives LaTeX2e
+% the ability to do double column floats at the bottom of the page as well
+% as the top. (e.g., "\begin{figure*}[!b]" is not normally possible in
+% LaTeX2e). It also provides a command:
+%\fnbelowfloat
+% to enable the placement of footnotes below bottom floats (the standard
+% LaTeX2e kernel puts them above bottom floats). This is an invasive package
+% which rewrites many portions of the LaTeX2e float routines. It may not work
+% with other packages that modify the LaTeX2e float routines. The latest
+% version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/sttools/
+% Documentation is contained in the stfloats.sty comments as well as in the
+% presfull.pdf file. Do not use the stfloats baselinefloat ability as IEEE
+% does not allow \baselineskip to stretch. Authors submitting work to the
+% IEEE should note that IEEE rarely uses double column equations and
+% that authors should try to avoid such use. Do not be tempted to use the
+% cuted.sty or midfloat.sty packages (also by Sigitas Tolusis) as IEEE does
+% not format its papers in such ways.
+
+
+%\ifCLASSOPTIONcaptionsoff
+%  \usepackage[nomarkers]{endfloat}
+% \let\MYoriglatexcaption\caption
+% \renewcommand{\caption}[2][\relax]{\MYoriglatexcaption[#2]{#2}}
+%\fi
+% endfloat.sty was written by James Darrell McCauley and Jeff Goldberg.
+% This package may be useful when used in conjunction with IEEEtran.cls'
+% captionsoff option. Some IEEE journals/societies require that submissions
+% have lists of figures/tables at the end of the paper and that
+% figures/tables without any captions are placed on a page by themselves at
+% the end of the document. If needed, the draftcls IEEEtran class option or
+% \CLASSINPUTbaselinestretch interface can be used to increase the line
+% spacing as well. Be sure and use the nomarkers option of endfloat to
+% prevent endfloat from "marking" where the figures would have been placed
+% in the text. The two hack lines of code above are a slight modification of
+% that suggested by in the endfloat docs (section 8.3.1) to ensure that
+% the full captions always appear in the list of figures/tables - even if
+% the user used the short optional argument of \caption[]{}.
+% IEEE papers do not typically make use of \caption[]'s optional argument,
+% so this should not be an issue. A similar trick can be used to disable
+% captions of packages such as subfig.sty that lack options to turn off
+% the subcaptions:
+% For subfig.sty:
+% \let\MYorigsubfloat\subfloat
+% \renewcommand{\subfloat}[2][\relax]{\MYorigsubfloat[]{#2}}
+% For subfigure.sty:
+% \let\MYorigsubfigure\subfigure
+% \renewcommand{\subfigure}[2][\relax]{\MYorigsubfigure[]{#2}}
+% However, the above trick will not work if both optional arguments of
+% the \subfloat/subfig command are used. Furthermore, there needs to be a
+% description of each subfigure *somewhere* and endfloat does not add
+% subfigure captions to its list of figures. Thus, the best approach is to
+% avoid the use of subfigure captions (many IEEE journals avoid them anyway)
+% and instead reference/explain all the subfigures within the main caption.
+% The latest version of endfloat.sty and its documentation can obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/endfloat/
+%
+% The IEEEtran \ifCLASSOPTIONcaptionsoff conditional can also be used
+% later in the document, say, to conditionally put the References on a 
+% page by themselves.
+
+
+
+
+
+% *** PDF, URL AND HYPERLINK PACKAGES ***
+%
+%\usepackage{url}
+% url.sty was written by Donald Arseneau. It provides better support for
+% handling and breaking URLs. url.sty is already installed on most LaTeX
+% systems. The latest version can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/misc/
+% Read the url.sty source comments for usage information. Basically,
+% \url{my_url_here}.
+
+
+
+
+
+% *** Do not adjust lengths that control margins, column widths, etc. ***
+% *** Do not use packages that alter fonts (such as pslatex).         ***
+% There should be no need to do such things with IEEEtran.cls V1.6 and later.
+% (Unless specifically asked to do so by the journal or conference you plan
+% to submit to, of course. )
+
+
+% correct bad hyphenation here
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+
+\begin{document}
+%
+% paper title
+% can use linebreaks \\ within to get better formatting as desired
+\title{Cognate Discovery to Bootstrap Lexical Resources}
+%
+%
+% author names and IEEE memberships
+% note positions of commas and nonbreaking spaces ( ~ ) LaTeX will not break
+% a structure at a ~ so this keeps an author's name from being broken across
+% two lines.
+% use \thanks{} to gain access to the first footnote area
+% a separate \thanks must be used for each paragraph as LaTeX2e's \thanks
+% was not built to handle multiple paragraphs
+%
+
+\author{Shantanu~Kumar, Dept. of Electrical Engineering, IIT Delhi\\ \textit{Supervisor - Prof. Sumeet Agarwal \& Dr. Ashwini Vaidya}}
+
+% note the % following the last \IEEEmembership and also \thanks - 
+% these prevent an unwanted space from occurring between the last author name
+% and the end of the author line. i.e., if you had this:
+% 
+% \author{....lastname \thanks{...} \thanks{...} }
+%                     ^------------^------------^----Do not want these spaces!
+%
+% a space would be appended to the last name and could cause every name on that
+% line to be shifted left slightly. This is one of those "LaTeX things". For
+% instance, "\textbf{A} \textbf{B}" will typeset as "A B" not "AB". To get
+% "AB" then you have to do: "\textbf{A}\textbf{B}"
+% \thanks is no different in this regard, so shield the last } of each \thanks
+% that ends a line with a % and do not let a space in before the next \thanks.
+% Spaces after \IEEEmembership other than the last one are OK (and needed) as
+% you are supposed to have spaces between the names. For what it is worth,
+% this is a minor point as most people would not even notice if the said evil
+% space somehow managed to creep in.
+
+
+
+% The paper headers
+\markboth{IIT Delhi B.Tech Project Part I : Report}%
+{}
+% The only time the second header will appear is for the odd numbered pages
+% after the title page when using the twoside option.
+% 
+% *** Note that you probably will NOT want to include the author's ***
+% *** name in the headers of peer review papers.                   ***
+% You can use \ifCLASSOPTIONpeerreview for conditional compilation here if
+% you desire.
+
+
+
+
+% If you want to put a publisher's ID mark on the page you can do it like
+% this:
+%\IEEEpubid{0000--0000/00\$00.00~\copyright~2007 IEEE}
+% Remember, if you use this you must call \IEEEpubidadjcol in the second
+% column for its text to clear the IEEEpubid mark.
+
+
+
+% use for special paper notices
+%\IEEEspecialpapernotice{(Invited Paper)}
+
+
+
+
+% make the title area
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{abstract}
+The high level of linguistic diversity in South Asia poses the challenge of building lexical resources across these languages. This project is aimed at automatically discovering cognates between closely related language pairs (e.g. Hindi-Marathi or Hindi-Punjabi) in a scalable manner. We would like to analyze a large part of the vocabulary for both languages, as opposed to small word lists used in previous works. We also aim to do a linguistic analysis over the identified cognates to conclude whether lexical resources can be successfully shared between Hindi and related languages.
+\end{abstract}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+Cognates are words across different languages that are known to have originated from the same word in a common ancestral language. For example, the English word '\textit{Night}' and the German '\textit{Nacht}', both meaning \textit{night} and English '\textit{Hound}' and German '\textit{Hund}', meaning \textit{dog} are cognates whose origin can be traced back to Proto-Germanic. Cognates are not always revealingly similar and can change substantially over time such that they do not share form similarity. 
+The English word '\textit{wheel}' and the Sanskrit word '\textit{chakra}' are in fact cognates which are traced back to '$*k^wek^welo$' from Proto-Indo-European.
+
+Automatic cognate identification, in Natural Language Processing, refers to the application of string similarity algorithms with machine learning algorithms for determining if a given word pair is cognate or not. Identification of cognates is essential in historical linguistics, and cognate information has been successfully applied to NLP tasks, like sentence alignment in bitexts \cite{simard1993using} and statistical machine translation \cite{kondrak2003cognates}. It can also be used to bootstrap lexical resource creation for a language with low resources by finding parallels in related rich resource languages.
+
+In this work, we have performed rigorous analysis over the existing state of the art models used for cognate identification to reveal their short comings and pitfalls and suggest possible improvements over these models to be implemented and tested in the second part of the project.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Previous Work}
+
+The approaches developed for the task of cognate identification are usually based on combination of different similarity measures between a pair of words as features to a linear classifier. These include orthographic and phonetic similarity. The objective can be finding pairs of cognates among two related languages, or finding groups of cognates among multiple languages.
+
+Hauer and Kondrak \cite{hauer2011clustering} incorporate a number of diverse word similarity measures, that are manually identified, as input to a SVM classifier. These features can include number of shared bi- grams, edit distance, and longest common sub-sequence. They also use features that encode the degree of affinity between pairs of languages. The authors employ binary language-pair feature that is used to weigh the language distance and assist the task of semantic clustering of cognates. After the classification of word pairs as cognates or non-cognates, they perform clustering over all lexical items from different languages and the same meaning. The clustering quality is evaluated against the gold standard cognacy judgments.
+
+T. Rama \cite{rama2015automatic} use a string kernel based approach for automatic cognate identification. They define every word as a normalized vector, with different dimensions representing all the different subsequences of various lengths that are present in the word, weighted by the count and gaps of the subsequence inside that word. By identifying all common subsequences vector between the word pairs and using that as input features to the linear classifier, they show that subsequence based features outperform word similarity measures in this task.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Datasets}
+The input data to the models for the task of cognate identification include dictionaries, multilingual word lists, and bitexts. But the word lists that have been used in all the works so far have been relatively small. This is probably because the gold label for cognacy judgement is a debatable task and has been applied to small datasets only. 
+
+\begin{table}[ht]
+\centering
+\caption{Sample Word List from Indo-European Dataset}
+\begin{tabular}{cc|c|c|c|}
+\cline{3-5}
+                                                 &         & \multicolumn{3}{c|}{Concepts} \\ \cline{3-5} 
+                                                 &         & ALL      & AND    & ANIMAL    \\ \hline
+\multicolumn{1}{|c|}{\multirow{4}{*}{Languages}} & English & All      & And    & Animal    \\ \cline{2-5} 
+\multicolumn{1}{|c|}{}                           & French  & Tut      & Et     & Animal    \\ \cline{2-5} 
+\multicolumn{1}{|c|}{}                           & Marathi & Serve    & Ani    & Jenaver   \\ \cline{2-5} 
+\multicolumn{1}{|c|}{}                           & Hindi   & Sara     & Or     & Janver    \\ \hline
+\end{tabular}
+\end{table}
+
+Table 1. shows a small part of a word list which is the typical data used in this task. The rows in the table represent individual languages and the columns represent individual concepts or meanings. Each word in the table contains a unique cognate class label which defines the groups of cognate words.
+
+The freely available Indo-European Dataset (Dyen et al., 1992) is the most commonly used dataset for cognate identification. It provides 16,520 lexical items for 200 concepts and 84 language varieties. It provides a unique Cognate Class Number to each word. The dataset is transcribed in a broad romanized phonetic alphabet.
+
+The IELex Database is also an Indo-European lexical database which has been derive from the Dyen Dataset and other sources. It has over 34K lexical items from 163 languages of the Indo-European family and information of around 5000 cognate sets. However, the transcription in IELex is not uniform. T. Rama in their work \cite{rama2016siamese} cleaned a subset of the IELex database of any non-IPA-like transcriptions and converted the data to IPA (International Phonetic Alphabet), which we have used in our work.
+
+We would also use the TDIL Hindi-Marathi sentence-aligned corpus as the testing data for our final model. This dataset would provide a large part of the vocabulary from the both the languages to search for cognates.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Experiments}
+
+We have implemented the gap-weighted subsequence model \cite{rama2015automatic} for cognate identification by following the paper. We implemented the model in Python, using scikit-learn open source library for the classification model. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Model}
+
+Let $\Sigma$ be the set of characters over which the data is defined. For any string $s$ defined over $\Sigma$, let $I$ be a sequence of indices ($i_1, i_2, .., i_{|u|}$) and $u$ be the subsequence of $s$ corresponding to $I$. For such a string \textit{s} over $\Sigma$, the subsequence vector $\Phi(s)$ is defined as follows,
+
+$$\phi_u(s) = \Sigma_{I; s[I] = u}\lambda^{l(I)}$$
+$$l(I) = i_{|u|} - i_1 + 1, \lambda \in (0,1)$$
+$$\Phi(s) = \{\phi_u(s); \forall u \in \cup_{n=1}^p \Sigma^n\}$$
+
+Here $\lambda$ is the weight tuning parameter for the model and $p$ is the longest length of the subsequence to be considered. The subsequence vector $\Phi(s)$ for every word $s$ is also normalised by dividing it with $||\Phi(s)||$. The combined subsequence vector for two words, ($s_1, s_2$) can be defined in two ways,
+$$\Phi_1(s_1, s_2) = \{\phi_u(s_1) + \phi_u(s_2); \forall u \textsf{ present in } s_1 \textsf{ and } s_2\}$$
+$$\Phi_2(s_1, s_2) = \{\phi_u(s_1) + \phi_u(s_2); \forall u \textsf{ present in } s_1 \textsf{ or } s_2\}$$
+
+The difference between the two combined susequence vectors mentioned above is that the first one only considers only the subsequences that are common to both $s_1$ and $s_2$, whereas the second takes the sum of all the subsequences. It can be said that the first model is \textit{Multiplicative} while the second is \textit{Additive}. Although the first vector should capture the correct information regarding the common features between the words, it can be too sparse at times when there are not a lot of common subsequences between the word (which does not not necessarily imply that the words are not cognates). Hence we also define the strings over a broader character set of $\{C, V\}$ representing consonents and vowels. The set $V$ includes $\{a, e, i, o, u, y\}$ and $C$ include $\Sigma - V$. Thus a string like $s=$ \textit{ANIMAL} is mapped to $s_{CV}=$ \textit{VCVCVC} and $s=$ \textit{ALL} to $s_{CV}=$ \textit{VCC}. The subsequence vector for any string is then the combined vector of $\Phi(s) + \Phi(s_{CV})$. 
+
+The Linear SVM classifier model is then trained using the combined subsequence vector $\Phi(s_1, s_2)$ for each sample pair of words. We have used the python sci-kit learn library to train the SVM classifier. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Testing Methods}
+The training of the model is performed in the following two different cross validation methods.
+
+\subsubsection{Simple Cross Validation}
+In this method, all the words in the word list are divided into 5 fold cross validation sets. The training samples are picked by considering all word pairs from the training folds and the testing samples consist of all word pairs from the testing fold. We report the average cross validated F-Score as the measure of performance of the model, for various values of the parameter $\Lambda$ while keep the maximum length of the subsequence ($p$) fixed at 3.
+
+\subsubsection{Cross Concept Cross Validation}
+In this method, all the meanings/concepts in the word list are divided into 5 fold cross validation sets. The training samples are picked by considering only word pairs from the set of meanings in the training folds and the testing samples consist of all word pairs from the meanings belonging to the testing fold. The idea here is to test if the model learns general trends in sound change across the language which are applicable to words from meanings/concepts that the model has not observed during training.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}[ht]
+\centering
+\includegraphics[width=8cm]{G1.png}
+\caption{5-Fold cross validation F-Score variation with Lambda using simple cross validation method}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=8cm]{G2.png}
+\caption{5-Fold cross validation F-Score variation with Lambda using cross concept cross validation}
+\end{figure}
+
+\subsection{Results}
+
+From the plot of the F-score with the variation in Lambda, it is clearly observed that the \textit{Multiplicative} model, i.e. the vector comprising of only the common subsequences, performs better than the \textit{Additive} model despite having sparser vectors and learning over a smaller feature space. The models learns better for values of lambda closer to 1. As lambda approaches 1, the weight of a subsequence in the vector corresponds to the count of the subsequence in the string, while lambda closer to 0 restricts the subsequence to a substring. We get a maxima in the F-score for lambda equal to 0.7.
+
+From the cross-concept cross-validation experiment, it is interesting to note that the training and testing samples were obtained from separate concept altogether. Hence the model is learning general trends of sound change that have emerged over the languages which stay valid across concepts. 
+
+It is observed that the \textit{Additive} model performs much worse in this setting as compared to the common subsequences only model. The second model overfits on the training data despite setting a high regularization penalty. This is probably because when combining the word subsequence vectors in this format, the combined vector can get dominated by the word with the longer length as its subsequence count is higher. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Error Analysis}
+
+From the results, its was apparent that the \textit{Additive} model trained using $\Phi_2(s_1, s_2)$ performs poorly and overfits on the training despite tuning the regularisation penalty. Thus, we use the common subsequence only model (\textit{Multiplicative} model) and perform the error analysis on that.
+
+\subsubsection{Division of Meanings to Broad Categories}
+
+As the first step of analysis the performance of the two models were observed over three different broad categories over which the samples were divided. These categories were formed by dividing the meaning from which the sample was derived into 'Noun', 'Adjective' and 'Others'. The following trends were observed over the three broad categories for the models tuned to their best parameters.
+
+\begin{table}[h]
+\centering
+\caption{5-fold Cross Validated F-Scores for the different models over the different categories of test data}
+\begin{tabular}{c|c|c|c|}
+\cline{2-4}
+                                         & \multicolumn{3}{c|}{Testing Data From} \\ \hline
+\multicolumn{1}{|c|}{Training Data From} & Adjectives     & Nouns     & Others    \\ \hline
+\multicolumn{1}{|c|}{Adjectives}         & 0.513          & 0.330     & 0.160     \\ \hline
+\multicolumn{1}{|c|}{Nouns}              & 0.422          & 0.490     & 0.208     \\ \hline
+\multicolumn{1}{|c|}{Others}             & 0.350          & 0.380     & 0.360     \\ \hline
+\multicolumn{1}{|c|}{All}                & 0.5223         & 0.4947    & 0.351     \\ \hline
+\end{tabular}
+\end{table}
+
+It is observed that there is an apparent division of performance of the models based on the three categories of samples. The model trained from samples belonging to 'Others' category performs poorly as compared to the remaining models. Also the model trained on all data performs poorly on test samples from the 'Others' category as compared to 'Noun' and 'Adjectives'. It is also observed that the model trained using all data performs better on the Adjectives class by a margin as compared to model trained using data only from the Adjectives class. Hence there must be some cognate similarity information being shared across concepts that stand as universal for the languages.
+
+\subsubsection{Performance over individual meanings}
+
+To further investigate the performance, the results were divided over individual meanings from which the samples were derived in the word list. 
+
+It was observed that the results varied drastically over the different meanings. The F-score was affected only due to the Recall of the samples when the Precision was mostly constant around 90\%. The Recall varied from as high as 80\% for some meanings like 'CHILD', 'TOOTH', 'LAKE' to as low as 5\% for concepts like 'WHEN', 'WHERE', 'WHAT'. 
+
+\begin{table}[h!]
+\centering
+\caption{Performance on individual Concepts : Best Results}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{Concept} & \textbf{Precision} & \textbf{Recall} & \textbf{F-Score} & \textbf{Num Cognate Classes} \\ \hline
+CHILD            & 99.98              & 79.99           & 0.888            & 24                           \\ \hline
+TOOTH            & 99.99              & 76.92           & 0.869            & 5                            \\ \hline
+BLACK            & 85.70              & 85.70           & 0.856            & 14                           \\ \hline
+LAKE             & 81.81              & 89.99           & 0.856            & 22                           \\ \hline
+EARTH            & 99.99              & 71.3            & 0.831            & 19                           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\caption{Performance on individual Concepts : Worst Results}
+\label{my-label}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{Concept} & \textbf{Precision} & \textbf{Recall} & \textbf{F-Score} & \textbf{Num Cognate Classes} \\ \hline
+WHEN             & 99.98              & 7.59            & 0.141            & 8                            \\ \hline
+HOW              & 79.98              & 7.69            & 0.140            & 8                            \\ \hline
+WHERE            & 99.998             & 7.35            & 0.136            & 6                            \\ \hline
+WHAT             & 999.95             & 5.49            & 0.103            & 5                            \\ \hline
+IN               & 59.98              & 3.99            & 0.074            & 12                           \\ \hline
+\end{tabular}
+\end{table}
+
+Again we can observe the general trend that the model is learning better for concepts that belong to Nouns and Adjective classes as compared to the non-Nouns and non-Adjectives. By observing the data it was realised that the number of distinct cognate classes in the dataset from which the words are sampled is on average less for concepts that perform poorly for the model. It is observed that such concepts have large variations of sounds or transcription within a class of cognates. For example, the following data is from the word list of concept 'WHAT'.
+
+\begin{table}[h!]
+\centering
+\label{my-label}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Language} & \textbf{Word} & \textbf{Cognate Class} \\ \hline
+Takitaki          & HOESAN        & 1                      \\ \hline
+Singhalese        & MOKADA        & 1                      \\ \hline
+Hindi             & KYA           & 2                      \\ \hline
+Nepali            & KE            & 2                      \\ \hline
+Spanish           & QUE           & 2                      \\ \hline
+Slovak            & CO            & 2                      \\ \hline
+Swedish           & VA            & 2                      \\ \hline
+Danish            & HVAD          & 2                      \\ \hline
+\end{tabular}
+\end{table}
+
+Even within the same cognate class (class 2), there is a lot of variation between the words, so much so that the Danish \textit{Hvad} and the Spanish \textit{Que} do not actually share any subsequences in their normal form. Even when the strings are translated to the CV character string (\textit{Hvad} = \textit{CCVC} and \textit{Que} = \textit{CVV}), they share only one common subsequence (\textit{CV}). Clearly the model cannot learn anything from such word pairs.
+
+\subsubsection{IPA versus Romanized IPA}
+
+Figure 3 shows the variation of the cross validated F-score with the parameter Lambda for the data from the two different word lists, i.e. the Indo-European dataset by Dyen et al. (henceforth referred to as Dyen Dataset) and the IELex dataset. The main difference between the Dyen Dataset and the IELex is in the transcription of the data. The cleaned IELex is transcribed in uniform IPA or International Phonetic Alphabet which is the standardized phonetic notation for representing sounds of a spoken language. The Dyen dataset is an older dataset which contains the words transcribed in a romanized version of the IPA. This romanized character is a more broader character that the IPA as it only a set of 26 characters as opposed to 108 in IPA.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=8cm]{G3.png}
+\caption{5-Fold cross validation F-Score variation with Lambda for different transcription of data and different models}
+\end{figure}
+
+Since the IPA is a finer character, it represents sound change between the languages better and hence we get a better performance over the IELex dataset as compared to the Dyen Dataset. Also since the character set is bigger, the space over which the samples are defined is of higher dimension. It can be seen that for both the \textit{Multiplicative} and the \textit{Additive} models, the performance over the IELex dataset is generally better than the Dyen Dataset.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Conclusion}
+
+The analysis of the results from the subsequence model reveals that the performance of the system is not uniform across concepts. There are concepts where the cognate classes are segregated finely enough so that the model is able to learn cognates pairs with high precision and recall but others where the cognate classes are so broad that the model is not able to predict anything. This split in the data can come from the fact that for some concepts, the sound classes have evolved a lot such that there is significant variation in the structure of the words, while in others this evolution has not been so drastic. We can link the evolution of sound class with the semantics of the words. Nouns and Adjective words are seen to have better performance and more number of cognate classes. In particular, words like \textit{'WHAT'}, \textit{'WHEN'}, \textit{'HOW'} show a lot of variation even within a cognate class, so much that some cognate word pairs do not share any subsequence. Thus, the semantics of a word seem to be playing a significant role in the cognate prediction task.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Future Work}
+All the previous works on cognate identification mainly use phonetic or orthographic features of words for this judgment. The subsequence model particularly considers only such features. However as it has been observed in the analysis of these models, the semantics of the word play a role in the performance of the model. Also, since we aim to use the model on a larger portion of data, where the words are not aligned or grouped by meanings as in word lists, some sort of semantic information would be needed by the classifier. We propose to introduce this semantic information by utilizing the word embedding features. 
+
+Word embeddings are representation features where the words in the vocabulary are represented as points in a low dimensional space as compared to the vocabulary size. These are learnt by unsupervised approached using deep learning models. They are task independent features that are arranged such that their structure captures some sort of semantic relationships between the words. We propose to use the multilingual word embeddings Polyglot \cite{polyglot:2013:ACL-CoNLL} that provide word vector embeddings for 116 languages over a rich vocabulary. These are trained on the processed Wikipedia text dumps of the various languages. 
+
+Along with using the word embedding features in our model, we would also like to move towards a deep learning based model for classification of cognates. By utilizing recurrent networks like RNNs and LSTMs to encode the input words (character sequences), we can use attention based models to classify the word pairs. Once the model is trained in the multilingual setting, we would like to apply it specifically to the domain of Hindi-Marathi and observe the cognate pairs that the model is able to identify. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibliographystyle{ieeetr}
+\bibliography{ref}
+
+\end{document}
+

@@ -1,0 +1,160 @@
+114	Proto-Indo-European	*kroksko		L	
+114	Proto-Indo-European	*koḱso-		P	
+80	Hittite	egdu			
+133	Luvian	pārtas			
+82	Tocharian B	ckāckai			
+88	Albanian	KAMA		(H)	
+143	Standard Albanian	këmbë		(H)	
+2	Albanian Sicily	KEMB		(H)	
+4	Albanian Corinth	KEMBE		(H)	
+3	Albanian Gheg	KAMA		(H)	
+6	Albanian Tosk	KEMBE		(H)	
+110	Ancient Greek	σκέλος	skélos	S	
+32	Greek	πόδι	ˈpo̞ði	Q	
+31	Greek Lesbos	PODI		Q	
+129	Classical Armenian	սրունք	srownkʰ	L	
+8	Armenian Eastern	ոտք	votkʰ	Q	
+7	Armenian Western	սրունգ	səɾuŋkʰ	L	
+128	Avestan	paitištānəm		T	
+136	Sogdian	p’δ		Q	
+75	Wakhi	LENG		R	
+75	Wakhi	PUED		Q	
+9	Baluchi	PHADH		Q	
+137	Zazaki	ling		R	
+72	Tajik	po	pɔ:	Q	
+54	Persian	pa	pɒ	Q	
+77	Waziri	PSHA		U	
+77	Waziri	LANGRA		R	
+1	Pashto	PSA		U	
+138	Shughni	pō		Q	
+139	Sarikoli	peδ		Q	
+52	Ossetic	ZAENG		J	
+52	Ossetic	k'ax	kʲaχ	B	
+124	Ossetic Iron	k'aχ	k'aχ	B	
+125	Ossetic Digor	k'aχ	k'aχ	B	
+105	Vedic Sanskrit	jáṅghā		J	
+162	Pāḷī	janghā		J	
+41	Khaskura	KHUTTA		M	
+51	Nepali	KHUTTO		M	
+106	Assamese	bhɔri	bhɔri	V	
+102	Oriya	goṛɔ	goɽɔ	W	
+102	Oriya	padɔ	padɔ	Q	
+10	Bengali	pa	pa	Q	
+111	Bihari	pyaer	pyaer	Q	
+144	Magahi	गोड	ɡoɽ	W	
+104	Marwari	per	per	Q	
+35	Hindi	TAG		K	
+119	Urdu	ٹانگ	ʈɑŋɡ	K	
+103	Sindhi	tanga		K	
+43	Lahnda	TENG		K	
+53	Punjabi	LETT		Y	
+53	Punjabi	TENG		K	
+33	Gujarati	PEG		Q	
+50	Marathi	pāy	paj	Q	
+40	Kashmiri	ZANG		J	
+65	Sinhalese	KAKULA		X	
+34	Romani Greece	CANK		J	
+100	Old Church Slavonic	нога	nɔɡɑ	F	
+95	Serbo-Croatian	noga	ˈnɔ̌ɡa	F	
+15	Bulgarian	крак	krak	E	
+92	Macedonian	нога	ˈnoɡa	F	
+60	Russian	нога	nɔ'ga	F	
+55	Polish	noga	ˈnɔɡa	F	
+16	Belarusian	нага	naˈɣa	F	
+73	Ukrainian	нога	nɔˈɦa	F	
+66	Slovak	noha	ˈnɔɦa	F	
+18	Czech	noha	ˈnɔɦa	F	
+48	Sorbian Upper	noha	ˈnɔ.a	F	
+47	Sorbian Lower	noga	ˈnɔɡa	F	
+97	Slovenian	noga	nɔ̂ːɡa	F	
+108	Old Prussian	nage		F	
+44	Latvian	kãja		N	
+46	Lithuanian	KOJA		N	
+109	Old Norse	leggr	leɡːr	(I)	
+109	Old Norse	fótr	foːtr	Q	
+36	Icelandic	fótur	ˈfouːtʰʏr	Q	
+23	Faroese	leggur	ˈlɛɡ̊ːʊɹ	(I)	
+23	Faroese	bein	b̥aiːn	A	
+23	Faroese	fótur	ˈfɔuːtʊɹ	Q	
+58	Norwegian Riksmal	ben	beːn	A	
+159	Stavangersk	fod	fuːd	Q	
+159	Stavangersk	bein	bɛɪn	A	
+159	Stavangersk	leɡɡ	lɛɡː	(I)	
+157	Old Swedish	lägger	ˈlæɡːer	I	
+157	Old Swedish	ben	beːn	A	
+69	Swedish	ben	beːn	A	
+71	Swedish Vilhelmina	BEN		A	
+70	Swedish Uppland	BEN		A	
+145	Elfdalian	legg		I	
+145	Elfdalian	bien	bɪɛːn	A	
+145	Elfdalian	fuot	fʉət	Q	
+145	Elfdalian	skaunk		L	
+20	Danish	ben	b̥eˀn	A	
+158	Danish Fjolde	bien	bien	A	
+160	Old Gutnish	bain		A	
+161	Gutnish Lau	bain	baɪn	A	
+99	Old English	scanca		L	
+22	English	leg	lɛg	(I)	
+26	Frisian	bonkje	'boŋkjə	A	
+21	Dutch	poot	pot	(Q)	
+21	Dutch	been	ben	A	
+24	Flemish	BEEN		A	
+83	Afrikaans	BEEN		A	
+87	Sranan	FOETOE			
+126	Old High German	bein		A	
+27	German	Bein	baĭn	A	
+86	Pennsylvania Dutch	BAY		A	
+120	Luxembourgish	Been		A	
+121	German Switzerland	bei		A	
+107	Gothic	*agk-j-a?			
+112	Latin	crūs	kruːs	L	
+17	Catalan	cama	ˈkamə, 'kama	H	
+56	Portuguese	perna	ˈpɛɾnɐ	C	
+68	Spanish	pierna	'pjeɾna	C	
+61	Sardinian Cagliari	KAMBA		H	
+62	Sardinian Logudoro	CAMBA		H	
+63	Sardinian Nuoro	ANKA			
+85	French Creole Dominica	ZAM		H	
+76	Walloon	DJAMBE		H	
+25	French	jambe	ʒɑ̃b	H	
+57	Provencal	camba	ˈkambo	H	
+57	Provencal	GARRO		H	
+42	Ladin	CHAMMA		H	
+146	Dolomite Ladino	giamba		H	
+123	Romansh	chomma		H	
+122	Friulian	gjambe		H	
+39	Italian	gamba	'gamba	H	
+59	Romanian	PICIOR		Q	
+74	Vlach	CORU		Q	
+127	Old Irish	cos	kos	P	
+101	Middle Cornish	garr	gar:	D	
+172	Middle Breton	garr, guarr	ˈgarː	D	
+12	Breton	gar	ˈgaːr	D	
+79	Welsh	coes		P	
+38	Irish	cos	kos	P	
+115	Scottish Gaelic	cas	kas	P	
+5	[Legacy] Albanian T	kofshë		P	
+29	[Legacy] Greek K	POUS		Q	
+28	[Legacy] Greek D	PODI		Q	
+30	[Legacy] Greek Md	SKELI		S	
+30	[Legacy] Greek Md	PODI		Q	
+64	[Legacy] Serbocroatian	NOGA		F	
+113	[Legacy] Serbian	noga		F	
+89	[Legacy] Bulgarian P	KRAK		E	
+49	[Legacy] Macedonian	NOGA		F	
+94	[Legacy] Russian P	GOLEN		G	
+93	[Legacy] Polish P	NOGA		F	
+90	[Legacy] Byelorussian P	HAL ONKA		G	
+98	[Legacy] Ukrainian P	HOLINKA		G	
+19	[Legacy] Czech E	NOHA		F	
+96	[Legacy] Slovak P	HOLEN		G	
+91	[Legacy] Czech P	HOLEN		G	
+67	[Legacy] Slovenian	NOGA		F	
+45	[Legacy] Lithuanian O	KOJA		N	
+11	[Legacy] Brazilian	perna	ˈpɛʁnɐ	C	
+142	[Legacy] German Munich	Bein		A	
+84	[Legacy] French Creole C	ZAM		H	
+14	[Legacy] Breton St	gar	ga:r	D	
+13	[Legacy] Breton Se	GAR		D	
+78	[Legacy] Welsh C	COES		P	
+37	[Legacy] Irish A	COS		P	

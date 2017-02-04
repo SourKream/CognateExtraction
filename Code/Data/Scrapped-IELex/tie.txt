@@ -1,0 +1,181 @@
+80	Hittite	hamanki		G	
+80	Hittite	ishai		L	
+133	Luvian	hāpiti			
+133	Luvian	hishiti			
+81	Tocharian A	śanmästär			
+81	Tocharian A	kärk-		M	
+82	Tocharian B	kärkaṣṣäṃ		M	
+82	Tocharian B	śanmästär			
+88	Albanian	LIDH		C	
+143	Standard Albanian	lidh		C	
+2	Albanian Sicily	LITH (PRET. LIDHA)		C	
+4	Albanian Corinth	LIDHIN		C	
+3	Albanian Gheg	LIDH		C	
+6	Albanian Tosk	LITH, AOR. LIDHA		C	
+173	Mycenaean Greek	de-de-me-no			
+110	Ancient Greek	δέω	déɔː	J	
+32	Greek	δένω	ˈðe̞no̞	J	
+31	Greek Lesbos	DENO		J	
+129	Classical Armenian	կապեմ	kapem	D	
+8	Armenian Eastern	kapel	kɑˈpɛl	D	
+7	Armenian Western	GABEL		D	
+128	Avestan	hišāiia (pf.)			
+128	Avestan	bandaiieiti		B	
+131	Old Persian	band-		B	
+75	Wakhi	VUND		B	
+9	Baluchi	BANDAGH, BASTHA		B	
+137	Zazaki	bestiš		B	
+72	Tajik	BASTAN, BOFTAN		B	
+54	Persian	BASTAN		B	
+77	Waziri	TAREL		A	
+1	Pashto	TAREL		A	
+138	Shughni	vīnd		B	
+139	Sarikoli	wof : wift		B	
+52	Ossetic	battyn	battɨn	B	
+124	Ossetic Iron	bɐtt-	bɐtt-	B	
+125	Ossetic Digor	bɐtt-	bɐtt-	B	
+105	Vedic Sanskrit	syáti			
+105	Vedic Sanskrit	dyáti		(J)	
+105	Vedic Sanskrit	náhyati			
+105	Vedic Sanskrit	badhnā́ti		B	
+162	Pāḷī	bandhati		B	
+41	Khaskura	KASNU			
+51	Nepali	GATHNU		N	
+51	Nepali	BADHNU		B	
+106	Assamese	bandh	bandh	B	
+102	Oriya	bɔndh-	bɔndh-	B	
+10	Bengali	BADHA		B	
+111	Bihari	arãcab			
+111	Bihari	lagayab			
+111	Bihari	bānhab		B	
+144	Magahi	बांधना	bɑñd̪ʰnɑ	B	
+151	Bhojpuri	bãdh		B	
+35	Hindi	BADHNA		B	
+119	Urdu	باندھنا	bɑ̃d̪ʰnə	B	
+103	Sindhi	b̄andhu		B	
+43	Lahnda	BENNEN		B	
+53	Punjabi	BENNENA		B	
+33	Gujarati	BAHDHWU		B	
+50	Marathi	bāñdhne	'bãndʰɳe	B	
+40	Kashmiri	GANDUN		N	
+65	Sinhalese	BANDINAWA		B	
+34	Romani Greece	PHANDAV		B	
+100	Old Church Slavonic	вѧзати	vɛ̃zɑti	G	
+95	Serbo-Croatian	vezati	ˈvɛ̌ːzati	G	
+15	Bulgarian	връзвам	ˈvrɤzvəm	F	
+92	Macedonian	врзе	ˈvərzɛ	F	
+60	Russian	вязать	vʲa'zatʲ	G	
+55	Polish	wiązać	ˈvjɔɰ̃zatɕ	G	
+16	Belarusian	вязаць	vʲaˈzatsʲ	G	
+73	Ukrainian	в’язати	ʋjaˈzatɪ	G	
+66	Slovak	viazať	ˈviazac	G	
+18	Czech	vázat	ˈvaːzat	G	
+48	Sorbian Upper	wjazać	ˈjazatʃ	G	
+47	Sorbian Lower	wězaś	ˈwɪzaɕ	G	
+97	Slovenian	vezati	ˈvěːzati, vɛˈzǎːti	G	
+108	Old Prussian	perrēist		P	
+44	Latvian	sìen		L	
+46	Lithuanian	RISTI		P	
+109	Old Norse	knýta	ˈknyːta	O	
+109	Old Norse	binda	ˈbinda	B	
+36	Icelandic	binda	ˈb̥ɪnd̥a	B	
+36	Icelandic	hnýta	ˈn̥iːtʰa	O	
+23	Faroese	binda	ˈb̥ɪnd̥a	B	
+23	Faroese	knýta	ˈkʰnʊiːtʰa	O	
+58	Norwegian Riksmal	knytte	ˈknʏ̀tːə	O	
+58	Norwegian Riksmal	binde	ˈbɪ̀nːə	B	
+58	Norwegian Riksmal	surre	ˈsʉ̀ɾːə	(R)	
+159	Stavangersk	sorra	ˈsùʁːa	(R)	
+159	Stavangersk	binna	ˈbɪ̀nːa	B	
+159	Stavangersk	knytta	ˈknʏ̀tːa	O	
+157	Old Swedish	knyta	ˈknyːta	O	
+157	Old Swedish	binda	ˈbinda	B	
+69	Swedish	binda	ˈbɪ̀nda	B	
+69	Swedish	knyta	ˈknỳːta	O	
+71	Swedish Vilhelmina	KNYT		O	
+71	Swedish Vilhelmina	BIN		B	
+70	Swedish Uppland	BINDA		B	
+70	Swedish Uppland	KNYTA		O	
+145	Elfdalian	binda	ˈbɪ̀ndɑ	B	
+145	Elfdalian	knåita	ˈknɔ̀ɪtɑ	O	
+20	Danish	binde	ˈb̥enə	B	
+20	Danish	knytte	ˈɡ̊ʰnydə	O	
+158	Danish Fjolde	knøt	knød	O	
+158	Danish Fjolde	bind	binʲ	B	
+160	Old Gutnish	binda		B	
+161	Gutnish Lau	bindä	ˈbɪndɛ	B	
+161	Gutnish Lau	surra	ˈsurːa	(R)	
+161	Gutnish Lau	knöitä	ˈknœɪtɛ	O	
+99	Old English	tīgþ		H	
+99	Old English	bint		B	
+22	English	to tie	taɪ	H	
+26	Frisian	FLEUGELJE			
+26	Frisian	STRUSE			
+21	Dutch	knopen	'knopə(n)	O	
+21	Dutch	binden	'bɪndə(n)	B	
+24	Flemish	BINDEN		B	
+83	Afrikaans	VASMAAK, BIND(E), AANBIND(E)		B	
+87	Sranan	TAI		H	
+126	Old High German	bintit		B	
+27	German	binden	'bɪndn̩	B	
+86	Pennsylvania Dutch	BINN		B	
+120	Luxembourgish	bannen		B	
+121	German Switzerland	binge		B	
+107	Gothic	bindiþ		B	
+112	Latin	ligāre	liˈgaːre	C	
+17	Catalan	JUNTAR		C	
+17	Catalan	unir	u'ni		
+17	Catalan	lligar	ʎi'ɣa	C	
+56	Portuguese	atar	ɐˈtaɾ	Q	
+56	Portuguese	LIGAR		C	
+68	Spanish	atar	a'taɾ	Q	
+61	Sardinian Cagliari	AKKAPPIAI			
+62	Sardinian Logudoro	LIGARE		C	
+63	Sardinian Nuoro	LIGARE		C	
+85	French Creole Dominica	MAWE		I	
+76	Walloon	LOYI		C	
+25	French	lier	lje	C	
+57	Provencal	LIA, LIGA		C	
+42	Ladin	LIER		C	
+146	Dolomite Ladino	legà, ligà, lià		C	
+123	Romansh	liar		C	
+122	Friulian	leâ		C	
+39	Italian	legare	le'gare	C	
+59	Romanian	a lega		C	
+74	Vlach	LEGU		C	
+127	Old Irish	con·rig	konˈrʹiɣʹ	(S)	
+127	Old Irish	cenglaid	kʹeŋgləðʹ	K	
+127	Old Irish	naiscid	nasʹkʹəðʹ		
+101	Middle Cornish	kelmi	kɛlmi	E	
+172	Middle Breton	liamaff*	ljˈaːmaṽ		
+172	Middle Breton	stagaff	ˈstaːgaṽ		
+172	Middle Breton	eren, erenn, aeren, ereiff	ˈeːren, ˈɛːren, ˈeːrejṽ		
+12	Breton	ereñ			
+12	Breton	liammañ			
+79	Welsh	clymu		E	
+38	Irish	ceangal		K	
+115	Scottish Gaelic	ceangail		K	
+5	[Legacy] Albanian T	ME LIDHUR		C	
+29	[Legacy] Greek K	PROSDENO		J	
+28	[Legacy] Greek D	DENO		J	
+30	[Legacy] Greek Md	DENO		J	
+64	[Legacy] Serbocroatian	VEZATI		G	
+113	[Legacy] Serbian	vezati	ʋěːzati	G	
+89	[Legacy] Bulgarian P	VURZVAM		F	
+49	[Legacy] Macedonian	VRZE/POVIE		F	
+94	[Legacy] Russian P	V AZAT		G	
+93	[Legacy] Polish P	WIAZAC		G	
+90	[Legacy] Byelorussian P	V AZAC		G	
+98	[Legacy] Ukrainian P	V AZATY		G	
+19	[Legacy] Czech E	ZVAZAT		G	
+96	[Legacy] Slovak P	VIAZAT		G	
+91	[Legacy] Czech P	VAZATI		G	
+67	[Legacy] Slovenian	ZVEZI		G	
+45	[Legacy] Lithuanian O	RISTI		P	
+11	[Legacy] Brazilian	LIGAR		C	
+142	[Legacy] German Munich	binden		B	
+84	[Legacy] French Creole C	MAHWE		I	
+14	[Legacy] Breton St	skoulmañ	'skulmã	E	
+13	[Legacy] Breton Se	KLOMMEIN		E	
+78	[Legacy] Welsh C	CLYMU		E	
+37	[Legacy] Irish A	CEANGAL		K	

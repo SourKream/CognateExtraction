@@ -1,0 +1,179 @@
+80	Hittite	mius		F	
+82	Tocharian B	ṣmare			
+88	Albanian	LIMUT		C	
+88	Albanian	BUT		K	
+143	Standard Albanian	i, e lëmuar			
+2	Albanian Sicily	LISU		D	
+4	Albanian Corinth	MALAKO		M	
+3	Albanian Gheg	LIMUT		C	
+6	Albanian Tosk	I-FERKUAR			
+110	Ancient Greek	λεῖος	léì̯os	J	
+32	Greek	omalos	ˌo̞maˈlo̞s	G	
+32	Greek	μαλακός			
+31	Greek Lesbos	ISIOS		N	
+129	Classical Armenian	ողորկ	ołork		
+129	Classical Armenian	hartʰ		(U)	
+8	Armenian Eastern	ołork			
+8	Armenian Eastern	hart'	hɑɾtʰ	(U)	
+7	Armenian Western	SHIDAG			
+75	Wakhi	LUS		E	
+75	Wakhi	HUNWOR		L	
+9	Baluchi	LASUR		E	
+137	Zazaki	sermitikin		V	
+72	Tajik	XAMVOR, TAXT		L	
+54	Persian	SAF		(A)	
+77	Waziri	SHOE, SHWE		W	
+1	Pashto	SAF, MUSTAVI		(A)	
+1	Pashto	HAVAR		(L)	
+138	Shughni	amwor		(L)	
+138	Shughni	dax̆t		X	
+139	Sarikoli	sileɣ		Y	
+52	Ossetic	laeg'z	læʁz	J	
+124	Ossetic Iron	lɐʁž	lɐʁž	J	
+125	Ossetic Digor	liʁz	liʁz	J	
+105	Vedic Sanskrit	ślakṣṇás		J	
+162	Pāḷī	saṇha		J	
+41	Khaskura	CHILLO		H	
+51	Nepali	SALAKKA		Ab	
+106	Assamese	mihi	mihi	Ac	
+102	Oriya	nɔrɔmɔ	nɔrɔmɔ	(Ae)	
+102	Oriya	palis	palis	Ad	
+10	Bengali	TELA		Af	
+111	Bihari	cikən	cikən	H	
+144	Magahi	चिक्कन	cikkən	H	
+35	Hindi	CIKNA		H	
+119	Urdu	ہموار	həmwɑɾ	(L)	
+43	Lahnda	SAF		A	
+53	Punjabi	IK+SAR		Ag	
+33	Gujarati	SUWALU		Ah	
+50	Marathi	tSiknā	tʃik'ɳa	H	
+50	Marathi	maū	mə͜u:	Z	
+50	Marathi	gulgulit		Ai	
+40	Kashmiri	SATORU		Aj	
+65	Sinhalese	SILINOU		Ak	
+34	Romani Greece	ISYO		N	
+100	Old Church Slavonic	гладъкъ	ɡlɑdʊ̆kʊ̆	B	
+95	Serbo-Croatian	gladak	ˈɡlâdak	B	
+15	Bulgarian	гладък	ˈɡɫadək	B	
+92	Macedonian	мазен	ˈmazɛn	I	
+60	Russian	гладкий	'gɫadkʲij	B	
+55	Polish	gładki	ˈɡwatkʲi	B	
+16	Belarusian	гладкі	ɣɫadkʲi	B	
+73	Ukrainian	гладкий	ˈɦɫadkɪj	B	
+66	Slovak	hladký	ˈɦladkiː	B	
+18	Czech	hladký	ˈɦladkiː	B	
+48	Sorbian Upper	hładki	ˈwadki	B	
+47	Sorbian Lower	gładki	ˈɡwadki	B	
+97	Slovenian	gladek	ˈɡlǎːdək	B	
+44	Latvian	LIDZENS		P	
+44	Latvian	gludęns		B	
+46	Lithuanian	SVELNUS, NESIURKSTUS			
+109	Old Norse	sléttr	sleːtːr	J	
+36	Icelandic	sléttur	ˈstljɛʰtːʏr	J	
+36	Icelandic	sleipur	ˈstleiːpʰʏr		
+23	Faroese	slættur	ˈslaʰtːʊɹ	J	
+23	Faroese	javnur	ˈjaunʊɹ	O	
+58	Norwegian Riksmal	glatt	ɡlatː	(B)	
+58	Norwegian Riksmal	slett	ʃlɛtː	J	
+58	Norwegian Riksmal	jevn	jɛʋn	O	
+159	Stavangersk	jevne	ˈjɛʋnə	O	
+159	Stavangersk	slette	ˈslɛtːə	J	
+159	Stavangersk	glatte	ˈɡlatːə	(B)	
+157	Old Swedish	iämn	jɛmn	O	
+157	Old Swedish	slätter	ˈslætːer	J	
+69	Swedish	slät	slɛːt	J	
+69	Swedish	jämn	jɛmn	O	
+69	Swedish	glatt	glatː	(B)	
+71	Swedish Vilhelmina	JAMN		O	
+71	Swedish Vilhelmina	SLAT  SLET		J	
+70	Swedish Uppland	SLAT		J	
+70	Swedish Uppland	JAMN		O	
+145	Elfdalian	glað	glɑːð	(Aa)	
+145	Elfdalian	sliet	l̥lɪɛːt	J	
+20	Danish	jævn	jɛwˀn	O	
+20	Danish	glat	g̥lad̥ʰ	(B)	
+158	Danish Fjolde	sleæt	sleæd	J	
+158	Danish Fjolde	jaavn	jɑːwn	O	
+158	Danish Fjolde	glæj	ɡlæj	(B)	
+161	Gutnish Lau	sletar	ˈsleːtar	J	
+161	Gutnish Lau	jamnar	ˈjamnar	O	
+99	Old English	smēþe		Q	
+22	English	smooth	smu:ð	Q	
+26	Frisian	GLAD		B	
+21	Dutch	effen		O	
+21	Dutch	gelijk, glad	ɣə'lɛik, ɣlɑt	B	
+24	Flemish	GLAD		B	
+24	Flemish	EFFEN		O	
+83	Afrikaans	GLAD, SAG		B	
+87	Sranan	GLATI		B	
+126	Old High German	eban			
+126	Old High German	sleht		J	
+27	German	glatt	glat	B	
+86	Pennsylvania Dutch	GLOT		B	
+120	Luxembourgish	glat		B	
+121	German Switzerland	glatt		B	
+107	Gothic	slaíhts		J	
+112	Latin	lēuis	ˈleːwis	J	
+17	Catalan	llís	ʎis	D	
+56	Portuguese	liso	'lizu	D	
+68	Spanish	liso	'liso	D	
+61	Sardinian Cagliari	LISU		D	
+62	Sardinian Logudoro	LISU		D	
+63	Sardinian Nuoro	PRANU		S	
+85	French Creole Dominica	LIS		D	
+76	Walloon	LISSE		D	
+25	French	lisse	lis	D	
+57	Provencal	IDO			
+57	Provencal	UNI			
+57	Provencal	PLANIE		S	
+42	Ladin	GLISCH		T	
+146	Dolomite Ladino	slis		D	
+123	Romansh	glisch		T	
+122	Friulian	lis		D	
+39	Italian	liscio	'liʃʃo	D	
+39	Italian	piano	'pjano	S	
+59	Romanian	neted			
+74	Vlach	ISKU		D	
+127	Old Irish	mín	mʹi:nʹ	F	
+127	Old Irish	réid	rʹe:ðʹ		
+101	Middle Cornish	leven		J	
+101	Middle Cornish	gwastas			
+172	Middle Breton	levn*	ˈlevn		
+172	Middle Breton	lencr	ˈlenkr		
+12	Breton	lintr			
+12	Breton	KUNV			
+12	Breton	LUFR			
+12	Breton	KOMPEZ			
+12	Breton	levn		(J)	
+79	Welsh	llyfn		J	
+38	Irish	bláith			
+38	Irish	mín	mʲiːnʲ	F	
+38	Irish	LIMHTHA		(J)	
+115	Scottish Gaelic	mìn	miːn	F	
+5	[Legacy] Albanian T	i, e butë		K	
+29	[Legacy] Greek K	LEIOS		J	
+28	[Legacy] Greek D	MALAKOS		M	
+30	[Legacy] Greek Md	HOMALOS		G	
+64	[Legacy] Serbocroatian	GLADAK		B	
+113	[Legacy] Serbian	gladak	ɡlâdak	B	
+89	[Legacy] Bulgarian P	GLADUK		B	
+49	[Legacy] Macedonian	MAZEN		I	
+94	[Legacy] Russian P	GLADKIJ		B	
+93	[Legacy] Polish P	GLADKI		B	
+90	[Legacy] Byelorussian P	HLADKI		B	
+98	[Legacy] Ukrainian P	HLADKYJ		B	
+19	[Legacy] Czech E	HLADKE		B	
+96	[Legacy] Slovak P	HLADKY		B	
+91	[Legacy] Czech P	HLADKY		B	
+67	[Legacy] Slovenian	GLADKO		B	
+45	[Legacy] Lithuanian O	LYGUS		P	
+11	[Legacy] Brazilian	LISO		D	
+142	[Legacy] German Munich	glatt		B	
+84	[Legacy] French Creole C	LIS		D	
+14	[Legacy] Breton St	levn	lẽwn	J	
+14	[Legacy] Breton St	flour	flu:r	R	
+13	[Legacy] Breton Se	FLOUR		R	
+78	[Legacy] Welsh C	LLYFN		J	
+37	[Legacy] Irish A	SLEAMHAIN		J	
+37	[Legacy] Irish A	MIN		F	
+37	[Legacy] Irish A	REIDH			

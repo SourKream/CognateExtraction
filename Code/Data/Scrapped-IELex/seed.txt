@@ -1,0 +1,168 @@
+80	Hittite	warwalan			
+80	Hittite	sai-, siya-		B	
+133	Luvian	warwalan			
+81	Tocharian A	sārm		B	
+81	Tocharian A	śäktālyi			
+82	Tocharian B	sārm		B	
+82	Tocharian B	śäktālye			
+143	Standard Albanian	farë		G	
+2	Albanian Sicily	farë		G	
+4	Albanian Corinth	kokë			
+4	Albanian Corinth	farë		G	
+6	Albanian Tosk	farë		G	
+173	Mycenaean Greek	pe-mo	spérmo	G	
+110	Ancient Greek	σπέρμα	spérma	G	
+152	Tsakonian	πραμα		G	
+32	Greek	σπόρος	ˈspo̞ro̞s	G	
+31	Greek Lesbos	SPOROS		G	
+129	Classical Armenian	սերմն	sermn	B	
+8	Armenian Eastern	սերմ	seɾm	B	
+8	Armenian Eastern	HATIK			
+7	Armenian Western	սերմ	sɛɾm	B	
+128	Avestan	taoxma		H	
+128	Avestan	čiθrəm		C	
+136	Sogdian	tγmy		H	
+75	Wakhi	TUGHUM		H	
+9	Baluchi	bidz		D	
+118	Kurdish	bizir		D	
+118	Kurdish	tov		H	
+72	Tajik	tuxm	tuxm	H	
+72	Tajik	DON, DONA		A	
+54	Persian	tokhm	toxm	H	
+77	Waziri	TEMNA, TEMNA		I	
+1	Pashto	DANA		A	
+138	Shughni	tuqm		H	
+139	Sarikoli	teɣm		H	
+52	Ossetic	GAGA		L	
+52	Ossetic	tawinag	tawinaɡ	K	
+52	Ossetic	NAEMYG		J	
+124	Ossetic Iron	nɐmyg	nɐmyg	J	
+125	Ossetic Digor	nɐmug	nɐmug	J	
+153	Askunu	bī		D	
+105	Vedic Sanskrit	bí̄jam		D	
+41	Khaskura	BIU		D	
+51	Nepali	BIU		D	
+106	Assamese	guti/xɒ̃s	guti/xɒ̃s		
+102	Oriya	mɔnǰi	mɔnǰi		
+10	Bengali	BIJ, BICI		D	
+111	Bihari	biya	biya	D	
+144	Magahi	बीच्चा	biccɑ		
+104	Marwari	gokhroo			
+35	Hindi	BIJ		D	
+119	Urdu	بِیج	biʤ	D	
+103	Sindhi	sibaṇu			
+43	Lahnda	BIJ		D	
+53	Punjabi	BI		D	
+33	Gujarati	BI		D	
+50	Marathi	bī	bi:	D	
+40	Kashmiri	BYOLU		D	
+65	Sinhalese	BIJA		D	
+65	Sinhalese	ATA			
+34	Romani Greece	GIV			
+100	Old Church Slavonic	сѣмѧ	sæmɛ̃	B	
+95	Serbo-Croatian	sjeme	ˈsjɛ̂mɛ	B	
+15	Bulgarian	seme	ˈsɛmɘ	B	
+92	Macedonian	семе	ˈsemɛ	B	
+60	Russian	зерно	zʲɛrˈnɔ	B	
+55	Polish	nasiono	naˈɕɔnɔ	B	
+16	Belarusian	насенне	naˈsʲɛnʲnʲɛ	B	
+73	Ukrainian	насіння	naˈsinʲnʲa	B	
+66	Slovak	semeno	ˈsɛmɛnɔ	B	
+18	Czech	semeno	ˈsɛmɛnɔ	B	
+48	Sorbian Upper	symjo	ˈsɘ̟mjɔ	B	
+47	Sorbian Lower	semje	ˈsɛmĕɛ	B	
+97	Slovenian	seme	ˈsěːmɛ	B	
+108	Old Prussian	semen		B	
+44	Latvian	sę̃kla		B	
+46	Lithuanian	sekla	ˈsʲe:klɐ	B	
+109	Old Norse	frjó	frjoː	F	
+109	Old Norse	sáð	saːð	(B)	
+36	Icelandic	sáð	sauːð	(B)	
+36	Icelandic	fræ	fraiː	F	
+23	Faroese	fræ	fɹɛaː	F	
+23	Faroese	sáð	sɔaː	(B)	
+58	Norwegian Riksmal	sæd	sæːd	(B)	
+58	Norwegian Riksmal	frø	fɾøː	F	
+159	Stavangersk	frø	fʁøː	F	
+157	Old Swedish	sädh	sæːð	(B)	
+157	Old Swedish	frö	frøː	F	
+69	Swedish	säd	sɛ:d	(B)	
+69	Swedish	frö	frøː	F	
+71	Swedish Vilhelmina	FRO		F	
+70	Swedish Uppland	FRO		F	
+145	Elfdalian	frie	frɪɛː	F	
+145	Elfdalian	säð		(B)	
+20	Danish	frø	fʁœˀ	F	
+20	Danish	sæd	sɛˀð	(B)	
+158	Danish Fjolde	seæ	seæ	(B)	
+158	Danish Fjolde	fryø	fɹyø	F	
+160	Old Gutnish	seþ		(B)	
+161	Gutnish Lau	fråi	froɪ	F	
+161	Gutnish Lau	sed	seːd	(B)	
+99	Old English	sǣd		B	
+22	English	seed	si:d	B	
+26	Frisian	sie(d)	si.ə(t)	B	
+21	Dutch	zaad	zat	B	
+24	Flemish	ZAED		B	
+83	Afrikaans	SAAD		B	
+87	Sranan	SIRI		B	
+126	Old High German	sāmo		B	
+27	German	Saat	za:t	B	
+86	Pennsylvania Dutch	SAWME		B	
+120	Luxembourgish	Som		B	
+121	German Switzerland	saame		B	
+107	Gothic	fraiw		F	
+112	Latin	sēmen	ˈseːmen	B	
+17	Catalan	gra	gɾə	E	
+56	Portuguese	semente	sɨˈmẽtɨ	B	
+68	Spanish	semilla	se'miʎa	B	
+61	Sardinian Cagliari	SEMINI		B	
+62	Sardinian Logudoro	SEMEN		B	
+63	Sardinian Nuoro	SEMENE		B	
+85	French Creole Dominica	GWEN		E	
+76	Walloon	S(I)MINCE		B	
+25	French	semence	s(ə)mɑ̃s	B	
+57	Provencal	GRANO		E	
+42	Ladin	SEM, SEMENZA		B	
+146	Dolomite Ladino	semenză		B	
+123	Romansh	sem, semenza		B	
+122	Friulian	semence		B	
+39	Italian	seme	'seme	B	
+59	Romanian	sămânță	səˈmɨnʦə	B	
+74	Vlach	SPOR		G	
+140	Gaulish	silo-		B	
+127	Old Irish	síl	sʹi:l	B	
+101	Middle Cornish	has	'ha:z	B	
+148	Old Breton	att / hat		B	
+172	Middle Breton	hat, had	ˈhaːt, ˈaːt	B	
+12	Breton	had		B	
+79	Welsh	had		B	
+38	Irish	síol		B	
+115	Scottish Gaelic	sìol		B	
+115	Scottish Gaelic	fras		(M)	
+147	Manx	rass		(M)	
+147	Manx	sheel		B	
+5	[Legacy] Albanian T	farë	faɹ(ə)	G	
+29	[Legacy] Greek K	SPOROS		G	
+28	[Legacy] Greek D	SPOROS		G	
+30	[Legacy] Greek Md	SPOROS		G	
+64	[Legacy] Serbocroatian	SEME		B	
+113	[Legacy] Serbian	seme	sême	B	
+89	[Legacy] Bulgarian P	SEME		B	
+49	[Legacy] Macedonian	SEME		B	
+94	[Legacy] Russian P	SEM A		B	
+93	[Legacy] Polish P	SIEMIE		B	
+90	[Legacy] Byelorussian P	SEM A		B	
+98	[Legacy] Ukrainian P	SIM A		B	
+19	[Legacy] Czech E	ZRNO		B	
+96	[Legacy] Slovak P	SEMENO		B	
+91	[Legacy] Czech P	SEME		B	
+67	[Legacy] Slovenian	SEME		B	
+45	[Legacy] Lithuanian O	SEKLA		B	
+11	[Legacy] Brazilian	semente	seˈmẽtʃi	B	
+142	[Legacy] German Munich	Samen		B	
+84	[Legacy] French Creole C	GHWEN		E	
+14	[Legacy] Breton St	had	a:t	B	
+13	[Legacy] Breton Se	HAD		B	
+78	[Legacy] Welsh C	HAD		B	
+37	[Legacy] Irish A	SIOL		B	

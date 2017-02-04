@@ -1,0 +1,180 @@
+114	Proto-Indo-European	*h₂ekmon		G	
+80	Hittite	peruna			
+80	Hittite	aku-		G	
+81	Tocharian A	pāreṃ			
+82	Tocharian B	kärweñe			
+88	Albanian	gur		B	
+143	Standard Albanian	gur		B	
+2	Albanian Sicily	gur		B	
+4	Albanian Corinth	gur		B	
+3	Albanian Gheg	guri		B	
+6	Albanian Tosk	gur		B	
+173	Mycenaean Greek	ra-e-ja	laːhei̯a-		
+110	Ancient Greek	πέτρος	pétros	(H)	
+110	Ancient Greek	λίθος	lítʰos	W	
+152	Tsakonian	πετσε		H	
+32	Greek	πέτρα	ˈpe̞tra	H	
+32	Greek	λιθάρι		(W)	
+31	Greek Lesbos	PETRA		H	
+129	Classical Armenian	վէմ	vêm		
+129	Classical Armenian	քար	kʰar	C	
+8	Armenian Eastern	քար	kʰɑɾ	C	
+7	Armenian Western	քար	kʰɑr	C	
+128	Avestan	asma		G	
+131	Old Persian	asā		G	
+131	Old Persian	aθanga-		G	
+136	Sogdian	sng		G	
+75	Wakhi	GHAR		B	
+9	Baluchi	KHOH		P	
+118	Kurdish	kevir		R	
+118	Kurdish	ber		R	
+137	Zazaki	ṣī		S	
+72	Tajik	sang	sæŋ	G	
+54	Persian	SANG		G	
+77	Waziri	TIZHA		U	
+77	Waziri	KONRAI		T	
+1	Pashto	DABARA		V	
+138	Shughni	sang		(G)	
+138	Shughni	žīr		Q	
+139	Sarikoli	žer		Q	
+52	Ossetic	dur	dur	N	
+124	Ossetic Iron	dur	dur	N	
+125	Ossetic Digor	dor	dor	N	
+141	Kata-viri	wʌt		I	
+154	Vasi-vari	yīrë, yire		B	
+153	Askunu	wāṭ		I	
+105	Vedic Sanskrit	áśmā		G	
+162	Pāḷī	amha/asama		G	
+162	Pāḷī	pāsāṇa		Y	
+162	Pāḷī	silā		Z	
+41	Khaskura	DHUNGA		K	
+51	Nepali	DHUNGO		K	
+106	Assamese	xil	xil		
+102	Oriya	pɔthɔrɔo	pɔthɔrɔo	D	
+102	Oriya	goṛi	goɽi	X	
+10	Bengali	PATHOR		D	
+111	Bihari	pathər	pathər	D	
+144	Magahi	पत्थल	pət̪t̪ʰəl		
+104	Marwari	bhãʈɛ	bhãʈɛ	D	
+35	Hindi	PETTHER		D	
+119	Urdu	پتّھر	pət̪ʰːəɾ	D	
+103	Sindhi	patharu		D	
+43	Lahnda	PETTHER		D	
+53	Punjabi	PETTHER		D	
+33	Gujarati	PETTNER		D	
+50	Marathi	petther		D	
+50	Marathi	dagad	'dəgəɖ	K	
+40	Kashmiri	WATH		I	
+40	Kashmiri	KUNU		K	
+65	Sinhalese	GALA			
+34	Romani Greece	BAR		I	
+100	Old Church Slavonic	камы	kɑmɯ	G	
+95	Serbo-Croatian	kamen	ˈkâmɛːn	G	
+15	Bulgarian	камък	ˈkamək	G	
+92	Macedonian	kamen	ˈkamɛn	G	
+60	Russian	камень	'kamʲɛnʲ	G	
+55	Polish	kamień	ˈkamjɛɲ	G	
+16	Belarusian	камень	ˈkamʲɛnʲ	G	
+73	Ukrainian	камінь	ˈkaminʲ	G	
+66	Slovak	kameň	ˈkamɛɲ	G	
+18	Czech	kámen	ˈkaːmɛn	G	
+48	Sorbian Upper	kamjeń	ˈkamen	G	
+47	Sorbian Lower	kamjeń	ˈkameɲ	G	
+97	Slovenian	kamen	ˈkǎːmən	G	
+108	Old Prussian	stabis			
+44	Latvian	akmens		G	
+46	Lithuanian	AKMUO		G	
+109	Old Norse	steinn	stɛinː	A	
+36	Icelandic	steinn	steid̥n	A	
+23	Faroese	steinur	ˈstaiːnʊɹ	A	
+58	Norwegian Riksmal	sten	steːn	A	
+159	Stavangersk	steidn, stein	ˈstɛɪdn̩, stɛɪn	A	
+157	Old Swedish	sten	steːn	A	
+69	Swedish	sten	ste:n	A	
+71	Swedish Vilhelmina	STEN		A	
+70	Swedish Uppland	STEN		A	
+145	Elfdalian	stie	stɪɛ	A	
+20	Danish	sten	sd̥ʰen	A	
+158	Danish Fjolde	stien	sdien	A	
+160	Old Gutnish	stain		A	
+161	Gutnish Lau	stain	staɪn	A	
+99	Old English	stān		A	
+22	English	stone	stəʊn	A	
+26	Frisian	stien	sti.ən	A	
+21	Dutch	steen	sten	A	
+24	Flemish	STEEN		A	
+83	Afrikaans	STEEN		A	
+87	Sranan	STOON, STON		A	
+126	Old High German	stein		A	
+27	German	Stein	ʃtaĭn	A	
+86	Pennsylvania Dutch	SCHTAY		A	
+120	Luxembourgish	Steen		A	
+121	German Switzerland	schtei		A	
+107	Gothic	stains		A	
+132	Umbrian	vapeře		O	
+112	Latin	petra	ˈpetra	(E)	
+112	Latin	lapis	ˈlapis	O	
+17	Catalan	roc	ɾɔk		
+17	Catalan	pedra	ˈpeðɾə	E	
+56	Portuguese	pedra	ˈpɛdɾɐ	E	
+68	Spanish	piedra	'pjeðɾa	E	
+61	Sardinian Cagliari	PERDA		E	
+62	Sardinian Logudoro	PEDRA		E	
+63	Sardinian Nuoro	PRETA		E	
+85	French Creole Dominica	WOS		E	
+76	Walloon	PIRE		E	
+25	French	pierre	pjɛʀ	E	
+57	Provencal	pèira	ˈpɛjɾo	E	
+57	Provencal	CLAPO		L	
+42	Ladin	SASS			
+42	Ladin	CRAP		L	
+146	Dolomite Ladino	pérå		E	
+123	Romansh	peidra		E	
+123	Romansh	crappa		L	
+122	Friulian	piere		E	
+122	Friulian	clap		L	
+39	Italian	pietra	'pjɛtra	E	
+59	Romanian	piatră		E	
+74	Vlach	KATRE			
+140	Gaulish	akaunon			
+127	Old Irish	lie	lʹiʔe		
+127	Old Irish	cloch	klox	J	
+101	Middle Cornish	karrek	'kar:ɛk	M	
+101	Middle Cornish	men	mɛ:n	F	
+148	Old Breton	main		F	
+148	Old Breton	carrec		M	
+172	Middle Breton	maen, men, mean, mæn	ˈmɛn		
+12	Breton	maen		F	
+12	Breton	karreg		M	
+150	Old Welsh	carrecc		M	
+150	Old Welsh	mein		F	
+79	Welsh	carreg		M	
+79	Welsh	maen		F	
+38	Irish	cloch	kl̪ˠɔx	J	
+115	Scottish Gaelic	clach		J	
+147	Manx	clagh		J	
+5	[Legacy] Albanian T	gur		B	
+29	[Legacy] Greek K	PETRA		H	
+28	[Legacy] Greek D	PETRA		H	
+30	[Legacy] Greek Md	PETRA		H	
+64	[Legacy] Serbocroatian	KAMEN		G	
+113	[Legacy] Serbian	kamen	kâmeːn	G	
+89	[Legacy] Bulgarian P	KAMUK		G	
+49	[Legacy] Macedonian	KAMEN		G	
+94	[Legacy] Russian P	KAMEN		G	
+93	[Legacy] Polish P	KAMIEN		G	
+90	[Legacy] Byelorussian P	KAMEN		G	
+98	[Legacy] Ukrainian P	KAMIN		G	
+19	[Legacy] Czech E	KAMENY		G	
+96	[Legacy] Slovak P	KAMEN		G	
+91	[Legacy] Czech P	KAMEN		G	
+67	[Legacy] Slovenian	KAMEN		G	
+45	[Legacy] Lithuanian O	AKMUO		G	
+11	[Legacy] Brazilian	PEDRA		E	
+142	[Legacy] German Munich	Stein		A	
+84	[Legacy] French Creole C	HWOS		E	
+14	[Legacy] Breton St	karreg		M	
+14	[Legacy] Breton St	maen	mẽn	F	
+13	[Legacy] Breton Se	MAEN		F	
+78	[Legacy] Welsh C	CARREG		M	
+37	[Legacy] Irish A	CLOCH		J	

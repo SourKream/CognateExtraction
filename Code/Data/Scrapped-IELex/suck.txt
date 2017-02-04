@@ -1,0 +1,157 @@
+114	Proto-Indo-European	*dʰeh₁(i)-		J	
+80	Hittite	u(n)hzi			
+88	Albanian	THITH		C	
+143	Standard Albanian	thith		C	
+2	Albanian Sicily	THITH		C	
+4	Albanian Corinth	MENT   PII SI LEPUSE			
+3	Albanian Gheg	THITH		C	
+6	Albanian Tosk	THETHIN, AOR. THETHIVA		C	
+110	Ancient Greek	μυζάω	myzdáɔː		
+32	Greek	βυζαίνω			
+32	Greek	ρουφώ	ruˈfo̞	G	
+31	Greek Lesbos	HROUFO		G	
+129	Classical Armenian	ccem		(D)	
+129	Classical Armenian	diem		J	
+8	Armenian Eastern	ccel	ʦəˈʦɛl	D	
+7	Armenian Western	DIEM		J	
+7	Armenian Western	KASHEL		D	
+75	Wakhi	SUP-		B	
+9	Baluchi	MISHAGH, MIKHTA		I	
+72	Tajik	makidan	mækidæn	I	
+54	Persian	MEKIDAN		I	
+77	Waziri	RAVDEL		G	
+1	Pashto	RUDEL		G	
+138	Shughni	sipāf		B	
+139	Sarikoli	s(i)pof : s(i)pift		B	
+52	Ossetic	daejyn	dæjɨn	J	
+52	Ossetic	C"IRYN		O	
+124	Ossetic Iron	c'ir-	c'ir-	O	
+125	Ossetic Digor	č'ir-	č'ir-	O	
+105	Vedic Sanskrit	dháyati		J	
+41	Khaskura	CHUSNU		F	
+51	Nepali	CUSNU		F	
+106	Assamese	suh	suh	F	
+102	Oriya	čusiba	čusiba	F	
+10	Bengali	CHOSA		F	
+111	Bihari	cusəb	cusəb	F	
+144	Magahi	चुसना	cʊsənɑ	F	
+104	Marwari	sōsabō		F	
+104	Marwari	chūnghai		F	
+35	Hindi	CUSNA		F	
+119	Urdu	چُوسنا	ʧusnə	F	
+103	Sindhi	čuhaṇu		F	
+43	Lahnda	CHUSEN		F	
+53	Punjabi	CUSNA		F	
+33	Gujarati	CUSWU		F	
+50	Marathi	tsokhne	'tsokʰɳe	F	
+40	Kashmiri	TSAHUN		F	
+65	Sinhalese	URANAWA			
+100	Old Church Slavonic	съсати	sʊ̆sɑti	B	
+95	Serbo-Croatian	sisati	ˈsîsati	B	
+15	Bulgarian	смуча	ˈsmutʃə	N	
+92	Macedonian	цица	ˈtsitsa	A	
+60	Russian	сосать	sɔ'satʲ	B	
+55	Polish	ssać	ˈssatɕ	B	
+16	Belarusian	ссаць	ssatsʲ	B	
+73	Ukrainian	ссати	ˈssatɪ	B	
+66	Slovak	sať	sac	B	
+18	Czech	sát	saːt	B	
+48	Sorbian Upper	cycać	ˈtsɘ̟tsatʃ	A	
+47	Sorbian Lower	cycaś	ˈtsɘ̟tsaɕ	A	
+97	Slovenian	sesati	səˈsǎːti, sɛˈsǎːti	B	
+108	Old Prussian	dastweī			
+44	Latvian	SUKT		B	
+44	Latvian	zîž		E	
+46	Lithuanian	čiulpti	ˈtʲʃʲʊlʲpʲtʲɪ	H	
+109	Old Norse	súga	ˈsuːɣa	B	
+36	Icelandic	sjúga	ˈsjuːɣa	B	
+23	Faroese	súgva	ˈsɪɡ̊va	B	
+58	Norwegian Riksmal	suge	ˈsʉ̀ːɡə	B	
+159	Stavangersk	sua	ˈsʉ̀ːa	B	
+157	Old Swedish	sugha	ˈsuːɣa	B	
+69	Swedish	suga	ˈsʉ̀:ga	B	
+71	Swedish Vilhelmina	SUG		B	
+70	Swedish Uppland	SUGA		B	
+145	Elfdalian	sauga	ˈsɑ̀ʉgɑ	B	
+20	Danish	suge	ˈsu:ə	B	
+158	Danish Fjolde	sox	sox	(B)	
+161	Gutnish Lau	säugä	ˈsɛuɡɛ	B	
+99	Old English	sȳcþ		B	
+22	English	to suck	sʌk	B	
+26	Frisian	sûge	'su:gə	B	
+21	Dutch	zuigen	'zœyɣə(n)	B	
+24	Flemish	ZUIGEN		B	
+83	Afrikaans	SUIG, SUIE		B	
+87	Sranan	ZUIGI		B	
+126	Old High German	sūgit		B	
+27	German	saugen	'zaŭgn̩	B	
+120	Luxembourgish	suckelen		B	
+121	German Switzerland	sugge		B	
+107	Gothic	da-dd-j-an*		J	
+112	Latin	sūgere	ˈsuːgere	B	
+17	Catalan	xuclar	ʃukˈɫa, tʃupˈɫaɾ	L	
+17	Catalan	TRAGAR, ATRACAR		L	
+56	Portuguese	CHUCHAR		L	
+56	Portuguese	chupar	ʃuˈpaɾ	K	
+56	Portuguese	sugar	suˈɡaɾ	B	
+56	Portuguese	MAMAR			
+68	Spanish	chupar	ʧu'paɾ	K	
+61	Sardinian Cagliari	SUCCAI		B	
+62	Sardinian Logudoro	SUZZARE		B	
+63	Sardinian Nuoro	SUTHTHARE		B	
+85	French Creole Dominica	SUSE		B	
+76	Walloon	SUCI		B	
+25	French	sucer	syse	B	
+57	Provencal	CHUCHA		L	
+57	Provencal	TETA		M	
+57	Provencal	SUCA		B	
+42	Ladin	TSCHUTSCHER		L	
+42	Ladin	TETTER		M	
+146	Dolomite Ladino	ciucià		L	
+122	Friulian	supâ			
+39	Italian	succhiare	suk'kjare	B	
+59	Romanian	a suge	a ˈsudʒe	B	
+74	Vlach	SUKU		B	
+127	Old Irish	súigid	su:ɣʹəðʹ	B	
+127	Old Irish	deinid	dʹenʹəðʹ	J	
+101	Middle Cornish	sugna	ˈsʏgna	B	
+101	Middle Cornish	dena	'dɛna	J	
+172	Middle Breton	sunaff, sùnaff	ˈsuːnaṽ		
+12	Breton	sunañ		B	
+12	Breton	denañ		J	
+79	Welsh	sugno		B	
+38	Irish	súigh	sˠuːɟ, sˠuː	B	
+38	Irish	diúl		J	
+115	Scottish Gaelic	sùich		B	
+115	Scottish Gaelic	deoighail		J	
+5	[Legacy] Albanian T	thith	θiθ	C	
+29	[Legacy] Greek K	ROUFO		G	
+28	[Legacy] Greek D	ROUFAO		G	
+30	[Legacy] Greek Md	ROUFO		G	
+30	[Legacy] Greek Md	BUDZAINO			
+30	[Legacy] Greek Md	THELADZO			
+64	[Legacy] Serbocroatian	SISATI		B	
+113	[Legacy] Serbian	sisati	sîsati	B	
+89	[Legacy] Bulgarian P	SMUCA		B	
+49	[Legacy] Macedonian	SMUKNE		B	
+49	[Legacy] Macedonian	cíca	ˈʦiʦa	A	
+94	[Legacy] Russian P	SOSAT		B	
+93	[Legacy] Polish P	SSAC		B	
+90	[Legacy] Byelorussian P	SSAC		B	
+98	[Legacy] Ukrainian P	SSATY		B	
+19	[Legacy] Czech E	CUCAT		A	
+96	[Legacy] Slovak P	SAT		B	
+91	[Legacy] Czech P	SSATI		B	
+67	[Legacy] Slovenian	SOSAT		B	
+45	[Legacy] Lithuanian O	CIULPTI		H	
+11	[Legacy] Brazilian	CHUCHAR		L	
+11	[Legacy] Brazilian	SUGAR		B	
+11	[Legacy] Brazilian	CHUPAR		K	
+142	[Legacy] German Munich	saugen		B	
+84	[Legacy] French Creole C	SUSE		B	
+14	[Legacy] Breton St	sunañ	'sỹ:ñ	B	
+14	[Legacy] Breton St	denañ	'dẽ:nã	J	
+13	[Legacy] Breton Se	SUNEIN		B	
+13	[Legacy] Breton Se	DENEIN ( OF BABIES)		J	
+78	[Legacy] Welsh C	SUGNO		B	
+37	[Legacy] Irish A	DIUL		J	

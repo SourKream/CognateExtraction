@@ -1,0 +1,162 @@
+114	Proto-Indo-European	*h₁oh₁s-		F	
+80	Hittite	ais		F	
+133	Luvian	āssa		F	
+81	Tocharian A	koy-		P	
+82	Tocharian B	koyṃ		P	
+88	Albanian	gojë		(C)	
+143	Standard Albanian	gojë		(C)	
+2	Albanian Sicily	gojë		(C)	
+4	Albanian Corinth	gojë		(C)	
+3	Albanian Gheg	goja		(C)	
+6	Albanian Tosk	gojë		(C)	
+110	Ancient Greek	στόμα	stóma	J	
+152	Tsakonian	τουμα		J	
+32	Greek	στόμα	ˈsto̞ma	J	
+31	Greek Lesbos	STOMA		J	
+129	Classical Armenian	բերան	beran	D	
+8	Armenian Eastern	beran	bɛˈɾɑn	D	
+7	Armenian Western	BERAN		D	
+128	Avestan	åŋh-		F	
+136	Sogdian	kwc’		Q	
+75	Wakhi	GHUS		Q	
+9	Baluchi	DAF		(L)	
+118	Kurdish	dev		(L)	
+137	Zazaki	fek		R	
+72	Tajik	daxan	dæhɔːn	L	
+54	Persian	DAHAN		L	
+77	Waziri	KHWULA		A	
+1	Pashto	XLA		A	
+138	Shughni	γêv		Q	
+139	Sarikoli	ɣov		Q	
+52	Ossetic	KOM		E	
+52	Ossetic	dzyx	ʣɨχ	E	
+124	Ossetic Iron	kom	kom	E	
+125	Ossetic Digor	kom	kom	E	
+141	Kata-viri	aši		F	
+154	Vasi-vari	iš, īš		F	
+153	Askunu	āšī		F	
+105	Vedic Sanskrit	ā́s		F	
+162	Pāḷī	mukha		M	
+41	Khaskura	MUKH		M	
+51	Nepali	MUKH		M	
+106	Assamese	thōtā		O	
+106	Assamese	mukh	mukh	M	
+102	Oriya	muhɔ̃	muhɔ̃	M	
+102	Oriya	tuṇḍɔ-	tuɳɖɔ-	O	
+102	Oriya	paṭi	paʈi	S	
+10	Bengali	muk	mukʰ	M	
+111	Bihari	mũh	mũh	M	
+144	Magahi	मुंह	mʊ̃h	M	
+104	Marwari	mū̃ḍō		M	
+35	Hindi	mukh	mʊkʰ	M	
+119	Urdu	مُنْہ	mʊ̃ʰ	M	
+103	Sindhi	vātu		T	
+103	Sindhi	mũhu		M	
+43	Lahnda	MU		M	
+53	Punjabi	MU		M	
+33	Gujarati	MOH, MOHRU		M	
+50	Marathi	tõnd	tõɳɖ	O	
+40	Kashmiri	MOKH		M	
+40	Kashmiri	OS		F	
+65	Sinhalese	KATA			
+34	Romani Greece	MUI		M	
+100	Old Church Slavonic	ѹста	ustɑ	F	
+95	Serbo-Croatian	usta	ˈǔːsta	F	
+15	Bulgarian	уста	uˈsta	F	
+92	Macedonian	уста	ˈusta	F	
+60	Russian	рот	rɔt	I	
+55	Polish	usta	'usta	F	
+16	Belarusian	рот	rɔt	I	
+73	Ukrainian	рот	rɔt	I	
+66	Slovak	ústa	ˈuːsta	F	
+18	Czech	ústa	ˈuːsta	F	
+48	Sorbian Upper	huba	ˈhuba	U	
+47	Sorbian Lower	guba	ˈɡuba	U	
+97	Slovenian	usta	ˈǔːsta	F	
+108	Old Prussian	austo		F	
+44	Latvian	mute		M	
+46	Lithuanian	burna	bʊrˈnɐ	D	
+109	Old Norse	munnr	munːr	B	
+36	Icelandic	munnur	ˈmʏnːʏr	B	
+23	Faroese	munnur, muður	ˈmʊnːʊɹ, muːwʊɹ	B	
+58	Norwegian Riksmal	munn	mʉnː	B	
+159	Stavangersk	monn	munː	B	
+157	Old Swedish	munder	ˈmunder	B	
+69	Swedish	mun	mɵnː	B	
+71	Swedish Vilhelmina	MON		B	
+70	Swedish Uppland	MUN		B	
+145	Elfdalian	munn	mʉnː	B	
+20	Danish	mund	mɔnˀ	B	
+158	Danish Fjolde	mond	monʲ	B	
+161	Gutnish Lau	mun	munː	B	
+99	Old English	mūþ		B	
+22	English	mouth	maʊθ	B	
+26	Frisian	mûle	mulə	M	
+21	Dutch	mond	mɔnt	B	
+24	Flemish	MOND		B	
+83	Afrikaans	MOND		B	
+87	Sranan	MOFO		B	
+126	Old High German	mund		B	
+27	German	Mund	mʊnt	B	
+86	Pennsylvania Dutch	MAUL		M	
+120	Luxembourgish	Mond		B	
+121	German Switzerland	muu		B	
+107	Gothic	munþs		B	
+112	Latin	ōs	oːs	F	
+17	Catalan	boca	ˈbokə	G	
+56	Portuguese	boca	ˈbokɐ	G	
+68	Spanish	boca	'boka	G	
+61	Sardinian Cagliari	BUKKA		G	
+62	Sardinian Logudoro	BUCCA		G	
+63	Sardinian Nuoro	BUKKA		G	
+85	French Creole Dominica	BUS		G	
+76	Walloon	BOKE		G	
+25	French	bouche	buʃ	G	
+57	Provencal	BOUCO, AIS		G	
+42	Ladin	BUOCHA		G	
+146	Dolomite Ladino	bociå		G	
+123	Romansh	bucca		G	
+122	Friulian	bocje		G	
+39	Italian	bocca	'bokka	G	
+59	Romanian	gură		C	
+74	Vlach	GURE		C	
+140	Gaulish	genu-		H	
+140	Gaulish	manto-/i-			
+140	Gaulish	bocca		G	
+127	Old Irish	bél	bʹe:l	(K)	
+127	Old Irish	gin	gʹiun	H	
+149	Old Cornish	genau		H	
+101	Middle Cornish	ganow	'ganɔʊ	H	
+148	Old Breton	genou		H	
+172	Middle Breton	bec	ˈbeːk	V	
+172	Middle Breton	guenou, guenouff	ˈgeːnu, ˈgeːnow	H	
+12	Breton	genoù	ˈgeːnu, ˈgeːnow	H	
+79	Welsh	ceg		(N)	
+79	Welsh	genau		H	
+38	Irish	béal	bʲeːl̪ˠ	K	
+115	Scottish Gaelic	beul		K	
+147	Manx	beeal		K	
+5	[Legacy] Albanian T	gojë	ˈɡɔj(ə)	(C)	
+29	[Legacy] Greek K	STOMA		J	
+28	[Legacy] Greek D	STOMA		J	
+30	[Legacy] Greek Md	STOMA		J	
+64	[Legacy] Serbocroatian	USTA		F	
+113	[Legacy] Serbian	usta	ǔːsta	F	
+89	[Legacy] Bulgarian P	USTA		F	
+49	[Legacy] Macedonian	USTA		F	
+94	[Legacy] Russian P	ROT		I	
+93	[Legacy] Polish P	USTA		F	
+90	[Legacy] Byelorussian P	ROT		I	
+98	[Legacy] Ukrainian P	ROT		I	
+19	[Legacy] Czech E	HUBA			
+96	[Legacy] Slovak P	USTA		F	
+91	[Legacy] Czech P	USTA		F	
+67	[Legacy] Slovenian	VUJSTA		F	
+45	[Legacy] Lithuanian O	BURNA		D	
+11	[Legacy] Brazilian	BOCA		G	
+142	[Legacy] German Munich	Mund		B	
+84	[Legacy] French Creole C	BUS		G	
+14	[Legacy] Breton St	genoù	'gẽ:nu	H	
+13	[Legacy] Breton Se	GENEU, BEG		H	
+78	[Legacy] Welsh C	CEG		N	
+37	[Legacy] Irish A	BEAL		K	

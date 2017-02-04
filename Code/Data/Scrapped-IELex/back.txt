@@ -1,0 +1,163 @@
+80	Hittite	iskis			
+82	Tocharian B	sark			
+88	Albanian	SHPINA		(Q)	
+143	Standard Albanian	shpinë		(Q)	
+2	Albanian Sicily	KRAX-T / KARINA		D	
+2	Albanian Sicily	GHARESI		D	
+4	Albanian Corinth	RAXOKOKALEE			
+3	Albanian Gheg	SHPINA		(Q)	
+6	Albanian Tosk	KURIS		D	
+110	Ancient Greek	νῶτον	nɔ̑ːton	Ad	
+32	Greek	πλάτη	ˈplati	L	
+31	Greek Lesbos	PLATE		L	
+129	Classical Armenian	թիքունք	tʰikownkʰ		
+129	Classical Armenian	կռթունք	kur(-)tʰ-un-kʰ		
+129	Classical Armenian	մէջ(ք)	mēǰ(-k‘)		
+8	Armenian Eastern	կռթունք	kərtʰuŋkʰ		
+8	Armenian Eastern	մեջք	meʧʰkʰ		
+7	Armenian Western	կռնակ	ɡərnɑɡ		
+128	Avestan	parštō		G	
+136	Sogdian	prc(h)		G	
+174	Khotanese	palśti		G	
+75	Wakhi	URQA		(V)	
+75	Wakhi	DUM		M	
+9	Baluchi	PHUSHT		G	
+137	Zazaki	pāštī		G	
+72	Tajik	pušt	puʃt	G	
+54	Persian	POSHT		G	
+77	Waziri	SHAMZAI		A	
+1	Pashto	SA		A	
+138	Shughni	dām		M	
+139	Sarikoli	dom		M	
+139	Sarikoli	arqo		(V)	
+52	Ossetic	faesontae	fæsontæ	T	
+52	Ossetic	C"YLDYM		M	
+124	Ossetic Iron	fɐšontɐ	fɐšontɐ	T	
+125	Ossetic Digor	fɐsontɐ	fɐsontɐ	T	
+105	Vedic Sanskrit	pr̥ṣṭhám		G	
+162	Pāḷī	piṭṭha		G	
+41	Khaskura	KANDO		X	
+51	Nepali	PITH		G	
+106	Assamese	pithi	pithi	G	
+102	Oriya	piṭhi	piʈhi	G	
+10	Bengali	PIT		G	
+111	Bihari	piʈa	piʈa	G	
+111	Bihari	ɖar	ɖar	Y	
+144	Magahi	पीठ	pitʰ	G	
+104	Marwari	măŭ̃r		Z	
+35	Hindi	pith	piːʈʰ	G	
+119	Urdu	کمر	kəməɾ	(W)	
+103	Sindhi	puṭhe	puʈhe	G	
+43	Lahnda	PICCHE		G	
+53	Punjabi	PITTH		G	
+33	Gujarati	PITH		G	
+33	Gujarati	WASO		Aa	
+50	Marathi	pāth	patʰ	G	
+40	Kashmiri	PYUTHU		G	
+65	Sinhalese	PASSA		G	
+34	Romani Greece	DUMO		(M)	
+100	Old Church Slavonic	хрьбьтъ	xrɪ̆bɪ̆tʊ̆	J	
+95	Serbo-Croatian	leđa	ˈlɛ̌ːdʑa	U	
+15	Bulgarian	гръб	ɡrɤb	Ae	
+92	Macedonian	грб	ɡərb	Ae	
+60	Russian	спина	spʲiˈna	Q	
+55	Polish	plecy	'plɛtsɘ̟	P	
+16	Belarusian	спіна	ˈspʲina	Q	
+73	Ukrainian	спина	ˈspɪna	Q	
+66	Slovak	chrbát	ˈxr̩baːt	J	
+18	Czech	záda	ˈzaːda	Ab	
+48	Sorbian Upper	chribjet	ˈkʀibĕɛt	J	
+47	Sorbian Lower	kśebjat	ˈkɕɛbjat	J	
+97	Slovenian	hrbet	ˈxə̌rbət	J	
+108	Old Prussian	rikisnan			
+44	Latvian	mugura		O	
+46	Lithuanian	NUGARA		O	
+109	Old Norse	hryggr	ɣryɡːr	(R)	
+109	Old Norse	bak	bak	B	
+36	Icelandic	bak	b̥aːk	B	
+36	Icelandic	hryggur	ˈr̥ɪɡ̊ːʏr	R	
+23	Faroese	ryggur	ˈɹɪɡ̊ːʊɹ	R	
+23	Faroese	bak	b̥ɛaːk	B	
+58	Norwegian Riksmal	rygg	ɾʏɡː	R	
+159	Stavangersk	rygg	ʁʏɡː	R	
+157	Old Swedish	baker	ˈbaːker	B	
+157	Old Swedish	rygger	ˈryɡːer	R	
+69	Swedish	rygg	rʏgː	R	
+71	Swedish Vilhelmina	BAK		B	
+71	Swedish Vilhelmina	ROG		R	
+70	Swedish Uppland	RYGG		R	
+70	Swedish Uppland	BAK		B	
+145	Elfdalian	rygg	rygː	R	
+20	Danish	ryg	ʁœɡ	R	
+158	Danish Fjolde	røg	ɹøɣ	R	
+160	Old Gutnish	bacr		B	
+161	Gutnish Lau	rygg	rʏɡː	R	
+161	Gutnish Lau	bak	bɑːk	B	
+99	Old English	bæc		B	
+99	Old English	hrycg		R	
+22	English	back	bæk	B	
+26	Frisian	rêch	rɛːx	R	
+21	Dutch	rug	rʏχ	R	
+24	Flemish	RUG		R	
+83	Afrikaans	RUG		R	
+87	Sranan	BAKA		B	
+126	Old High German	rucki		R	
+27	German	Rücken	'rijkn̩	R	
+86	Pennsylvania Dutch	BUUCKEL		B	
+120	Luxembourgish	Réck		R	
+121	German Switzerland	rügge		R	
+107	Gothic	ams(a)*			
+107	Gothic	nōt-a*		E	
+112	Latin	dorsum	ˈdorsum	(H)	
+112	Latin	tergum	ˈtergum	Ac	
+17	Catalan	esquena	əs'kɛnə	(F)	
+17	Catalan	espatlla	əs'paʎʎə	C	
+56	Portuguese	costas	ˈkɔʃtɐʃ		
+56	Portuguese	dorso		H	
+68	Spanish	espalda	es'palda	C	
+68	Spanish	DORSO		H	
+62	Sardinian Logudoro	DORSO		H	
+85	French Creole Dominica	DO		H	
+76	Walloon	RIN		(S)	
+25	French	dos	do	H	
+57	Provencal	DOS		H	
+57	Provencal	ESQUINO		(F)	
+42	Ladin	DOSS		H	
+42	Ladin	RAIN		(S)	
+146	Dolomite Ladino	schina		F	
+123	Romansh	dies		H	
+122	Friulian	schene		(F)	
+39	Italian	dosso	'dɔsso	H	
+59	Romanian	spate		C	
+59	Romanian	DOS		H	
+127	Old Irish	druimm	drumʹ	N	
+127	Old Irish	cúl	ku:l		
+101	Middle Cornish	keyn	kɛɪn	I	
+172	Middle Breton	queyn, quein	ˈkejn	I	
+12	Breton	kein	ˈkɛjn	I	
+79	Welsh	yn ôl			
+79	Welsh	cefn		I	
+38	Irish	droim	d̪ˠɾˠɪmʲ	N	
+115	Scottish Gaelic	druim		N	
+29	[Legacy] Greek K	HOPISO		K	
+28	[Legacy] Greek D	PISO		K	
+30	[Legacy] Greek Md	RACHE			
+30	[Legacy] Greek Md	PLATE		(L)	
+113	[Legacy] Serbian	leđa	lěːdʑa	U	
+89	[Legacy] Bulgarian P	GRUB		J	
+49	[Legacy] Macedonian	grb	ɡr̩p	J	
+94	[Legacy] Russian P	SPINA		Q	
+93	[Legacy] Polish P	GRZBIET		J	
+90	[Legacy] Byelorussian P	CHRYBET		J	
+98	[Legacy] Ukrainian P	SPYNA		Q	
+19	[Legacy] Czech E	HRBET		J	
+96	[Legacy] Slovak P	CHRBAT		J	
+67	[Legacy] Slovenian	HERBET		J	
+45	[Legacy] Lithuanian O	PECAI		P	
+11	[Legacy] Brazilian	costas	ˈkɔstɐs		
+142	[Legacy] German Munich	Rücken		R	
+84	[Legacy] French Creole C	DO		H	
+14	[Legacy] Breton St	kein	kɛjn	I	
+13	[Legacy] Breton Se	KEIN		I	
+78	[Legacy] Welsh C	CEFEN		I	
+37	[Legacy] Irish A	DROM		N	

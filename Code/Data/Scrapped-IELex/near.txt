@@ -1,0 +1,176 @@
+80	Hittite	manninkuwanz			
+81	Tocharian A	kātse			
+82	Tocharian B	ysape			
+82	Tocharian B	akartte			
+82	Tocharian B	etsuwai			
+88	Albanian	AFER, AFEREM		C	
+143	Standard Albanian	afër		C	
+2	Albanian Sicily	DANZ		D	
+4	Albanian Corinth	NDANE		D	
+3	Albanian Gheg	AFER		C	
+6	Albanian Tosk	AFER		C	
+110	Ancient Greek	ἐγγύς	eŋgýs	S	
+32	Greek	κοντά	ko̞ˈnda	K	
+31	Greek Lesbos	KONTA		K	
+129	Classical Armenian	մերձ	merj		
+129	Classical Armenian	մաւտ	mawt	E	
+8	Armenian Eastern	մոտ	mot	E	
+7	Armenian Western	մօտ	mot	E	
+128	Avestan	asne		Y	
+131	Old Persian	ašnaiy		Y	
+136	Sogdian	β’w		C	
+75	Wakhi	QERIB		(R)	
+75	Wakhi	NEZD		A	
+75	Wakhi	SIS		Ad	
+9	Baluchi	NAZI, NAZIKH		A	
+137	Zazaki	nezdī		A	
+72	Tajik	NAZDIK		A	
+72	Tajik	KARIB		(R)	
+54	Persian	NAZDIK		A	
+77	Waziri	NEZDE, TSARMA		A	
+1	Pashto	NEZDE		A	
+138	Shughni	qarīb		(R)	
+138	Shughni	nazdīk		A	
+139	Sarikoli	nizd		A	
+52	Ossetic	XAESTAEG		X	
+52	Ossetic	cyr	tsur, sur		
+124	Ossetic Iron	χɐštɐg	χɐštɐg	X	
+125	Ossetic Digor	χɐstɐg	χɐstɐg	X	
+141	Kata-viri	tɛvɪrɛ̃		Aa	
+105	Vedic Sanskrit	antikḗ		Ac	
+162	Pāḷī	antika		Ac	
+41	Khaskura	NIR		O	
+41	Khaskura	NAJIK		(A)	
+51	Nepali	NIRA		O	
+106	Assamese	lāgi			
+106	Assamese	kādā(t)			
+106	Assamese	osar			
+102	Oriya	nikɔṭɔ(-ku)	nikɔʈɔ(-ku)	O	
+102	Oriya	ɔdurɔ	ɔdurɔ	N	
+102	Oriya	pakhɔ-ru	pakhɔ-ru		
+10	Bengali	KACE		Ae	
+111	Bihari	nəjdik	nəjdik	(A)	
+144	Magahi	भीरी	bʰiri	Af	
+104	Marwari	năĭṛō		O	
+104	Marwari	urai		Ag	
+104	Marwari	gōdăĭ		Ah	
+104	Marwari	kanăĭ		Al	
+35	Hindi	PAS		L	
+119	Urdu	قریب،	qəɾib,	(R)	
+119	Urdu	نزدیک	nəzd̪ik	(A)	
+103	Sindhi	dim		Ai	
+103	Sindhi	kane		Al	
+103	Sindhi	ōvēǰhō		Ak	
+103	Sindhi	ōḍō		N	
+103	Sindhi	vəṭi	vəʈi	Aj	
+43	Lahnda	KOL			
+53	Punjabi	NERE		O	
+33	Gujarati	PASE		L	
+50	Marathi	dzawal	'dzəwəɭ		
+40	Kashmiri	NISH		Ab	
+65	Sinhalese	LANGA			
+34	Romani Greece	PASE		L	
+100	Old Church Slavonic	близъ	blizʊ̆	G	
+95	Serbo-Croatian	blizu	ˈblǐːzu	G	
+15	Bulgarian	близко	ˈblizku	G	
+92	Macedonian	близу	ˈblizu	G	
+60	Russian	близко	'blʲizkɔ	G	
+55	Polish	blisko	ˈbliskɔ	G	
+16	Belarusian	блізка	ˈblʲizka	G	
+73	Ukrainian	близько	ˈbɫɪzʲkɔ	G	
+66	Slovak	blízko	ˈbliːzkɔ	G	
+18	Czech	blízko	ˈbliːzkɔ	G	
+48	Sorbian Upper	blisko	ˈblizkɔ	G	
+47	Sorbian Lower	blisko	ˈblizkɔ	G	
+97	Slovenian	blizu	ˈblǐːzu	G	
+44	Latvian	tuvu		U	
+46	Lithuanian	ARTI		P	
+109	Old Norse	nær	nɛr	B	
+36	Icelandic	nærri		B	
+23	Faroese	nær	nɛaːɹ	B	
+58	Norwegian Riksmal	nær	næːɾ	B	
+159	Stavangersk	ner	næːʁ	B	
+157	Old Swedish	när	næːr	B	
+69	Swedish	nära	ˈnæ̀:ra	B	
+71	Swedish Vilhelmina	NAR		B	
+70	Swedish Uppland	NARA		B	
+145	Elfdalian	nęr	nɛ̃ːr	B	
+20	Danish	nær	nɛˀɐ̯	B	
+158	Danish Fjolde	neær	neæɹ	B	
+161	Gutnish Lau	när	nɛːr	B	
+99	Old English	nēah		B	
+22	English	near	nɪə	B	
+26	Frisian	njonken	'njoŋkən		
+21	Dutch	nabij	na'bɛi	B	
+21	Dutch	dichtbij		V	
+24	Flemish	DICHT BY		V	
+83	Afrikaans	NABY		B	
+83	Afrikaans	DIGBY		V	
+87	Sranan	KLOSIBEI			
+126	Old High German	nāh		B	
+27	German	nahe	'na:ə	B	
+86	Pennsylvania Dutch	NAYKSCHT		B	
+120	Luxembourgish	nobäi		B	
+121	German Switzerland	naach		B	
+107	Gothic	nēƕ(a)		B	
+130	Oscan	nessimas		Z	
+132	Umbrian	nesimei		Z	
+112	Latin	prope	ˈprope	H	
+17	Catalan	a prop	ə'pɾɔp	H	
+17	Catalan	TANCA			
+56	Portuguese	perto	ˈpɛɾtu		
+56	Portuguese	CHEGADO			
+68	Spanish	JUNTO			
+68	Spanish	cerca	'θeɾka		
+61	Sardinian Cagliari	AKKANTA		W	
+62	Sardinian Logudoro	BIGHINU		J	
+63	Sardinian Nuoro	AKKURTHU		W	
+85	French Creole Dominica	PWE		I	
+76	Walloon	PRES		I	
+25	French	près	pʀɛ	I	
+57	Provencal	PROCHE		H	
+42	Ladin	ARDAINT, STRUSCH			
+146	Dolomite Ladino	apede			
+123	Romansh	damanaivel			
+122	Friulian	dongje			
+39	Italian	vicino	vi'tʃino	J	
+59	Romanian	lângă			
+59	Romanian	apropiat		H	
+74	Vlach	APREEPE		H	
+127	Old Irish	ocus	ogus	Q	
+101	Middle Cornish	ogas	'ɔgas	Q	
+172	Middle Breton	tost	ˈtost	(F)	
+12	Breton	e-kichen			
+12	Breton	nes			
+12	Breton	tost	ˈtɔst	(F)	
+79	Welsh	YMYL			
+79	Welsh	agos		Q	
+38	Irish	gar		M	
+115	Scottish Gaelic	dlùth	dɫ̪uː		
+115	Scottish Gaelic	faisg		Q	
+5	[Legacy] Albanian T	afër		C	
+29	[Legacy] Greek K	EGGUS		S	
+28	[Legacy] Greek D	KONTA		K	
+30	[Legacy] Greek Md	KONTA, SIMA		K	
+64	[Legacy] Serbocroatian	BLIZU		G	
+113	[Legacy] Serbian	blizak	blîzak	G	
+89	[Legacy] Bulgarian P	BLIZUK		G	
+49	[Legacy] Macedonian	BLIZOK/NABLIZU		G	
+94	[Legacy] Russian P	BLIZKIJ		G	
+93	[Legacy] Polish P	BLISKI		G	
+90	[Legacy] Byelorussian P	BLIZKI		G	
+98	[Legacy] Ukrainian P	BLYZKYJ		G	
+19	[Legacy] Czech E	BLISKO		G	
+96	[Legacy] Slovak P	BLIZKY		G	
+91	[Legacy] Czech P	BLIZKY		G	
+67	[Legacy] Slovenian	BLIZII		G	
+45	[Legacy] Lithuanian O	ARTI		P	
+45	[Legacy] Lithuanian O	NETOLI			
+11	[Legacy] Brazilian	PERTO			
+142	[Legacy] German Munich	nah		B	
+84	[Legacy] French Creole C	PWE		I	
+14	[Legacy] Breton St	tost	tɔst	F	
+13	[Legacy] Breton Se	TOST		F	
+78	[Legacy] Welsh C	AGOS		Q	
+37	[Legacy] Irish A	GAR		M	
+37	[Legacy] Irish A	COMHGARACH		M	

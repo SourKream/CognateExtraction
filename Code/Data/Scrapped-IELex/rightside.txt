@@ -1,0 +1,147 @@
+114	Proto-Indo-European	*deḱs-		G	
+80	Hittite	kunnas			
+133	Luvian	isarwilis			
+81	Tocharian A	pāci			
+82	Tocharian B	saiwai			
+88	Albanian	DREJT		(F)	
+143	Standard Albanian	i, e djathtë		G	
+2	Albanian Sicily	E-DREJTA		(F)	
+4	Albanian Corinth	DJATHETIST		G	
+3	Albanian Gheg	DJATHT		G	
+6	Albanian Tosk	DJATHE		G	
+173	Mycenaean Greek	de-ki-si-wo	deksiu̯o-	G	
+110	Ancient Greek	δεξιός	deksiós	G	
+32	Greek	δεξιός	ðe̞ˌksiˈo̞s	G	
+31	Greek Lesbos	DEKSIOS		G	
+129	Classical Armenian	աջ	aǰ	H	
+8	Armenian Eastern	աջ	ɑʧʰ	H	
+7	Armenian Western	աջ	ɑʧʰ	H	
+128	Avestan	dašinō		G	
+136	Sogdian	xw’r’nt		I	
+75	Wakhi	WURZGE		R	
+9	Baluchi	RAST		D	
+137	Zazaki	rāšt		D	
+72	Tajik	BEGUNOX, BEAJB			
+54	Persian	RAST		D	
+77	Waziri	SHAI		B	
+1	Pashto	SAJ		B	
+138	Shughni	xēz		J	
+138	Shughni	rōst		D	
+139	Sarikoli	rust		R	
+52	Ossetic	rast	rast	R	
+52	Ossetic	RAXIZ		R	
+124	Ossetic Iron	raχiž	raχiž	R	
+125	Ossetic Digor	raχes	raχes	R	
+105	Vedic Sanskrit	dákṣiṇas		G	
+162	Pāḷī	dakkhiṇa		G	
+41	Khaskura	DAHINA		G	
+51	Nepali	DAINU		G	
+106	Assamese	xõ	xõ	C	
+102	Oriya	ḍahanɔ	ɖahanɔ	G	
+10	Bengali	DAN		A	
+111	Bihari	dəhina	dəhina	G	
+144	Magahi	दहीना तरफ	d̪əhinɑ t̪ərəpʰ	G	
+104	Marwari	dānyī		A	
+104	Marwari	jīvaṇū			
+35	Hindi	DAYA		A	
+119	Urdu	دایاں، ہاتھ	d̪ɑjɑ̃, hɑt̪ʰ	A	
+119	Urdu	سِیدھے	sid̪ʰe	P	
+103	Sindhi	ḍ̄ākhiṇō		G	
+103	Sindhi	sājō		P	
+43	Lahnda	SEJJA		P	
+53	Punjabi	SEJJA		P	
+33	Gujarati	JEMELU			
+50	Marathi	udzwī bādzū	udz'wi: ba'dzu:		
+40	Kashmiri	DACHYUNU		G	
+65	Sinhalese	DAKUNATA		G	
+34	Romani Greece	CACO		C	
+100	Old Church Slavonic	дєснъ	dɛsnʊ̆	G	
+95	Serbo-Croatian	desni	ˈdɛ̌sniː	G	
+15	Bulgarian	desen	dɘˈsɛn	G	
+92	Macedonian	десен	ˈdesɛn	G	
+60	Russian	правый	'pravɨj	L	
+55	Polish	prawy	ˈpravɘ̟	L	
+16	Belarusian	правы	ˈpravɨ	L	
+73	Ukrainian	правий	ˈpravɪj	L	
+66	Slovak	pravý	ˈpraviː	L	
+18	Czech	pravý	ˈpraviː	L	
+48	Sorbian Upper	prawy	ˈpʀawɘ̟	L	
+47	Sorbian Lower	pšawy	ˈpʂawɘ̟	L	
+97	Slovenian	desni	děːsni	G	
+108	Old Prussian	tickray			
+44	Latvian	labaĩs		E	
+46	Lithuanian	DESINYS		G	
+109	Old Norse	hœgri	ˈhøːɡri	M	
+36	Icelandic	hægri	ˈhaiɣrɪ	M	
+23	Faroese	høgri	ˈhøːɡ̊ɹɪ	M	
+58	Norwegian Riksmal	høyre	ˈhœʏɾə	M	
+159	Stavangersk	hyɡre, höïre	ˈhʏ̀ɡʁə,ˈhœɪ̀ʁə	M	
+157	Old Swedish	högre	ˈhøːɡre	M	
+69	Swedish	höger	ˈhø:gər	M	
+71	Swedish Vilhelmina	HOGAR		M	
+70	Swedish Uppland	HOGER		M	
+145	Elfdalian	yöger	ýːœgɛr	M	
+20	Danish	højre	ˈhʌjʁʌ	M	
+158	Danish Fjolde	højər	ˈhøjəɹ	M	
+161	Gutnish Lau	hygar	ˈhyːɡar	M	
+99	Old English	swīþra			
+22	English	right (hand)	raɪt	D	
+21	Dutch	rechts, rechter	rɛχts, 'rɛχtər	D	
+24	Flemish	REGTSCH		D	
+83	Afrikaans	REG		D	
+87	Sranan	RETI		D	
+126	Old High German	zeso		G	
+27	German	recht	rɛçt	D	
+86	Pennsylvania Dutch	REHTSS HONNDT		D	
+120	Luxembourgish	riets		D	
+121	German Switzerland	rächts		D	
+107	Gothic	taíhswa		G	
+107	Gothic	garaíhts		(D)	
+130	Oscan	destrst		G	
+132	Umbrian	destram		G	
+112	Latin	dexter	ˈdekster	G	
+17	Catalan	dret	dɾɛt	D	
+56	Portuguese	direita	diˈɾejtɐ	D	
+68	Spanish	derecha	de'ɾeʧa	D	
+61	Sardinian Cagliari	DERETTU		D	
+62	Sardinian Logudoro	DESTRU		G	
+63	Sardinian Nuoro	DERETTU		D	
+85	French Creole Dominica	DWET		D	
+76	Walloon	DREUT		D	
+25	French	droit	dʀwɑ	D	
+57	Provencal	DRE, ECHO		D	
+42	Ladin	DRET		D	
+146	Dolomite Ladino	a man derta		D	
+146	Dolomite Ladino	a man bona			
+123	Romansh	dretg		D	
+122	Friulian	drete		D	
+122	Friulian	diestre		G	
+39	Italian	destro	'dɛstro	G	
+59	Romanian	(PE PARTA) DREAPTA (ON THE RIGHT SIDE)		D	
+59	Romanian	drept	drept	D	
+74	Vlach	ANDEARTU		D	
+140	Gaulish	dexsiuo-		G	
+127	Old Irish	des(s)	dʹes	G	
+101	Middle Cornish	dyghow	'dɪhɔʊ	G	
+172	Middle Breton	deho, dechou, dehaou, dehou	ˈdeːhow, ˈdehaw	G	
+12	Breton	dehoù	ˈdeːhoʷ, ˈdeː(h)u	G	
+79	Welsh	de		G	
+38	Irish	deas	dʲas	G	
+115	Scottish Gaelic	deas	ʤʲɛs	G	
+5	[Legacy] Albanian T	djathë		G	
+29	[Legacy] Greek K	DEKSEIA		G	
+28	[Legacy] Greek D	DEKSI		G	
+30	[Legacy] Greek Md	DEKSIOS, DEKSES		G	
+64	[Legacy] Serbocroatian	DESNICA		G	
+113	[Legacy] Serbian	desno	dêsno	G	
+49	[Legacy] Macedonian	DESEN		G	
+19	[Legacy] Czech E	PRAVO		L	
+67	[Legacy] Slovenian	DESNA RAKA		G	
+45	[Legacy] Lithuanian O	TEISA			
+11	[Legacy] Brazilian	DIREITO		D	
+142	[Legacy] German Munich	rechte/-r/-s		D	
+84	[Legacy] French Creole C	DWET		D	
+14	[Legacy] Breton St	dehoù	'deu	G	
+13	[Legacy] Breton Se	DEHEU		G	
+78	[Legacy] Welsh C	DE		G	
+37	[Legacy] Irish A	DEAS		G	

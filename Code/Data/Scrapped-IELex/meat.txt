@@ -1,0 +1,165 @@
+81	Tocharian A	śwāl			
+82	Tocharian B	misa		C	
+88	Albanian	mish		C	
+143	Standard Albanian	mish		C	
+2	Albanian Sicily	mish		C	
+4	Albanian Corinth	mish		C	
+3	Albanian Gheg	mish		C	
+6	Albanian Tosk	mish		C	
+110	Ancient Greek	κρέας	kréas	I	
+152	Tsakonian	κρηε		I	
+152	Tsakonian	σάρκα		P	
+32	Greek	σάρκα		(P)	
+32	Greek	κρέας	ˈkre̞ˌas	I	
+31	Greek Lesbos	KREAS		I	
+129	Classical Armenian	միս	mis	C	
+8	Armenian Eastern	mis	mis	C	
+7	Armenian Western	MIS		C	
+136	Sogdian	’pt		N	
+75	Wakhi	GOST		A	
+9	Baluchi	GOZHD		A	
+118	Kurdish	goşt		A	
+137	Zazaki	gošt		A	
+72	Tajik	gust	ɡɵʃt	A	
+54	Persian	gusht	ɡuʃt	A	
+77	Waziri	GHOSHA, GHESHA		A	
+1	Pashto	GVASA		A	
+138	Shughni	gūx̆t		A	
+139	Sarikoli	ыč		O	
+52	Ossetic	fyd	fɨd	N	
+124	Ossetic Iron	ziza	ziza		
+125	Ossetic Digor	fid	fid	N	
+141	Kata-viri	bətə		N	
+154	Vasi-vari	băzə			
+153	Askunu	anda			
+105	Vedic Sanskrit	mā́s		C	
+162	Pāḷī	maŋsa		C	
+41	Khaskura	SHIKAR			
+41	Khaskura	MASU		C	
+51	Nepali	MASU		C	
+106	Assamese	maŋxɒ	maŋxɒ	C	
+102	Oriya	mansɔ	mansɔ	C	
+10	Bengali	MANSO		C	
+111	Bihari	mã̄s	mã̄s	C	
+144	Magahi	मांस	mɑs	C	
+35	Hindi	MAS		C	
+119	Urdu	گوشْت	ɡoʃt	(A)	
+103	Sindhi	māsu		C	
+43	Lahnda	MAS		C	
+53	Punjabi	MAS		C	
+33	Gujarati	MAS		C	
+50	Marathi	mā̃ũs	mãũs	C	
+40	Kashmiri	MAZ		C	
+65	Sinhalese	MAS		C	
+34	Romani Greece	MAS		C	
+100	Old Church Slavonic	мѧсо	mɛ̃sɔ	C	
+95	Serbo-Croatian	meso	ˈmɛ̂ːsɔ	C	
+15	Bulgarian	месо	mɘˈsɔ	C	
+92	Macedonian	месо	ˈmesɔ	C	
+60	Russian	мясо	'mʲasɔ	C	
+55	Polish	mięso	ˈmjɛɰ̃sɔ	C	
+16	Belarusian	мяса	ˈmʲasa	C	
+73	Ukrainian	м’ясо	mjasɔ	C	
+66	Slovak	mäso	ˈmæsɔ	C	
+18	Czech	maso	ˈmasɔ	C	
+48	Sorbian Upper	mjaso	ˈmjasɔ	C	
+47	Sorbian Lower	měso	ˈmɪsɔ	C	
+97	Slovenian	meso	mɛˈsôː	C	
+108	Old Prussian	mensā		C	
+44	Latvian	gal ̜-a		M	
+46	Lithuanian	MESA		C	
+109	Old Norse	kjǫt	kjɔt	F	
+109	Old Norse	hold	hold	(H)	
+36	Icelandic	kjöt	kʰjœːt	F	
+36	Icelandic	hold	hɔld̥	(H)	
+23	Faroese	hold	hɔld̥	(H)	
+23	Faroese	kjøt	tʃʰøːt	F	
+58	Norwegian Riksmal	kjøtt	çœtː	F	
+159	Stavangersk	kjydd	çʏdː	F	
+159	Stavangersk	håll	hɔlː	(H)	
+157	Old Swedish	huld	huld	(H)	
+157	Old Swedish	kiöt	kjøːt	F	
+69	Swedish	mat	mɑ:t	(C)	
+69	Swedish	kött	ɕœtː	F	
+71	Swedish Vilhelmina	TZOT		F	
+70	Swedish Uppland	KOTT		F	
+145	Elfdalian	tjyöt	t͡ʃyœt	F	
+145	Elfdalian	uld		(H)	
+20	Danish	kød	ɡ̊ʰøð	F	
+20	Danish	huld	ˈhulˀ	(H)	
+158	Danish Fjolde	maar	mɑːɹ	C	
+158	Danish Fjolde	tjør	cøɹ	F	
+158	Danish Fjolde	flæsk	flæsɡ	(B)	
+160	Old Gutnish	harund		(Q)	
+161	Gutnish Lau	huld	huld	(H)	
+161	Gutnish Lau	kyt	kyːt	F	
+99	Old English	flǣsc		B	
+22	English	maet	mi:t	G	
+26	Frisian	fleis, flêsk, flesk	flais, flɛis, flɛ:sk, flɛsk	B	
+21	Dutch	vlees	vles	B	
+24	Flemish	VLEESCH		B	
+83	Afrikaans	VLEES, VLEIS		B	
+87	Sranan	METI		G	
+126	Old High German	fleisc		B	
+27	German	Fleisch	flaĭʃ	B	
+86	Pennsylvania Dutch	FLAYSCH		B	
+120	Luxembourgish	Fleesch		B	
+121	German Switzerland	fleisch		B	
+107	Gothic	mims		C	
+112	Latin	carō	ˈkaroː	D	
+17	Catalan	carn	kaɾn	D	
+56	Portuguese	carne	ˈkaɾnɨ	D	
+68	Spanish	carne	'kaɾne	D	
+61	Sardinian Cagliari	PECCA		K	
+62	Sardinian Logudoro	PETTA		K	
+63	Sardinian Nuoro	PETHTHA		K	
+85	French Creole Dominica	LASE			
+76	Walloon	TCHAR		D	
+25	French	viande	vjɑ̃d	L	
+57	Provencal	VIANDO		L	
+57	Provencal	CAR		D	
+42	Ladin	CHARN		D	
+146	Dolomite Ladino	cèrn		D	
+123	Romansh	carn		D	
+122	Friulian	cjar		D	
+39	Italian	carne	'karne	D	
+59	Romanian	carne	'karne	D	
+74	Vlach	KARNE		D	
+140	Gaulish	kiko-		E	
+127	Old Irish	féoil	ɸe:olʹ	J	
+127	Old Irish	cích, cícce	kʹi:x, kʹi:ke	(E)	
+149	Old Cornish	chic / kig		E	
+101	Middle Cornish	kig	ki:g	E	
+148	Old Breton	cic		E	
+172	Middle Breton	quic, quicq, quyc	ˈkiːk	E	
+12	Breton	kig	ˈkiːk	E	
+150	Old Welsh	kic		E	
+79	Welsh	cig		E	
+38	Irish	feoil	fʲoːlʲ, fʲɔːlʲ	J	
+115	Scottish Gaelic	fèoil		J	
+147	Manx	feill		J	
+5	[Legacy] Albanian T	mish	miʃ	C	
+29	[Legacy] Greek K	KREAS		I	
+28	[Legacy] Greek D	KREAS		I	
+30	[Legacy] Greek Md	KREAS		I	
+64	[Legacy] Serbocroatian	MESO		C	
+113	[Legacy] Serbian	meso	mêːso	C	
+89	[Legacy] Bulgarian P	MESO		C	
+49	[Legacy] Macedonian	MESO		C	
+94	[Legacy] Russian P	M ASO		C	
+93	[Legacy] Polish P	MIESO		C	
+90	[Legacy] Byelorussian P	M ASA		C	
+98	[Legacy] Ukrainian P	M ASO		C	
+19	[Legacy] Czech E	MASO		C	
+96	[Legacy] Slovak P	MASO		C	
+91	[Legacy] Czech P	MASO		C	
+67	[Legacy] Slovenian	MESO		C	
+45	[Legacy] Lithuanian O	MESA		C	
+11	[Legacy] Brazilian	carne	ˈkaʁni	D	
+142	[Legacy] German Munich	Fleisch		B	
+84	[Legacy] French Creole C	LASE			
+84	[Legacy] French Creole C	VYAN		L	
+14	[Legacy] Breton St	kig	ki:k	E	
+13	[Legacy] Breton Se	KIG		E	
+78	[Legacy] Welsh C	CIG		E	
+37	[Legacy] Irish A	FEOIL		J	

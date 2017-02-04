@@ -1,0 +1,170 @@
+114	Proto-Indo-European	*akʷā		E	
+114	Proto-Indo-European	*h₂ep-		A	
+80	Hittite	wātar		B	
+133	Luvian	wārsa		J	
+81	Tocharian A	wär		B	
+82	Tocharian B	war		B	
+88	Albanian	ujë		B	
+143	Standard Albanian	ujë		B	
+2	Albanian Sicily	ujë		B	
+4	Albanian Corinth	ujë		B	
+3	Albanian Gheg	ujë		B	
+6	Albanian Tosk	ujë		B	
+173	Mycenaean Greek	u-do	hudo̞ːr	B	
+110	Ancient Greek	ὕδωρ	hýdɔːr	B	
+152	Tsakonian	υω		B	
+32	Greek	νερό	ne̞ˈro̞	G	
+32	Greek	ύδωρ		(B)	
+31	Greek Lesbos	NERO		G	
+129	Classical Armenian	ջուր	ǰowr	C	
+8	Armenian Eastern	ǰur	ʤuɾ	C	
+7	Armenian Western	CZOOR		C	
+128	Avestan	āfš		A	
+131	Old Persian	āpiš		A	
+136	Sogdian	’’p’p		A	
+174	Khotanese	ūtca		A	
+75	Wakhi	YUPK		H	
+9	Baluchi	AF		A	
+118	Kurdish	av		A	
+137	Zazaki	āw		A	
+72	Tajik	ob	ɔːb	A	
+54	Persian	AB		A	
+77	Waziri	EBO		A	
+1	Pashto	OBE		A	
+138	Shughni	x̆ac		K	
+139	Sarikoli	x̆ac		K	
+52	Ossetic	don	don	B	
+124	Ossetic Iron	don	don	B	
+125	Ossetic Digor	don	don	B	
+141	Kata-viri	o		A	
+154	Vasi-vari	āw(ə)		A	
+153	Askunu	abō		A	
+105	Vedic Sanskrit	vā́r		(J)	
+105	Vedic Sanskrit	ud(á)n-		B	
+162	Pāḷī	āpa		A	
+162	Pāḷī	jala		I	
+162	Pāḷī	udaka		B	
+41	Khaskura	JEL		I	
+41	Khaskura	PANI		D	
+51	Nepali	PANI		D	
+106	Assamese	pānī		D	
+102	Oriya	paṇi	paɳi	D	
+10	Bengali	pani	'pɑːni:	A	
+10	Bengali	jol	dʒɔl, dzɔl, zɔl	I	
+111	Bihari	pain	pain	D	
+144	Magahi	पानी	pɑni	A	
+104	Marwari	paɳi	paɳi	D	
+104	Marwari	jaḷ		I	
+35	Hindi	pani	pa:ni:	D	
+119	Urdu	پانی	pɑni	D	
+103	Sindhi	pāṇī	pāɳī	D	
+43	Lahnda	PANI		D	
+53	Punjabi	PANI		D	
+33	Gujarati	pani	paɳi	D	
+50	Marathi	pānī	'oaɳi:	D	
+40	Kashmiri	PONU		D	
+65	Sinhalese	WATURA		B	
+34	Romani Greece	PAI		D	
+100	Old Church Slavonic	вода	vɔdɑ	B	
+95	Serbo-Croatian	voda	ˈvɔ̌da	B	
+15	Bulgarian	вода	vu'da	B	
+92	Macedonian	вода	ˈvoda	B	
+60	Russian	вода	vɔ'da	B	
+55	Polish	woda	ˈvɔda	B	
+16	Belarusian	вада	vaˈda	B	
+73	Ukrainian	вода	ʋɔˈda	B	
+66	Slovak	voda	ˈvɔda	B	
+18	Czech	voda	ˈvɔda	B	
+48	Sorbian Upper	woda	ˈwɔda	B	
+47	Sorbian Lower	woda	ˈwɘ̟da	B	
+97	Slovenian	voda	ˈvɔ̌ːda	B	
+108	Old Prussian	wundan		B	
+108	Old Prussian	unds		B	
+44	Latvian	ûdens		B	
+46	Lithuanian	vanduo	ʋɐnˈdʊɔ	B	
+109	Old Norse	vatn	vatn	B	
+36	Icelandic	vatn	vaʰtn̥	B	
+23	Faroese	vatn	vaʰtn̥	B	
+58	Norwegian Riksmal	vann	ʋanː	B	
+159	Stavangersk	vattn, vann	ˈʋatːn̩, ʋanː	B	
+157	Old Swedish	vatn	vatn	B	
+69	Swedish	vatten	ˈvatːən	B	
+71	Swedish Vilhelmina	VATN		B	
+70	Swedish Uppland	VATTEN		B	
+145	Elfdalian	wattn	wɑ́tːn̩	B	
+20	Danish	vand	vanˀ	B	
+158	Danish Fjolde	vand	vanʲ	B	
+160	Old Gutnish	watn		B	
+161	Gutnish Lau	vattn	vatːn	B	
+99	Old English	wæter		B	
+22	English	water	'wɔ:tə	B	
+26	Frisian	wetter	'vɛtər	B	
+21	Dutch	water	'watər	B	
+24	Flemish	WATER		B	
+83	Afrikaans	WATER		B	
+87	Sranan	WATRA		B	
+126	Old High German	wazzar		B	
+27	German	wasser	'vasɐ	B	
+86	Pennsylvania Dutch	WASSER		B	
+120	Luxembourgish	Waasser		B	
+121	German Switzerland	wasser		B	
+107	Gothic	watō		B	
+130	Oscan	aapam		A	
+132	Umbrian	utur, un-			
+112	Latin	aqua	ˈakʷa	E	
+17	Catalan	aigua	'ajɣwə, 'ajɣwa	E	
+56	Portuguese	água	ˈaɡwɐ	E	
+68	Spanish	agua	'aɣwa	E	
+61	Sardinian Cagliari	AKKUA		E	
+62	Sardinian Logudoro	ABBA		E	
+63	Sardinian Nuoro	ABBA		E	
+85	French Creole Dominica	DLO		E	
+76	Walloon	EWE		E	
+25	French	eau	o	E	
+57	Provencal	AIGO		E	
+42	Ladin	OVA		E	
+146	Dolomite Ladino	egå		E	
+123	Romansh	aua		E	
+122	Friulian	aghe		E	
+39	Italian	acqua	'akkwa	E	
+59	Romanian	apă	ˈapə	E	
+74	Vlach	APE		E	
+140	Gaulish	dubron		F	
+140	Gaulish	unna-			
+127	Old Irish	dobur	doβur	(F)	
+127	Old Irish	uisce	usʹkʹe	B	
+149	Old Cornish	douer		F	
+101	Middle Cornish	dowr	dɔʊr	F	
+148	Old Breton	dour		F	
+172	Middle Breton	dour	ˈduːr		
+12	Breton	dour		F	
+150	Old Welsh	dwyyr		F	
+79	Welsh	dŵr	duːr	F	
+38	Irish	uisce	ˈiʃkʲə	B	
+115	Scottish Gaelic	bùrn			
+115	Scottish Gaelic	uisge	ɯʃɡ̊ʲɪ	B	
+147	Manx	ushtey		B	
+5	[Legacy] Albanian T	ujë	uj(ə)	B	
+29	[Legacy] Greek K	HUDOR		B	
+28	[Legacy] Greek D	NERO		G	
+30	[Legacy] Greek Md	NERO		G	
+64	[Legacy] Serbocroatian	VODA		B	
+113	[Legacy] Serbian	voda	ʋǒda	B	
+89	[Legacy] Bulgarian P	VODA		B	
+49	[Legacy] Macedonian	VODA		B	
+94	[Legacy] Russian P	VODA		B	
+93	[Legacy] Polish P	WODA		B	
+90	[Legacy] Byelorussian P	VADA		B	
+98	[Legacy] Ukrainian P	VODA		B	
+19	[Legacy] Czech E	VODA		B	
+96	[Legacy] Slovak P	VODA		B	
+91	[Legacy] Czech P	VODA		B	
+67	[Legacy] Slovenian	VODA		B	
+45	[Legacy] Lithuanian O	VANDUO		B	
+11	[Legacy] Brazilian	AGUA		E	
+142	[Legacy] German Munich	Wasser		B	
+84	[Legacy] French Creole C	DLO, GLO		E	
+14	[Legacy] Breton St	dour	duːʁ	F	
+13	[Legacy] Breton Se	DEUR		F	
+78	[Legacy] Welsh C	DWR		F	
+37	[Legacy] Irish A	UISGE		B	

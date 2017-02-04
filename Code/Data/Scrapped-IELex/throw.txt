@@ -1,0 +1,196 @@
+114	Proto-Indo-European	*swep-			
+80	Hittite	pessiezzi		P	
+80	Hittite	ūssiezzi		P	
+81	Tocharian A	worta-ṃ			
+82	Tocharian B	karṣṣäṃ			
+82	Tocharian B	saläṣṣäṃ			
+88	Albanian	SHTI		C	
+143	Standard Albanian	hedh		Q	
+2	Albanian Sicily	STIE		C	
+4	Albanian Corinth	STIE (AOR. STIVA, PPLE. STIIRE )		C	
+3	Albanian Gheg	SHTI J		C	
+6	Albanian Tosk	ETH, AOR. ODHA		Q	
+110	Ancient Greek	ῥίπτω	hríptɔː	B	
+110	Ancient Greek	βάλλω	bállɔː		
+32	Greek	ρίχνω	ˈrixno̞	B	
+31	Greek Lesbos	HRICHNO		B	
+129	Classical Armenian	ənkenum			
+129	Classical Armenian	arjakem			
+129	Classical Armenian	arkanem			
+129	Classical Armenian	jgem			
+8	Armenian Eastern	arjakel			
+8	Armenian Eastern	netel	nɛˈtɛl	Aa	
+8	Armenian Eastern	gc'el			
+7	Armenian Western	նետել	nedel	Aa	
+128	Avestan	aŋhiieiti		P	
+128	Avestan	spaiieiti		Ac	
+131	Old Persian	ahiyatiy		P	
+136	Sogdian	pš’y-		Ab	
+75	Wakhi	KUT-		Ah	
+9	Baluchi	PHIRENAGH, PHIRENTHA		Ai	
+137	Zazaki	eštiš, vistiš		Ae	
+72	Tajik	PARTOFTAN		Ad	
+72	Tajik	andoxtan	ændɔːxtæn	N	
+54	Persian	ANDAKHTAN		N	
+77	Waziri	ACHAWEL, WOCHAWEL, TREYEL		A	
+1	Pashto	ACAVEL, GURZAVEL		A	
+138	Shughni	sikawak dedow		Aj	
+139	Sarikoli	pataw		Ad	
+52	Ossetic	aepparyn	æpparɨn	Ak	
+124	Ossetic Iron	feχš-/ɐppɐr-	feχš-/ɐppɐr-	Ak	
+125	Ossetic Digor	gɐldz-	gɐldz-		
+105	Vedic Sanskrit	ásyati		P	
+105	Vedic Sanskrit	kṣipáti		A	
+162	Pāḷī	khipati		A	
+41	Khaskura	PHALNU		D	
+51	Nepali	APHALNU, HALNU		D	
+106	Assamese	dɔlia	dɔlia		
+102	Oriya	phing-	phing-		
+102	Oriya	phopaḍiba	phopaɖiba		
+10	Bengali	PHELA		D	
+111	Bihari	phekəb	phekəb	D	
+111	Bihari	paṭkāyab			
+144	Magahi	फेंकना	pʰẽkənɑ	D	
+151	Bhojpuri	phẽkal		D	
+104	Marwari	nakh	nakh	K	
+35	Hindi	PHEKNA		D	
+119	Urdu	پھینکنا	pʰẽknə	D	
+103	Sindhi	viǰhaṇu			
+43	Lahnda	SUTTEN		L	
+53	Punjabi	SUTTENA		L	
+33	Gujarati	NAKHWU		K	
+50	Marathi	phekne	'pʰekɳe	D	
+40	Kashmiri	TSHUNUN			
+65	Sinhalese	VISI/KARAWA			
+34	Romani Greece	CHAV		A	
+100	Old Church Slavonic	врѣщи	vræʃti	B	
+100	Old Church Slavonic	мєтати	mɛtɑti	G	
+95	Serbo-Croatian	baciti	ˈbǎːtsiti	R	
+15	Bulgarian	хвърлям	ˈxvɤrlʲəm	M	
+92	Macedonian	фрли	ˈfərli	M	
+60	Russian	бросать	brɔ'satʲ	Am	
+55	Polish	rzucać	ˈʐutsatɕ	Al	
+16	Belarusian	кідаць	ˈkʲidatsʲ	Q	
+73	Ukrainian	кидати	ˈkɪdatɪ	Q	
+66	Slovak	hodiť	ˈhɔɟic	H	
+18	Czech	házet	ˈɦaːzɛt	H	
+48	Sorbian Upper	mjetać	ˈmĕɛtatʃ	G	
+48	Sorbian Upper	ćisnyć	ˈtʃisnɘ̟tʃ	An	
+47	Sorbian Lower	chyśiś	ˈxɘ̟ɕiɕ	Ao	
+97	Slovenian	metati	mɛˈtǎːti	G	
+108	Old Prussian	metis		G	
+44	Latvian	sviêž		(T)	
+44	Latvian	męt		G	
+46	Lithuanian	MESTI		G	
+109	Old Norse	slyngja, slyngva	ˈslynɣja, ˈslynɣva	U	
+109	Old Norse	verpa	ˈverpa	B	
+109	Old Norse	kasta	ˈkasta	I	
+36	Icelandic	varpa	ˈvarpʰa	B	
+36	Icelandic	kasta	ˈkʰasta	I	
+23	Faroese	sleingja	ˈslɔɲd̥ʒa	U	
+23	Faroese	kasta	ˈkʰasta	I	
+58	Norwegian Riksmal	slenge	ˈslɛ̀ŋːə	U	
+58	Norwegian Riksmal	kaste	ˈkàstə	I	
+159	Stavangersk	kasta	ˈkàsta	I	
+157	Old Swedish	kasta	ˈkasta	I	
+157	Old Swedish	slängia	ˈslæŋːja	U	
+157	Old Swedish	värpa	ˈværpa	B	
+69	Swedish	kasta	ˈkàsta	I	
+69	Swedish	slänga	ˈslɛ̀ŋa	U	
+71	Swedish Vilhelmina	KAST		I	
+71	Swedish Vilhelmina	SMOR		O	
+70	Swedish Uppland	KASTA		I	
+70	Swedish Uppland	SLUNGA		U	
+145	Elfdalian	winda	ˈwɪ̀ndɑ	Af	
+145	Elfdalian	kasta	ˈkɑ̀stɑ	I	
+20	Danish	slynge	ˈsløŋə	U	
+20	Danish	kaste	g̥ʰasd̥ʰə	I	
+158	Danish Fjolde	smit	smid	(O)	
+160	Old Gutnish	casta		I	
+161	Gutnish Lau	slänggä	ˈslɛŋɡɛ	U	
+161	Gutnish Lau	kastä	ˈkastɛ	I	
+99	Old English	wierpþ		B	
+22	English	to throw	θrəʊ	S	
+26	Frisian	werpe	'vɛrpə	B	
+26	Frisian	droiae	'dro.əi̯ə	S	
+21	Dutch	ɡooien	ˈɣojə	Ag	
+21	Dutch	smijten	'smɛitə(n)	(O)	
+21	Dutch	werpen	'wɛrpə(n)	B	
+24	Flemish	WERPEN		B	
+83	Afrikaans	GOOI, SMYT		O	
+87	Sranan	FRINGI			
+126	Old High German	wirfit		B	
+27	German	werfen	'vɛrfn̩	B	
+86	Pennsylvania Dutch	SCHMEISS		O	
+120	Luxembourgish	schméissen		O	
+121	German Switzerland	wärfe		O	
+107	Gothic	waírpiþ		B	
+112	Latin	iacere	ˈjakere	J	
+17	Catalan	DISPARAR			
+17	Catalan	LLANSAR		V	
+17	Catalan	ETJEGAR			
+17	Catalan	DECANTARSE			
+17	Catalan	tirar	ti'ɾa	W	
+56	Portuguese	atirar	ɐtiˈɾaɾ	W	
+56	Portuguese	BOTAR		Y	
+56	Portuguese	lançar	lɐ̃ˈsaɾ	V	
+56	Portuguese	DIETAR			
+68	Spanish	tirar	ti'ɾaɾ	W	
+68	Spanish	ECHAR		J	
+61	Sardinian Cagliari	GETTAI		J	
+62	Sardinian Logudoro	BETTARE		Y	
+63	Sardinian Nuoro	GETTARE		J	
+85	French Creole Dominica	VOYE			
+76	Walloon	DJETER, HINER		J	
+25	French	jeter	ʒəte	J	
+57	Provencal	TRAIRE, BANDI		W	
+57	Provencal	JITA		J	
+42	Ladin	BUTTER, PATTER		Y	
+146	Dolomite Ladino	butà		Y	
+123	Romansh	bittar		Y	
+122	Friulian	lançâ		V	
+122	Friulian	butâ		Y	
+39	Italian	gettare	dʒet'tare	J	
+59	Romanian	a arunca		X	
+59	Romanian	LANSA		V	
+59	Romanian	A AZVIRLI			
+74	Vlach	ERUK		X	
+127	Old Irish	sreïd	sʹrʹeʔiðʹ		
+127	Old Irish	fo·ceird	foˈkʹerʹdʹ		
+127	Old Irish	do·léici	doˈlʹe:kʹi	(E)	
+101	Middle Cornish	doulla		(Z)	
+101	Middle Cornish	tewlel	'tɛʊlɛl	F	
+101	Middle Cornish	redeuly		(Z)	
+172	Middle Breton	teurell, teureul, teuleur	ˈtøːrel, ˈtøːlør, ˈtøːlør		
+12	Breton	taoliñ		F	
+79	Welsh	taflu		F	
+38	Irish	caith			
+38	Irish	teilg		(E)	
+115	Scottish Gaelic	tilg	ˈtʃi.lɪk	E	
+5	[Legacy] Albanian T	ME HEDHUR		Q	
+29	[Legacy] Greek K	RIPTO		B	
+28	[Legacy] Greek D	RICHNO		B	
+30	[Legacy] Greek Md	RICHNO		B	
+64	[Legacy] Serbocroatian	BACITI		R	
+113	[Legacy] Serbian	bacati	bǎtsati	R	
+113	[Legacy] Serbian	zbaciti		R	
+89	[Legacy] Bulgarian P	M ATAM		G	
+49	[Legacy] Macedonian	FRLA		M	
+94	[Legacy] Russian P	METAT		G	
+93	[Legacy] Polish P	MIOTAC		G	
+90	[Legacy] Byelorussian P	KIDAC		Q	
+98	[Legacy] Ukrainian P	METATY		G	
+19	[Legacy] Czech E	HODYIT		H	
+96	[Legacy] Slovak P	METAT		G	
+91	[Legacy] Czech P	METATI		G	
+67	[Legacy] Slovenian	VRZI		B	
+45	[Legacy] Lithuanian O	MESTI		G	
+11	[Legacy] Brazilian	ATIRAR		W	
+11	[Legacy] Brazilian	BOTAR		Y	
+142	[Legacy] German Munich	werfen		B	
+84	[Legacy] French Creole C	ZETE (AWAY)		J	
+84	[Legacy] French Creole C	VOYE (AT)			
+14	[Legacy] Breton St	teuler	'tø:lɛr	F	
+13	[Legacy] Breton Se	TAULEIN		F	
+78	[Legacy] Welsh C	TAFLU		F	
+37	[Legacy] Irish A	CAITHEAMH			

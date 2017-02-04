@@ -1,0 +1,164 @@
+114	Proto-Indo-European	*steh₂-		B	
+80	Hittite	arta			
+133	Luvian	tāi		B	
+134	Lycian	sttati		B	
+81	Tocharian A	kälytär		I	
+82	Tocharian B	kaltär		I	
+88	Albanian	rri		C	
+143	Standard Albanian	rri në këmbë		C	
+2	Albanian Sicily	rri		C	
+4	Albanian Corinth	rri		C	
+3	Albanian Gheg	rri		C	
+6	Albanian Tosk	rri		C	
+110	Ancient Greek	ἵστημι	hístɛːmi	B	
+152	Tsakonian	στεκου		B	
+32	Greek	στέκομαι	ˈste̞ko̞ˌme̞	B	
+31	Greek Lesbos	STEKOMAI		B	
+129	Classical Armenian	կամ	kam		
+8	Armenian Eastern	kangnel	kɑngˈnɛl	J	
+8	Armenian Eastern	KAM			
+7	Armenian Western	GAYNEL		J	
+128	Avestan	hištaiti		B	
+131	Old Persian	stā-		B	
+136	Sogdian	’wst-		B	
+9	Baluchi	OSHTAGH, OSHTATHA		B	
+118	Kurdish	westîn		B	
+118	Kurdish	rabûn		K	
+72	Tajik	ISTODAN		B	
+54	Persian	istadan	iːstʰɒːˈdæn	B	
+77	Waziri	DAREDEL		A	
+1	Pashto	DAREDEL		A	
+138	Shughni	wirāfč		L	
+139	Sarikoli	warofs : warыvd		L	
+52	Ossetic	laeuuyn	læwwɨn	F	
+124	Ossetic Iron	lɐw-	lɐw-	F	
+125	Ossetic Digor	lɐw-	lɐw-	F	
+154	Vasi-vari	istāda ültyu		O	
+153	Askunu	utin-		O	
+105	Vedic Sanskrit	tíṣṭhati		B	
+162	Pāḷī	tiṭṭhati		(B)	
+41	Khaskura	UBHINU, THARO HUNNU, ARINU		B	
+51	Nepali	UBHINU		B	
+106	Assamese	thiyā howā		Q	
+106	Assamese	ūbāni		R	
+106	Assamese	uth	uth	P	
+102	Oriya	ṭhia	ʈhia	B	
+102	Oriya	ubha	ubha	S	
+10	Bengali	KHARA+HOOA		D	
+111	Bihari	ʈharh haeəb	ʈharh haeəb	T	
+144	Magahi	खडा होना	kʰəɽɑ  honɑ	D	
+104	Marwari	ūbō-hō		S	
+35	Hindi	KHERA+HONA		D	
+119	Urdu	کھڑے ہونا	kʰəɽe honə	D	
+103	Sindhi	qā-imu			
+103	Sindhi	ubahaṇu		S	
+43	Lahnda	KHEROWEN		D	
+53	Punjabi	KHELONA		G	
+33	Gujarati	UBHA, ENEWU (UBHEWU)		B	
+50	Marathi	ubha rāhne	'ubʰə ɾaɦ'ne	B	
+40	Kashmiri	THODU WOTHUN		N	
+65	Sinhalese	HITAGANAWA			
+34	Romani Greece	therdó		N	
+100	Old Church Slavonic	стояти	stɔjati	B	
+95	Serbo-Croatian	stajati	ˈstǎjati	B	
+15	Bulgarian	стоя	stuˈjɤ	B	
+92	Macedonian	стои	ˈsto.i	B	
+60	Russian	стоять	stɔ'jatʲ	B	
+55	Polish	stać	statɕ	B	
+16	Belarusian	стаяць	staˈjatsʲ	B	
+73	Ukrainian	стояти	stɔˈjatɪ	B	
+66	Slovak	stáť	staːc	B	
+18	Czech	stát	staːt	B	
+48	Sorbian Upper	stać	statʃ	B	
+47	Sorbian Lower	stojaś	ˈstɔjaɕ	B	
+97	Slovenian	stati	ˈstǎːti	B	
+108	Old Prussian	stallā		B	
+44	Latvian	stãv		B	
+46	Lithuanian	STOVETI		B	
+109	Old Norse	standa	ˈstanda	B	
+36	Icelandic	standa	ˈstand̥a	B	
+23	Faroese	standa	ˈstand̥a	B	
+58	Norwegian Riksmal	stå	stoː	B	
+159	Stavangersk	stå	stoː	B	
+157	Old Swedish	standa	ˈstanda	B	
+69	Swedish	stå	sto:	B	
+71	Swedish Vilhelmina	STA		B	
+70	Swedish Uppland	STA		B	
+145	Elfdalian	standa	ˈstɑ̀ndɑ	B	
+20	Danish	stå	sd̥ʰɔˀ	B	
+158	Danish Fjolde	ståå	sdɔː	B	
+160	Old Gutnish	standa		B	
+161	Gutnish Lau	sta	stɑː	B	
+99	Old English	stent		B	
+22	English	to stand	stænd	B	
+26	Frisian	stean	stɪ.ən	B	
+21	Dutch	staan	stan	B	
+24	Flemish	STAEN		B	
+83	Afrikaans	STAAN		B	
+87	Sranan	TANAPOE		B	
+126	Old High German	stentit		B	
+126	Old High German	stēt		B	
+27	German	stehen	'ʃte:ən	B	
+86	Pennsylvania Dutch	SCHTAY		B	
+120	Luxembourgish	stoen		B	
+121	German Switzerland	schtaa		B	
+107	Gothic	standiþ		B	
+130	Oscan	staít		B	
+132	Umbrian	stahitu		B	
+112	Latin	stāre	staːre	B	
+17	Catalan	aixecar	əʃə'ka		
+56	Portuguese	estar em pé	ɨʃˈtaɾ ɐ̃j pɛ	H	
+56	Portuguese	pôr-se de pé	poɾse dɨ pɛ		
+68	Spanish	estar de pie	es'taɾ de pje	H	
+61	Sardinian Cagliari	ATTURAI		H	
+62	Sardinian Logudoro	ISTARE		B	
+63	Sardinian Nuoro	ISTARE		B	
+85	French Creole Dominica	DUBUT		E	
+76	Walloon	SO PI		H	
+25	French	être/rester debout	ɛtʀ, ʀɛste dəbu	E	
+57	Provencal	ARRESTA/ESTRE DEBOUT		E	
+42	Ladin	STER		B	
+146	Dolomite Ladino	štèr		B	
+123	Romansh	star		B	
+123	Romansh	pusar		M	
+122	Friulian	poiâ		M	
+122	Friulian	stâ		B	
+39	Italian	stare in piedi	'stare im 'pjɛdi	B	
+59	Romanian	a sta în picioare		B	
+59	Romanian	a se scula în picioare			
+74	Vlach	STAU		B	
+127	Old Irish	do·airissedar	doˈarʹəsʹəðər	B	
+101	Middle Cornish	sevel		B	
+148	Old Breton	sab		B	
+172	Middle Breton	bezaff / lesell / seuell en e sav	ˈbeːðaṽ / ˈleːselː / ˈseːvelː en e saːv		
+12	Breton	sav (nn.)		B	
+150	Old Welsh	seuyll		B	
+79	Welsh	sefyll		B	
+38	Irish	seas	ʃasˠ	B	
+115	Scottish Gaelic	seas		B	
+147	Manx	shassoo		B	
+5	[Legacy] Albanian T	ME PENDRUAR			
+5	[Legacy] Albanian T	rri			
+29	[Legacy] Greek K	HISTAMAI		B	
+28	[Legacy] Greek D	STEKOMAI		B	
+30	[Legacy] Greek Md	STEKOMAI		B	
+64	[Legacy] Serbocroatian	STAJATI		B	
+113	[Legacy] Serbian	stati		B	
+89	[Legacy] Bulgarian P	STOJA		B	
+49	[Legacy] Macedonian	STANE, STOI		B	
+94	[Legacy] Russian P	STOJAT		B	
+93	[Legacy] Polish P	STAC		B	
+90	[Legacy] Byelorussian P	STAJAC		B	
+98	[Legacy] Ukrainian P	STOJATY		B	
+19	[Legacy] Czech E	STAT		B	
+96	[Legacy] Slovak P	STAT		B	
+91	[Legacy] Czech P	STATI		B	
+67	[Legacy] Slovenian	STAJ		B	
+45	[Legacy] Lithuanian O	STOVETI		B	
+142	[Legacy] German Munich	stehen		B	
+84	[Legacy] French Creole C	DUBUT, DIBUT		E	
+14	[Legacy] Breton St	BEZAN EN E SAV		B	
+14	[Legacy] Breton St	sevel		B	
+13	[Legacy] Breton Se	BOUT EN E SAU		B	
+78	[Legacy] Welsh C	SEFYLL		B	
+37	[Legacy] Irish A	SEASAMH		B	

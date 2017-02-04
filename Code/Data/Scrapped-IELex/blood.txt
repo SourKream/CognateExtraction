@@ -1,0 +1,160 @@
+114	Proto-Indo-European	*kreu̯h₂-		I	
+114	Proto-Indo-European	*h₁ésh₂r̥-		G	
+80	Hittite	ēshar		G	
+133	Luvian	āsharsa		G	
+135	Palaic	eshur		G	
+81	Tocharian A	ysār		G	
+82	Tocharian B	yasar		G	
+88	Albanian	GJAKU		C	
+143	Standard Albanian	gjak		C	
+2	Albanian Sicily	GAK		C	
+4	Albanian Corinth	GAK		C	
+3	Albanian Gheg	GJAKU		C	
+6	Albanian Tosk	GAK		C	
+110	Ancient Greek	αἷμα	háɪ̀ma	J	
+152	Tsakonian	αíμα		J	
+32	Greek	αίμα	ˈe̞ma	J	
+31	Greek Lesbos	HAIMA		J	
+129	Classical Armenian	արիւն	ɑɾiu̯n	G	
+8	Armenian Eastern	արյուն	ɑˈɾɪ̯un	(D), G	
+7	Armenian Western	արիւն	ɑryn	(D), G	
+128	Avestan	vohuni		E	
+136	Sogdian	(y)xwrn		E	
+174	Khotanese	hūnä		E	
+75	Wakhi	WUSEN		E	
+75	Wakhi	XUN		E	
+9	Baluchi	HON		E	
+118	Kurdish	xwîn		E	
+137	Zazaki	gūnī		E	
+72	Tajik	xun	xun	E	
+54	Persian	khun	xuːn	E	
+77	Waziri	WINA		E	
+1	Pashto	VINA		E	
+138	Shughni	xun		(E)	
+138	Shughni	wixin		E	
+139	Sarikoli	xыn		(E)	
+139	Sarikoli	waxin		E	
+52	Ossetic	tug	tug	L	
+124	Ossetic Iron	tug	tug	L	
+125	Ossetic Digor	tog	tog	L	
+141	Kata-viri	lui		(K)	
+154	Vasi-vari	üsũ		(D), G	
+153	Askunu	ləu, lou		K	
+105	Vedic Sanskrit	kravíṣ-, kravya-		(I)	
+105	Vedic Sanskrit	ásr̥k		(D), G	
+105	Vedic Sanskrit	rakta-		(F)	
+162	Pāḷī	lohita		K	
+41	Khaskura	RAGAT		F	
+51	Nepali	KHUN		(E)	
+106	Assamese	tez	tez	A, N	
+102	Oriya	rɔktɔ	rɔktɔ	F	
+10	Bengali	ROKTO		F	
+111	Bihari	sonit	sonit	O	
+144	Magahi	खून	kʰun	(E)	
+104	Marwari	loi	loi	K	
+104	Marwari	khun	khun	(E)	
+35	Hindi	REKT		F	
+119	Urdu	خُون	χun	(E)	
+43	Lahnda	XUN		(E)	
+53	Punjabi	LEU		K	
+33	Gujarati	LOHI		K	
+50	Marathi	rakta	'ɾəktə	F	
+40	Kashmiri	RATH		F	
+65	Sinhalese	LE		K	
+34	Romani Greece	RAT		F	
+100	Old Church Slavonic	кръвь	krʊ̆vɪ̆	I	
+95	Serbo-Croatian	krv	kr̂ːv	I	
+15	Bulgarian	кръв	krɤv	I	
+92	Macedonian	крв	kərv	I	
+60	Russian	кровь	krɔvʲ	I	
+55	Polish	krew	krɛf	I	
+16	Belarusian	кроў	krɔw	I	
+73	Ukrainian	кров	krɔʋ	I	
+66	Slovak	krv	kr̩w	I	
+18	Czech	krev	krɛf	I	
+48	Sorbian Upper	krej	kʀe	I	
+47	Sorbian Lower	kšej	kʂej	I	
+97	Slovenian	kri	krǐː	I	
+108	Old Prussian	krawia		I	
+44	Latvian	asins		(D), G	
+46	Lithuanian	KRAUJAS		I	
+109	Old Norse	blóð	bloːð	B	
+36	Icelandic	blóð	b̥louːθ	B	
+23	Faroese	blóð	b̥lɔuː	B	
+58	Norwegian Riksmal	blod	bluː	B	
+159	Stavangersk	blo	bluː	B	
+157	Old Swedish	blodh	bloːð	B	
+69	Swedish	blod	blu:d	B	
+71	Swedish Vilhelmina	BLO		B	
+70	Swedish Uppland	BLOD		B	
+145	Elfdalian	bluoð	blʉəð	B	
+20	Danish	blod	b̥loˀð	B	
+158	Danish Fjolde	bluo	bluo	B	
+160	Old Gutnish	bloþ		B	
+161	Gutnish Lau	blåud	bloud	B	
+99	Old English	blōd		B	
+22	English	blood	blʌd	B	
+26	Frisian	bloed	blu.ət	B	
+21	Dutch	bloed	blut	B	
+24	Flemish	BLOED		B	
+83	Afrikaans	BLOED		B	
+87	Sranan	BROEDOE		B	
+126	Old High German	bluot		B	
+27	German	Blut	blu:t	B	
+86	Pennsylvania Dutch	BLUUT		B	
+120	Luxembourgish	Blutt		B	
+121	German Switzerland	bluet		B	
+107	Gothic	blōþ		B	
+112	Latin	cruor	'kruor	(I)	
+112	Latin	sanguīs	ˈsaŋgwiːs	G	
+17	Catalan	sang	saŋ	G	
+56	Portuguese	sangue	ˈsɐ̃ɣɨ	G	
+68	Spanish	sangre	'saŋɡɾe	G	
+61	Sardinian Cagliari	SANGUINI		G	
+62	Sardinian Logudoro	SAMBENE		G	
+63	Sardinian Nuoro	SAMBEBE		G	
+85	French Creole Dominica	SA		G	
+76	Walloon	SONG'		G	
+25	French	sang	sɑ̃	G	
+57	Provencal	SANG		G	
+42	Ladin	SAUNG		G	
+146	Dolomite Ladino	sanch		G	
+123	Romansh	saung		G	
+122	Friulian	sanc		G	
+39	Italian	sangue	'sangwe	G	
+59	Romanian	sânge	ˈsɨnʤe	G	
+74	Vlach	SYNZE		G	
+127	Old Irish	crú	kru:	(I)	
+127	Old Irish	fuil	fulʹ	M	
+149	Old Cornish	guit		H	
+101	Middle Cornish	goos	go:z	H	
+172	Middle Breton	goat	ˈgoat	H	
+12	Breton	gwad	ˈgwɑːt	H	
+79	Welsh	gwaed		H	
+38	Irish	fuil	fˠɪlʲ	M	
+115	Scottish Gaelic	fuil		M	
+147	Manx	fuill		M	
+5	[Legacy] Albanian T	gjak	ɟʑak	C	
+29	[Legacy] Greek K	HAIMA		J	
+28	[Legacy] Greek D	HAIMA		J	
+30	[Legacy] Greek Md	HAIMA		J	
+64	[Legacy] Serbocroatian	KRV		I	
+113	[Legacy] Serbian	krv	krːʋ	I	
+89	[Legacy] Bulgarian P	KRUV		I	
+49	[Legacy] Macedonian	krv	kr̩f	I	
+94	[Legacy] Russian P	KROV		I	
+93	[Legacy] Polish P	KREW		I	
+90	[Legacy] Byelorussian P	KROU		I	
+98	[Legacy] Ukrainian P	KROU		I	
+19	[Legacy] Czech E	KREF		I	
+96	[Legacy] Slovak P	KRV		I	
+91	[Legacy] Czech P	KREV		I	
+67	[Legacy] Slovenian	KRI		I	
+45	[Legacy] Lithuanian O	KRAUJAS		I	
+11	[Legacy] Brazilian	sangue	ˈsɐ̃gi	G	
+142	[Legacy] German Munich	Blut		B	
+84	[Legacy] French Creole C	SA		G	
+14	[Legacy] Breton St	gwad	gwa:t	H	
+13	[Legacy] Breton Se	GOED		H	
+78	[Legacy] Welsh C	GWAED		H	
+37	[Legacy] Irish A	FUIL		M	

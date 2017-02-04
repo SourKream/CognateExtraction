@@ -1,0 +1,150 @@
+114	Proto-Indo-European	*k(e)nhkos			
+80	Hittite	hahlawanz		N	
+133	Luvian	hahhaluwantis		N	
+82	Tocharian B	tute			
+88	Albanian	verdhë		(B)	
+143	Standard Albanian	i, e verdhë		(B)	
+4	Albanian Corinth	verdhë		(B)	
+3	Albanian Gheg	verdhë		(B)	
+6	Albanian Tosk	verdhë		(B)	
+110	Ancient Greek	ξανθός	ksantʰós	Q	
+152	Tsakonian	τζιτρινε		G	
+32	Greek	κίτρινος	ˈcitriˌno̞s	G	
+31	Greek Lesbos	KITRINOS		G	
+129	Classical Armenian	դեղին	dełin	O	
+8	Armenian Eastern	դեղին	dɛˈʁin	O	
+7	Armenian Western	դեղին	tʰɛˈʁin	O	
+128	Avestan	zairitō		A	
+128	Avestan	zairiš		A	
+136	Sogdian	zyrṭyḥ		A	
+75	Wakhi	ZERT		A	
+9	Baluchi	ZARD		A	
+118	Kurdish	zer		A	
+72	Tajik	ZARD		A	
+54	Persian	ZARD		A	
+77	Waziri	ZYER		A	
+1	Pashto	ZER		A	
+138	Shughni	zīrd		A	
+139	Sarikoli	zird		A	
+52	Ossetic	bur	bur	M	
+124	Ossetic Iron	bur	bur	M	
+125	Ossetic Digor	borɐ	borɐ	M	
+154	Vasi-vari	indrá		P	
+153	Askunu	aidärä, aidrestə		P	
+105	Vedic Sanskrit	háris		A	
+162	Pāḷī	pīta		H	
+41	Khaskura	PAHILO		H	
+51	Nepali	PAHELO		H	
+106	Assamese	hɔlɔdhia	hɔlɔdhia	L	
+102	Oriya	hɔḷɔdia	hɔɭɔdia	L	
+10	Bengali	HOLDE		L	
+111	Bihari	piyər	piyər	H	
+144	Magahi	पिअर	piər	H	
+35	Hindi	pila	pi:la	H	
+119	Urdu	پِیلا	pilɑ	H	
+43	Lahnda	PILA		H	
+53	Punjabi	PILLA		H	
+33	Gujarati	PILU		H	
+50	Marathi	piwlā	'piwɭa	H	
+40	Kashmiri	LEDORU		K	
+65	Sinhalese	KAHA		J	
+34	Romani Greece	SARI		(A)	
+100	Old Church Slavonic	жльтъ	ʒl̩ʲtʊ̆	(A)	
+95	Serbo-Croatian	žut	ʒûːt	A	
+15	Bulgarian	жълт	ʒɤɫt	A	
+92	Macedonian	жолт	ʒolt	A	
+60	Russian	жёлтый	'ʐɔɫtɨj	A	
+55	Polish	żółty	ˈʐuwtɘ̟	A	
+16	Belarusian	жоўты	ˈʐɔwtɨ	A	
+73	Ukrainian	жовтий	ˈʐɔʋtɪj	A	
+66	Slovak	žltý	ˈʒl̩tiː	A	
+18	Czech	žlutý	ˈʒlutiː	A	
+48	Sorbian Upper	žołty	ˈʒotɘ̟	A	
+47	Sorbian Lower	žołty	ˈʐowtɘ̟	A	
+97	Slovenian	rumen	ruˈmɛn	R	
+108	Old Prussian	gelatynan		A	
+44	Latvian	dzęl ̂-tęns		A	
+46	Lithuanian	GELTONAS		A	
+109	Old Norse	gulr	ɡulr	A	
+36	Icelandic	gulur	ˈɡ̊ʏːlʏr	A	
+23	Faroese	gulur	ˈɡ̊uːlʊɹ	A	
+58	Norwegian Riksmal	gul	ɡʉːɽ, ɡʉːl	A	
+159	Stavangersk	ɡule	ˈɡʉːlə	A	
+157	Old Swedish	gul	ɡuːl	A	
+69	Swedish	gul	ɡʉːl	A	
+71	Swedish Vilhelmina	GUL		A	
+70	Swedish Uppland	GUL		A	
+145	Elfdalian	guol	gʉəl	A	
+20	Danish	gul	guˀl	A	
+158	Danish Fjolde	guul	ɡuːl	A	
+161	Gutnish Lau	gäular	ˈɡɛular	A	
+99	Old English	geolu		A	
+22	English	yellow	'jɛləʊ	A	
+26	Frisian	geel	ge:l	A	
+21	Dutch	geel	ɣel	A	
+24	Flemish	GEEL		A	
+83	Afrikaans	GEEL		A	
+87	Sranan	GEELI		A	
+126	Old High German	gelo		A	
+27	German	gelb	gɛlp	A	
+86	Pennsylvania Dutch	GAYL		A	
+120	Luxembourgish	giel		A	
+121	German Switzerland	gäub		A	
+112	Latin	flāuus	ˈflaːwus		
+17	Catalan	groc	gɾɔk	E	
+56	Portuguese	amarelo	ɐmɐˈɾɛlu	C	
+68	Spanish	amarillo	ama'ɾiʎo	C	
+61	Sardinian Cagliari	GROGU		E	
+62	Sardinian Logudoro	GROGU		E	
+63	Sardinian Nuoro	GROGU		E	
+85	French Creole Dominica	ZON		F	
+76	Walloon	DJENE		F	
+25	French	jaune	ʒon	F	
+57	Provencal	JAUNE		F	
+42	Ladin	MELLEN		D	
+42	Ladin	GIALV		F	
+146	Dolomite Ladino	śal		F	
+123	Romansh	gelg		A	
+123	Romansh	mellen		D	
+123	Romansh	zuffernau			
+122	Friulian	zâl		F	
+39	Italian	giallo	'dʒallo	F	
+59	Romanian	galben	ˈɡalben	F	
+74	Vlach	GALBINE		F	
+140	Gaulish	melino-		D	
+127	Old Irish	buide	budʹe	I	
+127	Old Irish	blá	bla:		
+149	Old Cornish	milin		D	
+101	Middle Cornish	melyn	'mɛlɪn	D	
+148	Old Breton	milin		D	
+172	Middle Breton	melen	ˈmeːlen	D	
+12	Breton	melen	ˈmeːlǝn	D	
+150	Old Welsh	melyn		D	
+79	Welsh	melyn		D	
+38	Irish	buí		I	
+115	Scottish Gaelic	buidhe		I	
+147	Manx	buigh		I	
+5	[Legacy] Albanian T	verdhë		(B)	
+29	[Legacy] Greek K	KITRINON		G	
+28	[Legacy] Greek D	KITRINO		G	
+30	[Legacy] Greek Md	KITRINOS		G	
+64	[Legacy] Serbocroatian	ZUT		A	
+113	[Legacy] Serbian	žut	ʒûːt	A	
+89	[Legacy] Bulgarian P	ZULT		A	
+49	[Legacy] Macedonian	ZOLT		A	
+94	[Legacy] Russian P	ZOLTYJ		A	
+93	[Legacy] Polish P	ZOLTY		A	
+90	[Legacy] Byelorussian P	ZOUTY		A	
+98	[Legacy] Ukrainian P	ZOUTYJ		A	
+19	[Legacy] Czech E	ZLUTE		A	
+96	[Legacy] Slovak P	ZLTY		A	
+91	[Legacy] Czech P	ZLUTY		A	
+67	[Legacy] Slovenian	NUMENO			
+45	[Legacy] Lithuanian O	GELTONAS		A	
+11	[Legacy] Brazilian	AMARELO		C	
+142	[Legacy] German Munich	gelb		A	
+84	[Legacy] French Creole C	ZON		F	
+14	[Legacy] Breton St	melen	'me:lɛn	D	
+13	[Legacy] Breton Se	MELEN		D	
+78	[Legacy] Welsh C	MELYN		D	
+37	[Legacy] Irish A	BUIDHE		I	

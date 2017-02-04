@@ -1,0 +1,98 @@
+143	Standard Albanian	i rrumbullak, e rrumbulake		(L)	
+6	Albanian Tosk	rrumbullak		(L)	
+110	Ancient Greek	κύκλιος	kýklios	T	
+110	Ancient Greek	στρογγύλος	stroŋgýlos	(N)	
+152	Tsakonian	στροντζυλε		N	
+32	Greek	στρογγυλός	stro̞(ŋ)giˈlo̞s	N	
+129	Classical Armenian	բոլոր(ակ)	bolor(ak)	I	
+8	Armenian Eastern	կլոր	kəˈloɾ	V	
+7	Armenian Western	կլոր	gəˈloɾ	V	
+128	Avestan	skarənō		J	
+136	Sogdian	’skwrnkh		J	
+118	Kurdish	girover		K	
+137	Zazaki	tekele		K	
+138	Shughni	žarn, žurn		J	
+139	Sarikoli	pet		K	
+105	Vedic Sanskrit	maṇḍala		(F)	
+105	Vedic Sanskrit	vartulas		(G)	
+162	Pāḷī	guḷa		R	
+51	Nepali	golinu		H	
+106	Assamese	ghɛr	ghɛr		
+102	Oriya	monḍla	monɖla	F	
+111	Bihari	gol	gol	H	
+144	Magahi	गोल	ɡol		
+35	Hindi	gol	ɡɔl	H	
+119	Urdu	گول	ɡol	H	
+103	Sindhi	golu		H	
+103	Sindhi	aaspaasu			
+34	Romani Greece	angrustaló		(M)	
+100	Old Church Slavonic	(о)крѫглъ	(ɔ)krɔ̃ɡlʊ̆	B	
+95	Serbo-Croatian	okrugao	ɔˈkrǔːɡa.ɔ	B	
+15	Bulgarian	кръгъл	ˈkrɤɡəɫ	B	
+92	Macedonian	тркалезен	tərˈkalɛzɛn	U	
+60	Russian	круглый	'krugɫɨj	B	
+55	Polish	okrągły	ɔˈkrɔŋɡwɘ̟	B	
+16	Belarusian	круглы	ˈkruɡɫɨ	B	
+73	Ukrainian	круглий	ˈkruɦɫɪj	B	
+66	Slovak	okrúhly	ˈɔkruːɦli	B	
+18	Czech	okrouhlý	ˈɔkrɔuɦliː	B	
+48	Sorbian Upper	kulojty	ˈkulɔjtɘ̟	S	
+47	Sorbian Lower	kulowaty	ˈkulʲowatɘ̟	S	
+97	Slovenian	okrogel	ɔˈkrǒːɡəw	B	
+44	Latvian	apaļš		E	
+46	Lithuanian	apvalus		E	
+46	Lithuanian	apskritas			
+109	Old Norse	sívalr	ˈsiːˌvalr	(D)	
+109	Old Norse	kringlóttr	ˈkrinɣˌloːtːr	B	
+109	Old Norse	bo̜llóttr	ˈbɔlːˌloːtːr	(I)	
+36	Icelandic	kringlóttur	ˈkʰrɪŋlouʰtːʏr	B	
+36	Icelandic	sívalur	ˈsiːvalʏr	(D)	
+23	Faroese	rundur	ˈɹʊnd̥ʊɹ	(A)	
+58	Norwegian Riksmal	rund	ɾʉnː	(A)	
+159	Stavangersk	ronne	ˈʁunːə	(A)	
+157	Old Swedish	kringlotter	ˈkriŋːˌlotːer	B	
+157	Old Swedish	runder	ˈrunder	(A)	
+157	Old Swedish	trinder	ˈtrinder	(P)	
+69	Swedish	rund	rɵnd	(A)	
+145	Elfdalian	kringglun	ˈkrɪ̀ŋglʉn	B	
+145	Elfdalian	rund		(A)	
+20	Danish	rund	ʁɔnˀ	(A)	
+158	Danish Fjolde	trind	tɹinʲ	(O)	
+161	Gutnish Lau	runtar	ˈruntar	(A)	
+99	Old English	sintrendel		C	
+99	Old English	sinwealt		D	
+22	English	round	raʊnd	(A)	
+21	Dutch	rond	rɔnt	(A)	
+126	Old High German	sinwelb		D	
+27	German	rund	rʊnt	(A)	
+120	Luxembourgish	ronn		(A)	
+121	German Switzerland	rund		(A)	
+107	Gothic	*hri-gg-s			
+112	Latin	rotundus	roˈtundus	A	
+68	Spanish	redondo	re'ðondo	A	
+25	French	rond	ʀɔ̃	A	
+146	Dolomite Ladino	torón(t)		A	
+123	Romansh	radund		A	
+122	Friulian	taront		A	
+39	Italian	tondo	'tondo	A	
+59	Romanian	rotund		A	
+140	Gaulish	kurro-			
+127	Old Irish	cruind	crunʹ(dʹ)	B	
+101	Middle Cornish	krenn	krɛn:	B	
+101	Middle Cornish	pyr			
+148	Old Breton	cron		B	
+172	Middle Breton	crenn	ˈkrenː	B	
+172	Middle Breton	ront	ˈront	(A)	
+12	Breton	krenn	ˈkrɛnː	B	
+12	Breton	ront	ˈront	(A), Q	
+150	Old Welsh	crunn		B	
+79	Welsh	crwn		B	
+38	Irish	cruinn		B	
+115	Scottish Gaelic	cruinn	kruɪɲ	B	
+147	Manx	cruinn		B	
+5	[Legacy] Albanian T	rrumbullak		(L)	
+64	[Legacy] Serbocroatian	okrugao		B	
+113	[Legacy] Serbian	obao	ôbao		
+113	[Legacy] Serbian	okrugao	okrǔːɡao	B	
+142	[Legacy] German Munich	rund		(A)	
+14	[Legacy] Breton St	krenn	krɛn	B	

@@ -1,0 +1,145 @@
+88	Albanian	DREJT		C	
+143	Standard Albanian	i, e drejtë		C	
+2	Albanian Sicily	I-DREJT		C	
+4	Albanian Corinth	I DREJTE		C	
+3	Albanian Gheg	TAMAM, BASH			
+6	Albanian Tosk	DREJTE		C	
+110	Ancient Greek	εὐθύς	eu̯tʰýs	K	
+32	Greek	ίσιος	ˈisço̞s	K	
+31	Greek Lesbos	ISIOS		K	
+129	Classical Armenian	ուղիղ	ułił	T	
+8	Armenian Eastern	ուղիղ	uˈʁiʁ	T	
+7	Armenian Western	SHIDAG			
+7	Armenian Western	ուղիղ	uˈʁiʁ	T	
+128	Avestan	ərəzuš		M	
+136	Sogdian	fršty		M	
+75	Wakhi	ROST		M	
+9	Baluchi	SIDHA		(L)	
+137	Zazaki	rāšt		M	
+72	Tajik	ROST, MUSTAKIM		M	
+54	Persian	RAST		M	
+77	Waziri	SAM, SIKH		A	
+1	Pashto	SAM		A	
+138	Shughni	čuk, caq		A	
+139	Sarikoli	xɛyz		B	
+52	Ossetic	KOMKOMMAE		Q	
+52	Ossetic	rast	rast	M	
+124	Ossetic Iron	rašt	rašt	M	
+125	Ossetic Digor	rast	rast	M	
+105	Vedic Sanskrit	r̥jús		M	
+162	Pāḷī	uj(j)u		M	
+41	Khaskura	SOJHO		D	
+51	Nepali	SOJO		D	
+106	Assamese	pon	pon	S	
+102	Oriya	sidha	sidha	L	
+10	Bengali	SOJA		D	
+111	Bihari	sojh	sojh	D	
+144	Magahi	सीधा	sid̪ʰɑ	L	
+104	Marwari	pādarō	pādarō	S	
+35	Hindi	SIDHA		L	
+119	Urdu	سِیدھا	sid̪ʰə	L	
+103	Sindhi	sãõ			
+43	Lahnda	SIDDHA		L	
+53	Punjabi	SIDDA		L	
+33	Gujarati	SIDHU		L	
+50	Marathi	saral	'səɾəɭ		
+40	Kashmiri	SYODU		L	
+65	Sinhalese	KELIN			
+34	Romani Greece	ISYO		K	
+100	Old Church Slavonic	правъ	prɑvʊ̆	F	
+95	Serbo-Croatian	prav	prâv	F	
+15	Bulgarian	prav	praf	F	
+92	Macedonian	прав	prav	F	
+60	Russian	прямой	prʲa'mɔj	H	
+55	Polish	prosty	ˈprɔstɘ̟	G	
+16	Belarusian	просты	ˈprɔstɨ	G	
+16	Belarusian	прамы	praˈmɨ	H	
+73	Ukrainian	прямий	prʲaˈmɪj	H	
+66	Slovak	rovný	ˈrɔvniː	I	
+18	Czech	rovný	ˈrɔvniː	I	
+48	Sorbian Upper	runy	ˈʀunɘ̟	I	
+47	Sorbian Lower	rowny	ˈrownɘ̟	I	
+97	Slovenian	raven	rǎːvən	I	
+108	Old Prussian	ēntikriskāi			
+44	Latvian	tàisns		N	
+46	Lithuanian	TIESUS		N	
+109	Old Norse	beinn	bɛinː	O	
+109	Old Norse	réttr	reːtːr	M	
+36	Icelandic	beinn	b̥eid̥n	O	
+36	Icelandic	réttur	ˈrjɛʰtːʏr	M	
+23	Faroese	rættur	ˈɹaʰtːʊɹ	M	
+23	Faroese	beinur	ˈb̥aiːnʊɹ	O	
+58	Norwegian Riksmal	rett	ɾɛtː	M	
+58	Norwegian Riksmal	ben	beːn	O	
+159	Stavangersk	rette	ˈʁɛtːə	M	
+159	Stavangersk	raɡe	ˈʁɑːɡə	M	
+159	Stavangersk	beine	ˈbɛɪnə	O	
+157	Old Swedish	rätter	ˈrætːer	M	
+69	Swedish	rät	rɛ:t	M	
+69	Swedish	rak	rɑ:k	M	
+71	Swedish Vilhelmina	RAT		M	
+70	Swedish Uppland	RAT		M	
+145	Elfdalian	rett; rak	rɛtː; rɑːk	M	
+20	Danish	ret		M	
+20	Danish	lige	ˈli:ə	R	
+158	Danish Fjolde	liig	liːɣ	R	
+160	Old Gutnish	rētr		M	
+161	Gutnish Lau	rakar	ˈrɑːkar	M	
+161	Gutnish Lau	retar	ˈreːtar	M	
+99	Old English	riht		M	
+22	English	straight	streɪt		
+26	Frisian	rjocht	rjoxt	M	
+21	Dutch	recht	rɛχt	M	
+24	Flemish	RECHT		M	
+83	Afrikaans	REG		M	
+126	Old High German	reht		M	
+27	German	gerade	gə'ra:də	J	
+86	Pennsylvania Dutch	GRAWD		J	
+120	Luxembourgish	riicht		M	
+121	German Switzerland	graad		J	
+107	Gothic	raíhts		M	
+112	Latin	rectus	ˈrektus	M	
+17	Catalan	dret	dɾɛt	M	
+17	Catalan	recte	'rɛktə	M	
+56	Portuguese	direito	diˈɾɐjtu	M	
+68	Spanish	recto	'rekto	M	
+68	Spanish	DERECHO		M	
+61	Sardinian Cagliari	DERETTU		M	
+62	Sardinian Logudoro	DERETTU		M	
+63	Sardinian Nuoro	DERETTU		M	
+85	French Creole Dominica	DWET		M	
+76	Walloon	DREUT		M	
+25	French	droit	dʀwɑ	M	
+57	Provencal	DRE, IERO, DRECHURIE		M	
+42	Ladin	DRET		M	
+146	Dolomite Ladino	dert		M	
+123	Romansh	dretg		M	
+122	Friulian	dret		M	
+39	Italian	diritto	di'ritto	M	
+59	Romanian	drept	drept	M	
+74	Vlach	NDREAPTE		M	
+127	Old Irish	díriuch	dʹi:rʹux	M	
+101	Middle Cornish	ewn		E	
+172	Middle Breton	effn	ˈeṽn		
+12	Breton	eeun		E	
+79	Welsh	syth		P	
+38	Irish	díreach	ˈdʲiːɾʲəx	M	
+115	Scottish Gaelic	dìreach	d̊ʲiːɾʲəx	M	
+5	[Legacy] Albanian T	i, e drejtë		C, M	
+29	[Legacy] Greek K	EITHUS		K	
+28	[Legacy] Greek D	ISIOS		K	
+30	[Legacy] Greek Md	ISIOS		K	
+64	[Legacy] Serbocroatian	USPRAVAN		F	
+113	[Legacy] Serbian	prav	prâʋ	F	
+113	[Legacy] Serbian	ravan		I	
+19	[Legacy] Czech E	ROVNE		I	
+67	[Legacy] Slovenian	NREOVNAJT		I	
+45	[Legacy] Lithuanian O	TIESUS		N	
+11	[Legacy] Brazilian	DIREITO, RETO (RECTO)		M	
+142	[Legacy] German Munich	gerade		J	
+84	[Legacy] French Creole C	DWET		M	
+14	[Legacy] Breton St	eeun	ɛ̃wn	E	
+13	[Legacy] Breton Se	EANN		E	
+78	[Legacy] Welsh C	UNION		E	
+78	[Legacy] Welsh C	SYTH		P	
+37	[Legacy] Irish A	DIREACH		M	

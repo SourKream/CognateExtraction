@@ -1,0 +1,157 @@
+114	Proto-Indo-European	*h₂eu̯s-		B	
+80	Hittite	istāman		F	
+133	Luvian	tummān		F	
+81	Tocharian A	klots		E	
+82	Tocharian B	klautso		E	
+88	Albanian	vesh		B	
+143	Standard Albanian	vesh		B	
+2	Albanian Sicily	vesh		B	
+4	Albanian Corinth	vesh		B	
+3	Albanian Gheg	vesh		B	
+6	Albanian Tosk	vesh		B	
+173	Mycenaean Greek	*o-we	*oːu̯es	B	
+110	Ancient Greek	οὖς	ȗːs	B	
+152	Tsakonian	αβοτανα		B	
+32	Greek	αυτί	afˈti	B	
+31	Greek Lesbos	AUTI		B	
+129	Classical Armenian	ունկն	unk-n	B	
+8	Armenian Eastern	ականջ	ɑˈkɑnʤ	B	
+7	Armenian Western	ականջ	ɑˈgɑnʤ	B	
+128	Avestan	gaošō		A	
+131	Old Persian	gauša		A	
+136	Sogdian	γwš		A	
+75	Wakhi	YIS		A	
+9	Baluchi	GOSH		A	
+118	Kurdish	guh		A	
+137	Zazaki	goš		A	
+72	Tajik	gus	ɡɵʃ	A	
+54	Persian	gush	ɡuːʃ	A	
+77	Waziri	GHOZH		A	
+1	Pashto	GVAZ		A	
+138	Shughni	γuγ̆		A	
+138	Shughni	xār		G	
+139	Sarikoli	ɣɛwl		A	
+52	Ossetic	x'us	qus	A	
+124	Ossetic Iron	quš	quš	A	
+125	Ossetic Digor	ʁos	ʁos	A	
+141	Kata-viri	kor		C	
+154	Vasi-vari	yümu, ümü		I	
+153	Askunu	kar		C	
+105	Vedic Sanskrit	kárṇas		C	
+162	Pāḷī	kaṇṇa		C	
+41	Khaskura	KAN		C	
+51	Nepali	KAN		C	
+106	Assamese	kān		C	
+102	Oriya	kanɔ	kanɔ	C	
+10	Bengali	KAN		C	
+111	Bihari	kan	kan	C	
+144	Magahi	कान	kɑn	C	
+104	Marwari	kã̄n		C	
+104	Marwari	bhɛn		H	
+35	Hindi	KAN		C	
+119	Urdu	کان	kɑn	C	
+103	Sindhi	kanu		C	
+43	Lahnda	KEN		C	
+53	Punjabi	KENN		C	
+33	Gujarati	KAN		C	
+50	Marathi	kān	kan	C	
+40	Kashmiri	KAN		C	
+65	Sinhalese	KANA		C	
+34	Romani Greece	KAN		C	
+100	Old Church Slavonic	ѹхо	uxɔ	B	
+95	Serbo-Croatian	uho	ˈûxɔ	B	
+15	Bulgarian	uxo	uˈxɔ	B	
+92	Macedonian	уво	ˈuvɔ	B	
+60	Russian	ухо	'uxo	B	
+55	Polish	ucho	ˈuxɔ	B	
+16	Belarusian	вуха	ˈvuxa	B	
+73	Ukrainian	вухо	ˈʋuxɔ	B	
+66	Slovak	ucho	ˈuxɔ	B	
+18	Czech	ucho	ˈuxɔ	B	
+48	Sorbian Upper	wucho	ˈwuxɔ	B	
+47	Sorbian Lower	wucho	ˈhuxɔ	B	
+97	Slovenian	uho	uˈxôː	B	
+108	Old Prussian	āusins		B	
+44	Latvian	àuss		B	
+46	Lithuanian	ausis	ɐʊˈsʲɪs	B	
+109	Old Norse	eyra	ˈɛyra	B	
+36	Icelandic	eyra	ˈeiːra	B	
+23	Faroese	oyra	ˈɔiːɹa	B	
+58	Norwegian Riksmal	øre	ˈø̀ːɾə	B	
+159	Stavangersk	öïra	ˈœɪ̀ʁa	B	
+157	Old Swedish	öra	ˈøːra	B	
+69	Swedish	öra	œ̀ːra	B	
+71	Swedish Vilhelmina	ORA		B	
+70	Swedish Uppland	ORA		B	
+145	Elfdalian	ära	ˈæ̀ːrɑ	B	
+20	Danish	øre	ˈø̞:ʌ	B	
+158	Danish Fjolde	yør	yøɹ	B	
+160	Old Gutnish	oyra		B	
+161	Gutnish Lau	åirä	ˈoɪrɛ	B	
+99	Old English	ēare		B	
+22	English	ear	ɪə	B	
+26	Frisian	ear	ɔ.ər	B	
+21	Dutch	oor	or	B	
+24	Flemish	OOR		B	
+83	Afrikaans	OOR		B	
+87	Sranan	JESI		B	
+126	Old High German	ōra		B	
+27	German	Ohr	o:ɐ̯	B	
+86	Pennsylvania Dutch	ORR		B	
+120	Luxembourgish	Ouer		B	
+121	German Switzerland	ohr		B	
+107	Gothic	ausō		B	
+112	Latin	auris	ˈauris	B	
+17	Catalan	orella	u'rɛʎə	B	
+56	Portuguese	orelha	oˈɾɐʎɐ	B	
+68	Spanish	oreja	o'ɾexa	B	
+61	Sardinian Cagliari	URIGA		B	
+62	Sardinian Logudoro	ORICA		B	
+63	Sardinian Nuoro	URIKRA		B	
+85	French Creole Dominica	ZOREJ		B	
+76	Walloon	OREYE		B	
+25	French	oreille	ɔʀɛj	B	
+57	Provencal	aurelha	awˈɾeʎo	B	
+42	Ladin	URAGLIA		B	
+146	Dolomite Ladino	orèiå		B	
+123	Romansh	ureglia		B	
+122	Friulian	orele		B	
+39	Italian	orecchio	o'rekkjo	B	
+59	Romanian	ureche	uˈreke	B	
+74	Vlach	UREAKLI		B	
+140	Gaulish	aus(i)-		B	
+127	Old Irish	clúas	klu:əs	E	
+127	Old Irish	áu	au	(B)	
+149	Old Cornish	scouarn		D	
+101	Middle Cornish	scovarn	'skɔvarn	D	
+148	Old Breton	scobarn		D	
+172	Middle Breton	scouarn, scoüarn	ˈskuarn	D	
+12	Breton	skouarn	ˈskuːarn, ˈskwarn	D	
+79	Welsh	clust		E	
+38	Irish	cluas	kl̪ˠuəsˠ	E	
+115	Scottish Gaelic	cluas		E	
+147	Manx	cleaysh		E	
+5	[Legacy] Albanian T	vesh		B	
+29	[Legacy] Greek K	HOUS		B	
+28	[Legacy] Greek D	AUTI		B	
+30	[Legacy] Greek Md	AUTI		B	
+64	[Legacy] Serbocroatian	UVO		B	
+113	[Legacy] Serbian	uvo	ûʋo	B	
+89	[Legacy] Bulgarian P	UCHO		B	
+49	[Legacy] Macedonian	uvo	ˈuvɔ	B	
+94	[Legacy] Russian P	UCHO		B	
+93	[Legacy] Polish P	UCHO		B	
+90	[Legacy] Byelorussian P	VUCHI		B	
+98	[Legacy] Ukrainian P	VUCHO		B	
+19	[Legacy] Czech E	UXO		B	
+96	[Legacy] Slovak P	UCHO		B	
+91	[Legacy] Czech P	UCHO		B	
+67	[Legacy] Slovenian	USESU		B	
+45	[Legacy] Lithuanian O	AUSIS		B	
+11	[Legacy] Brazilian	orelha	oˈɾeʎɐ	B	
+142	[Legacy] German Munich	Ohr		B	
+84	[Legacy] French Creole C	ZOHWEY		B	
+14	[Legacy] Breton St	skouarn	'skuarn	D	
+13	[Legacy] Breton Se	SKOUARN		D	
+78	[Legacy] Welsh C	CLUST		E	
+37	[Legacy] Irish A	CLUAS		E	

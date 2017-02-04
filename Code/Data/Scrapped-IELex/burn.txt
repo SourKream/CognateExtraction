@@ -1,0 +1,188 @@
+114	Proto-Indo-European	*h₁eu̯s-		U	
+114	Proto-Indo-European	*dʰegʷʰ-		C	
+114	Proto-Indo-European	*su̯el-		O	
+80	Hittite	urāni			
+81	Tocharian A	tsäknäṣtär		C	
+82	Tocharian B	tsakṣtär		C	
+82	Tocharian B	pälketär		N	
+88	Albanian	DJEG		C	
+143	Standard Albanian	djeg		C	
+2	Albanian Sicily	DJEK		C	
+4	Albanian Corinth	DIGEM		C	
+3	Albanian Gheg	DIGJEM (DJEG)		C	
+6	Albanian Tosk	djeg		C	
+173	Mycenaean Greek	ke-ka-u-me-no	kekau̯menos	J	
+110	Ancient Greek	καίομαι	kái̯omai̯	J	
+110	Ancient Greek	εὔω	éu̯ɔː	(U)	
+152	Tsakonian	δαíσου			
+32	Greek	καίω	ˈce̞ˌo̞	J	
+31	Greek Lesbos	KAIGETAI (3 SG.)		J	
+129	Classical Armenian	այրեմ	ayrem	(D)	
+129	Classical Armenian	վառեմ	vaṙem		
+129	Classical Armenian	վառիմ	u̯ɑr-i-m		
+8	Armenian Eastern	այրել	ɑɪ̯ɾˈɛl	D	
+8	Armenian Eastern	վառել	vɑrˈɛl	(D)	
+7	Armenian Western	VAREL		(D)	
+7	Armenian Western	այրիլ	ɑjril		
+128	Avestan	dažiiete		C	
+136	Sogdian	swc		A	
+75	Wakhi	THAU-		R	
+9	Baluchi	BALAGH		E	
+118	Kurdish	sotîn		A	
+118	Kurdish	şewtî		A	
+137	Zazaki	vešāyiš		S	
+72	Tajik	SUXTAN, SUZONDAN		A	
+54	Persian	SUKHTAN		A	
+77	Waziri	BALEDEL		E	
+77	Waziri	SWEL		A	
+1	Pashto	SVADZEDEL, SVADZEL		A	
+138	Shughni	sūzax̆ čīdōw		A	
+139	Sarikoli	θawon : θawond		R	
+52	Ossetic	sudzyn	suʣɨn	A	
+124	Ossetic Iron	šuz-	šuz-	A	
+125	Ossetic Digor	sodz-	sodz-	A	
+141	Kata-viri	luš-		(C)	
+105	Vedic Sanskrit	dahyátē		C	
+105	Vedic Sanskrit	uṣ-, oṣati		(U)	
+162	Pāḷī	dahati		C	
+41	Khaskura	BALNU, JALNU		F	
+51	Nepali	JALNU, BALNU		F	
+106	Assamese	jāle		F	
+102	Oriya	jɔḷ-	jɔɭ-	F	
+102	Oriya	poṛ-	poɽ-	P	
+10	Bengali	JOLA		F	
+10	Bengali	PORA		P	
+111	Bihari	jərəb	jərəb	F	
+144	Magahi	जलाना	ɟərɑnɑ	F	
+104	Marwari	bəɭ-ət	bəɭ-ət	F	
+35	Hindi	jelna	dʒəlna	F	
+119	Urdu	جلنا	ʤəlnɑ	F	
+103	Sindhi	ǰalaṇu		F	
+103	Sindhi	khamaṇu		H	
+103	Sindhi	b̄araṇu		F	
+43	Lahnda	BHA LAWEN		W	
+53	Punjabi	JELNA		F	
+33	Gujarati	BELWU		F	
+50	Marathi	dzalne, dzālne	'dzəɭɳe, 'dzaɭɳe	F	
+40	Kashmiri	DAZUN		C	
+65	Sinhalese	PICCENAWA		X	
+34	Romani Greece	PABIAV		W	
+100	Old Church Slavonic	горѣти	ɡɔræti	M	
+95	Serbo-Croatian	gorjeti	ˈɡɔ̌rjɛti	M	
+15	Bulgarian	горя	ɡuˈrʲɤ	M	
+92	Macedonian	гори	ˈɡori	M	
+60	Russian	гореть	ɡɔˈrʲɛtʲ	M	
+55	Polish	palić się	ˈpaliʨ ɕɛ(ɰ̃)	K	
+16	Belarusian	гарэць	ɣaˈrɛtsʲ	M	
+73	Ukrainian	палитися	paˈɫɪtɪsʲa	K	
+73	Ukrainian	горіти	ɦɔˈritɪ	M	
+66	Slovak	páliť sa	ˈpaːlic sa	K	
+66	Slovak	horieť'	ˈɦɔriɛc	M	
+18	Czech	hořet	ˈɦɔr̝ɛt	M	
+18	Czech	planout	ˈplanɔut	K	
+48	Sorbian Upper	palić so	ˈpalitʃ sɔ	K	
+47	Sorbian Lower	paliś se	ˈpalʲiɕ sɛ	K	
+97	Slovenian	goreti	gɔˈrěːti	M	
+44	Latvian	de̥g		C	
+46	Lithuanian	DEGTI		C	
+46	Lithuanian	svelù		O	
+109	Old Norse	brenna	ˈbrenːa	B	
+36	Icelandic	brenna	ˈb̥rɛnːa	B	
+23	Faroese	brenna	ˈb̥ɹɛnːa	B	
+58	Norwegian Riksmal	brenne	ˈbɾɛ̀nːə	B	
+159	Stavangersk	brenna	ˈbʁɛ̀nːa	B	
+157	Old Swedish	bränna	ˈbrænːa	B	
+157	Old Swedish	brinna	ˈbrinːa	B	
+69	Swedish	brinna	ˈbrɪ̀nːa	B	
+69	Swedish	bränna	ˈbrɛ̀nːa	B	
+71	Swedish Vilhelmina	BRIN		B	
+70	Swedish Uppland	BRINNA, BRANNA (TR.)		B	
+145	Elfdalian	brinna	brɪ̀nːɑ	B	
+145	Elfdalian	brenna	brɛ̀nːɑ	B	
+20	Danish	brænde	ˈb̥ʁanə	B	
+158	Danish Fjolde	brænd	bɹænʲ	B	
+160	Old Gutnish	brenna		B	
+160	Old Gutnish	brinna		B	
+161	Gutnish Lau	brinnä	ˈbrɪnːɛ	B	
+161	Gutnish Lau	brännä	ˈbrɛnːɛ	B	
+99	Old English	birnþ		B	
+22	English	to burn	bɜ:n	B	
+26	Frisian	barne	'banə	B	
+21	Dutch	branden	'brɑndə(n)	B	
+21	Dutch	gloeien	'ɣlujə(n)	(V)	
+24	Flemish	VERBRANDEN		B	
+83	Afrikaans	AANBRAND		B	
+87	Sranan	BRON		B	
+126	Old High German	brinnit		B	
+126	Old High German	swellen		O	
+27	German	brennen	'brɛnən	B	
+86	Pennsylvania Dutch	BRENN		B	
+120	Luxembourgish	brennen		B	
+121	German Switzerland	(fer-)brönne		B	
+107	Gothic	brinniþ		B	
+112	Latin	ūrō	ˈuːroː	U	
+112	Latin	cremāre	kreˈmaːre	(L)	
+112	Latin	ardēre	arˈdeːre	I	
+17	Catalan	cremar	krə'ma	L	
+56	Portuguese	arder	ɐɾˈdeɾ	I	
+68	Spanish	quemar	ke'maɾ	L	
+68	Spanish	ARDER		I	
+61	Sardinian Cagliari	ABRUZAI		Q	
+62	Sardinian Logudoro	BRUJARE		Q	
+63	Sardinian Nuoro	BRUJARE		Q	
+85	French Creole Dominica	BWILE		Q	
+76	Walloon	BROULER		Q	
+25	French	brûler	bʀyle	Q	
+57	Provencal	BRULA		Q	
+42	Ladin	ARDER		I	
+42	Ladin	BRUSCHER		Q	
+146	Dolomite Ladino	brujèr			
+123	Romansh	barschar			
+123	Romansh	arder		I	
+122	Friulian	brusâ		Q	
+122	Friulian	ardi		I	
+39	Italian	bruciare	bru'tʃare	Q	
+39	Italian	ardere	'ardere	I	
+59	Romanian	a arde		I	
+74	Vlach	ARTU		I	
+127	Old Irish	loiscid, loscaid	losʹkʹədʹ, loscədʹ	G	
+101	Middle Cornish	lesk	lɛski	G	
+101	Middle Cornish	dywy		(T)	
+148	Old Breton	lescsit		G	
+172	Middle Breton	lesquiff	ˈleskiṽ	G	
+12	Breton	loskañ, leskiñ	ˈlɔskã, ˈleskĩ	G	
+150	Old Welsh	lloski		G	
+79	Welsh	deifio		(T)	
+79	Welsh	llosgi		G	
+38	Irish	loisc		(G)	
+38	Irish	dóigh		T	
+115	Scottish Gaelic	loisg	ɫ̪oʃɡ̊ʲ	G	
+147	Manx	dóú		T	
+5	[Legacy] Albanian T	djeg		C	
+29	[Legacy] Greek K	FLEGOMAI		N	
+29	[Legacy] Greek K	KAIOMAI		J	
+28	[Legacy] Greek D	KAIOMAI		J	
+30	[Legacy] Greek Md	KAIETAI (3 SG.)		J	
+64	[Legacy] Serbocroatian	PALITI		K	
+113	[Legacy] Serbian	goreti	ɡǒreti	M	
+89	[Legacy] Bulgarian P	ZEZA		C	
+49	[Legacy] Macedonian	GORI		M	
+49	[Legacy] Macedonian	PALI		K	
+49	[Legacy] Macedonian	ZEGA		C	
+94	[Legacy] Russian P	ZEC		C	
+93	[Legacy] Polish P	PALIC		K	
+90	[Legacy] Byelorussian P	PALIC		K	
+98	[Legacy] Ukrainian P	PALATY		K	
+19	[Legacy] Czech E	HORIT		M	
+96	[Legacy] Slovak P	PALIT		K	
+91	[Legacy] Czech P	PALITI		K	
+67	[Legacy] Slovenian	ZGORET		M	
+45	[Legacy] Lithuanian O	DEGINTI		C	
+11	[Legacy] Brazilian	QUEIMAR		L	
+142	[Legacy] German Munich	brennen		B	
+84	[Legacy] French Creole C	BURLE		Q	
+14	[Legacy] Breton St	leskiñ		G	
+14	[Legacy] Breton St	deviñ	'dɛ:vĩ	T	
+13	[Legacy] Breton Se	LOSKEIN		G	
+78	[Legacy] Welsh C	LLOSGI		G	
+37	[Legacy] Irish A	DOGHADH		T	

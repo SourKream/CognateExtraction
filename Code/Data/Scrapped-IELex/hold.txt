@@ -1,0 +1,153 @@
+114	Proto-Indo-European	*seg̑ʰ-		M	
+80	Hittite	harzi			
+88	Albanian	MARR		B	
+143	Standard Albanian	mbaj		C	
+2	Albanian Sicily	MBAN		C	
+4	Albanian Corinth	MBAA   BAA		C	
+3	Albanian Gheg	MARR		B	
+6	Albanian Tosk	MBAN, AOR. MBAJTA		C	
+173	Mycenaean Greek	e-ke	hekʰei̯	M	
+110	Ancient Greek	ἔχω	ékʰɔː	M	
+32	Greek	κρατώ	kraˈto̞	I	
+31	Greek Lesbos	BASTO			
+129	Classical Armenian	ունիմ	ownim	R	
+8	Armenian Eastern	bṙnel	bərˈnɛl	D	
+8	Armenian Eastern	UNEL		R	
+8	Armenian Eastern	pahel	pɑˈhɛl		
+7	Armenian Western	BURNE		D	
+128	Avestan	dāraiieiti		E	
+131	Old Persian	dārayatiy		E	
+136	Sogdian	d’r		E	
+75	Wakhi	WUDER		E	
+72	Tajik	DAST GIRIFTAN		L	
+54	Persian	GEREFTAN		L	
+77	Waziri	NIWEL		T	
+77	Waziri	SOTEL		S	
+1	Pashto	LAREL		E	
+138	Shughni	anjav		U	
+52	Ossetic	XAECYN		Q	
+52	Ossetic	daryn	darɨn	E	
+124	Ossetic Iron	χɐs-	χɐs-	Q	
+125	Ossetic Digor	χʷɐc-	χʷɐc-	Q	
+105	Vedic Sanskrit	dhāráyati		E	
+162	Pāḷī	dharati		E	
+41	Khaskura	THAMNU			
+106	Assamese	dhɒr	dhɒr	E	
+102	Oriya	dhɔr-	dhɔr-	E	
+10	Bengali	DHORA		E	
+111	Bihari	dhərəb	dhərəb	E	
+144	Magahi	धरना	d̪ʰərnɑ		
+144	Magahi	पकडना	pəkɽnɑ		
+35	Hindi	DHERNA		E	
+119	Urdu	پکڑنا	pəkəɽnə	J	
+103	Sindhi	vaTharnu			
+43	Lahnda	PEKREN		J	
+53	Punjabi	PHERNA		V	
+33	Gujarati	PEKERWU		J	
+50	Marathi	dherne		E	
+50	Marathi	pakadne	pəkəd'ɳe	J	
+40	Kashmiri	RATUN			
+40	Kashmiri	HYONU			
+65	Sinhalese	ALLAGANAWA			
+34	Romani Greece	ASTARAV			
+100	Old Church Slavonic	дрьжати	dr̩ʲʒati	E	
+95	Serbo-Croatian	držati	ˈdř̩ʒati	E	
+15	Bulgarian	държа	dərˈʒɤ	E	
+92	Macedonian	држи	ˈdərʒi	E	
+60	Russian	держать	dʲɛr'ʐatʲ	E	
+55	Polish	trzymać	ˈt-ʂɘ̟matɕ	H	
+16	Belarusian	трымаць	trɨˈmatsʲ	H	
+73	Ukrainian	тримати	trɪˈmatɪ	H	
+73	Ukrainian	держати	dɛrˈʐatɪ	E	
+66	Slovak	držať	ˈdr̩ʒac	E	
+18	Czech	držet	ˈdr̩ʒɛt	E	
+48	Sorbian Upper	dźeržeć	ˈdʒɛʀʒɛtʃ	E	
+47	Sorbian Lower	źaržaś	ˈʑarʐaɕ	E	
+97	Slovenian	držati	dərˈʒǎːti	E	
+108	Old Prussian	lāiku		K	
+44	Latvian	tur		N	
+46	Lithuanian	LAIKYTI		K	
+109	Old Norse	halda	ˈhalda	A	
+36	Icelandic	halda	ˈhald̥a	A	
+23	Faroese	halda	ˈhald̥a	A	
+58	Norwegian Riksmal	holde	ˈhɔ̀lːə	A	
+159	Stavangersk	hålla	ˈhɔ̀lːa	A	
+157	Old Swedish	halda	ˈhalda	A	
+69	Swedish	hålla	ˈhɔ̀lːa	A	
+71	Swedish Vilhelmina	HAL  HOL		A	
+70	Swedish Uppland	HALLA		A	
+145	Elfdalian	olda	ˈòldɑ	A	
+20	Danish	holde	ˈhʌlə	A	
+158	Danish Fjolde	hoold	hoːlʲ	A	
+160	Old Gutnish	halda		A	
+161	Gutnish Lau	haldä	ˈhaldɛ	A	
+99	Old English	hielt		A	
+22	English	hold	həʊld	A	
+26	Frisian	hâlde	hɔːdə, hɔːrə	A	
+21	Dutch	houden	'hɑudə(n)	A	
+24	Flemish	GRYPEN		L	
+24	Flemish	VASTHOUDEN		A	
+83	Afrikaans	HOU		A	
+87	Sranan	HOLI		A	
+126	Old High German	habēt		O	
+27	German	halten	'haltn̩	A	
+86	Pennsylvania Dutch	HAYB		O	
+120	Luxembourgish	halen		A	
+121	German Switzerland	häbe		O	
+107	Gothic	habaiþ		O	
+132	Umbrian	tenitu			
+112	Latin	tenēre	teˈneːre	F	
+17	Catalan	tenir	tə'ni	F	
+56	Portuguese	segurar	sɨɡuˈɾaɾ	M	
+56	Portuguese	ter		F	
+68	Spanish	tener	te'neɾ	F	
+61	Sardinian Cagliari	TENNI		F	
+62	Sardinian Logudoro	TENNERE		F	
+63	Sardinian Nuoro	REGERE			
+85	French Creole Dominica	CEN		F	
+76	Walloon	TINI, TINRE		F	
+25	French	tenir	təniʀ	F	
+57	Provencal	TENI		F	
+42	Ladin	TGNAIR, TEGNER		F	
+146	Dolomite Ladino	tengnì, tenì		F	
+123	Romansh	tegnair		F	
+122	Friulian	tignî		F	
+39	Italian	tenere	te'nere	F	
+59	Romanian	a ține	a ˈtsine	F	
+74	Vlach	CYNU		F	
+140	Gaulish	delgu		G	
+127	Old Irish	con·gaib	konˈgaβʹ	P	
+101	Middle Cornish	dalghen	'dalhɛn	G	
+101	Middle Cornish	gaval		(P)	
+101	Middle Cornish	synsi			
+148	Old Breton	delgīm		G	
+172	Middle Breton	delcher, delchel, delchell, dercher, derchell	ˈdelher, ˈdelhel, ˈderher, ˈderhel	G	
+12	Breton	dalc'hen, delc'her, derc'hel	ˈdalxen, ˈdɛlxɛr, ˈdɛrxɛl	G	
+79	Welsh	dal		G	
+38	Irish	coinnigh		P	
+38	Irish	CONGABHAIM		(P)	
+115	Scottish Gaelic	cùm		P	
+5	[Legacy] Albanian T	ME MBAJTUR		C	
+29	[Legacy] Greek K	KRATO		I	
+28	[Legacy] Greek D	KRATAO		I	
+30	[Legacy] Greek Md	KRATO		I	
+64	[Legacy] Serbocroatian	DRZATI		E	
+113	[Legacy] Serbian	držati	dr̩ʒati	E	
+89	[Legacy] Bulgarian P	DURZA		E	
+49	[Legacy] Macedonian	DRZI		E	
+94	[Legacy] Russian P	DERZAT		E	
+93	[Legacy] Polish P	DZIERZYC		E	
+90	[Legacy] Byelorussian P	TRYMAC		H	
+98	[Legacy] Ukrainian P	DERZATY		E	
+19	[Legacy] Czech E	DRZAT		E	
+96	[Legacy] Slovak P	DRZAT		E	
+91	[Legacy] Czech P	DRZETI		E	
+67	[Legacy] Slovenian	DRZAT U RAKI		E	
+45	[Legacy] Lithuanian O	LAIKYTI		K	
+11	[Legacy] Brazilian	TER		F	
+142	[Legacy] German Munich	halten		A	
+84	[Legacy] French Creole C	CEN		F	
+14	[Legacy] Breton St	derc'hel	'dɛrxɛl	G	
+13	[Legacy] Breton Se	DALHEIN		G	
+78	[Legacy] Welsh C	DAL		G	
+37	[Legacy] Irish A	RUD DO CHOINNEAIL SA LAIMH			

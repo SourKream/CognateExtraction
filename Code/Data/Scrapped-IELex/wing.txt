@@ -1,0 +1,150 @@
+80	Hittite	partawar		K	
+80	Hittite	pattar		K	
+133	Luvian	aruti			
+88	Albanian	FLETA		C	
+143	Standard Albanian	krah		(D)	
+2	Albanian Sicily	KRAX		(D)	
+4	Albanian Corinth	PENDE			
+3	Albanian Gheg	FLETA		C	
+6	Albanian Tosk	KRA		(D)	
+110	Ancient Greek	πτέρυξ	ptéryks	K	
+32	Greek	φτερούγα	fte̞ˈruɣa	K	
+31	Greek Lesbos	FTEROUGA		K	
+129	Classical Armenian	թեւ	tʰew	K	
+8	Armenian Eastern	թև	tʰɛv	K	
+7	Armenian Western	թեւ	tʰɛv	K	
+128	Avestan	parənəm		K	
+136	Sogdian	w’z		M	
+75	Wakhi	TUP			
+9	Baluchi	PHAR		K	
+137	Zazaki	per̄		K	
+72	Tajik	KANOT		(A)	
+72	Tajik	bol	bɔːl		
+54	Persian	PAR		K	
+77	Waziri	WAZAR		M	
+77	Waziri	PAR		K	
+1	Pashto	VAZAR		M	
+138	Shughni	pār		K	
+139	Sarikoli	par		K	
+139	Sarikoli	qanot		(A)	
+52	Ossetic	BAZYR		M	
+124	Ossetic Iron	bažyr	bažyr	M	
+125	Ossetic Digor	bazur	bazur	M	
+105	Vedic Sanskrit	parṇám		(K)	
+105	Vedic Sanskrit	pakṣás		F	
+162	Pāḷī	pakkha		F	
+51	Nepali	PWAKH		F	
+106	Assamese	pakhi	pakhi	F	
+102	Oriya	ḍeṇa	ɖeɳa	E	
+102	Oriya	pɔkhi	pɔkhi	F	
+10	Bengali	PAKHA		F	
+10	Bengali	DANA		E	
+111	Bihari	paĩkh	paĩkh	F	
+144	Magahi	पांख	pɑ̃kʰ	F	
+35	Hindi	PENKH		F	
+119	Urdu	پَر،	pəɾ	K	
+119	Urdu	بازُو	bɑzu	(M)	
+43	Lahnda	PER		K	
+53	Punjabi	PER		K	
+33	Gujarati	PAKH		F	
+50	Marathi	pãŋkha	'pãŋkʰə	F	
+40	Kashmiri	PAKH		F	
+65	Sinhalese	TATTA			
+34	Romani Greece	PHAK		F	
+100	Old Church Slavonic	крило	krilɔ	I	
+95	Serbo-Croatian	krilo	krǐːlɔ	I	
+15	Bulgarian	крило	kriˈɫɔ	I	
+92	Macedonian	крило	ˈkrilɔ	I	
+60	Russian	крыло	krɨˈɫɔ	I	
+55	Polish	skrzydło	ˈskʂɘ̟dwɔ	I	
+16	Belarusian	крыло	krɨˈɫɔ	I	
+73	Ukrainian	крило	krɪˈɫɔ	I	
+66	Slovak	krídlo	ˈkriːdlɔ	I	
+18	Czech	křídlo	ˈkr̝̊iːdlɔ	I	
+48	Sorbian Upper	křidło	ˈkʃidwɔ	I	
+47	Sorbian Lower	kšidło	ˈkɕidwɔ	I	
+97	Slovenian	krilo	ˈkrǐːlɔ	I	
+108	Old Prussian	skreīlē		I	
+44	Latvian	spā̀rns		K	
+46	Lithuanian	SPARNAS		K	
+109	Old Norse	vængr	vɛnɣr	J	
+36	Icelandic	vængur	ˈvaiŋɡ̊ʏr	J	
+23	Faroese	vongur	ˈvɔŋɡ̊ʊɹ	J	
+58	Norwegian Riksmal	vinge	ˈʋɪ̀ŋːə	J	
+159	Stavangersk	veng	ʋɛŋː	J	
+157	Old Swedish	vinge	ˈviŋːe	J	
+69	Swedish	vinge	ˈvɪ̀ŋːə	J	
+71	Swedish Vilhelmina	VINGA		J	
+70	Swedish Uppland	VINGE		J	
+145	Elfdalian	waingg	wɑɪŋg	J	
+20	Danish	vinge	ˈveŋə	J	
+158	Danish Fjolde	veng	veŋ	J	
+161	Gutnish Lau	vängg	vɛŋɡ	J	
+99	Old English	fiþeru		K	
+22	English	wing	wɪŋ	(J)	
+26	Frisian	wjok, wjuk	vjok, vjək		
+21	Dutch	vleugel	'vløɣəl	B	
+24	Flemish	VLEUGEL		B	
+83	Afrikaans	VLEUEL		B	
+87	Sranan	FLEI		B	
+126	Old High German	federah		K	
+27	German	Flügel	'flʏ:gl̩	B	
+86	Pennsylvania Dutch	FLIGGEL		B	
+120	Luxembourgish	Flillek		B	
+121	German Switzerland	flügu		B	
+112	Latin	āla	ˈaːla	G	
+112	Latin	penna	penːa	K	
+17	Catalan	RENGLERA			
+17	Catalan	ala	ˈaɫə	G	
+17	Catalan	FILA, FLIERA		B	
+56	Portuguese	asa	ˈazɐ	G	
+68	Spanish	ala	'ala	G	
+61	Sardinian Cagliari	ALA		G	
+62	Sardinian Logudoro	ALA		G	
+63	Sardinian Nuoro	ALA		G	
+85	French Creole Dominica	ZEL		G	
+76	Walloon	ELE		G	
+25	French	aile	ɛl	G	
+57	Provencal	ALO		G	
+42	Ladin	ELA		G	
+146	Dolomite Ladino	ala		G	
+123	Romansh	ala		G	
+122	Friulian	ale		G	
+39	Italian	ala	'ala	G	
+59	Romanian	aripă			
+74	Vlach	PEANE		K	
+127	Old Irish	scíath	sʹkʹi:əθ	(N)	
+127	Old Irish	ette	e:tʹe	K	
+101	Middle Cornish	askell	'askɛl	(G), L	
+172	Middle Breton	asquell	ˈaskel	G, L	
+12	Breton	askell	ˈaskɛɭ	(G), L	
+79	Welsh	adain, aden		K	
+79	Welsh	asgell		(G), L	
+38	Irish	eiteog		K	
+115	Scottish Gaelic	broinn		(H)	
+115	Scottish Gaelic	sgiath		N	
+115	Scottish Gaelic	brù		(H)	
+5	[Legacy] Albanian T	krah	kɾa	(D)	
+29	[Legacy] Greek K	PTERON		K	
+28	[Legacy] Greek D	FTERO		K	
+30	[Legacy] Greek Md	FTERO, FTEROUGA		K	
+64	[Legacy] Serbocroatian	KRILO		I	
+113	[Legacy] Serbian	krilo	krǐːlo	I	
+89	[Legacy] Bulgarian P	KRILO		I	
+49	[Legacy] Macedonian	KRILO		I	
+94	[Legacy] Russian P	KRYLO		I	
+93	[Legacy] Polish P	SKRZYDLO		I	
+90	[Legacy] Byelorussian P	KRYLO		I	
+98	[Legacy] Ukrainian P	KRYLO		I	
+19	[Legacy] Czech E	KRIDLO		I	
+96	[Legacy] Slovak P	KRIDLO		I	
+91	[Legacy] Czech P	KRIDLO		I	
+67	[Legacy] Slovenian	KRELUTA		I	
+45	[Legacy] Lithuanian O	SPARNAS		K	
+11	[Legacy] Brazilian	ASA		G	
+142	[Legacy] German Munich	Flügel		B	
+84	[Legacy] French Creole C	ZEL		G	
+14	[Legacy] Breton St	askell	ˈaskɛl	(G), L	
+13	[Legacy] Breton Se	ASKEL		(G), L	
+78	[Legacy] Welsh C	ADEN		K	
+37	[Legacy] Irish A	SGIATHAN		N	

@@ -1,0 +1,158 @@
+114	Proto-Indo-European	*dʰuh₂mós		A	
+80	Hittite	tuhhuwais		A	
+88	Albanian	TYMI		C	
+143	Standard Albanian	tym		C	
+2	Albanian Sicily	kem		F	
+4	Albanian Corinth	kem		F	
+3	Albanian Gheg	tym		C	
+6	Albanian Tosk	tym		C	
+173	Mycenaean Greek	ka-pi-ni-ja	kapnía-	F	
+110	Ancient Greek	καπνός	kapnós	F	
+152	Tsakonian	καπ(ι)νε		F	
+32	Greek	καπνός	kaˈpno̞s	F	
+31	Greek Lesbos	KAPNOS		F	
+129	Classical Armenian	մուխ	mux	(E)	
+129	Classical Armenian	ծուխ	cowx	H	
+8	Armenian Eastern	ծուխ	ʦuχ	H	
+8	Armenian Eastern	մուխ	mux	(E)	
+7	Armenian Western	MOOGH		E	
+128	Avestan	dūta-		A	
+136	Sogdian	pzt		G	
+174	Khotanese	dumä	dumə	A	
+75	Wakhi	DIT		A	
+9	Baluchi	DUHON		A	
+118	Kurdish	dûkel		A	
+118	Kurdish	dûxan		A	
+137	Zazaki	dūy		A	
+72	Tajik	DUD		A	
+54	Persian	DUD		A	
+77	Waziri	DE YOR LIGAI		A	
+1	Pashto	DUD		A	
+138	Shughni	δud		A	
+139	Sarikoli	δyd, δud		A	
+52	Ossetic	faezdaeg	fæzdæɡ	G	
+52	Ossetic	x'uaecae	qwætsæ	I	
+124	Ossetic Iron	fɐždɐg	fɐždɐg	G	
+125	Ossetic Digor	qwɐcɐ	qwɐcɐ		
+141	Kata-viri	dʸum		A	
+154	Vasi-vari	ulyūmo		A	
+153	Askunu	dŭm		A	
+105	Vedic Sanskrit	dhūmás		A	
+162	Pāḷī	dhūma		A	
+41	Khaskura	DHUWAN		A	
+51	Nepali	DHUWA		A	
+106	Assamese	dhõa	dhõa	A	
+102	Oriya	dhũã	dhũã	A	
+10	Bengali	DHOA, DHUO		A	
+111	Bihari	dhũa	dhũa	A	
+144	Magahi	धुंआ	d̪ʰʊɑ̃		
+104	Marwari	dhũnwo	dhũnwo	A	
+35	Hindi	DHUA		A	
+119	Urdu	دُھواں	d̪ʰʊwɑ̃	A	
+103	Sindhi	duuhon		A	
+43	Lahnda	DHU		A	
+53	Punjabi	TUA		A	
+33	Gujarati	DHUMARO		A	
+50	Marathi	dhūr	dʰu:ɾ	A	
+40	Kashmiri	DAH		A	
+65	Sinhalese	DUMA		A	
+34	Romani Greece	DUMANO		A	
+100	Old Church Slavonic	дымъ	dɯmʊ̆	A	
+95	Serbo-Croatian	dim	dîm	A	
+15	Bulgarian	пушек	ˈpuʃɘk	M	
+92	Macedonian	чад	tʃad	L	
+60	Russian	дым	dɨm	A	
+55	Polish	dym	dɘ̟m	A	
+16	Belarusian	дым	dɨm	A	
+73	Ukrainian	дим	dɪm	A	
+66	Slovak	dym	dim	A	
+18	Czech	kouř	kɔur̝̊	K	
+18	Czech	dým	diːm	A	
+48	Sorbian Upper	kur	kuʀ	K	
+47	Sorbian Lower	dym	dɘ̟m	A	
+97	Slovenian	dim	dim	A	
+108	Old Prussian	dumis		A	
+44	Latvian	dũmi		A	
+46	Lithuanian	DUMAI		A	
+109	Old Norse	reykr	rɛykr	B	
+36	Icelandic	reykur	ˈreiːkʰʏr	B	
+23	Faroese	roykur	ˈɹɔiːkʰʊɹ	B	
+58	Norwegian Riksmal	røyk (røk)	ɾœʏk	B	
+159	Stavangersk	röïg	ʁœɪɡ	B	
+157	Old Swedish	röker	ˈrøːker	B	
+69	Swedish	rök	rø:k	B	
+71	Swedish Vilhelmina	ROK		B	
+70	Swedish Uppland	ROK		B	
+145	Elfdalian	räk	ræːk	B	
+20	Danish	røg	ʁʌjˀ	B	
+158	Danish Fjolde	ryøg, ryøk	ɹyøɣ, ɹyøɡ	B	
+161	Gutnish Lau	råik	roɪk	B	
+99	Old English	rēoc		B	
+99	Old English	smoca		E	
+22	English	smoke	sməʊk	E	
+26	Frisian	reek	re:k	B	
+21	Dutch	rook	rok	B	
+24	Flemish	ROOK		B	
+83	Afrikaans	ROOK		B	
+87	Sranan	SMOKO		E	
+126	Old High German	rouh		B	
+27	German	Rauch	raŭx	B	
+86	Pennsylvania Dutch	SCHMOECK		E	
+120	Luxembourgish	Damp		A	
+121	German Switzerland	rouch		B	
+107	Gothic	þymiama		A	
+112	Latin	fūmus	ˈfuːmus	A	
+17	Catalan	fum	fum	A	
+56	Portuguese	fumo	'fumu	A	
+68	Spanish	humo	'umo	A	
+61	Sardinian Cagliari	FUMU		A	
+62	Sardinian Logudoro	FUMU		A	
+63	Sardinian Nuoro	UMU		A	
+85	French Creole Dominica	LAFIME		A	
+76	Walloon	FOUMIRE		A	
+25	French	fumée	fyme	A	
+57	Provencal	FUM, FUMADO		A	
+42	Ladin	FUM		A	
+146	Dolomite Ladino	fum		A	
+123	Romansh	fugascha			
+123	Romansh	fem		A	
+122	Friulian	fum(â)		A	
+39	Italian	fumo	'fumo	A	
+59	Romanian	fum		A	
+74	Vlach	FUMU		A	
+127	Old Irish	múch	mu:x	(E)	
+127	Old Irish	dé	dʹe:	A	
+101	Middle Cornish	mog	mɔ:g	E	
+148	Old Breton	moguet		E	
+172	Middle Breton	moguet	ˈmoːget		
+12	Breton	moged		E	
+79	Welsh	mwg		E	
+38	Irish	múch		(E)	
+38	Irish	deatach		A	
+38	Irish	toit		J	
+115	Scottish Gaelic	ceò			
+115	Scottish Gaelic	toit	t̪ɔʰtʲ	J	
+115	Scottish Gaelic	deathach		(A)	
+147	Manx	jaagh		A	
+5	[Legacy] Albanian T	tym		C	
+30	[Legacy] Greek Md	KAPNOS		F	
+64	[Legacy] Serbocroatian	DIM		A	
+113	[Legacy] Serbian	dim	dîm	A	
+89	[Legacy] Bulgarian P	DIM		A	
+49	[Legacy] Macedonian	CAD			
+94	[Legacy] Russian P	DYM		A	
+93	[Legacy] Polish P	DYM		A	
+90	[Legacy] Byelorussian P	DYM		A	
+98	[Legacy] Ukrainian P	DYM		A	
+19	[Legacy] Czech E	KUR		D	
+96	[Legacy] Slovak P	DYM		A	
+91	[Legacy] Czech P	DYM		A	
+67	[Legacy] Slovenian	DIM		A	
+45	[Legacy] Lithuanian O	DUMAI		A	
+11	[Legacy] Brazilian	FUMO		A	
+142	[Legacy] German Munich	Rauch		B	
+84	[Legacy] French Creole C	LAFIME		A	
+14	[Legacy] Breton St	moged	'mo:gɛt	E	
+13	[Legacy] Breton Se	MOGED		E	
+78	[Legacy] Welsh C	MWG		E	
+37	[Legacy] Irish A	DEATACH (TOIT U.)		A	

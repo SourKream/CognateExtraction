@@ -1,0 +1,159 @@
+114	Proto-Indo-European	*kʷis		B	
+114	Proto-Indo-European	*kʷod		B	
+80	Hittite	kuis		B	
+133	Luvian	kuis		B	
+134	Lycian	ti		B	
+135	Palaic	kui-		B	
+81	Tocharian A	kus		B	
+82	Tocharian B	kuse		B	
+88	Albanian	kush		B	
+143	Standard Albanian	kush		B	
+2	Albanian Sicily	kush		B	
+4	Albanian Corinth	kush		B	
+3	Albanian Gheg	kush		B	
+6	Albanian Tosk	kush		B	
+6	Albanian Tosk	cili		B	
+110	Ancient Greek	τίς	tís	B	
+152	Tsakonian	ποιε(ρ), ποια, ποιου		B	
+32	Greek	ποιος	pço̞s	B	
+31	Greek Lesbos	POIOS		B	
+129	Classical Armenian	ո(վ)	o(v)	B	
+8	Armenian Eastern	ով	ov	B	
+7	Armenian Western	OV		B	
+128	Avestan	kō		B	
+131	Old Persian	ka		B	
+136	Sogdian	qy		B	
+75	Wakhi	KUI		B	
+9	Baluchi	KITHAN		B	
+118	Kurdish	kî		B	
+137	Zazaki	kām		B	
+72	Tajik	KI		B	
+54	Persian	ki	kʰiː	B	
+77	Waziri	TSOK		B	
+1	Pashto	COK		B	
+138	Shughni	ar tām			
+139	Sarikoli	čoy		B	
+52	Ossetic	ci, citae	tʃi, tʃitæ	B	
+124	Ossetic Iron	či	či	B	
+125	Ossetic Digor	ka	ka	B	
+141	Kata-viri	kʌt͡si		B	
+154	Vasi-vari	kəs, kes(e)		B	
+153	Askunu	ċēi		B	
+105	Vedic Sanskrit	kás		B	
+162	Pāḷī	ka		B	
+41	Khaskura	KO		B	
+51	Nepali	ko, ko ko	ko	B	
+106	Assamese	kon(e)		B	
+102	Oriya	kaha	kaha	B	
+10	Bengali	KE		B	
+111	Bihari	ke	ke	B	
+144	Magahi	कउन	kəʊn		
+151	Bhojpuri	ke		B	
+104	Marwari	kuɳ	kuɳ	B	
+35	Hindi	KON		B	
+119	Urdu	کَون	kɔn	B	
+103	Sindhi	kə̃h	kə̃h	B	
+43	Lahnda	KON		B	
+53	Punjabi	KON		B	
+33	Gujarati	KON		B	
+50	Marathi	kon	koɳ	B	
+40	Kashmiri	KYAH		B	
+65	Sinhalese	KAVUDA		B	
+34	Romani Greece	KON		B	
+100	Old Church Slavonic	къто	kʊ̆tɔ	B	
+95	Serbo-Croatian	tko, ko	tkɔ̂, kɔ̂	B	
+15	Bulgarian	кой	kɔj	B	
+92	Macedonian	кој	koj	B	
+60	Russian	кто	ktɔ	B	
+55	Polish	kto	ktɔ	B	
+16	Belarusian	хто	xtɔ	B	
+73	Ukrainian	хто	xtɔ	B	
+66	Slovak	kto	ktɔ	B	
+18	Czech	kdo	gdɔ	B	
+48	Sorbian Upper	štó	ʃtu	B	
+47	Sorbian Lower	chto	xtɔ	B	
+97	Slovenian	kdo	ɡdǒː, ɡdôː	B	
+108	Old Prussian	kas		B	
+44	Latvian	kas		B	
+46	Lithuanian	KAS		B	
+109	Old Norse	hverr	ɣverː	B	
+36	Icelandic	hver	xʷɛːr, kʰvɛːr	B	
+23	Faroese	hvør	kʰvøːɹ	B	
+58	Norwegian Riksmal	hvem	ʋɛmː	B	
+159	Stavangersk	kemm	kɛm(ː)	B	
+157	Old Swedish	hvarr	hvarː	B	
+69	Swedish	vem	vɛmː	B	
+71	Swedish Vilhelmina	VAM, HOKAN		B	
+70	Swedish Uppland	VEM, HOCKEN		B	
+145	Elfdalian	ukin	ˈʉ̀kɪn	A	
+20	Danish	hvem	vɛmˀ	B	
+158	Danish Fjolde	væn	væn	B	
+161	Gutnish Lau	vaim	vaɪm	B	
+99	Old English	hwā		B	
+22	English	who	hu:	B	
+26	Frisian	HWA, HWA'T		B	
+21	Dutch	wie	wi	B	
+24	Flemish	WIE		B	
+83	Afrikaans	WIE		B	
+87	Sranan	HOESOEMA		B	
+126	Old High German	wer		B	
+27	German	wer	ve:ɐ̯	B	
+86	Pennsylvania Dutch	WAIIR		B	
+120	Luxembourgish	wien		B	
+121	German Switzerland	wär		B	
+107	Gothic	ƕuas		B	
+130	Oscan	pís		B	
+132	Umbrian	pisi		B	
+112	Latin	quī	kʷiː	B	
+17	Catalan	qui	ki	B	
+56	Portuguese	quem	kɐ̃ĩ	B	
+68	Spanish	quien	kjen	B	
+61	Sardinian Cagliari	KINI		B	
+62	Sardinian Logudoro	CHINI		B	
+63	Sardinian Nuoro	KIE		B	
+85	French Creole Dominica	KIMUN		B	
+76	Walloon	KI, QUI		B	
+25	French	qui	ki	B	
+57	Provencal	QUE, QUAU, QU'		B	
+42	Ladin	CHI		B	
+146	Dolomite Ladino	chi		B	
+123	Romansh	tgi		B	
+122	Friulian	cui		B	
+39	Italian	chi	ki	B	
+59	Romanian	cine		B	
+74	Vlach	KARE		B	
+140	Gaulish	po[s?]		B	
+127	Old Irish	cía	kʹi:ə	B	
+101	Middle Cornish	piw	piˑʊ	B	
+148	Old Breton	piv		B	
+172	Middle Breton	piu, pyu, piou	ˈpiuː, ˈpiw	B	
+12	Breton	piv		B	
+150	Old Welsh	pui		B	
+79	Welsh	pwy		B	
+38	Irish	cé	ceː	B	
+115	Scottish Gaelic	cò	koː	B	
+147	Manx	quoi		B	
+5	[Legacy] Albanian T	kush		B	
+29	[Legacy] Greek K	POIOS		B	
+28	[Legacy] Greek D	POIOS		B	
+30	[Legacy] Greek Md	POIOS		B	
+64	[Legacy] Serbocroatian	TKO		B	
+113	[Legacy] Serbian	ko	kô	B	
+89	[Legacy] Bulgarian P	KOJ		B	
+49	[Legacy] Macedonian	koj	kɔj	B	
+94	[Legacy] Russian P	KTO		B	
+93	[Legacy] Polish P	KTO		B	
+90	[Legacy] Byelorussian P	CHTO		B	
+98	[Legacy] Ukrainian P	CHTO		B	
+19	[Legacy] Czech E	GDO		B	
+96	[Legacy] Slovak P	KTO		B	
+91	[Legacy] Czech P	KDO		B	
+67	[Legacy] Slovenian	KEDU		B	
+45	[Legacy] Lithuanian O	KAS		B	
+11	[Legacy] Brazilian	quem	kẽ̃ĩ	B	
+142	[Legacy] German Munich	wer		B	
+84	[Legacy] French Creole C	KI MUN		B	
+14	[Legacy] Breton St	piou		B	
+13	[Legacy] Breton Se	PIU		B	
+78	[Legacy] Welsh C	PWY		B	
+37	[Legacy] Irish A	CIA		B	

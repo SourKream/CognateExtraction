@@ -1,0 +1,182 @@
+114	Proto-Indo-European	*h₂enǵʰ-		B	
+80	Hittite	hatkus			
+88	Albanian	NGUSHT		(B)	
+143	Standard Albanian	i, e ngushtë		(B)	
+2	Albanian Sicily	I-NGUST		(B)	
+4	Albanian Corinth	I NGUSTE		(B)	
+3	Albanian Gheg	NGUSHT		(B)	
+6	Albanian Tosk	NGUSTE		(B)	
+110	Ancient Greek	στενός	stenós	F	
+32	Greek	στενός	ste̞ˈno̞s	F	
+31	Greek Lesbos	STENOS		F	
+129	Classical Armenian	neł	XXX	M	
+129	Classical Armenian	anjowk		(B)	
+8	Armenian Eastern	neł		M	
+8	Armenian Eastern	anjuk		(B)	
+75	Wakhi	TUNG		A	
+75	Wakhi	BIRIK		N	
+9	Baluchi	TANKH		A	
+137	Zazaki	teng		A	
+72	Tajik	BORIK, KAMBAR		N	
+72	Tajik	TANG		A	
+54	Persian	BARIK		N	
+77	Waziri	TANG		A	
+1	Pashto	TANG		A	
+138	Shughni	tāng		A	
+138	Shughni	birik, bōrik		N	
+139	Sarikoli	barik		N	
+139	Sarikoli	tong; tang		A	
+52	Ossetic	uyngaeg	wɨnɡæɡ	P	
+124	Ossetic Iron	narɐg	narɐg	P	
+125	Ossetic Digor	narɐg	narɐg	P	
+105	Vedic Sanskrit	aṃhús		B	
+41	Khaskura	SANGURO		D	
+51	Nepali	SAGURO		D	
+106	Assamese	thɛk	thɛk	A	
+102	Oriya	ɔṇɔsaria	ɔɳɔsaria	D	
+10	Bengali	SORU		D	
+111	Bihari	səŋkirə	səŋkirə	D	
+144	Magahi	पातर, पतरा	pɑtər, pɑtərɑ	Q	
+144	Magahi	सकिस्त	səkist̪	D	
+104	Marwari	gaḷī		C	
+104	Marwari	khapacyō		R	
+35	Hindi	TENG		(A)	
+35	Hindi	SEKRA		D	
+119	Urdu	تنگ	t̪əŋ	(A)	
+43	Lahnda	TEG		(A)	
+53	Punjabi	PIRA		Q	
+53	Punjabi	TENG		(A)	
+33	Gujarati	SAKRU		D	
+50	Marathi	arū̃nda	əɾũndə	S	
+40	Kashmiri	TANG		(A)	
+65	Sinhalese	PATU		Q	
+34	Romani Greece	TANK		(A)	
+100	Old Church Slavonic	ѫзъкъ	ɔ̃zʊ̆kʊ̆	B	
+100	Old Church Slavonic	тѣснъ	tæsnʊ̆	I	
+95	Serbo-Croatian	uzak	ˈûzak	B	
+15	Bulgarian	тесен	ˈtɛsɘn	I	
+92	Macedonian	тесен	ˈtesɛn	I	
+60	Russian	узкий	'uzkɨj	B	
+55	Polish	wąski	ˈvɔɰ̃skʲi	B	
+16	Belarusian	вузкі	ˈvuzkʲi	B	
+73	Ukrainian	вузький	ˈʋuzʲkɪj	B	
+66	Slovak	úzky	ˈuːzki	B	
+18	Czech	úzký	ˈuːzkiː	B	
+48	Sorbian Upper	wuski	ˈwuski	B	
+47	Sorbian Lower	wuski	ˈhuski	B	
+97	Slovenian	ozek	ˈǒːzək	B	
+44	Latvian	šàurs		K	
+46	Lithuanian	ANKSTAS		B	
+46	Lithuanian	SIAURAS		K	
+109	Old Norse	þrǫngr	θrɔnɣr	O	
+109	Old Norse	mjór	mjoːr	(H)	
+36	Icelandic	mjór	mjouːr	H	
+36	Icelandic	þröngur	ˈθrøyŋɡ̊ʏr	O	
+23	Faroese	mjáur	ˈmjɔaːvʊɹ	H	
+23	Faroese	smalur	ˈsmɛaːlʊɹ	(E)	
+23	Faroese	trongur	ˈtʰɹɔŋɡ̊ʊɹ	O	
+58	Norwegian Riksmal	trang	tɾaŋː	O	
+58	Norwegian Riksmal	smal	smaːl	(E)	
+58	Norwegian Riksmal	snever	ˈsnèʋəɾ	(T)	
+159	Stavangersk	tranɡe	ˈtʁaŋːə	O	
+159	Stavangersk	smale	ˈsmɑːlə	(E)	
+157	Old Swedish	snäver	ˈsnæːver	T	
+157	Old Swedish	thranger	ˈθraŋːer	O	
+157	Old Swedish	smal	smaːl	(E)	
+157	Old Swedish	mior	mjoːr	H	
+157	Old Swedish	snäver	ˈsnæːver	T	
+69	Swedish	trång	trɔŋ	O	
+69	Swedish	smal	smɑ:l	(E)	
+71	Swedish Vilhelmina	SMAL		E	
+71	Swedish Vilhelmina	TRANG  TRONG		O	
+70	Swedish Uppland	SMAL		E	
+70	Swedish Uppland	TRANG		O	
+145	Elfdalian	mjǫ		H	
+145	Elfdalian	traungg	trɑʉŋg	O	
+145	Elfdalian	smal		(E)	
+20	Danish	trang	ˈd̥ʰʁɑŋˀ	O	
+20	Danish	snæver	ˈsnɛwˀʌ	T	
+20	Danish	smal	smalˀ	(E)	
+158	Danish Fjolde	smal	smal	(E)	
+158	Danish Fjolde	sneevər	ˈsneːwəɹ	T	
+161	Gutnish Lau	smaldar	ˈsmaldar	(E)	
+161	Gutnish Lau	tranggar	ˈtraŋɡar	O	
+99	Old English	enge		B	
+99	Old English	nearu		M	
+22	English	narrow	'nærəʊ	M	
+26	Frisian	nau	nɔ.u	L	
+21	Dutch	smal		E	
+21	Dutch	eng	ɛŋ	B	
+21	Dutch	nauw	nɑu	L	
+24	Flemish	NAAUW		L	
+83	Afrikaans	ENG		B	
+83	Afrikaans	NOU		L	
+87	Sranan	SMALA, PIKIN		E	
+126	Old High German	smal		E	
+126	Old High German	engi		B	
+27	German	eng	ɛŋ	B	
+86	Pennsylvania Dutch	ENG		B	
+120	Luxembourgish	schmuel		E	
+121	German Switzerland	schmaau		E	
+107	Gothic	aggwus		B	
+107	Gothic	þraíhans		O	
+112	Latin	angustus	aŋˈgustus	B	
+17	Catalan	estret	ə'stɾɛt	J	
+56	Portuguese	estreito	ɨʃˈtɾɐitu	J	
+56	Portuguese	APERTADO		B	
+68	Spanish	ANGOSTO		B	
+68	Spanish	estrecho	es'tɾeʧo	J	
+61	Sardinian Cagliari	STRINTU		J	
+62	Sardinian Logudoro	ISTRINTU		J	
+63	Sardinian Nuoro	ASTRINTU		J	
+85	French Creole Dominica	ETWET		J	
+76	Walloon	STREUT		J	
+25	French	étroit	etʀwa	J	
+57	Provencal	ECHO		B	
+57	Provencal	ESTRE		J	
+42	Ladin	STRET		J	
+146	Dolomite Ladino	strent		J	
+123	Romansh	stretg		J	
+122	Friulian	stret		J	
+39	Italian	stretto	'stretto	J	
+59	Romanian	INGUST		B	
+59	Romanian	STRIMT		J	
+74	Vlach	STRIMTU		J	
+127	Old Irish	cóel	koil	(G)	
+127	Old Irish	cumung	kuṽung	B	
+101	Middle Cornish	kul	ky:l	G	
+101	Middle Cornish	ynn	ɪn:	B	
+172	Middle Breton	striz, stryz	ˈstriːθ	(J)	
+172	Middle Breton	hencq, enc, encq	ˈeŋk	B	
+12	Breton	moan		(H)	
+12	Breton	enk	eŋ-k	B	
+12	Breton	strizh	striːs	(J)	
+79	Welsh	cyfyng		B	
+79	Welsh	cul		(G)	
+38	Irish	cúng		B	
+115	Scottish Gaelic	cumhang		B	
+5	[Legacy] Albanian T	i ngushtë		(B)	
+29	[Legacy] Greek K	STENOS		F	
+28	[Legacy] Greek D	STENOS		F	
+30	[Legacy] Greek Md	STENOS		F	
+64	[Legacy] Serbocroatian	UZAK		B	
+113	[Legacy] Serbian	uzak	ûzak	B	
+89	[Legacy] Bulgarian P	TESEN		I	
+49	[Legacy] Macedonian	TESEN		I	
+94	[Legacy] Russian P	UZKIJ		B	
+93	[Legacy] Polish P	WASKI		B	
+90	[Legacy] Byelorussian P	VUZKI		B	
+98	[Legacy] Ukrainian P	VUZ KYJ		B	
+19	[Legacy] Czech E	USKO		B	
+96	[Legacy] Slovak P	UZKY		B	
+91	[Legacy] Czech P	UZKY		B	
+67	[Legacy] Slovenian	VASKO		B	
+67	[Legacy] Slovenian	TESEN		I	
+45	[Legacy] Lithuanian O	SIAURAS		K	
+11	[Legacy] Brazilian	estreito	isˈtɾeitu	J	
+142	[Legacy] German Munich	eng		B	
+84	[Legacy] French Creole C	ETHWET		J	
+14	[Legacy] Breton St	strizh	stri:s	(J)	
+13	[Legacy] Breton Se	STREH		(J)	
+78	[Legacy] Welsh C	CUL		G	
+37	[Legacy] Irish A	CAOL		G	

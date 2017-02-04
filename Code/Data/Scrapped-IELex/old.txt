@@ -1,0 +1,178 @@
+114	Proto-Indo-European	*senh₁ó-		D	
+80	Hittite	miyahwanz			
+81	Tocharian A	ktsets		L	
+82	Tocharian B	ktsaitstse		L	
+88	Albanian	VJETER		G	
+143	Standard Albanian	i, e vjetër		(G)	
+2	Albanian Sicily	I-VJETR		(G)	
+4	Albanian Corinth	I-VJETERE		(G)	
+3	Albanian Gheg	VJETER		(G)	
+6	Albanian Tosk	VJETER		(G)	
+110	Ancient Greek	παλαιός	palai̯ós	K	
+32	Greek	παλιός	paˈʎo̞s	K	
+32	Greek	γέρος		(C)	
+31	Greek Lesbos	PALEOS		K	
+129	Classical Armenian	ծեր	cer	C	
+129	Classical Armenian	հին	hin	(D)	
+8	Armenian Eastern	ծեր	t͡sɛɾ	C	
+8	Armenian Eastern	հին	hin	D	
+7	Armenian Western	հին	hin	D	
+128	Avestan	hanō		D	
+136	Sogdian	’wcny			
+75	Wakhi	XAEIYAR			
+75	Wakhi	KONA			
+9	Baluchi	PHIR		F	
+137	Zazaki	pīl		F	
+137	Zazaki	īxtiyār		(N)	
+72	Tajik	KUXANSOL			
+72	Tajik	PIR		F	
+54	Persian	PIR		F	
+77	Waziri	ZOR		C	
+1	Pashto	ZOR		C	
+138	Shughni	pīr		F	
+138	Shughni	kīnā			
+139	Sarikoli	pir		F	
+52	Ossetic	zaerond	zærond	C	
+124	Ossetic Iron	žɐrond	žɐrond	C	
+125	Ossetic Digor	zɐrond	zɐrond	C	
+141	Kata-viri	sʸuma		D	
+105	Vedic Sanskrit	sánas		D	
+162	Pāḷī	vuḍḍha		F	
+41	Khaskura	BURO		F	
+51	Nepali	BURO		F	
+106	Assamese	purɒna	purɒna	A	
+102	Oriya	buṛha	buɽha	F	
+102	Oriya	puruṇa	puruɳa	A	
+10	Bengali	BURO (ANIMATE)		F	
+10	Bengali	PURONO (INANIMATE)		A	
+111	Bihari	puran	puran	A	
+144	Magahi	बूढा	buɽʰɑ		
+104	Marwari	buɖa-po		F	
+35	Hindi	purana	pʊrana	A	
+35	Hindi	BURHA (ANIMATE)		F	
+119	Urdu	پُرانا،	pʊɾɑnɑ	A	
+119	Urdu	بُوڑھا	buɽʰɑ	F	
+103	Sindhi	buḍhō		F	
+43	Lahnda	BUDDHA		F	
+53	Punjabi	PERANA		A	
+33	Gujarati	GHERERU		C	
+33	Gujarati	BUDDHU		F	
+33	Gujarati	JUNU		C	
+50	Marathi	dzunā (inanimate)	dzu'na	C	
+50	Marathi	mhātārā (animate)	'mɦataɾa		
+40	Kashmiri	BUDA		F	
+65	Sinhalese	NAKI			
+34	Romani Greece	PHURO		E	
+100	Old Church Slavonic	старъ	stɑrʊ̆	I	
+95	Serbo-Croatian	star	stâr	I	
+15	Bulgarian	стар	star	I	
+92	Macedonian	стар	star	I	
+60	Russian	старый	'starɨj	I	
+55	Polish	stary	ˈstarɘ̟	I	
+16	Belarusian	стары	staˈrɨ	I	
+73	Ukrainian	старий	staˈrɪj	I	
+66	Slovak	starý	ˈstariː	I	
+18	Czech	starý	ˈstariː	I	
+48	Sorbian Upper	stary	ˈstaʀɘ̟	I	
+47	Sorbian Lower	stary	ˈstarɘ̟	I	
+97	Slovenian	star	star	I	
+108	Old Prussian	urs			
+44	Latvian	vęcs		G	
+46	Lithuanian	senas	ˈsʲæ:nɐs	D	
+109	Old Norse	forn	forn	(A)	
+109	Old Norse	gamall	ˈɡamalː	J	
+36	Icelandic	gamall	ˈɡ̊aːmad̥l	J	
+36	Icelandic	forn	fɔrd̥n	(A)	
+23	Faroese	fornur	ˈfɔd̥nʊɹ	A	
+23	Faroese	gamal	ˈɡ̊ɛaːmal	J	
+58	Norwegian Riksmal	forn	fuːɳ	(A)	
+58	Norwegian Riksmal	gammel	ˈɡàmːəl	J	
+159	Stavangersk	gammale	ˈɡàmːalə	J	
+157	Old Swedish	gamal	ɡaːmal	J	
+157	Old Swedish	forn	foːrn	A	
+69	Swedish	gammal	ˈgàmːal	J	
+71	Swedish Vilhelmina	GAMAL		J	
+70	Swedish Uppland	GAMMAL		J	
+145	Elfdalian	gåmål	ˈgɔ̀mɔl	J	
+20	Danish	forne	ˈfɒːnə	(A)	
+20	Danish	gammel	ˈg̥ɑməl	J	
+158	Danish Fjolde	gaməl	ˈɡɑməl	J	
+160	Old Gutnish	forn		A	
+160	Old Gutnish	gamal		J	
+161	Gutnish Lau	fåurnar	ˈfournar	(A)	
+161	Gutnish Lau	gammäl	ˈɡamːɛl	J	
+99	Old English	eald		B	
+22	English	old	əʊld	B	
+26	Frisian	âld	ɔːᵘt	B	
+21	Dutch	oud	ɑut	B	
+24	Flemish	OUD		B	
+83	Afrikaans	OUD, OU		B	
+87	Sranan	OUROE		B	
+126	Old High German	alt		B	
+126	Old High German	firni		A	
+27	German	alt	alt	B	
+86	Pennsylvania Dutch	ALT		B	
+120	Luxembourgish	al		B	
+121	German Switzerland	aut		B	
+107	Gothic	faírneis		A	
+112	Latin	uetus	ˈwetus	G	
+17	Catalan	JAYO			
+17	Catalan	vell	bɛʎ	G	
+17	Catalan	ancià	ənsi'a		
+56	Portuguese	velho	ˈvɛʎu	G	
+68	Spanish	viejo	'bjexo	G	
+61	Sardinian Cagliari	BECCU		G	
+62	Sardinian Logudoro	BEZZU		G	
+63	Sardinian Nuoro	VETHTHU		G	
+85	French Creole Dominica	VYE		G	
+76	Walloon	VI		G	
+25	French	vieux	vjø	G	
+57	Provencal	VIEI, VIEIO		G	
+42	Ladin	VEGL		G	
+146	Dolomite Ladino	vege		G	
+123	Romansh	vegl		G	
+122	Friulian	vieli, vieri, vecjo		G	
+39	Italian	vecchio	'vekkjo	G	
+59	Romanian	BATRIN		G	
+59	Romanian	vechi		G	
+74	Vlach	VYEKLU		G	
+140	Gaulish	senos		D	
+127	Old Irish	sen	sʹen	D	
+101	Middle Cornish	hen		D	
+101	Middle Cornish	koth	kɔ:θ	H	
+172	Middle Breton	coz	ˈkoːθ	H	
+12	Breton	HIR-HOALET			
+12	Breton	kozh	ˈkoːs	H	
+79	Welsh	hen		D	
+38	Irish	ársaigh		(M)	
+38	Irish	sean	ʃan	D	
+38	Irish	DIBHEALL			
+38	Irish	aosta		(M)	
+115	Scottish Gaelic	sean	ʃɛn	D	
+5	[Legacy] Albanian T	plak		K	
+5	[Legacy] Albanian T	I, E YETER		(G)	
+29	[Legacy] Greek K	PALAIOS		K	
+28	[Legacy] Greek D	PALEOS		K	
+30	[Legacy] Greek Md	GEROS		C	
+64	[Legacy] Serbocroatian	STAR		I	
+113	[Legacy] Serbian	star	stâr	I	
+89	[Legacy] Bulgarian P	STAR		I	
+49	[Legacy] Macedonian	VETOV		G	
+49	[Legacy] Macedonian	STAR		I	
+94	[Legacy] Russian P	STARYJ		I	
+93	[Legacy] Polish P	STARY		I	
+90	[Legacy] Byelorussian P	STARY		I	
+98	[Legacy] Ukrainian P	STARYJ		I	
+19	[Legacy] Czech E	STARE		I	
+96	[Legacy] Slovak P	STARY		I	
+91	[Legacy] Czech P	STARY		I	
+67	[Legacy] Slovenian	STAR, STARA, STARII		I	
+45	[Legacy] Lithuanian O	SENAS		D	
+11	[Legacy] Brazilian	VELHO		G	
+142	[Legacy] German Munich	alt		B	
+84	[Legacy] French Creole C	VYE		G	
+14	[Legacy] Breton St	kozh	koːs	H	
+13	[Legacy] Breton Se	KOH		H	
+78	[Legacy] Welsh C	HEN		D	
+37	[Legacy] Irish A	AOSTA		M	
+37	[Legacy] Irish A	SEAN		D	

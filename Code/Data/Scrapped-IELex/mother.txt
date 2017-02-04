@@ -1,0 +1,169 @@
+114	Proto-Indo-European	*máh₂ter-		A	
+80	Hittite	annas		C	
+133	Luvian	ānnis		C	
+134	Lycian	ẽni		C	
+135	Palaic	anna-		C	
+81	Tocharian A	mācar		A	
+82	Tocharian B	mācer		A	
+88	Albanian	motër		A	
+88	Albanian	AMA		G	
+88	Albanian	NANA		B	
+88	Albanian	MOMA		E	
+143	Standard Albanian	nënë		B	
+2	Albanian Sicily	MEM		E	
+4	Albanian Corinth	MEME		E	
+3	Albanian Gheg	AMA		G	
+3	Albanian Gheg	NANA		B	
+3	Albanian Gheg	MOMA		E	
+6	Albanian Tosk	NENE		B	
+173	Mycenaean Greek	ma-te	maːté̞r	A	
+110	Ancient Greek	μήτηρ	mɛ́ːtɛːr	A	
+32	Greek	μητέρα	miˈte̞ra	A	
+31	Greek Lesbos	METERA		A	
+129	Classical Armenian	մայր	mayr	A	
+8	Armenian Eastern	mayr	maɪ̯ɾ	A	
+7	Armenian Western	MIRE		A	
+128	Avestan	māta		A	
+131	Old Persian	*mātā		A	
+136	Sogdian	m’t		A	
+75	Wakhi	NUN		B	
+9	Baluchi	MATH		A	
+137	Zazaki	dāδ		I	
+137	Zazaki	mā(y)		A	
+72	Tajik	modar	mɔːdær	A	
+54	Persian	madar	mɒːdær	A	
+77	Waziri	MOR, MER		A	
+1	Pashto	MOR		A	
+138	Shughni	nān		B	
+139	Sarikoli	most		A	
+52	Ossetic	mad	mad	A	
+124	Ossetic Iron	mad	mad	A	
+125	Ossetic Digor	madɐ	madɐ	A	
+141	Kata-viri	nũ		B	
+105	Vedic Sanskrit	mā́tā		A	
+162	Pāḷī	mātar		A	
+41	Khaskura	AMA		G	
+51	Nepali	AMA		G	
+106	Assamese	āi		F	
+106	Assamese	mālōk		A	
+102	Oriya	maa	maa	A	
+102	Oriya	bou	bou	H	
+10	Bengali	MA		A	
+111	Bihari	mātā		A	
+111	Bihari	māe		A	
+144	Magahi	माय	mɑj	A	
+104	Marwari	mā		A	
+35	Hindi	MA		A	
+119	Urdu	ماں	mɑ̃	A	
+103	Sindhi	māv		A	
+43	Lahnda	MA		A	
+53	Punjabi	MA		A	
+33	Gujarati	MA		A	
+33	Gujarati	BA		H	
+33	Gujarati	MATA		A	
+50	Marathi	āī	ai:	F	
+40	Kashmiri	MOJU		A	
+65	Sinhalese	MAVA		A	
+65	Sinhalese	amma	amma	G	
+34	Romani Greece	DALE			
+100	Old Church Slavonic	мати	mɑti	A	
+95	Serbo-Croatian	majka	ˈmâːjka	A	
+15	Bulgarian	майка	ˈmajkə	A	
+92	Macedonian	мајка	ˈmajka	A	
+60	Russian	мать	matʲ	A	
+55	Polish	matka	ˈmatka	A	
+16	Belarusian	маці	ˈmatsʲi	A	
+73	Ukrainian	maty	ˈmatɪ	A	
+66	Slovak	matka	ˈmatka	A	
+18	Czech	matka	ˈmatka	A	
+48	Sorbian Upper	mać	matʃ	A	
+47	Sorbian Lower	maś	maɕ	A	
+97	Slovenian	mati	ˈmǎːti	A	
+108	Old Prussian	mūti		A	
+44	Latvian	mãte		A	
+46	Lithuanian	MOTINA		A	
+109	Old Norse	móðir	ˈmoːðir	A	
+36	Icelandic	móðir	ˈmouːðɪr	A	
+23	Faroese	móðir	ˈmɔuːwɪɹ	A	
+58	Norwegian Riksmal	mor	muːɾ	A	
+159	Stavangersk	mor	muːʁ	A	
+157	Old Swedish	modhir	ˈmoːðir	A	
+69	Swedish	mor	muːr	A	
+69	Swedish	moder	ˈmù:dər, muːr	A	
+71	Swedish Vilhelmina	mor	muːr	A	
+70	Swedish Uppland	mor, moder		A	
+145	Elfdalian	muna; mųor	ˈmʉ̀ːnɑ; mʉ̃ə̃r	A	
+20	Danish	moder	moɐ̯	A	
+158	Danish Fjolde	muor	muoɹ	A	
+160	Old Gutnish	moþir		A	
+161	Gutnish Lau	måur	mour	A	
+99	Old English	mōdor		A	
+22	English	mother	'mʌðə	A	
+26	Frisian	mem	mɛm	E	
+21	Dutch	moeder	'mudər	A	
+24	Flemish	MAMA		E	
+24	Flemish	MOEDER		A	
+83	Afrikaans	MOEDER, MA		A	
+87	Sranan	MAMA		E	
+126	Old High German	muoter		A	
+27	German	Mutter	'mʊtɐ	A	
+86	Pennsylvania Dutch	MUUTER		A	
+86	Pennsylvania Dutch	MEM, MOM, MOMMI		E	
+120	Luxembourgish	Mamm		E	
+121	German Switzerland	mueter		A	
+107	Gothic	aiþei			
+130	Oscan	maatreís		A	
+132	Umbrian	matrer		A	
+112	Latin	māter	ˈmaːter	A	
+17	Catalan	mare	'maɾə	A	
+56	Portuguese	mãe	mɐ̃i	A	
+68	Spanish	madre	'maðɾe	A	
+61	Sardinian Cagliari	MAMMA		E	
+62	Sardinian Logudoro	MAMMA		E	
+63	Sardinian Nuoro	MAMA		E	
+85	French Creole Dominica	MAMA		E	
+76	Walloon	MERE		A	
+25	French	mère	mɛʀ	A	
+57	Provencal	maire	ˈmajɾe	A	
+42	Ladin	MAMA		E	
+146	Dolomite Ladino	mare		A	
+123	Romansh	mamma		E	
+122	Friulian	mari		A	
+39	Italian	madre	'madre	A	
+59	Romanian	mamă		E	
+74	Vlach	MAIKA		(A)	
+140	Gaulish	matir		A	
+127	Old Irish	máthair	ma:θərʹ	A	
+101	Middle Cornish	mamm	mam:	E	
+172	Middle Breton	mam, mamm	ˈmamː	E	
+12	Breton	mamm	ˈmamː, mɑ̃mː	E	
+79	Welsh	mam	mam	E	
+38	Irish	máthair		A	
+115	Scottish Gaelic	màthair	mãːhɪɾʲ	A	
+5	[Legacy] Albanian T	nënë		B	
+29	[Legacy] Greek K	METER		A	
+28	[Legacy] Greek D	METERA		A	
+28	[Legacy] Greek D	MAMA		E	
+28	[Legacy] Greek D	MANA			
+30	[Legacy] Greek Md	METERA		A	
+64	[Legacy] Serbocroatian	MAJKA		D	
+113	[Legacy] Serbian	majka	mâːjka	D	
+89	[Legacy] Bulgarian P	MAJKA		D	
+49	[Legacy] Macedonian	MAJKA		D	
+94	[Legacy] Russian P	MAT		A	
+93	[Legacy] Polish P	MATKA		A	
+90	[Legacy] Byelorussian P	MACI		A	
+98	[Legacy] Ukrainian P	MATY		A	
+19	[Legacy] Czech E	MAMA		A	
+19	[Legacy] Czech E	MATKA		A	
+96	[Legacy] Slovak P	MAT		A	
+91	[Legacy] Czech P	MATI		A	
+67	[Legacy] Slovenian	MATI		A	
+45	[Legacy] Lithuanian O	MOTINA		A	
+11	[Legacy] Brazilian	MAE		A	
+142	[Legacy] German Munich	Mutter		A	
+84	[Legacy] French Creole C	MAMA		E	
+14	[Legacy] Breton St	mamm	mãmː	E	
+13	[Legacy] Breton Se	MAMM		E	
+78	[Legacy] Welsh C	MAM		E	
+37	[Legacy] Irish A	MATHAIR		A	

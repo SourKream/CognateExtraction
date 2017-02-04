@@ -1,0 +1,161 @@
+114	Proto-Indo-European	*peh₃(i̯)-		C	
+114	Proto-Indo-European	*h₁egʷʰ-		H	
+80	Hittite	ekuzi, eukzi		H	
+133	Luvian	ūtti		H	
+135	Palaic	ahu-		H	
+81	Tocharian A	yok-		H	
+82	Tocharian B	yok-		H	
+88	Albanian	pi		C	
+143	Standard Albanian	pi		C	
+2	Albanian Sicily	pi		C	
+4	Albanian Corinth	pii		C	
+3	Albanian Gheg	pi		C	
+6	Albanian Tosk	pi		C	
+110	Ancient Greek	πῑ́νω	píːnɔː	C	
+152	Tsakonian	πινου, κινου		C	
+32	Greek	πίνω	ˈpino̞	C	
+31	Greek Lesbos	PINO		C	
+129	Classical Armenian	ըմպեմ	əmp-ɛ-m	C	
+8	Armenian Eastern	ըմպել	əmpem	(C)	
+8	Armenian Eastern	խմել	χəˈmɛl	D	
+7	Armenian Western	խմել	χəˈmɛl	D	
+128	Avestan	xvaraiti		J	
+136	Sogdian	cš’nt		A	
+75	Wakhi	PEV-, PU(W)-		C	
+9	Baluchi	WARAGH, WARTHA		J	
+118	Kurdish	vexwarin		J	
+137	Zazaki	šimitiš		K	
+72	Tajik	nūšidan	nɵʃidæn	G	
+54	Persian	NUSHIDAN		G	
+77	Waziri	TSHEL		A	
+1	Pashto	CSEL		A	
+138	Shughni	qīl čīdōw		L	
+139	Sarikoli	bыroz : bыrux̆t		M	
+52	Ossetic	nuazyn	nwazɨn	G	
+52	Ossetic	CYMYN		K	
+124	Ossetic Iron	nuwaz-	nuwaz-	G	
+125	Ossetic Digor	niwaz-	niwaz-	G	
+141	Kata-viri	pi-		C	
+154	Vasi-vari	wī-		C	
+153	Askunu	pi-		C	
+105	Vedic Sanskrit	píbati		C	
+162	Pāḷī	pivati/pibati		C	
+41	Khaskura	KHANU		E	
+51	Nepali	PANI KHANU		I	
+51	Nepali	PIUNU		C	
+106	Assamese	pi	pi	C	
+102	Oriya	pi-	pi-	C	
+10	Bengali	KHAOA		I	
+111	Bihari	pib	pib	C	
+144	Magahi	पीना	pinɑ	C	
+151	Bhojpuri	pí		C	
+104	Marwari	pīwaṇo		C	
+35	Hindi	pina	pinɑ	C	
+119	Urdu	پِینا	pinə	C	
+103	Sindhi	pi-anu		C	
+43	Lahnda	PIWEN		C	
+53	Punjabi	PINA		C	
+33	Gujarati	PIWU		C	
+50	Marathi	pine	'pi:ɳe	C	
+40	Kashmiri	CYONU		I	
+65	Sinhalese	BONAWA		C	
+34	Romani Greece	PEAV		C	
+100	Old Church Slavonic	пити	piti	C	
+95	Serbo-Croatian	piti	ˈpîti	C	
+15	Bulgarian	пия	ˈpijə	C	
+92	Macedonian	пие	ˈpi.ɛ	C	
+60	Russian	пить	pʲitʲ	C	
+55	Polish	pić	piʨ	C	
+16	Belarusian	піць	pʲitsʲ	C	
+73	Ukrainian	пити	ˈpɪtɪ	C	
+66	Slovak	piť	pic	C	
+18	Czech	pít	piːt	C	
+48	Sorbian Upper	pić	pitʃ	C	
+47	Sorbian Lower	piś	piɕ	C	
+97	Slovenian	piti	ˈpǐːti	C	
+108	Old Prussian	poūt		C	
+44	Latvian	dzer		F	
+46	Lithuanian	gerti	ˈɡʲæ:ɾʲtʲɪ	F	
+109	Old Norse	drekka	ˈdrekːa	B	
+36	Icelandic	drekka	ˈd̥rɛʰkːa	B	
+23	Faroese	drekka	ˈd̥rɛʰkːa	B	
+58	Norwegian Riksmal	drikke	ˈdɾɪ̀kːə	B	
+159	Stavangersk	drikka	ˈdʁɪ̀kːa	B	
+157	Old Swedish	drikka	ˈdrikːa	B	
+69	Swedish	dricka	ˈdrɪ̀kːa	B	
+71	Swedish Vilhelmina	DREK		B	
+70	Swedish Uppland	DRICKA		B	
+145	Elfdalian	drikka	ˈdrɪ̀kːɑ	B	
+20	Danish	drikke	'dʁɛg̥ʰə	B	
+158	Danish Fjolde	drenk	dɹæŋɡ	B	
+160	Old Gutnish	dricca		B	
+161	Gutnish Lau	drickä	ˈdrɪkːɛ	B	
+99	Old English	drincþ		B	
+22	English	to drink	drɪŋk	B	
+26	Frisian	ninne	'nɪnə		
+21	Dutch	drinken	'drɪŋkə(n)	B	
+24	Flemish	DRINKEN		B	
+83	Afrikaans	DRINK		B	
+87	Sranan	DRINGI		B	
+126	Old High German	trinkit		B	
+27	German	trinken	'trɪŋkn̩	B	
+86	Pennsylvania Dutch	NEMM EN DRINK		B	
+120	Luxembourgish	drénken		B	
+121	German Switzerland	trinke		B	
+107	Gothic	drigkiþ		B	
+130	Oscan	pibisus		C	
+112	Latin	bibere	ˈbibere	C	
+17	Catalan	beure	ˈbɛwɾə, ˈbewɾe	C	
+56	Portuguese	beber	bɨˈbeɾ	C	
+68	Spanish	beber	be'βeɾ	C	
+61	Sardinian Cagliari	BUFFAI		C	
+62	Sardinian Logudoro	BIERE		C	
+63	Sardinian Nuoro	BIERE		C	
+85	French Creole Dominica	BWE		C	
+76	Walloon	BEURE		C	
+25	French	boire	bwaʀ	C	
+57	Provencal	CHOURLA		C	
+57	Provencal	beure	ˈbewre	C	
+42	Ladin	BAIVER		C	
+146	Dolomite Ladino	beivèr		C	
+123	Romansh	süervar			
+123	Romansh	beiber		C	
+122	Friulian	bevi		C	
+39	Italian	bere	'bere	C	
+59	Romanian	a bea	a beː	C	
+74	Vlach	BEAU		C	
+140	Gaulish	ibetis		C	
+127	Old Irish	ibid	iβʹəðʹ	C	
+101	Middle Cornish	eva	'ɛva	C	
+148	Old Breton	euaff		C	
+172	Middle Breton	euaff, effaff	ˈeːvaṽ	C	
+12	Breton	evañ	ˈeːvã	C	
+150	Old Welsh	iben		C	
+79	Welsh	yfed	ˈəvɛd	C	
+38	Irish	ól	oːl̪ˠ	C	
+115	Scottish Gaelic	òl	ɔːɫ̪	C	
+147	Manx	iu		C	
+5	[Legacy] Albanian T	pi	pi	C	
+29	[Legacy] Greek K	PINO		C	
+28	[Legacy] Greek D	PINO		C	
+30	[Legacy] Greek Md	PINO		C	
+64	[Legacy] Serbocroatian	PITI		C	
+113	[Legacy] Serbian	piti	pîti	C	
+89	[Legacy] Bulgarian P	PIJA		C	
+49	[Legacy] Macedonian	pie	ˈpi.ɛ	C	
+94	[Legacy] Russian P	PIT		C	
+93	[Legacy] Polish P	PIC		C	
+90	[Legacy] Byelorussian P	PIC		C	
+98	[Legacy] Ukrainian P	PYTY		C	
+19	[Legacy] Czech E	PIT		C	
+96	[Legacy] Slovak P	PIT		C	
+91	[Legacy] Czech P	PITI		C	
+67	[Legacy] Slovenian	PIT		C	
+45	[Legacy] Lithuanian O	GERTI		F	
+11	[Legacy] Brazilian	BEBER		C	
+142	[Legacy] German Munich	trinken		B	
+84	[Legacy] French Creole C	BWE		C	
+14	[Legacy] Breton St	evañ	ˈevɑ	C	
+13	[Legacy] Breton Se	IVET		C	
+78	[Legacy] Welsh C	YFED		C	
+37	[Legacy] Irish A	OL		C	

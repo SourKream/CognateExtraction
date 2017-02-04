@@ -1,0 +1,152 @@
+114	Proto-Indo-European	*wr̥mi-		B	
+81	Tocharian A	walyi		H	
+82	Tocharian B	yel		H	
+88	Albanian	KRYMI		A	
+143	Standard Albanian	krimb		A	
+2	Albanian Sicily	KRIMP		A	
+4	Albanian Corinth	KRIMP		A	
+3	Albanian Gheg	KARREMA, KRYMI		A	
+6	Albanian Tosk	GELHISTER / KRIMP		A	
+110	Ancient Greek	εὐλή	eulɛ́ː	T	
+32	Greek	σκουλήκι	skuˈlici	D	
+31	Greek Lesbos	SKOULEKI		D	
+129	Classical Armenian	որդն	ord-n	C	
+8	Armenian Eastern	որդ	ord	C	
+8	Armenian Eastern	čiču	ʧiˈʧu		
+7	Armenian Western	որդ	vortʰ	C	
+136	Sogdian	kyc’kh		N	
+75	Wakhi	PERIC		O	
+9	Baluchi	KIRM		A	
+137	Zazaki	bir̄		A	
+72	Tajik	kirm	kirm	A	
+54	Persian	KERM		A	
+77	Waziri	CHENJAI		N	
+1	Pashto	KIRM		A	
+139	Sarikoli	čerm		A	
+139	Sarikoli	pil(l)o		O	
+124	Ossetic Iron	kalm	kalm	A	
+125	Ossetic Digor	zolk'ɐ	zolk'ɐ	P	
+105	Vedic Sanskrit	kŕ̥mis		A	
+162	Pāḷī	kimi		A	
+51	Nepali	KIRO		E	
+106	Assamese	pok	pok	J	
+102	Oriya	pokɔ	pokɔ	J	
+10	Bengali	POKA		J	
+111	Bihari	cali	cali	(R)	
+144	Magahi	कीडा	kiɽɑ	E	
+35	Hindi	kira	kiːɽaː	E	
+119	Urdu	چُوہا	ʧuhɑ	E	
+103	Sindhi	kiiRo		E	
+43	Lahnda	KIRA		E	
+53	Punjabi	KIRA		E	
+33	Gujarati	KIRO		E	
+50	Marathi	kidā	ki'ɖa	E	
+40	Kashmiri	KIRM, KYOMU		A	
+65	Sinhalese	PANUWA		Q	
+34	Romani Greece	KERMO		(A)	
+100	Old Church Slavonic	чрьвь	tʃr̩ʲvɪ̆	A	
+95	Serbo-Croatian	črv	tʃr̂ːv	A	
+15	Bulgarian	червей	ˈtʃɛrvɘj	A	
+92	Macedonian	црв	tsərv	A	
+60	Russian	червь	tʃɛrvʲ	A	
+55	Polish	robak	ˈrɔbak	I	
+16	Belarusian	чарвяк	tʂarvʲak	A	
+73	Ukrainian	черв’як	tʂɛrˈvjak	A	
+66	Slovak	červ	tʃɛrv	A	
+18	Czech	červ	tʃɛrv	A	
+48	Sorbian Upper	čerw	ˈtʃɛʀ	A	
+47	Sorbian Lower	cerw	tsɛr	A	
+97	Slovenian	črv	tʃə̂ːrw	A	
+108	Old Prussian	slayx		K	
+44	Latvian	tā̀̀rps		L	
+46	Lithuanian	KIRMELE		A	
+46	Lithuanian	SLIEKAS		K	
+109	Old Norse	ormr	ormr	B	
+109	Old Norse	maðkr	maðkr	F	
+36	Icelandic	ormur	ˈɔrmʏr	B	
+36	Icelandic	maðkur	ˈmaθkʰʏr	F	
+23	Faroese	maðkur	ˈmaʰkːʊɹ	F	
+23	Faroese	ormur	ˈɔɹmʊɹ	B	
+58	Norwegian Riksmal	mark	maɾk	F	
+58	Norwegian Riksmal	orm	uɾm	B	
+159	Stavangersk	makk	makː	F	
+159	Stavangersk	årm	ɔʁm	B	
+157	Old Swedish	madhker	ˈmaðker	F	
+69	Swedish	larv	larv	(F)	
+69	Swedish	mask	mask	F	
+71	Swedish Vilhelmina	MARK  MASK		F	
+70	Swedish Uppland	MASK		F	
+145	Elfdalian	makk	mɑkː	F	
+20	Danish	orm	oɐ̯ˀm	B	
+158	Danish Fjolde	uorm	uoɹm	B	
+161	Gutnish Lau	mack	makː	F	
+99	Old English	wyrm		B	
+22	English	worm	wɜ:m	B	
+26	Frisian	wjirm	vjɪrm	B	
+21	Dutch	worm	wɔrm	B	
+24	Flemish	WORM		B	
+83	Afrikaans	WURM		B	
+87	Sranan	WOROM, WORM		B	
+126	Old High German	wurm		B	
+27	German	Wurm	vʊrm	B	
+86	Pennsylvania Dutch	WAAREM		B	
+120	Luxembourgish	Wuerm		B	
+121	German Switzerland	wurm		B	
+107	Gothic	maþa		F	
+107	Gothic	waúrms		B	
+112	Latin	uermis	ˈwermis	B	
+17	Catalan	cuc	kuk		
+56	Portuguese	GUSANO		G	
+56	Portuguese	BICHO		M	
+56	Portuguese	verme	ˈvɛɾmɨ	B	
+68	Spanish	gusano	gu'sano	G	
+61	Sardinian Cagliari	BREMI		B	
+62	Sardinian Logudoro	BERME		B	
+63	Sardinian Nuoro	MERME		B	
+85	French Creole Dominica	VE		B	
+76	Walloon	VIER		B	
+25	French	ver	vɛʀ	B	
+57	Provencal	VERME, TORO, CANIHO		B	
+42	Ladin	VERM, VIERM		B	
+146	Dolomite Ladino	verm		B	
+122	Friulian	vier		B	
+39	Italian	verme	'vɛrme	B	
+59	Romanian	vierme		B	
+74	Vlach	IERMU		B	
+127	Old Irish	cruim	kruṽʹ	A	
+101	Middle Cornish	pryv	prɪ:v	A	
+101	Middle Cornish	kenak			
+172	Middle Breton	preff, pref, preu	ˈpreːṽ	A	
+12	Breton	preñv	prɛ̃v, prẽw	A	
+79	Welsh	abwydyn			
+79	Welsh	pryf		(A)	
+38	Irish	péist	pʲeːʃtʲ	(S)	
+38	Irish	cruimh		(A)	
+115	Scottish Gaelic	cnuimh		(A)	
+115	Scottish Gaelic	boiteag			
+5	[Legacy] Albanian T	KRIMB		A	
+29	[Legacy] Greek K	SKOLEKS		D	
+28	[Legacy] Greek D	SKOULEKI		D	
+30	[Legacy] Greek Md	SKOULEKI		D	
+64	[Legacy] Serbocroatian	CRV		A	
+113	[Legacy] Serbian	glista	ɡlǐːsta		
+113	[Legacy] Serbian	crv		A	
+89	[Legacy] Bulgarian P	CERVEJ		A	
+49	[Legacy] Macedonian	CRV		A	
+94	[Legacy] Russian P	CERV		A	
+93	[Legacy] Polish P	CZERW		A	
+90	[Legacy] Byelorussian P	CARV AK		A	
+98	[Legacy] Ukrainian P	CERV AK		A	
+19	[Legacy] Czech E	CERF		A	
+96	[Legacy] Slovak P	CERV		A	
+91	[Legacy] Czech P	CERV		A	
+67	[Legacy] Slovenian	GLISTA			
+45	[Legacy] Lithuanian O	KIRMELE		A	
+11	[Legacy] Brazilian	verme	ˈvɛʁmi	B	
+11	[Legacy] Brazilian	BICHO		M	
+142	[Legacy] German Munich	Wurm		B	
+84	[Legacy] French Creole C	VE TE		B	
+14	[Legacy] Breton St	preñv	prẽw	A	
+13	[Legacy] Breton Se	PREAN		A	
+78	[Legacy] Welsh C	MWYDYN			
+37	[Legacy] Irish A	PEIST			

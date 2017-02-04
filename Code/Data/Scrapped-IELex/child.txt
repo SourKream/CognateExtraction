@@ -1,0 +1,191 @@
+80	Hittite	hāssas			
+133	Luvian	nimuwizas			
+134	Lycian	tideimi			
+81	Tocharian A	śom		Q	
+82	Tocharian B	śamaśke		Q	
+88	Albanian	fëmijë		(B)	
+143	Standard Albanian	fëmijë		(B)	
+2	Albanian Sicily	fëmijë		(B)	
+4	Albanian Corinth	DJALE			
+3	Albanian Gheg	femija		(B)	
+6	Albanian Tosk	foshnjë		(C)	
+110	Ancient Greek	παῖς	páɪ̀s	M	
+32	Greek	παιδί	pe̞ˈði	M	
+31	Greek Lesbos	PAIDI		M	
+129	Classical Armenian	մանուկ	manowk	(D)	
+129	Classical Armenian	տղայ	t(ə)łɑɪ̯	(Be)	
+8	Armenian Eastern	մանուկ	manuk	(D)	
+8	Armenian Eastern	երեխա	jɛɾɛˈχɑ		
+7	Armenian Western	երախայ	jɛrɑχɑ		
+7	Armenian Western	MANOOG		(D)	
+128	Avestan	apərənāiiukō		Aa	
+136	Sogdian	kwr		Ac	
+136	Sogdian	’’jwn		Ab	
+136	Sogdian	βs’nt’k		F	
+75	Wakhi	ZA, ZUMAN		Ab	
+75	Wakhi	KUDUK		X	
+9	Baluchi	CHUKH		E	
+137	Zazaki	qeček		X	
+137	Zazaki	tūt		Ag	
+137	Zazaki	qiž		X	
+137	Zazaki	domān		Af	
+137	Zazaki	leyr		Ae	
+137	Zazaki	gede		Ad	
+72	Tajik	BACA		F	
+72	Tajik	FARZAND		Ab	
+72	Tajik	KUDAK		X	
+54	Persian	BACHCHE		F	
+77	Waziri	WORKAI		Ai	
+1	Pashto	TIFL		(Ah)	
+138	Shughni	bačā		(F)	
+138	Shughni	kūdak		(X)	
+138	Shughni	tifl		(Ah)	
+139	Sarikoli	farzand		(Ab)	
+139	Sarikoli	balo		(O)	
+139	Sarikoli	kыdak		(X)	
+52	Ossetic	sabi	sabi, ʃabi	N	
+52	Ossetic	syvaellon	sɨvællon	N	
+124	Ossetic Iron	šyvɐllon	šyvɐllon	N	
+125	Ossetic Digor	suvɐllon	suvɐllon	N	
+141	Kata-viri	pɪrmɪ̣̃		Aj	
+105	Vedic Sanskrit	kumārás		(Al)	
+105	Vedic Sanskrit	śíśus		Ak	
+41	Khaskura	BALAKHA, KETA		O	
+51	Nepali	BALAKHA		O	
+106	Assamese	sau		Z	
+106	Assamese	larā		An	
+106	Assamese	āpā		Ao	
+106	Assamese	sowālī		Z	
+106	Assamese	kesua	kesua	Am	
+106	Assamese	jiput		Ap	
+102	Oriya	pila	pila	Aq	
+102	Oriya	baḷɔk	baɭɔk	O	
+102	Oriya	chua	chua	Z	
+10	Bengali	BACCA		(F)	
+111	Bihari	bachchā		(F)	
+111	Bihari	nēnā		Ar	
+144	Magahi	लइका	ləikɑ	As	
+104	Marwari	choro	choro	Y	
+104	Marwari	tingər	tingər	At	
+104	Marwari	bālak		O	
+104	Marwari	tābar		Au	
+35	Hindi	BECCA		(F)	
+119	Urdu	بچّہ	bəʧəh	(F)	
+103	Sindhi	b̑āru	b̑āru	O	
+103	Sindhi	chōkir-	chōkir-	E	
+43	Lahnda	BECCA		(F)	
+53	Punjabi	BECCA		(F)	
+33	Gujarati	CHOKRO		E	
+50	Marathi	mūl	mul	Av	
+40	Kashmiri	BOKUTU		Ax	
+40	Kashmiri	SHURU		Aw	
+65	Sinhalese	LAMAYA		Az	
+65	Sinhalese	DARUVA		Ay	
+34	Romani Greece	CHAVO		Ba	
+100	Old Church Slavonic	чѧдо	tʃɛ̃dɔ	Bd	
+100	Old Church Slavonic	отрочѧ	ɔtrɔtʃɛ̃	S	
+100	Old Church Slavonic	дѣти	dæti	I	
+95	Serbo-Croatian	dijete	ˈdjɛ̌ːtɛ	I	
+15	Bulgarian	дете	dɘˈtɛ	I	
+92	Macedonian	дете	ˈdetɛ	I	
+60	Russian	ребёнок	rʲi'bʲɔnɔk	Bf	
+55	Polish	dziecko	ˈdʑɛtskɔ	I	
+16	Belarusian	дзіця	dzʲiˈtsʲa	I	
+73	Ukrainian	дитина	dɪˈtɪna	I	
+66	Slovak	dieťa	ˈɟieca	I	
+18	Czech	dítě	ˈɟiːcɛ	I	
+48	Sorbian Upper	dźěćo	ˈdʒɪtʃɔ	I	
+47	Sorbian Lower	źiśi	ˈʑiɕi	I	
+47	Sorbian Lower	góle	ˈɡɘ̟lʲɛ	Bc	
+97	Slovenian	otrok	ɔˈtrɔk	S	
+108	Old Prussian	malnijks			
+44	Latvian	bḕ̜rns		(K)	
+46	Lithuanian	VAIKAS		P	
+46	Lithuanian	KUDIKIS			
+109	Old Norse	barn	barn	K	
+36	Icelandic	barn	ˈb̥ard̥n, ˈb̥ad̥n	K	
+23	Faroese	barn	bad̥n	K	
+58	Norwegian Riksmal	barn	baːɳ	K	
+159	Stavangersk	badn	bɑːdn	K	
+157	Old Swedish	barn	baːrn	K	
+69	Swedish	barn	bɑːɳ	K	
+71	Swedish Vilhelmina	BAN		K	
+70	Swedish Uppland	BARN		K	
+145	Elfdalian	kripp	krɪpː	Bb	
+20	Danish	barn	b̥ɑˀn	K	
+158	Danish Fjolde	baarn	bɑːɹn	K	
+160	Old Gutnish	barn		K	
+161	Gutnish Lau	ban	bɑːn	K	
+99	Old English	cild		U	
+99	Old English	bearn		K	
+22	English	child	tʃaɪld	U	
+26	Frisian	kyn	kin	A	
+26	Frisian	bern	bɛ̃ːn	K	
+21	Dutch	kind	kɪnt	A	
+24	Flemish	KIND		A	
+83	Afrikaans	KIND		A	
+87	Sranan	PIKIEN			
+126	Old High German	kind		A	
+27	German	Kind	kɪnt	A	
+86	Pennsylvania Dutch	KINNDT		A	
+120	Luxembourgish	Kand		A	
+121	German Switzerland	ching		A	
+107	Gothic	barn		K	
+112	Latin	puer	ˈpuer	M	
+17	Catalan	criatura	kriə'turə	G	
+17	Catalan	noi	nɔi	J	
+17	Catalan	nen, nin	nɛn, niŋ	J	
+56	Portuguese	MENINO		J	
+56	Portuguese	criança	kɾiˈɐ̃sɐ	G	
+68	Spanish	niño	'niɲo	J	
+61	Sardinian Cagliari	PIPPIU		R	
+62	Sardinian Logudoro	PIZZINNU		R	
+63	Sardinian Nuoro	PITHTHINNEDDU		R	
+85	French Creole Dominica	ZAFA		L	
+76	Walloon	EFANT		L	
+25	French	enfant	ɑ̃fɑ̃	L	
+57	Provencal	ENFANT		L	
+42	Ladin	INFAUNT		L	
+146	Dolomite Ladino	tosat			
+123	Romansh	uffant		L	
+122	Friulian	frut			
+39	Italian	fanciullo	fan'tʃullo	L	
+39	Italian	bambino	bam'bino		
+59	Romanian	copil	ko'pil		
+74	Vlach	FICOR, FEATA (FEM.)			
+127	Old Irish	páitse	pa:tʹsʹe	(W)	
+127	Old Irish	lelap, lenab	lʹeləb, lʹenəβ	V	
+101	Middle Cornish	flogh			
+172	Middle Breton	buguel	ˈbyːɡel	H	
+12	Breton	bugel	ˈbyːɡɛl	H	
+79	Welsh	plentyn	'plent.ɨn	(T)	
+38	Irish	páiste	ˈpˠaːɕtʲɪ	W	
+38	Irish	leanbh	ˈlʲan̪ˠəw	V	
+115	Scottish Gaelic	pàiste		W	
+115	Scottish Gaelic	leanabh		V	
+5	[Legacy] Albanian T	foshnjë		(C)	
+29	[Legacy] Greek K	PAIDION		M	
+28	[Legacy] Greek D	PAIDI		M	
+30	[Legacy] Greek Md	PAIDI, PAIDAKI		M	
+64	[Legacy] Serbocroatian	DETE		I	
+113	[Legacy] Serbian	dete		I	
+89	[Legacy] Bulgarian P	DETE		I	
+49	[Legacy] Macedonian	ROZBA			
+49	[Legacy] Macedonian	DETE		I	
+94	[Legacy] Russian P	DIT A		I	
+93	[Legacy] Polish P	DZIECIE		I	
+90	[Legacy] Byelorussian P	DZIC A		I	
+98	[Legacy] Ukrainian P	DYTYNA		I	
+19	[Legacy] Czech E	DYITYE		I	
+96	[Legacy] Slovak P	DIET A		I	
+91	[Legacy] Czech P	DITE		I	
+67	[Legacy] Slovenian	MLAT OTROK		S	
+45	[Legacy] Lithuanian O	VAIKAS		P	
+11	[Legacy] Brazilian	CRIANCA		G	
+142	[Legacy] German Munich	Kind		A	
+84	[Legacy] French Creole C	TI MAMAY			
+84	[Legacy] French Creole C	ZAFA		L	
+14	[Legacy] Breton St	bugel	'by:gɛl	H	
+13	[Legacy] Breton Se	KROEDUR (PL. BUGALE)		G, H	
+78	[Legacy] Welsh C	PLENTYN		T	
+37	[Legacy] Irish A	PAISTE		W	

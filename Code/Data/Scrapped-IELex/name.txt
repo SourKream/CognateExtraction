@@ -1,0 +1,158 @@
+114	Proto-Indo-European	*h₁nḗh₃mn̥		A	
+80	Hittite	lāman		A	
+133	Luvian	atamanza		A	
+134	Lycian	adãma		A	
+81	Tocharian A	ñom		A	
+82	Tocharian B	ñem		A	
+88	Albanian	emër		A	
+143	Standard Albanian	emër		A	
+2	Albanian Sicily	emër		A	
+4	Albanian Corinth	emër		A	
+3	Albanian Gheg	emën		A	
+6	Albanian Tosk	emër		A	
+110	Ancient Greek	ὄνομα	ónoma	A	
+152	Tsakonian	ονουμα		A	
+32	Greek	όνομα	ˈo̞no̞ˌma	A	
+31	Greek Lesbos	ONOMA		A	
+129	Classical Armenian	անուն	anown	A	
+8	Armenian Eastern	anun	ɑˈnun	A	
+7	Armenian Western	ANOON		A	
+128	Avestan	nāma		A	
+131	Old Persian	nāmā		A	
+136	Sogdian	n’m		A	
+75	Wakhi	NONG		A	
+9	Baluchi	NAM		A	
+118	Kurdish	nav		A	
+137	Zazaki	nām(e)		A	
+72	Tajik	nom	nɔːm	A	
+72	Tajik	ISM		(C)	
+54	Persian	ESM		(C)	
+77	Waziri	NUM		A	
+1	Pashto	NUM		A	
+138	Shughni	num		A	
+139	Sarikoli	num		A	
+52	Ossetic	nom	nom	A	
+124	Ossetic Iron	nom	nom	A	
+125	Ossetic Digor	nom	nom	A	
+141	Kata-viri	nom		A	
+154	Vasi-vari	nom, na/em		A	
+153	Askunu	nām		A	
+105	Vedic Sanskrit	nā́ma		A	
+162	Pāḷī	nāma		A	
+41	Khaskura	NAM, NAUN		A	
+51	Nepali	NAU		A	
+106	Assamese	nam	nam	A	
+102	Oriya	namɔ	namɔ	A	
+10	Bengali	nam	nam	A	
+111	Bihari	nam	nam	A	
+144	Magahi	नाम	nɑm	A	
+104	Marwari	be-nam		A	
+35	Hindi	nam	na:m	A	
+119	Urdu	نام	nɑm	A	
+103	Sindhi	naalo		A	
+43	Lahnda	NA		A	
+53	Punjabi	NA		A	
+33	Gujarati	NAM		A	
+50	Marathi	nāw	naw	A	
+40	Kashmiri	NAV		A	
+65	Sinhalese	NAMA		A	
+34	Romani Greece	ALAV		A	
+100	Old Church Slavonic	имѧ	imɛ̃	A	
+95	Serbo-Croatian	ime	ˈîmɛ	A	
+15	Bulgarian	име	ˈimɘ	A	
+92	Macedonian	име	ˈimɛ	A	
+60	Russian	имя	'imʲa	A	
+55	Polish	imię	ˈimjɛ(ɰ̃)	A	
+16	Belarusian	імя	iˈmʲa	A	
+73	Ukrainian	ім’я	iˈmja	A	
+66	Slovak	meno	ˈmɛnɔ	A	
+18	Czech	jméno	ˈ(j)mɛːnɔ	A	
+48	Sorbian Upper	mjeno	ˈmĕɛnɔ	A	
+47	Sorbian Lower	mě	mɪ	A	
+97	Slovenian	ime	iˈmêː	A	
+108	Old Prussian	emmens		A	
+44	Latvian	vā̀rds		B	
+46	Lithuanian	vardas	'vardas	B	
+109	Old Norse	nafn	nafn	A	
+36	Icelandic	nafn	napn	A	
+23	Faroese	navn	naun	A	
+58	Norwegian Riksmal	navn	naʋn	A	
+159	Stavangersk	navn	naʋn	A	
+157	Old Swedish	nampn	nampn	A	
+69	Swedish	namn	namn	A	
+71	Swedish Vilhelmina	NAMN		A	
+70	Swedish Uppland	NAMN		A	
+145	Elfdalian	nammen	ˈnɑ́mːɛn	A	
+20	Danish	navn	nɑwˀn	A	
+158	Danish Fjolde	naavn	nɑːwn	A	
+160	Old Gutnish	namn		A	
+161	Gutnish Lau	namn	namn	A	
+99	Old English	nama		A	
+22	English	name	neɪm	A	
+26	Frisian	namme	'namə	A	
+21	Dutch	naam	nam	A	
+24	Flemish	NAEM		A	
+83	Afrikaans	NAAM		A	
+87	Sranan	NEM		A	
+126	Old High German	namo		A	
+27	German	Name	'na:mə	A	
+86	Pennsylvania Dutch	NAWME		A	
+120	Luxembourgish	Numm		A	
+121	German Switzerland	name		A	
+107	Gothic	namō		A	
+130	Oscan	numneís		A	
+132	Umbrian	nome		A	
+132	Umbrian	numem		A	
+112	Latin	nōmen	ˈnoːmen	A	
+17	Catalan	nom	nɔm	A	
+56	Portuguese	nome	ˈnɔmɨ	A	
+68	Spanish	nombre	'nombɾe	A	
+61	Sardinian Cagliari	NOMINI		A	
+62	Sardinian Logudoro	NOMENE		A	
+63	Sardinian Nuoro	NUMENE		A	
+85	French Creole Dominica	NO		A	
+76	Walloon	NOM, NON		A	
+25	French	nom	nɔ̃	A	
+57	Provencal	NOUM		A	
+42	Ladin	NOM		A	
+146	Dolomite Ladino	i(g)nom		A	
+123	Romansh	num		A	
+122	Friulian	non		A	
+39	Italian	nome	'nome	A	
+59	Romanian	nume	'nume	A	
+74	Vlach	NUME		A	
+140	Gaulish	anuana		A	
+127	Old Irish	ainm	anʹmʹ	A	
+101	Middle Cornish	hanow	'hanɔʊ	A	
+148	Old Breton	hanff		A	
+172	Middle Breton	hanu, hano, hanou, hanoff	ˈaːnv, aːno	A	
+12	Breton	anv, anw, ano	ˈɑ̃nw, ˈɑ̃ːno	A	
+150	Old Welsh	anu		A	
+79	Welsh	enw		A	
+38	Irish	ainm	ˈanʲəmʲ	A	
+115	Scottish Gaelic	ainm		A	
+147	Manx	ainm(m)		A	
+5	[Legacy] Albanian T	emër	ɛməɾ	A	
+29	[Legacy] Greek K	ONOMA		A	
+28	[Legacy] Greek D	ONOMA		A	
+30	[Legacy] Greek Md	ONOMA		A	
+64	[Legacy] Serbocroatian	IME		A	
+113	[Legacy] Serbian	ime	îme	A	
+89	[Legacy] Bulgarian P	IME		A	
+49	[Legacy] Macedonian	IME		A	
+94	[Legacy] Russian P	IM A		A	
+93	[Legacy] Polish P	IMIE		A	
+90	[Legacy] Byelorussian P	IM A		A	
+98	[Legacy] Ukrainian P	IM A		A	
+19	[Legacy] Czech E	MENO		A	
+96	[Legacy] Slovak P	MENO		A	
+91	[Legacy] Czech P	JMENO		A	
+67	[Legacy] Slovenian	IMJ		A	
+45	[Legacy] Lithuanian O	VARDAS		B	
+11	[Legacy] Brazilian	NOME		A	
+142	[Legacy] German Munich	Name		A	
+84	[Legacy] French Creole C	NO		A	
+14	[Legacy] Breton St	anv	ˈɑ̃no	A	
+13	[Legacy] Breton Se	HANU		A	
+78	[Legacy] Welsh C	ENW		A	
+37	[Legacy] Irish A	AINM		A	

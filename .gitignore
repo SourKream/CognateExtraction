@@ -1,0 +1,9 @@
+*.pkl
+*.weights
+*.pdf
+*.m4a
+*.xlsx
+*.pyc
+.DS_Store
+*.png
+

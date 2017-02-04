@@ -1,0 +1,187 @@
+114	Proto-Indo-European	*meg̑-		B	
+80	Hittite	mekkis		B	
+80	Hittite	sallis			
+133	Luvian	urazzas			
+81	Tocharian A	tsopats			
+81	Tocharian A	māk		B	
+82	Tocharian B	māka		B	
+82	Tocharian B	orotstse			
+88	Albanian	I MADH		B	
+143	Standard Albanian	i madh, e madhe		B	
+2	Albanian Sicily	I-MATH		B	
+4	Albanian Corinth	I MATH		B	
+3	Albanian Gheg	MADH		B	
+6	Albanian Tosk	I-MATH		B	
+173	Mycenaean Greek	me-ki-ta	megista	B	
+110	Ancient Greek	μέγας	méɡas	B	
+152	Tsakonian	αψελε			
+152	Tsakonian	ατσε			
+32	Greek	μεγάλος	me̞ˈɣalo̞s	B	
+31	Greek Lesbos	MEGALOS		B	
+129	Classical Armenian	մեծ	mɛt͡s	B	
+8	Armenian Eastern	մեծ	mɛʦ	B	
+7	Armenian Western	մեծ	mɛd͡z	B	
+128	Avestan	mas-		B	
+128	Avestan	maza		N	
+136	Sogdian	mzyx		N	
+75	Wakhi	LUP		Aa	
+9	Baluchi	MAZAAN, MAZ EN		N	
+118	Kurdish	mezin		N	
+118	Kurdish	gir		S	
+118	Kurdish	gewre		T	
+137	Zazaki	gird		S	
+137	Zazaki	pīl		U	
+137	Zazaki	xišn		V	
+72	Tajik	buzurg	buzurɡ	M	
+72	Tajik	KALON		W	
+54	Persian	bozorg	boˈzoɾɡ	M	
+77	Waziri	STER		L	
+1	Pashto	LOJ		X	
+138	Shughni	γullā		Z	
+138	Shughni	xidīr		Y	
+139	Sarikoli	lawr		X	
+52	Ossetic	ystyr	æstɨr	L	
+124	Ossetic Iron	štyr	štyr	L	
+125	Ossetic Digor	ustur	ustur	L	
+141	Kata-viri	alɪ		Ab	
+154	Vasi-vari	gəndər		Ae	
+153	Askunu	aulə		Ab	
+153	Askunu	gandalə		Ae	
+105	Vedic Sanskrit	mahā́n		B	
+162	Pāḷī	mahant		B	
+41	Khaskura	THULO		P	
+51	Nepali	BIRAT		C	
+51	Nepali	THULO		P	
+106	Assamese	baṛ		C	
+102	Oriya	bɔṛɔ	bɔɽɔ	C	
+10	Bengali	boro	bɔɽo, bɔɹo	C	
+111	Bihari	nəmhər	nəmhər	Ac	
+144	Magahi	बडा, बड	bəɽɑ, bəɽ	C	
+104	Marwari	moʈ(ʈ)o	moʈ(ʈ)o	H	
+35	Hindi	bera	bəɽɑː	C	
+119	Urdu	بڑا	bəɽɛ	C	
+103	Sindhi	vəḍ̑ō	vəɖ̑ō	J	
+43	Lahnda	WEDDA		J	
+53	Punjabi	VEDDA		J	
+33	Gujarati	MOTU		H	
+50	Marathi	motha	'moʈʰə	H	
+40	Kashmiri	BODU		C	
+65	Sinhalese	LOKU		Ad	
+34	Romani Greece	BARO		C	
+100	Old Church Slavonic	вєликъ	vɛlikʊ̆	F	
+95	Serbo-Croatian	velik	ˈvɛ̌lik	F	
+15	Bulgarian	goljam	ɡuˈlʲam	E	
+92	Macedonian	голем	ˈɡolɛm	E	
+60	Russian	большой	bolʲ'ʂɔj	Ai	
+55	Polish	duży	ˈduʐɘ̟	Ah	
+16	Belarusian	вялікі	vʲaˈlʲikʲi	F	
+73	Ukrainian	великий	ʋɛˈɫɪkɪj	F	
+66	Slovak	veľký	ˈvɛlʲkiː	F	
+18	Czech	velký	ˈvɛlkiː	F	
+48	Sorbian Upper	wulki	ˈwulki	F	
+47	Sorbian Lower	wjeliki	ˈwĕɛlʲiki	F	
+97	Slovenian	velik	ˈvɛ̂ːlik	F	
+108	Old Prussian	debīkan			
+44	Latvian	liẽls		Q	
+46	Lithuanian	DIDELIS		K	
+109	Old Norse	mikill	ˈmikilː	(B)	
+109	Old Norse	stórr	stoːrː	O	
+36	Icelandic	stór	stouːr	O	
+23	Faroese	stórur	ˈstɔuːɹʊɹ	O	
+23	Faroese	mikil	ˈmiːtʃɪl	B	
+58	Norwegian Riksmal	stor	stuːɾ	O	
+159	Stavangersk	store	ˈstuːʁə	O	
+157	Old Swedish	mykil	ˈmyːkil	B	
+157	Old Swedish	stor	stoːr	O	
+69	Swedish	stor	stuːr	O	
+69	Swedish	grov	gru:v	(A)	
+71	Swedish Vilhelmina	STOR		O	
+70	Swedish Uppland	STOR		O	
+145	Elfdalian	stur	stʉːr	O	
+20	Danish	stor	ˈsd̥ʰoˀɐ̯	O	
+158	Danish Fjolde	stuor	sduoɹ	O	
+160	Old Gutnish	mikil		B	
+161	Gutnish Lau	stäurar	ˈstɛurar	O	
+99	Old English	micel		B	
+22	English	big	bɪg	(G)	
+26	Frisian	GREAT		A	
+21	Dutch	groot	ɣrot	A	
+24	Flemish	GROOT		A	
+83	Afrikaans	GROOT		A	
+87	Sranan	LANGA			
+87	Sranan	GRAN, GRANDI		D	
+87	Sranan	BIGI		(G)	
+87	Sranan	GROFOE		D	
+126	Old High German	grōz		A	
+126	Old High German	mihhil		B	
+27	German	gross	gro:s	A	
+86	Pennsylvania Dutch	GROESZ		A	
+120	Luxembourgish	grouss		A	
+121	German Switzerland	gross		A	
+107	Gothic	mikils		B	
+130	Oscan	maimas		R	
+132	Umbrian	mestru		R	
+112	Latin	grandis	ˈɡrandis	(D)	
+112	Latin	magnus	ˈmaŋnus	B	
+17	Catalan	gran	gran	D	
+17	Catalan	llarg	ʎaɾk		
+56	Portuguese	grande	ˈɡɾɐ̃ðɨ	D	
+68	Spanish	grande	'ɡɾande	D	
+61	Sardinian Cagliari	MANNU		B	
+62	Sardinian Logudoro	MANNU		B	
+63	Sardinian Nuoro	MANNU		B	
+85	French Creole Dominica	GWO, GWA		D	
+76	Walloon	GRAND		D	
+25	French	grand	gʀɑ̃	D	
+57	Provencal	GROS		Ag	
+57	Provencal	LARG			
+42	Ladin	GRAND		D	
+146	Dolomite Ladino	gran(t)		D	
+123	Romansh	grond		D	
+122	Friulian	grant		D	
+39	Italian	grande	'grande	D	
+59	Romanian	mare	'mare	N	
+74	Vlach	MARE		N	
+140	Gaulish	magio-		B	
+140	Gaulish	māro-		I	
+127	Old Irish	maige	maɣʹe	(B)	
+127	Old Irish	mór, már	mo:r, ma:r	I	
+149	Old Cornish	maur		I	
+101	Middle Cornish	bras	bra:z	Af, (Ag)	
+101	Middle Cornish	mür		(I)	
+148	Old Breton	mor		I	
+172	Middle Breton	meur	ˈmøːr	I	
+172	Middle Breton	bras	ˈbraːs	Af	
+12	Breton	bras	ˈbraːs	Af, (Ag)	
+150	Old Welsh	maur		I	
+79	Welsh	mawr		I	
+79	Welsh	braisg		(Af), (Ag)	
+38	Irish	mór	mˠɔːr	I	
+115	Scottish Gaelic	mòr	moːɾ	I	
+147	Manx	mooar		I	
+5	[Legacy] Albanian T	madh	mað	B	
+29	[Legacy] Greek K	MEGALOS		B	
+28	[Legacy] Greek D	MEGALOS		B	
+30	[Legacy] Greek Md	MEGALOS		B	
+64	[Legacy] Serbocroatian	VELIK		F	
+113	[Legacy] Serbian	velik	ʋělik	F	
+89	[Legacy] Bulgarian P	GOL AM		E	
+49	[Legacy] Macedonian	golem	ɡɔlɛm	E	
+94	[Legacy] Russian P	VELIKIJ		F	
+93	[Legacy] Polish P	WIELKI		F	
+90	[Legacy] Byelorussian P	V ALIKI		F	
+98	[Legacy] Ukrainian P	VELIKYJ		F	
+19	[Legacy] Czech E	HRUBE			
+19	[Legacy] Czech E	VELIKE		F	
+96	[Legacy] Slovak P	VEL KY		F	
+91	[Legacy] Czech P	VELKY		F	
+67	[Legacy] Slovenian	VELIKA		F	
+45	[Legacy] Lithuanian O	DIDELIS		K	
+11	[Legacy] Brazilian	grande	ˈɡɾɐ̃dʒi	D	
+142	[Legacy] German Munich	groß		A	
+84	[Legacy] French Creole C	GHWA, GHO		D	
+14	[Legacy] Breton St	bras	bʁaz	Af, (Ag)	
+14	[Legacy] Breton St	meur	møʁ	(I)	
+13	[Legacy] Breton Se	BRAS		Af, (Ag)	
+78	[Legacy] Welsh C	MAWR		I	
+37	[Legacy] Irish A	MOR		I	

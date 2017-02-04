@@ -1,0 +1,1001 @@
+ID	Value
+htd12001	गोरनगोरो\N-NNP नॅशनल\N_NN पार्कहून\N_NN परत\RB येण्यावेळी\V_VM आमचा\PR_PRP कार्यक्रम\N_NN प्रसिद्ध\JJ सरोवर\N_NN मनयारा\N-NNP नॅशनल\N_NN पार्क\N_NN पाहणे\V_VM हा\DM_DMR होता\V_VM .\RD_PUNC
+htd12002	या\DM_DMR पूर्वी\N_NN गोरनगोरो\N-NNP संरक्षित\JJ प्रदेशात\N_NN असणार्‍या\V_VM पुरातत्त्वाच्या\N_NN दृष्टीने\N_NN विश्वामध्ये\N_NN सर्वाधिक\QT_QTF महत्त्वपूर्ण\N_NN स्थळांपैकी\N_NN ओल्दूवाई\N-NNP घाट\N_NN पाहण्याचा\V_VM लोभ\N_NN आम्ही\PR_PRP टाळू\V_VM शकलो\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd12003	ओल्दूवाई\N-NNP घाटात\N_NN मानवाच्या\N_NN १\QT_QTC ,\RD_PUNC ७५,००००\QT_QTC वर्षे\N_NN जुन्या\JJ पूर्वजाची\N_NN कवटी\N_NN मिळाली\V_VM होती\V_VAUX ज्याचे\PR_PRL श्रेय\N_NN डॉ\N_NN .\RD_PUNC लीके\N-NNP यांना\PR_PRP आहे\V_VM .\RD_PUNC
+htd12004	डॉ\N_NN .\RD_PUNC लीके\N-NNP यांचे\PR_PRP पुरातात्विक\N_NN संशोधन\N_NN जगभरात\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12005	ती\DM_DMR कवटी\N_NN आजकाल\RB दारेसलामच्या\N-NNP राष्ट्रीय\JJ संग्रहालयात\N_NN ठेवण्यात\V_VM आली\V_VAUX आहे\V_VAUX .\RD_PUNC
+htd12006	या\DM_DMR प्रदेशात\N_NN काही\QT_QTF वर्षापूर्वी\N_NN लुप्त\JJ झालेल्या\V_VM पशुंची\N_NN सापडलेले\V_VM जीवाश्मीय\N_NN अवशेष\N_NN ओल्दूवाई\N-NNP घाटाच्या\N_NN जवळ\RB असणार्‍या\V_VM संग्रहालयात\N_NN संग्रहित\RB केले\V_VAUX आहेत\V_VAUX .\RD_PUNC
+htd12007	हे\DM_DMR संग्रहालय\N_NN पाहताना\V_VM आम्ही\PR_PRP लाखो\N_NN वर्षे\N_NN पूर्वीच्या\N_NN वातावरणात\N_NN बुडुन\V_VM गेलो\V_VAUX .\RD_PUNC
+htd12008	जीवाष्मांना\N_NN पाहण्याचा\V_VM आम्ही\PR_PRP सर्वांनी\N_NN आनंद\N_NN घेतला\V_VM .\RD_PUNC
+htd12009	आता\RB आम्हाला\PR_PRP मनयारा\N-NNP सरोवर\N_NN राष्ट्रीय\JJ उद्यानात\N_NN प्रवेशाची\N_NN चिंता\N_NN सतावू\V_VM लागली\V_VAUX होती\V_VAUX .\RD_PUNC
+htd12010	दिवस\N_NN मावळु\V_VM लागला\V_VAUX होता\V_VAUX आणि\CC_CCD वेळ\N_NN कमी\QT_QTF होता\V_VM .\RD_PUNC
+htd12011	पण\CC_CCD तरीही\CC_CCS मनयारा\N-NNP सरोवर\N_NN राष्ट्रीय\JJ उद्यान\N_NN बघण्याची\V_VM इच्छा\N_NN बळावत\V_VM होती\V_VAUX .\RD_PUNC
+htd12012	गोरनगोरो\N-NNP पार्कहून\N_NN १९\QT_QTC किलोमीटर\N_NN खालच्या\N_NST बाजूला\N_NN असल्याने\V_VM मनयारा\N-NNP उद्यान\N_NN बघण्याची\V_VM चांगली\JJ संधी\N_NN गमावण्याची\V_VM आमची\PR_PRP इच्छा\N_NN नव्हती\V_VM .\RD_PUNC
+htd12013	अजूनही\RB शेवटच्या\N_NN प्रवेशासाठी\N_NN अर्धा\QT_QTF तास\N_NN राहिला\V_VM होता\V_VAUX .\RD_PUNC
+htd12014	आम्ही\PR_PRP अवकाश\N_NN असताना\V_VM चालकाच्या\N_NN कृपेने\N_NN मनयारा\N-NNP उद्यानाला\N_NN पोहोचलो\V_VM होतो\V_VAUX .\RD_PUNC
+htd12015	जेव्हा\CC_CCS जीपने\N_NN मनयारा\N-NNP सरोवर\N_NN नॅशनल\JJ पार्कमध्ये\N_NN प्रवेश\N_NN केला\V_VM तेव्हा\CC_CCS आम्ही\PR_PRP सुटकेचा\N_NN निश्वास\N_NN टाकला\V_VM .\RD_PUNC
+htd12016	मनयारा\N-NNP सरोवर\N_NN राष्ट्रीय\JJ उद्यान\N_NN ’\RD_PUNC आरुशाच्या\N-NNP ’\RD_PUNC वायव्येला\N_NN सुमारे\N_NN १२०\QT_QTC किलोमीटर\N_NN दूर\N_NST आहे\V_VM .\RD_PUNC
+htd12017	येथून\PR_PRL रिफ्ट\N_NN वॅलीच्या\N_NN ३०५\QT_QTC मीटर\N_NN उंच\JJ पश्चिम\N_NN भिंतीचा\N_NN सुंदर\JJ देखावा\N_NN पाहता\V_VM येतो\V_VAUX .\RD_PUNC
+htd12018	वास्तवात\N_NN विशाल\JJ रिफ्ट\N_NN व्हॅली\N_NN पृथ्वीच्या\N_NN वरच्या\N_NST भागात\N_NN उभ्या\N_NN राहिलेल्या\V_VM टोकाचा\N_NN तो\DM_DMR भाग\N_NN आहे\V_VM की\CC_CCS जो\PR_PRL तुर्कीपासून\N-NNP केनियापर्यंतच्या\N-NNP विस्तृत\JJ क्षेत्रात\N_NN पसरलेला\V_VM आहे\V_VAUX .\RD_PUNC
+htd12019	हा\DM_DMR टोकदार\JJ भाग\N_NN केनियामधील\N-NNP पूर्व\N_NN आणि\CC_CCD पश्चिम\N_NN भागात\N_NN विभाजित\JJ होतो\V_VM .\RD_PUNC
+htd12020	मनयारा\N-NNP सरोवर\N_NN राष्ट्रीय\JJ उद्यान\N_NN पूर्व\N_NN भागात\N_NN आहे\V_VM .\RD_PUNC
+htd12021	मनयारा\N-NNP शब्दाची\N_NN उत्पत्ती\N_NN यूफ़ोरबिया\N_NN तिरुरविया\N_NN तिरुक्काली\N_NN नावाच्या\N_NN झाडापासून\N_NN झाली\V_VM असे\RB मानतात\V_VM .\RD_PUNC
+htd12022	या\DM_DMR झाडाचा\N_NN उपयोग\N_NN मसाई\N-NNP जमातीचे\N_NN लोक\N_NN आपल्या\PR_PRP घराच्या\N_NN चारी\N_NN बाजुंनी\N_NN कुंपण\N_NN बनविण्यासाठी\V_VM वापरतात\V_VAUX .\RD_PUNC
+htd12023	कधी\PR_PRQ काळी\N_NN मनयारा\N-NNP व्यावसायिक\JJ शिकार्‍यांसाठी\N_NN आवडते\V_VM शिकार\N_NN करण्याचे\V_VM स्थळ\N_NN होते\V_VM पण\CC_CCD आता\RB हे\DM_DMR एक\QT_QTC सुंदर\JJ राष्ट्रीय\JJ उद्यानात\N_NN परिणत\N_NN झाले\V_VM आहे\V_VAUX .\RD_PUNC
+htd12024	जरी\CC_CCS क्षेत्रफळाच्या\N_NN दृष्टीने\N_NN मनयारा\N-NNP राष्ट्रीय\JJ उद्यान\N_NN केवळ\JJ ३२४\QT_QTC चौरस\N_NN किलोमीटरमध्ये\N_NN पसरलेले\V_VM आहे\V_VAUX तरी\CC_CCS पण\CC_CCD येथील\PR_PRL विविधतेने\N_NN युक्त\JJ वनसंपत्ती\N_NN आपले\PR_PRP वेगळे\JJ वैशिष्ट्य\N_NN राखून\V_VM आहे\V_VAUX .\RD_PUNC
+htd12025	साधारण\N_NN २२९\QT_QTC चौरस\N_NN किलोमीटर\N_NN क्षेत्रात\N_NN मनयारा\N-NNP सरोवर\N_NN पसरलेले\V_VM आहे\V_VAUX .\RD_PUNC
+htd12026	मनयारा\N-NNP सरोवराच्या\N_NN किनारी\N_NN दाट\JJ जंगले\N_NN आहेत\V_VM .\RD_PUNC
+htd12027	आम्ही\PR_PRP कमी\QT_QTF वेळात\N_NN अधिकाधिक\QT_QTF पाहू\V_VM इच्छित\JJ होतो\V_VM .\RD_PUNC
+htd12028	लेक\N_NN मनयारा\N-NNP राष्ट्रीय\JJ उद्यानात\N_NN सर्वात\RP_INTF आधी\RB आम्हाला\PR_PRP रानडुक्कर\N_NN आणि\CC_CCD रानमांजर\N_NN दिसले\V_VM .\RD_PUNC
+htd12029	डुकरांचे\N_NN लांब\JJ दात\N_NN त्यांना\PR_PRP भयावह\JJ बनवत\V_VM होते\V_VAUX .\RD_PUNC
+htd12030	डुकरांच्या\N_NN दातांमध्येच\N_NN त्यांची\PR_PRP शक्ती\N_NN संकलित\JJ असते\V_VM .\RD_PUNC
+htd12031	डुकरे\N_NN या\DM_DMR दातांच्या\N_NN सहायाने\N_NN बर्‍याचवेळा\N_NN सिंहाशीही\N_NN टक्कर\N_NN घेण्याची\V_VM हिम्मत\N_NN जुटवतात\V_VM .\RD_PUNC
+htd12032	मनयारा\N-NNP सरोवरात\N_NN पडलेल्या\V_VM शंभर\QT_QTC दरियाई\N_NN घोड्यांना\N_NN पाहून\V_VM आम्ही\PR_PRP मंत्रमुग्ध\N_NN झालो\V_VM .\RD_PUNC
+htd12033	काही\QT_QTF दरियाई\N_NN घोडे\N_NN मनयारा\N-NNP सरोवराच्या\N_NN बाहेर\N_NST खिदळत\V_VM होते\V_VAUX .\RD_PUNC
+htd12034	मनयारा\N-NNP सरोवरात\N_NN काही\QT_QTF अंतर\N_NN चालविल्यानंतर\V_VM झाडींमध्ये\N_NN फिरणार्‍या\V_VM हत्तींच्या\N_NN कळपाशी\N_NN गाठ\N_NN पडली\V_VM .\RD_PUNC
+htd12035	मनयारा\N-NNP उद्यानात\N_NN तेंव्हाच\CC_CCS अचानक\RB बैबुनांवर\N_NN आमची\PR_PRP नजर\N_NN पडली\V_VM .\RD_PUNC
+htd12036	लेक\N_NN मनयारा\N-NNP उद्यानात\N_NN बैबून\N_NN बरेच\QT_QTF आहेत\V_VM .\RD_PUNC
+htd12037	स्वाहिलीमध्ये\N-NNP बैबूनांना\N_NN न्यायी\N_NN म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12038	लेक\N_NN मनयारा\N-NNP राष्ट्रीय\JJ उद्यानाच्या\N_NN भौगोलिक\JJ परिस्थीतीमुळे\N_NN येथे\DM_DMD दोन\QT_QTC प्रकारच्या\N_NN बैबून\N_NN प्रजाती\N_NN सापडतात\V_VM .\RD_PUNC
+htd12039	पिवळे\JJ बैबून\N_NN तंजानियाच्या\N-NNP अग्नेयेला\N_NN आणि\CC_CCD जैतूनी\N_NN बैबून\N_NN वायव्येला\N_NN आहेत\V_VM .\RD_PUNC
+htd12040	लेक\N_NN मनयारा\N-NNP उद्यानात\N_NN असे\RB संकरीत\JJ बैबून\N_NN आहेत\V_VM ज्यांमध्ये\PR_PRL वरील\N_NST दोन्ही\QT_QTC प्रजातींची\N_NN वैशिष्ट्ये\N_NN आहेत\V_VM .\RD_PUNC
+htd12041	काही\QT_QTF बैबूनांना\N_NN झाडांच्या\N_NN उंच\JJ फांद्यांवर\N_NN चौकस\N_NN बसलेले\V_VM पाहून\V_VM आम्ही\PR_PRP आश्चेर्यचकित\N_NN झालो\V_VM .\RD_PUNC
+htd12042	आम्हाला\PR_PRP सांगितले\V_VM की\CC_CCS धोका\N_NN ओळखून\V_VM बैबून\N_NN असे\RB करतात\V_VM .\RD_PUNC
+htd12043	धोका\N_NN टळल्यावर\V_VM बैबून\N_NN झाडावरून\N_NN खाली\N_NST उतरतात\V_VM .\RD_PUNC
+htd12044	मनयारा\N-NNP उद्यानात\N_NN हे\DM_DMR बैबून\N_NN झोपले\V_VM होते\V_VAUX .\RD_PUNC
+htd12045	झोपण्यासाठी\V_VM बैबून\N_NN आवडते\V_VM झाड\N_NN निवडतात\V_VM .\RD_PUNC
+htd12046	आता\RB आम्ही\PR_PRP उत्सुक\N_NN होतो\V_VM मनयारा\N-NNP उद्यानात\N_NN झाडांवर\N_NN विश्रांती\N_NN घेणार्‍या\V_VM सिंहाना\N_NN पाहण्यासाठी\V_VM .\RD_PUNC
+htd12047	मी\PR_PRP वाचले\V_VM होते\V_VAUX की\CC_CCS प्रसिद्ध\JJ सेरेंगेटी\N-NNP राष्ट्रीय\JJ उद्यानाप्रमाणे\N_NN लेक\N_NN मनयारामध्येही\N-NNP सिंह\N_NN आणि\CC_CCD चित्त्यांची\N_NN झाडांवर\N_NN विश्रांती\N_NN घेण्याची\V_VM वेगळी\JJ पद्धत\N_NN आहे\V_VM जी\PR_PRL जगात\N_NN दुसर्‍या\QT_QTO कोणत्याही\DM_DMQ राष्ट्रीय\JJ उद्यानात\N_NN दिसत\V_VM नाही\V_VAUX .\RD_PUNC
+htd12048	मनयारा\N-NNP राष्ट्रीय\JJ उद्यानात\N_NN नेहमी\RB सिंहाना\N_NN अकेसिया\N_NN झाडांच्या\N_NN फांदीवर\N_NN १५\QT_QTC ते\CC_CCD २०\QT_QTC फुट\N_NN उंचीवर\N_NN बसून\V_VM विश्रांती\N_NN घेत\V_VM बसलेले\V_VM दिसतात\V_VAUX .\RD_PUNC
+htd12049	सिंहाच्या\N_NN या\DM_DMR सवयी\N_NN मागे\N_NST बरेच\QT_QTF समज\N_NN आहेत\V_VM माश्यांपासून\N_NN वाचणे\V_VM ,\RD_PUNC हवेचा\N_NN आनंद\N_NN लुटणे\V_VM ,\RD_PUNC झेब्रे\N_NN आणि\CC_CCD म्हशींच्या\N_NN जाणार्‍या\V_VM कळपाचा\N_NN अंदाज\N_NN घेणे\V_VM ,\RD_PUNC हत्तींच्या\N_NN कळपापासून\N_NN वाचणे\V_VM अशी\JJ काही\QT_QTF कारणे\N_NN सांगितली\V_VM जातात\V_VAUX .\RD_PUNC
+htd12050	पूर्व\N_NN अफ्रिकेत\N_NN बर्‍याच\QT_QTF राष्ट्रीय\JJ उद्यानांमध्ये\N_NN झाडांवर\N_NN विश्रांती\N_NN घेणार्‍या\V_VM सिंहाच्या\N_NN विचित्र\JJ सवयीबाबत\N_NN विचार\N_NN करत\V_VM होतो\V_VAUX की\CC_CCS वाहकाने\N_NN अचानक\RB जीप\N_NN थांबवून\V_VM एका\QT_QTC झाडाकडे\N_NN निर्देश\N_NN केला\V_VM .\RD_PUNC
+htd12051	दोन\QT_QTC लांबच\JJ लांब\JJ लटकणार्‍या\V_VM शेपट्या\N_NN पाहून\V_VM आश्चर्याचा\N_NN ठावठिकाणा\N_NN राहिला\V_VM नाही\V_VAUX .\RD_PUNC
+htd12052	आम्ही\PR_PRP वरती\N_NST मान\N_NN करून\V_VM पाहिले\V_VAUX तर\CC_CCS दोन\QT_QTC विशालकाय\JJ सिंहाना\N_NN झाडांवर\N_NN विश्रांती\N_NN घेत\V_VM असलेले\V_VAUX पाहिले\V_VAUX .\RD_PUNC
+htd12053	श्वास\N_NN रोखलेल्या\V_VM आम्ही\PR_PRP काही\QT_QTF काळ\N_NN या\DM_DMR सुंदर\JJ आणि\CC_CCD रोमाचंक\JJ दृश्याचा\N_NN भरपुर\QT_QTF आनंद\N_NN घेतला\V_VM .\RD_PUNC
+htd12054	बर्‍याच\QT_QTF ठिकाणी\N_NN पडलेल्या\V_VM कवट्या\N_NN ,\RD_PUNC शिंगे\N_NN आणि\CC_CCD हाडांचे\N_NN सापळे\N_NN पाहून\V_VM आम्हाला\PR_PRP आश्चर्य\N_NN वाटले\V_VM .\RD_PUNC
+htd12055	ही\DM_DMR हाडे\N_NN त्या\DM_DMR जंगली\JJ प्राण्यांची\N_NN असतील\V_VM जे\PR_PRL सिंह\N_NN आणि\CC_CCD चित्त्यांचे\N_NN बळी\N_NN ठरले\V_VM असतील\V_VAUX .\RD_PUNC
+htd12056	मनयारा\N-NNP उद्यानात\N_NN सिंह\N_NN अधिकांशतः\RB भोजनासाठी\N_NN म्हशी\N_NN ,\RD_PUNC झेब्रे\N_NN आणि\CC_CCD रानटी\JJ बीस्टची\N_NN शिकार\N_NN करतात\V_VM .\RD_PUNC
+htd12057	मनयारा\N-NNP उद्यानात\N_NN सिंह\N_NN अधिकांशतः\RB भोजनासाठी\N_NN म्हशी\N_NN ,\RD_PUNC झेब्रे\N_NN आणि\CC_CCD रानटी\JJ बीस्टची\N_NN शिकार\N_NN करतात\V_VM .\RD_PUNC
+htd12058	मनयारा\N-NNP राष्ट्रीय\JJ उद्यानात\N_NN ही\DM_DMR पूर्व\N_NN अफ्रिकेच्या\N_NN अन्य\QT_QTF उद्यानांपैकी\N_NN काही\QT_QTF स्थळांवर\N_NN दिमक्यांच्या\N_NN मोठ\JJ मोठ्या\JJ मातीच्या\N_NN ढिगासारखी\N_NN घरे\N_NN दिसतात\V_VM .\RD_PUNC
+htd12059	काही\QT_QTF ठिकाणी\N_NN या\DM_DMR दिमक्यांना\N_NN भुर्‍या\JJ मुंग्या\N_NN असेही\CC_CCS_UT म्हणतात\V_VM .\RD_PUNC
+htd12060	पण\CC_CCD मनयारा\N-NNP उद्यानातील\N_NN हे\DM_DMR दीमक\N_NN ना\RP_NEG भुरे\JJ आहेत\V_VM ना\RP_NEG मुंग्या\N_NN .\RD_PUNC
+htd12061	हे\DM_DMR दीमक\N_NN तर\CC_CCS झुरळांशी\N_NN मिळत्या\V_VM जुळत्या\V_VM किटकांच्या\N_NN एका\QT_QTC प्रजातीशी\N_NN जोडलेले\V_VM आहेत\V_VAUX .\RD_PUNC
+htd12062	स्वाहिलीमध्ये\N-NNP दीमकांना\N_NN मछवा\N_NN म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12063	मनयारा\N-NNP राष्ट्रीय\JJ उद्यानातील\N_NN समृध्द\JJ जंगली\JJ प्राणीरूपी\N_NN संपदेला\N_NN पा्हत\V_VM आम्ही\PR_PRP मसासा\N-NNP आणि\CC_CCD केम\N-NNP नद्यांच्या\N_NN मधील\N_NST गवताळ\JJ मैदानात\N_NN जाऊन\V_VM पोहोचलो\V_VAUX .\RD_PUNC
+htd12064	या\DM_DMR गवताळ\JJ मैदानात\N_NN आम्हाला\PR_PRP झेब्रे\N_NN पाहण्याची\V_VM संधी\N_NN प्राप्त\JJ झाली\V_VM .\RD_PUNC
+htd12065	शुभ्र\JJ शरीरावर\N_NN काळ्या\JJ रेघा\N_NN असलेले\V_VM लाजाळू\JJ असे\CC_CCS_UT झेब्रे\N_NN स्वाहिलीमध्ये\N-NNP पुंडा\N_NN मिलिया\N_NN (\RD_SYM धारीवाले\N_NN गाढव\N_NN )\RD_SYM म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12066	याबाबत\N_NN संशय\N_NN नाही\V_VM की\CC_CCS काही\QT_QTF ना\RP_NEG काही\QT_QTF अंशी\N_NN झेब्र्याचे\N_NN गाढवाशी\N_NN साधर्म्य\N_NN आहे\V_VM .\RD_PUNC
+htd12067	झेब्रे\N_NN नेहमी\RB सिंहाची\N_NN शिकार\N_NN होतात\V_VM .\RD_PUNC
+htd12068	सिंहाना\N_NN झेब्र्यांचे\N_NN मांस\N_NN अधिक\QT_QTF प्रिय\JJ आहे\V_VM .\RD_PUNC
+htd12069	सामान्यपणे\RB झेब्रे\N_NN १२\QT_QTC वर्षांपर्यंत\N_NN जिवंत\JJ राहतात\V_VM .\RD_PUNC
+htd12070	वन्य\JJ प्राणी\N_NN शास्त्रज्ञांनुसार\N_NN झेब्र्याचे\N_NN आयुष्य\N_NN ३०\QT_QTC वर्षापर्यंत\N_NN असू\V_VM शकते\V_VAUX .\RD_PUNC
+htd12071	पूर्व\N_NN अफ्रिकेचे\N-NNP गौरवस्थान\N_NN आहे\V_VM झेब्रा\N_NN .\RD_PUNC
+htd12072	उत्तेजित\JJ झाल्यावर\V_VM झेब्रे\N_NN भुंकल्यासारखा\V_VM आवाज\N_NN काढतात\V_VM .\RD_PUNC
+htd12073	मनयारामध्ये\N-NNP मिळणारे\V_VM झेब्रे\N_NN बुर्चेलकडून\N-NNP सांगितल्याप्रमाणे\N_NN इक्वस\N_NN बुर्चेली\N_NN प्रजातीचे\N_NN आहेत\V_VM .\RD_PUNC
+htd12074	हत्ती\N_NN तर\CC_CCS सामान्यपणे\RB उद्यानात\N_NN अनेक\QT_QTF ठिकाणी\N_NN मिळतात\V_VM पण\CC_CCD भटकणारे\V_VM प्राणी\N_NN असल्याने\V_VM जवळ\RB असणार्‍या\V_VM नडाला\N-NNP नदी\N_NN प्रदेशाच्या\N_NN जंगलात\N_NN जातात\V_VM .\RD_PUNC
+htd12075	नडाला\N-NNP नदी\N_NN प्रदेश\N_NN जेथे\DM_DMD हत्ती\N_NN शोध\N_NN कॅंप\N_NN आहे\V_VM .\RD_PUNC
+htd12076	हत्ती\N_NN मनयारा\N-NNP राष्ट्रीय\JJ उद्यानाच्या\N_NN विपुल\QT_QTF वनसंपत्तीचा\N_NN महत्त्वाचा\JJ हिस्सा\N_NN आहेत\V_VM .\RD_PUNC
+htd12077	लेक\N_NN मनयारा\N-NNP राष्ट्रीय\JJ उद्यानात\N_NN फिरणार्‍या\V_VM हत्तीच्या\N_NN कळपाशी\N_NN आमचा\PR_PRP सामना\N_NN झाला\V_VM .\RD_PUNC
+htd12078	मुलांना\N_NN हत्तींच्या\N_NN कळपासह\N_NN जाणार्‍या\V_VM दोन\QT_QTC अतिशय\RP_INTF लहान\JJ हत्तींच्या\N_NN पिल्लांना\N_NN पाहून\V_VM खूप\QT_QTF आनंद\N_NN झाला\V_VM .\RD_PUNC
+htd12079	जन्मावेळी\N_NN हत्तींची\N_NN उंची\N_NN फक्त\JJ ८०\N_NN सेमी\N_NN असते\V_VM .\RD_PUNC
+htd12080	ते\DM_DMR दोन\QT_QTC लहान\JJ हत्ती\N_NN साधारण\N_NN १\QT_QTC मीटर\N_NN उंच\JJ असतील\V_VM .\RD_PUNC
+htd12081	केवळ\JJ काही\QT_QTF महीने\N_NN वयाची\N_NN असतील\V_VM ती\DM_DMR हत्तींची\N_NN पिल्ले\N_NN .\RD_PUNC
+htd12082	हत्ती\N_NN आपल्या\PR_PRP पिल्लांना\N_NN सिंह\N_NN आणि\CC_CCD अन्य\QT_QTF जनावरांपासून\N_NN वाचविण्यासाठी\V_VM त्यांना\PR_PRL आपल्या\PR_PRP मधोमध\N_NST ठेवतात\V_VM .\RD_PUNC
+htd12083	आफ्रिकी\JJ हत्ती\N_NN (\RD_SYM लेक्सोडोंटा\N_NN अफ्रिकाना)\N_NN ज्याला\PR_PRL स्वाहिलीत\N-NNP ’तेंबो\N_NN सा\N_NN डोवू’\N_NN असे\CC_CCS_UT म्हणतात\V_VM तो\DM_DMR आशियाई\JJ हत्तीपेक्षा\N_NN थोडा\QT_QTF मोठा\JJ असतो\V_VM .\RD_PUNC
+htd12084	आफ्रिकी\JJ हत्तीचे\N_NN कानही\N_NN मोठे\JJ असतात\V_VM .\RD_PUNC
+htd12085	मनयारा\N-NNP सरोवर\N_NN राष्ट्रीय\JJ उद्यान\N_NN हे\DM_DMR सुमारे\N_NN ४००हूनही\N_NN जास्त\QT_QTF हत्तींचे\N_NN आश्रयस्थान\N_NN आहे\V_VM .\RD_PUNC
+htd12086	उद्यानात\N_NN थोडा\QT_QTF फेरफटका\N_NN मारला\V_VM नाही\V_VAUX तोच\CC_CCD झाडींमधून\N_NN तीन\QT_QTC चार\QT_QTC हत्ती\N_NN समोर\N_NN येऊन\V_VM उभे\JJ राहिले\V_VM .\RD_PUNC
+htd12087	जीप\N_NN थांबवावी\V_VM लागली\V_VAUX आणि\CC_CCD इंजिन\N_NN चालू\V_VM ठेवले\V_VM .\RD_PUNC
+htd12088	चालकाने\N_NN असे\RB सांगितले\V_VM की\CC_CCS आपल्याला\PR_PRP तोपर्यंत\PR_PRL थांबावे\V_VM लागेल\V_VAUX जोपर्यंत\PR_PRL स्वेच्छेने\N_NN हत्ती\N_NN येथून\PR_PRL निघून\V_VM जात\V_VAUX नाहीत\V_VM .\RD_PUNC
+htd12089	आम्ही\PR_PRP संकटात\N_NN सापडलो\V_VM होतो\V_VAUX .\RD_PUNC
+htd12090	संध्याकाळ\N_NN होऊ\V_VM लागली\V_VAUX होती\V_VAUX .\RD_PUNC
+htd12091	पक्ष्यांचा\N_NN किलबिलाट\V_VM वाढला\V_VAUX होता\V_VAUX .\RD_PUNC
+htd12092	पक्षी\N_NN आपल्या\PR_PRP घरट्याकडे\N_NN परतु\V_VM लागले\V_VAUX होते\V_VAUX .\RD_PUNC
+htd12093	नशीबाने\N_NN काही\QT_QTF वेळानंतर\N_NN हत्तींनी\N_NN आपल्याच\PR_PRP मस्तीत\N_NN चालत\V_VM रस्ता\N_NN मोकळा\JJ करुन\V_VM दिला\V_VAUX .\RD_PUNC
+htd12094	एका\QT_QTC हत्तीने\N_NN जोरात\RB चित्कार\N_NN केला\V_VM .\RD_PUNC
+htd12095	हत्तींच्याबाबत\N_NN असे\CC_CCS_UT सांगितले\V_VM जाते\V_VAUX की\CC_CCS विशेष\JJ प्रकारचे\N_NN आवाज\N_NN काढून\V_VM हे\DM_DMR मैलन्\N_NN मैल\N_NN दूर\N_NST असणार्‍या\V_VM अन्य\QT_QTF साथिदार\N_NN हत्तींशी\N_NN संपर्क\N_NN साधतात\V_VM .\RD_PUNC
+htd12096	आजकाल\RB हत्तींच्या\N_NN आवाजावर\N_NN संशोधन\N_NN चालू\V_VM आहे\V_VAUX .\RD_PUNC
+htd12097	अनेक\QT_QTF वेळा\N_NN मादी\N_NN हत्तीशी\N_NN जवळीक\N_NN वाढविण्यासाठी\V_VM नर\N_NN हत्तींमध्ये\N_NN दंगा\N_NN -\RD_PUNC मस्ती\N_NN होत\V_VM असते\V_VAUX .\RD_PUNC
+htd12098	आम्ही\PR_PRP सशांतपणे\RB झाडीत\N_NN लपून\V_VM जाणार्‍या\V_VM हत्तींना\N_NN पाहत\V_VM होतो\V_VAUX .\RD_PUNC
+htd12099	’बागायो\N-NNP नदी\N_NN क्षेत्राच्या\N_NN जवळ\RB पोहोचताच\V_VM आम्हाला\PR_PRP काळ्या\JJ गेंड्याला\N_NN (\RD_SYM डाइसेरोस\N_NN बाइकोर्निस\N_NN )\RD_SYM पाहण्याची\V_VM सुसंधी\N_NN मिळाली\V_VM .\RD_PUNC
+htd12100	स्वाहिली\N-NNP भाषेत\N_NN ’\RD_PUNC किफारु\N_NN ’\RD_PUNC या\DM_DMR नावाने\N_NN ओळखला\V_VM जाणारा\V_VM काळा\JJ गेंडा\N_NN बागायो\N-NNP नदी\N_NN क्षेत्रामध्येच\N_NN नव्हे\V_VM तर\CC_CCS उद्यानाच्या\N_NN अन्य\QT_QTF प्रदेशातही\N_NN आढळतो\V_VM .\RD_PUNC
+htd12101	दोन\QT_QTC टन\N_NN वजन\N_NN असणारा\V_VM हा\DM_DMR काळा\JJ गेंडा\N_NN कोणत्याही\DM_DMQ क्षणी\N_NN हिंसक\JJ होतो\V_VM आणि\CC_CCD वाहनांवर\N_NN हल्ला\N_NN करुन\V_VM त्यांचे\PR_PRL नुकसान\N_NN करण्यास\V_VM मागेपुढे\N_NST पाहत\V_VM नाही\V_VAUX .\RD_PUNC
+htd12102	काळ्या\JJ गेंड्याची\N_NN श्रवण\N_NN आणि\CC_CCD घ्राण\N_NN शक्ती\N_NN तीव्र\JJ असते\V_VM .\RD_PUNC
+htd12103	पण\CC_CCD काळ्या\JJ गेंड्याची\N_NN दृष्टी\N_NN तितकीच\QT_QTF कमजोर\JJ असते\V_VM .\RD_PUNC
+htd12104	एका\QT_QTC पूर्ण\QT_QTF वाढ\N_NN झालेल्या\V_VM गेंड्यापासून\N_NN जंगलाचा\N_NN राजा\N_NN सिंहही\N_NN पळून\V_VM जाणेच\V_VM शहाणपणाचे\N_NN समजतो\V_VM .\RD_PUNC
+htd12105	नैऋत्य\N_NN युगांडा\N-NNP आणि\CC_CCD दक्षिण\N_NN सुदान\N-NNP येथे\DM_DMD आढळाणारे\V_VM पांढरे\JJ गेंडे\N_NN मनयारा\N-NNP सरोवर\N_NN राष्ट्रीय\JJ उद्यानात\N_NN नाहीत\V_VM .\RD_PUNC
+htd12106	नावातून\N_NN फरक\N_NN नक्कीच\RB समजत\V_VM असलातरी\V_VM कमोवेश\N_NN दोन्ही\QT_QTC प्रकारच्या\N_NN जातींच्या\N_NN गेंड्यांचा\N_NN रंग\N_NN भूरा\JJ मातकट\JJ असा\JJ असतो\V_VM .\RD_PUNC
+htd12107	शुभ्र\JJ गेंड्यांची\N_NN तोंडे\N_NN गवत\N_NN चरायला\V_VM योग्य\JJ अशी\JJ चौकोनी\N_NN असतात\V_VM तर\CC_CCS काळ्या\JJ गेंड्यांचे\N_NN तोंड\N_NN थोडे\QT_QTF पसरट\V_VM असते\V_VAUX .\RD_PUNC
+htd12108	गेंड्याच्या\N_NN शिंगाबाबत\N_NN अफ्रिकी\JJ लोकांमध्ये\N_NN बर्‍याच\QT_QTF दंतकथा\N_NN प्रचलित\JJ आहेत\V_VM .\RD_PUNC
+htd12109	शिंग\N_NN जे\PR_PRL वास्तवात\N_NN शिंग\N_NN नसून\V_VM केसांचा\N_NN एक\QT_QTC दाट\JJ पुंजका\N_NN आहे\V_VM ,\RD_PUNC जो\PR_PRL अफ्रिकी\JJ लोकांनुसार\N_NN औषधांमध्ये\N_NN वापरला\V_VM जातो\V_VAUX .\RD_PUNC
+htd12110	जरी\CC_CCS वैज्ञानिकांनी\N_NN सिध्द\JJ केले\V_VM आहे\V_VAUX की\CC_CCS ही\DM_DMR फक्त\JJ मिथ्या\JJ समजूत\N_NN आहे\V_VM पण\CC_CCD भूतकाळात\N_NN अशा\JJ आणखी\QT_QTF दुसर्‍या\QT_QTO खोट्या\N_NN समजूतींमुळे\N_NN अनेक\QT_QTF गेंड्याना\N_NN आपला\PR_PRP जीव\N_NN गमवावा\V_VM लागला\V_VAUX .\RD_PUNC
+htd12111	आता\RB परिस्थितीमध्ये\N_NN सुधारणा\N_NN आहे\V_VM .\RD_PUNC
+htd12112	५०हून\N_NN अधिक\QT_QTF काळे\JJ गेंडे\N_NN लेक\N_NN मनयारा\N-NNP उद्यानाची\N_NN शोभा\N_NN वाढवत\V_VM आहेत\V_VAUX .\RD_PUNC
+htd12113	लेक\N_NN मनयारा\N-NNP उद्यानात\N_NN एका\QT_QTC जागी\N_NN पशु\N_NN मलाचा\N_NN मोठा\JJ ढीग\N_NN पाहून\V_VM आम्हाला\PR_PRP आश्चर्य\N_NN वाटले\V_VM .\RD_PUNC
+htd12114	माहिती\N_NN मिळाली\V_VM हा\DM_DMR गेंड्यांचा\N_NN मल\N_NN होता\V_VM .\RD_PUNC
+htd12115	आम्हाला\PR_PRP सांगितले\V_VM गेले\V_VAUX की\CC_CCS गेंड्यांमध्ये\N_NN एका\QT_QTC ठराविक\JJ ठिकाणी\N_NN मलत्याग\N_NN करण्याची\V_VM विचित्र\JJ सवय\N_NN आढळते\V_VM .\RD_PUNC
+htd12116	या\DM_DMR तथ्याशी\N_NN बांधल्या\V_VM गेलेल्या\V_VM अनेक\QT_QTF लोककथा\N_NN समाजात\N_NN प्रसिद्ध\JJ आहेत\V_VM .\RD_PUNC
+htd12117	बागायो\N-NNP आणि\CC_CCD एंडिबाश\N-NNP नद्यांच्या\N_NN मध्ये\N_NST उंचावर\N_NN असल्याने\V_VM लेक\N_NN मनयारा\N-NNP प्रदेशाचे\N_NN दृश्य\N_NN खूपच\RP_INTF मोहक\JJ दिसते\V_VM .\RD_PUNC
+htd12118	आम्ही\PR_PRP मुग्ध\JJ होऊन\V_VM लेक\N_NN मनयाराच्या\N-NNP अवर्णनीय\JJ देखाव्याचे\N_NN निरीक्षण\N_NN करत\V_VM होतो\V_VAUX .\RD_PUNC
+htd12119	समुद्रसपाटीपासून\N_NN ९४५\QT_QTC मीटर\N_NN उंचीवर\N_NN असल्याने\V_VM २२९\QT_QTC चौरस\N_NN किलोमीटर\N_NN प्रदेशात\N_NN पसरलेले\V_VM मनयारा\N-NNP सरोवर\N_NN निसर्ग\N_NN प्रेमींसाठी\N_NN स्वर्गाप्रमाणे\N_NN आहे\V_VM .\RD_PUNC
+htd12120	मनयारा\N-NNP सरोवराचा\N_NN जलसाठा\N_NN दरवर्षी\N_NN कमी\QT_QTF जास्त\QT_QTF होत\V_VM असतो\V_VAUX .\RD_PUNC
+htd12121	मनयारा\N-NNP सरोवरात\N_NN विविध\JJ प्रकारचे\N_NN मासे\N_NN सापडतात\V_VM .\RD_PUNC
+htd12122	मनयारा\N-NNP सरोवरामध्ये\N_NN कॅटफिश\N_NN ,\RD_PUNC क्लारियस\N_NN ,\RD_PUNC ब्रीम\N_NN आणि\CC_CCD तिलापिया\N_NN प्रमुख\JJ आहेत\V_VM .\RD_PUNC
+htd12123	मनयारा\N-NNP सरोवराच्या\N_NN किनार्‍यावर\N_NN असंख्य\QT_QTF शंख\N_NN आणि\CC_CCD शिंपले\N_NN पडलेले\V_VM होते\V_VAUX .\RD_PUNC
+htd12124	चकाकी\N_NN नसलेला\V_VM लेक\N_NN मनयाराच्या\N-NNP किनार्‍यावरून\N_NN आणलेला\V_VM एक\QT_QTC शंख\N_NN आपल्या\PR_PRP नैसर्गिक\JJ रूपात\N_NN आजही\RB माझ्याजवळ\PR_PRP आहे\V_VM आणि\CC_CCD त्या\PR_PRL सोनेरी\JJ क्षणांची\N_NN आठवण\N_NN करून\V_VM देत\V_VAUX आहे\V_VAUX .\RD_PUNC
+htd12125	पृथ्वीवरील\N_NN सर्वात\RP_INTF उंच\JJ प्राणी\N_NN जिराफ\N_NN पाहण्याची\V_VM इच्छा\N_NN पूर्ण\QT_QTF झाली\V_VM नव्हती\V_VAUX .\RD_PUNC
+htd12126	लेक\N_NN मनयारा\N-NNP राष्ट्रीय\JJ उद्यानात\N_NN जिराफांची\N_NN संख्या\N_NN भरपुर\QT_QTF आहे\V_VM .\RD_PUNC
+htd12127	मनयारा\N-NNP राष्ट्रीय\JJ उद्यानातून\N_NN आम्ही\PR_PRP परततच\V_VM होतो\V_VAUX तेवढ्यात\CC_CCS आमची\PR_PRP इच्छा\N_NN पूर्ण\QT_QTF झाली\V_VM .\RD_PUNC
+htd12128	काही\QT_QTF जिराफ\N_NN आपल्या\PR_PRP लांब\JJ जिभेच्या\N_NN सहाय्याने\N_NN झाडांची\N_NN पाने\N_NN खाऊन\V_VM आपली\PR_PRP भूक\N_NN शांत\JJ करण्यात\V_VM मग्न\JJ होते\V_VM .\RD_PUNC
+htd12129	तंजानियाचा\N-NNP सुंदर\JJ राष्ट्रीय\JJ पशु\N_NN जिराफ\N_NN पाहून\V_VM आम्हाला\PR_PRP अमर्याद\QT_QTF समाधान\N_NN लाभले\V_VM .\RD_PUNC
+htd12130	मुलांच्या\N_NN आनंदाला\N_NN पारावार\N_NN नव्हता\V_VM .\RD_PUNC
+htd12131	खरे\N_NN तर\CC_CCS आम्ही\PR_PRP सर्वांनी\N_NN जिराफ\N_NN प्रथमच\N_NN पाहिला\V_VM होता\V_VAUX .\RD_PUNC
+htd12132	लेक\N_NN मनयारामध्ये\N-NNP मिळणार्‍या\V_VM जिराफाच्या\N_NN शरीरावर\N_NN तार्‍यांसारखे\N_NN डाग\N_NN असतात\V_VM .\RD_PUNC
+htd12133	तर\CC_CCS दक्षिण\N_NN केनिया\N-NNP आणि\CC_CCD अन्य\QT_QTF ठिकाणी\N_NN आढळणार्‍या\V_VM जिराफांच्या\N_NN शरीरावर\N_NN जाळीसारखे\N_NN डाग\N_NN असतात\V_VM .\RD_PUNC
+htd12134	जिराफाला\N_NN (\RD_SYM केलिमोपारडालिस\N_NN )\RD_SYM स्वाहिलीमध्ये\N-NNP ट्वीगा\N_NN असे\CC_CCS_UT म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12135	याच्या\PR_PRP जैविक\JJ नावाविषयी\N_NN जीवशास्त्रीय\N_NN वैज्ञानिकांचे\N_NN मत\N_NN असे\RB आहे\V_VM की\CC_CCS जिराफ\N_NN उंट\N_NN आणि\CC_CCD चित्ता\N_NN यांचा\PR_PRP संकर\N_NN असण्याची\V_VM शक्यता\N_NN आहे\V_VM .\RD_PUNC
+htd12136	उंटाप्रमाणे\N_NN चालणारा\V_VM जिराफ\N_NN एकाबाजुने\N_NN दोन्ही\QT_QTC पावले\N_NN एकाचवेळी\N_NN उचलत\V_VM पुढे\N_NST जातो\V_VM .\RD_PUNC
+htd12137	जिराफाची\N_NN जास्तीत\QT_QTF जास्त\QT_QTF उंच\JJ मान\N_NN अकेसिया\N_NN वृक्षाची\N_NN उंचावर\N_NN असणारी\V_VM पाने\N_NN खायला\V_VM मदत\N_NN करते\V_VM .\RD_PUNC
+htd12138	लोकमान्य\JJ पद्धतीच्या\N_NN विरुद्ध\JJ जिराफ\N_NN टेकून\V_VM झोपतो\V_VAUX पण\CC_CCD मान\N_NN उचललेली\V_VM असते\V_VAUX .\RD_PUNC
+htd12139	आम्ही\PR_PRP लेक\N_NN मनयारा\N-NNP राष्ट्रीय\JJ उद्यानाच्या\N_NN शेवटच्या\N_NN टप्प्यात\N_NN माजीमोटो\N-NNP येथे\DM_DMD पोहोचलॊ\V_VM .\RD_PUNC
+htd12140	माजीमोटॊ\N_NN मध्ये\N_NST गरम\JJ पाण्याचे\N_NN झरे\N_NN आहेत\V_VM .\RD_PUNC
+htd12141	६०\QT_QTC अंश\N_NN सेल्सियस\N_NN तापमानामध्ये\N_NN भुमीच्या\N_NN गर्भातून\N_NN निघणारे\V_VM पाणी\N_NN निसर्गाच्या\N_NN अद्भुत\JJ शक्तीचे\N_NN प्रतिक\N_NN आहे\V_VM .\RD_PUNC
+htd12142	पृथ्वीच्या\N_NN अगाध\JJ खोलीतून\N_NN दगडांच्या\N_NN चिरांमधून\N_NN गरम\JJ पाणी\N_NN बाहेर\N_NST येते\V_VM .\RD_PUNC
+htd12143	मला\PR_PRP आपल्या\PR_PRP देशातील\N_NN सोहना\N-NNP उष्ण\JJ धबधबा\N_NN आणि\CC_CCD तत्तापानी\N-NNP उष्ण\JJ धबधबा\N_NN यांची\PR_PRL आठवण\N_NN झाली\V_VM .\RD_PUNC
+htd12144	गरम\JJ पाण्यात\N_NN वाढलेली\V_VM विविध\JJ प्रकारची\N_NN एल्गी\N_NN (\RD_SYM काई\N_NN )\RD_SYM पाहून\V_VM आम्हाला\PR_PRP खूप\QT_QTF आश्चर्य\N_NN वाटले\V_VM .\RD_PUNC
+htd12145	आम्ही\PR_PRP मनयारा\N-NNP सरोवर\N_NN राष्ट्रीय\JJ उद्यानाच्या\N_NN दक्षिणेकडील\N_NN भागात\N_NN होतो\V_VM .\RD_PUNC
+htd12146	उद्यानाच्या\N_NN दक्षिणी\N_NN भागात\N_NN बाहेर\N_NST पडण्याचा\V_VM दरवाजा\N_NN नव्हता\V_VM .\RD_PUNC
+htd12147	म्हणून\CC_CCD आम्हाला\N_NN उत्तरेकडील\N_NN बाहेर\N_NST पडण्याच्या\V_VM द्वाराकडे\N_NN जावे\V_VM लागले\V_VAUX .\RD_PUNC
+htd12148	मनयारा\N-NNP येथील\PR_PRL अतिसमृद्ध\JJ वनपशुसंपदेची\N_NN मनोहर\JJ झलक\N_NN पाहून\V_VM आम्ही\PR_PRP परतलो\V_VM .\RD_PUNC
+htd12149	संध्याकाळ\N_NN गडद\JJ होऊ\V_VM लागली\V_VAUX होती\V_VAUX .\RD_PUNC
+htd12150	सूर्य\N_NN मावळत\V_VM होता\V_VAUX .\RD_PUNC
+htd12151	बुडणार्‍या\V_VM सूर्याची\N_NN सोनेरी\JJ किरणे\N_NN मनयारा\N-NNP सरोवाराच्या\N_NN पाण्याला\N_NN लाली\JJ देत\V_VM होते\V_VAUX .\RD_PUNC
+htd12152	मनयारा\N-NNP सरोवराचे\N_NN हे\DM_DMR अतिशय\RP_INTF मनमोहक\JJ दृश्य\N_NN विसरता\V_VM ये्ण्यासारखे\V_VM नव्हते\V_VAUX .\RD_PUNC
+htd12153	मनयारा\N-NNP सरोवराच्या\N_NN बाहेर\N_NST डोकावणार्‍या\V_VM किंवा\CC_CCD उसळणार्‍या\V_VM माशांवर\N_NN पडणारे\V_VM किरण\N_NN त्यांना\PR_PRP अलौकिक\JJ अरुण\JJ तेज\N_NN प्रदान\N_NN करीत\V_VM होते\V_VAUX .\RD_PUNC
+htd12154	त्या\DM_DMR अकल्पित\JJ देखाव्याला\N_NN आम्ही\PR_PRP पूर्णपणे\RB आत्मसात\N_NN करु\V_VM इच्छित\JJ होतो\V_VM .\RD_PUNC
+htd12155	वेळ\N_NN संपत\V_VM आली\V_VAUX होती\V_VAUX .\RD_PUNC
+htd12156	परत\RB येताना\V_VM सूर्य\N_NN देव\N_NN अस्तंगत\JJ होत\V_VM होते\V_VAUX .\RD_PUNC
+htd12157	हळूहळू\RB अंधार\N_NN दाटू\V_VM लागला\V_VAUX .\RD_PUNC
+htd12158	आता\RB मनयारा\N-NNP उद्यानात\N_NN थांबणे\V_VM धोक्याबाहेर\N_NN नव्हते\V_VM .\RD_PUNC
+htd12159	सात\QT_QTC वाजल्यानंतर\V_VM पर्यटकांसाठी\N_NN उद्यानाच्या\N_NN आत\N_NST थांबणे\V_VM पूर्णतः\RB प्रतिबंधित\JJ आहे\V_VM .\RD_PUNC
+htd12160	परत\JJ येताना\V_VM आम्ही\PR_PRP पक्ष्यांच्या\N_NN अनेक\QT_QTF प्रजाती\N_NN पाहिल्या\V_VM .\RD_PUNC
+htd12161	विविध\JJ प्रजातींचे\N_NN सारस\N_NN ,\RD_PUNC बदक\N_NN ,\RD_PUNC सुता\N_NN यासह\DM_DMR अनेक\QT_QTF पक्षी\N_NN प्रसिद्ध\JJ मनयार\N-NNP सरोवर\N_NN उद्यानाचे\N_NN अभिन्न\JJ भाग\N_NN आहेत\V_VM .\RD_PUNC
+htd12162	आम्ही\PR_PRP बाहेरच्या\N_NST दरवाज्याच्या\N_NN दिशेने\N_NN जात\V_VM होतो\V_VAUX तोच\DM_DMR ’\RD_PUNC इंपाला\N_NN ’\RD_PUNC जातीची\N_NN हरणांची\N_NN रांग\N_NN पाहून\V_VM मन\N_NN आनंदाने\N_NN नाचू\V_VM लागले\V_VAUX .\RD_PUNC
+htd12163	अंतिम\JJ टप्प्यात\N_NN असे\JJ सौभग्य\N_NN मिळणे\V_VM विरळ\JJ आहे\V_VM .\RD_PUNC
+htd12164	स्वाहिली\N-NNP भाषेत\N_NN ’\RD_PUNC स्वालापाला\N_NN ’\RD_PUNC या\DM_DMR नावाने\N_NN ओळखला\V_VM जाणारा\V_VM हा\DM_DMR सुंदर\JJ पशु\N_NN या\DM_DMR उद्यानाच्या\N_NN सौंदर्याला\N_NN द्विगुणित\JJ करीत\V_VM होता\V_VAUX .\RD_PUNC
+htd12165	इंपाला\N_NN जातीचे\N_NN हे\DM_DMR हरीण\N_NN चरते\V_VM आणि\CC_CCD पाने\N_NN पालवीही\N_NN खाते\V_VM .\RD_PUNC
+htd12166	दक्षिण\N_NN आणि\CC_CCD पूर्व\N_NN अफ्रिकेमध्ये\N-NNP आढळणारे\V_VM हे\DM_DMR हरीण\N_NN लांब\JJ उडी\N_NN मारण्यात\V_VM तरबेज\JJ असते\V_VM .\RD_PUNC
+htd12167	दक्षिण\N_NN अफ्रिकेत\N-NNP ह्या\DM_DMR हरीणाला\N_NN ’\RD_PUNC जुलू\N_NN ’\RD_PUNC असे\CC_CCS_UT म्हटले\V_VM जाते\V_VM .\RD_PUNC
+htd12168	जुलू\N_NN १०\QT_QTC फूट\N_NN उंच\JJ आणि\CC_CCD ३०\N_NN फूट\N_NN लांब\JJ उडी\N_NN मारण्यात\V_VM कुशल\JJ असते\V_VM .\RD_PUNC
+htd12169	प्रवेशद्वाराच्या\N_NN दिशेने\N_NN येताना\V_VM मी\PR_PRP गुपचुप\RB झेप\N_NN घेणार्‍या\V_VM ’\RD_PUNC स्वालापाला\N_NN ’\RD_PUNC किंवा\CC_CCD जुलु\N_NN नावाच्या\N_NN या\DM_DMR सुंदर\JJ वन्य\N_NN प्राण्याला\N_NN निरखित\JJ होतो\V_VM .\RD_PUNC
+htd12170	शेवटी\N_NST मनयारा\N-NNP सरोवर\N_NN उद्यानाच्या\N_NN दिशेने\N_NN दृष्टिक्षेप\N_NN टाकून\V_VM आम्ही\PR_PRP उद्यानाच्या\N_NN बाहेर\N_NST पडलो\V_VM .\RD_PUNC
+htd12171	रात्र\N_NN अधिक\QT_QTF झाली\V_VM .\RD_PUNC
+htd12172	या\DM_DMR प्रसिद्ध\JJ आणि\CC_CCD ,\RD_PUNC मनोहर\JJ दृश्यांनी\N_NN युक्त\JJ अशा\JJ मनयारा\N-NNP सरोवर\N_NN उद्यानाच्या\N_NN सौंदर्य\N_NN सरितेत\N_NN स्नान\N_NN करुन\V_VM आम्ही\PR_PRP भिजलेल्या\V_VM मनाने\N_NN परतत\V_VM होतो\V_VAUX .\RD_PUNC
+htd12173	मी\PR_PRP असा\JJ विचार\N_NN करीत\V_VM होतो\V_VAUX की\CC_CCS पूर्व\N_NN अफ्रिकेतील\N_NN या\DM_DMR तुलनेने\N_NN गरीब\JJ पण\CC_CCD सुदृढ\JJ अर्थव्यवस्था\N_NN असणार्‍या\V_VM देशाला\N_NN निसर्गाने\N_NN नैसर्गिक\JJ संपत्तीचा\N_NN अमूल्य\JJ खजिना\N_NN भरभरुन\RB दिला\V_VM आहे\V_VAUX .\RD_PUNC
+htd12174	जीप\N_NN वेगाने\N_NN आरुशाच्या\N-NNP दिशेने\N_NN जात\V_VM होती\V_VAUX .\RD_PUNC
+htd12175	एका\QT_QTC अनोख्या\JJ भावुकतेने\N_NN माझे\PR_PRP मन\N_NN भरुन\V_VM आले\V_VAUX .\RD_PUNC
+htd12176	डोळे\N_NN पाणावले\V_VM .\RD_PUNC
+htd12177	जीपच्या\N_NN खिडकीच्या\N_NN काचा\N_NN मी\PR_PRP खाली\N_NST ओढल्या\V_VM .\RD_PUNC
+htd12178	थंड\JJ हवेच्या\N_NN झुळुकीने\N_NN माझे\PR_PRP थकलेले\V_VM आणि\CC_CCD जडावलेले\V_VM डोळे\N_NN मिटू\V_VM लागले\V_VAUX .\RD_PUNC
+htd12179	जीपच्या\N_NN बरोबरीने\N_NN माझे\PR_PRP मनही\N_NN तीव्र\JJ गतीने\N_NN पळू\V_VM लागले\V_VAUX ,\RD_PUNC असे\RB वाटत\V_VM होते\V_VAUX की\CC_CCS जणू\RP_RPD काहीतरी\QT_QTF मागे\N_NST राहून\V_VM गेले\V_VAUX होते\V_VAUX .\RD_PUNC
+htd12180	कोणत्याही\DM_DMQ साहसी\JJ कामात\N_NN सहभागी\N_NN व्हायचे\V_VM असेल\V_VAUX मग\CC_CCD मॅरेथॉनमध्ये\N_NN सहभागी\N_NN होणे\V_VM का\PR_PRQ असेना\V_VM आज\RB साहसी\JJ जीवनाचा\N_NN भागच\N_NN बनून\V_VM गेले\V_VAUX आहे\V_VAUX .\RD_PUNC
+htd12181	वास्तविक\N_NN साहस\N_NN जर\CC_CCS नसले\V_VM तरी\CC_CCS मोबाइल\N_NN ,\RD_PUNC संगणक\N_NN आणि\CC_CCD व्हिडिओ\N_NN खेळ\N_NN यांच्या\PR_PRP माध्यमातून\N_NN साहसाचा\N_NN आनंद\N_NN उपभोगायला\V_VM लोक\N_NN विसरत\V_VM नाहीत\V_VAUX .\RD_PUNC
+htd12182	वास्तवातील\N_NN असो\V_VM किंवा\CC_CCD नैमित्तिक\N_NN साहसाच्या\N_NN संधी\N_NN काही\QT_QTF कमी\QT_QTF नाहीत\V_VM .\RD_PUNC
+htd12183	आमच्या\PR_PRP मते\N_NN साहस\N_NN असणे\V_VM खूपच\RP_INTF चांगले\JJ आहे\V_VM .\RD_PUNC
+htd12184	या\DM_DMR पक्षात\N_NN आम्ही\PR_PRP त्या\PR_PRL लोकांची\N_NN नावे\N_NN मोजायला\V_VM विसरत\V_VAUX नाही\V_VAUX जे\PR_PRL गिर्यारोहक\N_NN ,\RD_PUNC पॅराग्लाइडींग\N_NN स्कायडायव्हिंग\N_NN ,\RD_PUNC बेसजपिंग\N_NN ,\RD_PUNC सर्फिंग\N_NN आणि\CC_CCD माउंटेनियरिंग\N_NN मध्ये\N_NST अव्वल\JJ येतात\V_VM .\RD_PUNC
+htd12185	काही\QT_QTF शंका\N_NN नाही\V_VM की\CC_CCS साहसी\N_NN असणे\V_VM वास्तवात\N_NN चतुर\JJ असणे\V_VM होय\V_VAUX .\RD_PUNC
+htd12186	यासाठी\PR_PRL लोक\N_NN स्वतःला\PR_PRF साहसी\JJ म्हणवण्याची\V_VM कोणतीही\DM_DMQ संधी\N_NN हातून\N_NN सोडत\V_VM नाहीत\V_VAUX .\RD_PUNC
+htd12187	साहस\N_NN म्हणजे\CC_CCD रोमांचक\JJ याचा\PR_PRP सरळ\JJ अर्थ\N_NN आहे\V_VM जेंव्हा\CC_CCS तुम्ही\PR_PRP रोजच्या\N_NN जीवनयंत्रणेला\N_NN तोडून\V_VM कोणते\PR_PRQ वेगळे\JJ काम\N_NN करता\V_VM .\RD_PUNC
+htd12188	मौजेची\N_NN गोष्ट\N_NN अशी\JJ की\CC_CCS साहसाबाबत\N_NN प्रत्येक\QT_QTF माणसाचा\N_NN वेगळा\JJ दृष्टीकोण\N_NN असतो\V_VM .\RD_PUNC
+htd12189	खरी\N_NN गोष्ट\N_NN तर\CC_CCS अशी\JJ की\CC_CCS येथे\DM_DMD साहसाचा\N_NN अर्थ\N_NN खेळ\N_NN ,\RD_PUNC आनंद\N_NN किंवा\CC_CCD सामाजिक\JJ संबंध\N_NN असा\JJ आहे\V_VM ज्या\PR_PRL अंतर्गत\JJ काही\QT_QTF असे\RB केले\V_VM जाते\V_VAUX की\CC_CCS ज्यामध्ये\PR_PRL मजा\N_NN येईल\V_VM आणि\CC_CCD तुमचे\PR_PRP साहसही\N_NN त्यामध्ये\PR_PRL दिसून\V_VM येईल\V_VAUX .\RD_PUNC
+htd12190	या\DM_DMR दृष्टीने\N_NN पाहिले\V_VM असता\V_VAUX लोक\N_NN खरोखरच\N_NN धाडसी\JJ होऊ\V_VM लागले\V_VAUX आहेत\V_VAUX .\RD_PUNC
+htd12191	अशा\JJ लोकांची\N_NN कमतरता\N_NN नाही\V_VM जे\PR_PRL कारने\N_NN कन्याकुमारीपासून\N-NNP काश्मीर\N-NNP फिरण्याचा\V_VM कार्यक्रम\N_NN आखतात\V_VM .\RD_PUNC
+htd12192	साहसी\JJ लोक\N_NN थंडीच्या\N_NN दिवसातच\N_NN काश्मीरला\N-NNP जाण्याचे\V_VM धाडस\N_NN करतात\V_VM .\RD_PUNC
+htd12193	असे\RB कार्यक्रम\N_NN दरवर्षी\N_NN साहसी\JJ माणसाच्या\N_NN जीवनाचा\N_NN भाग\N_NN बनतात\V_VM .\RD_PUNC
+htd12194	साहसी\JJ खेळांसाठी\N_NN बनलेल्या\V_VM विविध\JJ संस्था\N_NN याबाबतीत\PR_PRL लोकांसाठी\N_NN सहायक\N_NN ठरल्या\V_VM आहेत\V_VAUX .\RD_PUNC
+htd12195	योजना\N_NN होती\V_VM की\CC_CCS सादत\N-NNP खान\N-NNP आणि\CC_CCD मीर\N-NNP बक्शींच्या\N-NNP तुकड्या\N_NN पेशव्यांच्या\N_NN सेनेला\N_NN मथुरा\N-NNP वृंदावन\N-NNP या\DM_DMR दरम्यान\QT_QTF वेढतील\V_VM .\RD_PUNC
+htd12196	पण\CC_CCD मराठा\N_NN पेशव्यांची\N_NN सेना\N_NN ते\DM_DMR पोहोचण्याआधीच\V_VM पुढे\N_NST कुच\N_NN करुन\V_VM गेल्या\V_VAUX होत्या\V_VAUX .\RD_PUNC
+htd12197	वेगाने\N_NN पेशवा\N_NN बाजीरावाने\N-NNP दिल्लीच्या\N-NNP बाहेर\N_NST असलेल्या\V_VM कालकाजी\N-NNP मंदिराजवळ\N_NN आपला\PR_PRP तळ\N_NN ठोकला\V_VM .\RD_PUNC
+htd12198	बादशहा\JJ महम्मद\N-NNP शहाने\N-NNP पाठविलेल्या\V_VM तुकड्या\N_NN पेशवा\N-NNP बाजीरावाचा\N-NNP पाठलाग\N_NN करत\V_VM कालकाजी\N-NNP मंदिराजवळ\N_NN येऊन\V_VM पोहोचल्या\V_VAUX .\RD_PUNC
+htd12199	पेशवा\N-NNP बाजीराव\N-NNP आपल्या\PR_PRP फौजेबरोबर\N_NN तालकटोराच्या\N-NNP जंगलाकडे\N_NN पळून\V_VM गेले\V_VAUX .\RD_PUNC
+htd12200	पेशवा\N-NNP बाजीरावांचे\N-NNP दिल्ली\N-NNP काबीज\N_NN करण्याचे\V_VM स्वप्न\N_NN पूर्ण\QT_QTF होऊ\V_VM शकले\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd12201	होय\V_VM पेशवा\N-NNP बाजीराव\N-NNP यांनी\DM_DMR मुघल\N_NN सैनिक\N_NN व\CC_CCD इंफेटरीचे\N-NNP मुद्दाम\RB नुकसान\N_NN केले\V_VM .\RD_PUNC
+htd12202	अशाप्रकारे\RB १८०५\QT_QTC मध्ये\N_NST जसवंतराव\N-NNP होळकरांनी\N-NNP दिल्लीवर\N-NNP हल्ला\N_NN करीत\V_VM कालकाजी\N-NNP मंदिराच्या\N_NN आवारात\N_NN आपला\PR_PRP तळ\N_NN ठोकला\V_VM होता\V_VAUX .\RD_PUNC
+htd12203	१८५७च्या\N_NN गदर\N-NNP आणि\CC_CCD १९४७च्या\N_NN भारत\N-NNP पाक\N-NNP विभागणी\N_NN वेळी\N_NN दिल्लीचे\N-NNP कालकाजी\N-NNP मंदिर\N_NN हिंदुंच्या\N_NN हालचालींचे\N_NN सक्रिय\JJ केंद्र\N_NN होते\V_VM .\RD_PUNC
+htd12204	संसारात\N_NN नेहमी\N_NST विविध\JJ संस्कृती\N_NN ,\RD_PUNC परंपरा\N_NN आणि\CC_CCD जीवनशैलीचे\N_NN सह\RP_RPD अस्तित्त्व\N_NN असते\V_VM .\RD_PUNC
+htd12205	या\DM_DMR विविधतांबाबतच\N_NN असणारी\V_VM मनुष्याची\N_NN जिज्ञासा\N_NN त्याला\PR_PRP एका\QT_QTC ठिकाणाहून\N_NN दुसर्‍या\QT_QTO ठिकाणी\N_NN घेऊन\V_VM जाते\V_VAUX ,\RD_PUNC ती\DM_DMR जरी\CC_CCS धर्म\N_NN ,\RD_PUNC भाषा\N_NN ,\RD_PUNC रीतिरिवाज\N_NN ,\RD_PUNC खाणे\V_VM -\RD_PUNC पिणे\V_VM ,\RD_PUNC स्थापत्य\N_NN किंवा\CC_CCD नैसर्गिक\JJ परिस्थितिशी\N_NN संबंधित\JJ असेल\V_VM .\RD_PUNC
+htd12206	हेच\DM_DMR कारण\N_NN आहे\V_VM की\CC_CCS विविधतेने\N_NN नटलेला\V_VM आपला\PR_PRP देश\N_NN आज\RB विश्वभरातील\N_NN पर्यटकांना\N_NN सातत्याने\N_NN आकर्षित\JJ करीत\V_VM आहे\V_VAUX .\RD_PUNC
+htd12207	भारताच्या\N-NNP सीमेवर\N_NN हिमालयाची\N-NNP पर्वतरांग\N_NN आहे\V_VM .\RD_PUNC
+htd12208	भारतात\N-NNP थरचे\N-NNP वाळवंट\N_NN आहे\V_VM ,\RD_PUNC हिरवीगार\JJ वने\N_NN आहेत\V_VM ,\RD_PUNC केरळातील\N-NNP बॅकवॉटर्स\N_NN आहेत\V_VM तर\CC_CCS तीन\QT_QTC दिशांना\N_NN अथांग\JJ समुद्र\N_NN आहे\V_VM .\RD_PUNC
+htd12209	भारतातील\N-NNP या\DM_DMR भौगोलिक\JJ वैशिष्ट्यांमध्ये\N_NN असे\RB बरेच\QT_QTF काही\QT_QTF आहे\V_VM की\CC_CCS जे\PR_PRL परदेशी\N_NN पर्यटकांना\N_NN येथे\DM_DMD आकर्षित\JJ करते\V_VM .\RD_PUNC
+htd12210	परदेशी\N_NN पर्यटकांना\N_NN भारतात\N-NNP प्राचीन\JJ किल्ले\N_NN ,\RD_PUNC महाल\N_NN ,\RD_PUNC हवेल्या\N_NN आणि\CC_CCD मंदिरांच्या\N_NN रूपातील\N_NN भव्य\JJ वास्तुशिल्पे\N_NN सर्वात\RP_INTF जास्त\QT_QTF आकर्षित\JJ करतात\V_VM .\RD_PUNC
+htd12211	कॉक्स\N_NN एंड\N_NN किंग\N_NN यासारख्या\PR_PRL पर्यटकांच्या\N_NN मताचा\N_NN विचार\N_NN करता\V_VM ऐतिहासिक\JJ आणि\CC_CCD पुरातत्त्व\N_NN दृष्टीने\N_NN महत्त्वाच्या\JJ इमारती\N_NN आपल्या\PR_PRP गौरवशाली\N_NN इतिहासाची\N_NN त्यांना\PR_PRP ओळख\V_VM करुन\V_VAUX देतात\V_VAUX .\RD_PUNC
+htd12212	किल्ले\N_NN ,\RD_PUNC महाल\N_NN आणि\CC_CCD हेरिटेज\N_NN हॉटेल्स\N_NN याद्वारे\N_NN विदेशी\N_NN पर्यटक\N_NN त्या\DM_DMR काळच्या\N_NN राजसी\JJ राहणीला\N_NN समजून\V_VM घेण्याचा\V_VM प्रयत्न\N_NN करतात\V_VM .\RD_PUNC
+htd12213	पॅलेस\N_NN ऑन\N_NN व्हील\N_NN आणि\CC_CCD रॉयल\JJ राजस्थान\N-NNP यासारख्या\DM_DMR शाही\JJ रेल्वेगाड्यांमधून\N_NN हे\DM_DMR लोक\N_NN शाही\JJ यात्रेची\N_NN मजा\N_NN लुटतात\V_VM .\RD_PUNC
+htd12214	खजुराहो\N-NNP ,\RD_PUNC कोणार्क\N-NNP ,\RD_PUNC महाबलीपुरम\N-NNP ,\RD_PUNC हंपी\N-NNP ,\RD_PUNC बदामी\N-NNP ,\RD_PUNC तंजावुर\N-NNP येथील\PR_PRL महान\JJ वास्तुशिल्पांशिवाय\N_NN अजंठा\N-NNP -\RD_PUNC वेरुळ\N-NNP येथील\PR_PRL गुहा\N_NN त्यांना\PR_PRP खूप\QT_QTF प्रभावित\JJ करतात\V_VM .\RD_PUNC
+htd12215	तेथे\DM_DMD त्यांना\PR_PRP प्रस्तर\N_NN कला\N_NN आणि\CC_CCD मूर्तीशिल्पांमध्ये\N_NN लपलेले\V_VM सौंदर्य\N_NN मोहून\V_VM टाकते\V_VAUX .\RD_PUNC
+htd12216	परदेशी\N_NN पर्यटकांसाठी\N_NN दुसरे\QT_QTO आकर्षण\N_NN म्हणजे\CC_CCD आपले\PR_PRP मैलन्\N_NN मैल\N_NN लांब\JJ किनार्‍यावर\N_NN पसरलेले\V_VM शानदार\JJ बीच\N_NN आहेत\V_VM .\RD_PUNC
+htd12217	या\DM_DMR बीचवर\N_NN परदेशी\N_NN पर्यटक\N_NN ’\RD_PUNC सन\N_NN ,\RD_PUNC सर्फ\N_NN आणि\CC_CCD सॅंड\N_NN ’\RD_PUNC यांचा\PR_PRP आनंद\N_NN घेतात\V_VM .\RD_PUNC
+htd12218	समुद्रस्नानानंतर\N_NN रेतीवर\N_NN सूर्याच्या\N_NN किरणांचा\N_NN आनंद\N_NN घेत\V_VM आपल्या\PR_PRP त्वचेचा\N_NN रंग\N_NN बदलणारे\V_VM पर्यटक\N_NN काही\QT_QTF कमी\QT_QTF नाहीत\V_VM .\RD_PUNC
+htd12219	त्यामुळेच\CC_CCD कोवलम\N-NNP ,\RD_PUNC महाबलीपुरम\N-NNP ,\RD_PUNC विशाखापट्टणम\N-NNP आणि\CC_CCD गोवा\N-NNP येथील\PR_PRL सर्व\QT_QTF बीच\N_NN नेहमी\RB विदेशी\N_NN पर्यटकांनी\N_NN फुललेले\V_VM असतात\V_VAUX .\RD_PUNC
+htd12220	परदेशी\N_NN पर्यटकांसाठी\N_NN भारतात\N-NNP ऍडवेंचरला\N_NN उपयोगी\JJ अनेक\QT_QTF स्थळे\N_NN आहेत\V_VM .\RD_PUNC
+htd12221	स्कूबा\N_NN डायविंग\N_NN आणि\CC_CCD पॅरासेलिंग\N_NN यासारख्या\PR_PRL ऍडवेंचर\N_NN स्पोर्ट्सच्या\N_NN शौकीनांसाठी\N_NN लक्षद्वीप\N-NNP आणि\CC_CCD अंदमान\N-NNP निकोबार\N-NNP द्वीप\N_NN समूह\N_NN ही\DM_DMR आदर्श\JJ स्थळे\N_NN आहेत\V_VM .\RD_PUNC
+htd12222	तर\CC_CCS स्नो\N_NN स्पोर्ट्स\N_NN ऍडवेंचरसाठी\N_NN पर्यटक\N_NN गुलमर्ग\N-NNP ,\RD_PUNC सोलांग\N-NNP आणि\CC_CCD ऑलीतील\N-NNP बर्फाळ\JJ दर्‍यांमध्ये\N_NN जाणे\V_VM पसंत\N_NN करतात\V_VM .\RD_PUNC
+htd12223	रिवर\N_NN राफ्टिंग\N_NN ,\RD_PUNC रॉक\N_NN क्लाइंबिंग\N_NN ,\RD_PUNC पॅराग्लायडिंगसाठी\N_NN आदर्श\JJ ठिकाणांची\N_NN भारतात\N-NNP कमतरता\N_NN नाही\V_VM .\RD_PUNC
+htd12224	भारतातील\N-NNP वन्यजीव\N_NN अभयारण्य\N_NN आणि\CC_CCD बर्ड\N_NN सॅंक्चरी\N_NN इत्यादी\JJ तरी\CC_CCS विदेशी\N_NN आणि\CC_CCD भारतीय\JJ पर्यटक\N_NN या\DM_DMR दोघांना\N_NN रोमांचित\JJ करतात\V_VM .\RD_PUNC
+htd12225	भारतीय\JJ पर्वतीय\JJ स्थळांना\N_NN विदेशी\N_NN पर्यटक\N_NN केवळ\JJ ऍडवेंचरकरिता\N_NN जातात\V_VM .\RD_PUNC
+htd12226	स्थानिक\N_NN पर्यटकांसाठी\N_NN हिल\N_NN स्टेशन्स\N_NN ही\DM_DMR शहरी\JJ गडबडीपासून\N_NN नैसर्गिक\JJ वातावरणामध्ये\N_NN सुट्ट्या\N_NN घालविण्याची\V_VM स्थळे\N_NN आहेत\V_VM .\RD_PUNC
+htd12227	ग्रीष्म\N_NN ऋतुमध्ये\N_NN सर्व\QT_QTF हिल\N_NN स्टेशन्स\N_NN वर\N_NST लोकांची\N_NN खूपच\RP_INTF गर्दी\N_NN पहायला\V_VM मिळते\V_VAUX .\RD_PUNC
+htd12228	पर्वतांमध्ये\N_NN अनेक\QT_QTF तीर्थस्थळे\N_NN आहेत\V_VM .\RD_PUNC
+htd12229	तीर्थस्थळांमध्ये\N_NN भक्तांचे\N_NN येणे\V_VM -\RD_PUNC जाणे\V_VM असते\V_VM .\RD_PUNC
+htd12230	हेच\DM_DMR कारण\N_NN आहे\V_VM की\CC_CCS भारतातील\N-NNP स्थानिक\JJ पर्यटनामध्ये\N_NN धार्मिक\JJ पर्यटनाचे\N_NN प्रमाण\N_NN सर्वाधिक\QT_QTF आहे\V_VM .\RD_PUNC
+htd12231	उत्तराखंड\N-NNP मधील\N_NN धाम\N_NN ,\RD_PUNC हिमाचलातील\N-NNP तीर्थस्थळे\N_NN आणि\CC_CCD वैष्णोदेवी\N-NNP ,\RD_PUNC पर्वतातील\N_NN प्रमुख\JJ तीर्थस्थळे\N_NN आहेत\V_VM .\RD_PUNC
+htd12232	पानिकर\N-NNP ट्रॅवल्सच्या\N_NN म्हणण्यानुसार\V_VM ,\RD_PUNC तीर्थयात्रेच्या\N_NN रुपाने\N_NN भारतीय\JJ लोक\N_NN उत्तरेपासून\N_NN दूर\N_NST दक्षिणेपर्यंत\N_NN आणि\CC_CCD पूर्वेपासून\N_NN पश्चिमेपर्यंत\N_NN दूर\N_NST दूर\N_NST चालत\V_VM येतात\V_VAUX .\RD_PUNC
+htd12233	आयोध्या\N-NNP ,\RD_PUNC मथुरा\N-NNP ,\RD_PUNC उज्जैन\N-NNP ,\RD_PUNC तिरुपती\N-NNP ,\RD_PUNC रामेश्वरम\N-NNP ,\RD_PUNC द्वारका\N-NNP ,\RD_PUNC सोमनाथ\N-NNP ,\RD_PUNC जगन्नाथपुरी\N-NNP याशिवाय\PR_PRL नऊ\QT_QTC देवी\N_NN दर्शन\N_NN ,\RD_PUNC बारा\QT_QTC ज्योतिर्लिंग\N_NN दर्शन\N_NN ,\RD_PUNC शिख\N_NN दर्शन\N_NN आणि\CC_CCD जैन\N_NN तीर्थस्थळांच्या\N_NN यात्रा\N_NN धार्मिक\JJ पर्यटनाचा\N_NN भक्कम\JJ आधार\N_NN आहेत\V_VM .\RD_PUNC
+htd12234	परदेशी\JJ पर्यटक\N_NN या\DM_DMR स्थळांना\N_NN मंदिर\N_NN वास्तुशिल्पे\N_NN किंवा\CC_CCD श्रद्धेचे\N_NN अनोखे\JJ रूप\N_NN अनुभवायला\V_VM भेट\N_NN देतात\V_VM .\RD_PUNC
+htd12235	या\DM_DMR यात्रांमध्ये\N_NN दक्षिण\N_NN भारतातील\N-NNP मंदिरांची\N_NN गगनचुंबी\JJ गोपुरे\N_NN आणि\CC_CCD त्यावर\PR_PRL कोरलेल्या\V_VM रंगीबेरंगी\JJ मुर्ती\N_NN विदेशी\JJ पर्यटकांना\N_NN मुग्ध\JJ करुन\V_VM टाकतात\V_VAUX .\RD_PUNC
+htd12236	धार्मिक\JJ दृष्टीकोणाने\N_NN भारतात\N-NNP आलेले\V_VM परदेशी\JJ पर्यटक\N_NN साधारणतः\RB बौध्द्स्थानांना\N_NN भेटी\N_NN देतात\V_VM .\RD_PUNC
+htd12237	जपान\N-NNP ,\RD_PUNC थायलंड\N-NNP आणि\CC_CCD श्रीलंका\N-NNP येथील\PR_PRL पर्यटकांसाठी\N_NN प्रमुख\JJ जाण्यायोग्य\N_NN अशी\JJ ठिकाणे\N_NN म्हणजे\CC_CCD बौद्धस्थळ\N_NN सारनाथ\N-NNP ,\RD_PUNC कुशीनगर\N-NNP ,\RD_PUNC बोधगया\N-NNP ,\RD_PUNC सांची\N-NNP ,\RD_PUNC अमरावती\N-NNP आणि\CC_CCD धर्मशाला\N-NNP .\RD_PUNC
+htd12238	काही\QT_QTF विदेशी\JJ पर्यटकांना\N_NN वृंदावन\N-NNP ,\RD_PUNC मथुरा\N-NNP येथे\DM_DMD कृष्ण\N-NNP जीवन\N_NN दर्शनाने\N_NN मनःशांती\N_NN मिळते\V_VM .\RD_PUNC
+htd12239	काही\QT_QTF विदेशी\JJ पर्यटक\N_NN ऋषिकेश\N-NNP येथे\DM_DMD आश्रमात\N_NN राहून\V_VM आत्मिक\JJ शांती\N_NN प्राप्त\JJ करतात\V_VM .\RD_PUNC
+htd12240	पॉंडेचरीच्या\N-NNP जवळ\RB ओरोविल\N-NNP आणि\CC_CCD पुण्याचे\N-NNP ओशो\N-NNP आश्रमात\N_NN शांती\N_NN प्राप्त\JJ करण्यासाठी\V_VM पर्यटक\N_NN जातात\V_VM .\RD_PUNC
+htd12241	आत्मिक\JJ शांतीसारख्या\N_NN शारीरिक\JJ लाभासाठी\N_NN मोठ्या\JJ संख्येने\N_NN पर्यटक\N_NN येथे\DM_DMD येतात\V_VM .\RD_PUNC
+htd12242	उर्जा\N_NN प्राप्तीसाठी\N_NN आपल्या\PR_PRP देशात\N_NN प्राकृतिक\JJ चिकित्सा\N_NN ,\RD_PUNC योग\N_NN आणि\CC_CCD स्पा\N_NN थेरपी\N_NN इ\JJ .\RD_PUNC अनेक\QT_QTF जगप्रसिद्ध\JJ स्थाने\N_NN आहेत\V_VM .\RD_PUNC
+htd12243	केरळ\N-NNP आणि\CC_CCD उत्तरखंडात\N-NNP अनेक\QT_QTF स्थाने\N_NN आहेत\V_VM .\RD_PUNC
+htd12244	भारतातील\N-NNP या\DM_DMR स्थानांमध्ये\N_NN भारतीय\JJ पर्यटकांच्या\N_NN तुलनेत\N_NN विदेशी\JJ पर्यटक\N_NN अधिक\QT_QTF संख्येने\N_NN येतात\V_VM .\RD_PUNC
+htd12245	प्राकृतिक\JJ चिकित्सेसाठी\N_NN केरळ\N-NNP तर\CC_CCS योगासाठी\N_NN ऋषीकेश\N-NNP जगप्रसिध्द\JJ स्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd12246	आपल्या\PR_PRP देशातील\N_NN विविध\JJ रंगी\N_NN संस्कृतीमध्ये\N_NN मेळे\N_NN आणि\CC_CCD उत्सव\N_NN यांचे\PR_PRP महत्त्व\N_NN अधिक\QT_QTF आहे\V_VM .\RD_PUNC
+htd12247	राजस्थानमधील\N-NNP पुष्कर\N-NNP मेळा\N_NN ,\RD_PUNC डेझर्ट\N_NN उत्सव\N_NN ,\RD_PUNC खजुराहो\N-NNP आणि\CC_CCD महाबलीपुरम\N-NNP येथील\PR_PRL नृत्य\N_NN उत्सव\N_NN ,\RD_PUNC लद्दाख\N-NNP उत्सवात\N_NN विदेशी\JJ पर्यटक\N_NN सहभागी\N_NN होताना\V_VM दिसतात\V_VAUX .\RD_PUNC
+htd12248	कर्नाटकातील\N-NNP हंपी\N-NNP उत्सव\N_NN ,\RD_PUNC ओरिसातील\N-NNP रथयात्रा\N_NN ,\RD_PUNC केरळमधील\N-NNP नावांची\N_NN शर्यत\N_NN यात\DM_DMR विदेशी\JJ पर्यटकही\N_NN सहभाग\N_NN घेताना\V_VM दिसतात\V_VAUX .\RD_PUNC
+htd12249	काही\QT_QTF वर्षापूर्वी\N_NN आपल्या\PR_PRP देशात\N_NN खेड्यांमधून\N_NN प्रवास\N_NN स्वरूपाचा\N_NN इको\N_NN प्रवास\N_NN नामक\N_NN एक\QT_QTC नवीन\JJ गोष्ट\N_NN सुरू\JJ झाली\V_VM आहे\V_VAUX .\RD_PUNC
+htd12250	आमच्या\PR_PRP देशातील\N_NN समृद्ध\JJ पर्यटकांशिवाय\N_NN खेड्यातील\N_NN सहल\N_NN विदेशी\JJ पर्यटकांना\N_NN खूपच\RP_INTF आवडले\V_VM .\RD_PUNC
+htd12251	खेड्यातील\N_NN प्रवासासह\N_NN आज\RB होम\N_NN स्टे\N_NN या\DM_DMR गोष्टीचे\N_NN आकर्षणही\N_NN वाढले\V_VM आहे\V_VAUX .\RD_PUNC
+htd12252	दुसरीकडे\N_NN आपल्या\PR_PRP देशाने\N_NN कॉरपोरेट\N_NN टुरिझम\N_NN क्षेत्रातही\N_NN आपली\PR_PRP ऒळख\N_NN निर्माण\N_NN केली\V_VM आहे\V_VAUX .\RD_PUNC
+htd12253	भारतातील\N-NNP अनेक\QT_QTF शहरात\N_NN विश्वस्तरीय\N_NN संवाद\N_NN केंद्र\N_NN आहे\V_VM .\RD_PUNC
+htd12254	एवढेच\CC_CCD नाही\V_VM विश्व\N_NN फॅशन\N_NN जगामध्ये\N_NN भारतीय\JJ डिझायनर्सची\N_NN एक\QT_QTC वेगळी\JJ ओळख\N_NN निर्माण\N_NN होण्याआधी\V_VM सुमारे\N_NN दहावर्ष\N_NN येथे\DM_DMD फॅशन\N_NN टुरिझमची\N_NN सुरुवात\N_NN झाली\V_VM होती\V_VAUX .\RD_PUNC
+htd12255	तेंव्हापासून\CC_CCS अनेक\QT_QTF मोठ्या\JJ फॅशन\N_NN इव्हेंट\N_NN आणि\CC_CCD मिस्टर\N_NN इंटरनॅशनल\N_NN यासारख्या\PR_PRL कार्यक्रमांची\N_NN रेलचेल\N_NN भारतात\N-NNP चालु\V_VM होती\V_VAUX .\RD_PUNC
+htd12256	या\DM_DMR माध्यमातून\N_NN भारत\N-NNP देशात\N_NN ``\RD_PUNC इन\N_NN बाउंड\N_NN टुरिझम\N_NN ``\RD_PUNC यास\PR_PRP सतत\N_NST प्रोत्साहन\N_NN मिळत\V_VM गेले\V_VAUX .\RD_PUNC
+htd12257	आगामी\JJ वर्षात\N_NN आयोजित\JJ केल्या\V_VM जाणार्‍या\V_VM कॉमनवेल्थ\N_NN गेम्समुळे\N_NN भारतीय\JJ पर्यटनाला\N_NN आणखी\N_NN प्रोत्साहन\N_NN मिळत\V_VM आहे\V_VAUX .\RD_PUNC
+htd12258	आशा\N_NN आहे\V_VM भारत\N-NNP डेस्टीनेशन\N_NN विथ\N_NN डायव्हर्सिटीच्या\N_NN रूपात\N_NN पुढे\N_NST येईल\V_VM .\RD_PUNC
+htd12259	विजया\N-NNP दशमी\N_NN अर्थात\N_NN दसरा\N_NN हा\DM_DMR सत्याचा\N_NN असत्यावर\N_NN विजय\N_NN तसेच\CC_CCD वाईटावर\N_NN चांगुलपणाच\N_NN विजय\N_NN या\DM_DMR स्वरूपात\N_NN मानला\V_VM जाणारा\V_VAUX उत्तर\N_NN भारतातील\N-NNP एक\QT_QTC प्रमुख\JJ सण\N_NN आहे\V_VM .\RD_PUNC
+htd12260	नऊ\QT_QTC दिवस\N_NN चालणार्‍या\V_VM रामलीलेचे\N_NN सादरीकरण\N_NN भगवान\N_NN रामाचे\N-NNP चरित्र\N_NN दाखवले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12261	दसर्‍यादिवशी\N_NN कुंभकर्ण\N-NNP आणि\CC_CCD मेघनाथाचे\N-NNP पुतळे\N_NN जाळले\V_VM जातात\V_VAUX .\RD_PUNC
+htd12262	रामलीला\N_NN पाहण्यासाठी\N_NN हजारो\N_NN प्रेक्षक\N_NN तेथे\DM_DMD पोहोचतात\V_VM .\RD_PUNC
+htd12263	भगवान\N_NN रामाच्या\N-NNP जयघोषासह\N_NN या\DM_DMR पर्वाचा\N_NN समारोप\N_NN होतो\V_VM .\RD_PUNC
+htd12264	कुल्लु\N-NNP (\RD_SYM हिमाचल\N-NNP प्रदेश\N_NN )\RD_SYM येथील\PR_PRL दसरा\N_NN स्वतःचे\PR_PRF विशेष\JJ स्थान\N_NN ठेवून\V_VM आहे\V_VAUX .\RD_PUNC
+htd12265	प्रदेशातील\N_NN भिन्न\JJ भिन्न\JJ मंदिरांमध्ये\N_NN देवी\N_NN देवतांच्या\N_NN मूर्ती\N_NN पालखी\N_NN आणि\CC_CCD डोलींमधून\N_NN सजवून\V_VM अत्यंत\RP_INTF श्रद्धापूर्वक\N_NN कुल्लुमधील\N-NNP श्री\N_NN रघुनाथ\N-NNP मंदिरात\N_NN आणल्या\V_VM जातात\V_VAUX .\RD_PUNC
+htd12266	कुल्लुमध्ये\N-NNP विशेष\JJ पूजा\N_NN अर्चा\N_NN करण्याची\V_VM पद्धत\N_NN आहे\V_VM .\RD_PUNC
+htd12267	दसर्‍याच्या\N_NN वेळी\N_NN कुल्लुमधील\N-NNP मैदानात\N_NN एक\QT_QTC मोठा\JJ मेळा\N_NN भरतो\V_VM .\RD_PUNC
+htd12268	बाजारात\N_NN नटलेली\V_VM दुकाने\N_NN रंगीबेरंगी\JJ वेषातील\N_NN लहान\JJ मुले\N_NN ,\RD_PUNC महिला\N_NN ,\RD_PUNC पुरुष\N_NN ,\RD_PUNC वृद्ध\JJ यांचा\PR_PRP उत्साह\N_NN पाहण्यासारखा\V_VM असतो\V_VAUX .\RD_PUNC
+htd12269	दसर्‍याला\N_NN कुल्लुमध्ये\N-NNP गीत\N_NN -\RD_PUNC संगीत\N_NN आणि\CC_CCD लोकनृत्य\N_NN यांची\PR_PRP रेलचेल\N_NN असते\V_VM .\RD_PUNC
+htd12270	कुल्लुमधील\N-NNP हा\DM_DMR उत्सव\N_NN दसर्‍यापासून\N_NN सुरु\JJ होऊन\V_VM एक\QT_QTC आठवडाभर\N_NN असतो\V_VM .\RD_PUNC
+htd12271	छत्तिसगड\N-NNP राज्याच्या\N_NN बस्तर\N-NNP जिल्ह्यातील\N_NN जगदलपुर\N-NNP येथे\DM_DMD साजरा\N_NN करण्यात\V_VM येणार्‍या\V_VM दसर्‍याचे\N_NN स्वरूप\N_NN किंचित\QT_QTF वेगळे\JJ आहे\V_VM .\RD_PUNC
+htd12272	राज्याची\N_NN इष्ट\JJ देवता\N_NN माता\N_NN दंतेश्वरीच्या\N-NNP शोभा\N_NN यात्रेत\N_NN दसरा\N_NN प्रमुख\JJ आकर्षण\N_NN केंद्र\N_NN आहे\V_VM .\RD_PUNC
+htd12273	दसर्‍यावेळेस\N_NN माता\N_NN दंतेश्वरीची\N-NNP पालखी\N_NN दंतेवाडापासून\N-NNP जगदलपूरमध्ये\N-NNP आणली\V_VM जाते\V_VAUX .\RD_PUNC
+htd12274	जगदलपुरमध्ये\N-NNP पूजेनंतर\N_NN तिला\DM_DMR दंतेवाडाकडे\N-NNP पाठविले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12275	दसरा\N_NN बस्तर\N-NNP वासियांचा\N_NN प्रमुख\JJ सण\N_NN आहे\V_VM .\RD_PUNC
+htd12276	बस्तर\N-NNP क्षेत्रातील\N_NN कानाकोपर्‍यातून\N_NN आदिवासी\N_NN लोक\N_NN जगदलपुर\N-NNP येथे\DM_DMD येऊन\V_VM दसर्‍याच्या\N_NN आनंदोत्सवात\N_NN सहभागी\N_NN होतात\V_VM .\RD_PUNC
+htd12277	म्हणतात\V_VM की\CC_CCS १५व्या\N_NN शतकात\N_NN काकातिया\N-NNP वंशातील\N_NN चवथे\N_NN महाराज\N_NN पुरुषोत्तम\N-NNP देव\N-NNP यांनी\PR_PRL बस्तरमध्ये\N_NN दसरा\N_NN उत्सवाची\N_NN सुरुवात\N_NN केली\V_VM .\RD_PUNC
+htd12278	कर्नाटकातील\N-NNP म्हैसूरमधील\N-NNP दसरा\N_NN एका\QT_QTC वेगळ्या\JJ पध्द्तीने\N_NN साजरा\N_NN केला\V_VM जातो\V_VAUX .\RD_PUNC
+htd12279	असे\RB म्हणतात\V_VM की\CC_CCS चामुंडा\N-NNP देवीच्या\N_NN महिषासुर\N-NNP राक्षसावरील\N_NN विजयाचे\N_NN प्रतिक\N_NN म्हणून\CC_CCS_UT म्हैसूरमध्ये\N-NNP दसरा\N_NN साजरा\N_NN करण्यास\V_VM सुरुवात\N_NN झाली\V_VM .\RD_PUNC
+htd12280	या\DM_DMR प्रसंगी\N_NN म्हैसूरच्या\N-NNP राजमहालातून\N_NN एक\QT_QTC शाही\JJ मिरवणूक\N_NN निघते\V_VM .\RD_PUNC
+htd12281	म्हैसूरच्या\N-NNP या\DM_DMR मिरवणूकीत\N_NN विविध\JJ झलकींशिवाय\N_NN नटवलेले\V_VM हत्ती\N_NN आकर्षणाचे\N_NN केंद्र\N_NN असतात\V_VM .\RD_PUNC
+htd12282	नवमीला\N_NN पूजेनंतर\N_NN ही\DM_DMR मिरवणूक\N_NN महालापासून\N_NN शहरातील\N_NN सर्व\QT_QTF प्रमुख\JJ मार्गांवरून\N_NN जात\V_VM बन्नी\N-NNP मंडप\N_NN येथे\DM_DMD पोहोचते\V_VM .\RD_PUNC
+htd12283	बन्नी\N-NNP मंडपात\N_NN रात्री\N_NN टॉर्च\N_NN परेड\N_NN आणि\CC_CCD पोलिस\N_NN बॅंडमधील\N_NN आकर्षक\N_NN धुन\N_NN जमलेल्या\V_VM जनसागराचे\N_NN मन\N_NN मोहून\V_VM टाकतात\V_VAUX .\RD_PUNC
+htd12284	प\N_NN .\RD_PUNC बंगालमध्ये\N_NN दसर्‍याला\N_NN नऊ\QT_QTC दिवस\N_NN चालणार्‍या\V_VM दुर्गा\N-NNP पूजेनंतर\N_NN दुर्गा\N-NNP देवीच्या\N_NN मूर्ती\N_NN समुद्र\N_NN तसेच\CC_CCD नद्यांमध्ये\N_NN आदराने\N_NN विसर्जित\JJ करण्याची\V_VM परंपरा\N_NN आहे\V_VM .\RD_PUNC
+htd12285	चला\V_VM आज\RB आम्ही\PR_PRP तुम्हाला\PR_PRP त्रिशुळ\N-NNP पर्वताविषयी\N_NN माहिती\N_NN सांगतो\V_VM .\RD_PUNC
+htd12286	तुम्ही\PR_PRP भगवान\N_NN शंकर\N-NNP आणि\CC_CCD त्यांची\PR_PRL चित्रे\N_NN खूप\QT_QTF वेळा\N_NN पाहिली\V_VM असतील\V_VAUX .\RD_PUNC
+htd12287	त्यामध्ये\PR_PRL भगवान\N_NN शंकराच्या\N-NNP हातात\N_NN त्यांचे\DM_DMR शस्त्र\N_NN त्रिशूळ\N-NNP अवश्य\RB पाहिले\V_VM असेल\V_VAUX .\RD_PUNC
+htd12288	हिमालय\N-NNP पर्वतरांगेत\N_NN असलेल्या\V_VM एका\QT_QTC हिमशिखराचे\N_NN नाव\N_NN त्यावरूनच\PR_PRL त्रिशूळ\N-NNP असे\CC_CCS_UT पडले\V_VM आहे\V_VAUX .\RD_PUNC
+htd12289	तुम्ही\PR_PRP विचार\N_NN कराल\V_VM की\CC_CCS ,\RD_PUNC काय\PR_PRQ हे\DM_DMR शिखर\N_NN त्रिशूळाप्रमाणे\N_NN दिसत\V_VM असेल\V_VAUX ?\RD_PUNC
+htd12290	त्रिशूळ\N-NNP शिखर\N_NN भगवान\N_NN शंकराच्या\N-NNP त्रिशूळाप्रमाणे\N_NN दिसत\V_VM नाही\V_VAUX ,\RD_PUNC पण\CC_CCD त्रिशूळाप्रमाणे\N_NN याची\DM_DMR तीन\QT_QTC शिखरे\N_NN आहेत\V_VM .\RD_PUNC
+htd12291	यांना\PR_PRL प्रथम\N_NN त्रिशूळ\N_NN ,\RD_PUNC द्वितीय\N_NN त्रिशूळ\N_NN आणि\CC_CCD तृतीय\N_NN त्रिशूळ\N_NN असे\CC_CCS_UT म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12292	प्रथम\QT_QTC त्रिशूळ\N_NN हे\DM_DMR सर्वात\RP_INTF उंच\JJ शिखर\N_NN आहे\V_VM .\RD_PUNC
+htd12293	समुद्र\N_NN सपाटीपासून\N_NN प्रथम\QT_QTC त्रिशूळाची\N_NN उंची\N_NN ७\QT_QTC ,\RD_PUNC १२०\QT_QTC मीटर\N_NN आहे\V_VM .\RD_PUNC
+htd12294	द्वितीय\QT_QTC आणि\CC_CCD तृतीय\QT_QTC शिखर\N_NN क्रमशः\RB ६\QT_QTC ,\RD_PUNC ६९०\QT_QTC मीटर\N_NN आणि\CC_CCD ६\QT_QTC ,\RD_PUNC ००७\QT_QTC मीटर\N_NN उंच\JJ आहेत\V_VM .\RD_PUNC
+htd12295	आणखी\QT_QTF एक\QT_QTC गोष्ट\N_NN सांगा\V_VM की\CC_CCS ही\DM_DMR तिन्ही\N_NN शिखरे\N_NN एका\QT_QTC रिजच्या\N_NN माध्यमातून\N_NN एकामेकांना\N_NN जोडलेले\V_VM आहेत\V_VAUX .\RD_PUNC
+htd12296	त्रिशूळ\N-NNP शिखर\N_NN उत्तराखंडाच्या\N-NNP बागेश्वर\N-NNP जिल्ह्यात\N_NN आहे\V_VM .\RD_PUNC
+htd12297	बागेश्वर\N-NNP कुमाऊंच्या\N-NNP पश्चिम\N_NN भागात\N_NN आहे\V_VM .\RD_PUNC
+htd12298	बागेश्वर\N-NNP येथे\DM_DMD या\DM_DMR हिमशिखराला\N_NN पवित्र\JJ मानले\V_VM जाते\V_VM .\RD_PUNC
+htd12299	अशी\JJ माहिती\N_NN देण्यात\V_VM येते\V_VM की\CC_CCS सुरुवातीला\N_NN जेव्हा\CC_CCS या\DM_DMR शिखरावर\N_NN चढण्याचा\V_VM प्रयत्न\N_NN सुरु\JJ झाला\V_VM तेव्हा\CC_CCS तेथील\PR_PRL रक्षकाने\N_NN त्रिशूळ\N-NNP शिखरावर\N_NN चढण्याला\V_VM मनाई\N_NN करत\V_VM असत\V_VAUX .\RD_PUNC
+htd12300	यांच्या\PR_PRL मते\N_NN त्रिशूळ\N-NNP शिखर\N_NN एक\QT_QTC पवित्र\JJ आणि\CC_CCD पूजनीय\JJ पर्वतशिखर\N_NN आहे\V_VM .\RD_PUNC
+htd12301	अनेक\QT_QTF प्रयत्नानंतर\N_NN त्रिशूळ\N-NNP शिखरावर\N_NN पोहोचण्याचा\V_VM पहिला\QT_QTO प्रयत्न\N_NN १९०७मध्ये\N_NN झाला\V_VM .\RD_PUNC
+htd12302	तेंव्हा\CC_CCS टी\N-NNP .\RD_PUNC जी\N-NNP .\RD_PUNC लॉन्गस्टाफ\N-NNP आपल्या\PR_PRP सह\RP_RPD दोन\QT_QTC अन्य\QT_QTF ब्रिटीश\N_NN गिर्यारोहकांबरोबर\N_NN ,\RD_PUNC काही\QT_QTF मार्गदर्शक\N_NN आणि\CC_CCD रक्षकांसह\N_NN या\DM_DMR शिखरावर\N_NN पोहोचण्यात\V_VM सफल\RB झाले\V_VM होते\V_VAUX .\RD_PUNC
+htd12303	त्यांनी\PR_PRP घाटाच्या\N_NN मार्गे\RB त्रिशूळ\N-NNP हिमनदाचा\N_NN मार्ग\N_NN अवलंबिला\V_VM होता\V_VAUX .\RD_PUNC
+htd12304	रस्त्यात\N_NN त्यांना\PR_PRL काही\QT_QTF ठिकाणी\N_NN बर्फाच्या\N_NN वादळांचा\N_NN सामना\N_NN करावा\V_VM लागला\V_VAUX होता\V_VAUX पण\CC_CCD त्यांनी\PR_PRL निश्चय\N_NN सोडला\V_VM नाही\V_VAUX .\RD_PUNC
+htd12305	एक\QT_QTC विशेष\JJ गोष्ट\N_NN अशी\JJ की\CC_CCS तेंव्हा\CC_CCS हिमालयाच्या\N-NNP हिमशिखरांमध्ये\N_NN त्रिशूळ\N-NNP सर्वात\RP_INTF उंच\JJ शिखर\N_NN होते\V_VM .\RD_PUNC
+htd12306	यावर\PR_PRL माणसाने\N_NN विजय\N_NN मिळविला\V_VM होता\V_VAUX अर्थात\CC_CCD त्यावेळेपर्यंत\PR_PRL त्रिशूळ\N-NNP शिखरापेक्षा\N_NN उंच\JJ शिखरावर\N_NN माणूस\N_NN पोहोचला\V_VM नव्हता\V_VAUX .\RD_PUNC
+htd12307	आणखी\QT_QTF एक\QT_QTC रोचक\JJ गोष्ट\N_NN अशी\JJ की\CC_CCS १९८७\QT_QTC मध्ये\N_NST युगोस्लाव्हियामधील\N-NNP एका\QT_QTC अभियानात\N_NN गिर्यारोहकांनी\N_NN एकाच\N_NN वेळी\N_NN तीन\QT_QTC शिखरे\N_NN सर\N_NN केली\V_VM .\RD_PUNC
+htd12308	पर्वत\N_NN रोहणादरम्यान\N_NN त्यांना\PR_PRL काही\QT_QTF ठिकाणी\N_NN भिंती\N_NN सदृश\RP_RPD पर्वत\N_NN ओलांडून\V_VM जावे\V_VAUX लागले\V_VAUX .\RD_PUNC
+htd12309	यासाठी\PR_PRL या\DM_DMR गिर्यारोहकांना\N_NN बर्फाच्या\N_NN कुर्‍हाडीने\N_NN रस्ता\N_NN तयार\JJ करून\V_VM चढावे\V_VAUX लागत\V_VAUX होते\V_VAUX .\RD_PUNC
+htd12310	आश्चर्याची\N_NN गोष्ट\N_NN अशी\JJ की\CC_CCS या\DM_DMR अभियानामधील\N_NN दोन\QT_QTC सदस्यांनी\N_NN त्रिशूळ\N-NNP शिखरावर\N_NN पॅराग्लाइडिंगही\N_NN केले\V_VM होते\V_VAUX .\RD_PUNC
+htd12311	त्रिशूळ\N-NNP समुहावर\N_NN गिर्यारोहणासाठी\N_NN कुमाऊमध्ये\N-NNP अल्मोडा\N-NNP ,\RD_PUNC कौसानी\N-NNP ,\RD_PUNC ग्वालदम\N-NNP ,\RD_PUNC देवाल\N-NNP ,\RD_PUNC बेदिनी\N-NNP ,\RD_PUNC बुग्याल\N-NNP आणि\CC_CCD रूपकुंड\N-NNP मार्गे\RB बेसकॅंप\N-NNP येथे\DM_DMD जावे\V_VM लागते\V_VAUX .\RD_PUNC
+htd12312	हे\DM_DMR तर\CC_CCS तुम्ही\PR_PRP जाणत\V_VM असाल\V_VAUX की\CC_CCS प्रत्येक\QT_QTF व्यक्ती\N_NN गिर्यारोहण\N_NN करू\V_VM शकत\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd12313	हिमालयातील\N-NNP हे\DM_DMR पवित्र\JJ शिखर\N_NN पाहण्याची\V_VM इच्छा\N_NN प्रत्येक\QT_QTF माणसाला\N_NN असते\V_VM .\RD_PUNC
+htd12314	यासाठी\PR_PRL त्रिशूळ\N-NNP शिखराचे\N_NN मनमोहक\JJ रूप\N_NN पाहायचे\V_VM असेल\V_VAUX तर\CC_CCS कौसानी\N-NNP येथे\DM_DMD जाऊ\V_VM शकता\V_VAUX .\RD_PUNC
+htd12315	कौसानी\N-NNP येथे\DM_DMD अनेक\QT_QTF व्ह्यू\N_NN पॉइंटस\N_NN आहेत\V_VM जेथुन\PR_PRL त्रिशूळ\N-NNP हिमशिखर\N_NN पाहता\V_VM येईल\V_VAUX .\RD_PUNC
+htd12316	विचार\N_NN करा\V_VM त्रिशूळ\N-NNP पर्वताची\N_NN बर्फाच्छादित\JJ तीन\QT_QTC शिखरे\N_NN पाहून\V_VM तुमचे\PR_PRP मनही\N_NN मोठे\JJ झाल्यावर\V_VM गिर्यारोहक\N_NN बनणयाची\V_VM इच्छा\N_NN करू\V_VM लागेल\V_VAUX .\RD_PUNC
+htd12317	त्यावेळी\PR_PRL मणिपुरहून\N-NNP बंगाल\N-NNP जाण्यास\V_VM सर्वात\RP_INTF सरळ\JJ रस्ता\N_NN कछार\N-NNP मार्गे\RB होता\V_VM .\RD_PUNC
+htd12318	भाग्यचंद्रही\N-NNP त्याच\DM_DMR मार्गाचा\N_NN उपयोग\N_NN करू\V_VM इच्छित\JJ होते\V_VM .\RD_PUNC
+htd12319	कछारच्या\N-NNP राजाला\N_NN हे\DM_DMR मान्य\N_NN झाले\V_VM नाही\V_VAUX .\RD_PUNC
+htd12320	त्याने\PR_PRP महाराजांच्या\N_NN दोन\QT_QTC दूतांना\N_NN मारून\V_VM टाकले\V_VAUX आणि\CC_CCD त्यांना\PR_PRP दुष्परिणाम\N_NN भोगण्याचा\V_VM इशारा\N_NN दिला\V_VM .\RD_PUNC
+htd12321	या\DM_DMR परिस्थितीत\N_NN महाराज\N_NN भाग्यचंद्रांना\N-NNP कछारच्या\N-NNP दक्षिणेकडील\N_NN जंगलाचा\N_NN मार्ग\N_NN धरून\V_VM श्रीहट्टकडे\N-NNP (\RD_SYM सिल्हट\N-NNP )\RD_SYM जावे\V_VM लागले\V_VAUX .\RD_PUNC
+htd12322	श्रीहट्टचा\N-NNP हा\DM_DMR रस्ता\N_NN इतका\QT_QTF बिकट\JJ होता\N_NN की\CC_CCS तेथे\DM_DMD हत्तीवर\N_NN स्वार\N_NN होणे\V_VM शक्य\JJ नव्हते\V_VM .\RD_PUNC
+htd12323	महाराजांना\N_NN घोड्यावर\N_NN स्वार\N_NN होऊन\V_VM प्रवास\N_NN करावा\V_VM लागला\V_VAUX .\RD_PUNC
+htd12324	इंग्रज\N_NN अधिकारी\N_NN फ्रांसिस\N-NNP हेमिल्टन\N-NNP यांनी\PR_PRL अकाउंट\N_NN ऑफ\RP_RPD असाम\N-NNP मध्ये\N_NST महाराज\N_NN भाग्यचंद्रांसह\N-NNP या\DM_DMR प्रवासातील\N_NN लोकांची\N_NN संख्या\N_NN सातशे\QT_QTC नोंदविली\V_VM आहे\V_VAUX .\RD_PUNC
+htd12325	भाग्यचंद्राच्या\N-NNP या\DM_DMR प्रवासात\N_NN फक्त\JJ हमालच\N_NN तीनशे\QT_QTC होते\V_VM .\RD_PUNC
+htd12326	महाराज\N_NN भाग्यचंद्राच्या\N-NNP प्रवासाचे\N_NN वर्णन\N_NN लावण्यचंद्रांच्या\N-NNP पुढाकारामुळे\N_NN लिहिले\V_VM गेले\V_VAUX .\RD_PUNC
+htd12327	नवचंद्र\N-NNP ,\RD_PUNC हरिचरण\N-NNP आणि\CC_CCD माधवराव\N-NNP वाहेडबा\N-NNP यांनी\PR_PRL या\DM_DMR प्रवासाचा\N_NN वृतांत\N_NN खगेंद्र\N-NNP मिनाबा\N-NNP ,\RD_PUNC हरिचरण\N-NNP खागेंबा\N-NNP ,\RD_PUNC वीरमणी\N-NNP लौरेंबा\N-NNP आणि\CC_CCD खोड्चोन\N-NNP अहैबा\N-NNP यांना\PR_PRP सांगितला\V_VM .\RD_PUNC
+htd12328	यांनी\PR_PRL मिळून\V_VM भाग्यचंद्रांचा\N-NNP प्रवास\N_NN वृतांत\N_NN तयार\JJ केला\V_VM .\RD_PUNC
+htd12329	या\DM_DMR प्रवासवर्णनाचे\N_NN प्रकाशित\JJ स्वरूप\N_NN असलेल्या\V_VM पुस्तकात\N_NN शेवटी\N_NST संपादकाने\N_NN कठिण\JJ शब्दांचे\N_NN अर्थ\N_NN वर्णानुक्रमे\N_NN दिले\V_VM आहेत\V_VAUX .\RD_PUNC
+htd12330	यामुळे\CC_CCD मणिपुरी\N-NNP भाषेच्या\N_NN वर्तमान\N_NN रूपाच्या\N_NN अभ्यासकांना\N_NN हे\DM_DMR यात्रावर्णन\N_NN समजणे\V_VM सोपे\N_NN झाले\V_VM आहे\V_VAUX .\RD_PUNC
+htd12331	अधुनिक\JJ मणिपुरी\N-NNP यात्रा\N_NN साहित्याचा\N_NN पाया\N_NN रचण्याचे\V_VM श्रेय\N_NN लोकनेता\JJ हिजम\N-NNP इरावत\N-NNP यांच्या\PR_PRP सन\N_NN १९३७\QT_QTC मध्ये\N_NST छापल्या\V_VM गेलेल्या\V_VM प्रवास\N_NN वर्णनाला\N_NN आहे\V_VM .\RD_PUNC
+htd12332	मांडलेगी\N-NNP खोड\N_NN फम\N_NN (\RD_SYM मांडल्याची\N_NN यात्रा\N_NN )\RD_SYM असे\RB शीर्षक\N_NN हा\DM_DMR लेख\N_NN त्याच\DM_DMR वर्षी\N_NN २८\QT_QTC फेब्रुवारीपासून\N_NN २\QT_QTC मार्चपर्यंत\N_NN मांडले\V_VM येथे\DM_DMD पार\RB पडलेल्या\V_VM ’\RD_PUNC अखिल\QT_QTF हिंदू\N_NN मणिपुरी\N-NNP महासभेच्या\N_NN `\RD_PUNC तिसर्‍या\QT_QTO अधिवेशनात\N_NN सहभागी\N_NN होण्यासाठी\N_NN इरावत\N-NNP यांनी\DM_DMR केलेल्या\V_VM यात्रेचा\N_NN वृत्तांत\N_NN आहे\V_VM .\RD_PUNC
+htd12333	ही\DM_DMR यात्रा\N_NN १८\QT_QTC फेब्रुवारी\N_NN ,\RD_PUNC १९३७\QT_QTC ,\RD_PUNC गुरुवारी\N_NN वट्टग्रामहून\N-NNP जहाजाने\N_NN सुरु\JJ झाली\V_VM होती\V_VAUX .\RD_PUNC
+htd12334	इरावत\N-NNP यांनी\DM_DMR या\DM_DMR गोष्टीवर\N_NN विशेष\JJ लक्ष\N_NN दिले\V_VM आहे\V_VAUX की\CC_CCS जहाजात\N_NN हॉटेल्सही\N_NN हिंदू\N_NN आणि\CC_CCD मुसलमानांच्या\N_NN नावावर\N_NN (\RD_SYM हिंदू\N_NN हॉटेल\N_NN ,\RD_PUNC मुसलमान\N_NN हॉटेल\N_NN )\RD_SYM होती\V_VM .\RD_PUNC
+htd12335	गल्लीबोळांचेही\N_NN नामकरण\N_NN धर्माच्या\N_NN नावावर\N_NN केले\V_VM होते\V_VAUX .\RD_PUNC
+htd12336	या\DM_DMR दिवसात\N_NN गिर्यारोहण\N_NN आणि\CC_CCD शिलारोहणाच्या\N_NN कार्यक्रमाशी\N_NN संबंधित\JJ अनेक\QT_QTF क्लब\N_NN अस्तित्वात\N_NN आले\V_VM आहेत\V_VAUX .\RD_PUNC
+htd12337	हे\DM_DMR क्लब\N_NN आपल्या\PR_PRP सदस्यांना\N_NN पर्वतांवर\N_NN गिर्यारोहणासाठी\N_NN आणि\CC_CCD शिलारोहणासाठी\N_NN घेऊन\V_VM जातात\V_VAUX .\RD_PUNC
+htd12338	या\DM_DMR उपक्रमांमध्ये\N_NN नैपुण्य\JJ प्राप्त\JJ केल्यानंतरच\V_VM सदस्यांना\N_NN पर्वतावररील\N_NN उंच\JJ भागात\N_NN आरोहण\N_NN करण्यासाठी\V_VM घेऊन\V_VM जातात\V_VAUX .\RD_PUNC
+htd12339	जेथे\DM_DMD ते\DM_DMR सहजपणे\RB आइस\N_NN आणि\CC_CCD स्नो\N_NN क्राफ्टचे\N_NN प्रशिक्षण\N_NN घेतात\V_VM .\RD_PUNC
+htd12340	कोणत्याही\DM_DMQ अनुभवी\N_NN मित्रासह\N_NN किंवा\CC_CCD प्रशिक्षकासह\N_NN गिर्यारोहण\N_NN आणि\CC_CCD शिलारोहण\N_NN इत्यादी\JJ उपक्रमांना\N_NN जाण्याने\V_VM या\DM_DMR खेळाविषयी\N_NN पुरेशी\JJ माहिती\N_NN घेता\V_VM येऊ\V_VAUX शकते\V_VAUX .\RD_PUNC
+htd12341	सुरुवातीला\N_NN कोणत्याही\DM_DMQ सुट्टीच्या\N_NN दिवशी\N_NN कोणाही\PR_PRQ बरोबर\JJ पर्वत\N_NN स्थळांवर\N_NN जावे\V_VM .\RD_PUNC
+htd12342	नंतर\RB स्वतः\PR_PRF ती\DM_DMR व्यक्ती\N_NN या\DM_DMR खेळात\N_NN प्रविण\JJ बनते\V_VM .\RD_PUNC
+htd12343	पर्वतारोहणाचा\N_NN इतिहास\N_NN वाचला\V_VM असता\V_VAUX असे\JJ कळते\V_VM की\CC_CCS अधिकांश\QT_QTF दुर्घटना\N_NN गिर्यारोहकांच्या\N_NN स्वतःच्याच\PR_PRF चुकीने\N_NN होतात\V_VM .\RD_PUNC
+htd12344	अनेक\QT_QTF वेळेला\N_NN गिर्यारोहक\N_NN चुकीचे\N_NN निर्णय\N_NN घेतात\V_VM .\RD_PUNC
+htd12345	गिर्यारोहकांच्या\N_NN या\DM_DMR चुकीच्या\N_NN निर्णयांची\N_NN शिक्षा\N_NN त्यांना\PR_PRP स्वतःला\PR_PRF भोगावी\V_VM लागते\V_VAUX .\RD_PUNC
+htd12346	याकरिता\CC_CCD गरज\N_NN आहे\V_VM की\CC_CCS आपल्याला\PR_PRP वेळ\N_NN बघून\V_VM योग्य\JJ आणि\CC_CCD चूक\N_NN यांमध्ये\PR_PRL निवड\N_NN करता\V_VM यावी\V_VAUX .\RD_PUNC
+htd12347	गिर्यारोहणात\N_NN सर्वात\RP_INTF महत्त्वाचे\JJ धोरण\N_NN म्हणजे\CC_CCD स्वतःला\PR_PRF वाचविणे\V_VM .\RD_PUNC
+htd12348	याकरिता\CC_CCD हे\DM_DMR जाणून\V_VM घेणे\V_VAUX आवश्यक\JJ आहे\V_VM की\CC_CCS गिर्यारोहणादरम्यान\N_NN हार\N_NN आणि\CC_CCD विजय\N_NN यासारख्या\PR_PRL कोणत्याही\DM_DMQ भावनेला\N_NN कोणतेही\PR_PRQ स्थान\N_NN नाही\V_VM .\RD_PUNC
+htd12349	पर्वतारोहणाचा\N_NN हा\DM_DMR खेळ\N_NN गिर्यारोहकाला\N_NN निसर्गाच्या\N_NN सौंदर्याने\N_NN भरलेल्या\V_VM ऐक्याजवळ\N_NN आणतो\V_VM .\RD_PUNC
+htd12350	गिर्यारोहण\N_NN गिर्यारोहकाला\N_NN शारिरिक\JJ आणि\CC_CCD मानसिक\JJ रुपाने\N_NN जागृत\JJ ठेवते\V_VM .\RD_PUNC
+htd12351	या\DM_DMR खेळात\N_NN व्यक्ती\N_NN आपल्या\PR_PRP मानसिक\JJ जागृती\N_NN सह\RP_RPD शारिरिक\JJ शक्तीसुद्धा\N_NN ओळखतो\V_VM .\RD_PUNC
+htd12352	खेळाडू\N_NN खुलेपणाने\RB पर्वताला\N_NN सामोरा\N_NN जातो\V_VM .\RD_PUNC
+htd12353	संघातील\N_NN इतर\JJ सदस्य\N_NN त्याच्या\PR_PRP प्रत्येक\QT_QTF हालचालीवर\N_NN लक्ष\N_NN ठेवून\V_VM असतात\V_VAUX .\RD_PUNC
+htd12354	गिर्यारोहणादरम्यान\N_NN गिर्यारोहकाचे\N_NN जे\PR_PRL गुण\N_NN विकसित\JJ होतात\V_VM ते\DM_DMR त्याच्या\PR_PRP व्यक्तिमत्त्व\N_NN विकासासाठी\N_NN सहायक\N_NN होतात\V_VM .\RD_PUNC
+htd12355	आज\RB देशात\N_NN अशा\JJ लोकांचा\N_NN अभाव\N_NN आहे\V_VM की\CC_CCS जे\PR_PRL समाजाला\N_NN नेतृत्व\N_NN देऊ\V_VM शकतील\V_VAUX .\RD_PUNC
+htd12356	ह्या\DM_DMR अभावाची\N_NN पूर्तता\N_NN गिर्यारोहणादरम्यान\N_NN विकसित\JJ होणार्‍या\V_VM गुणांनी\N_NN केली\V_VM जाऊ\V_VAUX शकते\V_VAUX .\RD_PUNC
+htd12357	हॉकी\N_NN ,\RD_PUNC फुटबॉल\N_NN आणि\CC_CCD क्रिकेट\N_NN इत्यादी\JJ खेळांप्रमाणे\N_NN गिर्यारोहणामध्ये\N_NN विशेष\JJ प्रकारचे\N_NN बूट\N_NN आवश्यक\JJ असतात\V_VM .\RD_PUNC
+htd12358	गिर्यारोहणासाठी\N_NN बूट\N_NN हे\DM_DMR पायाकरिता\N_NN आरामदायक\JJ ,\RD_PUNC विश्वसनीय\JJ आणि\CC_CCD सुविधायुक्त\JJ असणे\V_VM अत्यंत\RP_INTF आवश्यक\JJ असते\V_VM .\RD_PUNC
+htd12359	गिर्यारोहाकाला\N_NN त्याचा\PR_PRP बहुतांश\QT_QTF वेळ\N_NN बर्फ\N_NN आणि\CC_CCD ग्लेशियरवर\N_NN घालवावा\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12360	गिर्यारोहकाने\N_NN बूटांच्या\N_NN बाबतीत\N_NN कोणत्याही\DM_DMQ प्रकारची\N_NN बेपर्वाई\N_NN करु\V_VM नये\V_VAUX .\RD_PUNC
+htd12361	पर्वतारोहणात\N_NN दोन\QT_QTC टाचा\N_NN असलेले\V_VM जलरोधक\JJ बुट\N_NN आवश्यक\JJ असतात\V_VM .\RD_PUNC
+htd12362	गिर्यारोहणासाठी\N_NN बूट\N_NN खरेदी\N_NN करीत\V_VM असताना\V_VM या\DM_DMR गोष्टीचे\N_NN भान\N_NN बाळगले\V_VM पाहिजे\V_VAUX की\CC_CCS ते\DM_DMR अत्यंत\RP_INTF थंडीत\N_NN पाय\N_NN फाटण्यापासून\N_NN संरक्षण\N_NN करतील\V_VM .\RD_PUNC
+htd12363	जेव्हा\CC_CCS दीर्घ\JJ काळ\N_NN बर्फात\N_NN रहायचे\V_VM असते\V_VAUX तेव्हा\CC_CCS बूट\N_NN कोरडे\JJ रहाण्यासाठी\V_VM त्यांच्या\PR_PRP वरती\N_NST बाहेरुन\N_NST आणखी\QT_QTF एका\QT_QTC बूटाचा\N_NN वापर\N_NN केला\V_VM जातो\V_VAUX .\RD_PUNC
+htd12364	नायलॉनचे\N_NN हे\DM_DMR बूट\N_NN जलरोधक\JJ असल्याने\V_VM बूट\N_NN ओले\JJ होत\V_VM नाहीत\V_VAUX .\RD_PUNC
+htd12365	या\DM_DMR बूटांमुळे\N_NN उंचीवर\N_NN आतील\N_NST बूटांचे\N_NN चामडे\N_NN गोळा\N_NN होत\V_VM नाही\V_VAUX .\RD_PUNC
+htd12366	जर\CC_CCS असे\JJ बूट\N_NN उपलब्ध\JJ नसतील\V_VM तर\CC_CCS त्या\DM_DMR ऐवजी\RB गेटरचा\N_NN वापर\N_NN करणे\V_VM चांगले\JJ आहे\V_VM .\RD_PUNC
+htd12367	थंडीपासून\N_NN संरक्षणासाठी\N_NN ऍल्युमिनियम\N_NN फॉईलचा\N_NN उपयोग\N_NN गिर्यारोहकांसाठी\N_NN अतिशय\RP_INTF उपयुक्त\JJ आहे\V_VM .\RD_PUNC
+htd12368	स्वतःच्या\PR_PRF आवश्यकतेनुसार\N_NN गिर्यारोहक\N_NN ऍलुमिनिअम\N_NN फॉईलचा\N_NN वापर\N_NN करतात\V_VM .\RD_PUNC
+htd12369	ऍलुमिनिअम\N_NN फॉईल\N_NN कागदाप्रमाणे\N_NN खूपच\RP_INTF पातळ\JJ असते\V_VM .\RD_PUNC
+htd12370	दुमडून\V_VM ऍलुमिनिअम\N_NN फॉईलचा\N_NN आकार\N_NN लहान\JJ करता\V_VM येतो\V_VAUX .\RD_PUNC
+htd12371	इतका\QT_QTF छोटा\JJ की\CC_CCS ऍलुमिनिअम\N_NN फॉईल\N_NN गिर्यारोहक\N_NN आपल्या\PR_PRP खिशात\N_NN ठेवु\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12372	कडाक्याच्या\N_NN थंडीपासून\N_NN वाचण्यासाठी\V_VM काही\QT_QTF लोक\N_NN ऍलुमिनिअम\N_NN फॉईलचा\N_NN एका\QT_QTC तंबूसारखा\N_NN वापर\N_NN करतात\V_VM .\RD_PUNC
+htd12373	काही\QT_QTF गिर्यारोहक\N_NN ऍलुमिनिअम\N_NN फॉईल\N_NN आपल्या\PR_PRP शरीराभोवती\N_NN लपेटून\V_VM स्लीपिंग\N_NN बॅगमध्ये\N_NN झोपतात\V_VM .\RD_PUNC
+htd12374	बुट\N_NN आणि\CC_CCD सॉक्स\N_NN घालण्याआधी\V_VM जर\CC_CCS अल्युअमिनिअम\N_NN फॉइल\N_NN जर\CC_CCS पायांना\N_NN गुंडाळली\V_VM तर\CC_CCS पायांना\N_NN गरम\JJ ठेवण्यास\V_VM खूप\QT_QTF सहायक\N_NN ठरते\V_VM .\RD_PUNC
+htd12375	अल्युमिनिअम\N_NN फॉइलमुळे\N_NN पायांना\N_NN खूप\QT_QTF आराम\N_NN मिळतो\V_VM .\RD_PUNC
+htd12376	बर्फाळ\JJ वेगवान\N_NN हवेपासून\N_NN शरीराचे\N_NN रक्षण\N_NN करण्यासाठी\V_VM वायुरोधक\N_NN वस्त्राचा\N_NN वापर\N_NN केला\V_VM जातो\V_VAUX .\RD_PUNC
+htd12377	गिर्यारोहणावेळी\N_NN वायुरोधक\JJ कोट\N_NN नेहमी\RB स्वतःजवळ\PR_PRF बाळगला\V_VM पाहिजे\V_VAUX .\RD_PUNC
+htd12378	आवश्यकता\N_NN पडली\V_VM की\CC_CCS लगेच\RB वायुरोधक\JJ कोट\N_NN परिधान\N_NN करावा\V_VM .\RD_PUNC
+htd12379	वायुरोधक\JJ कोटामध्ये\N_NN समोरच्या\N_NN बाजुला\N_NN एक\QT_QTC मोठा\JJ खिसा\N_NN आणि\CC_CCD काखेच्या\N_NN बाजुला\N_NN दोन\QT_QTC खिसे\N_NN असतात\V_VM .\RD_PUNC
+htd12380	वायुरोधक\JJ कोटामध्ये\N_NN सहजरीत्या\RB खाण्या\V_VM पिण्यायोग्य\V_VM गोष्टी\N_NN अर्थात\N_NN दुपारच्या\N_NN जेवणाचे\N_NN पाकिट\N_NN ,\RD_PUNC सुका\JJ मेवा\N_NN ,\RD_PUNC दस्तान\N_NN आणि\CC_CCD सॉक्सच्या\N_NN जोड्यांशिवाय\N_NN बर्फापासून\N_NN डोळ्यांना\N_NN बचावासाठी\V_VM एक\QT_QTC चश्मा\N_NN ,\RD_PUNC डायरी\N_NN ,\RD_PUNC शिट्टी\N_NN ,\RD_PUNC बॅटरी\N_NN ठेवता\V_VM येते\V_VAUX .\RD_PUNC
+htd12381	अशाप्रकारच्या\JJ वायुरोधक\JJ कोट\N_NN अथवा\CC_CCD जॅकीटला\N_NN एक\QT_QTC टोपी\N_NN शिवलेली\V_VM असते\V_VAUX .\RD_PUNC
+htd12382	याने\DM_DMR डोके\N_NN ,\RD_PUNC मान\N_NN आणि\CC_CCD कान\N_NN झाकता\V_VM येतात\V_VAUX .\RD_PUNC
+htd12383	जेथे\DM_DMD खूप\QT_QTF जास्त\QT_QTF बर्फ\N_NN असतो\V_VM अथवा\CC_CCD बर्फावरून\N_NN घसरण\V_VM असते\V_VM तेथे\DM_DMD वायुरोधक\JJ पॅंट्चा\N_NN उपयोग\N_NN केला\V_VM जातो\V_VAUX .\RD_PUNC
+htd12384	वायुरोधक\JJ पॅंटही\N_NN चांगल्या\JJ प्रकारच्या\N_NN वायुरोधक\JJ वस्त्रापासून\N_NN तयार\JJ केलेली\V_VM असते\V_VAUX .\RD_PUNC
+htd12385	यासाठी\PR_PRL वायुरोधक\JJ पॅंट\N_NN खूप\QT_QTF हलकी\JJ असते\V_VM .\RD_PUNC
+htd12386	उंच\JJ पर्वतावर\N_NN किती\PR_PRQ थंडी\N_NN असते\V_VM याचे\PR_PRL अनुमान\N_NN मैदानी\N_NN प्रदेशात\N_NN राहून\V_VM लावता\V_VAUX येणे\V_VAUX अवघड\JJ असते\V_VM .\RD_PUNC
+htd12387	या\DM_DMR थंडीपासून\N_NN बचावासाठी\V_VM नायलॉनपासून\N_NN वायुरोधक\JJ आणि\CC_CCD जलरोधक\JJ कपडे\N_NN वापरले\V_VM जातात\V_VAUX .\RD_PUNC
+htd12388	वायुरोधक\JJ वस्त्रात\N_NN चांगल्या\JJ प्रतीचे\N_NN मऊ\JJ पंख\N_NN भरले\V_VM जातात\V_VAUX .\RD_PUNC
+htd12389	वायुरोधक\JJ वस्त्रांचा\N_NN वापर\N_NN खूप\QT_QTF थंडीत\N_NN उंच\JJ शिखर\N_NN सर\N_NN करताना\V_VM अथवा\CC_CCD रात्री\N_NN जेंव्हा\CC_CCS थंडी\N_NN अधिक\QT_QTF वाढते\V_VM तेंव्हा\CC_CCS केला\V_VM जातो\V_VAUX .\RD_PUNC
+htd12390	अशी\JJ वायुरोधक\JJ जॅकेटसना\N_NN किंवा\CC_CCD कोटाला\N_NN टोपी\N_NN आणि\CC_CCD खिसे\N_NN असतात\V_VM .\RD_PUNC
+htd12391	वायुरोधक\JJ वस्त्रांचा\N_NN उपयोग\N_NN आवश्यकतेनुसार\N_NN केला\V_VM जातो\V_VAUX .\RD_PUNC
+htd12392	गिर्यारोहणामध्ये\N_NN हातांना\N_NN शरीराच्या\N_NN अन्य\QT_QTF अंगापेक्षा\N_NN अधिक\QT_QTF काम\N_NN करावे\V_VM लागते\V_VAUX .\RD_PUNC
+htd12393	यासाठी\PR_PRL हातांची\N_NN प्रत्येक\QT_QTF प्रकारे\N_NN सुरक्षा\N_NN आवश्यक\JJ आहे\V_VM .\RD_PUNC
+htd12394	जर\CC_CCS थंडीच्या\N_NN हवामानात\N_NN खालच्या\N_NST भागात\N_NN क्लाइमिंग\V_VM केले\V_VM तर\CC_CCS लोकरीच्या\N_NN कपड्यांची\N_NN आवश्यकता\N_NN असते\V_VM .\RD_PUNC
+htd12395	बर्फ\N_NN आणि\CC_CCD थंडीत\N_NN वायुरोधक\JJ वस्त्रांशिवाय\N_NN चढण्याची\V_VM कल्पनाही\N_NN करता\V_VM येत\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd12396	सन\N_NN हॅट\N_NN ,\RD_PUNC बेरिट\N_NN ,\RD_PUNC टोपी\N_NN ,\RD_PUNC कॅप\N_NN ,\RD_PUNC हेलमेट\N_NN ,\RD_PUNC सन\N_NN ग्लासेज\N_NN ,\RD_PUNC स्नो\N_NN गॉगल्स\N_NN इ\JJ .\RD_PUNC वस्तुंचा\N_NN वापर\N_NN गिर्यारोहकाला\N_NN नियमित\RB स्वरूपात\N_NN करावा\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12397	उंच\JJ पर्वतांवर\N_NN झाडे\N_NN आणि\CC_CCD अन्य\QT_QTF हिरवळ\N_NN नसल्याने\V_VM तेथे\DM_DMD हवेत\N_NN प्राणवायु\N_NN कमी\QT_QTF असतो\V_VM .\RD_PUNC
+htd12398	उंच\JJ पर्वतावर\N_NN सूर्याची\N_NN किरणे\N_NN शरीरावर\N_NN सरळ\JJ पडतात\V_VM .\RD_PUNC
+htd12399	सूर्याच्या\N_NN किरणांनी\N_NN शरीराचा\N_NN खुला\JJ भाग\N_NN लगेच\RB प्रभावित\JJ होतो\V_VM .\RD_PUNC
+htd12400	बर्फाचे\N_NN तुकडे\N_NN आणि\CC_CCD चमक\N_NN यापासून\PR_PRL डोळ्यांना\N_NN वाचविण्यासाठी\V_VM लावला\V_VM जाणारा\V_VM चश्मा\N_NN गिर्यारोहकासाठी\N_NN एक\QT_QTC अनिवार्य\JJ साधन\N_NN आहे\V_VM .\RD_PUNC
+htd12401	बर्फाच्या\N_NN चमकण्याने\V_VM बर्फीय\JJ आंधळेपण\N_NN येण्याची\V_VM शक्यता\N_NN नेहमी\RB असते\V_VM .\RD_PUNC
+htd12402	गिर्यारोहणावेळी\N_NN साधारण\N_NN अंथरूण\N_NN घेऊन\V_VM जाणे\V_VM ही\DM_DMR कल्पना\N_NN करूच\V_VM शकत\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd12403	गिर्यारोहण\N_NN अभियानासाठी\N_NN स्लीपिंग\V_VM बॅगचा\N_NN उपयोग\N_NN केला\V_VM जाऊ\V_VAUX शकतो\V_VAUX .\RD_PUNC
+htd12404	स्लीपिंग\V_VM बॅग\N_NN थैलीप्रमाणे\N_NN असते\V_VM .\RD_PUNC
+htd12405	स्लीपिंग\V_VM बॅगमध्ये\N_NN घुसून\V_VM गिर्यारोहक\N_NN आरामात\N_NN झोपू\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12406	स्लीपिंग\V_VM बॅगचे\N_NN अस्तर\N_NN पक्ष्यांच्या\N_NN कोमल\JJ पंखापासून\N_NN अथवा\CC_CCD नायलॉनपासून\N_NN बनलेले\V_VM असल्याने\V_VM खूप\QT_QTF हलके\JJ आणि\CC_CCD मऊ\JJ व\CC_CCD गरम\JJ असते\V_VM .\RD_PUNC
+htd12407	स्लीपिंग\V_VM बॅगमध्ये\N_NN झोपल्यावर\V_VM गिर्यारोहक\N_NN स्वतःला\PR_PRF एका\QT_QTC झीपच्या\N_NN सहायाने\N_NN आत\N_NST बंद\JJ करून\V_VM घेतो\V_VAUX .\RD_PUNC
+htd12408	स्लीपिंग\V_VM बॅगमध्ये\N_NN डोके\N_NN झाकण्यासाठी\V_VM एक\QT_QTC टोपी\N_NN असते\V_VM .\RD_PUNC
+htd12409	पर्वतावरील\N_NN थंडीचा\N_NN स्लीपिंग\V_VM बॅगमध्ये\N_NN झोपून\V_VM आरामात\N_NN सामना\N_NN करता\V_VM येतो\V_VAUX .\RD_PUNC
+htd12410	जर\CC_CCS गिर्यारोहणाच्या\N_NN इतिहासावर\N_NN दृष्टी\N_NN टाकली\V_VM तर\CC_CCS असे\RB लक्षात\N_NN येईल\V_VM की\CC_CCS यात\DM_DMR खूप\QT_QTF चढ\N_NN उतार\N_NN आले\V_VM आहेत\V_VAUX .\RD_PUNC
+htd12411	सुरवातीपासूनच\N_NN गिर्यारोहणात\N_NN अनेक\QT_QTF अनपेक्षित\JJ परिस्थितींचा\N_NN सामना\N_NN करावा\V_VM लागला\V_VAUX आहे\V_VAUX .\RD_PUNC
+htd12412	वेळोवेळी\N_NN गिर्यारोहणात\N_NN बर्‍याच\QT_QTF दुर्घटना\N_NN झाल्या\V_VM आहेत\V_VAUX .\RD_PUNC
+htd12413	मुख्यतः\RB चांगल्या\JJ प्रतीच्या\N_NN उपकरणांची\N_NN आणि\CC_CCD गिर्यारोहणाच्या\N_NN क्षेत्रात\N_NN विकसित\JJ झालेल्या\V_VM तंत्रज्ञानाच्या\N_NN माहितीचा\N_NN अभाव\N_NN यामुळे\CC_CCD असे\RB घडत\N_NN आले\V_VAUX आहे\V_VAUX .\RD_PUNC
+htd12414	याशिवाय\PR_PRL रोहकांचे\N_NN अज्ञान\N_NN आणि\CC_CCD अनुभवहिनता\N_NN यामुळे\CC_CCD कठिणता\N_NN येते\V_VM .\RD_PUNC
+htd12415	भारतात\N-NNP गिर्यारोहणाचा\N_NN इतिहास\N_NN खूप\QT_QTF प्राचीन\JJ नाही\V_VM .\RD_PUNC
+htd12416	साहसी\JJ खेळामध्ये\N_NN तर\CC_CCS याला\PR_PRP एकदम\RB नवीन\JJ घटना\N_NN म्हणून\CC_CCD मानावे\V_VM लागेल\V_VAUX .\RD_PUNC
+htd12417	जेंव्हा\CC_CCS मे\N_NN १९५३\QT_QTC मध्ये\N_NST जगातील\N_NN सर्वात\RP_INTF उंच\JJ पर्वतशिखर\N_NN एव्हरेस्टवर\N-NNP तेनसिंग\N-NNP नोर्गे\N-NNP यांनी\DM_DMR एडमंड\N-NNP हिलरीसह\N-NNP आरोहण\N_NN केले\V_VM तेंव्हा\CC_CCS भारतीयांचे\N_NN लक्षही\N_NN या\DM_DMR साहसी\JJ खेळाकडे\N_NN आकर्षित\JJ झाले\V_VM .\RD_PUNC
+htd12418	यामध्ये\PR_PRL काही\QT_QTF संशय\N_NN नाही\V_VM की\CC_CCS अन्य\QT_QTF खेळांप्रमाणे\N_NN गिर्यारोहणावेळी\N_NN जोखीम\N_NN घ्यावी\V_VM लागते\V_VAUX .\RD_PUNC
+htd12419	बहुतेक\QT_QTF काही\QT_QTF खेळांपेक्षा\N_NN गिर्यारोहणामध्ये\N_NN जास्त\QT_QTF जोखीम\N_NN आहे\V_VM .\RD_PUNC
+htd12420	दुर्घटनांमुळे\N_NN बर्‍याचदा\QT_QTF रोहकाचे\N_NN प्राण\N_NN जातात\V_VM .\RD_PUNC
+htd12421	याचा\PR_PRP अर्थ\N_NN असा\JJ नाही\V_VM की\CC_CCS गिर्यारोहण\N_NN करूच\V_VM नये\V_VAUX .\RD_PUNC
+htd12422	जीवनात\N_NN असा\JJ एकही\N_NN क्षण\N_NN नसेल\V_VM जो\PR_PRL दुर्घटनेपासून\N_NN दूर\N_NST राहिल\V_VM .\RD_PUNC
+htd12423	मग\RB काय\PR_PRQ प्रवास\N_NN करणे\V_VM सोडून\V_VM द्यायचे\V_VAUX का\PR_PRQ रोजचे\N_NN काम\N_NN बंद\JJ करायचे\V_VM ?\RD_PUNC
+htd12424	असे\RB करणे\V_VM तर\CC_CCS शक्य\JJ नाही\V_VM .\RD_PUNC
+htd12425	जर\CC_CCS असे\RB आहे\V_VM तर\CC_CCS गिर्यारोहणापासून\N_NN भय\N_NN कसले\PR_PRQ !\RD_PUNC
+htd12426	गिर्यारोहणादरम्यान\N_NN व्यक्तीला\N_NN आपली\PR_PRP शक्ती\N_NN ,\RD_PUNC आत्मविश्वास\N_NN ,\RD_PUNC साहस\JJ आणि\CC_CCD नेतृत्व\N_NN इ\JJ .\RD_PUNC गुण\N_NN पारखण्याची\V_VM संधी\N_NN मिळते\V_VM .\RD_PUNC
+htd12427	माणूस\N_NN नैसर्गिक\JJ सौंदर्याचा\N_NN आनंदच\N_NN घेत\V_VM नाही\V_VAUX तर\CC_CCS तो\DM_DMR स्वतः\PR_PRF निसर्गाच्या\N_NN कुशीत\N_NN राहतो\V_VM .\RD_PUNC
+htd12428	प्रायः\RB असे\RB पाहिले\V_VM जाते\V_VAUX की\CC_CCS पर्वतांवर\N_NN अधिक\QT_QTF दुर्घटना\N_NN गिर्यारोहणाच्या\N_NN साधनांमुळे\N_NN होतात\V_VM .\RD_PUNC
+htd12429	कोणत्याही\DM_DMQ अभियानासाठी\N_NN योग्य\JJ योजना\N_NN न\RP_NEG बनवणे\V_VM आणि\CC_CCD ज्या\PR_PRL समस्यांची\N_NN माहिती\N_NN आहे\V_VM त्यासाठी\PR_PRL सावधानता\N_NN न\RP_NEG बाळगणे\V_VM ही\DM_DMR दुर्घटनांची\N_NN कारणे\N_NN बनतात\V_VM .\RD_PUNC
+htd12430	अधिक\QT_QTF अनुभव\N_NN ,\RD_PUNC विश्वासार्ह\N_NN साधने\N_NN आणि\CC_CCD योजनाबद्ध\JJ पद्धतीने\N_NN गिर्यारोहण\N_NN केल्याने\V_VM यामध्ये\PR_PRL सुरक्षेचे\N_NN वातावरण\N_NN वाढले\V_VM आहे\V_VAUX .\RD_PUNC
+htd12431	कोणीही\PR_PRQ आरोहक\N_NN कठीण\JJ परिस्थितीचा\N_NN सामना\N_NN आपली\PR_PRP जाणीव\N_NN आणि\CC_CCD संघटन\N_NN करण्याच्या\V_VM क्षमतेनुसार\N_NN करतो\V_VM .\RD_PUNC
+htd12432	यामुळे\CC_CCD आरोहकाच्या\N_NN शारिरीक\JJ विकासाबरोबरच\N_NN त्याचा\PR_PRP बौध्दिक\JJ आणि\CC_CCD मानसिक\JJ विकासही\N_NN होतो\V_VM .\RD_PUNC
+htd12433	पर्वतीय\JJ अडथळ्यांना\N_NN तीन\QT_QTC प्रकारात\N_NN विभागता\N_NN येईल\V_VM .\RD_PUNC
+htd12434	नैसर्गिक\JJ अडथळा\N_NN ,\RD_PUNC व्यक्तिगत\JJ अडथळा\N_NN आणि\CC_CCD मानसिक\JJ अडथळा\N_NN .\RD_PUNC
+htd12435	पर्वतारोहणावेळी\N_NN सर्वात\RP_INTF मुख्य\JJ आणि\CC_CCD सर्वात\RP_INTF कठीण\JJ नैसर्गिक\JJ अडथळा\N_NN एवलांशचा\N_NN असतो\V_VM .\RD_PUNC
+htd12436	पर्वतावर\N_NN अस्थिर\JJ बर्फाचा\N_NN ढीग\N_NN असतो\V_VM जो\PR_PRL कोणत्याही\DM_DMQ कारणाने\N_NN खाली\N_NST कोसळू\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12437	एवलांश\N_NN बर्फाचा\N_NN असा\JJ मोठा\JJ ढीग\N_NN असतो\V_VM जो\PR_PRL कोणत्याही\DM_DMQ कारणाने\N_NN आपाल्या\PR_PRP स्थानावरून\N_NN घसरून\V_VM पर्वताच्या\N_NN उतरणीवर\N_NN घरंगळू\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12438	ज्या\PR_PRL उतरणीचा\N_NN कोन\N_NN २५\QT_QTC डी\N_NN .\RD_PUNC पेक्षा\N_NN जास्त\QT_QTF असतो\V_VM तेथे\DM_DMD एवलांश\N_NN येण्याची\V_VM शक्यता\N_NN असते\V_VM .\RD_PUNC
+htd12439	अशा\JJ स्थळांना\N_NN पार\V_VM करताना\V_VM किंवा\CC_CCD येथे\DM_DMD आरोहण\N_NN करताना\V_VM खूप\QT_QTF सावधगिरी\N_NN बाळगणे\V_VM आवश्यक\JJ आहे\V_VM .\RD_PUNC
+htd12440	गिर्यारोहण\N_NN करताना\V_VM एवलांश\N_NN एक\QT_QTC गंभीर\JJ समस्या\N_NN आहे\V_VM जी\PR_PRL आरोहकाच्या\N_NN समोर\N_NN नेहमी\RB परीक्षा\N_NN म्हणून\CC_CCD समोर\N_NN उभी\N_NN राहते\V_VM .\RD_PUNC
+htd12441	याचे\PR_PRP परिणाम\N_NN खूपच\RP_INTF घातक\JJ असतात\V_VM म्हणूनच\CC_CCD त्याप्रती\N_NN त्यांनी\PR_PRP खूपच\RP_INTF सतर्क\JJ आणि\CC_CCD सजग\RB असावे\V_VM .\RD_PUNC
+htd12442	पर्वतामध्ये\N_NN अधिकांश\QT_QTF दुर्घटना\N_NN याप्रकारच्या\PR_PRL निष्काळजीपाणामुळे\N_NN आणि\CC_CCD सतर्कतेच्या\N_NN अभावामुळेच\N_NN होतात\V_VM .\RD_PUNC
+htd12443	एवलांश\N_NN एक\QT_QTC प्रकारे\N_NN मृत्युचेच\N_NN दुसरे\QT_QTO रूप\N_NN आहे\V_VM म्हणुन\CC_CCD गिर्यारोहकांनी\N_NN याविषयी\PR_PRL पूर्ण\QT_QTF माहिती\N_NN घ्यावी\V_VM .\RD_PUNC
+htd12444	एवलांशात\N_NN असणार्‍या\V_VM दगडाखली\N_NN ,\RD_PUNC टेकड्यांखाली\N_NN आणि\CC_CCD बर्फाचा\N_NN ढीगाखाली\N_NN तो\DM_DMR पूर्णपणे\RB दबू\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12445	जेथे\DM_DMD गिर्यारोहक\N_NN बर्फाच्या\N_NN ढिगाखाली\N_NN गुदमरल्याने\V_VM मरु\V_VAUX शकतो\V_VAUX .\RD_PUNC
+htd12446	पर्वताच्या\N_NN चारी\N_NN बाजूला\N_NN बर्फ\N_NN पडते\V_VM .\RD_PUNC
+htd12447	काही\QT_QTF अशी\JJ स्थळे\N_NN असतात\V_VM की\CC_CCS जेथे\DM_DMD बर्फाला\N_NN भक्कम\JJ आधार\N_NN मिळतो\V_VM .\RD_PUNC
+htd12448	एकावर\N_NN एक\QT_QTC असे\RB याचे\DM_DMR थरावर\N_NN थर\N_NN जमतात\V_VM .\RD_PUNC
+htd12449	बर्फ\N_NN कोणत्याही\DM_DMQ उतरणीवर\N_NN किंवा\CC_CCD किनार्‍यावर\N_NN पडू\V_VM शकते\V_VAUX .\RD_PUNC
+htd12450	जेव्हा\CC_CCS त्याचा\DM_DMR आकार\N_NN आणि\CC_CCD वजन\N_NN खूप\QT_QTF वाढते\V_VM तेव्हा\CC_CCS उतरण\N_NN किंवा\CC_CCD किनारा\N_NN त्याला\DM_DMR खालून\N_NST अधार\N_NN देण्यास\V_VM असमर्थ\JJ ठरतात\V_VM .\RD_PUNC
+htd12451	अशा\JJ प्रकारे\N_NN हवामानामुळे\N_NN बर्फ\N_NN जेथे\DM_DMD टिकून\V_VM असते\V_VM तेथून\PR_PRL घसरु\V_VM लागते\V_VAUX कारण\N_NN त्याला\PR_PRP आधार\N_NN असत\V_VM नाही\V_VAUX .\RD_PUNC
+htd12452	एवलांश\N_NN कोणत्याही\DM_DMQ उतरणीवर\N_NN सुरु\JJ होऊ\V_VM शकते\V_VAUX .\RD_PUNC
+htd12453	जेवढा\QT_QTF अधिक\QT_QTF उतार\N_NN असेल\V_VM तेवढी\QT_QTF एवलांश\N_NN सुरु\JJ होण्याची\V_VM शक्यता\N_NN जास्त\QT_QTF असते\V_VM .\RD_PUNC
+htd12454	जर\CC_CCS उतरण\N_NN दाट\JJ वनस्पती\N_NN ,\RD_PUNC गवत\N_NN ,\RD_PUNC झाडे\N_NN झुडुपे\N_NN ,\RD_PUNC वृक्ष\N_NN आणि\CC_CCD मोठमोठ्या\JJ दगडांनी\N_NN युक्त\JJ असेल\V_VM .\RD_PUNC
+htd12455	तर\CC_CCS ही\DM_DMR बर्फाला\N_NN चांगला\JJ आधार\N_NN देऊ\V_VM शकते\V_VAUX .\RD_PUNC
+htd12456	तापमान\N_NN ,\RD_PUNC हवा\N_NN आणि\CC_CCD पाणी\N_NN पर्वतांवरील\N_NN बर्फाच्या\N_NN स्थितीला\N_NN अस्थिर\JJ बनविण्यात\V_VM खूपच\RP_INTF महत्त्वपूर्ण\N_NN भूमिका\N_NN बजावतात\V_VM .\RD_PUNC
+htd12457	एवलांश\N_NN पर्वतावरील\N_NN एक\QT_QTC सामान्य\JJ घटना\N_NN आहे\V_VM .\RD_PUNC
+htd12458	तीव्र\JJ उतार\N_NN असल्याने\V_VM अतिवृष्टी\N_NN झाली\V_VM असता\V_VM भूस्खलन\N_NN सहजरीत्या\N_NN होऊ\V_VM लागते\V_VAUX .\RD_PUNC
+htd12459	बर्‍याचवेळा\N_NN खालची\N_NST माती\N_NN आपल्या\PR_PRP स्थानापासून\N_NN हलल्याने\V_VM वरील\N_NST भागाचा\N_NN आधार\N_NN खचतो\V_VM आणि\CC_CCD आरोहक\N_NN खाली\N_NST कोसळू\V_VM लागतात\V_VAUX .\RD_PUNC
+htd12460	साधारणपणे\RB प्रत्येक\QT_QTF आरोहकाला\N_NN अशा\JJ परिस्थितीचा\N_NN सामना\N_NN करावा\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12461	जेंव्हा\CC_CCS असे\RB स्थान\N_NN ओलांडून\V_VM जायचे\V_VAUX असते\V_VAUX तेंव्हा\CC_CCS खूपच\RP_INTF सावधगिरी\N_NN बाळगावी\V_VM लागते\V_VAUX .\RD_PUNC
+htd12462	साधारणतः\RB पर्वतावर\N_NN प्रथम\QT_QTC येणारे\V_VM पर्यटक\N_NN आणि\CC_CCD गिर्यारोहक\N_NN पर्वतीय\JJ नदी\N_NN नाल्यांना\N_NN फार\QT_QTF महत्त्व\N_NN देत\V_VM नाहीत\V_VAUX .\RD_PUNC
+htd12463	कारण\N_NN त्यांनी\PR_PRL मैदानी\N_NN प्रदेशात\N_NN खूप\QT_QTF मोठमोठ्या\JJ नद्या\N_NN पाहिलेल्या\V_VM असतात\V_VAUX .\RD_PUNC
+htd12464	या\DM_DMR नद्यांचे\N_NN रुंद\JJ पाट\N_NN असतात\V_VM .\RD_PUNC
+htd12465	पूर\N_NN आल्यावर\V_VM ह्या\DM_DMR नद्या\N_NN नुकसानदायक\JJ ठरतात\V_VM .\RD_PUNC
+htd12466	यासाठी\PR_PRL या\DM_DMR आरोहकांना\N_NN पर्वतावर\N_NN वाहणार्‍या\V_VM नद्या\N_NN खूप\QT_QTF छोट्या\JJ वाटतात\V_VM .\RD_PUNC
+htd12467	काही\QT_QTF ठिकाणी\N_NN तर\CC_CCS या\DM_DMR नद्या\N_NN नाल्यांना\N_NN ढांगेत\N_NN पार\V_VM करता\V_VM येते\V_VAUX .\RD_PUNC
+htd12468	यामुळे\CC_CCD आरोहक\N_NN यांना\DM_DMR खूप\QT_QTF बेसावधपणे\RB पार\V_VM करतात\V_VM .\RD_PUNC
+htd12469	वास्तव\N_NN असे\RB आहे\V_VM की\CC_CCS या\DM_DMR नद्या\N_NN नाल्यांना\N_NN पार\V_VM करताना\V_VM जर\CC_CCS कोणी\PR_PRQ घसरले\V_VM तर\CC_CCS त्याला\PR_PRL परत\RB उठणे\V_VM कठिण\JJ आहे\V_VM .\RD_PUNC
+htd12470	वेगात\N_NN वाहणार्‍या\V_VM थंड\JJ पाण्यामुळे\N_NN हात\N_NN पाय\N_NN गारठतात\V_VM .\RD_PUNC
+htd12471	दगडावर\N_NN पडल्याने\V_VM जीवघेणी\JJ जखम\N_NN होऊ\V_VM शकते\V_VAUX .\RD_PUNC
+htd12472	ग्लेशियरला\N_NN पार\V_VM करताना\V_VM समुहाच्या\N_NN सदस्यांनी\N_NN एकमेकांना\PR_PRC एका\QT_QTC दोरीने\N_NN बांधून\V_VM घेतले\V_VAUX पाहिजे\V_VAUX .\RD_PUNC
+htd12473	समुहातील\N_NN प्रथम\QT_QTC सदस्याने\N_NN आपल्या\PR_PRP आइस\N_NN एक्सच्या\N_NN सहायाने\N_NN अशा\JJ भेगेचा\N_NN अंदाज\N_NN घेत\V_VM पुढे\N_NST गेले\V_VM पाहिजे\V_VAUX .\RD_PUNC
+htd12474	जेंव्हा\CC_CCS असा\JJ मार्ग\N_NN पार\V_VM करायचा\N_NN असतो\V_VM किवैस\N_NN संबधित\JJ बचावाचे\N_NN साधन\N_NN बरोबर\JJ घ्यावे\V_VM .\RD_PUNC
+htd12475	जर\CC_CCS किवैस\N_NN तंग\JJ असेल\V_VM तर\CC_CCS एक\QT_QTC एक\QT_QTC करून\V_VM सदस्यांनी\N_NN उड्या\N_NN मारून\V_VM त्याला\PR_PRL ओलांडले\V_VM पाहिजे\V_VAUX .\RD_PUNC
+htd12476	प्रत्येक\QT_QTF सदस्याने\N_NN बिले\N_NN अवश्य\RB केला\V_VM पाहिजे\V_VAUX .\RD_PUNC
+htd12477	जर\CC_CCS असे\RB करणे\V_VM शक्य\JJ नसेल\V_VAUX तर\CC_CCS दल\N_NN अत्यंत\RP_INTF सावकाशपणे\RB प्रत्येक\QT_QTF सदस्याने\N_NN बिले\N_NN करत\V_VM पुढे\N_NST गेले\V_VM पाहिजे\V_VAUX .\RD_PUNC
+htd12478	जेंव्हा\CC_CCS ग्लेशियर\N_NN अधिक\QT_QTF उतारावरील\N_NN उतरणीवर\N_NN असते\V_VM तेंव्हा\CC_CCS तुटते\V_VM .\RD_PUNC
+htd12479	या\DM_DMR तुटलेल्या\V_VM ग्लेशियरच्या\N_NN भागाला\N_NN आइस\N_NN फॉल\N_NN म्हणतात\V_VM .\RD_PUNC
+htd12480	तुटलेल्या\V_VM ग्लेशियरच्या\N_NN भागात\N_NN शिखराप्रमाणे\N_NN असलेले\V_VM पिनॅकल\N-NNP आइस\N_NN टॉवर\N_NN म्हटले\V_VM जातात\V_VAUX .\RD_PUNC
+htd12481	या\DM_DMR पिनॅकलना\N-NNP सिरक्स\N-NNP असेही\CC_CCS_UT म्हणतात\V_VM .\RD_PUNC
+htd12482	हे\DM_DMR पिनॅकल\N-NNP खूप\QT_QTF अस्थिर\JJ असतात\V_VM .\RD_PUNC
+htd12483	जेवढे\QT_QTF शक्य\JJ असेल\V_VM तेवढे\QT_QTF या\DM_DMR पिनॅकलपासून\N-NNP बचाव\N_NN करत\V_VM जाणे\V_VAUX योग्य\JJ आहे\V_VM .\RD_PUNC
+htd12484	जर\CC_CCS असे\RB करणे\V_VM शक्य\JJ नसेल\V_VAUX तर\CC_CCS यांना\PR_PRL ओलांडताना\V_VM पूर्ण\QT_QTF सावधगिरी\N_NN बाळगली\V_VM पाहिजे\V_VAUX कारण\N_NN पिनॅकल\N-NNP कधीही\N_NN तुटू\V_VM शकतात\V_VAUX .\RD_PUNC
+htd12485	पर्वतावर\N_NN आणि\CC_CCD विशेषतः\RB हिमालयात\N-NNP हवामान\N_NN कोणत्याही\DM_DMQ गिर्यारोहणाच्या\N_NN सफलतेमध्ये\N_NN अथवा\CC_CCD असफलतेमध्ये\N_NN महत्त्वपूर्ण\N_NN भूमिका\N_NN पार\V_VM पाडते\V_VM .\RD_PUNC
+htd12486	भारतीयांकडून\N_NN सन\N_NN १९६०\QT_QTC ,\RD_PUNC १९६२\QT_QTC आणि\CC_CCD १९८५\QT_QTC मध्ये\N_NST एव्हरेस्ट\N-NNP आरोहणासाठी\N_NN आयोजित\JJ तीन\QT_QTC अभियाने\N_NN केवळ\JJ खराब\JJ हवामानामुळे\N_NN असफल\N_NN ठरली\V_VM .\RD_PUNC
+htd12487	१९८५च्या\N_NN अभियानात\N_NN भारताला\N-NNP पाच\QT_QTC अनुभवी\N_NN गिर्यारोहकांना\N_NN कायमचे\RB गमवावे\V_VM लागले\V_VAUX .\RD_PUNC
+htd12488	पाऊस\N_NN ,\RD_PUNC बर्फ\N_NN अथवा\CC_CCD गारा\N_NN पडणे\V_VM ,\RD_PUNC धुंद\JJ हवा\N_NN ,\RD_PUNC धुके\N_NN ,\RD_PUNC बर्फाची\N_NN वादळे\N_NN ,\RD_PUNC अंधार\N_NN ,\RD_PUNC थंडी\N_NN ,\RD_PUNC उन\N_NN ,\RD_PUNC वावटळ\N_NN आणि\CC_CCD विजा\N_NN चमकणे\V_VM वा\CC_CCS पडणॆ\V_VM इत्यादी\JJ सर्व\QT_QTF घटना\N_NN हवामानाची\N_NN विविध\JJ अंगे\N_NN आहेत\V_VM .\RD_PUNC
+htd12489	पर्वतीय\JJ भागात\N_NN हवामानात\N_NN अचानक\RB बदल\N_NN होतो\V_VM .\RD_PUNC
+htd12490	ती्न\QT_QTC चार\QT_QTC दिवसात\N_NN तापमान\N_NN काहीच्या\QT_QTF काही\QT_QTF बदलते\V_VM .\RD_PUNC
+htd12491	पर्वतावर\N_NN हवामानाचे\N_NN कोणतेही\PR_PRQ रूप\N_NN पाहायला\V_VM मिळू\V_VAUX शकते\V_VAUX .\RD_PUNC
+htd12492	पर्वतावर\N_NN पाऊस\N_NN पडल्याने\V_VM किंवा\CC_CCD बर्फ\N_NN पडल्यावर\V_VM चांगल्या\JJ छत्रीचा\N_NN वापर\N_NN करावा\V_VM .\RD_PUNC
+htd12493	तंबूत\N_NN परतल्यावर\V_VM भिजलेले\V_VM कपडे\N_NN काढून\V_VM वाळलेले\V_VM कपडे\N_NN घालावेत\V_VM .\RD_PUNC
+htd12494	जर\CC_CCS रस्त्यात\N_NN गारा\N_NN पडू\V_VM लागल्या\V_VAUX किंवा\CC_CCD बर्फाचे\N_NN वादळ\N_NN आले\V_VM अथवा\CC_CCD तीव्र\JJ वावटळ\N_NN सुटले\V_VM ,\RD_PUNC धुके\N_NN वाढु\V_VM लागले\V_VAUX तर\CC_CCS कोणत्याही\DM_DMQ सुरक्षित\JJ ठिकाणी\N_NN थांबून\V_VM हवामान\N_NN स्वच्छ\JJ होण्याची\V_VM वाट\N_NN पहावी\V_VM .\RD_PUNC
+htd12495	साधारणतः\RB पर्वतावर\N_NN दुपारनंतर\N_NN हवामान\N_NN बिघडू\V_VM लागते\V_VAUX .\RD_PUNC
+htd12496	सर्व\QT_QTF महत्त्वपूर्ण\JJ कार्ये\N_NN सकाळीच\N_NN करण्याचा\V_VM प्रयत्न\N_NN करावा\V_VM .\RD_PUNC
+htd12497	बर्फाळ\N_NN हवामानात\N_NN फसल्यावर\V_VM टेकड्यांच्या\N_NN मध्यभागी\N_NN ,\RD_PUNC गुहेत\N_NN किंवा\CC_CCD झाडांच्या\N_NN पोकळ\JJ भागात\N_NN आश्रय\N_NN घेण्याचा\V_VM प्रयत्न\N_NN करावा\V_VM .\RD_PUNC
+htd12498	थंड\JJ हवामानाचा\N_NN सामना\N_NN करण्यासाठी\V_VM चांगल्या\JJ प्रतिचे\N_NN लोकरीचे\N_NN कपडे\N_NN आणि\CC_CCD स्लिपिंग\N_NN बॅग्ज\N_NN बरोबर\JJ घेऊन\V_VM गिर्यारोहणासाठी\N_NN निघणे\V_VM योग्य\JJ आहे\V_VM .\RD_PUNC
+htd12499	विज\N_NN पडल्यावर\V_VM बचावासाठी\N_NN धातुंच्या\N_NN सर्व\QT_QTF वस्तु\N_NN उदहरणार्थ\N_NN आइस\N_NN एक्स\N_NN ,\RD_PUNC पिटन\N_NN ,\RD_PUNC क्रॅंपन\N_NN ,\RD_PUNC भांडी\N_NN या\DM_DMR वस्तु\N_NN स्वतःपासून\PR_PRF दूर\N_NST कराव्यात\V_VM .\RD_PUNC
+htd12500	स्वतः\PR_PRF रकसॅक\N_NN खाली\N_NST ठेवून\V_VM त्यावर\PR_PRL अशाप्रकारे\RB बसा\V_VM ज्यामुळे\CC_CCD पाय\N_NN जमीनीला\N_NN स्पर्श\N_NN करत\V_VM राहतील\V_VAUX .\RD_PUNC
+htd12501	विज\N_NN पडल्यावर\V_VM कानांवर\N_NN हात\N_NN ठेवावा\V_VM आणि\CC_CCD डोळॆ\N_NN बंद\JJ करावेत\V_VM .\RD_PUNC
+htd12502	विज\N_NN पडल्यावर\V_VM श्वास\N_NN रोखून\V_VM धरण्याचा\V_VM प्रयत्न\N_NN करावा\V_VM .\RD_PUNC
+htd12503	जर\CC_CCS विज\N_NN जवळपास\RB पडली\V_VM असेल\V_VAUX तर\CC_CCS कमीत\QT_QTF कमी\QT_QTF तीस\QT_QTC मिनिटे\N_NN आपली\PR_PRP हालचाल\N_NN सुरू\JJ करू\V_VM नये\V_VAUX .\RD_PUNC
+htd12504	जर\CC_CCS समुहात\N_NN जास्त\QT_QTF सदस्य\N_NN असतील\V_VM तर\CC_CCS एकमेकात\PR_PRC कमीत\QT_QTF कमी\QT_QTF वीस\QT_QTC फुट\N_NN अंतर\N_NN ठेवून\V_VM चालावे\V_VAUX .\RD_PUNC
+htd12505	विज\N_NN पडल्याने\V_VM जर\CC_CCS कोणी\PR_PRQ जखमी\JJ झाले\V_VM तर\CC_CCS लगेच\RB त्याच्यावर\PR_PRL उपचार\N_NN करावा\V_VM .\RD_PUNC
+htd12506	जळलेल्या\V_VM ठिकाणी\N_NN त्याचप्रकारे\PR_PRL उपचार\N_NN करा\V_VM जसा\PR_PRL नेहमी\RB कोणताही\DM_DMQ शरीराचा\N_NN भाग\N_NN जळलेला\V_VM असताना\V_VM केला\V_VM जातो\V_VAUX .\RD_PUNC
+htd12507	गिर्यारोहणाचा\N_NN तिसरा\QT_QTO भाग\N_NN म्हणजे\CC_CCD स्नो\N_NN क्लाइमिंग\N_NN .\RD_PUNC
+htd12508	सर्वातआधी\RP_INTF गिर्यारोहणाने\N_NN माणसाचा\N_NN पर्वताशी\N_NN परिचय\N_NN होतो\V_VM .\RD_PUNC
+htd12509	गिर्यारोहणाद्वारे\N_NN तो\DM_DMR स्वतःला\PR_PRF उंच\JJ पर्वतावर\N_NN जाण्यासाठी\V_VM तयार\JJ करतो\V_VM .\RD_PUNC
+htd12510	वास्तविक\RB गिर्यारोहण\N_NN तेंव्हा\CC_CCS सुरू\JJ होते\V_VM जेंव्हा\CC_CCS व्यक्ती\N_NN आपले\PR_PRP प्रथम\QT_QTC पाऊल\N_NN बर्फावर\N_NN ठेवते\V_VM .\RD_PUNC
+htd12511	स्नो\N_NN क्लाइंबिंग\N_NN मध्ये\N_NST गिर्यारोहकाला\N_NN नवीन\JJ अडचणींचा\N_NN सामना\N_NN करावा\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12512	ज्यांना\PR_PRL गिर्यारोहण\N_NN करताना\V_VM किंवा\CC_CCD शिलारोहण\N_NN करताना\V_VM सामोरे\N_NN जावे\V_VM लागत\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd12513	म्हणूनच\CC_CCD पर्वतारोहणाला\N_NN जाण्यापूर्वी\V_VM त्या\PR_PRL व्यक्तीने\N_NN स्नो\N_NN क्लायंबिंगच्या\N_NN मूळ\N_NN नियमांची\N_NN नीट\RB माहिती\N_NN करुन\V_VM घ्यावी\V_VAUX .\RD_PUNC
+htd12514	फक्त\JJ बर्फात\N_NN फिरण्याकरिता\V_VM जर\CC_CCS बर्फाच्या\N_NN स्थितीविषयी\N_NN माहिती\N_NN घेतली\V_VM तर\CC_CCS ही\DM_DMR बाब\N_NN खूपच\RP_INTF गुंतागुंतीची\N_NN ठरेल\V_VM .\RD_PUNC
+htd12515	याविषयी\PR_PRL फक्त\JJ वरवरच\RB बोलले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12516	पर्वतावरील\N_NN बर्फाची\N_NN स्थिती\N_NN आणि\CC_CCD आरोहण\N_NN या\DM_DMR संबंधित\JJ विषयावर\N_NN चर्चा\N_NN करण्यात\V_VM काही\QT_QTF उपयोग\N_NN नाही\V_VM .\RD_PUNC
+htd12517	याविषयी\PR_PRL जाणून\V_VM घेण्याचा\V_VM सर्वात\RP_INTF चांगला\JJ उपाय\N_NN म्हणजे\CC_CCD स्वतःच्या\PR_PRF अनुभवाने\N_NN शिकणे\V_VM .\RD_PUNC
+htd12518	काही\QT_QTF व्यावहारिक\JJ गोष्टींची\N_NN माहिती\N_NN स्नो\N_NN क्लाइंबिंगमध्ये\N_NN त्या\DM_DMR व्यक्तिला\N_NN नक्कीच\RB फायदेशीर\JJ ठरु\V_VM शकते\V_VAUX .\RD_PUNC
+htd12519	या\DM_DMR गोष्टींचे\N_NN भान\N_NN बाळगले\V_VM तर\CC_CCS गिर्यारोहक\N_NN लवकर\RB आणि\CC_CCD सहजपणे\RB आरोहण\N_NN करु\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12520	उंच\JJ पर्वतांवर\N_NN बर्फाच्या\N_NN स्थितीमध्ये\N_NN खूपच\RP_INTF वेगाने\N_NN बदल\N_NN घडून\V_VM येतो\V_VAUX .\RD_PUNC
+htd12521	हा\DM_DMR बदल\N_NN उंची\N_NN ,\RD_PUNC तापमान\N_NN ,\RD_PUNC हवा\N_NN ,\RD_PUNC सूर्य\N_NN आणि\CC_CCD पर्वतांच्या\N_NN प्रकारामुळे\N_NN घडून\V_VM येतो\V_VAUX .\RD_PUNC
+htd12522	पर्वत\N_NN जेवढा\QT_QTF अधिक\QT_QTF उंच\JJ असेल\V_VM तेवढा\QT_QTF अधिक\QT_QTF बर्फ\N_NN तेथे\DM_DMD असतो\V_VM .\RD_PUNC
+htd12523	दिवस\N_NN आणि\CC_CCD रात्रीचे\N_NN तापमान\N_NN अनेक\QT_QTF बदलांचे\N_NN कारण\N_NN बनते\V_VM .\RD_PUNC
+htd12524	हवेमुळेही\N_NN बदल\N_NN घडतात\V_VM .\RD_PUNC
+htd12525	सूर्याच्या\N_NN उष्णतेने\N_NN दिवसा\N_NN बर्फ\N_NN विरघळू\V_VM लागते\V_VAUX किंवा\CC_CCD नरम\JJ बनते\V_VM .\RD_PUNC
+htd12526	रात्री\N_NN बर्फ\N_NN घन\N_NN बनल्यामुळे\N_NN कठीण\JJ होत\V_VM जाते\V_VAUX .\RD_PUNC
+htd12527	या\DM_DMR कठीण\JJ बर्फावर\N_NN बर्फाचे\N_NN थर\N_NN जमू\V_VM लागतात\V_VAUX .\RD_PUNC
+htd12528	अशा\JJ प्रकारे\N_NN तेथे\DM_DMD वरती\N_NST घट्ट\JJ आणि\CC_CCD खाली\N_NST कच्चा\JJ बर्फ\N_NN असे\JJ थर\N_NN जमा\N_NN होतात\V_VM .\RD_PUNC
+htd12529	तांत्रिक\JJ भाषेत\N_NN याला\PR_PRP हार्ड\JJ स्नो\N_NN असे\CC_CCS_UT म्हणतात\V_VM .\RD_PUNC
+htd12530	पर्वतारोहणादरम्यान\N_NN गिर्यारोहकाला\N_NN ताजा\JJ बर्फ\N_NN ,\RD_PUNC नरम\JJ बर्फ\N_NN ,\RD_PUNC कठीण\JJ बर्फ\N_NN ,\RD_PUNC क्रस्टेड\N_NN किंवा\CC_CCD थराचा\N_NN बर्फ\N_NN ,\RD_PUNC चूर्णासारखा\N_NN बर्फ\N_NN ,\RD_PUNC ओला\JJ बर्फ\N_NN आणि\CC_CCD पिघळणारा\V_VM बर्फ\N_NN इत्यादी\JJ विविध\JJ प्रकारचा\N_NN बर्फ\N_NN पहायला\V_VM मिळतो\V_VAUX .\RD_PUNC
+htd12531	जेव्हा\CC_CCS नवीन\JJ बर्फ\N_NN पडतो\V_VM तेव्हा\CC_CCS तो\DM_DMR ताजा\JJ ,\RD_PUNC स्वच्छ\JJ आणि\CC_CCD सुका\JJ असतो\V_VM .\RD_PUNC
+htd12532	अशा\JJ प्रकारच्या\N_NN नवीन\JJ बर्फामध्ये\N_NN गिर्यारोहक\N_NN खोलवर\RB फसू\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12533	या\DM_DMR नव्या\JJ बर्फाचा\N_NN आपल्या\PR_PRP खालच्या\N_NST कोणत्याही\DM_DMQ वस्तुशी\N_NN संबंध\N_NN नसतो\V_VM .\RD_PUNC
+htd12534	नवे\JJ बर्फाचे\N_NN कण\N_NN अजून\RB एकमेकांना\PR_PRC चिकटलेले\V_VM नसतात\V_VAUX .\RD_PUNC
+htd12535	या\DM_DMR नव्या\JJ बर्फात\N_NN चालणे\V_VM खूप\QT_QTF थकवा\N_NN आणणारे\V_VM असते\V_VAUX .\RD_PUNC
+htd12536	टोकदार\JJ टेकड्यांवर\N_NN आणि\CC_CCD ग्लेशियरवर\N_NN पडलेले\V_VM नवे\JJ बर्फ\N_NN वेगाने\N_NN खाली\N_NST घसरते\V_VM .\RD_PUNC
+htd12537	कोणत्या\DM_DMQ तीव्र\JJ उतरणीला\N_NN तेंव्हा\CC_CCS पार\V_VM करू\V_VM नये\V_VAUX जेंव्हा\CC_CCS ताजा\JJ बर्फ\N_NN पडला\V_VM असेल\V_VAUX .\RD_PUNC
+htd12538	कमीत\QT_QTF कमी\QT_QTF दोन\QT_QTC तीन\QT_QTC दिवसांनंतर\N_NN त्या\PR_PRL उतरणीला\N_NN ओलांडले\V_VM पाहिजे\V_VAUX .\RD_PUNC
+htd12539	हिमालयात\N-NNP साधारणपणे\RB असे\JJ बर्फ\N_NN पडतच\V_VM राहते\V_VAUX .\RD_PUNC
+htd12540	जे\PR_PRL आरोहक\N_NN या\DM_DMR गोष्टीची\N_NN पर्वा\N_NN करत\V_VM नाहीत\V_VAUX ते\DM_DMR दुर्घटनेला\N_NN बळी\N_NN पडतात\V_VM .\RD_PUNC
+htd12541	जर\CC_CCS कोणत्या\DM_DMQ विवशतेमध्ये\N_NN अशी\JJ ठिकाणे\N_NN पार\V_VM करायची\V_VM असतील\V_VAUX तर\CC_CCS काही\QT_QTF गोष्टी\N_NN लक्षात\N_NN घेतल्या\V_VM पाहिजेत\V_VAUX .\RD_PUNC
+htd12542	सावधानी\N_NN म्हणून\CC_CCD अशा\JJ स्थानांवर\N_NN दगड\N_NN ,\RD_PUNC बर्फाचे\N_NN गोळे\N_NN फेकून\V_VM मार्गावरील\N_NN बर्फ\N_NN साफ\JJ करून\V_VM घ्यावा\V_VAUX .\RD_PUNC
+htd12543	असे\RB केल्याने\V_VM बर्फाचा\N_NN वरचा\N_NST थर\N_NN खाली\N_NST जातो\V_VM .\RD_PUNC
+htd12544	पावडरसारखा\N_NN बर्फ\N_NN ताज्या\JJ बर्फासारखा\N_NN असतो\V_VM पण\CC_CCD याचा\DM_DMR रंग\N_NN काहीसा\QT_QTF गडद\JJ राखाडी\JJ किंवा\CC_CCD भुरा\JJ असतो\V_VM .\RD_PUNC
+htd12545	पावडरसारखा\N_NN बर्फ\N_NN पहायला\V_VM मळका\JJ वाटतो\V_VM .\RD_PUNC
+htd12546	बाष्पाची\N_NN वाफ\N_NN झाल्याने\V_VM पावडर\N_NN बर्फात\N_NN पाण्याचे\N_NN प्रमाण\N_NN कमी\QT_QTF असते\V_VM .\RD_PUNC
+htd12547	पर्वतावर\N_NN दिवसा\N_NN सूर्याचे\N_NN किरण\N_NN सरळ\JJ रेषेत\N_NN पडत\V_VM असल्याने\V_VAUX आणि\CC_CCD हवा\N_NN हलकी\JJ असल्याने\V_VM तापमान\N_NN अधिक\QT_QTF असते\V_VM .\RD_PUNC
+htd12548	यामुळे\CC_CCD बर्फ\N_NN पघळून\V_VM ओला\JJ होतो\V_VM .\RD_PUNC
+htd12549	ओल्या\JJ बर्फावर\N_NN पाऊल\N_NN चांगल्याप्रकारे\JJ जमवून\V_VM चालता\V_VM येते\V_VM पण\CC_CCD यामुळॆ\CC_CCD बूट\N_NN आणि\CC_CCD कपडे\N_NN ओले\JJ होतात\V_VM .\RD_PUNC
+htd12550	ओल्या\JJ बर्फाचा\N_NN रंग\N_NN नीळा\JJ असतो\V_VM .\RD_PUNC
+htd12551	सर्वसाधारणपणे\RB ही\DM_DMR स्थिती\N_NN दिवसा\N_NN असते\V_VM .\RD_PUNC
+htd12552	कारण\N_NN पाणी\N_NN ओल्या\JJ बर्फावर\N_NN आणि\CC_CCD आतही\N_NST असते\V_VM .\RD_PUNC
+htd12553	थाइग\N_NN स्नो\N_NN अर्थात\N_NN पघळणारा\V_VM बर्फ\N_NN ओल्या\JJ बर्फापेक्षाही\N_NN अधिक\QT_QTF ओला\JJ असतो\V_VM .\RD_PUNC
+htd12554	याचे\PR_PRP कारण\N_NN असे\RB की\CC_CCS दिवसा\N_NN तापमान\N_NN वाढते\V_VM आणि\CC_CCD रात्री\N_NN बिंदु\N_NN गोठण्यापर्यंत\V_VM खाली\N_NST येते\V_VM .\RD_PUNC
+htd12555	जर\CC_CCS विरघळणार्‍या\V_VM बर्फाची\N_NN प्रक्रिया\N_NN काही\QT_QTF दिवस\N_NN चालु\JJ राहिली\V_VM तर\CC_CCS जमिनीचा\N_NN स्तर\N_NN तुटतो\V_VM आणि\CC_CCD कुठे\PR_PRQ कुठे\PR_PRQ त्याला\PR_PRP छेदही\N_NN जातो\V_VM .\RD_PUNC
+htd12556	अशा\JJ स्थानाला\N_NN पार\V_VM करताना\V_VM अडचणी\N_NN येतात\V_VM .\RD_PUNC
+htd12557	विशेषतः\RB सकाळी\N_NN जेंव्हा\CC_CCS येथे\DM_DMD खूप\QT_QTF निसरडे\V_VM झालेले\V_VM असते\V_VAUX .\RD_PUNC
+htd12558	विरघळणार्‍या\V_VM बर्फावर\N_NN क्रॅंपनचा\N_NN प्रयोग\N_NN चांगला\JJ करता\V_VM येतो\V_VAUX .\RD_PUNC
+htd12559	सुकलेला\V_VM बर्फ\N_NN तो\DM_DMR ज्यात\PR_PRL पाणी\N_NN दिसत\V_VM नाही\V_VAUX आणि\CC_CCD बर्फ\N_NN हाताला\N_NN चिकटतही\V_VM नाही\V_VAUX .\RD_PUNC
+htd12560	ओला\JJ बर्फ\N_NN दाबला\V_VM असता\V_VM हातांना\N_NN चिकटतो\V_VM आणि\CC_CCD यात\DM_DMR पाणी\N_NN दिसते\V_VM .\RD_PUNC
+htd12561	स्लश\N_NN स्नो\N_NN न\RP_NEG दाबताच\V_VM त्यातून\PR_PRL पाणी\N_NN वाहू\V_VM लागते\V_VAUX .\RD_PUNC
+htd12562	जेंव्हा\CC_CCS मुठीत\N_NN बर्फ\N_NN येते\V_VM तेंव्हा\CC_CCS ते\DM_DMR मऊ\JJ असते\V_VM .\RD_PUNC
+htd12563	मध्यम\N_NN घट्ट\JJ असे\JJ बर्फ\N_NN ते\DM_DMR आहे\V_VM ज्यात\PR_PRL करंगळी\N_NN सहज\RB घुसेल\V_VM .\RD_PUNC
+htd12564	कठिण\JJ बर्फ\N_NN ते\DM_DMR ज्यामध्ये\PR_PRL बोटापेक्षा\N_NN पेन्सिल\N_NN सहज\RB घुसेल\V_VM .\RD_PUNC
+htd12565	जेंव्हा\CC_CCS चाकुचे\N_NN पाते\N_NN त्यात\N_NN घुसेल\V_VM तेंव्हा\CC_CCS खूप\QT_QTF कठिण\JJ बर्फ\N_NN मानले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12566	एक\QT_QTC दुसरी\QT_QTO गोष्ट\N_NN आरोहकाने\N_NN लक्षात\N_NN ठेवली\V_VM पाहिजे\V_VAUX आणि\CC_CCD ज्याची\PR_PRL पूर्ण\QT_QTF माहिती\N_NN ठेवली\V_VM पाहिजे\V_VAUX ती\DM_DMR म्हणजे\CC_CCD उतरणीचा\N_NN कोन\N_NN किती\DM_DMQ आहे\V_VM ?\RD_PUNC
+htd12567	आरोहण\N_NN करण्यास\V_VM कोणताही\PR_PRQ मार्ग\N_NN अवलंबिण्याआधी\V_VM उतरणीच्या\N_NN कोनाची\N_NN महिती\N_NN तितकीच\QT_QTF महत्त्वाची\JJ आहे\V_VM जितकी\QT_QTF बर्फ\N_NN कोणत्या\DM_DMQ प्रकारचे\N_NN आहे\V_VM आणि\CC_CCD किती\DM_DMQ कठिण\JJ आहे\V_VM .\RD_PUNC
+htd12568	उतरणीच्या\N_NN कोनाचे\N_NN अनुमान\N_NN लावणे\V_VM यासाठी\PR_PRL गरजेचे\N_NN आहे\V_VM कारण\N_NN याचा\PR_PRL सरळ\JJ संबंध\N_NN बर्फ\N_NN कोसळण्याशी\V_VM आहे\V_VM ज्यामुळे\CC_CCD एवलांश\N_NN सुरू\JJ होते\V_VM .\RD_PUNC
+htd12569	पर्वतारोहणानंतर\N_NN आरोहकांना\N_NN बर्फाच्या\N_NN बर्‍याच\QT_QTF प्रकारच्या\N_NN स्तरांवरून\N_NN पार\V_VM जावे\V_VM लागते\V_VAUX .\RD_PUNC
+htd12570	उदाहरण\N_NN स्वरूप\N_NN बर्फाचे\N_NN पूल\N_NN ,\RD_PUNC कार्निस\N_NN ,\RD_PUNC बर्फाचा\N_NN रिज\N_NN आणि\CC_CCD एवलांश\N_NN इत्यादी\JJ .\RD_PUNC
+htd12571	आरोहकासाठी\N_NN या\DM_DMR सर्वांची\PR_PRF माहिती\N_NN असणे\V_VM अत्यंत\RP_INTF आवश्यक\JJ आहे\V_VM कारण\N_NN यानुसार\PR_PRL सफल\JJ आरोहण\N_NN केल्यावर\V_VM त्याचे\DM_DMR अभियान\N_NN सफल\JJ होते\V_VM .\RD_PUNC
+htd12572	खूप\QT_QTF वेळा\N_NN स्तर\N_NN खूप\QT_QTF घातक\JJ दुर्घटनांनी\N_NN तयार\JJ झालेले\V_VM असतात\V_VAUX .\RD_PUNC
+htd12573	उंच\JJ पर्वतांवर\N_NN थंडीच्या\N_NN दिवसात\N_NN खूपच\RP_INTF बर्फ\N_NN पडत\V_VM असते\V_VAUX त्यामुळे\CC_CCD सर्व\QT_QTF नद्या\N_NN ,\RD_PUNC नाले\N_NN ,\RD_PUNC भेगा\N_NN ,\RD_PUNC गल्ल्या\N_NN बर्फाने\N_NN झाकलेल्या\V_VM असतात\V_VAUX .\RD_PUNC
+htd12574	उन्हाळ्यात\N_NN सूर्य\N_NN आणखी\QT_QTF जास्त\QT_QTF तीव्र\JJ होत\V_VM असल्याने\V_VM बर्फ\N_NN विरघळू\V_VM लागते\V_VAUX आणि\CC_CCD जमलेले\V_VM पाणी\N_NN वाहू\V_VM लागते\V_VAUX .\RD_PUNC
+htd12575	पर्वताच्या\N_NN पायथ्याशी\N_NN मोठ्या\JJ प्रमाणात\N_NN साठलेल्या\V_VM बर्फाला\N_NN कार्निस\N_NN म्हणतात\V_VM .\RD_PUNC
+htd12576	कार्निस\N_NN बर्फ\N_NN हवा\N_NN आपल्याबरोबर\N_NN वाहून\V_VM आणून\V_VM पायथ्याशी\N_NN जमवते\V_VM .\RD_PUNC
+htd12577	कार्निस\N_NN साधारणपणॆ\RB तेथे\DM_DMD एकत्र\JJ साठते\V_VM जेथे\DM_DMD रिज\N_NN एका\QT_QTC बाजुने\N_NN उतार\N_NN असलेला\V_VM असतो\V_VM आणि\CC_CCD त्याचा\DM_DMR दुसरा\QT_QTO उतार\N_NN सामान्य\JJ असतो\V_VM .\RD_PUNC
+htd12578	यावर\PR_PRL बर्फ\N_NN हवेबरोबर\N_NN तीव्र\JJ उतारावर\N_NN एकत्र\JJ साठते\V_VM आणि\CC_CCD आणखी\QT_QTF साठल्यावर\V_VM छजली\N_NN सारखे\JJ बनून\V_VM आधारहीन\JJ लटकत\V_VM राह्ते\V_VAUX .\RD_PUNC
+htd12579	बर्फाचा\N_NN रिज\N_NN ही\DM_DMR ती\DM_DMR रेष\N_NN असते\V_VM जेथे\DM_DMD पर्वताच्या\N_NN दोन\QT_QTC बाजु\N_NN जुळतात\V_VM .\RD_PUNC
+htd12580	दुसर्‍या\QT_QTO शब्दात\N_NN सांगायचे\V_VM झाल्यास\V_VM बर्फाची\N_NN रिज\N_NN पर्वताच्या\N_NN लांब\JJ आणि\CC_CCD अरुंद\JJ टोकाला\N_NN म्हणतात\V_VM .\RD_PUNC
+htd12581	उंच\JJ पर्वतावर\N_NN रिजची\N_NN आकृती\N_NN खूप\QT_QTF तीक्ष्ण\JJ असते\V_VM .\RD_PUNC
+htd12582	बर्फाच्या\N_NN रिजच्या\N_NN दोन्ही\QT_QTC बाजुचा\N_NN उतार\N_NN ६००\QT_QTC ते\CC_CCS ९००\QT_QTC मीटर\N_NN पर्यंत\RB असू\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12583	बर्फाच्या\N_NN रिजवर\N_NN आरोहण\N_NN ही\DM_DMR सोपी\JJ गोष्ट\N_NN नाही\V_VM .\RD_PUNC
+htd12584	बर्फाच्या\N_NN रिजवर\N_NN चालताना\V_VM सदस्यांना\N_NN पूर्ण\QT_QTF दृष्टीने\N_NN बिले\N_NN केले\V_VM पाहिजे\V_VAUX .\RD_PUNC
+htd12585	प्रत्येक\QT_QTF आरोहकाने\N_NN एका\QT_QTC बाजुच्या\N_NN उतारावर\N_NN ज्यावर\PR_PRL तो\DM_DMR योग्यप्रकारे\N_NN संतुलन\N_NN करू\V_VM शकेल\V_VAUX त्यावर\PR_PRL चालावे\V_VM .\RD_PUNC
+htd12586	जर\CC_CCS कोणत्याही\DM_DMQ कारणाने\N_NN रिजवर\N_NN चालावे\V_VM लागले\V_VAUX तर\CC_CCS उताराकडे\N_NN तोंड\N_NN करून\V_VM बाजुने\N_NN चालावे\V_VM .\RD_PUNC
+htd12587	आइस\N_NN एक्स\N_NN बर्फात\N_NN खोलवर\JJ खोचून\V_VM प्रत्येक\QT_QTF सदस्याला\N_NN बिले\N_NN केले\V_VM पाहिजे\V_VAUX .\RD_PUNC
+htd12588	आरोहक\N_NN स्नो\N_NN क्लाइंबिंगसाठी\N_NN अनेक\QT_QTF प्रकारच्या\N_NN तंत्राचा\N_NN उपयोग\N_NN आपल्या\PR_PRP सोयीनुसार\N_NN तसेच\CC_CCD परिस्थितीनुसार\N_NN करत\V_VM असतो\V_VAUX .\RD_PUNC
+htd12589	स्नो\N_NN क्लाइंबिंगच्या\N_NN दरम्यान\N_NN कोणत्याही\DM_DMQ उताराला\N_NN पार\V_VM करण्यासाठी\V_VM आरोहक\N_NN अथवा\CC_CCD आरोहण\N_NN करणार्‍या\V_VM समुहाला\N_NN पुढे\N_NST जाण्यासाठी\V_VM पग\N_NN तयार\JJ करावे\V_VM लागतात\V_VAUX .\RD_PUNC
+htd12590	ताज्या\JJ ,\RD_PUNC सुकलेल्या\V_VM ,\RD_PUNC ओल्या\JJ आणि\CC_CCD मुलायम\JJ बर्फात\N_NN असे\JJ पग\N_NN तयार\JJ केल्याने\V_VM चालणे\V_VM खूप\QT_QTF सोपे\JJ होते\V_VM .\RD_PUNC
+htd12591	हे\DM_DMR पग\N_NN उताराच्या\N_NN प्रकृतीनुसार\N_NN तयार\JJ केले\V_VM जातात\V_VAUX .\RD_PUNC
+htd12592	यामध्ये\PR_PRL बर्फाचा\N_NN प्रकार\N_NN ,\RD_PUNC पग\N_NN तयार\JJ करण्याचा\V_VM उद्देश\N_NN आणि\CC_CCD समुहाच्या\N_NN संख्येचा\N_NN हिशोब\N_NN पाहावा\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12593	ही\DM_DMR पाऊले\N_NN एकेरी\N_NN ,\RD_PUNC दुहेरी\N_NN किंवा\CC_CCD आडवे\JJ ,\RD_PUNC तिरके\JJ अशा\JJ पद्धतीने\N_NN तयार\JJ केली\V_VM जातात\V_VAUX .\RD_PUNC
+htd12594	जेंव्हा\CC_CCS बर्फ\N_NN थोडा\QT_QTF कठिण\JJ असतो\V_VM आणि\CC_CCD पायाने\N_NN दाबून\V_VM पग\N_NN बनवणे\V_VM शक्य\JJ नसते\V_VM तेंव्हा\CC_CCS यांना\PR_PRP बूटाची\N_NN ठोकर\V_VM मारुन\V_VM तयार\JJ केले\V_VM जातात\V_VAUX .\RD_PUNC
+htd12595	बूटाची\N_NN ठोकर\V_VM मारून\V_VM तयार\JJ केलेले\V_VM हे\DM_DMR पग\N_NN एकेरी\N_NN ,\RD_PUNC दुहेरी\N_NN अथवा\CC_CCD आडवे\JJ ,\RD_PUNC तिरके\JJ असू\V_VM शकतात\V_VAUX .\RD_PUNC
+htd12596	जेंव्हा\CC_CCS आडवे\JJ तिरके\JJ पग\N_NN बनवायचे\V_VM असतात\V_VAUX तेंव्हा\CC_CCS बूटाच्या\N_NN टोकाशिवाय\N_NN त्याच्या\PR_PRL दोन्ही\QT_QTC कडांचा\N_NN उपयोग\N_NN केला\V_VM जातो\V_VAUX .\RD_PUNC
+htd12597	यामध्ये\PR_PRL पायाच्या\N_NN पंजावर\N_NN अतिरिक्त\JJ दाब\N_NN पडतो\V_VM .\RD_PUNC
+htd12598	याकरिता\CC_CCD एक\QT_QTC गोष्ट\N_NN लक्षात\N_NN घेतली\V_VM पाहिजे\V_VAUX की\CC_CCS कोणत्याही\DM_DMQ परिस्थितीत\N_NN पायाच्या\N_NN पंज्याला\N_NN जखम\N_NN होता\V_VM कामा\V_VAUX नये\V_VAUX .\RD_PUNC
+htd12599	हे\DM_DMR खूप\QT_QTF कष्टाचे\N_NN काम\N_NN आहे\V_VM .\RD_PUNC
+htd12600	आवश्यकता\N_NN पडली\V_VM तर\CC_CCS आइस\N_NN एक्सचा\N_NN वापरही\N_NN केला\V_VM पाहिजे\V_VAUX .\RD_PUNC
+htd12601	जेथे\DM_DMD बर्फ\N_NN खूप\QT_QTF कठिण\JJ असेल\V_VM आणि\CC_CCD ठोकर\N_NN मारून\V_VM पग\N_NN तयार\JJ करणे\V_VM शक्य\JJ नसेल\V_VAUX त्याचबरोबर\PR_PRL क्रॅंपन\N_NN घालून\V_VM आरोहण\N_NN करणे\V_VM शक्य\JJ नसेल\V_VAUX तेंव्हा\CC_CCS तेथे\DM_DMD पायर्‍या\N_NN कापणे\V_VM आवश्यक\JJ ठरते\V_VM .\RD_PUNC
+htd12602	साधारणपणे\RB बर्फात\N_NN पायर्‍या\N_NN कापण्याचे\V_VM काम\N_NN आइस\N_NN एक्सने\N_NN केले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12603	खूप\QT_QTF कठिण\JJ बर्फात\N_NN पायर्‍या\N_NN कापणे\V_VM शक्य\JJ नसते\V_VM तेंव्हा\CC_CCS बेलचे\N_NN किंवा\CC_CCD आइस\N_NN एक्सच्या\N_NN पातीच्या\N_NN बाजुने\N_NN त्यांना\PR_PRP कापण्याचे\V_VM काम\N_NN केले\V_VM जाते\V_VAUX
+htd12604	आइस\N_NN एक्सचा\N_NN उपयोग\N_NN बाजुने\N_NN केला\V_VM जातो\V_VAUX जेणेकरून\CC_CCD आरोहक\N_NN स्वतःच\PR_PRF जखमी\JJ होणार\V_VM नाही\V_VAUX .\RD_PUNC
+htd12605	आइस\N_NN एक्सच्या\N_NN अणकुचीदार\JJ भागाकडून\N_NN सीढी\N_NN कापली\N_NN जाते\V_VM आणि\CC_CCD रुंदीच्या\N_NN बाजुने\N_NN बर्फ\N_NN स्वच्छ\JJ केले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12606	सीढीचा\N_NN शेवटाचा\N_NN भाग\N_NN आतल्या\JJ बाजुकडे\N_NN झुकलेला\V_VM असला\V_VM पाहिजे\V_VAUX .\RD_PUNC
+htd12607	स्नो\N_NN क्लाइंबिंग\N_NN कठिणच\JJ नाही\V_VM धोकादायकही\JJ आहे\V_VM .\RD_PUNC
+htd12608	कारण\N_NN बर्फात\N_NN मजबूत\JJ एंकर\N_NN खूप\QT_QTF दुर्मिळ\JJ असतात\V_VM आणि\CC_CCD बिले\N_NN करणे\V_VM हे\DM_DMR कठिण\JJ काम\N_NN आहे\V_VM .\RD_PUNC
+htd12609	मजबूत\JJ एंकर\N_NN आणि\CC_CCD बिले\N_NN करणे\V_VM शक्य\JJ नसल्याने\V_VM सुरक्षित\JJ आरोहण\N_NN करणॆ\N_NN शक्य\JJ होत\V_VM नाही\V_VAUX .\RD_PUNC
+htd12610	अशा\JJ परिस्थितीत\N_NN आरोहक\N_NN मनात\N_NN ही\DM_DMR शंका\N_NN नेहमीच\RB बाळगून\V_VM असतो\V_VM की\CC_CCS कोणती\DM_DMQ दुर्घटना\N_NN तर\CC_CCS होणार\V_VM नाही\V_VAUX ना\RP_NEG !\RD_PUNC
+htd12611	सुरक्षित\JJ एकर\N_NN आणि\CC_CCD बिलेशिवाय\N_NN कोणत्याही\DM_DMQ दुर्घटनेला\N_NN आळा\N_NN घालणे\V_VM तसे\RB अशक्यच\JJ आहे\V_VM .\RD_PUNC
+htd12612	टेकडीवर\N_NN आणि\CC_CCD बर्फात\N_NN मजबूत\JJ एंकर\N_NN मिळाल्यास\V_VM सहज\RB बिले\N_NN तयार\JJ करणे\V_VM शक्य\JJ आहे\V_VM .\RD_PUNC
+htd12613	ताज्या\JJ बर्फात\N_NN बर्‍याच\QT_QTF कारणांनी\N_NN बिले\N_NN शक्य\JJ होत\V_VM नाही\V_VAUX .\RD_PUNC
+htd12614	तरीही\N_NN डेडमॅन\N_NN ,\RD_PUNC डेडबॉय\N_NN ,\RD_PUNC स्नो\N_NN स्टेक्स\N_NN आणि\CC_CCD स्नो\N_NN फ्लूक्समुळॆ\N_NN घसरण्यामुळे\V_VM होणार्‍या\V_VM दुर्घटना\N_NN कमी\QT_QTF झाल्या\V_VM आहेत\V_VAUX .\RD_PUNC
+htd12615	सरळसोट\JJ उतारावर\N_NN ट्रेवसिंग\N_NN अर्थात\N_NN उतारावर\N_NN एका\QT_QTC टोकाकडून\N_NN दुसर्‍या\QT_QTO टोकाकडे\N_NN जाताना\V_VM आरोहण\N_NN केले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12616	अशा\JJ परिस्थितीत\N_NN आइस\N_NN एक्सचा\N_NN उपयोग\N_NN खाली\N_NST उल्लेखिलेल्या\V_VM तीन\QT_QTC प्रकारांनी\N_NN आरोहक\N_NN आपल्या\PR_PRP गरजेनुसार\N_NN आणि\CC_CCD उताराच्या\N_NN स्थितीनुरूप\N_NN करू\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12617	सामान्य\JJ उतार\N_NN असेल\V_VM तर\CC_CCS गिर्यारोहक\N_NN आइस\N_NN एक्सला\N_NN आपल्या\PR_PRP वर\N_NST असलेल्या\V_VM उताराकडे\N_NN रोखून\V_VM हातात\N_NN पकडू\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12618	पडण्याच्या\V_VM अवस्थेत\N_NN पर्वतारोहक\N_NN आइस\N_NN एक्सचे\N_NN टोक\N_NN खोलवर\JJ खोचून\V_VM त्यासह\PR_PRL लटकू\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12619	जर\CC_CCS आइस\N_NN एक्स\N_NN खालच्या\N_NST हातात\N_NN असेल\V_VM तर\CC_CCS तो\DM_DMR उतारावर\N_NN खोवण्यासाठी\V_VM आरोहकाला\N_NN झुकावे\V_VM लागेल\V_VAUX .\RD_PUNC
+htd12620	यामुळे\CC_CCD त्याचे\DM_DMR संतुलन\N_NN बिघडू\V_VM शकते\V_VAUX .\RD_PUNC
+htd12621	पर्वतारोहकाला\N_NN तिसरा\QT_QTO पाय\N_NN असल्याने\V_VM तो\DM_DMR स्नो\N_NN अथवा\CC_CCD आइस\N_NN क्लाइंबिंग\N_NN आइस\N_NN एक्सशिवायच\N_NN करण्याची\V_VM कल्पना\N_NN एका\QT_QTC मिनिटासाठीही\N_NN करू\V_VM शकत\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd12622	आरोहण\N_NN आणि\CC_CCD अवरोहण\N_NN करतानाच\V_VM नाही\V_VAUX तर\CC_CCS गिर्यारोहकाला\N_NN आइस\N_NN एक्स\N_NN प्रत्येक\QT_QTF क्षणाची\N_NN गरज\N_NN असते\V_VM .\RD_PUNC
+htd12623	आइस\N_NN एक्सच्याशिवाय\N_NN तो\DM_DMR स्वतःला\PR_PRF पडणे\V_VM किंवा\CC_CCD घसरणे\V_VM यापासून\PR_PRL वाचवु\V_VM शकत\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd12624	यासाठी\CC_CCD आइस\N_NN एक्स\N_NN नसेल\V_VM तर\CC_CCS गंभीर\JJ दुर्घटना\N_NN होऊ\V_VM शकते\V_VAUX .\RD_PUNC
+htd12625	पर्वतामध्ये\N_NN बर्‍याचदा\QT_QTF आइस\N_NN एक्समुळे\N_NN गिर्यारोहक\N_NN स्वतःला\PR_PRF दुर्घटनाग्रस्त\JJ होण्यापासून\V_VM वाचवु\V_VM शकले\V_VAUX आहेत\V_VAUX .\RD_PUNC
+htd12626	जेंव्हा\CC_CCS समुह\N_NN नेता\N_NN बर्फाच्या\N_NN पठारी\JJ मैदानात\N_NN पोहोचतो\V_VM आणि\CC_CCD त्याला\PR_PRL एंकरिंगसाठी\N_NN योग्य\JJ स्थान\N_NN मिळत\V_VM नाही\V_VAUX तेंव्हा\CC_CCS त्याठिकाणी\DM_DMR डेडमॅन\N_NN सहायक\N_NN ठरतो\V_VM .\RD_PUNC
+htd12627	बर्फाच्या\N_NN स्थितीनुसार\N_NN तेथे\DM_DMD २०\QT_QTC ,\RD_PUNC २५\QT_QTC से\N_NN .\RD_PUNC अथवा\CC_CCD आणखी\QT_QTF खोल\JJ खोदकाम\N_NN करावे\V_VM .\RD_PUNC
+htd12628	आता\RB यामध्ये\PR_PRL लांबुळकी\JJ कापणी\N_NN त्या\PR_PRL बाजुने\N_NN करा\V_VM ज्याबाजुने\PR_PRL दोर\N_NN लावाण्याची\V_VM जागा\N_NN तयार\JJ होईल\V_VM .\RD_PUNC
+htd12629	डेडमॅनसाठी\N_NN योग्य\JJ कोन\N_NN तयार\JJ करताना\V_VM खड्याच्या\N_NN तळाशी\N_NN खोचा\V_VM .\RD_PUNC
+htd12630	डेडबॉयचा\N_NN उपयोग\N_NN आणि\CC_CCD प्रयोग\N_NN दोन्ही\QT_QTC डेडमॅनसारखेच\N_NN आहे\V_VM .\RD_PUNC
+htd12631	स्नो\N_NN फ्लुकचा\N_NN जास्त\QT_QTF उपयोग\N_NN आधी\N_NN केला\V_VM जात\V_VAUX नसे\V_VAUX .\RD_PUNC
+htd12632	अनुभवातून\N_NN कळले\V_VM की\CC_CCS स्नो\N_NN फ्लुक\N_NN डेडमॅनपेक्षाही\N_NN जास्त\QT_QTF चांगले\JJ आहेत\V_VM .\RD_PUNC
+htd12633	स्नो\N_NN फ्लुक\N_NN स्वतः\PR_PRF भार\N_NN खेचून\V_VM घेत\V_VM असल्याने\V_VM स्वतःला\PR_PRF योग्य\JJ त्या\DM_DMR स्थितीत\N_NN समायोजित\JJ करतात\V_VM मग\RB त्यांचा\PR_PRP उपयोग\N_NN नरम\JJ बर्फात\N_NN केला\V_VM जात\V_VM असेल\V_VAUX तरी\CC_CCS प्रश्न\N_NN नाही\V_VM .\RD_PUNC
+htd12634	अनेक\QT_QTF आरोहक\N_NN आइस\N_NN एक्सपेक्षा\N_NN स्नो\N_NN टेक्स्चा\N_NN उपयोग\N_NN करणे\V_VM योग्य\JJ समजतात\V_VM .\RD_PUNC
+htd12635	त्यांचे\PR_PRL म्हणणे\V_VM आहे\V_VAUX की\CC_CCS आइस\N_NN एक्सचा\N_NN हातोडा\N_NN तुटु\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12636	मजबूत\JJ एलॉय\N_NN असल्याने\V_VM स्नो\N_NN स्टेक्स\N_NN तुटण्याचे\V_VM भय\N_NN नाही\V_VM .\RD_PUNC
+htd12637	स्नो\N_NN स्टेक्स\N_NN छोटे\JJ मोठे\JJ बर्‍याच\QT_QTF प्रकारचे\N_NN असतात\V_VM .\RD_PUNC
+htd12638	स्थितीनुरूप\N_NN स्नो\N_NN टेक्सचा\N_NN उपयोग\N_NN केला\V_VM जाऊ\V_VAUX शकतो\V_VAUX .\RD_PUNC
+htd12639	स्नो\N_NN टेक्सला\N_NN एंकरिंग\N_NN आणि\CC_CCD बिले\N_NN दोन्हीसाठी\N_NN उपयोगात\N_NN आणले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12640	कठिण\JJ बर्फाच्या\N_NN उतारावर\N_NN क्रॅंपन\N_NN घालून\V_VM आरोहण\N_NN करता\V_VM येते\V_VAUX .\RD_PUNC
+htd12641	क्रॅंपनच्याशिवाय\N_NN आरोहकला\N_NN तेथे\DM_DMD पायर्‍या\N_NN कापण्याचे\V_VM कठिण\JJ कामही\N_NN करावे\V_VM लागते\V_VAUX .\RD_PUNC
+htd12642	साधारणपणे\RB ४०\QT_QTC अंश\N_NN उतारावर\N_NN क्रॅंपन\N_NN घालून\V_VM आरोहण\N_NN करता\V_VM येते\V_VAUX .\RD_PUNC
+htd12643	अनुभवी\JJ आरोहक\N_NN क्रॅंपन\N_NN घालून\V_VM तीव्र\JJ उतारावरही\N_NN आरोहण\N_NN करू\V_VM शकतात\V_VAUX .\RD_PUNC
+htd12644	गिर्यारोहणात\N_NN आरोहकाला\N_NN याची\PR_PRL पूर्ण\QT_QTF माहिती\N_NN नसते\V_VM की\CC_CCS त्याला\PR_PRL मार्गात\N_NN कशाप्रकारची\N_NN स्थाने\N_NN पार\V_VM करावी\V_VM लागतील\V_VAUX
+htd12645	यासाठी\PR_PRL खरेतर\RB क्रॅंपनचा\N_NN उपयोग\N_NN करा\V_VM अथवा\CC_CCD करु\V_VM नका\V_VAUX त्यांना\PR_PRL बरोबर\JJ घेऊनच\V_VM आरोहण\N_NN करायला\V_VM जाणे\V_VM भाग\N_NN पडते\V_VM .\RD_PUNC
+htd12646	काही\QT_QTF आरोहक\N_NN क्रॅंपनला\N_NN आवश्यक\JJ अडथळा\N_NN मानतात\V_VM .\RD_PUNC
+htd12647	काही\QT_QTF गिर्यारोहक\N_NN क्रॅम्पन\N_NN हे\DM_DMR धोका\N_NN देणारे\V_VM उपकरण\N_NN आहे\V_VM असे\RB मानतात\V_VM पण\CC_CCD वास्तविक\RB असे\RB आहे\V_VM की\CC_CCS याच्याशिवाय\PR_PRL गिर्यारोहण\N_NN शक्य\JJ नाही\V_VM .\RD_PUNC
+htd12648	क्रॅम्पन\N_NN पक्के\JJ बांधणे\V_VM ही\DM_DMR एक\QT_QTC कला\N_NN आहे\V_VM .\RD_PUNC
+htd12649	गिर्यारोहणाला\N_NN जाण्यापूर्वी\V_VM क्रॅम्पन\N_NN नीट\RB बांधण्यासाठी\V_VM अधिक\QT_QTF सरावाची\N_NN आवश्यकता\N_NN असते\V_VM .\RD_PUNC
+htd12650	क्रॅम्पन\N_NN घालून\V_VM चालण्यासाठी\V_VM अधिकाधिक\QT_QTF सरावाची\N_NN गरज\N_NN असते\V_VM .\RD_PUNC
+htd12651	क्रॅम्पन\N_NN घालून\V_VM चालण्यासाठी\V_VM गिर्यारोहकाने\N_NN अभ्यासक\N_NN बनणे\V_VM गरजेचे\N_NN आहे\V_VM .\RD_PUNC
+htd12652	क्रॅम्पन\N_NN सह\RP_RPD चालणे\V_VM त्याला\PR_PRL अडखळण्याप्रमाणे\V_VM वाटते\V_VM .\RD_PUNC
+htd12653	क्रॅम्पन\N_NN घालून\V_VM त्याच\DM_DMR गिर्यारोहकांनी\N_NN गिर्यारोहण\N_NN करावे\V_VM ज्यांचा\PR_PRL स्वतःवर\PR_PRF पूर्ण\QT_QTF विश्वास\N_NN आहे\V_VM .\RD_PUNC
+htd12654	बर्फात\N_NN उतरणे\V_VM फार\QT_QTF कठीण\JJ काम\N_NN नाही\V_VM .\RD_PUNC
+htd12655	खूप\QT_QTF उंच\JJ ठिकाणांची\N_NN गोष्टच\N_NN निराळी\JJ आहे\V_VM कारण\N_NN या\DM_DMR ठिकाणी\N_NN उतरणी\N_NN खूप\QT_QTF कठीण\JJ असतात\V_VM आणि\CC_CCD खाली\N_NST पडण्याचा\V_VM धोका\N_NN जास्त\QT_QTF असतो\V_VM .\RD_PUNC
+htd12656	खाली\N_NST उतरताना\V_VM सर्वात\RP_INTF जास्त\QT_QTF अडचणीचा\N_NN सामना\N_NN शेवटच्या\N_NN सदस्याला\N_NN करावा\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12657	त्यामुळेच\CC_CCD सर्वात\RP_INTF शेवटी\N_NST उतरणारा\V_VM सदस्य\N_NN समूहाचा\N_NN नेता\N_NN असावा\V_VM किंवा\CC_CCD प्रदीर्घ\JJ अनुभव\N_NN असणारा\V_VM गिर्यारोहक\N_NN असावा\V_VM जो\PR_PRL स्वतःची\PR_PRF काळजी\N_NN स्वतः\PR_PRF घेऊ\V_VM शकेल\V_VAUX .\RD_PUNC
+htd12658	हे\DM_DMR आवश्यक\JJ अशासाठी\JJ आहे\V_VM की\CC_CCS त्याला\PR_PRL बिलेशिवाय\N_NN खाली\N_NST उतरावे\V_VM लागते\V_VAUX .\RD_PUNC
+htd12659	नरम\JJ बर्फामध्ये\N_NN उतरण्याकरिता\V_VM कोणताही\DM_DMR धोका\N_NN नसतो\V_VM .\RD_PUNC
+htd12660	जर\CC_CCS कोणी\PR_PRQ खाली\N_NST पडलेच\N_NN तर\CC_CCS कोणत्याही\DM_DMQ प्रकारची\N_NN गंभीर\JJ जखम\N_NN होण्याचा\V_VM धोका\N_NN असत\V_VM नाही\V_VAUX .\RD_PUNC
+htd12661	याउपरही\CC_CCD आरोहणात\N_NN गिर्यारोहकांनी\N_NN कोणत्याही\DM_DMQ प्रकारची\N_NN जोखीम\N_NN स्वीकारू\V_VM नये\V_VAUX .\RD_PUNC
+htd12662	योग्यरीतीने\RB सावधान\N_NN राहून\V_VM आरोहण\N_NN केले\V_VM पाहिजे\V_VAUX .\RD_PUNC
+htd12663	जेंव्हा\CC_CCS गिर्यारोहक\N_NN स्वतः\PR_PRF बसून\V_VM स्वतःच्या\PR_PRF मर्जीने\N_NN घसरत\V_VM खाली\N_NST येतो\V_VM .\RD_PUNC
+htd12664	बर्फावरून\N_NN घसरत\V_VM खाली\N_NST येणे\V_VM याला\PR_PRL ल्गिसायडिंग\N_NN असे\RB म्हणतात\V_VM .\RD_PUNC
+htd12665	जर\CC_CCS बर्फाने\N_NN भरलेली\V_VM उतरण\N_NN कठिण\JJ आणि\CC_CCD धोकादायक\JJ नसेल\V_VM तर\CC_CCS ग्लिसायडिंग\N_NN पद्धतीने\N_NN सर्वात\RP_INTF कमी\QT_QTF काळात\N_NN उतरता\V_VM येते\V_VAUX आणि\CC_CCD या\DM_DMR पद्धतीने\N_NN उतरणे\V_VM आनंददायक\N_NN ठरते\V_VM .\RD_PUNC
+htd12666	ग्लिसायडिंग\N_NN करताना\V_VM हे\DM_DMR अवश्य\RB निश्चित\JJ केले\V_VM पाहिजे\V_VAUX की\CC_CCS उताराचा\N_NN शेवट\N_NN तुम्हाला\PR_PRP स्पष्टपणे\RB दिसत\V_VM आहे\V_VAUX आणि\CC_CCD तुम्हाला\PR_PRP माहित\N_NN असले\V_VM पाहिजे\V_VAUX की\CC_CCS तेथे\DM_DMD सहजरीत्या\RB थांबता\V_VM आले\V_VAUX पाहिजे\V_VAUX .\RD_PUNC
+htd12667	ग्लिसायडिंग\N_NN उभे\JJ राहूनही\V_VM करता\V_VAUX येते\V_VAUX .\RD_PUNC
+htd12668	बसून\V_VM ग्लिसायडिंग\N_NN करण्याला\V_VM ऐच्छिक\JJ ग्लिसायडिंग\N_NN असे\RB म्हणतात\V_VM .\RD_PUNC
+htd12669	यामध्ये\PR_PRL आरोहक\N_NN खालच्या\N_NST बाजुने\N_NN पाहत\V_VM आपल्या\PR_PRP पार्श्वभागावर\N_NN जोर\N_NN देत\V_VM आपले\PR_PRP पाय\N_NN वर\N_NST उचलून\V_VM खालच्या\N_NST दिशेने\N_NN घसरतो\V_VM .\RD_PUNC
+htd12670	जर\CC_CCS उतार\N_NN आणि\CC_CCD बर्फ\N_NN चांगले\JJ असेल\V_VM तर\CC_CCS आरोहक\N_NN नदीत\N_NN तरंगणार्‍या\V_VM लाकडाप्रमाणे\N_NN खालच्या\N_NST दिशेने\N_NN पुढे\N_NST जातो\V_VM .\RD_PUNC
+htd12671	स्थानिक\N_NN लोकही\N_NN खाली\N_NST उतरण्यासाठी\V_VM ग्लिसायडिंग\N_NN पद्धतीचा\N_NN वापर\N_NN करतात\V_VM .\RD_PUNC
+htd12672	जास्त\QT_QTF प्रमाणात\N_NN बर्फ\N_NN वृष्टी\N_NN झालीतर\V_VM खाली\N_NST उतरणे\V_VM त्रासदायक\JJ होते\V_VM .\RD_PUNC
+htd12673	जास्त\QT_QTF बर्फात\N_NN आइस\N_NN एक्सला\N_NN छातीजवळ\N_NN ब्रेकिंग\V_VM पोझिशनमध्ये\N_NN ठेवले\V_VM पाहिजे\V_VAUX म्हणजे\CC_CCD आवश्यकता\N_NN पडल्यावर\V_VM थांबयला\V_VM सोपे\JJ जाईल\V_VM .\RD_PUNC
+htd12674	आइस\N_NN एक्सचे\N_NN टोक\N_NN मागे\N_NST आणि\CC_CCD खालच्या\N_NST दिशेने\N_NN दाबून\V_VM घसरण्याची\V_VM योग्य\JJ दिशा\N_NN निश्चित\JJ करता\V_VM येते\V_VAUX .\RD_PUNC
+htd12675	जर\CC_CCS उतार\N_NN अधिक\QT_QTF कठिण\JJ असेल\V_VM ग्लिसायडिंग\N_NN अथवा\CC_CCD हिलवर्क\N_NN करत\V_VM उतरणे\V_VM शक्य\JJ नसेल\V_VM तर\CC_CCS समुहाला\N_NN बिलेइंग\N_NN करत\V_VM खाली\N_NST यावे\V_VM लागते\V_VAUX .\RD_PUNC
+htd12676	विलेइंगसाठी\N_NN आइस\N_NN एक्स\N_NN ,\RD_PUNC डेडमॅन\N_NN ,\RD_PUNC स्नो\N_NN स्टेक्स\N_NN अथवा\CC_CCD स्नो\N_NN फ्लूक्सच्या\N_NN माध्यमाने\N_NN बिले\N_NN करत\V_VM पूर्ण\QT_QTF सावधानतेने\N_NN अवरोहण\N_NN केले\V_VM पाहिजे\V_VAUX .\RD_PUNC
+htd12677	सगळ्यात\QT_QTF शेवटी\N_NST येणार्‍या\V_VM सदस्याला\N_NN सर्वात\RP_INTF अनुभवी\JJ गिर्यारोहक\N_NN असणे\V_VM आवश्यक\JJ आहे\V_VM कारण\N_NN त्याला\PR_PRL बिलेशिवायच\N_NN उतरावे\V_VM लागेल\V_VAUX .\RD_PUNC
+htd12678	रॅपलिंग\N_NN ,\RD_PUNC कमी\QT_QTF काळ\N_NN लागणारा\V_VM एक\QT_QTC सुरक्षित\JJ मार्ग\N_NN आहे\V_VM .\RD_PUNC
+htd12679	पण\CC_CCD रॅपलिंगसाठी\N_NN आरोहकाला\N_NN खूप\QT_QTF अनुभव\N_NN असणे\V_VM आवश्यक\JJ आहे\V_VM .\RD_PUNC
+htd12680	बर्फावरही\N_NN रॅपलिंग\N_NN त्याचरकारे\PR_PRL केले\V_VM जाते\V_VAUX ज्याप्रकारे\PR_PRL शिलारोहणात\N_NN केले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12681	बर्फावर\N_NN अंतर\N_NN असे\RB असते\V_VM की\CC_CCS कोणत्याही\DM_DMQ प्रकारचे\N_NN मजबूत\JJ एंकर\N_NN उपलब्ध\JJ असत\V_VM नाही\V_VAUX आणि\CC_CCD गिर्यारोहकाला\N_NN कृत्रिम\JJ एंकरचीच\N_NN मदत\N_NN घ्यावी\V_VM लागते\V_VAUX .\RD_PUNC
+htd12682	हे\DM_DMR एंकर\N_NN अल्युमिनिअमचे\N_NN खांब\N_NN ,\RD_PUNC स्नो\N_NN स्टेक्स\N_NN आणि\CC_CCD कधी\PR_PRQ कधी\PR_PRQ आइस\N_NN एक्स\N_NN असू\V_VM शकतात\V_VAUX .\RD_PUNC
+htd12683	दोरीच्या\N_NN सहायाने\N_NN ग्लिसायडिंग\N_NN करताना\V_VM सावध\N_NN रहा\V_VM .\RD_PUNC
+htd12684	आइस\N_NN एक्सशिवाय\N_NN कधी\PR_PRQ ग्लिसायडिंग\N_NN करू\V_VM नका\V_VAUX .\RD_PUNC
+htd12685	आइस\N_NN एक्स\N_NN नसताना\V_VM पडलात\V_VM तर\CC_CCS स्वतःला\PR_PRF थांबविणे\V_VM शक्य\JJ नसते\V_VM .\RD_PUNC
+htd12686	जर\CC_CCS तुम्ही\PR_PRP पूर्ण\QT_QTF उतार\N_NN पाहू\V_VM शकत\V_VAUX नसाल\V_VAUX तर\CC_CCS ग्लिसायडिंग\N_NN करण्याचा\V_VM धोका\N_NN पत्करू\V_VM नका\V_VAUX .\RD_PUNC
+htd12687	गलीमध्ये\N_NN ग्लिसायडिंग\N_NN करणे\V_VM धोकादायक\JJ ठरू\V_VM शकते\V_VAUX कारण\N_NN ती\DM_DMR अचानकच\RB संपते\V_VM .\RD_PUNC
+htd12688	याशिवाय\PR_PRL या\DM_DMR प्रकारच्या\N_NN क्रियेमुळे\N_NN एवलांश\N_NN सुरु\JJ होऊ\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12689	क्रॅंपन\N_NN घालून\V_VM ग्लिसायडिंग\N_NN करण्याचा\V_VM सल्ला\N_NN कधीही\PR_PRQ दिला\V_VM जात\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd12690	कठिण\JJ बर्फ\N_NN आणि\CC_CCD हिमावर\N_NN सकाळी\N_NN कधीही\PR_PRQ ग्लिसायडिंग\N_NN करू\V_VM नये\V_VAUX .\RD_PUNC
+htd12691	ताज्या\JJ पडलेल्या\V_VM बर्फावर\N_NN ग्लिसायडिंग\N_NN करू\V_VM नये\V_VAUX .\RD_PUNC
+htd12692	कारण\N_NN असे\RB असू\V_VM शकते\V_VAUX की\CC_CCS याच्या\DM_DMR खाली\N_NST मोठे\JJ दगड\N_NN टेकड्या\N_NN अथवा\CC_CCD हिम\N_NN दबले\V_VM असेल\V_VAUX .\RD_PUNC
+htd12693	ताज्या\JJ बर्फावर\N_NN ग्लिसायडिंग\N_NN केल्याने\V_VM दुर्घटना\N_NN घडु\V_VM शकते\V_VAUX .\RD_PUNC
+htd12694	जर\CC_CCS स्नो\N_NN एवलांशची\N_NN परिस्थिती\N_NN निर्माण\N_NN झाली\V_VM असेल\V_VAUX तर\CC_CCS ग्लिसायडिंग\N_NN करू\V_VM नये\V_VAUX .\RD_PUNC
+htd12695	अनुभव\N_NN असा\JJ आहे\V_VM की\CC_CCS बर्‍याचशा\QT_QTF दुर्घटना\N_NN त्याचवेळी\PR_PRL होतात\V_VM जेंव्हा\CC_CCS समुहातील\N_NN सदस्य\N_NN एखादे\JJ आरोहण\N_NN पूर्ण\QT_QTF करून\V_VM परत\RB येत\V_VM असतील\V_VAUX .\RD_PUNC
+htd12696	दोराचा\N_NN उपयोग\N_NN न\RP_NEG करण्यासारखी\N_NN बेफिकीरी\N_NN दाखवणे\V_VM .\RD_PUNC
+htd12697	दोर\N_NN न\RP_NEG बांधल्याने\V_VM पडताना\V_VM आरोहकाला\N_NN थोपवणे\V_VM अशक्यप्राय\JJ होते\V_VM .\RD_PUNC
+htd12698	अशा\JJ प्रसंगी\N_NN बेसावध\JJ असताना\V_VM कोणते\DM_DMQ शिखर\N_NN सर\N_NN करण्याचा\V_VM उत्साह\N_NN जोडलेला\V_VM असतो\V_VAUX .\RD_PUNC
+htd12699	सदस्यांना\N_NN या\DM_DMR गोष्टीचा\N_NN विसर\V_VM पडतो\V_VAUX की\CC_CCS खाली\N_NST उतरणे\V_VM चढण्याएवढेच\V_VM महत्त्वाचे\JJ आहे\V_VM .\RD_PUNC
+htd12700	अवरोहणावेळी\N_NN समूहाचे\N_NN बहुतेक\QT_QTF सदस्य\N_NN थकलेले\V_VM असतात\V_VAUX .\RD_PUNC
+htd12701	गिर्यारोहकांना\N_NN एखाद्या\JJ कठीण\JJ उतरणीवर\N_NN संतुलन\N_NN ठेवणे\V_VM शक्य\JJ होत\V_VM नाही\V_VAUX .\RD_PUNC
+htd12702	अधिकांश\QT_QTF दुर्घटना\N_NN क्रॅम्पनच्या\N_NN खाली\N_NST असणार्‍या\V_VM गोलांमुळे\N_NN होतात\V_VM .\RD_PUNC
+htd12703	क्रॅम्पनला\N_NN अडखळूनही\V_VM आरोही\N_NN दुर्घटनाग्रस्त\N_NN होतात\V_VM .\RD_PUNC
+htd12704	येथे\DM_DMD गिर्यारोहकाला\N_NN अनेक\QT_QTF प्रकारच्या\N_NN बर्फाने\N_NN भरलेल्या\V_VM प्रदेशांना\N_NN पार\V_VM करावे\V_VM लागते\V_VAUX .\RD_PUNC
+htd12705	उदाहरणार्थ\RB ब्लू\JJ आईस\N_NN ,\RD_PUNC ब्लॅक\JJ आईस\N_NN ,\RD_PUNC स्नो\N_NN आईस\N_NN ,\RD_PUNC वॉटर\N_NN आईस\N_NN ,\RD_PUNC व्हाईट\JJ आईस\N_NN ,\RD_PUNC वरग्लास\N_NN आईस\N_NN आणि\CC_CCD ग्लेशियर\N_NN इत्यादी\JJ .\RD_PUNC
+htd12706	गिर्यारोहकाला\N_NN केवळ\JJ अशा\JJ युक्त्या\N_NN शिकाव्या\V_VM लागतात\V_VAUX की\CC_CCS ज्यांचा\PR_PRL उपयोग\N_NN करुन\V_VM विविध\JJ प्रकारच्या\N_NN बर्फाळ\JJ प्रदेशांना\N_NN पार\V_VM करता\V_VM येईल\V_VAUX तेवढाच\QT_QTF आरोहणाचा\N_NN संबंध\N_NN आहे\V_VM .\RD_PUNC
+htd12707	ग्लेशियरला\N_NN बर्फाची\N_NN नदी\N_NN असे\CC_CCS_UT म्हणतात\V_VM .\RD_PUNC
+htd12708	ग्लेशियर\N_NN शंभर\QT_QTC मीटरपासून\N_NN अनेक\QT_QTF किलोमीटर\N_NN लांब\JJ असू\V_VM शकते\V_VAUX .\RD_PUNC
+htd12709	ग्लेशियर\N_NN खूपच\RP_INTF संथ\JJ गतीने\N_NN वाहते\V_VM .\RD_PUNC
+htd12710	ग्लेशियरची\N_NN ही\DM_DMR गती\N_NN एका\QT_QTC वर्षात\N_NN काही\QT_QTF काही\QT_QTF से.मी.पासून\N_NN काही\QT_QTF मीटरपर्यंत\N_NN असू\V_VM शकते\V_VAUX .\RD_PUNC
+htd12711	त्याच्या\PR_PRL वाहण्यामुळेच\V_VM ग्लेशियरला\N_NN नदी\N_NN असे\CC_CCS_UT म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12712	ग्लेशियरमध्ये\N_NN नदीप्रमाणे\N_NN लाटा\N_NN ,\RD_PUNC झरे\N_NN आणि\CC_CCD समतल\JJ स्थळे\N_NN सुद्धा\RP_INTF असतात\V_VM .\RD_PUNC
+htd12713	ग्लेशियरमध्ये\N_NN बर्फवृष्टीसुद्धा\N_NN होते\V_VM .\RD_PUNC
+htd12714	बर्फवृष्टीचे\N_NN थर\N_NN तुटून\V_VM मोठ्या\JJ मोठ्या\JJ आकाराच्या\N_NN लाद्या\N_NN आणि\CC_CCD बर्फाचे\N_NN शिखराप्रमाणे\N_NN आकार\N_NN निर्माण\N_NN होतात\V_VM .\RD_PUNC
+htd12715	बर्फवृष्टी\N_NN कोणत्याही\DM_DMQ दिशेला\N_NN वळल्यामुळे\V_VM किंवा\CC_CCD याच्या\PR_PRL खाली\N_NST असमतल\JJ जमीन\N_NN असेल\V_VM तर\CC_CCS क्रिवेस\N_NN बनतात\V_VM .\RD_PUNC
+htd12716	पर्वतारोहणाच्या\N_NN अभियानांतर्गत\N_NN गिर्यारोहकाला\N_NN अनेक\QT_QTF प्रकारचे\N_NN ग्लेशियर\N_NN पार\V_VM करायचे\V_VM असतात\V_VAUX .\RD_PUNC
+htd12717	जेव्हा\CC_CCS ग्लेशियरवर\N_NN कोणताही\DM_DMQ बर्फ\N_NN ,\RD_PUNC दगड\N_NN ,\RD_PUNC कंकड\N_NN पडलेले\V_VM नसतात\V_VAUX आणि\CC_CCD त्याचे\DM_DMR क्रिवेस\N_NN स्पष्टपणे\N_NN दिसत\V_VM असतील\V_VAUX तर\CC_CCS त्याला\PR_PRL कोरडा\JJ ग्लेशियर\N_NN म्हणतात\V_VM .\RD_PUNC
+htd12718	जेव्हा\CC_CCS ग्लेशियर\N_NN ताज्या\JJ आणि\CC_CCD ओल्या\JJ बर्फाने\N_NN भरलेला\V_VM असतो\V_VAUX ,\RD_PUNC त्याच्या\PR_PRL काही\QT_QTF भागावरुन\N_NN पाणी\N_NN वाहत\V_VM असेल\V_VAUX आणि\CC_CCD त्याचे\DM_DMR क्रिवेस\N_NN बर्फाने\N_NN झाकलेले\V_VM असतील\V_VAUX तर\CC_CCS त्याला\PR_PRL ओला\JJ ग्लेशियर\N_NN म्हणतात\V_VM .\RD_PUNC
+htd12719	ग्लेशियरवर\N_NN काहीही\QT_QTC हालचाल\N_NN करणे\V_VM किंवा\CC_CCD चालणे\V_VM हे\DM_DMR एक\QT_QTC गुंतागुंतीचे\N_NN ,\RD_PUNC कठीण\JJ आणि\CC_CCD धोकादायक\JJ काम\N_NN आहे\V_VM .\RD_PUNC
+htd12720	याचे\PR_PRL कारण\N_NN आहे\V_VM की\CC_CCS याची\PR_PRL उंची\N_NN ,\RD_PUNC तेथे\DM_DMD असणारी\V_VM भयंकर\JJ थंडी\N_NN ,\RD_PUNC याचे\PR_PRL उंच\JJ -\RD_PUNC सखल\JJ थर\N_NN .\RD_PUNC
+htd12721	ग्लेशियरवर\N_NN पडलेल्या\V_VM दगडांना\N_NN आणि\CC_CCD टेकड्यांना\N_NN पार\V_VM करणे\V_VM ,\RD_PUNC यामध्ये\PR_PRL लपलेला\V_VM पुल\N_NN किंवा\CC_CCD झाकलेला\V_VM क्रिवेस\N_NN पार\V_VM करणे\V_VM कठीण\JJ आहे\V_VM .\RD_PUNC
+htd12722	ग्लेशियर\N_NN पार\V_VM करण्याकरिता\V_VM गिर्यारोहकाला\N_NN खूप\QT_QTF अनुभव\N_NN असावा\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12723	उन्हाळ्यात\N_NN ज्या\PR_PRL ग्लेशियरवर\N_NN बर्फ\N_NN पडलेले\V_VM असेल\V_VM ते\DM_DMR ग्लेशियर्स\N_NN सकाळी\N_NN ओलांडणे\V_VM सुरक्षित\JJ असते\V_VM .\RD_PUNC
+htd12724	ग्लेशियरवर\N_NN बर्फाचे\N_NN जे\PR_PRL पुल\N_NN तयार\JJ होतात\V_VM ते\DM_DMR सुद्धा\RP_INTF मजबूत\JJ असतात\V_VM .\RD_PUNC
+htd12725	बर्फावर\N_NN तयार\JJ झालेले\V_VM पुल\N_NN ऊन\N_NN वाढू\V_VM लागताच\V_VAUX कमकुवत\JJ बनत\V_VM असल्याने\V_VM धोकादायक\JJ बनतात\V_VM .\RD_PUNC
+htd12726	ग्लेशियरवरुन\N_NN कोणत्या\DM_DMQ रस्त्याने\N_NN आरोहण\N_NN करायचे\V_VM याचा\PR_PRL निर्णय\N_NN घेण्यासाठी\V_VM पुरेशा\JJ अनुभवाची\N_NN आवश्यकता\N_NN असते\V_VM .\RD_PUNC
+htd12727	रस्ता\N_NN असा\JJ निवडावा\V_VM जेथे\DM_DMD कमीत\QT_QTF कमी\QT_QTF अडचणी\N_NN येण्याची\V_VM शक्यता\N_NN असते\V_VM .\RD_PUNC
+htd12728	अर्थात\CC_CCS ज्या\PR_PRL मार्गांवर\N_NN दगड\N_NN आणि\CC_CCD दरडी\N_NN कोसळण्याची\V_VM किंवा\CC_CCD एवलांश\N_NN येण्याची\V_VM सर्वात\RP_INTF कमी\QT_QTF शक्यता\N_NN असते\V_VM .\RD_PUNC
+htd12729	क्रिवेसवर\N_NN पडणारे\V_VM बर्फ\N_NN शुभ्र\JJ असते\V_VM तर\CC_CCS ग्लेशियरच्या\N_NN अन्य\QT_QTF भागात\N_NN पडणारे\V_VM बर्फ\N_NN हे\DM_DMR तितके\QT_QTF अधिक\QT_QTF शुभ्र\JJ नसते\V_VM .\RD_PUNC
+htd12730	क्रिवेस\N_NN आणि\CC_CCD ग्लेशियर\N_NN दोन्हीवर\N_NN पडणार्‍या\V_VM बर्फाच्या\N_NN शुभ्रतेमध्ये\N_NN खूप\QT_QTF फरक\N_NN असतो\V_VM .\RD_PUNC
+htd12731	क्रिवेसच्या\N_NN भिंतींवर\N_NN पडलेले\V_VM बर्फ\N_NN तितकेसे\QT_QTF समतल\JJ असत\V_VM नाही\V_VAUX .\RD_PUNC
+htd12732	क्रिवेसच्या\N_NN भिंतींचा\N_NN मध्यभाग\N_NN मध्यात\N_NST काहीसा\N_NN दबलेला\V_VM असतो\V_VM .\RD_PUNC
+htd12733	जर\CC_CCS क्रिवेस\N_NN अधिकच\RP_INTF रुंद\JJ असेल\V_VM तर\CC_CCS समूह\N_NN आपल्या\PR_PRP सह\RP_RPD आणलेल्या\V_VM एलुमिनिअमच्या\N_NN शिडीचा\N_NN वापर\N_NN करुन\V_VM ते\DM_DMR पार\V_VM करु\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12734	एलुमिनिअमची\N_NN ही\DM_DMR शिडी\N_NN दुमडून\V_VM ठेवता\V_VAUX येते\V_VAUX .\RD_PUNC
+htd12735	एलुमिनिअमची\N_NN शिडी\N_NN दोन्ही\QT_QTC बाजूंनी\N_NN व्यवस्थितपणे\RB रोवुन\V_VM घेणे\V_VM आवश्यक\JJ आहे\V_VM .\RD_PUNC
+htd12736	त्यानंतर\PR_PRL एलुमिनिअमच्या\N_NN शिडीवरुन\N_NN एक\QT_QTC -\RD_PUNC एक\QT_QTC करुन\V_VM सर्व\QT_QTF सदस्य\N_NN पार\V_VM जाऊ\V_VM शकतात\V_VAUX .\RD_PUNC
+htd12737	सर्वांना\N_NN योग्य\JJ प्रकारे\N_NN बिले\N_NN करणे\V_VM आवश्यक\JJ आहे\V_VM .\RD_PUNC
+htd12738	जर\CC_CCS सर्व\QT_QTF सदस्य\N_NN पूर्ण\QT_QTF सावधगिरीने\N_NN ग्लेशियर\N_NN चढले\V_VM तर\CC_CCS कोणताही\DM_DMQ सदस्य\N_NN क्रिवेसमध्ये\N_NN पडण्याचे\V_VM काहीही\QT_QTF कारण\N_NN नाही\V_VM .\RD_PUNC
+htd12739	तरीही\CC_CCS एखादी\JJ दुर्घटना\N_NN घडली\V_VM तर\CC_CCS त्याकरिता\CC_CCS तयारी\JJ ठेवुनच\V_VM गिर्यारोहणाला\N_NN सुरुवात\N_NN करावी\V_VM .\RD_PUNC
+htd12740	आइस\N_NN क्लायंबिंग्मध्ये\V_VM सुद्धा\RP_INTF स्नो\N_NN क्लायंबिंगमधील\V_VM बहुतेक\QT_QTF सर्व\QT_QTF उपायांचा\N_NN उपयोग\N_NN केला\V_VM जातो\V_VAUX .\RD_PUNC
+htd12741	आइस\N_NN क्लायंबिंगमध्ये\V_VM केवळ\JJ बर्फाची\N_NN स्थिती\N_NN भिन्न\JJ असते\V_VM .\RD_PUNC
+htd12742	येथे\DM_DMD सकाळी\N_NN आणि\CC_CCD सायंकाळी\N_NN कठोर\JJ बर्फ\N_NN असू\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12743	सकाळच्या\N_NN आणि\CC_CCD सायंकाळच्या\N_NN मधल्या\N_NN वेळात\N_NN मिश्र\JJ किंवा\CC_CCD ओला\JJ बर्फ\N_NN असतो\V_VM .\RD_PUNC
+htd12744	कठोर\JJ आईस\N_NN किंवा\CC_CCD ग्लेशियरवर\N_NN असल्याने\V_VM जेव्हा\CC_CCS स्नो\N_NN क्लयंबिंगचे\V_VM उपाय\N_NN फायद्याचे\N_NN ठरत\V_VM नसतील\V_VAUX तेव्हा\CC_CCS विशेषप्रकारच्या\N_NN तंत्राज्ञानाचा\N_NN उपयोग\N_NN करावा\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12745	रॉक\N_NN क्लायंबिंग\V_VM करताना\V_VM ज्यांचा\PR_PRL उपयोग\N_NN करतात\V_VM असेच\JJ उपाय\N_NN सर्वसाधारणपणे\N_NN असतात\V_VM .\RD_PUNC
+htd12746	जेंव्हा\CC_CCS बर्फात\N_NN आरोहक\N_NN पायाच्या\N_NN ठोकरीने\N_NN स्थान\N_NN बनवू\V_VM शकत\V_VAUX नाही\V_VAUX ,\RD_PUNC क्रॅंपन\N_NN बर्फात\N_NN पकड\N_NN धरू\V_VM शकत\V_VAUX नसेल\V_VAUX आणि\CC_CCD जर\CC_CCS तेथील\PR_PRL उतार\N_NN तीव्र\JJ असेल\V_VM तर\CC_CCS तेथे\DM_DMD त्याला\DM_DMR पायर्‍या\N_NN कापाव्या\V_VM लागतात\V_VAUX .\RD_PUNC
+htd12747	स्वतःचे\PR_PRF संतुलन\N_NN टिकवण्यासाठी\V_VM आरोहकाला\N_NN अडचण\N_NN येत\V_VM असेल\V_VAUX तर\CC_CCS त्याला\DM_DMR आइस\N_NN एक्सच्या\N_NN सहायाने\N_NN हातासाठी\N_NN होल्ड\N_NN तयार\JJ करावे\V_VM लागतात\V_VAUX .\RD_PUNC
+htd12748	जेंव्हा\CC_CCS असे\JJ होल्ड\N_NN विश्वासार्ह\N_NN वाटत\V_VM नसतील\V_VAUX तर\CC_CCS कृत्रिम\JJ रॉक\N_NN क्लाइंबिंगप्रमाणे\V_VM आणि\CC_CCD स्क्रु\N_NN ठोकून\V_VM आरोहण\N_NN करावे\V_VM लागते\V_VAUX .\RD_PUNC
+htd12749	एवलांश\N_NN आले\V_VM तर\CC_CCS कार्निसच्या\N_NN वर\N_NST आणि\CC_CCD खाली\N_NST ,\RD_PUNC क्रिवेसमध्ये\N_NN कठिण\JJ बर्फ\N_NN असणार्‍या\V_VM ठिकाणी\N_NN बर्फात\N_NN क्लाइंबिंग\V_VM करताना\V_VM समस्या\N_NN तर\CC_CCS उत्पन्न\JJ होतातच\V_VM .\RD_PUNC
+htd12750	अशा\JJ प्रकारे\N_NN पाण्याच्या\N_NN बिदुंनी\N_NN साठणारा\V_VM थर\N_NN आणि\CC_CCD ओला\JJ बर्फसुद्धा\N_NN धोकादायक\JJ असतो\V_VM .\RD_PUNC
+htd12751	जर\CC_CCS आरोहक\N_NN पूर्ण\QT_QTF सावधानपूर्वक\RB आरोहण\N_NN करत\V_VM नसेल\V_VAUX किंवा\CC_CCD छोटीसी\JJ चूक\N_NN अथवा\CC_CCD बेफिकीरी\N_NN झाली\V_VM तर\CC_CCS दुर्घटना\N_NN होऊ\V_VM शकते\V_VAUX .\RD_PUNC
+htd12752	काचेप्रमाणे\N_NN ह्या\DM_DMR टेकड्यांवर\N_NN आणि\CC_CCD दगडांवर\N_NN थर\N_NN तयार\JJ होतो\V_VM ज्यावेळी\CC_CCD पावसाचे\N_NN पाणी\N_NN रात्री\N_NN थंडीमुळे\N_NN त्यावर\PR_PRL गोठून\V_VM जाते\V_VAUX .\RD_PUNC
+htd12753	दिवसातील\N_NN उन्हाने\N_NN स्नो\N_NN पाघळतो\V_VM आणि\CC_CCD रात्री\N_NN कठीण\JJ बनतो\V_VM .\RD_PUNC
+htd12754	जेंव्हा\CC_CCS आरोहक\N_NN कोणत्या\DM_DMQ पर्वतारोहणासाठी\N_NN जातात\V_VM तेंव्हा\CC_CCS त्यांना\PR_PRL अनेक\QT_QTF समस्या\N_NN आणि\CC_CCD अडचणींचा\N_NN सतत\N_NST सामना\N_NN करावा\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12755	गिर्यारोहण\N_NN करताना\V_VM काही\QT_QTF समस्या\N_NN शारीरिक\JJ असतात\V_VM आणि\CC_CCD काही\QT_QTF मानसिक\JJ .\RD_PUNC
+htd12756	गिर्यारोहाण\N_NN करताना\V_VM अनेक\QT_QTF प्रकारच्या\N_NN रोगांचा\N_NN आणि\CC_CCD दुर्घटनांचा\N_NN सामना\N_NN करावा\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12757	गिर्यारोहण\N_NN करताना\V_VM बचावाची\N_NN साधने\N_NN जवळ\RB बाळगावी\V_VM लागतात\V_VAUX .\RD_PUNC
+htd12758	बरीचशी\QT_QTF गिर्यारोहण\N_NN अभियाने\N_NN केवळ\JJ यामुळेच\CC_CCS असफल\N_NN ठरली\V_VM कारण\N_NN सुरुवातीपासूनच\N_NN ते\DM_DMR सुनियोजित\JJ नव्हते\N_NN .\RD_PUNC
+htd12759	अनियोजित\JJ गिर्यारोहणात\N_NN बरेच\QT_QTF धन\N_NN आणि\CC_CCD वेळ\N_NN वाया\RB गेला\V_VM .\RD_PUNC
+htd12760	बर्‍याचवेळा\N_NN तर\CC_CCS अमूल्य\JJ जीव\N_NN गमवावे\V_VM लागले\V_VAUX .\RD_PUNC
+htd12761	कोणत्याही\DM_DMQ अभियानानंतर\N_NN बर्‍याच\QT_QTF अव्हानांचा\N_NN सामना\N_NN करावा\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12762	कोणत्याही\DM_DMQ अभियानात\N_NN बर्‍याच\QT_QTF प्रकारच्या\N_NN ज्ञात\JJ अज्ञात\JJ समस्यांचा\N_NN सामना\N_NN करावा\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12763	गिर्यारोहणाच्या\N_NN कोणात्याही\DM_DMQ अभियानात\N_NN भोजनाचे\N_NN स्थान\N_NN खूपच\RP_INTF महत्त्वपूर्ण\N_NN आहे\V_VM .\RD_PUNC
+htd12764	सगळ्यात\QT_QTF महत्त्वाची\JJ गोष्ट\N_NN म्हणजे\CC_CCD येथे\DM_DMD प्रत्येकाला\N_NN आपल्या\PR_PRP आवडीचे\N_NN भोजन\N_NN मिळणे\V_VM संभव\N_NN नसते\V_VM .\RD_PUNC
+htd12765	एकदम\RB वेगळे\JJ वातावरण\N_NN ,\RD_PUNC सतत\N_NST काम\N_NN केल्याने\V_VM येणार्‍या\V_VM थकव्यानंतर\N_NN जेंव्हा\CC_CCS आवडीचे\N_NN जेवण\N_NN मिळत\V_VM नाही\V_VAUX तेंव्हा\CC_CCS आरोहकाला\N_NN आणखीच\QT_QTF वाईट\JJ वाटते\V_VM .\RD_PUNC
+htd12766	याचबरोबर\CC_CCD पर्वतावर\N_NN खूपच\RP_INTF संतुलित\JJ आणि\CC_CCD पौष्टीक\JJ भोजनाची\N_NN गरज\N_NN असते\V_VM .\RD_PUNC
+htd12767	एका\QT_QTC गिर्यारोहकाला\N_NN आरोहणादरम्यान\N_NN रस्त्यात\N_NN ४२००\QT_QTC कॅलरीजची\N_NN आवश्यकता\N_NN असते\V_VM .\RD_PUNC
+htd12768	गिर्यारोहकाला\N_NN ६०७०\QT_QTC मीटर\N_NN उंचीवर\N_NN ३२००\QT_QTC आणि\CC_CCD ७३००\QT_QTC मीटर\N_NN पेक्षा\N_NN वर\N_NST १५००\QT_QTC कॅलरीजची\N_NN गरज\N_NN असते\V_VM .\RD_PUNC
+htd12769	या\DM_DMR प्रमाणाला\N_NN लक्षात\N_NN घेऊन\V_VM तीन\QT_QTC प्रकारचे\N_NN पदार्थ\N_NN बनवले\V_VM जातात\V_VAUX .\RD_PUNC
+htd12770	याचनुसार\CC_CCD खाद्यसामग्री\N_NN विकत\V_VM घेतली\V_VAUX पाहिजे\V_VAUX .\RD_PUNC
+htd12771	रोज\RB हिशोब\N_NN करून\V_VM यानुसार\PR_PRL पदार्थ\N_NN तयार\JJ करून\V_VM घेतले\V_VAUX पाहिजेत\V_VAUX .\RD_PUNC
+htd12772	या\DM_DMR दिवसात\N_NN पर्वतावर\N_NN जाण्यासाठी\V_VM हमाल\N_NN आणि\CC_CCD शेरपा\N_NN मिळणे\V_VM कठिण\JJ बनत\V_VM आहे\V_VAUX .\RD_PUNC
+htd12773	जे\PR_PRL पर्वतावर\N_NN जायला\V_VM तयार\JJ होतात\V_VM ते\DM_DMR खूप\QT_QTF पैसे\N_NN मागतात\V_VM .\RD_PUNC
+htd12774	अशाप्रकारे\RB छोट्या\JJ समुहांना\N_NN पर्वतावर\N_NN जाणे\V_VM कठिण\JJ होत\V_VM चालले\V_VAUX आहे\V_VAUX .\RD_PUNC
+htd12775	आम्ही\PR_PRP वेळोवेळी\RB अनेक\QT_QTF सामान्य\JJ समस्यांची\N_NN माहिती\N_NN आधीच\N_NN दिली\V_VM आहे\V_VAUX .\RD_PUNC
+htd12776	त्यापासून\PR_PRL वाचण्यासाठी\V_VM किंवा\CC_CCD ते\DM_DMR घडू\V_VM नये\V_VAUX म्हणून\CC_CCD माहिती\N_NN सांगितली\V_VM आहे\V_VAUX .\RD_PUNC
+htd12777	येथे\DM_DMD काही\QT_QTF अशा\JJ समस्यांबद्दल\N_NN सांगत\V_VM आहोत\V_VAUX ज्यांचा\PR_PRL संबंध\N_NN चिकित्सेशी\N_NN आहे\V_VM .\RD_PUNC
+htd12778	जेंव्हा\CC_CCS आरोहक\N_NN प्रथमच\N_NN उंच\JJ पर्वतावर\N_NN आरोहणासाठी\N_NN जातात\V_VM तेंव्हा\CC_CCS तेथील\PR_PRL वातावरण\N_NN एकदम\RB वेगळे\JJ वाटते\V_VM .\RD_PUNC
+htd12779	गिर्यारोहणाचे\N_NN प्रथम\QT_QTC चार\QT_QTC दिवसतर\N_NN पर्वतारोहकासाठी\N_NN विशेष\JJ कठिण\JJ जातात\V_VM .\RD_PUNC
+htd12780	पर्वतावर\N_NN प्राणवायूचा\N_NN दाब\N_NN कमी\QT_QTF असतो\V_VM .\RD_PUNC
+htd12781	प्राणवायुच्या\N_NN कमतरतेमुळे\N_NN निर्माण\N_NN होणारी\V_VM कोणातीही\DM_DMQ समस्या\N_NN पर्वतावर\N_NN होऊ\V_VM शकते\V_VAUX .\RD_PUNC
+htd12782	विशेषतः\RB युवकांना\N_NN आणि\CC_CCD ज्यांना\PR_PRL पर्वतावर\N_NN अधिक\QT_QTF काम\N_NN करावे\V_VM लागते\V_VAUX ह्या\DM_DMR समस्या\N_NN अधिक\QT_QTF चिंता\N_NN निर्माण\N_NN करतात\V_VM .\RD_PUNC
+htd12783	या\DM_DMR आजाराची\N_NN लक्षणे\N_NN उंच\JJ पर्वतावर\N_NN पोहोचल्यावर\V_VM चार\QT_QTC तासांपासून\N_NN नव्वद\QT_QTC तासांच्या\N_NN आत\N_NST स्पष्ट\JJ होऊ\V_VM लागतात\V_VAUX .\RD_PUNC
+htd12784	डोके\N_NN दुखणे\V_VM ,\RD_PUNC चक्कर\N_NN येणे\V_VM ,\RD_PUNC उल्टी\N_NN ,\RD_PUNC एकग्रता\N_NN नष्ट\JJ होणे\V_VM ,\RD_PUNC झोप\N_NN न\RP_NEG येणे\V_VM ,\RD_PUNC काम\N_NN करण्याची\V_VM इच्छा\N_NN संपणे\V_VM ,\RD_PUNC खोकला\N_NN ,\RD_PUNC अतिसार\N_NN ,\RD_PUNC छातीत\N_NN दुखणे\V_VM ,\RD_PUNC श्वास\N_NN तीव्र\JJ गतीने\N_NN चालणे\V_VM ,\RD_PUNC थकवा\N_NN ,\RD_PUNC पायावर\N_NN सूज\N_NN येणे\V_VM इत्यादींची\N_NN तक्रार\N_NN आरोहक\N_NN करू\V_VM लागतो\V_VAUX .\RD_PUNC
+htd12785	याचे\DM_DMR मूळ\N_NN कारण\N_NN असे\RB आहे\V_VM की\CC_CCS शरीर\N_NN पर्वताच्या\N_NN वातावरणाला\N_NN अनुकूल\JJ होऊ\V_VM शकत\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd12786	यामुळे\CC_CCD इतर\QT_QTF अनेक\QT_QTF प्रकारच्या\N_NN समस्या\N_NN निर्माण\N_NN होतात\V_VM .\RD_PUNC
+htd12787	याचा\PR_PRL शेवट\N_NN ऍक्यूट\N_NN माउंटेन\N_NN सिकनेसच्या\N_NN रुपात\N_NN समोर\N_NST येतो\V_VM .\RD_PUNC
+htd12788	जेव्हा\CC_CCS गिर्यारोहक\N_NN उंच\JJ स्थानावर\N_NN जाऊन\V_VM पोहोचतात\V_VM तेव्हा\CC_CCS शरीरात\N_NN रक्ताच्या\N_NN प्रमाणाचे\N_NN पुनर्वितरण\N_NN होते\V_VM .\RD_PUNC
+htd12789	याचा\PR_PRL सर्वोत्तम\JJ उपाय\N_NN असा\JJ आहे\V_VM की\CC_CCS खूप\QT_QTF वेगाने\N_NN खूप\QT_QTF उंच\JJ जाऊ\V_VM नये\V_VAUX .\RD_PUNC
+htd12790	माउंटेन\N_NN सिकनेसने\N_NN आजारी\JJ पडल्यावर\V_VM पूर्णपणे\RB आराम\N_NN करावा\V_VM .\RD_PUNC
+htd12791	माउंटेन\N_NN सिकनेसमध्ये\N_NN दीर्घ\JJ आणि\CC_CCD खोलवर\JJ श्वास\N_NN घेतला\V_VM तर\CC_CCS ऑक्सीजन\N_NN मिळतो\V_VM .\RD_PUNC
+htd12792	एस्परीन\N_NN आणि\CC_CCD मॉर्फिन\N_NN घेण्याने\V_VM डोकेदुखी\N_NN कमी\QT_QTF होते\V_VM पण\CC_CCD वैद्याच्या\N_NN सल्ल्यानेच\N_NN औषध\N_NN घ्यावे\V_VM .\RD_PUNC
+htd12793	ज्यामध्ये\PR_PRL रोग्याच्या\N_NN फुफ्फुसात\N_NN पाणी\N_NN भरते\V_VM हे\DM_DMR माउंटेन\N_NN सिकनेसचे\N_NN सर्वात\RP_INTF भयंकर\JJ रूप\N_NN आहे\V_VM .\RD_PUNC
+htd12794	रोगी\N_NN असणारा\V_VM गिर्यारोहक\N_NN ऑक्सीजन\N_NN आत\N_NST घेऊ\V_VM शकत\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd12795	यामुळे\CC_CCD रक्तवहन\N_NN करणार्‍या\V_VM शिरांवर\N_NN परिणाम\N_NN होतो\V_VM आणि\CC_CCD गिर्यारोहक\N_NN आजारी\JJ पडतो\V_VM .\RD_PUNC
+htd12796	फुफ्फुसात\N_NN पाणी\N_NN जमा\N_NN होण्याचे\V_VM मुख्य\JJ कारण\N_NN एक\QT_QTC वेगळ्या\JJ प्रकारचे\N_NN वातावरण\N_NN असते\V_VM .\RD_PUNC
+htd12797	पर्वतामध्ये\N_NN बचाव\N_NN कार्य\N_NN करणे\V_VM हा\DM_DMR एक\QT_QTC मोठा\JJ विषय\N_NN आहे\V_VM .\RD_PUNC
+htd12798	आम्ही\PR_PRP येथे\DM_DMD संक्षेपाने\N_NN काही\QT_QTF महत्त्वपूर्ण\JJ मुद्द्यांवर\N_NN प्रकाश\N_NN टाकू\V_VM शकतो\V_VAUX .\RD_PUNC
+htd12799	जेव्हा\CC_CCS पर्वतांवर\N_NN काही\QT_QTF छोट्या\JJ मोठ्या\JJ दुर्घटना\N_NN होतात\V_VM तेव्हा\CC_CCS बचाव\N_NN कार्य\N_NN करण्याची\V_VM आवश्यकता\N_NN असते\V_VM .\RD_PUNC
+htd12800	गिर्यारोहण\N_NN समूहातील\N_NN सदस्यांना\N_NN स्वतःलाच\PR_PRF बचाव\N_NN कार्य\N_NN करावे\V_VM लागते\V_VAUX .\RD_PUNC
+htd12801	पण\CC_CCD जर\CC_CCS स्थिती\N_NN त्यांच्या\DM_DMR नियंत्रणात\N_NN नसेल\V_VM तर\CC_CCS कोणाची\N_NN तरी\CC_CCS मदत\N_NN घ्यावी\V_VM लागते\V_VAUX .\RD_PUNC
+htd12802	अशा\JJ परिस्थितीमध्ये\N_NN ते\DM_DMR अशा\JJ कोणत्या\DM_DMQ तरी\CC_CCS संस्थेशी\N_NN सम्पर्क\N_NN साधतात\V_VM जी\PR_PRL बचाव\N_NN कार्य\N_NN करते\V_VM .\RD_PUNC
+htd12803	सर्वसाधरणपणे\N_NN मोठे\JJ अभियान\N_NN करणार्‍या\V_VM समूहाजवळ\N_NN बिनतारी\JJ यंत्रणा\N_NN असते\V_VM .\RD_PUNC
+htd12804	याद्वारेच\PR_PRL हे\DM_DMR लोक\N_NN आपसात\N_NN संपर्क\N_NN ठेवतात\V_VM .\RD_PUNC
+htd12805	ज्या\PR_PRL समूहाजवळ\N_NN बिनतारी\JJ यंत्रणा\N_NN नसते\V_VM अशा\JJ वेळी\N_NN त्यांचे\DM_DMR सदस्य\N_NN जेव्हा\CC_CCS बेस\N_NN कॅंपच्या\N_NN वरती\N_NST आरोहण\N_NN करायला\V_VM जातात\V_VAUX तेव्हा\CC_CCS त्यांच्यावर\DM_DMR खालून\N_NST पूर्ण\QT_QTF लक्ष\N_NN ठेवले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12806	जम्मू\N-NNP आणि\CC_CCD काश्मीर\N-NNP भारताच्या\N-NNP शीर्षस्थानी\JJ उत्तरेला\N_NN असल्याने\V_VM याला\PR_PRL ’भारताचा\N-NNP मुकुट’\N_NN असे\CC_CCS_UT म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12807	जम्मू\N-NNP आणि\CC_CCD काश्मीर\N-NNP तिन्ही\N_NN बाजूनी\N_NN चीन\N-NNP ,\RD_PUNC पाकिस्तान\N-NNP आणि\CC_CCD अफगाणिस्तानने\N-NNP घेरलेले\V_VM आहे\V_VM .\RD_PUNC
+htd12808	काश्मीरला\N-NNP स्वतःचा\PR_PRF इतिहास\N_NN आहे\V_VM आणि\CC_CCD हा\DM_DMR आपला\PR_PRP अमूल्य\JJ सांस्कृतिक\JJ ठेवा\V_VM आहे\V_VM .\RD_PUNC
+htd12809	काश्मीर\N-NNP आपल्या\PR_PRP देशातील\N_NN पर्यटनाच्या\N_NN दृष्टीने\N_NN अतिशय\RP_INTF महत्त्वपूर्ण\JJ आहे\V_VM आणि\CC_CCD याला\PR_PRL ’पर्यटनाचे\N_NN प्रतिक’\N_NN असे\CC_CCS_UT म्हटले\V_VM तर\CC_CCS ती\DM_DMR अतिशयोक्ती\N_NN ठरणार\V_VM नाही\V_VAUX .\RD_PUNC
+htd12810	निसर्गाने\N_NN काश्मीरच्या\N-NNP भूमीला\N_NN अमर्याद\QT_QTF सौंदर्याने\N_NN नटविले\V_VM आहे\V_VAUX .\RD_PUNC
+htd12811	बर्फाळ\JJ पर्वत\N_NN ,\RD_PUNC शांत\JJ सरोवरे\N_NN ,\RD_PUNC मुगलकालीन\N_NN बागबगीचे\N_NN इत्यादी\JJ स्थळे\N_NN पर्यटकांसाठी\N_NN स्वर्गाचा\N_NN देखावा\N_NN निर्माण\N_NN करतात\V_VM .\RD_PUNC
+htd12812	काश्मीरमधील\N-NNP रमणीय\JJ देखावे\N_NN आणि\CC_CCD मनमोहक\JJ नैसर्गिक\JJ छटा\N_NN बघताच\V_VM भुरळ\N_NN पडते\V_VM .\RD_PUNC
+htd12813	पर्यटनाच्या\N_NN विकासासह\N_NN काश्मीरमध्ये\N-NNP अनेक\QT_QTF सुंदर\JJ पर्वतीय\JJ स्थळे\N_NN विकसित\JJ झाली\V_VM आहेत\V_VAUX जेथे\DM_DMD पर्यटकांच्या\N_NN मनोरंजनासाठी\N_NN आणि\CC_CCD सुविधेकरिता\N_NN सर्व\QT_QTF साधने\N_NN उपलब्ध\JJ आहेत\V_VM .\RD_PUNC
+htd12814	आपल्या\PR_PRP आकर्षक\N_NN छटे\N_NN व्यतिरिक्त\JJ आणि\CC_CCD शांत\JJ वातावरणाव्यतिरिक्त\N_NN या\DM_DMR राज्यात\N_NN खेळ\N_NN ,\RD_PUNC पर्वतारोहण\N_NN आणि\CC_CCD स्किइंगची\V_VM अशी\JJ आकर्षण\N_NN केंद्रे\N_NN उपलब्ध\JJ आहेत\V_VM ज्याविषयी\PR_PRL परदेशी\N_NN पर्यटकांना\N_NN विशेष\JJ रुची\N_NN आहे\V_VM .\RD_PUNC
+htd12815	याच\PR_PRL राज्यात\N_NN जम्मूजवळ\N-NNP वैष्णो\N-NNP देवीचे\N_NN प्रसिद्ध\JJ मंदिर\N_NN आहे\V_VM प्रतिवर्षी\RB जेथे\DM_DMD लाखो\N_NN भक्तजन\N_NN दर्शनाकरिता\N_NN येतात\V_VM .\RD_PUNC
+htd12816	याशिवाय\PR_PRL जम्मूमध्ये\N-NNP अनेक\QT_QTF मंदिरे\N_NN आहेत\V_VM ज्यामुळे\CC_CCD याला\PR_PRL ’मंदिरांची\N_NN नगरी’\N_NN असे\CC_CCS_UT म्हटले\V_VM तर\CC_CCS अयोग्य\JJ ठरणार\V_VM नाही\V_VAUX .\RD_PUNC
+htd12817	जम्मू\N-NNP काश्मीरमधील\N-NNP प्रेक्षणीय\JJ स्थळांपैकी\N_NN ’अचबल’\N-NNP हे\DM_DMR ठिकाण\N_NN बागबगीचे\N_NN ,\RD_PUNC कॅंपिंग\N_NN आणि\CC_CCD सहलीचे\N_NN ठिकाण\N_NN म्हणून\CC_CCD तसेच\CC_CCD मासे\N_NN पकडण्यासाठी\V_VM लोकप्रिय\JJ आहे\V_VM .\RD_PUNC
+htd12818	अचबलजवळ\N-NNP कोकरनाग\N-NNP हे\DM_DMR ठिकाण\N_NN खनिज\N_NN स्रोत\N_NN ,\RD_PUNC बाग\N_NN बगीचे\N_NN ,\RD_PUNC आणि\CC_CCD मासे\N_NN पकडण्याकरिता\V_VM लोकप्रिय\JJ आहे\V_VM .\RD_PUNC
+htd12819	अखनूर\N-NNP हे\DM_DMR ठिकाण\N_NN दुर्ग\N_NN आणि\CC_CCD सहलीचे\N_NN स्थळ\N_NN म्हणून\CC_CCS_UT लोकप्रिय\JJ आहे\V_VM .\RD_PUNC
+htd12820	अमरनाथ\N-NNP प्रमुख\JJ हिंदू\N_NN धार्मिक\JJ स्थळ\N_NN आणि\CC_CCD पर्यटन\N_NN केंद्र\N_NN आहे\V_VM .\RD_PUNC
+htd12821	एमराल्ड\N-NNP सरोवर\N_NN जूनपर्यंत\N_NN भरलेले\V_VM असते\V_VAUX .\RD_PUNC
+htd12822	काश्मिरमधील\N-NNP ’\RD_PUNC अथवाटू\N-NNP ’\RD_PUNC हे\DM_DMR एक\QT_QTC मनोरंजन\N_NN स्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd12823	’\RD_PUNC बासोली\N-NNP ’\RD_PUNC येथे\DM_DMD महालांची\N_NN भित्ति\N_NN चित्रे\N_NN प्रेक्षणीय\JJ आहेत\V_VM .\RD_PUNC
+htd12824	जम्मू\N-NNP आणि\CC_CCD काश्मीर\N-NNP येथील\PR_PRL बिलौर\N-NNP हे\DM_DMR एक\QT_QTC तीर्थ\N_NN क्षेत्र\N_NN आहे\V_VM .\RD_PUNC
+htd12825	बाटोदी\N-NNP हे\DM_DMR एक\QT_QTC पर्वतातील\N_NN स्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd12826	काश्मीरचे\N-NNP द्रास\N-NNP अशियातील\N-NNP सगळ्यात\QT_QTF थंड\JJ क्षेत्र\N_NN आहे\V_VM .\RD_PUNC
+htd12827	गुलमर्ग\N-NNP फुलाचे\N_NN मैदान\N_NN गोल्फ\N_NN आणि\CC_CCD थंडीतील\N_NN खेळांसाठी\N_NN लोकप्रिय\JJ आहे\V_VM .\RD_PUNC
+htd12828	गुलमर्गजवळ\N-NNP खिलनमर्ग\N-NNP एक\QT_QTC फुलांचे\N_NN मैदान\N_NN आहे\V_VM .\RD_PUNC
+htd12829	काश्मीरचे\N-NNP तंग\JJ मार्ग\N_NN एक\QT_QTC क्रॅंपिंगचे\N_NN स्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd12830	हरवार\N-NNP उत्खनन\N_NN आणि\CC_CCD मासे\N_NN पकडण्यासाठी\V_VM प्रसिद्ध\JJ ठिकाण\N_NN आहे\V_VM .\RD_PUNC
+htd12831	पुरमंडल\N-NNP हे\DM_DMR हिंदु\N_NN तीर्थक्षेत्र\N_NN आहे\V_VM .\RD_PUNC
+htd12832	कारगिल\N-NNP गिर्यारोहण\N_NN ,\RD_PUNC प्रेक्षणीय\JJ मठ\N_NN ,\RD_PUNC फळांच्या\N_NN बागा\N_NN यासाठी\PR_PRL प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12833	कारगिलजवळ\N-NNP लामायारुमध्ये\N-NNP प्राचीन\JJ मठ\N_NN आणि\CC_CCD भित्तीचित्रे\N_NN प्रेक्षणीय\JJ आहेत\V_VM .\RD_PUNC
+htd12834	मुलबेख\N-NNP स्थापत्य\N_NN कलेसाठी\N_NN लोकप्रिय\JJ आहे\V_VM .\RD_PUNC
+htd12835	किश्तवारमध्ये\N-NNP मुस्लिम\N_NN मकबरे\N_NN आहेत\V_VM .\RD_PUNC
+htd12836	मार्तण्डमध्ये\N-NNP मंदिरांचे\N_NN भग्नावशेष\N_NN ,\RD_PUNC सूर्यमंदिर\N_NN ,\RD_PUNC पवित्र\JJ स्रोत\N_NN आणि\CC_CCD उद्यान\N_NN आहेत\V_VM .\RD_PUNC
+htd12837	पहलगामच्या\N-NNP जवळ\RB असलेले\V_VM आरु\N-NNP नैसर्गिक\JJ सौंदर्यासाठी\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12838	लिडरवात\N-NNP स्थान\N_NN क्रॅंपिंग\V_VM आणि\CC_CCD गिर्यारोहणासाठी\N_NN ओळखले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12839	अवंतिपुरा\N-NNP हे\DM_DMR ठिकाण\N_NN मंदिरांच्या\N_NN भग्नावशेषांसाठी\N_NN ओळखले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12840	बुर्जाहोम\N-NNP हे\DM_DMR स्थळ\N_NN उत्खननासाठी\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12841	जम्मू\N-NNP आणि\CC_CCD काश्मीर\N-NNP राज्यामध्ये\N_NN चरार\N-NNP ए\N_NN शरीफ\N_NN नामक\N_NN मुस्लिम\N_NN तीर्थक्षेत्र\N_NN आहे\V_VM .\RD_PUNC
+htd12842	चश्मशाहीस्थान\N-NNP रोगनिवारक\N_NN गुणकारक\N_NN अशा\JJ झर्‍यांसाठी\N_NN ,\RD_PUNC बाग\N_NN बगीच्यांसाठी\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12843	वुलर\N-NNP सरोवर\N_NN नैसर्गिक\JJ सौंदर्याने\N_NN ओतप्रोत\QT_QTF तसेच\CC_CCD अशियातील\JJ सगळ्यात\QT_QTF मोठे\JJ सरोवर\N_NN आहे\V_VM .\RD_PUNC
+htd12844	तारसर\N-NNP सरोवर\N_NN नैसर्गिक\JJ सौंदर्यासाठी\N_NN ओळखले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12845	वैरनागमध्ये\N-NNP प्रसिद्ध\JJ झरा\N_NN आणि\CC_CCD उद्यान\N_NN आहे\V_VM .\RD_PUNC
+htd12846	वातलाब\N-NNP एक\QT_QTC क्रॅंपिंगचे\V_VM ठिकाण\N_NN आहे\V_VM .\RD_PUNC
+htd12847	युस\N-NNP मार्गात\N_NN सुंदर\JJ चारागाह\N-NNP येथे\DM_DMD क्रॅंपिंग\V_VM स्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd12848	हिमाचल\N-NNP प्रदेशाच्या\N_NN उत्तरेला\N_NN जम्मू\N-NNP काश्मीर\N-NNP ,\RD_PUNC नैऋत्येला\N_NN पंजाब\N-NNP ,\RD_PUNC दक्षिणेला\N_NN हरियाणा\N-NNP ,\RD_PUNC अग्नेयेला\N_NN उत्तरांचल\N-NNP आणि\CC_CCD पूर्वेला\N_NN चीन\N-NNP आहे\V_VM .\RD_PUNC
+htd12849	हिमाचल\N-NNP प्रदेशाला\N_NN स्वतंत्र\JJ राज्याचा\N_NN दर्जा\N_NN २५\QT_QTC जानेवारी\N_NN १९७१ला\N_NN दिला\V_VM गेला\V_VAUX आणि\CC_CCD सिमलाला\N-NNP याची\PR_PRL राजधानी\N_NN बनवले\V_VM गेले\V_VAUX .\RD_PUNC
+htd12850	हिमालयाच्या\N-NNP मध्यभागी\N_NN असलेल्या\V_VM या\DM_DMR प्रदेशाचे\N_NN नैसर्गिक\JJ सौंदर्य\N_NN विविध\JJ मनोहारी\JJ आणि\CC_CCD अतुलनीय\JJ आहे\V_VM .\RD_PUNC
+htd12851	हिमाचलप्रदेशातील\N-NNP कुल्लू\N-NNP आणि\CC_CCD कांगडा\N-NNP घाट\N_NN आणि\CC_CCD मनालीसारख्या\N-NNP पर्वतीय\JJ स्थानांचे\N_NN सौंदर्य\N_NN आणि\CC_CCD आकर्षण\N_NN काश्मीरमधील\N-NNP घाटांपेक्षाही\N_NN अधिक\QT_QTF आहे\V_VM .\RD_PUNC
+htd12852	सिमलापासून\N-NNP २०५\QT_QTC किलोमीटरवर\N_NN असलेले\V_VM कुल्लू\N-NNP तेथील\PR_PRL सुंदर\JJ देखाव्यांसाठी\N_NN ,\RD_PUNC सफरचंदाच्या\N_NN बागेसाठी\N_NN आणि\CC_CCD जिवंत\JJ आदिवासी\N_NN नृत्य\N_NN आणि\CC_CCD संगीतासाठी\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12853	कुल्लूमध्ये\N-NNP दहा\QT_QTC दिवसापर्यंत\N_NN चालणारा\V_VM दसर्‍याचा\N_NN मेळा\N_NN उत्साहपूर्ण\N_NN सण\N_NN आहे\V_VM जो\PR_PRL स्थानिक\N_NN दैवत\N_NN रघुनाथावर\N-NNP केंद्रित\JJ असतो\V_VM .\RD_PUNC
+htd12854	येथे\DM_DMD थिरकाणारी\V_VM लोकनृत्य\N_NN ,\RD_PUNC पहाडी\JJ वाद्य\N_NN यंत्रावर\N_NN डोलायला\V_VM लावणार्‍या\V_VM लोकगीतांची\N_NN धुन\N_NN मनाला\N_NN भुरळ\N_NN घालते\V_VM .\RD_PUNC
+htd12855	मनाली\N-NNP जवळ\RB धुंडी\N-NNP आणि\CC_CCD चंबा\N-NNP तसेच\CC_CCD लाहोलमध्ये\N-NNP सिसि\N-NNP आणि\CC_CCD सासा\N-NNP नामक\N_NN स्थाने\N_NN जून\N_NN ते\CC_CCS डिसेंबरच्या\N_NN मध्यापर्यंत\N_NN फुलांनी\N_NN बहरलेले\V_VM असतात\V_VAUX .\RD_PUNC
+htd12856	याप्रकारे\PR_PRL संपूर्ण\QT_QTF हिमालय\N-NNP चीड\N_NN ,\RD_PUNC देवदार\N_NN आणि\CC_CCD अन्य\QT_QTF वृक्षांनी\N_NN नेहमीच\RB सजलेले\V_VM असते\V_VAUX .\RD_PUNC
+htd12857	या\DM_DMR प्रदेशात\N_NN विविध\JJ प्रकारचे\N_NN पशू\N_NN पक्षी\N_NN आढळतात\V_VM ज्यांमध्ये\PR_PRL काळे\N_NN पहाडी\JJ हरीण\N_NN ,\RD_PUNC अस्वल\N_NN ,\RD_PUNC बिबट्या\N_NN ,\RD_PUNC मैना\N_NN ,\RD_PUNC कोकिळ\N_NN ,\RD_PUNC मोनाल\N_NN ,\RD_PUNC कालिज\N_NN इत्यादी\JJ प्रधान\N_NN आहेत\V_VM .\RD_PUNC
+htd12858	हिमालयात\N-NNP नैसर्गिक\JJ सौंदर्य\N_NN ,\RD_PUNC बदलते\V_VM हवामान\N_NN आणि\CC_CCD सुंदर\JJ संस्कृती\N_NN खर्‍या\N_NN अर्थाने\N_NN देवलोकाची\N_NN परिभाषा\N_NN स्पष्ट\JJ करते\V_VM .\RD_PUNC
+htd12859	हिमाचल\N-NNP प्रदेश\N_NN पर्यटकांसाठी\N_NN सहज\RB उपलब्ध\JJ असलेला\V_VM स्वर्ग\N_NN आहे\V_VM .\RD_PUNC
+htd12860	हिमाचल\N-NNP प्रदेशात\N_NN व्यतीत\N_NN केलेले\V_VM क्षण\N_NN जीवनात\N_NN नेहमी\RB स्मरणीय\JJ ठरतील\V_VM .\RD_PUNC
+htd12861	हिमाचल\N-NNP प्रदेशातील\N_NN भाखडा\N-NNP एक\QT_QTC सहलीचे\N_NN ठिकाण\N_NN आहे\V_VM .\RD_PUNC
+htd12862	बिलासपुरमध्ये\N-NNP गुहा\N_NN ,\RD_PUNC मंदिरे\N_NN ,\RD_PUNC आनंदपुर\N-NNP साहिब\N_NN यांचा\PR_PRP देखावा\N_NN आणि\CC_CCD सरोवर\N_NN प्रेक्षणीय\JJ आहे\V_VM .\RD_PUNC
+htd12863	चैल\N-NNP येथे\DM_DMD जगातील\N_NN सर्वात\RP_INTF उंचीवर\N_NN असलेले\V_VM क्रिकेट्चे\N_NN मैदान\N_NN आहे\V_VM .\RD_PUNC
+htd12864	चैल\N-NNP पर्वतावर\N_NN गिर्यारोहण\N_NN ,\RD_PUNC पक्षी\N_NN दर्शन\N_NN आणि\CC_CCD मासेमारी\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12865	भीमतालच्या\N-NNP मंदगतीशी\N_NN तुम्ही\PR_PRP लगेचच\RB ताळमेळ\N_NN घालू\V_VM शकता\V_VAUX जेथे\DM_DMD आजही\RB निसर्गाचेच\N_NN राज्य\N_NN चालते\V_VM .\RD_PUNC
+htd12866	सकाळी\N_NN धुक्याने\N_NN झाकोळलेले\V_VM पर्वत\N_NN आणि\CC_CCD निळसर\JJ वांगी\N_NN रंगाचे\N_NN सरोवराचे\N_NN सौंदर्य\N_NN यामध्ये\PR_PRL तुमची\PR_PRP झोपमोड\N_NN होईल\V_VM .\RD_PUNC
+htd12867	उत्तराखंड\N-NNP प्रदेशातील\N_NN कुमाऊ\N-NNP येथे\DM_DMD सरोवरांची\N_NN पूर्ण\QT_QTF रांग\N_NN आहे\V_VM भीमताल\N-NNP ,\RD_PUNC सतताल\N-NNP ,\RD_PUNC गरूड\N-NNP आणि\CC_CCD नौकुचियाताल\N-NNP .\RD_PUNC
+htd12868	नैनीतालच्या\N-NNP प्रसिद्धीमुळे\N_NN बर्‍याच\QT_QTF वर्षांपर्यंत\N_NN कुमाउमधील\N-NNP सुंदर\JJ सरोवरांच्या\N_NN सौंदर्याकडे\N_NN पर्यटकांचे\N_NN लक्ष\N_NN वेधले\V_VM गेले\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd12869	तुम्ही\PR_PRP प्रवासाची\N_NN सुरुवात\N_NN गरूडतालपासून\N-NNP सुरु\JJ करू\V_VM शकता\V_VAUX .\RD_PUNC
+htd12870	गरूडतालाला\N-NNP लोक\N_NN पन्ना\N-NNP असेही\CC_CCS_UT म्हणतात\V_VM .\RD_PUNC
+htd12871	लांब\JJ अरूंद\JJ रस्त्याने\N_NN तुमची\PR_PRP गाडी\N_NN गरुडतालाला\N-NNP पोहोचेल\V_VM .\RD_PUNC
+htd12872	गरूडतालाचे\N-NNP सौंदर्याकडे\N_NN तुम्ही\PR_PRP मंत्रमुग्ध\JJ होऊन\V_VM पाहातच\V_VM राहाल\V_VAUX .\RD_PUNC
+htd12873	असे\RB वाटेल\N_NN जणु\RP_RPD गरूडताल\N-NNP दाट\JJ वनाने\N_NN घेरलेला\V_VM एक\QT_QTC गहन\JJ चकाकणारा\V_VM हिरव्या\JJ रंगाचा\N_NN पेला\N_NN आहे\V_VM .\RD_PUNC
+htd12874	जंगलातून\N_NN जाताना\V_VM तुम्हाला\PR_PRP दाट\JJ हिरवळीबरोबर\N_NN निसर्गातील\N_NN शुष्क\JJ देखावेही\N_NN पहायला\V_VM मिळतील\V_VAUX तुम्ही\PR_PRP पाहाल\V_VM दगडांनी\N_NN युक्त\JJ जमीन\N_NN आणि\CC_CCD निरव\JJ शांतता\N_NN .\RD_PUNC
+htd12875	यानंतर\N_NST दिसेल\V_VM एक\QT_QTC उघडे\JJ छत\N_NN असलेले\V_VM चर्च\N_NN ज्याच्या\PR_PRL उजळलेल्या\V_VM पृष्ठ्भूमीवर\N_NN सूर्य\N_NN सरोवरात\N_NN चमकताना\V_VM दिसेल\V_VAUX .\RD_PUNC
+htd12876	सरोवराच्या\N_NN किनार्‍यावर\N_NN बसण्यासाठी\V_VM एंफिथिएटरसारख्या\N_NN पायर्‍या\N_NN बांधलेल्या\V_VM दिसतील\V_VAUX .\RD_PUNC
+htd12877	कोणत्याही\DM_DMQ सपाट\JJ दगडावर\N_NN बसून\V_VM शांतपणे\N_NN या\DM_DMR सुंदर\JJ देखाव्याला\N_NN मनात\N_NN साठवून\V_VM घ्या\V_VM किंवा\CC_CCD संगतिने\N_NN कोरलेल्या\V_VM पायर्‍यांवर\N_NN ध्यानमग्न\JJ व्हा\V_VM .\RD_PUNC
+htd12878	हवेमध्ये\N_NN उडणारी\V_VM पाने\N_NN कोणतातरी\PR_PRQ दैवी\JJ आशीर्वादाप्रमाणे\N_NN तुम्हाला\PR_PRP स्पर्श\N_NN करतील\V_VM .\RD_PUNC
+htd12879	सरोवरांचे\N_NN नगर\N_NN कुमाऊ\N-NNP येथे\DM_DMD जाण्यासाठी\V_VM दिल्ली\N-NNP सर्वात\RP_INTF जवळचे\RB विमानतळ\N_NN आहे\V_VM .\RD_PUNC
+htd12880	दिल्लीहून\N-NNP रानीखेत\N-NNP एक्सप्रेस\N_NN तुम्हाला\PR_PRP रात्रभरात\N_NN काठगोदाम\N-NNP पोहोचवेल\V_VM .\RD_PUNC
+htd12881	काठगोदामहून\N-NNP पुढे\N_NST रस्त्याने\N_NN जावे\V_VM लागेल\V_VAUX .\RD_PUNC
+htd12882	तुम्ही\PR_PRP कोणते\DM_DMQ वाहन\N_NN निवडता\V_VM त्यानुसार\PR_PRL ४००\QT_QTC ते\DM_DMR ८००\QT_QTC रुपये\N_NN भाडे\N_NN द्यावे\V_VM लागु\V_VAUX शकते\V_VAUX .\RD_PUNC
+htd12883	दिल्लीहून\N-NNP रस्त्याने\N_NN जाण्यासाठी\V_VM मुरादाबाद\N-NNP आडवळणाने\N_NN हल्दानी\N-NNP आणि\CC_CCD काठगोदाम\N-NNP मार्गे\RB जात\V_VM भीमताल\N-NNP किंवा\CC_CCD सतताल\N-NNP पोहोचता\V_VM येते\V_VAUX .\RD_PUNC
+htd12884	दोन\QT_QTC रात्री\N_NN व\CC_CCD तीन\QT_QTC दिवसांसाठी\N_NN कारचे\N_NN भाडे\N_NN रु.\N_NN ७५००\QT_QTC (\RD_SYM एंबेसेडरपासून\N_NN )\RD_SYM १२\QT_QTC ,\RD_PUNC ५००\QT_QTC (\RD_SYM फोर्ड\N_NN आयकॉनपर्यंत\N_NN )\RD_SYM आहे\V_VM .\RD_PUNC
+htd12885	१२\QT_QTC तास\N_NN साइट\N_NN पाहाण्यासाठी\V_VM वाहनाचे\N_NN भाडे\N_NN रु\N_NN .\RD_PUNC १५०००\QT_QTC ते\CC_CCS २२०००पर्यंत\N_NN आहे\V_VM .\RD_PUNC
+htd12886	जेंव्हा\CC_CCS तुम्ही\PR_PRP शांत\JJ जंगलाच्या\N_NN गूढतेमध्ये\N_NN प्रवेश\N_NN करता\V_VM तेंव्हा\CC_CCS रस्ते\N_NN आणि\CC_CCD आजुबाजुची\N_NN दृश्ये\N_NN खूप\QT_QTF गतीने\N_NN बदलू\V_VM लागतात\V_VAUX .\RD_PUNC
+htd12887	पहारेकर्‍यांप्रमाणे\N_NN उभे\JJ वृक्ष\N_NN हवेबरोबर\N_NN डोलत\V_VM वातावरणात\N_NN गुंजन\N_NN करीत\V_VM असतात\V_VAUX .\RD_PUNC
+htd12888	वृक्षांच्या\N_NN पसरलेल्या\V_VM फांद्या\N_NN पाहून\V_VM असे\RB वाटते\V_VM की\CC_CCS जणु\RP_RPD कोणीतरी\PR_PRQ आकाशाकडे\N_NN तोंड\N_NN करून\V_VM प्रार्थना\N_NN करण्याच्या\V_VM आविर्भावात\N_NN हात\N_NN जोडून\V_VM उभे\JJ आहे\V_VM .\RD_PUNC
+htd12889	रमतगमत\RD_ECH फिरताना\V_VM जेंव्हा\CC_CCS ऐंबरची\N_NN वाळलेली\V_VM पाने\N_NN तुमच्या\PR_PRP पायाखाली\N_NN तुडवली\V_VM जातील\V_VAUX तेंव्हा\CC_CCS बंदूकीतून\N_NN गोळी\N_NN झाडल्यासारखा\V_VM आवाज\N_NN येतो\V_VM .\RD_PUNC
+htd12890	लांब\JJ अरुंद\JJ जंगलातील\N_NN मार्गात\N_NN काही\QT_QTF अंतर\N_NN गेल्यावर\V_VM उजाड\JJ हिरवे\JJ छत\N_NN असलेली\V_VM भुर्‍या\JJ दगडांपासून\N_NN बनलेली\V_VM इमारत\N_NN पाहून\V_VM तुम्ही\PR_PRP थबकुन\V_VM जाल\V_VAUX .\RD_PUNC
+htd12891	हा\DM_DMR सतताल\N-NNP आश्रम\N_NN आहे\V_VM जो\PR_PRL डॉ\N_NN .\RD_PUNC ई\N-NNP .\RD_PUNC स्टॅन्ली\N-NNP जोन्स\N-NNP याने\DM_DMR १९३०\QT_QTC साली\N_NN बांधला\V_VM .\RD_PUNC
+htd12892	सतताल\N-NNP आश्रम\N_NN त्या\DM_DMR सर्वांसाठी\N_NN आहे\V_VM जे\PR_PRL ईश्वराला\N_NN शोधण्याची\V_VM इच्छा\N_NN बाळगुन\V_VM आहेत\V_VAUX
+htd12893	तसेही\CC_CCS या\DM_DMR हिरव्या\JJ तपोभूमीच्या\N_NN अथांग\JJ शांततेत\N_NN ईश्वराला\N_NN शोधणे\V_VM जरा\QT_QTF सोपे\JJ होते\V_VM .\RD_PUNC
+htd12894	जेंव्हा\CC_CCS तुम्ही\PR_PRP लहर\N_NN बदलू\V_VM इच्छिता\V_VM तेंव्हा\CC_CCS वाटले\V_VM तर\CC_CCS तुमची\PR_PRP सहलीची\N_NN पिशवी\N_NN काढा\V_VM आणि\CC_CCD हिरव्या\JJ गर्द\JJ झाडांच्या\N_NN छायेत\N_NN थंड\JJ बियरचे\N_NN काही\QT_QTF घोट\N_NN घ्या\V_VM आणि\CC_CCD थोडी\QT_QTF डुलकी\N_NN काढा\V_VM .\RD_PUNC
+htd12895	जेंव्हा\CC_CCS धुके\N_NN जंगलाच्या\N_NN विस्तारावर\N_NN आपली\PR_PRP वांगी\JJ रंगाची\N_NN चादर\N_NN पसरू\V_VM लागेल\V_VAUX तेंव्हा\CC_CCS परत\RB भीमताल\N-NNP येथे\DM_DMD येण्याची\V_VM तयारी\N_NN करा\V_VM .\RD_PUNC
+htd12896	दुसर्‍या\QT_QTO दिवशीच्या\N_NN सकाळी\N_NN सततालकडे\N-NNP कूच\V_VM करा\V_VM .\RD_PUNC
+htd12897	सतताल\N-NNP भीमतालपासून\N-NNP ८\QT_QTC किलोमीटर\N_NN लांब\JJ आहे\V_VM .\RD_PUNC
+htd12898	सतताल\N-NNP एकमेकांशी\PR_PRC जोडलेल्या\V_VM सरोवरांचा\N_NN समूह\N_NN आहे\V_VM .\RD_PUNC
+htd12899	याच्या\PR_PRL पृष्ठभूमीवर\N_NN उभे\JJ असलेले\V_VM ओक\N_NN आणि\CC_CCD पाइन\N_NN वृक्षांच्या\N_NN पलिकडे\N_NST दिसणारी\V_VM हिमालयाची\N-NNP शिखरे\N_NN कोणत्याही\DM_DMQ परिकथेतील\N_NN दृश्याचा\N_NN अनुभव\N_NN देतात\V_VM .\RD_PUNC
+htd12900	सततालच्या\N-NNP जवळील\RB देखावे\N_NN मनमोहक\JJ आहेत\V_VM .\RD_PUNC
+htd12901	सततालमध्ये\N-NNP दूरवर\RB पसरलेली\V_VM हिरवळ\N_NN युक्त\JJ भूमी\N_NN पर्वत\N_NN आणि\CC_CCD पायर्‍यांवरची\N_NN शेती\N_NN मनाला\N_NN भुरळ\N_NN घालतात\V_VM .\RD_PUNC
+htd12902	तुम्ही\PR_PRP राम\N-NNP सीता\N-NNP आणि\CC_CCD लक्ष्मण\N-NNP सरोवराच्या\N_NN काठी\N_NN तुमचा\PR_PRP तळ\N_NN ठोका\V_VM .\RD_PUNC
+htd12903	येथील\PR_PRL दाट\JJ वृक्षांना\N_NN भेदत\V_VM येणार्‍या\V_VM प्रकाशात\N_NN न्हाणार्‍या\V_VM टेबलांवर\N_NN स्थानिक\N_NN लोक\N_NN भटकणार्‍या\V_VM पर्यटकांसाठी\N_NN कढी\N_NN भात\N_NN आणि\CC_CCD खिरीसहित\N_NN चहा\N_NN कॉफीही\N_NN बनवतात\V_VM .\RD_PUNC
+htd12904	वर\N_NST आकाशात\N_NN ढगांचा\N_NN समुह\N_NN सूर्याबरोबर\N_NN लपाछपीचा\N_NN खेळ\N_NN खेळत\V_VM असतो\V_VAUX .\RD_PUNC
+htd12905	या\DM_DMR लपाछपीत\N_NN सतत\N_NST बदलणार्‍या\V_VM रंगांचे\N_NN प्रतिबिंब\N_NN सततालच्या\N-NNP सरोवरात\N_NN पडते\V_VM .\RD_PUNC
+htd12906	सरोवराच्या\N_NN किनार्‍यावर\N_NN असलेल्या\V_VM गडद\JJ रंगाच्या\N_NN पायडल\N_NN असणार्‍या\V_VM नावा\N_NN पर्यटकाच्या\N_NN प्रतिक्षेत\N_NN तरंगत\V_VM असल्यासारख्या\V_VM दिसतात\V_VAUX .\RD_PUNC
+htd12907	तरूण\JJ धाडसी\JJ पर्यटकांसाठी\N_NN सतताल\N-NNP एक\QT_QTC सुंदर\JJ स्थान\N_NN आहे\V_VM .\RD_PUNC
+htd12908	सततालमध्ये\N-NNP तुम्ही\PR_PRP रॅपलिंग\N_NN आणि\CC_CCD गिर्यारोहणाचा\N_NN आनंद\N_NN घेऊ\V_VM शकता\V_VAUX .\RD_PUNC
+htd12909	सततालमध्ये\N-NNP तुम्ही\PR_PRP माउंटन\N_NN बायकिंग\N_NN आणि\CC_CCD फिशींग\N_NN करु\V_VM शकता\V_VAUX .\RD_PUNC
+htd12910	जंगालिया\N-NNP गावातून\N_NN खाली\N_NST येताना\V_VM चकवणार्‍या\V_VM पर्वतातील\N_NN रस्त्यावर\N_NN माउंटन\N_NN बयकिंग\N_NN करा\V_VM .\RD_PUNC
+htd12911	रस्त्यात\N_NN जरा\QT_QTF वेळ\N_NN थांबून\V_VM येथील\PR_PRL लांब\JJ शेपूट\N_NN असलेली\V_VM चिमणी\N_NN पाहण्याशिवाय\V_VM खाली\N_NST गर्द\JJ हिरव्या\JJ रंगाच्या\N_NN दरीत\N_NN चमकणार्‍या\V_VM हिरव्या\JJ नौकुचिया\N-NNP तलावाचा\N_NN देखावा\N_NN पाहण्याचा\V_VM अनुभव\N_NN खास\JJ आहे\V_VM .\RD_PUNC
+htd12912	नौकुचिया\N-NNP तलावाचे\N_NN चमकणारे\V_VM पाणी\N_NN असे\RB दिसेल\N_NN जसे\RB पृथ्वीच्या\N_NN वक्षस्थानी\N_NN जडवलेला\V_VM कोणता\DM_DMQ तरी\CC_CCS मौल्यवान\JJ दागिना\N_NN चकाकावा\V_VM .\RD_PUNC
+htd12913	सरोवरांची\N_NN राणी\N_NN नैनीताल\N-NNP तुम्हाला\PR_PRP एखाद्या\JJ अतिशय\RP_INTF सुंदर\JJ अशा\JJ स्त्रीची\N_NN आठवण\N_NN करून\V_VM देईल\V_VAUX जी\PR_PRL मंद\JJ प्रकाशात\N_NN खास\JJ कोनातून\N_NN आजही\RB मनमोहक\JJ दिसत\V_VM असेल\V_VAUX .\RD_PUNC
+htd12914	हिरवळीने\N_NN झाकलेल्या\V_VM किलबरी\N-NNP हिल्सवर\N_NN पोहोचा\V_VM आणि\CC_CCD येथून\PR_PRL वर\N_NST जाताना\V_VM तुम्हाला\PR_PRP खाली\N_NST दरीत\N_NN चमकणार्‍या\V_VM निळ्या\JJ पाण्याने\N_NN वेढलेल्या\V_VM अव्यवस्थित\JJ नैनी\N-NNP शहराची\N_NN एक\QT_QTC अत्यंत\RP_INTF सुंदर\JJ छबी\N_NN दिसेल\V_VM .\RD_PUNC
+htd12915	वळणदार\JJ रस्त्याने\N_NN जात\V_VM जेव्हा\CC_CCS तुम्ही\PR_PRP पर्वताच्या\N_NN दुसर्‍या\QT_QTO बाजुला\N_NN पोहोचाल\V_VM ,\RD_PUNC नैनीताल\N-NNP येथील\PR_PRL सुप्रसिद्ध\JJ सरोवर\N_NN डोळ्याआड\N_NN होईल\V_VM आणि\CC_CCD हिमालयाची\N-NNP बर्फाने\N_NN झाकलेली\V_VM शिखरे\N_NN क्षितिजावर\N_NN दिसू\V_VM लागतील\V_VAUX .\RD_PUNC
+htd12916	नैनीतालपासून\N-NNP १५\QT_QTC किलोमीटर\N_NN अंतरावर\N_NN असणार्‍या\V_VM पंगोत\N-NNP गावामध्ये\N_NN तुमची\PR_PRP गाडी\N_NN ठेवा\V_VM आणि\CC_CCD ओक\N_NN ,\RD_PUNC देवदार\N_NN आणि\CC_CCD पाईनच्या\N_NN घनदाट\JJ जंगलाच्या\N_NN मधोमध\N_NST बनलेल्या\V_VM लोर\N-NNP बर्डिग\N_NN लॉजमध्ये\N_NN तुमचा\PR_PRP मुक्काम\N_NN ठेवा\V_VM .\RD_PUNC
+htd12917	नैनीतालच्या\N-NNP गडबडीपासून\N_NN दूर\N_NST हिमालयाच्या\N-NNP जंगलातील\N_NN बेल\N-NNP बूटदार\JJ विस्तारात\N_NN तुम्ही\PR_PRP या\DM_DMR पर्वताच्या\N_NN पर्यटनाचा\N_NN शांती\N_NN आणि\CC_CCD निश्चलपणे\RB अनुभव\N_NN घ्याल\V_VM .\RD_PUNC
+htd12918	दुसर्‍या\QT_QTO दिवशी\N_NN सकाळी\N_NN माकडांच्या\N_NN कलकलाटाने\N_NN तुमची\PR_PRP झोपमोड\N_NN होईल\V_VM .\RD_PUNC
+htd12919	ही\DM_DMR माकडे\N_NN जवळच्या\RB जंगलांमधून\N_NN येतात\V_VM .\RD_PUNC
+htd12920	या\DM_DMR माकडांना\N_NN खाऊ\N_NN देताना\V_VM सावधगिरी\N_NN बाळगा\V_VM कारण\N_NN ही\DM_DMR माकडे\N_NN खाऊ\N_NN देणार्‍यावर\V_VM तुटून\V_VM पडतात\V_VAUX .\RD_PUNC
+htd12921	आम्हाला\N_NN खात्री\N_NN आहे\V_VM की\CC_CCS तुमचा\PR_PRP हा\DM_DMR प्रवास\N_NN एक\QT_QTC आनंददायक\N_NN आठवण\N_NN असेल\V_VM कारण\N_NN तुम्ही\PR_PRP अशा\JJ ठिकाणी\N_NN फिरला\V_VM आहात\V_VAUX की\CC_CCS जेथे\DM_DMD निसर्ग\N_NN मानवी\JJ हस्तक्षेपापासून\N_NN दूर\N_NST आहे\V_VM .\RD_PUNC
+htd12922	येथे\DM_DMD निसर्ग\N_NN त्याची\PR_PRP स्वतःची\PR_PRF समीकरणे\N_NN तयार\JJ करतो\V_VM .\RD_PUNC
+htd12923	१९३७\QT_QTC मध्ये\N_NST पंजाब\N-NNP हे\DM_DMR भारताचे\N-NNP स्वतंत्र\JJ राज्य\N_NN बनले\V_VM .\RD_PUNC
+htd12924	भारताची\N-NNP फाळणी\N_NN झाली\V_VM तेव्हा\CC_CCS पंजाबसुद्धा\N-NNP भारत\N-NNP आणि\CC_CCD पाकिस्तान\N-NNP यांच्यामध्ये\DM_DMR पूर्व\N_NN पंजाब\N-NNP आणि\CC_CCD पश्चिम\N_NN पंजाब\N-NNP असा\JJ विभाजित\JJ झाला\V_VM .\RD_PUNC
+htd12925	स्वतंत्र\JJ भारतात\N-NNP यापासून\PR_PRL वेगळे\JJ काढून\V_VM हरियाणा\N-NNP आणि\CC_CCD हिमाचल\N-NNP प्रदेश\N_NN अशा\JJ दोन\QT_QTC भिन्न\JJ राज्यांची\N_NN स्थापना\N_NN केली\V_VM गेली\V_VAUX .\RD_PUNC
+htd12926	रावी\N_NN ,\RD_PUNC झेलम\N_NN ,\RD_PUNC सतलज\N_NN ,\RD_PUNC व्यास\N_NN आणि\CC_CCD चिनाब\N_NN अशा\JJ पाच\QT_QTC नद्यांच्या\N_NN मध्ये\N_NST वसलेला\V_VM असा\JJ पंजाब\N-NNP प्रांत\N_NN अत्यंत\RP_INTF समृद्ध\JJ आणि\CC_CCD सुपिक\JJ प्रदेश\N_NN आहे\V_VM .\RD_PUNC
+htd12927	पंजाबातील\N-NNP लोक\N_NN त्यांच्या\PR_PRP निर्भयतेसाठी\N_NN आणि\CC_CCD शौर्यासाठी\N_NN जगप्रसिद्ध\JJ आहेत\V_VM ,\RD_PUNC ज्यांनी\PR_PRL नेहमी\N_NST भारतावर\N-NNP बाहेरुन\N_NST होणार्‍या\V_VM आक्रमणांना\N_NN सर्वप्रथम\N_NN निकराने\RB तोंड\N_NN दिले\V_VM .\RD_PUNC
+htd12928	पंजाबातील\N-NNP लोक\N_NN अतिशय\RP_INTF कष्टाळू\JJ ,\RD_PUNC अतिथिंचा\N_NN आदर\N_NN सत्कार\N_NN करणारे\V_VM आणि\CC_CCD उद्योगी\N_NN आहेत\V_VM .\RD_PUNC
+htd12929	आज\RB पंजाब\N-NNP हे\DM_DMR भारतातील\N-NNP सर्वाधिक\QT_QTF विकसित\JJ राज्य\N_NN आहे\V_VM आणि\CC_CCD कृषी\N_NN विकास\N_NN ,\RD_PUNC औद्योगिकीकरण\N_NN ,\RD_PUNC खेळ\N_NN आणि\CC_CCD सशस्त्र\JJ सेनांमध्ये\N_NN पंजाबचे\N-NNP योगदान\N_NN अद्वितीय\JJ आहे\V_VM .\RD_PUNC
+htd12930	पंजाबमध्ये\N-NNP अशी\JJ अनेक\QT_QTF स्थाने\N_NN आहेत\V_VM ज्यांचे\PR_PRL ऐतिहासिक\JJ ,\RD_PUNC धार्मिक\JJ आणि\CC_CCD सांस्कृतिक\JJ महत्त्व\N_NN आहे\V_VM .\RD_PUNC
+htd12931	ही\DM_DMR गुरुनानकांसारख्या\N-NNP अशा\JJ महान\JJ गुरुंची\N_NN भूमी\N_NN आहे\V_VM ज्यांनी\PR_PRL विश्वशांतीचा\N_NN ,\RD_PUNC बंधुभावाचा\N_NN ,\RD_PUNC सद्भावाचा\N_NN आणि\CC_CCD सहिष्णुतेचा\N_NN संदेश\N_NN दिला\V_VM .\RD_PUNC
+htd12932	चंदीगढ\N-NNP हा\DM_DMR केंद्रशासित\JJ प्रदेश\N_NN पंजाब\N-NNP आणि\CC_CCD हरियाणाची\N-NNP संयुक्त\JJ राजधानी\N_NN आहे\V_VM .\RD_PUNC
+htd12933	चंदीगढ\N-NNP हे\DM_DMR भारतातील\N-NNP सुनियोजित\JJ आधुनिक\JJ नगर\N_NN आहे\V_VM .\RD_PUNC
+htd12934	चंदीगढ\N-NNP या\DM_DMR नवीन\JJ नगराच्या\N_NN निर्माण\N_NN योजनेचा\N_NN आरखडा\N_NN फ्रान्सच्या\N-NNP सुप्रसिद्ध\JJ वास्रुशिल्पकार\N_NN श्री\N_NN ली\N-NNP कॉर्बिशायर\N-NNP आणि\CC_CCD श्री\N_NN पेजी\N-NNP जेन्नरेट\N-NNP यांनी\DM_DMR मिळून\V_VM तयार\JJ केला\V_VM .\RD_PUNC
+htd12935	चंदीगढ\N-NNP नगर\N_NN विविध\JJ स्वतंत्र\JJ विभागात\N_NN विभागला\V_VM गेला\V_VAUX आहे\V_VAUX .\RD_PUNC
+htd12936	प्रत्येक\QT_QTF विभागात\N_NN स्वतःचे\PR_PRF बाजार\N_NN ,\RD_PUNC दवाखाने\N_NN ,\RD_PUNC शाळा\N_NN ,\RD_PUNC मंदिरे\N_NN ,\RD_PUNC उद्यान\N_NN आणि\CC_CCD खेळाची\N_NN मैदाने\N_NN आहेत\V_VM .\RD_PUNC
+htd12937	चंदीगढ\N-NNP हे\DM_DMR आधुनिक\JJ नगर\N_NN निर्माण\N_NN योजनेचे\N_NN सर्वात\RP_INTF चांगले\JJ उदाहरण\N_NN आहे\V_VM .\RD_PUNC
+htd12938	अमृतसरजवळ\N-NNP रामतीर्थ\N-NNP स्थान\N_NN हे\DM_DMR हिंदू\N_NN धार्मिक\JJ स्थळ\N_NN आणि\CC_CCD लव\N-NNP व\CC_CCD कुश\N-NNP यांचे\PR_PRP जन्म\N_NN स्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd12939	पंजाब\N-NNP येथील\PR_PRL तरन\N-NNP तारन\N-NNP येथे\DM_DMD शिख\N_NN समाधी\N_NN आहे\V_VM .\RD_PUNC
+htd12940	पंजाब\N-NNP येथील\PR_PRL आनंदपुर\N-NNP साहिब\N_NN शिख\N_NN तीर्थक्षेत्र\N_NN गुरुद्वारा\N_NN ,\RD_PUNC मंदिर\N_NN आणि\CC_CCD किल्ला\N_NN यासाठी\PR_PRL लोकप्रिय\JJ आहे\V_VM .\RD_PUNC
+htd12941	पंजाबमधील\N-NNP भटिंडा\N-NNP शहराच्या\N_NN जवळ\RB माईसरखान\N-NNP माई\N-NNP मंडिर\N_NN लोकप्रिय\JJ आहे\V_VM .\RD_PUNC
+htd12942	पंजाबमध्ये\N-NNP ’\RD_PUNC डेरा\N-NNP बाबा\N_NN नानक\N_NN ’\RD_PUNC हे\DM_DMR शिखांचे\N_NN तीर्थक्षेत्र\N_NN आहे\V_VM .\RD_PUNC
+htd12943	’\RD_PUNC ढोलबहा\N-NNP ’\RD_PUNC मंदिर\N_NN आणि\CC_CCD पौराणिक\JJ स्थळाच्या\N_NN रूपात\N_NN लोकप्रिय\JJ आहे\V_VM .\RD_PUNC
+htd12944	पंजाबमध्ये\N-NNP ’\RD_PUNC फरीदकोट\N-NNP ’\RD_PUNC स्थळ\N_NN हे\DM_DMR किल्ल्यासाठी\N_NN ओळखले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12945	पंजाब\N-NNP येथील\PR_PRL ’\RD_PUNC गोविंदवाल\N-NNP ’\RD_PUNC शिखांचे\N_NN तीर्थक्षेत्र\N_NN म्हणून\CC_CCS_UT प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12946	पंजाब\N-NNP येथील\N_NN कपूरथला\N-NNP या\DM_DMR ठिकाणी\N_NN महाल\N_NN ,\RD_PUNC मंदिर\N_NN ,\RD_PUNC मशीद\N_NN प्रेक्षणीय\JJ आहेत\V_VM .\RD_PUNC
+htd12947	पंजाब\N-NNP येथे\DM_DMD ’\RD_PUNC कीरतपुर\N-NNP ’\RD_PUNC हे\DM_DMR एक\QT_QTC शिख\N_NN तीर्थस्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd12948	पठाणकोटच्या\N-NNP जवळ\RB असणारे\V_VM शहापुर\N-NNP हे\DM_DMR किल्ला\N_NN आणि\CC_CCD मुस्लिम\N_NN पौराणिक\JJ स्थलासाठी\N_NN ओळखले\V_VM जाते\V_VM .\RD_PUNC
+htd12949	रूपनगरच्याजवळ\N-NNP ’\RD_PUNC संगल\N-NNP ’\RD_PUNC हे\DM_DMR ठिकाण\N_NN हडाप्पा\N-NNP येथील\N_NN प्रमुख\JJ पुरातत्त्व\N_NN स्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd12950	पंजाब\N-NNP येथे\DM_DMD असणारे\V_VM ’\RD_PUNC सम्गरुर\N-NNP ’\RD_PUNC हे\DM_DMR शिखांचे\N_NN पवित्र\JJ स्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd12951	पंजाब\N-NNP येथील\N_NN सरहिंद\N-NNP हे\DM_DMR ठिकाण\N_NN शीख\N_NN आणि\CC_CCD मुस्लिम\N_NN समाधी\N_NN आणि\CC_CCD आम\N_NN खास\N_NN बागचे\N_NN ऐतिहासिक\N-NNP भाग\N_NN आहे\V_VM .\RD_PUNC
+htd12952	हरियाणा\N-NNP राज्याची\N_NN अर्थव्यवस्था\N_NN शेतीवर\N_NN आधारित\JJ आहे\V_VM आणि\CC_CCD ८०\QT_QTC %\RD_SYM लोक\N_NN शेतीच्या\N_NN सहाय्याने\N_NN उपजीविका\N_NN करतात\V_VM .\RD_PUNC
+htd12953	औद्योगिक\N_NN क्षेत्रात\N_NN हरियानाने\N-NNP आपले\PR_PRP स्थान\N_NN निर्माण\N_NN केले\V_VM आहे\V_VAUX आणि\CC_CCD आज\RB तो\DM_DMR देशातील\N_NN सर्वाधिक\N_NN ट्रॅक्टर\N_NN उत्पादन\N_NN करणारे\V_VM राज्य\N_NN आहे\V_VM .\RD_PUNC
+htd12954	हरियाणा\N-NNP हथकरघा\N-NNP उद्योगाकरिता\N_NN सुद्धा\RP_INTF प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12955	शानदार\JJ लोकरीची\N_NN वस्त्रे\N_NN आणि\CC_CCD हाताने\N_NN बनलेल्या\V_VM कपड्यासाठी\N_NN प्रसिद्ध\JJ असल्याकारणाने\N_NN हरियाणातील\N-NNP पानीपत\N-NNP ह्या\DM_DMR शहराला\N_NN ’विणकरांचे\N_NN शहर’\N_NN असे\JJ नाव\N_NN दिले\V_VM आहे\V_VAUX .\RD_PUNC
+htd12956	सतलज\N-NNP आणि\CC_CCD व्यास\N-NNP या\DM_DMR नद्यांवर\N_NN बांधलेल्या\V_VM बहूद्देशीय\JJ योजनांमध्ये\N_NN सुद्धा\RP_INTF हरियाणा\N-NNP भागीदार\N_NN आहे\V_VM .\RD_PUNC
+htd12957	जवाहरलाल\N-NNP नेहरु\N-NNP सिंचन\N_NN परियोजना\N_NN जी\PR_PRL स्वतः\PR_PRF एक\QT_QTC सर्वात\RP_INTF मोठी\JJ योजना\N_NN आहे\V_VM ,\RD_PUNC लवकरच\RB पूर्ण\QT_QTF होईल\V_VM .\RD_PUNC
+htd12958	शिक्षणाच्या\N_NN दृष्टीने\N_NN हरियाणात\N-NNP चांगली\JJ विद्यालये\N_NN आहेत\V_VM ,\RD_PUNC उदाहरणार्थ\RB महर्षी\JJ दयानंद\N-NNP विद्यापीठ\N_NN ,\RD_PUNC रोहतक\N-NNP आणि\CC_CCD कुरुक्षेत्र\N-NNP विद्यापीठ\N_NN .\RD_PUNC
+htd12959	हरियाणातील\N-NNP सूरजकुंड\N-NNP येथे\DM_DMD दरवर्षी\RB फेब्रुवारीत\N_NN भरणारा\V_VM हस्तशिल्प\N_NN उत्सव\N_NN जगप्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12960	हरियाणातील\N-NNP हथनी\N-NNP कुंड\N_NN (\RD_SYM ताजेवाला\N-NNP )\RD_SYM मासे\N_NN पकडण्यासाठी\V_VM प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12961	हरियाणातील\N-NNP ’\RD_PUNC झज्जर\N-NNP ’\RD_PUNC हा\DM_DMR एक\QT_QTC प्राचीन\JJ भाग\N_NN आहे\V_VM .\RD_PUNC
+htd12962	झज्जर\N-NNP प्रदेशात\N_NN महाल\N_NN ,\RD_PUNC संग्रहालय\N_NN आणि\CC_CCD गुरुकुल\N_NN प्रेक्षणीय\JJ आहेत\V_VM .\RD_PUNC
+htd12963	हरियाणातील\N-NNP जिंद\N-NNP हे\DM_DMR स्थान\N_NN महालासाठी\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12964	करनालच्याजवळ\N-NNP चक्रवर्ती\N-NNP सरोवर\N_NN हे\DM_DMR एक\QT_QTC सहलीचे\N_NN ठिकाण\N_NN आहे\V_VM जे\PR_PRL नौकायन\N_NN आणि\CC_CCD मासे\N_NN पकडण्यासाठी\V_VM लोकप्रिय\JJ आहे\V_VM .\RD_PUNC
+htd12965	हरियानातील\N-NNP ’\RD_PUNC नरनौल\N-NNP ’\RD_PUNC या\DM_DMR ठिकाणी\N_NN पुरातन\JJ वस्तु\N_NN प्रेक्षणीय\JJ आहेत\V_VM .\RD_PUNC
+htd12966	हरियाणातील\N-NNP ’\RD_PUNC पेहोवा\N-NNP ’\RD_PUNC हे\DM_DMR एक\QT_QTC हिंदू\N_NN तीर्थक्षेत्र\N_NN आहे\V_VM .\RD_PUNC
+htd12967	पिंजोर\N-NNP येथे\DM_DMD आशियातील\N_NN श्रेष्ठ\JJ १७व्या\N_NN शतकातील\N_NN उद्यान\N_NN प्रेक्षणीय\JJ आहे\V_VM .\RD_PUNC
+htd12968	उत्तराखंड\N-NNP आपल्या\PR_PRP देशातील\N_NN २७वे\N_NN नवे\JJ राज्य\N_NN आहे\V_VM .\RD_PUNC
+htd12969	बारा\QT_QTC वर्षांच्या\N_NN आंदोलनानंतर\N_NN उत्तर\N_NN प्रदेशच्या\N_NN विधानसभेने\N_NN उत्तराखंड\N-NNP राज्याचा\N_NN प्रस्ताव\N_NN पारित\JJ करुन\V_VM केंद्र\JJ सरकारच्या\N_NN संमतीसाठी\N_NN पाठवुन\V_VM दिला\V_VAUX .\RD_PUNC
+htd12970	९\QT_QTC नोव्हेंबर\N_NN २०००ला\N_NN उत्तरप्रदेशापासून\N-NNP अलग\JJ होऊन\V_VM या\DM_DMR राज्याची्\N_NN स्थापना\N_NN झाली\V_VM आणि\CC_CCD डेहराडूनला\N-NNP या\DM_DMR प्रदेशाची\N_NN राजधानी\N_NN बनविली\V_VM .\RD_PUNC
+htd12971	हिमालयाच्या\N-NNP कुशीत\N_NN असणार्‍या\V_VM या\DM_DMR नवगठीत\N_NN राज्याचे\N_NN निसर्ग\N_NN सौंदर्य\N_NN अनोखे\JJ आहे\V_VM .\RD_PUNC
+htd12972	असे\RB वाटते\V_VM की\CC_CCS जणू\RP_RPD निसर्गाने\N_NN हा\DM_DMR प्रदेश\N_NN अतिशय\RP_INTF फुरसतीने\N_NN सजविला\V_VM आहे\V_VAUX .\RD_PUNC
+htd12973	हिंदूंसाठी\N_NN उत्तरखंड\N-NNP प्रदेश\N_NN पवित्र\JJ भूमी\N_NN आहे\V_VM आणि\CC_CCD याला\PR_PRL देवभूमी\N_NN असेही\CC_CCS_UT म्हणतात\V_VM .\RD_PUNC
+htd12974	प्रत्येक\QT_QTF हिंदू\N_NN मनुष्य\N_NN आपल्या\PR_PRP जीवनात\N_NN ज्या\PR_PRL पवित्र\JJ स्थळी\N_NN जाऊन\V_VM आपला\PR_PRP भूतकाळ\N_NN आणि\CC_CCD भविष्यकाळ\N_NN सुधारु\V_VM इच्छितो\V_VM ते\DM_DMR चार\QT_QTC धाम\N_NN उत्तराखंडामध्ये\N-NNP आहेत\V_VM .\RD_PUNC
+htd12975	उत्तराखंडातील\N-NNP चमोली\N-NNP हे\DM_DMR ठिकाण\N_NN एक\QT_QTC लोकप्रिय\JJ पर्वतीय\JJ स्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd12976	’\RD_PUNC चंपावत\N-NNP ’\RD_PUNC ही\DM_DMR कुमाउची\N-NNP जुनी\JJ राजधानी\N_NN म्हणून\CC_CCS_UT आणि\CC_CCD प्राचीन\JJ निर्माण\N_NN कलेसाठी\N_NN ओळखली\V_VM जाते\V_VAUX .\RD_PUNC
+htd12977	गढमुक्तेश्वर\N-NNP हे\DM_DMR एक\QT_QTC तीर्थक्षेत्र\N_NN आहे\V_VM .\RD_PUNC
+htd12978	गंगोत्री\N-NNP हे\DM_DMR गंगेचे\N-NNP उगमस्थान\N_NN आणि\CC_CCD हिंदूंचे\N_NN तीर्थक्षेत्र\N_NN म्हणून\CC_CCS_UT प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12979	यमनोत्री\N-NNP हे\DM_DMR यमुनेचे\N-NNP उगमस्थान\N_NN आणि\CC_CCD प्रसिद्ध\JJ तीर्थक्षेत्र\N_NN आहे\V_VM .\RD_PUNC
+htd12980	राजस्थानच्या\N-NNP इतिहासात\N_NN केवळ\JJ शृंगार\N_NN आणि\CC_CCD शौर्यालाच\N_NN महत्त्वाचे\JJ स्थान\N_NN आहे\V_VM असे\RB नसून\N_NN संस्कृती\N_NN ,\RD_PUNC इतिहास\N_NN आणि\CC_CCD नैसर्गिक\JJ सौंदर्यसुद्धा\N_NN आपली\PR_PRP समृद्धी\N_NN प्रकट\N_NN करते\V_VM .\RD_PUNC
+htd12981	राजस्थानात\N-NNP शेकडो\N_NN किलोमीटरपर्यंत\N_NN विस्तारलेले\V_VM रेतीच्या\N_NN टेकड्या\N_NN ,\RD_PUNC आश्चर्याने\N_NN तोंडात\N_NN बोट\N_NN घालण्यास\V_VM लावणारे\V_VM अद्भुत\JJ किल्ले\N_NN ,\RD_PUNC कलात्मक\N_NN राजप्रासाद\N_NN आणि\CC_CCD हवेली\N_NN आहेत\V_VM .\RD_PUNC
+htd12982	राजस्थानातील\N-NNP प्रत्येक\QT_QTF जागेची\N_NN स्वतःची\PR_PRF एक\QT_QTC अनोखी\JJ वास्तुशिल्प\N_NN रचना\N_NN आहे\V_VM आणि\CC_CCD स्वतःची\PR_PRF एक\QT_QTC वेगळी\JJ गाथा\N_NN .\RD_PUNC
+htd12983	राजस्थानच्या\N-NNP पर्वतांमध्ये\N_NN बांधलेले\V_VM बगीचे\N_NN आणि\CC_CCD सरोवरे\N_NN पर्यटकांची\N_NN मने\N_NN मोहून\V_VM टाकण्यात\V_VM काही\QT_QTF कसूर\N_NN करत\V_VM नाहीत\V_VAUX .\RD_PUNC
+htd12984	राजस्थानच्या\N-NNP लोकगीतांमध्ये\N_NN जेथे\DM_DMD देवी\N_NN देवतांचे\N_NN स्मरण\N_NN केले\V_VM जाते\V_VAUX तेथेच\DM_DMD प्रेम\N_NN आणि\CC_CCD शृंगाराला\N_NN प्राधान्य\N_NN दिले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12985	आपल्या\PR_PRP उत्साहपूर्ण\N_NN लोकनृत्य\N_NN व\CC_CCD संगीत\N_NN ,\RD_PUNC गाथांनी\N_NN व\CC_CCD भव्य\JJ उत्सवांमुळे\N_NN राजस्थानची\N_NN भूमी\N_NN सजीव\JJ होते\V_VM .\RD_PUNC
+htd12986	राजस्थानमधील\N-NNP संध्याकाळ\N_NN त्यावेळी\PR_PRL रोमांचित\JJ करणारी\V_VM असते\V_VM जेंव्हा\CC_CCS चमकणार्‍या\V_VM वाळूत\N_NN एकांतात\N_NN गुंजणार्‍या\V_VM सुरेल\JJ स्वरांच्या\N_NN लहरी\N_NN हवेत\N_NN उमटतात\V_VM .\RD_PUNC
+htd12987	जैसलमेर\N-NNP आणि\CC_CCD बाडमेर\N-NNP क्षेत्रात\N_NN लंगा\N-NNP आणि\CC_CCD मांगणियार\N-NNP जातीचे\N_NN लोक\N_NN कलाकार\N_NN आज\RB संपूर्ण\QT_QTF जगात\N_NN प्रसिद्ध\JJ होत\V_VM आहेत\V_VAUX .\RD_PUNC
+htd12988	राजस्थानच्या\N-NNP प्रेक्षणीय\JJ स्थानांमध्ये\N_NN अलवरजवळ\N-NNP सिलीसेड\N-NNP स्थान\N_NN महाल\N_NN ,\RD_PUNC सरोवर\N_NN ,\RD_PUNC जलपक्ष्यांसाठी\N_NN लोकप्रिय\JJ आहेत\V_VM .\RD_PUNC
+htd12989	राजस्थानचे\N-NNP ``\RD_PUNC बयाना\N-NNP ``\RD_PUNC स्थळ\N_NN ऐतिहासिक\JJ किल्ल्यासाठी\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12990	जैसलमेर\N-NNP जवळ\RB अकल\N-NNP (\RD_SYM लाकूड\N_NN )\RD_SYM जीवाष्म\N_NN उद्यान\N_NN १८०\QT_QTC लाख\N_NN वर्ष\N_NN जुन्या\JJ जीवाष्मांसाठी\N_NN ओळखले\V_VM जाते\V_VAUX .\RD_PUNC
+htd12991	राजस्थानमधील\N-NNP ’\RD_PUNC सम\N-NNP ’\RD_PUNC स्थळ\N_NN वाळूच्या\N_NN टेकड्या\N_NN ,\RD_PUNC उंटावर\N_NN स्वार\N_NN होणे\V_VM तसेच\CC_CCD भू\N_NN आकृती\N_NN अध्ययनकेंद्र\N_NN आहे\V_VM
+htd12992	राजस्थानमधील\N-NNP कांकरोलीमध्ये\N-NNP राजसंद\N-NNP सरोवर\N_NN आणि\CC_CCD मंदिर\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd12993	उदयपूरजवळ\N-NNP एकलिंगजीचे\N-NNP मंदिर\N_NN हे\DM_DMR नाथांनी\N_NN बांधलेले\V_VM हिंदूतीर्थक्षेत्र\N_NN आहे\V_VM .\RD_PUNC
+htd12994	१७३७\QT_QTC मध्ये\N_NST तत्कालीन\N_NN मुघल\N_NN बादशाह\N_NN मुहम्मद\N-NNP शहा\N-NNP याच्या\DM_DMR शासनकाळात\N_NN कालिकाजी\N-NNP मंदिराला\N_NN मराठा\N_NN पेशवे\N-NNP बाजीराव\N-NNP (\RD_SYM प्रथम\QT_QTC )\RD_SYM यांनी\DM_DMR काही\QT_QTF काळासाठी\N_NN काबीज\V_VM केले\V_VM होते\V_VAUX .\RD_PUNC
+htd12995	१७३७\QT_QTC मध्ये\N_NST जेंव्हा\CC_CCS दिल्ली\N-NNP काबीज\V_VM करण्यासाठी\V_VM जबरदस्त\RB हल्ला\N_NN केला\V_VM शहाने\N-NNP त्यांना\DM_DMR रोखण्यासाठी\V_VM लगेच\RB दोन\QT_QTC तुकड्या\N_NN क्रमशः\RB सादत\N-NNP खान\N-NNP आणि\CC_CCD मीर\N-NNP बख्शी\N-NNP यांच्या\DM_DMR नेतृत्वाखाली\N_NN पाठविल्या\V_VM .\RD_PUNC
+htd12996	थंडीत\N_NN फक्त\JJ फिरायला\V_VM नाही\V_VAUX तर\CC_CCS रोमांचक\JJ गोष्टींसाठी\N_NN बरेच\QT_QTF प्रकार\N_NN उपलब्ध\JJ आहेत\V_VM .\RD_PUNC
+htd12997	थंडीची\N_NN सुरुवात\N_NN जेथे\DM_DMD लग्नसराई\N_NN घेऊन\V_VM येते\V_VAUX तेथे\DM_DMD मधुचंद्रासाठी\N_NN जाणार्‍या\V_VM जोडप्यांना\N_NN भेट्वस्तू\N_NN म्हणून\CC_CCD निसर्गाची\N_NN सुंदर\JJ छबी\N_NN सुद्धा\RP_INTF भेट\N_NN मिळते\V_VM .\RD_PUNC
+htd12998	या\DM_DMR ऋतुत\N_NN केवळ\JJ नवीन\JJ लग्न\N_NN झालेल्या\V_VM जोडप्यांसाठी\N_NN फिरायला\V_VM खूप\QT_QTF पर्याय\N_NN उपलब्ध\JJ असतात\V_VM पण\CC_CCD मोठ्या\JJ सुट्टीत\N_NN परिवारासह\N_NN बाहेर\N_NST फिरायला\V_VM आणि\CC_CCD मजा\N_NN करण्यासाठी\V_VM हजार\QT_QTC बहाणे\N_NN आहेत\V_VM .\RD_PUNC
+htd12999	वेगवेगळ्या\JJ भागात\N_NN असलेले\V_VM हवामानाचे\N_NN वैविध्य\N_NN आपल्या\PR_PRP देशाचे\N_NN असे\JJ वैशिष्ट्य\N_NN आहे\V_VM की\CC_CCS जी\PR_PRL केवळ\JJ भारतीयांनाच\N_NN नव्हे\N_NN तर\CC_CCS परदेशी\N_NN पर्यटकांनाही\N_NN येथे\DM_DMD पर्यटनाचे\N_NN मार्ग\N_NN खुले\JJ करते\V_VM .\RD_PUNC
+htd13000	कोठे\DM_DMQ कडाक्याची\JJ थंडी\N_NN असली\V_VM तरी\CC_CCS बर्फाचे\N_NN देखावे\N_NN आणि\CC_CCD रोमाचंक\JJ खेळांच्या\N_NN शौकीनांचा\N_NN जमाव\N_NN असतो\V_VM तर\CC_CCS काही\QT_QTF लोक\N_NN थंडीपासून\N_NN दूर\N_NST कोणत्यातरी\DM_DMQ समुद्रकिनारी\N_NN अथवा\CC_CCD वाळवंटात\N_NN शांतता\N_NN शोधतात\V_VM .\RD_PUNC 

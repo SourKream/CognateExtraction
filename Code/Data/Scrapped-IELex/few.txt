@@ -1,0 +1,159 @@
+80	Hittite	tēpawes			
+81	Tocharian A	tsru			
+82	Tocharian B	totka			
+88	Albanian	PAK		C	
+143	Standard Albanian	disa			
+2	Albanian Sicily	PAK		C	
+4	Albanian Corinth	CA			
+3	Albanian Gheg	PAK		C	
+6	Albanian Tosk	PAK		C	
+110	Ancient Greek	ὀλίγοι	olíɡoi̯	I	
+110	Ancient Greek	παῦρος	páù̯ros	(F)	
+32	Greek	λίγοι	ˈliʝi	I	
+31	Greek Lesbos	LIGOI (M. PL. NOM.)		I	
+129	Classical Armenian	սակաւ	sakaw		
+8	Armenian Eastern	k’ič'	kʰiʧʰ	D	
+7	Armenian Western	KANI			
+128	Avestan	kamna-		E	
+131	Old Persian	kamnā		E	
+136	Sogdian	kβn-		E	
+75	Wakhi	KUM		E	
+9	Baluchi	KHARDE, KHAM		E	
+137	Zazaki	senik		K	
+137	Zazaki	tāy(n)		G	
+137	Zazaki	kemī		E	
+72	Tajik	KAM		E	
+72	Tajik	NOKIFOJA		E	
+54	Persian	KAM		E	
+77	Waziri	LEZH, LEZHKI		A	
+1	Pashto	LEZ		A	
+138	Shughni	andák		Q	
+139	Sarikoli	ilu		T	
+139	Sarikoli	kam		E	
+139	Sarikoli	ʓыl		S	
+52	Ossetic	cysyl	tʃɨsɨl, tʃɨʃɨl	D	
+124	Ossetic Iron	gyccyl	gyccyl	D	
+125	Ossetic Digor	mink'ij	mink'ij	W	
+141	Kata-viri	ɛčok		U	
+105	Vedic Sanskrit	álpās		P	
+41	Khaskura	KAMTI		(E)	
+41	Khaskura	THORAI		J	
+51	Nepali	THOR		J	
+106	Assamese	koto din			
+106	Assamese	kɒm takɒr	kɒm takɒr	(E)	
+106	Assamese	alap dinar		P	
+102	Oriya	ɔḷpɔ	ɔɭpɔ	P	
+10	Bengali	OLPO		P	
+111	Bihari	thōṛek		J	
+144	Magahi	तनी	t̪əni	Y	
+144	Magahi	कम	kəm	(E)	
+104	Marwari	thōṛā		J	
+35	Hindi	THORA		J	
+119	Urdu	تھوڑا، چند	ˈt̪ʰo.ɽə, ʧə̃d̪	J	
+103	Sindhi	thoro		J	
+43	Lahnda	THORE		J	
+53	Punjabi	THORA		J	
+33	Gujarati	THORU		J	
+50	Marathi	wiral	'wiɾəɭ	Z	
+50	Marathi	thoda	'tʰoɖə	J	
+40	Kashmiri	MAINAY		Aa	
+65	Sinhalese	TIKA		J	
+34	Romani Greece	XARNWK		X	
+100	Old Church Slavonic	мало	mɑlɔ	H	
+95	Serbo-Croatian	malo	ˈmâlɔ	H	
+15	Bulgarian	малко	ˈmaɫku	H	
+92	Macedonian	малку	ˈmalku	H	
+60	Russian	мало	'maɫɔ	H	
+55	Polish	mało	ˈmawɔ	H	
+16	Belarusian	мала	ˈmaɫa	H	
+73	Ukrainian	мало	ˈmaɫɔ	H	
+66	Slovak	málo	ˈmaːlɔ	H	
+18	Czech	malo	ˈmaːlɔ	H	
+48	Sorbian Upper	mało	ˈmawɔ	H	
+47	Sorbian Lower	mało	ˈmawɔ	H	
+97	Slovenian	malo	ˈmǎːlɔ	H	
+108	Old Prussian	mazāiz		O	
+44	Latvian	DRUSKU, DAZI		E	
+44	Latvian	mazi		O	
+46	Lithuanian	NEDAUG		E	
+109	Old Norse	fár	faːr	F	
+36	Icelandic	fáir	ˈfauːɪr	F	
+23	Faroese	fáir	ˈfɔaːjɪɹ	F	
+58	Norwegian Riksmal	få	foː	F	
+159	Stavangersk	få(e)	ˈfoː(ə)	F	
+157	Old Swedish	far	faːr	F	
+69	Swedish	få	foː	F	
+71	Swedish Vilhelmina	FA		F	
+70	Swedish Uppland	NAGRA			
+70	Swedish Uppland	FA		F	
+145	Elfdalian	fåer	ˈfɔ̀ːɛr	F	
+20	Danish	få	fɔˀ	F	
+158	Danish Fjolde	ikke mange	iɡə ˈmɑŋə	(V)	
+160	Old Gutnish	fa		F	
+99	Old English	fēawe		F	
+22	English	few	fju:	F	
+26	Frisian	RUSKE			
+21	Dutch	weinig	'wɛinəχ	B	
+24	Flemish	WEINIG		B	
+83	Afrikaans	N PAAR		R	
+83	Afrikaans	WEINIG		B	
+87	Sranan	WEINIKI		B	
+87	Sranan	PIKIN			
+87	Sranan	NO FOELOE			
+126	Old High German	luzzile		E	
+126	Old High German	fōhe		F	
+27	German	wenig	've:nɪç	B	
+86	Pennsylvania Dutch	PAWR		R	
+120	Luxembourgish	wéineg		B	
+121	German Switzerland	weni		B	
+107	Gothic	fawai		F	
+112	Latin	paucī	ˈpau̯kiː	F	
+17	Catalan	poc	pɔk	F	
+17	Catalan	mica	'mikə		
+56	Portuguese	pouco	ˈpo(ou)ku	F	
+68	Spanish	poco	'poko	F	
+61	Sardinian Cagliari	PAGUS		F	
+62	Sardinian Logudoro	PAGOS		F	
+63	Sardinian Nuoro	PAKOS		F	
+85	French Creole Dominica	PE		F	
+76	Walloon	PO		F	
+25	French	peu	pø	F	
+57	Provencal	PAU		F	
+57	Provencal	GAIRE			
+42	Ladin	POCHA		F	
+146	Dolomite Ladino	puoch		F	
+123	Romansh	pauc		F	
+122	Friulian	pôc		F	
+39	Italian	poco	'pɔko	F	
+59	Romanian	puţin	put'sin		
+127	Old Irish	becán	bʹega:n	N	
+127	Old Irish	úath	u:əθ		
+127	Old Irish	úathad	u:əθəð		
+101	Middle Cornish	nebəs	nebəs	M	
+172	Middle Breton	nep meur, nemeur	nep ˈmøːr, neˈmøːr	Ab	
+172	Middle Breton	nebeut	ˈneːbøt	M	
+12	Breton	nebeut	ˈneːbøt	M	
+79	Welsh	ychydig		N	
+38	Irish	beagán		N	
+115	Scottish Gaelic	beagan		N	
+5	[Legacy] Albanian T	DISA			
+5	[Legacy] Albanian T	pak		C, F	
+29	[Legacy] Greek K	OLIGOI		I	
+28	[Legacy] Greek D	LIGOI		I	
+30	[Legacy] Greek Md	MERIKOI			
+30	[Legacy] Greek Md	LIGOI		I	
+64	[Legacy] Serbocroatian	NEKOLIKO		M	
+113	[Legacy] Serbian	malo	mâlo	H	
+49	[Legacy] Macedonian	MALOBROEN		H	
+49	[Legacy] Macedonian	nekolku	ˈnɛkɔlku	M	
+19	[Legacy] Czech E	PAR		R	
+67	[Legacy] Slovenian	MOLO		H	
+67	[Legacy] Slovenian	NEKAJ		H	
+45	[Legacy] Lithuanian O	KELI		L	
+11	[Legacy] Brazilian	POUCOS		F	
+142	[Legacy] German Munich	wenige		B	
+84	[Legacy] French Creole C	PE		F	
+14	[Legacy] Breton St	nebeut	'ne:bœt	M	
+13	[Legacy] Breton Se	NEBET A		M	
+78	[Legacy] Welsh C	YCHYDIG		N	
+37	[Legacy] Irish A	BEAGAN		N	

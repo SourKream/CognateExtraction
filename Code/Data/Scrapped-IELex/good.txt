@@ -1,0 +1,202 @@
+114	Proto-Indo-European	*h₁su-, *h₁ós-u-		S	
+114	Proto-Indo-European	*bʰedró-		Ae	
+80	Hittite	āssus		S	
+133	Luvian	wāsus		T	
+135	Palaic	wasu-		T	
+81	Tocharian A	kāsu		R	
+82	Tocharian B	kartse		R	
+88	Albanian	mirë		C	
+143	Standard Albanian	i, e mirë		C	
+2	Albanian Sicily	mirë		C	
+4	Albanian Corinth	mirë		C	
+3	Albanian Gheg	mirë		C	
+6	Albanian Tosk	mirë		C	
+110	Ancient Greek	ἀγαθός	aɡatʰós	Af	
+110	Ancient Greek	καλός	kalós	(I)	
+110	Ancient Greek	εὐ-	eu̯-	(S)	
+152	Tsakonian	αγαθε		Af	
+152	Tsakonian	καλε		I	
+32	Greek	καλός	kaˈlo̞s	I	
+32	Greek	αγαθός	aɣaˈθos	Af	
+31	Greek Lesbos	KALOS		I	
+129	Classical Armenian	բարի	bari	U	
+129	Classical Armenian	լաւ	law	D	
+8	Armenian Eastern	lav	lɑv	D	
+7	Armenian Western	BARI (PERSON)		U	
+128	Avestan	vaŋhuš		T	
+131	Old Persian	*vahu-		T	
+131	Old Persian	naiba		(W)	
+136	Sogdian	šr		V	
+136	Sogdian	xwp		N	
+75	Wakhi	XUB		(N)	
+75	Wakhi	BUF		Y	
+9	Baluchi	PHUTUR		Z	
+118	Kurdish	rind		Ai	
+118	Kurdish	baş		X	
+118	Kurdish	qenc		Aa	
+137	Zazaki	hol		A	
+137	Zazaki	weš		X	
+137	Zazaki	rind		Ai	
+72	Tajik	XUB		N	
+72	Tajik	HAWZ		M	
+54	Persian	KHUB		N	
+77	Waziri	SHE		V	
+1	Pashto	SA		V	
+138	Shughni	bašānd		X	
+139	Sarikoli	-o čarǰ		Ab	
+52	Ossetic	DZAEBAEX		Ac	
+52	Ossetic	xorz	χorz	M	
+124	Ossetic Iron	χorž	χorž	M	
+125	Ossetic Digor	χʷarz	χʷarz	M	
+141	Kata-viri	lʌstʌ		Ad	
+153	Askunu	mačík		Ah	
+105	Vedic Sanskrit	vásus		T	
+105	Vedic Sanskrit	bhadrá-		(Ae)	
+105	Vedic Sanskrit	sú		(S)	
+41	Khaskura	RAMRO		Aj	
+41	Khaskura	JATI		Q	
+51	Nepali	ACCHA		P	
+51	Nepali	JATI		Q	
+51	Nepali	BHALO		E	
+106	Assamese	hobā		(N)	
+106	Assamese	bhāl		E	
+106	Assamese	uttam		(Ak)	
+102	Oriya	bhɔlɔ	bhɔlɔ	E	
+10	Bengali	bhalo	bʱalo, valo	E	
+111	Bihari	shubh		(Ao)	
+111	Bihari	nik	nik	(An)	
+111	Bihari	barhĩyã	barhĩyã	Al	
+144	Magahi	बढिया	bəɽĩjɑ	Al	
+144	Magahi	निमन	nimən	Am	
+104	Marwari	bhalō		E	
+104	Marwari	accho	accho	P	
+104	Marwari	ʈhik	ʈhik		
+35	Hindi	eccha	ə:t:ʃʰa:	P	
+119	Urdu	اچّھا، بَھلا	ʔəʧʰɑ, bʰəlɑ	E, P	
+103	Sindhi	χūbu		(N)	
+103	Sindhi	suṭhō		Aq	
+103	Sindhi	čaṇo		Ap	
+103	Sindhi	bhalō		E	
+43	Lahnda	CENGA		K	
+53	Punjabi	CENGA		K	
+33	Gujarati	SARU		Ar	
+50	Marathi	tsāŋgla	'tsaŋglə	K	
+40	Kashmiri	KHARA, JAN		J	
+65	Sinhalese	HONDA		As	
+34	Romani Greece	LACHO		P	
+100	Old Church Slavonic	добръ	dɔbrʊ̆	H	
+95	Serbo-Croatian	dobar	ˈdɔ̂bar	H	
+15	Bulgarian	добър	duˈbɤr	H	
+92	Macedonian	добар	ˈdobar	H	
+60	Russian	хороший	xa'rɔʂɨj	At	
+55	Polish	dobry	ˈdɔbrɘ̟	H	
+16	Belarusian	добры	ˈdɔbrɨ	H	
+73	Ukrainian	хороший	xɔˈrɔʂɪj	At	
+66	Slovak	dobrý	ˈdɔbriː	H	
+18	Czech	dobrý	ˈdɔbriː	H	
+48	Sorbian Upper	dobry	ˈdɔbʀɘ̟	H	
+47	Sorbian Lower	dobry	ˈdɔbrɘ̟	H	
+97	Slovenian	dober	ˈdǒːbər	H	
+108	Old Prussian	labs		D	
+44	Latvian	labs		D	
+46	Lithuanian	GERAS		L	
+109	Old Norse	góðr	ɡoːðr	B	
+36	Icelandic	góður	ˈɡ̊ouːðʏr	B	
+23	Faroese	góður	ˈɡ̊ɔuːwʊɹ	B	
+58	Norwegian Riksmal	bra	bɾaː	(Ag)	
+58	Norwegian Riksmal	god	ɡuː	B	
+159	Stavangersk	ɡoe	ˈɡuːə	B	
+159	Stavangersk	bra	bʁɑː	(Ag)	
+157	Old Swedish	godher	ˈɡoːðer	B	
+69	Swedish	god	gu:(d)	B	
+69	Swedish	bra	brɑː	(Ag)	
+71	Swedish Vilhelmina	GO		B	
+70	Swedish Uppland	GOD		B	
+145	Elfdalian	bra	brɑː	(Ag)	
+145	Elfdalian	guoð		B	
+20	Danish	god	g̥oˀ	B	
+158	Danish Fjolde	guo	ɡuo	B	
+160	Old Gutnish	goþr		B	
+161	Gutnish Lau	braar	ˈbrɑːar	(Ag)	
+161	Gutnish Lau	gåur	ɡour	B	
+99	Old English	gōd		B	
+22	English	good	gʊd	B	
+26	Frisian	wol	vol		
+21	Dutch	goed	ɣut	B	
+24	Flemish	GOED		B	
+83	Afrikaans	GOED		B	
+87	Sranan	BOEN		F	
+126	Old High German	guot		B	
+27	German	gut	gu:t	B	
+86	Pennsylvania Dutch	GUUT		B	
+120	Luxembourgish	gutt		B	
+121	German Switzerland	guet		B	
+107	Gothic	gōþs		B	
+107	Gothic	batista		Ae	
+130	Oscan	ualaemom			
+132	Umbrian	cubrar			
+112	Latin	bonus	ˈbonus	F	
+17	Catalan	bo	bɔ	F	
+56	Portuguese	bom	bõ	F	
+68	Spanish	bueno	'bweno	F	
+61	Sardinian Cagliari	BONU		F	
+62	Sardinian Logudoro	BONU		F	
+63	Sardinian Nuoro	BONU		F	
+85	French Creole Dominica	BO		F	
+76	Walloon	BON, BONE		F	
+25	French	bon	bɔ̃	F	
+57	Provencal	BON, ONO		F	
+42	Ladin	BUNA		F	
+146	Dolomite Ladino	bén		F	
+123	Romansh	bein, bien		F	
+122	Friulian	bon		F	
+39	Italian	buono	'bwɔno	F	
+59	Romanian	bun		F	
+74	Vlach	BUNE		F	
+140	Gaulish	manu-/o-			
+140	Gaulish	dagos		O	
+140	Gaulish	matu-		G	
+127	Old Irish	dag	daɣ	(O)	
+127	Old Irish	maith	maθʹ	G	
+149	Old Cornish	da		O	
+149	Old Cornish	mat		G	
+101	Middle Cornish	da	da:	O	
+101	Middle Cornish	mas	ma:z	G	
+148	Old Breton	da		O	
+148	Old Breton	mat		G	
+172	Middle Breton	mat	ˈmaːt	G	
+12	Breton	da		(O)	
+12	Breton	mat	ˈmaːt	G	
+150	Old Welsh	mad		G	
+150	Old Welsh	dag		O	
+79	Welsh	da		O	
+79	Welsh	mad		(G)	
+38	Irish	maith	mˠa, mˠah, mˠaɪ, mˠaɪh	G	
+115	Scottish Gaelic	math	ma:, mah	G	
+147	Manx	mie		G	
+5	[Legacy] Albanian T	mirë	miɹ(ə)	C	
+29	[Legacy] Greek K	KALOS		I	
+28	[Legacy] Greek D	KALOS		I	
+30	[Legacy] Greek Md	KALOS		I	
+64	[Legacy] Serbocroatian	DOBAR		H	
+113	[Legacy] Serbian	dobar	dôbar	H	
+89	[Legacy] Bulgarian P	DOBUR		H	
+49	[Legacy] Macedonian	DOBAR, DOBRO		H	
+49	[Legacy] Macedonian	AREN			
+94	[Legacy] Russian P	DOBRYJ		H	
+93	[Legacy] Polish P	DOBRY		H	
+90	[Legacy] Byelorussian P	DOBRY		H	
+98	[Legacy] Ukrainian P	DOBRYJ		H	
+19	[Legacy] Czech E	DOBRE		H	
+96	[Legacy] Slovak P	DOBRY		H	
+91	[Legacy] Czech P	DOBRY		H	
+67	[Legacy] Slovenian	DOBRO		H	
+45	[Legacy] Lithuanian O	GERAS		L	
+11	[Legacy] Brazilian	BOM		F	
+142	[Legacy] German Munich	gut		B	
+84	[Legacy] French Creole C	BO		F	
+14	[Legacy] Breton St	mat	maːd	G	
+14	[Legacy] Breton St	da		O	
+13	[Legacy] Breton Se	MAT		G	
+78	[Legacy] Welsh C	DA		O	
+37	[Legacy] Irish A	MAITH		G	

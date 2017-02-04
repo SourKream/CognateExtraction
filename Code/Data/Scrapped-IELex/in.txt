@@ -1,0 +1,175 @@
+114	Proto-Indo-European	*h₁en, *h₁en-ter		E	
+80	Hittite	andan		E	
+133	Luvian	ānta		E	
+134	Lycian	ñte		E	
+81	Tocharian A	aṃ		P	
+82	Tocharian B	ne		P	
+88	Albanian	NE		E	
+143	Standard Albanian	në		E	
+2	Albanian Sicily	TE			
+4	Albanian Corinth	NDE		E	
+3	Albanian Gheg	NE		E	
+6	Albanian Tosk	BRENDA		C	
+110	Ancient Greek	ἐν	en	E	
+32	Greek	se, is	se̞, is	G	
+32	Greek	εν	e̞n	E	
+31	Greek Lesbos	MESA		G	
+129	Classical Armenian	ի ~ յ-	i ~ j-	E	
+8	Armenian Eastern	i		(E)	
+8	Armenian Eastern	meǰ	mɛʧʰ	D	
+8	Armenian Eastern	-um	um		
+7	Armenian Western	MECHE		D	
+136	Sogdian	pr		A	
+9	Baluchi	NIANWAN, LAFA, SARA		Q	
+137	Zazaki	-di		N	
+72	Tajik	dar	dær	N	
+72	Tajik	BA			
+54	Persian	DAR		N	
+77	Waziri	KSHE, PA...KSHE		A	
+1	Pashto	PE...KI		A	
+138	Shughni	tar		N	
+139	Sarikoli	dar; paδer		N	
+52	Ossetic	-y	-ɨ	O	
+52	Ossetic	-MAE		D	
+52	Ossetic	- AEJ			
+124	Ossetic Iron	-y	-y	O	
+125	Ossetic Digor	-i	-i	O	
+125	Ossetic Digor	χurfi	χurfi		
+105	Vedic Sanskrit	madhye		(G)	
+105	Vedic Sanskrit	antár		E	
+162	Pāḷī	antara		E	
+41	Khaskura	MA		G	
+51	Nepali	MA		G	
+106	Assamese	bhitɒrɒt	bhitɒrɒt	H	
+102	Oriya	bhitɔre	bhitɔre	H	
+10	Bengali	ONDOR		E	
+111	Bihari	me		G	
+111	Bihari	bhitər	bhitər	H	
+144	Magahi	में	mẽ	G	
+104	Marwari	māṃyaṃ		G	
+104	Marwari	mɛ	mɛ	G	
+35	Hindi	ENDER		E	
+35	Hindi	-me	mẽ	G	
+119	Urdu	اندر	ʔənd̪əɾ	E	
+119	Urdu	میں،	mẽ	G	
+103	Sindhi	andare		E	
+103	Sindhi	mẽ(s)	mẽ(s)	G	
+43	Lahnda	ENDER		E	
+53	Punjabi	ENDER		E	
+33	Gujarati	ENDER		E	
+33	Gujarati	MA		G	
+50	Marathi	-medhe		G	
+50	Marathi	āt	at	I	
+40	Kashmiri	MANZ		G	
+65	Sinhalese	hi atula	œtulə	I	
+34	Romani Greece	ANDRE		E	
+100	Old Church Slavonic	въ	vʊ̆	E	
+95	Serbo-Croatian	u	u	E	
+15	Bulgarian	в(ъв)	v(ɤf)	E	
+92	Macedonian	во	vɔ	E	
+60	Russian	в	v	E	
+55	Polish	w	v	E	
+16	Belarusian	у	u	E	
+73	Ukrainian	в	ʋ	E	
+66	Slovak	v(o)	v(ɔ)	E	
+18	Czech	v(e)	v(ɛ)	E	
+48	Sorbian Upper	w(e)	w(ɛ)	E	
+47	Sorbian Lower	w(e)	w(ɛ)	E	
+97	Slovenian	v	v	E	
+108	Old Prussian	ēn		E	
+44	Latvian	iekš		E	
+46	Lithuanian	į	i:	E	
+109	Old Norse	í	iː	E	
+36	Icelandic	í	iː	E	
+23	Faroese	í	ʊiː	E	
+58	Norwegian Riksmal	i	iː	E	
+159	Stavangersk	i	iː	E	
+157	Old Swedish	i	iː	E	
+69	Swedish	på	po:	(R)	
+69	Swedish	uti	'ʉ:ti	(S)	
+69	Swedish	i	iː, ɪ	E	
+71	Swedish Vilhelmina	INI, I		E	
+70	Swedish Uppland	I		E	
+145	Elfdalian	i	ɪː	E	
+20	Danish	i	i	E	
+158	Danish Fjolde	i	i	E	
+160	Old Gutnish	i		E	
+161	Gutnish Lau	äi	ɛɪ	E	
+99	Old English	in		E	
+22	English	in	ɪn	E	
+26	Frisian	binnen	'bɪnən	E	
+21	Dutch	van	vɑn	(M)	
+21	Dutch	in	ɪn	E	
+21	Dutch	op	ɔp	(L)	
+21	Dutch	naar	nar	(T)	
+21	Dutch	bij	bɛi	(J)	
+24	Flemish	OP		L	
+24	Flemish	BY		J	
+24	Flemish	IN		E	
+83	Afrikaans	IN		E	
+87	Sranan	NA IM			
+126	Old High German	in		E	
+27	German	in	ɪn	E	
+86	Pennsylvania Dutch	IM, IN		E	
+120	Luxembourgish	an		E	
+120	Luxembourgish	dran		E	
+121	German Switzerland	i		E	
+107	Gothic	in		E	
+130	Oscan	-en		E	
+132	Umbrian	-en		E	
+112	Latin	in	in	E	
+17	Catalan	SOBRE			
+17	Catalan	DE		K	
+17	Catalan	a	a	M	
+17	Catalan	dins	dins	E, K	
+17	Catalan	de	də	V	
+56	Portuguese	em	ɐ̃j	E	
+68	Spanish	en	en	E	
+61	Sardinian Cagliari	IN		E	
+62	Sardinian Logudoro	IN		E	
+63	Sardinian Nuoro	IN		E	
+85	French Creole Dominica	A		B	
+76	Walloon	DIVINS		E, K	
+25	French	dans	dɑ̃	E, K	
+57	Provencal	DINS, DEDINS		E, K	
+57	Provencal	EN		E	
+42	Ladin	IN		E	
+146	Dolomite Ladino	in		E	
+123	Romansh	en		E	
+122	Friulian	in		E	
+39	Italian	in	in	E	
+59	Romanian	în	ɨn	E	
+74	Vlach	NEUNDRE		E	
+127	Old Irish	i	i	E	
+101	Middle Cornish	yn	ɪn	E	
+172	Middle Breton	e, en	e, en	E	
+12	Breton	en, e	e, en	E	
+79	Welsh	yn		E	
+38	Irish	i	ɪ	E	
+38	Irish	SA, SANN		(E)	
+115	Scottish Gaelic	ann		E	
+5	[Legacy] Albanian T	NE, BRENDA		C, E	
+29	[Legacy] Greek K	EIS		E	
+28	[Legacy] Greek D	S , MESA		G	
+30	[Legacy] Greek Md	MESA, SE		G	
+64	[Legacy] Serbocroatian	U		E	
+113	[Legacy] Serbian	u		E	
+89	[Legacy] Bulgarian P	V		E	
+49	[Legacy] Macedonian	V, VO		E	
+94	[Legacy] Russian P	V		E	
+93	[Legacy] Polish P	W		E	
+90	[Legacy] Byelorussian P	VA		E	
+98	[Legacy] Ukrainian P	V		E	
+19	[Legacy] Czech E	V, VE		E	
+96	[Legacy] Slovak P	V		E	
+91	[Legacy] Czech P	V		E	
+67	[Legacy] Slovenian	NOTRI			
+45	[Legacy] Lithuanian O	I		E	
+11	[Legacy] Brazilian	NA			
+11	[Legacy] Brazilian	EM		E	
+142	[Legacy] German Munich	in		E	
+84	[Legacy] French Creole C	A		B	
+14	[Legacy] Breton St	e, en	e, ẽ:	E	
+13	[Legacy] Breton Se	E, EN		E	
+78	[Legacy] Welsh C	YN		E	
+37	[Legacy] Irish A	I		E	

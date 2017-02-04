@@ -1,0 +1,165 @@
+114	Proto-Indo-European	*mon-u-		E	
+114	Proto-Indo-European	*g̑ʰes-r(o)-, *g̑ʰes-t(o)-,		C	
+114	Proto-Indo-European	*mar-		E	
+80	Hittite	keššar		C	
+133	Luvian	īssaris		C	
+134	Lycian	izre		C	
+81	Tocharian A	tsar		C	
+82	Tocharian B	ṣar		C	
+88	Albanian	dorë		C	
+143	Standard Albanian	dorë		C	
+2	Albanian Sicily	dorë		C	
+4	Albanian Corinth	dorë		C	
+3	Albanian Gheg	dorë		C	
+6	Albanian Tosk	dorë		C	
+173	Mycenaean Greek	ke-º	kʰer-	C	
+110	Ancient Greek	χείρ	kʰéːr	C	
+152	Tsakonian	χερα		C	
+32	Greek	χερί	ˈçe̞ri	C	
+31	Greek Lesbos	CHERI		C	
+129	Classical Armenian	ձեռն	jeṙn	C	
+8	Armenian Eastern	ձեռք	ʣɛrkʰ	C	
+7	Armenian Western	ձեռք	t͡sʰɛrkʰ	C	
+128	Avestan	zastō		C	
+131	Old Persian	dasta		C	
+136	Sogdian	δst		C, (D)	
+174	Khotanese	dastä	dɐstə	C	
+75	Wakhi	DUST		C, (D)	
+9	Baluchi	DAST		C, (D)	
+118	Kurdish	dest		C, (D)	
+137	Zazaki	dest		C, (D)	
+72	Tajik	dast	dæst	C, (D)	
+54	Persian	dast	dæstʰ	C, (D)	
+77	Waziri	LOS		C, (D)	
+1	Pashto	LAS		C, (D)	
+138	Shughni	x̆ikufta		K	
+138	Shughni	dast, dust		C, (D)	
+139	Sarikoli	δыst		C, (D)	
+52	Ossetic	k'yx	kʲuχ	J	
+124	Ossetic Iron	k'uχ	k'uχ	J	
+125	Ossetic Digor	k'oχ	k'oχ	J	
+154	Vasi-vari	lust		C, (D)	
+153	Askunu	dus, dost		C, (D)	
+153	Askunu	čapāl			
+105	Vedic Sanskrit	hástas		C	
+162	Pāḷī	hattha		C	
+41	Khaskura	HATH		C, (D)	
+51	Nepali	HAT		C, (D)	
+106	Assamese	hāt		C, (D)	
+102	Oriya	hatɔ	hatɔ	C, (D)	
+10	Bengali	hat	ɦat̪	C, (D)	
+111	Bihari	hath	hath	C, (D)	
+144	Magahi	हाथ	hɑt̪ʰ		
+104	Marwari	hāt		C, (D)	
+35	Hindi	hath	ɦaːt̪ʰ	C, (D)	
+119	Urdu	ہاتھ	hɑt̪ʰ	C, (D)	
+103	Sindhi	hathu		C, (D)	
+43	Lahnda	HETH		C, (D)	
+53	Punjabi	HETTH		C, (D)	
+33	Gujarati	NATH			
+50	Marathi	hāt	ɦat	C, (D)	
+40	Kashmiri	ATHA		C, (D)	
+65	Sinhalese	ATA		C, (D)	
+34	Romani Greece	VAS		H	
+100	Old Church Slavonic	рѫка	rɔ̃kɑ	G	
+95	Serbo-Croatian	ruka	ˈrǔːka	G	
+15	Bulgarian	ръка	rəˈka	G	
+92	Macedonian	рака	ˈraka	G	
+60	Russian	рука	ru'ka	G	
+55	Polish	ręka	ˈrɛŋka	G	
+16	Belarusian	рука	ruˈka	G	
+73	Ukrainian	рука	ruˈka	G	
+66	Slovak	ruka	ˈruka	G	
+18	Czech	ruka	ˈruka	G	
+48	Sorbian Upper	ruka	ˈʀuka	G	
+47	Sorbian Lower	ruka	ˈruka	G	
+97	Slovenian	roka	ˈrɔ̂ːka	G	
+108	Old Prussian	rānkan		G	
+44	Latvian	ròka		G	
+46	Lithuanian	ranka	ɾɐŋˈkɐ	G	
+109	Old Norse	ho̜nd	hɔnd	B	
+36	Icelandic	hönd	hœnd̥	B	
+23	Faroese	hond	hɔnd̥	B	
+58	Norwegian Riksmal	hånd	hɔnː	B	
+159	Stavangersk	hånn	hɔnː	B	
+157	Old Swedish	hand	hand	B	
+69	Swedish	hand	hand	B	
+71	Swedish Vilhelmina	HAN		B	
+70	Swedish Uppland	HAND		B	
+145	Elfdalian	nevå	ˈnɛ̀vɔ	A	
+145	Elfdalian	and	ɑnd	B	
+20	Danish	hånd	hʌnˀ	B	
+158	Danish Fjolde	hoand	hoanʲ	B	
+160	Old Gutnish	hand		B	
+161	Gutnish Lau	hand	hand	B	
+99	Old English	hand		B	
+22	English	hand	hænd	B	
+26	Frisian	hân	hɔ:n	B	
+21	Dutch	hand	hɑnt	B	
+24	Flemish	HAND		B	
+83	Afrikaans	HAND		B	
+87	Sranan	HAN, HANOE		B	
+126	Old High German	hant		B	
+27	German	Hand	hant	B	
+86	Pennsylvania Dutch	HONNDT		B	
+120	Luxembourgish	Hand		B	
+121	German Switzerland	hang		B	
+107	Gothic	handus		B	
+130	Oscan	manim		E	
+132	Umbrian	manf		E	
+112	Latin	manus	ˈmanus	E	
+17	Catalan	mà	ma	E	
+56	Portuguese	mão	mɐ̃u	E	
+68	Spanish	mano	'mano	E	
+61	Sardinian Cagliari	MANU		E	
+62	Sardinian Logudoro	MANU		E	
+63	Sardinian Nuoro	MANU		E	
+85	French Creole Dominica	LAME		E	
+76	Walloon	MIN		E	
+25	French	main	mɛ̃	E	
+57	Provencal	man	ma	E	
+42	Ladin	MAUN		E	
+146	Dolomite Ladino	man		E	
+123	Romansh	maun		E	
+122	Friulian	man		E	
+39	Italian	mano	'mano	E	
+59	Romanian	mână	ˈmɨ.nə	E	
+74	Vlach	MYNE		E	
+140	Gaulish	lama		I	
+127	Old Irish	lám	la:ṽ	I	
+149	Old Cornish	lau / lof		I	
+101	Middle Cornish	dorn	dɔrn	F	
+101	Middle Cornish	leuv	lœ:v	I	
+148	Old Breton	durn		F	
+148	Old Breton	lom- / lou-		I	
+172	Middle Breton	dorn, dorn, dourn, dournn	ˈdorn, ˈdurn	F	
+12	Breton	dorn	ˈdɔrn	F	
+150	Old Welsh	lau		I	
+79	Welsh	llaw		I	
+38	Irish	lámh	l̪ˠɑːvˠ, l̪ˠæːw	I	
+115	Scottish Gaelic	làmh	ɫ̪ãːv	I	
+147	Manx	laue		I	
+5	[Legacy] Albanian T	dorë	ˈdɔɾ(ə)	C	
+29	[Legacy] Greek K	CHEIR		C	
+28	[Legacy] Greek D	CHERI		C	
+30	[Legacy] Greek Md	CHERI		C	
+64	[Legacy] Serbocroatian	RUKA		G	
+113	[Legacy] Serbian	ruka	rǔːka	G	
+89	[Legacy] Bulgarian P	RUKA		G	
+49	[Legacy] Macedonian	RAKA		G	
+94	[Legacy] Russian P	RUKA		G	
+93	[Legacy] Polish P	REKA		G	
+90	[Legacy] Byelorussian P	RUKA		G	
+98	[Legacy] Ukrainian P	RUKA		G	
+19	[Legacy] Czech E	RUKA		G	
+96	[Legacy] Slovak P	RUKA		G	
+91	[Legacy] Czech P	RUKA		G	
+67	[Legacy] Slovenian	RAKA		G	
+45	[Legacy] Lithuanian O	RANKA		G	
+11	[Legacy] Brazilian	MAO		E	
+142	[Legacy] German Munich	Hand		B	
+84	[Legacy] French Creole C	LAME		E	
+14	[Legacy] Breton St	do(u)rn	dɔʁn	F	
+13	[Legacy] Breton Se	DORN		F	
+78	[Legacy] Welsh C	LLAW		I	
+37	[Legacy] Irish A	LAMH		I	

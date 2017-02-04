@@ -1,0 +1,173 @@
+114	Proto-Indo-European	*mer-		A	
+80	Hittite	aki			
+133	Luvian	*walati			
+134	Lycian	lati			
+81	Tocharian A	wälläṣtär			
+82	Tocharian B	sruketär			
+88	Albanian	vdes		D	
+143	Standard Albanian	vdes		D	
+2	Albanian Sicily	vdes		D	
+4	Albanian Corinth	vdes		D	
+3	Albanian Gheg	vdes		D	
+6	Albanian Tosk	vdes		D	
+110	Ancient Greek	(ἀπο-)θνῄσκω	(apo-)tʰnɛ́ːjskɔː	D	
+152	Tsakonian	πενακου		D	
+32	Greek	πεθαίνω	pe̞ˈθe̞no̞	D	
+31	Greek Lesbos	PETHAINO		D	
+129	Classical Armenian	մեռանիմ	mɛr-ɑn-i-m	A	
+8	Armenian Eastern	մահանալ	mahanal		
+8	Armenian Eastern	մեռնել	mɛrˈnɛl	A	
+7	Armenian Western	մեռնիլ	mɛrˈnil	A	
+128	Avestan	miriiete		A	
+131	Old Persian	mariyataiy		A	
+136	Sogdian	myr		A	
+75	Wakhi	MERI-		A	
+9	Baluchi	MURTHA		A	
+9	Baluchi	MIRAGH		A	
+118	Kurdish	mirin		A	
+137	Zazaki	merdiš		A	
+72	Tajik	murdan	murdæn	A	
+54	Persian	MORDAN		A	
+77	Waziri	MREL		A	
+1	Pashto	MREL		A	
+138	Shughni	mar		A	
+139	Sarikoli	mir : mɛwg		A	
+52	Ossetic	maelyn	mælɨn	A	
+124	Ossetic Iron	mɐl-	mɐl-	A	
+125	Ossetic Digor	mɐl-	mɐl-	A	
+141	Kata-viri	mɨ̣̃šᴵ-		A	
+154	Vasi-vari	mə/mō		A	
+153	Askunu	mŕ-		A	
+105	Vedic Sanskrit	mriyátē		A	
+162	Pāḷī	marati		A	
+41	Khaskura	MARNU, BITNU		A	
+51	Nepali	MARNU		A	
+106	Assamese	mar-	mar-	A	
+102	Oriya	mɔr-	mɔr-	A	
+10	Bengali	MORA		A	
+111	Bihari	mərəb	mərəb	A	
+144	Magahi	मरना	mərnɑ	A	
+151	Bhojpuri	mar		A	
+104	Marwari	mar-		A	
+35	Hindi	merna	mərna	A	
+119	Urdu	مرنا	məɾnə	A	
+103	Sindhi	mar-aṇu		A	
+43	Lahnda	MEREN		A	
+53	Punjabi	MERNA		A	
+33	Gujarati	MERWU		A	
+50	Marathi	marne	məɾ'ɳe	A	
+40	Kashmiri	MARUN		A	
+65	Sinhalese	MARENAWA		A	
+34	Romani Greece	MERAV		A	
+100	Old Church Slavonic	ѹмрѣти	umræti	A	
+95	Serbo-Croatian	umirati	ˈǔmirati	A	
+15	Bulgarian	умирам	uˈmirəm	A	
+92	Macedonian	умирати	ˈumiram	A	
+60	Russian	умирать	umʲi'ratʲ	A	
+55	Polish	umierać	uˈmjɛraʨ	A	
+16	Belarusian	паміраць	pamʲiˈratsʲ	A	
+73	Ukrainian	умирати	umɪˈratɪ	A	
+66	Slovak	umierať	ˈumiɛrac	A	
+18	Czech	umírat	ˈumiːrat	A	
+48	Sorbian Upper	mrěć	mʀɪtʃ	A	
+47	Sorbian Lower	mrěś	mrʲɪɕ	A	
+97	Slovenian	mreti	ˈmrěːti	A	
+108	Old Prussian	aulāut			
+44	Latvian	mir̃st		A	
+46	Lithuanian	mirti	ˈmʲiɾʲtʲɪ	A	
+46	Lithuanian	DVESTI			
+109	Old Norse	deyja	ˈdɛyja	B	
+109	Old Norse	andask	ˈandask	(F)	
+36	Icelandic	deyja	ˈd̥eiːja	B	
+36	Icelandic	andast	ˈand̥ast	F	
+23	Faroese	andast	ˈand̥ast	F	
+23	Faroese	doyggja	ˈd̥ɔd̥ʒːa	B	
+58	Norwegian Riksmal	dø	døː	B	
+159	Stavangersk	döï, dø	dœɪ, døː	B	
+157	Old Swedish	döia	ˈdøjːa	B	
+69	Swedish	dö	dø:	B	
+71	Swedish Vilhelmina	DO		B	
+70	Swedish Uppland	DO		B	
+145	Elfdalian	däa	ˈdæ̀ːɑ	B	
+20	Danish	dø	d̥øˀ	B	
+158	Danish Fjolde	dyø	dyø	B	
+160	Old Gutnish	doya		B	
+161	Gutnish Lau	dåi	doɪ	B	
+99	Old English	stierfþ		E	
+22	English	to die	daɪ	(B)	
+26	Frisian	dea	dɪ.ə	B	
+26	Frisian	FORSTJERRE		E	
+21	Dutch	sterven	'stɛrvə(n)	E	
+21	Dutch	doodgaan		B	
+24	Flemish	STERVEN		E	
+83	Afrikaans	STERF, STERWE		E	
+83	Afrikaans	DOODGAAN		B	
+87	Sranan	DEDE		B	
+126	Old High German	touwit			
+126	Old High German	stirbit		E	
+27	German	sterben	'ʃtɛrbn̩	E	
+86	Pennsylvania Dutch	SCHTAAREVE		E	
+120	Luxembourgish	stierwen		E	
+121	German Switzerland	schtärbe		E	
+107	Gothic	gadauþniþ		B	
+107	Gothic	gaswiltiþ			
+112	Latin	morī	ˈmoriː	A	
+17	Catalan	morir	mu'ri	A	
+56	Portuguese	morrer	muˈʀeɾ	A	
+68	Spanish	morir	mo'ɾiɾ	A	
+61	Sardinian Cagliari	MORRI		A	
+62	Sardinian Logudoro	MORRERE		A	
+63	Sardinian Nuoro	MORRERE		A	
+85	French Creole Dominica	MO		A	
+76	Walloon	MORI		A	
+25	French	mourir	muʀiʀ	A	
+57	Provencal	DEBANA		A	
+57	Provencal	MOURI		A	
+42	Ladin	MORIR, SMURIR		A	
+146	Dolomite Ladino	crepèr			
+146	Dolomite Ladino	morì		A	
+123	Romansh	murir		A	
+123	Romansh	pirir			
+122	Friulian	murî		A	
+39	Italian	morire	mo'rire	A	
+59	Romanian	a muri	a muˈri	A	
+74	Vlach	MURI ("HE DIED")		A	
+127	Old Irish	at-baill	adˈbalʹlʹ		
+101	Middle Cornish	merwel	'mɛrwɛl	A	
+101	Middle Cornish	murul		(A)	
+101	Middle Cornish	firwy			
+101	Middle Cornish	tremene			
+172	Middle Breton	meruell, meruel	ˈmervǝl	A	
+12	Breton	mervel	ˈmɛrvɛl	A	
+79	Welsh	marw		A	
+38	Irish	bás (nn.)		G	
+38	Irish	cailleadh		(C)	
+38	Irish	do·luid			
+115	Scottish Gaelic	faigh bas		G	
+115	Scottish Gaelic	caochladh		(C)	
+147	Manx	baase y gheddyn		G	
+5	[Legacy] Albanian T	vdes		D	
+29	[Legacy] Greek K	APOTHNESKO		D	
+28	[Legacy] Greek D	PETHAINO		D	
+30	[Legacy] Greek Md	PETHAINO, PSOFO		D	
+64	[Legacy] Serbocroatian	UMRETI		A	
+113	[Legacy] Serbian	umreti	ǔmreːti	A	
+89	[Legacy] Bulgarian P	MRAM		A	
+49	[Legacy] Macedonian	UMRE		A	
+94	[Legacy] Russian P	MERET		A	
+93	[Legacy] Polish P	UMRZEC		A	
+90	[Legacy] Byelorussian P	MERCI		A	
+98	[Legacy] Ukrainian P	MERTY		A	
+19	[Legacy] Czech E	UMRIT		A	
+19	[Legacy] Czech E	SKAPAT		A	
+96	[Legacy] Slovak P	MRET		A	
+91	[Legacy] Czech P	MRITI		A	
+67	[Legacy] Slovenian	UMRT		A	
+45	[Legacy] Lithuanian O	MIRTI		A	
+11	[Legacy] Brazilian	MORRER		A	
+142	[Legacy] German Munich	sterben		E	
+84	[Legacy] French Creole C	MO		A	
+14	[Legacy] Breton St	mervel	'mɛrvɛl	A	
+13	[Legacy] Breton Se	MARUEIN		A	
+78	[Legacy] Welsh C	MARW		A	
+37	[Legacy] Irish A	BAS D'FHAGHAIL		G	

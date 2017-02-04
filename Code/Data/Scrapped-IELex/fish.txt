@@ -1,0 +1,149 @@
+114	Proto-Indo-European	*dʰg̑ʰu-H-		D	
+114	Proto-Indo-European	*pisk-, *peisk-		B	
+80	Hittite	parhus			
+82	Tocharian B	laks			
+88	Albanian	peshk		(B)	
+143	Standard Albanian	peshk		(B)	
+2	Albanian Sicily	peshk		(B)	
+4	Albanian Corinth	peshk		(B)	
+3	Albanian Gheg	peshk		(B)	
+6	Albanian Tosk	peshk		(B)	
+110	Ancient Greek	ἰχθῦς	ikʰtʰy̑ːs	D	
+152	Tsakonian	ψάρι		H	
+32	Greek	ψάρι	ˈpsari	H	
+31	Greek Lesbos	PSARI		H	
+129	Classical Armenian	ձուկն		D	
+8	Armenian Eastern	ձուկ	d͡zuk	D	
+7	Armenian Western	ձուկ	t͡sug	D	
+128	Avestan	masiiō		E	
+136	Sogdian	kp’		A	
+75	Wakhi	KUP		A	
+9	Baluchi	MAHI		(E)	
+118	Kurdish	masî		E	
+137	Zazaki	māse		E	
+72	Tajik	moxi	mɔːhi:	E	
+54	Persian	mahi	mɒːhiː	E	
+1	Pashto	KAB		A	
+138	Shughni	mōyi		(E)	
+139	Sarikoli	muyi		(E)	
+52	Ossetic	kaesag	kæsaɡ	F	
+124	Ossetic Iron	kɐšag	kɐšag	F	
+125	Ossetic Digor	kɐsalgɐ	kɐsalgɐ	F	
+141	Kata-viri	omʌt͡sʌ		E	
+154	Vasi-vari	twā-misü		E	
+153	Askunu	mōċ		E	
+105	Vedic Sanskrit	mátsyas		E	
+162	Pāḷī	maccha		E	
+41	Khaskura	MACHHA		E	
+51	Nepali	MACHO		E	
+106	Assamese	mas	mas	E	
+102	Oriya	machɔ	machɔ	E	
+10	Bengali	mac	mɑtʃʰ, mɑs	E	
+111	Bihari	mãch	mãch	E	
+144	Magahi	मछरी	məcʰəri	E	
+144	Magahi	मछली	məcʰli	(E)	
+104	Marwari	məchəli	məchəli	E	
+35	Hindi	MECHLI		E	
+119	Urdu	مچھلی	məʧʰli	E	
+103	Sindhi	mačhu		E	
+43	Lahnda	MECHLI		E	
+53	Punjabi	MECCHI		E	
+33	Gujarati	MACHELI		E	
+50	Marathi	māsā	'masa	E	
+40	Kashmiri	GAD		I	
+65	Sinhalese	MALU		E	
+34	Romani Greece	MACHO		E	
+100	Old Church Slavonic	рыба	rɯbɑ	G	
+95	Serbo-Croatian	riba	ˈrîba	G	
+15	Bulgarian	риба	ˈribə	G	
+92	Macedonian	риба	ˈriba	G	
+60	Russian	рыба	'rɨba	G	
+55	Polish	ryba	ˈrɘ̟ba	G	
+16	Belarusian	рыба	ˈrɨba	G	
+73	Ukrainian	риба	ˈrɪba	G	
+66	Slovak	ryba	ˈriba	G	
+18	Czech	ryba	ˈrɪba	G	
+48	Sorbian Upper	ryba	ˈʀɘ̟ba	G	
+47	Sorbian Lower	ryba	ˈrɘ̟ba	G	
+97	Slovenian	riba	ˈrǐːba	G	
+108	Old Prussian	suckans		D	
+44	Latvian	zivs		D	
+46	Lithuanian	ZUVIS		D	
+109	Old Norse	fiskr	fiskr	B	
+36	Icelandic	fiskur	ˈfɪskʏr	B	
+23	Faroese	fiskur	ˈfɪskʊɹ	B	
+58	Norwegian Riksmal	fisk	fɪsk	B	
+159	Stavangersk	fisk	fɪsk	B	
+157	Old Swedish	fisker	ˈfisker	B	
+69	Swedish	fisk	fisk	B	
+71	Swedish Vilhelmina	FISK		B	
+70	Swedish Uppland	FISK		B	
+145	Elfdalian	fisk	fɪsk	B	
+20	Danish	fisk	fesg̥ʰ	B	
+158	Danish Fjolde	fesk	fæsɡ	B	
+160	Old Gutnish	fiscr		B	
+161	Gutnish Lau	fisk	fɪsk	B	
+99	Old English	fisc		B	
+22	English	fish	fɪʃ	B	
+26	Frisian	fisk	fɪsk	B	
+21	Dutch	vis	vɪs	B	
+24	Flemish	VISCH		B	
+83	Afrikaans	VIS		B	
+87	Sranan	FISI		B	
+126	Old High German	fisc		B	
+27	German	Fisch	fɪʃ	B	
+86	Pennsylvania Dutch	FISCH		B	
+120	Luxembourgish	Fësch		B	
+121	German Switzerland	fisch		B	
+107	Gothic	fisks		B	
+112	Latin	piscis	ˈpiskis	B	
+17	Catalan	peix	peʃ	B	
+56	Portuguese	peixe	ˈpɐiʃɨ	B	
+68	Spanish	pescado	pes'kaðo	B	
+68	Spanish	pez	peθ	B	
+61	Sardinian Cagliari	PISSI		B	
+62	Sardinian Logudoro	PISCHE		B	
+63	Sardinian Nuoro	PISKE		B	
+85	French Creole Dominica	PWESO		B	
+76	Walloon	PEHON		B	
+25	French	poisson	pwasɔ̃	B	
+57	Provencal	PEIS, PEISSOUN		B	
+42	Ladin	PESCH		B	
+146	Dolomite Ladino	pes, peš		B	
+123	Romansh	pèsch		B	
+122	Friulian	pes		B	
+39	Italian	pesce	'peʃʃe	B	
+59	Romanian	pește	ˈpeʃte	B	
+74	Vlach	PEASTE		B	
+127	Old Irish	íasc	i:əsk	B	
+101	Middle Cornish	pysk	pɪ:sk	(B), C	
+172	Middle Breton	pesq, pescq	ˈpesk	B, C	
+12	Breton	pesk	ˈpesk	(B), C	
+79	Welsh	pysg		(B), C	
+38	Irish	iasc		B	
+115	Scottish Gaelic	iasg		B	
+147	Manx	eeast		B	
+5	[Legacy] Albanian T	peshk	pɛʃk	(B)	
+29	[Legacy] Greek K	ICHTHUS		D	
+28	[Legacy] Greek D	PSARI		H	
+30	[Legacy] Greek Md	PSARI		H	
+64	[Legacy] Serbocroatian	RIBA		G	
+113	[Legacy] Serbian	riba	rîba	G	
+89	[Legacy] Bulgarian P	RIBA		G	
+49	[Legacy] Macedonian	RIBA		G	
+94	[Legacy] Russian P	RYBA		G	
+93	[Legacy] Polish P	RYBA		G	
+90	[Legacy] Byelorussian P	RYBA		G	
+98	[Legacy] Ukrainian P	RYBA		G	
+19	[Legacy] Czech E	RIBA		G	
+96	[Legacy] Slovak P	RYBA		G	
+91	[Legacy] Czech P	RYBA		G	
+67	[Legacy] Slovenian	RIBA		G	
+45	[Legacy] Lithuanian O	ZUVIS		D	
+11	[Legacy] Brazilian	peixe	ˈpe(ei)ʃi	B	
+142	[Legacy] German Munich	Fisch		B	
+84	[Legacy] French Creole C	PWESO		B	
+14	[Legacy] Breton St	pesk	pesk	(B), C	
+13	[Legacy] Breton Se	PESK		(B), C	
+78	[Legacy] Welsh C	PISGODYN		(B), C	
+37	[Legacy] Irish A	IASC		B	

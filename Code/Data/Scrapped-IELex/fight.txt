@@ -1,0 +1,197 @@
+80	Hittite	hullezzi			
+134	Lycian	zxxati			
+82	Tocharian B	witāre			
+88	Albanian	LUFTOJ		(W)	
+143	Standard Albanian	luftoj		(W)	
+2	Albanian Sicily	ZEXEM		R	
+4	Albanian Corinth	LEKSEM			
+3	Albanian Gheg	LUFTOJ		(W)	
+6	Albanian Tosk	ZIEM		R	
+6	Albanian Tosk	LEFTON		(W)	
+110	Ancient Greek	μάχομαι	mákʰomai̯	Ak	
+32	Greek	παλεύω	paˈle̞vo̞	K	
+31	Greek Lesbos	POLEMO		K	
+129	Classical Armenian	մարտնչիմ	martnč‘im		
+129	Classical Armenian	պատերազմիմ	paterazmim		
+8	Armenian Eastern	martnč‘el			
+8	Armenian Eastern	gr'iv			
+8	Armenian Eastern	PAYK`AR			
+8	Armenian Eastern	kṙvel	kərˈvɛl	L	
+7	Armenian Western	GURVIL		L	
+128	Avestan	pərətaite		T	
+128	Avestan	yūiδiieiti		S	
+131	Old Persian	-ǰantiy		Ab	
+136	Sogdian	’’x’s		Aa	
+75	Wakhi	JUNG TSER-		(Aj)	
+9	Baluchi	MIRAGH, MIRATHA		Ac	
+72	Tajik	CANG KARDAN, MUBORIZA KARDAN		Aj	
+54	Persian	JANGIDAN (DA'VA KARDAN)		Aj	
+77	Waziri	JANG, JAGGARRA BALWA		(Aj)	
+1	Pashto	DZANGEDEL		(Aj)	
+138	Shughni	qastīn anjīvdōw		Ad	
+139	Sarikoli	x̆uǰ čɛygɛw		Ae	
+52	Ossetic	tox kaenyn	toχ kænɨn	E	
+124	Ossetic Iron	toχ kɐn-	toχ kɐn-	E	
+125	Ossetic Digor	toχ kɐn-	toχ kɐn-	E	
+105	Vedic Sanskrit	yúdhyati		S	
+162	Pāḷī	yodheti		S	
+41	Khaskura	LARNU		D	
+51	Nepali	JUJHNU		S	
+51	Nepali	LARNU		D	
+106	Assamese	zuz	zuz	S	
+102	Oriya	lɔṛh-	lɔɽh-	D	
+102	Oriya	ǰuddhɔ kɔriba	ǰuddhɔ kɔriba	S	
+10	Bengali	LORA		D	
+111	Bihari	lərəb	lərəb	D	
+144	Magahi	लडना	ləɽnɑ	D	
+104	Marwari	leɽ-ai	leɽ-ai	D	
+35	Hindi	LERNA		D	
+119	Urdu	لڑنا	ləɽnə	D	
+103	Sindhi	hathu		Ag	
+43	Lahnda	LEREN		D	
+53	Punjabi	LERNA		D	
+33	Gujarati	LEREWU		D	
+50	Marathi	ladhne	ləɖʰ'ɳe	D	
+40	Kashmiri	LADUN		D	
+65	Sinhalese	SANDU		Ah	
+65	Sinhalese	KARANWA		Ai	
+34	Romani Greece	čaládol		C	
+100	Old Church Slavonic	брати cѧ	brɑti sɛ̃	H	
+95	Serbo-Croatian	boriti se	ˈbɔ̌riti sɛ	H	
+15	Bulgarian	бо̀ря се	ˈbɔrʲə sɛ	H	
+92	Macedonian	бори се	ˈbori sɛ	H	
+60	Russian	драться	'dratʲsʲa	(Al)	
+60	Russian	бороться	bɔˈrɔtʲsʲa	H	
+55	Polish	walczyć	ˈvaltʂɘ̟tɕ	Am	
+55	Polish	bić się	ˈbitɕ ɕɛ(ɰ̃)	(G)	
+16	Belarusian	біцца	ˈbitstsa	(G)	
+16	Belarusian	змагацца	zmaˈɣatsta	An	
+73	Ukrainian	боротися	bɔˈrɔtɪsʲa	H	
+66	Slovak	bojovať	ˈbɔjɔvac	G	
+66	Slovak	biť sa	bic sa	(G)	
+18	Czech	bojovat	ˈbɔjɔvat	G	
+18	Czech	zápasit	ˈzapasit	Ap	
+18	Czech	bít se	biːt sɛ	(G)	
+48	Sorbian Upper	bić so	ˈbitʃ sɔ	(G)	
+48	Sorbian Upper	wojować	ˈwɔjo.atʃ	Ao	
+47	Sorbian Lower	biś se	ˈbiɕ sɛ	(G)	
+47	Sorbian Lower	wójowaś	ˈwɘ̟jowaɕ	Ao	
+97	Slovenian	bojevati se	bɔjɛˈvǎːti sɛ	G	
+108	Old Prussian	ūlint			
+44	Latvian	cìnâs		V	
+44	Latvian	kaûjas		M	
+44	Latvian	SISTIES			
+46	Lithuanian	KOVOTI		M	
+109	Old Norse	stríða	ˈstriːða	(N)	
+109	Old Norse	slásk	slaːsk	Q	
+109	Old Norse	vega	ˈveɣa	(P)	
+109	Old Norse	berjask	ˈberjask	(H)	
+36	Icelandic	vega	ˈvɛːɣa	(P)	
+36	Icelandic	stríða	ˈstriːða	(N)	
+36	Icelandic	berjast	ˈb̥ɛrjast	H	
+36	Icelandic	slást	ˈstlaust	Q	
+23	Faroese	sláast	ˈslo̜ːast	Q	
+23	Faroese	striða(st)	ˈstɹiːja(st)	(N)	
+23	Faroese	berjast	ˈb̥ɛɹjast	H	
+58	Norwegian Riksmal	kjempe	ˈçɛ̀mpə	(I)	
+58	Norwegian Riksmal	stri(de)	ˈstɾiː(də)	(N)	
+58	Norwegian Riksmal	slåss	ʃlɔsː	Q	
+159	Stavangersk	slåst	slɔst	Q	
+159	Stavangersk	fekta	ˈfɛ̀kta	(B)	
+157	Old Swedish	stridha	ˈstriːða	(N)	
+157	Old Swedish	kampa	ˈkampa	(I)	
+157	Old Swedish	slas	slaːs	Q	
+157	Old Swedish	fäkta	ˈfækta	(B)	
+69	Swedish	slåss	slɔsː	Q	
+69	Swedish	kämpa	ˈɕɛ̀mpa	(I)	
+69	Swedish	strida	ˈstrì:da	(N)	
+71	Swedish Vilhelmina	SLAS  SLOS		Q	
+70	Swedish Uppland	SLASS		Q	
+70	Swedish Uppland	FAKTA		B	
+145	Elfdalian	raivas	ˈrɑ̀ɪvɑs	Af	
+145	Elfdalian	slå'ss	ˈslɔːsː	Q	
+20	Danish	stride	ˈsd̥ʁiːðə	(N)	
+20	Danish	kæmpe	ˈg̥ʰɛmb̥ə	(I)	
+20	Danish	slås	slʌs	Q	
+158	Danish Fjolde	strii	sdɹiː	(N)	
+158	Danish Fjolde	sloases	ˈsloasəs	Q	
+160	Old Gutnish	berias		H	
+161	Gutnish Lau	slas	slɑːs	Q	
+161	Gutnish Lau	sträidä	ˈstrɛɪdɛ	(N)	
+161	Gutnish Lau	kämp'	kɛmp	(I)	
+99	Old English	wīgþ		P	
+99	Old English	fieht		B	
+22	English	to fight	faɪt	B	
+26	Frisian	deilje	'dailjə, 'dɛiljə		
+21	Dutch	vechten	'vɛχtə(n)	B	
+24	Flemish	VECHTEN		B	
+83	Afrikaans	VEG		B	
+87	Sranan	FETI		B	
+126	Old High German	fihtit		B	
+27	German	kämpfen	'kɛmp͜fn̩	I	
+86	Pennsylvania Dutch	FECHT		B	
+120	Luxembourgish	streiden		N	
+121	German Switzerland	kämpfe		I	
+107	Gothic	weihiþ		P	
+107	Gothic	*badu			
+112	Latin	pugnāre	pugˈnaːre	Y	
+17	Catalan	LLUYTAR		W	
+17	Catalan	combatre	kum'batrə	X	
+17	Catalan	bregar	brə'ɣa		
+17	Catalan	batallar	bətə'ʎa	X	
+56	Portuguese	lutar	luˈtaɾ	W	
+56	Portuguese	COMBATER		X	
+56	Portuguese	PELEJAR			
+68	Spanish	BATALLAR		(X)	
+68	Spanish	COMBATIR		(X)	
+68	Spanish	pelear	pele'aɾ	U	
+61	Sardinian Cagliari	CERTAI			
+62	Sardinian Logudoro	CUMBATTERE		X	
+63	Sardinian Nuoro	GERRARE			
+85	French Creole Dominica	GUME		J	
+76	Walloon	SI PINGHI		Y	
+76	Walloon	SI BATE, SI K'BATE		X	
+25	French	se battre	sə batʀ	X	
+57	Provencal	SE BATRE, CO		X	
+42	Ladin	CUMBATTER		X	
+146	Dolomite Ladino	combate		X	
+123	Romansh	lutgar		W	
+122	Friulian	lotâ		W	
+39	Italian	combattere	kom'battere	X	
+59	Romanian	A (SE) BATE		X	
+59	Romanian	a lupta		W	
+127	Old Irish	fichid	ɸʹixʹəðʹ	B	
+101	Middle Cornish	omladh	'ɔmlað	O	
+172	Middle Breton	cannaff, canaff	ˈkanːaṽ	F	
+12	Breton	kannañ	ˈkãnːã	F	
+79	Welsh	ymladd		O	
+38	Irish	troid		Z	
+38	Irish	cathaigh			
+38	Irish	IOMBUAILIM			
+115	Scottish Gaelic	sabaid			
+5	[Legacy] Albanian T	ME LEFTUAR		(W)	
+29	[Legacy] Greek K	POLEMO		K	
+28	[Legacy] Greek D	POLEMAO		K	
+30	[Legacy] Greek Md	PALEUO, POLEMO		K	
+64	[Legacy] Serbocroatian	BORITI SE		H	
+113	[Legacy] Serbian	bojevati		H	
+113	[Legacy] Serbian	tući	tûːtɕi		
+113	[Legacy] Serbian	boriti (se)		H	
+89	[Legacy] Bulgarian P	BOR A SE		H	
+49	[Legacy] Macedonian	STEPA			
+94	[Legacy] Russian P	BOROT S A		H	
+93	[Legacy] Polish P	WOJOWAC		A	
+90	[Legacy] Byelorussian P	VAJAVAC		A	
+98	[Legacy] Ukrainian P	BOROTYS A		H	
+19	[Legacy] Czech E	BITSA		G	
+96	[Legacy] Slovak P	BORIT SA		H	
+91	[Legacy] Czech P	BOJOVATI		G	
+67	[Legacy] Slovenian	TJEPES			
+45	[Legacy] Lithuanian O	MUSTIS			
+11	[Legacy] Brazilian	COMBATER		X	
+142	[Legacy] German Munich	kämpfen		I	
+84	[Legacy] French Creole C	GUME		J	
+14	[Legacy] Breton St	EN EM GANNAN		F	
+13	[Legacy] Breton Se	EMGANNEIN		F	
+78	[Legacy] Welsh C	YMLADD		O	
+37	[Legacy] Irish A	TROID		Z	

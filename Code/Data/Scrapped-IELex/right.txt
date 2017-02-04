@@ -1,0 +1,182 @@
+80	Hittite	āra		B	
+88	Albanian	DREJT		(E)	
+143	Standard Albanian	i, e drejtë		(E)	
+2	Albanian Sicily	LIK ("TRUE", NOT "EXACT", "JUST")			
+4	Albanian Corinth	DREK		(E)	
+3	Albanian Gheg	DREJT		(E)	
+6	Albanian Tosk	DREK, IDREJTE		(E)	
+110	Ancient Greek	ὀρθός	ortʰós	F	
+32	Greek	σωστός	so̞ˈsto̞s	N	
+31	Greek Lesbos	SOSTOS		N	
+129	Classical Armenian	ճշմարիտ	čšmarit		
+129	Classical Armenian	ուղիղ	owłił	(R)	
+129	Classical Armenian	ճիշդ	čišd		
+8	Armenian Eastern	ułił		R	
+8	Armenian Eastern	čšmarit			
+8	Armenian Eastern	čišt			
+7	Armenian Western	SHIDAG			
+128	Avestan	ərəšuuō		B	
+131	Old Persian	rāsta		D	
+136	Sogdian	δšn		T	
+75	Wakhi	BUF, BEROBER		G	
+75	Wakhi	WERTS, DURUST		D	
+9	Baluchi	RAST		D	
+137	Zazaki	rāšt		D	
+137	Zazaki	doγrī		Aa	
+72	Tajik	ODILONA, BOINSOFONA		(Ab)	
+54	Persian	DOROST		S	
+77	Waziri	SAHI		A	
+1	Pashto	SAM		A	
+138	Shughni	māqūl		(P)	
+138	Shughni	dirust		(S)	
+139	Sarikoli	tuɣri		Aa	
+139	Sarikoli	dыrыst		(S)	
+52	Ossetic	rast	rast	D	
+124	Ossetic Iron	rašt	rašt	D	
+125	Ossetic Digor	rast	rast	D	
+141	Kata-viri	dʌčɪn		T	
+105	Vedic Sanskrit	r̥jús		(C)	
+105	Vedic Sanskrit	r̥tás		B	
+162	Pāḷī	utu		B	
+41	Khaskura	THIK		H	
+51	Nepali	THIK		H	
+106	Assamese	thik		H	
+106	Assamese	xuddhɒ	xuddhɒ		
+102	Oriya	(sɔ)ṭhik	(sɔ)ʈhik	H	
+10	Bengali	THIK		H	
+111	Bihari	ʈhick	ʈhick	H	
+144	Magahi	ठीक	tʰik	H	
+104	Marwari	sawəɭ	sawəɭ		
+35	Hindi	THIK		H	
+119	Urdu	درُست،	d̪ɾust	(D)	
+119	Urdu	صحیح	səhih	(Ac)	
+119	Urdu	ٹھیک	ʈʰik	H	
+103	Sindhi	dursu		(D)	
+43	Lahnda	THIK		H	
+53	Punjabi	THIK		H	
+33	Gujarati	SACU, KHERU		A	
+50	Marathi	barobar	bə'ɾobəɾ	(G)	
+50	Marathi	thik		H	
+50	Marathi	khara	'kʰəɾə	W	
+50	Marathi	yogya	'jogjə		
+65	Sinhalese	HARI			
+34	Romani Greece	TAMAMI		(U)	
+100	Old Church Slavonic	правъ	prɑvʊ̆	K	
+95	Serbo-Croatian	ispravan	ˈîspraːvan	K	
+95	Serbo-Croatian	točan	ˈtɔ̂tʃan	Ad	
+15	Bulgarian	правилен	ˈpravilɘn	K	
+92	Macedonian	правилен	ˈpravilɛn	K	
+60	Russian	правильный	'pravʲilʲnɨj	K	
+55	Polish	poprawny	pɔˈpravnɘ̟	K	
+16	Belarusian	правільны	ˈpravʲilʲnɨ	K	
+73	Ukrainian	правильний	ˈpravɪlʲnɪj	K	
+66	Slovak	správny	ˈspraːvni	K	
+18	Czech	správný	ˈspraːvniː	K	
+48	Sorbian Upper	prawy	ˈpʀawɘ̟	K	
+47	Sorbian Lower	pšawy	ˈpʂawɘ̟	K	
+97	Slovenian	prav	praw	K	
+108	Old Prussian	tickars			
+44	Latvian	pareĩzs		I	
+46	Lithuanian	TAISYKLINGAS		Q	
+109	Old Norse	réttr	reːtːr	C	
+36	Icelandic	réttur	ˈrjɛʰtːʏr	C	
+23	Faroese	rættur	ˈɹaʰtːʊɹ	C	
+58	Norwegian Riksmal	rett	rɛtː	C	
+159	Stavangersk	rette	ˈʁɛtːə	C	
+157	Old Swedish	rätter	ˈrætːer	C	
+69	Swedish	riktig	ˈrɪ̀ktɪɡ	(C)	
+69	Swedish	rätt	rɛtː	C	
+71	Swedish Vilhelmina	rätt	rɛt	C	
+70	Swedish Uppland	rätt	rɛt	C	
+145	Elfdalian	rett	rɛtː	C	
+20	Danish	ret	ʁad̥ʰ	C	
+158	Danish Fjolde	reæt	ɹeæd	C	
+160	Old Gutnish	rētr		C	
+161	Gutnish Lau	retar	ˈreːtar	C	
+99	Old English	riht (?)		C	
+22	English	right	raɪt	C	
+21	Dutch	ɡoed	ɣut	V	
+21	Dutch	recht	rɛχt	(C)	
+21	Dutch	juist	jœyst	(L)	
+21	Dutch	echt	ɛχt	(Y)	
+21	Dutch	waar	war	(X)	
+21	Dutch	rechtmatig	rɛχt'matəɣ	(C)	
+24	Flemish	GOED			
+83	Afrikaans	REG		C	
+87	Sranan	RETI		C	
+126	Old High German	reht		C	
+27	German	recht	rɛçt	C	
+86	Pennsylvania Dutch	RECHT		C	
+120	Luxembourgish	richteg		C	
+121	German Switzerland	richtig		C	
+107	Gothic	raihtabat		C	
+107	Gothic	taíhswa		(Q)	
+132	Umbrian	rehte		C	
+132	Umbrian	mersto		J	
+112	Latin	rectus	ˈrektus	C	
+17	Catalan	correcte	ku'rektə, ko'rɛkte	M	
+17	Catalan	recte	rɛktə	C	
+17	Catalan	just	ʒus	L	
+17	Catalan	dret	dɾɛt	C	
+56	Portuguese	correcto	kuˈʀɛtu	M	
+56	Portuguese	direito	diˈɾɐjtu	C	
+68	Spanish	DERECHO		C	
+68	Spanish	correcto	ko'rekto	M	
+61	Sardinian Cagliari	GUSTU		L	
+62	Sardinian Logudoro	JUSTU		L	
+63	Sardinian Nuoro	JUSTU		L	
+76	Walloon	DJUSSE		L	
+25	French	juste	ʒyst	L	
+57	Provencal	JUST, USTO		L	
+42	Ladin	DRET		C	
+146	Dolomite Ladino	polito			
+146	Dolomite Ladino	giust		L	
+123	Romansh	correct		M	
+122	Friulian	just		L	
+122	Friulian	coret		M	
+39	Italian	giusto	'dʒusto	L	
+59	Romanian	DREPT		C	
+59	Romanian	corect		M	
+74	Vlach	SOSTO		N	
+127	Old Irish	cert	kʹert	Z	
+127	Old Irish	cóir	ko:rʹ	(J)	
+101	Middle Cornish	ewn		O	
+101	Middle Cornish	poran			
+101	Middle Cornish	yniou			
+172	Middle Breton	rez	ˈreːθ, ˈrejθ	C	
+12	Breton	GWIRION		(J)	
+12	Breton	reizh	ˈreːjs, ˈreːs	C	
+12	Breton	REIZEK		(C)	
+12	Breton	EEUN		(O)	
+79	Welsh	cywir		J	
+38	Irish	ceart		Z	
+38	Irish	cóir		(J)	
+115	Scottish Gaelic	ceart	ˈkʲar̴st	Z	
+5	[Legacy] Albanian T	i, e drejtë		(E)	
+29	[Legacy] Greek K	ORTHOS		F	
+28	[Legacy] Greek D	SOSTO		N	
+30	[Legacy] Greek Md	SOSTOS		N	
+64	[Legacy] Serbocroatian	ISPRAVNO		K	
+113	[Legacy] Serbian	tačan	tâtʃan		
+113	[Legacy] Serbian	ispravan		K	
+113	[Legacy] Serbian	prav	prâʋ	K	
+89	[Legacy] Bulgarian P	PRAV		K	
+49	[Legacy] Macedonian	PRAVILEN		K	
+94	[Legacy] Russian P	PRAVYJ		K	
+93	[Legacy] Polish P	POPRAWNY		K	
+90	[Legacy] Byelorussian P	PRAVNY		K	
+98	[Legacy] Ukrainian P	SPAVEDLYVYI		K	
+19	[Legacy] Czech E	AKORAT			
+96	[Legacy] Slovak P	PRAVY		K	
+91	[Legacy] Czech P	SPRAVNY		K	
+67	[Legacy] Slovenian	PROV		K	
+45	[Legacy] Lithuanian O	TEISINGAS		Q	
+11	[Legacy] Brazilian	correto	koˈʀɛtu	M	
+11	[Legacy] Brazilian	DIREITO		C	
+142	[Legacy] German Munich	richtig		C	
+84	[Legacy] French Creole C	BO, KOREK		M	
+14	[Legacy] Breton St	reizh	rɛjs	C	
+13	[Legacy] Breton Se	REIH		C	
+78	[Legacy] Welsh C	CYWIR		J	
+78	[Legacy] Welsh C	IAWN		O	
+37	[Legacy] Irish A	CEART		Z	

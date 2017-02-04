@@ -1,0 +1,183 @@
+\chapter{Experiments}
+
+In our works, we have implemented the gap-weighted subsequence based model \cite{rama2015automatic} for cognate identification by following the paper. We implemented the model in Python, using scikit-learn \cite{scikit-learn} open source library for the classification model. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Model}
+
+Let $\Sigma$ be the set of characters over which the data is defined. For any string $s$ defined over $\Sigma$, it can be decomposed into ($s_1$, $s_2$, ..., $s_{|s|}$) where $|s|$ is the length of the string. Let $I$ be a sequence of indices ($i_1, i_2, .., i_{|u|}$) such that 1 $\leq$ $i_1$ $<$ ... $<$ $i_{|u|}$ $\leq$ $|s|$. Then the subsequence $u$ is formed by using the sequence of indices $I$ from the sting $s$. For such a string $s$ over $\Sigma$, the subsequence vector $\Phi(s)$ is defined as follows,
+
+\begin{equation}
+\phi_u(s) = \Sigma_{\forall I, s[I] = u} \lambda^{l(I)}
+\end{equation}
+\begin{equation}
+l(I) = i_{|u|} - i_1 + 1\end{equation}
+\begin{equation}
+\Phi(s) = \{\phi_u(s); \forall u \in \cup_{n=1}^p \Sigma^n\}
+\end{equation}
+
+Here $\lambda \in (0,1)$ is the weight tuning parameter for the model and $p$ is the longest length of the subsequence to be considered. The $\lambda$ parameter controls the penalty of the gaps in subsequence as it is present in the string. When $\lambda$ is close to 0, the subsequence is restricted to a substring as the decay for a larger length is large. When $\lambda$ is close to 1, the weight $\phi_u(s)$ counts the number of occurrences of the subsequence $u$ in $s$. The subsequence vector $\Phi(s)$ for every word $s$ is further normalised by dividing it with $||\Phi(s)||$. 
+
+The model also makes it easy to incorporate class based features. We map each character in $\Sigma$ to the  broader character classes of $\{C, V\}$ representing consonants and vowels. The set $V$ includes $\{a, e, i, o, u, y\}$ and $C$ include $\Sigma - V$. Hence we can map each string $s$ to its CV-sequence $s_{CV}$. For example, a string like $s=$ \textit{ANIMAL} is mapped to $s_{CV}=$ \textit{VCVCVC} and $s=$ \textit{ALL} to $s_{CV}=$ \textit{VCC}. The subsequence vector for any string is then combined as vector of $\Phi(s) + \Phi(s_{CV})$. 
+
+The combined subsequence vector for two words, ($s_1, s_2$) can be defined in two ways,
+\begin{equation}
+\Phi_1(s_1, s_2) = \{\phi_u(s_1) + \phi_u(s_2); \forall u \textsf{ present in } s_1 \textsf{ and } s_2\}
+\end{equation}
+\begin{equation}
+\Phi_2(s_1, s_2) = \{\phi_u(s_1) + \phi_u(s_2); \forall u \textsf{ present in } s_1 \textsf{ or } s_2\}
+\end{equation}
+
+The difference between the two combined susequence vectors mentioned above is that the first one only considers only the subsequences that are common to both $s_1$ and $s_2$, whereas the second takes the sum of all the subsequences. It can be said that the first model is \textit{Multiplicative} while the second is \textit{Additive} (We shall use this naming of the models for future reference). Although the \textit{Multiplicative} model vector should capture the correct information regarding the common features between the words, it can be too sparse at times when there are not a lot of common subsequences between the word (which does not not necessarily imply that the words are not cognates). Thus in general, the \textit{Additive} model vector has more number of non-zero feature as compared to the \textit{Multiplicative} model.
+
+A Linear SVM classifier model is then trained using the combined subsequence vector $\Phi(s_1, s_2)$ from either the \textit{Multiplicative} or the \textit{Additive}. We have used the python sci-kit learn library to train the SVM classifier. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Testing Methods}
+The sample points for the classifier are created by picking pairs of words from the same concept in the word list. If the Cognate Class label of these words is the same then we assign them a positive cognate label, otherwise a negative label. Using this method, we are able to extract around 600K samples with 150K positive samples. The training of the model is performed in the following two different cross validation methods.
+
+\subsection{Simple Cross Validation}
+In this method, all the lexical items in the word list are divided into 5 fold cross validation sets. The training samples are picked by considering all word pairs formed from the training folds and the testing samples consist of all word pairs formed from the testing fold. We report the average 5 fold cross validated F-Score as the measure of performance of the model, for various values of the parameter $\lambda$ while keeping the maximum length of the subsequence ($p$) fixed at 3.
+
+\subsection{Cross Concept Cross Validation}
+In this method, all the meanings/concepts in the word list are divided into 5 fold cross validation sets. The training samples are picked by considering only word pairs from the set of meanings in the training folds and the testing samples consist of all word pairs from the meanings belonging to the testing fold. The idea here is to test if the model learns general trends in sound change across the language which are applicable to words from meanings/concepts that the model has not observed during training.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}[h]
+\centering
+\includegraphics[width=10cm]{G1.png}
+\caption{Average Cross validation F-Score variation with Lambda using Simple Cross Validation method}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=10cm]{G2.png}
+\caption{Average Cross validation F-Score variation with Lambda using Cross Concept Cross Validation method}
+\end{figure}
+
+\section{Results}
+
+From the plot of the F-score with the variation in Lambda (Fig 4-1), it is clearly observed that the \textit{Multiplicative} model, i.e. the vector comprising of only the common subsequences, performs better than the \textit{Additive} model despite having sparser vectors and learning over a smaller feature space. The models learns better for values of lambda closer to 1. As lambda approaches 1, the weight of a subsequence in the vector corresponds to the count of the subsequence in the string, while lambda closer to 0 restricts the subsequence to a substring. We get a maxima in the F-score for lambda equal to 0.7. It is observed that generally low performance of the models is due to poor recall, when the precision stays high around 80-90\%.
+
+From the cross-concept cross-validation experiment, it is interesting to note that the training and testing samples were obtained from separate concepts altogether. Hence the model is learning general trends of sound change that have emerged over the languages which stay valid across concepts. 
+
+The \textit{Multiplicative} models maintains its performance across both the cross validation methods, but it is observed that the \textit{Additive} model performs much worse in the cross-concept setting. The \textit{Additive} model overfits on the training data despite setting a high regularization penalty. This can be because when combining the word subsequence vectors in this format, the combined vector can get dominated by the word with the longer length as its subsequence count is higher. We perform this analysis in the following sections.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Error Analysis}
+
+From the results, its was apparent that the \textit{Additive} model trained using $\Phi_2(s_1, s_2)$ performs poorly and overfits on the training despite tuning the regularisation penalty. In the following sections we report the analysis performed on these models.
+
+\subsection{Division of Meanings to Broad Categories}
+
+As the first step of analysis the performance of the \textit{Multiplicative} model was observed over three different broad categories in which the samples were divided based on their POS tags. These categories were labeled into `Noun', `Adjective' and `Others' using the Penn Treebank standard POS labels for the concepts. The following trends were observed over the three broad categories for the models tuned to their best parameters.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{c|c|c|c|}
+\cline{2-4}
+                                         & \multicolumn{3}{c|}{Testing Data From} \\ \hline
+\multicolumn{1}{|c|}{Training Data From} & Adjectives     & Nouns     & Others    \\ \hline
+\multicolumn{1}{|c|}{Adjectives}         & 0.513          & 0.330     & 0.160     \\ \hline
+\multicolumn{1}{|c|}{Nouns}              & 0.422          & 0.490     & 0.208     \\ \hline
+\multicolumn{1}{|c|}{Others}             & 0.350          & 0.380     & 0.360     \\ \hline
+\multicolumn{1}{|c|}{All}                & 0.5223         & 0.4947    & 0.351     \\ \hline
+\end{tabular}
+\caption{Average Cross Validated F-Scores over the different categories of test data}
+\end{table}
+
+Here each row in the table comes from a different model, that is trained using training samples from the specified category. It is observed that there is an apparent division of performance of the models based on the three categories of samples. The model trained from samples belonging to `Others' category performs poorly as compared to the remaining models. Also the model trained on all data performs poorly on test samples from the `Others' category as compared to `Noun' and `Adjectives'.  Hence,  we can say that there is a demarcation in the performance of the model based on the kind of data that it is being applied on. The cognate pairs present within a category like `Adjectives' is defined or influenced by  rules that are easily captured by the current model while those present with `Others' are not. The evolution of cognate word pairs seems to be driven by the semantics of the word which would control its frequency of usage and change over time.
+
+It is interesting to note that the model trained using all data performs better on the Adjectives class by a margin as compared to model trained using data only from the Adjectives class. This suggests there are also some general trends or rules that govern cognate evolution. There must be some cognate similarity information being shared across concepts that comes from the `Nouns' or `Others' data and stand helpful for samples in `Adjectives'.
+
+\subsection{Performance over individual meanings}
+
+To further investigate the performance, the results were divided over individual meanings from which the samples were derived in the word list. 
+
+It was observed that the results varied drastically over the different meanings. As mentioned earlier, the F-score was affected only due to the Recall of the samples when the Precision was mostly constant around 90\%. The Recall varied from as high as 80\% for some meanings like `CHILD', `TOOTH', `LAKE' to as low as 5\% for concepts like `WHEN', `WHERE', `WHAT', as shown in Tables 4.2, 4.3.
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{Concept} & \textbf{Precision} & \textbf{Recall} & \textbf{F-Score} & \textbf{Num Cognate Classes} \\ \hline
+CHILD            & 99.98              & 79.99           & 0.888            & 24                           \\ \hline
+TOOTH            & 99.99              & 76.92           & 0.869            & 5                            \\ \hline
+BLACK            & 85.70              & 85.70           & 0.856            & 14                           \\ \hline
+LAKE             & 81.81              & 89.99           & 0.856            & 22                           \\ \hline
+EARTH            & 99.99              & 71.3            & 0.831            & 19                           \\ \hline
+\end{tabular}
+\caption{Performance on individual Concepts : Best Results}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\label{my-label}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{Concept} & \textbf{Precision} & \textbf{Recall} & \textbf{F-Score} & \textbf{Num Cognate Classes} \\ \hline
+WHEN             & 99.98              & 7.59            & 0.141            & 8                            \\ \hline
+HOW              & 79.98              & 7.69            & 0.140            & 8                            \\ \hline
+WHERE            & 99.998             & 7.35            & 0.136            & 6                            \\ \hline
+WHAT             & 999.95             & 5.49            & 0.103            & 5                            \\ \hline
+IN               & 59.98              & 3.99            & 0.074            & 12                           \\ \hline
+\end{tabular}
+\caption{Performance on individual Concepts : Worst Results}
+\end{table}
+
+Again we can observe the general trend that the model is learning better for concepts that belong to Nouns and Adjective classes as compared to the non-Nouns and non-Adjectives. By observing the data it was realised that the number of distinct cognate classes in the dataset from which the words are sampled is on average less for concepts that perform poorly for the model. Such concepts have large variations of sounds or transcription within a class of cognates. For example, Table 4.4 shows a small part of the word list for the concept `WHAT', from the Indo-European dataset by Dyen et al.
+
+\begin{table}[h!]
+\centering
+\label{my-label}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Language} & \textbf{Word} & \textbf{Cognate Class} \\ \hline
+Takitaki          & HOESAN        & 1                      \\ \hline
+Singhalese        & MOKADA        & 1                      \\ \hline
+Hindi             & KYA           & 2                      \\ \hline
+Nepali            & KE            & 2                      \\ \hline
+Spanish           & QUE           & 2                      \\ \hline
+Slovak            & CO            & 2                      \\ \hline
+Swedish           & VA            & 2                      \\ \hline
+Danish            & HVAD          & 2                      \\ \hline
+\end{tabular}
+\caption{Part of Word list for concept `WHAT'}
+\end{table}
+
+Even within the same cognate class (class 2), there is a lot of variation between the words, so much so that the Danish \textit{Hvad} and the Spanish \textit{Que} do not actually share any subsequences in their normal form. Even when the strings are translated to the CV character string (\textit{Hvad} => \textit{CCVC} and \textit{Que} => \textit{CVV}), they share only one common subsequence \{\textit{CV}\}. Clearly the model cannot learn to predict cognates from such word pairs.
+
+\subsection{IPA versus Romanized IPA}
+
+Figure 4-3 shows the variation of the cross validated F-score with the parameter Lambda for the data from the two different word lists, i.e. the Indo-European dataset by Dyen et al. (henceforth referred to as Dyen Dataset) and the IELex dataset. The main difference between the Dyen Dataset and the IELex is in the transcription of the data. The cleaned IELex is transcribed in uniform IPA or International Phonetic Alphabet which is the standardized phonetic notation for representing sounds of a spoken language. The Dyen dataset is an older dataset which contains the words transcribed in a romanized version of the IPA. This romanized character is a more broader character that the IPA and it is only a set of 26 characters as opposed to 108 in IPA.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=10cm]{G3.png}
+\caption{5-Fold cross validation F-Score variation with Lambda for different transcription of data and different models}
+\end{figure}
+
+Since the IPA is a finer character, it represents sound change between the languages better and hence we get a better performance on the IELex dataset over the Dyen Dataset. Also since the character set is bigger, the space over which the samples are defined is of higher dimension. It can be seen that for both the \textit{Multiplicative} and the \textit{Additive} models, the performance over the IELex dataset (IPA) is generally better than the Dyen Dataset (Romanized IPA).
+
+\subsection{Analysis of Additive Model}
+
+From figures 4-1, 4-2, we had observed that the \textit{Additive} model performs significantly poorly as compared to the \textit{Multiplicative} model. The model seemed to overfit on the  training data  as is apparant from the following figures.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=14cm]{G5.png}
+\caption{Precision \& Recall curves with varying Regularisation Penalty}
+\end{figure}
+
+Fig 4-4 shows the variation of the Precision and Recall with varying regularisation for the SVM model. There is an unusually high and constant gap between the training and testing results for both Precision and Recall which does not seem to vary a lot with the regularisation penalty.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=9cm]{G4.png}
+\caption{F-Score with positive sample bias for \textit{Additive} model}
+\end{figure}
+
+Fig 4-5, shows the performance of the \textit{Additive} model over different concepts with different Positive Sample Biases, i.e. the ratio of positive samples to total samples for the concept. The figure shows more clearly that the model overfits on the concepts with a high positive samples bias and does not learn to classify meanings where the positive sample bias is low.
+
+The \textit{Additive} model was created out of the motivation that the \textit{Multiplicative} model returns very sparse vectors to the classifier and also cuts down on information regarding the subsequences that are not common between the words. However, the \textit{Additive} model turns out to not be the ideal way to combine the individual subsequence vectors of the words for classification. A better way to create non-sparse vectors and maintain the information regarding non-common subsequences would be to create a hybrid between the \textit{Additive} and the \textit{Multiplicative} model, which we have talked about in our Future Work section.
+

@@ -1,0 +1,171 @@
+114	Proto-Indo-European	*h₂el-yó-, *h₂el-nó-		D	
+80	Hittite	damais			
+134	Lycian	kbi			
+81	Tocharian A	ālak		D	
+82	Tocharian B	alyek		D	
+88	Albanian	TJETER		C	
+143	Standard Albanian	tjetër		C	
+2	Albanian Sicily	JETR		C	
+4	Albanian Corinth	NETRE		C	
+3	Albanian Gheg	TJETER		C	
+6	Albanian Tosk	TJATRE		C	
+173	Mycenaean Greek	a₂-te-ro	hátero-	M	
+110	Ancient Greek	ἄλλος	álːos	D	
+110	Ancient Greek	ἕτερος	héteros	(M)	
+32	Greek	άλλος	ˈalo̞s	D	
+31	Greek Lesbos	ALLOS		D	
+129	Classical Armenian	ayl	XXX	D	
+129	Classical Armenian	miws		B	
+8	Armenian Eastern	ayl	ɑɪ̯l	D	
+8	Armenian Eastern	mjus		B	
+8	Armenian Eastern	uriš	uˈɾiʃ	O	
+7	Armenian Western	URISH		O	
+128	Avestan	ainiiō		S	
+131	Old Persian	aniya		S	
+136	Sogdian	’ny’		S	
+75	Wakhi	DIGAR		N	
+9	Baluchi	DOHMI, DUHMI		N	
+137	Zazaki	bīn		N	
+72	Tajik	DIGAR		N	
+54	Persian	digar	diːˈgʲæɾ	N	
+77	Waziri	BEL, NOR		A	
+1	Pashto	BEL		A	
+138	Shughni	digā(r), ga		N	
+138	Shughni	yiga		N	
+139	Sarikoli	digar		N	
+52	Ossetic	aendaer	ændær	S	
+52	Ossetic	innae	innæ		
+124	Ossetic Iron	ɐndɐr	ɐndɐr	S	
+125	Ossetic Digor	ɐndɐr/innɐ	ɐndɐr/innɐ	S	
+105	Vedic Sanskrit	anyás		S	
+162	Pāḷī	añña		S	
+41	Khaskura	ARKO		K	
+51	Nepali	ARU		K	
+51	Nepali	ARKO		K	
+106	Assamese	anya		S	
+106	Assamese	ārāko		K	
+102	Oriya	ɔnyanyɔ	ɔnyanyɔ	S	
+102	Oriya	au	au		
+10	Bengali	ONNO		S	
+111	Bihari	dosər	dosər	J	
+144	Magahi	दोसर	d̪osər		
+104	Marwari	biji	biji	I	
+35	Hindi	DUSRA		J	
+119	Urdu	دُوسرا	ˈd̪us.ɾɑ	J	
+103	Sindhi	bbiyo		I	
+43	Lahnda	BIYA		I	
+33	Gujarati	BIJU ("SECOND")		I	
+50	Marathi	dusrā	dus'ɾa	J	
+50	Marathi	bākītse	ba'ki:tse	I	
+40	Kashmiri	BYAKH		I	
+40	Kashmiri	PAR			
+65	Sinhalese	ANEK			
+65	Sinhalese	ARA		K	
+34	Romani Greece	AVER		K	
+100	Old Church Slavonic	инъ	inʊ̆	(E)	
+100	Old Church Slavonic	дрѹгъ	drugʊ̆	G	
+95	Serbo-Croatian	drugi	ˈdrûɡiː	G	
+15	Bulgarian	друг	druɡ	G	
+92	Macedonian	друг	druɡ	G	
+60	Russian	другой	dru'gɔj	G	
+55	Polish	inny	ˈinnɘ̟	(E)	
+55	Polish	drugi	ˈdruɡʲi	G	
+16	Belarusian	другі	druˈɣʲi	G	
+16	Belarusian	іншы	ˈinʂɨ	(E)	
+73	Ukrainian	другий	ˈdruɦɪj	G	
+73	Ukrainian	інший	ˈɪnʂɪj	(E)	
+66	Slovak	iný	ˈiniː	(E)	
+66	Slovak	druhý	ˈdruɦiː	G	
+18	Czech	jiný	ˈjɪniː	(E)	
+18	Czech	druhý	ˈdruɦiː	G	
+48	Sorbian Upper	druhi	ˈdʀu.i	G	
+47	Sorbian Lower	druɡi	ˈdruɡi	G	
+97	Slovenian	drug	drûːɡ	G	
+108	Old Prussian	kittans		L	
+44	Latvian	cits		L	
+46	Lithuanian	KITAS		L	
+109	Old Norse	annarr	ˈanːarː	S	
+36	Icelandic	annar	ˈanːar	S	
+23	Faroese	annar	ˈanːaɹ	S	
+58	Norwegian Riksmal	annen	ˈàːən	S	
+159	Stavangersk	aen	ˈɑ̀ːən	S	
+157	Old Swedish	annar	ˈanːar	S	
+69	Swedish	annan	ˈànːan	S	
+71	Swedish Vilhelmina	AN, ANA		S	
+70	Swedish Uppland	ANNAN, ANNAT		S	
+145	Elfdalian	oðer	òðɛr	S	
+20	Danish	anden	ˈanən	S	
+158	Danish Fjolde	andən	ˈɑnʲən	S	
+160	Old Gutnish	annar		S	
+161	Gutnish Lau	annar	ˈanːar	S	
+99	Old English	ōþer		S	
+22	English	other	'ʌðə	S	
+26	Frisian	oar	o.ər	S	
+21	Dutch	nog een	nɔχ en	(E)	
+21	Dutch	ander	'ɑndər	S	
+24	Flemish	ANDERE		S	
+83	Afrikaans	ANDER		S	
+87	Sranan	TRA			
+126	Old High German	ander		S	
+27	German	ander	'andɐ	S	
+86	Pennsylvania Dutch	ONNER		S	
+120	Luxembourgish	aner		S	
+121	German Switzerland	anger		S	
+107	Gothic	anþar		S	
+130	Oscan	allo		D	
+112	Latin	alius	ˈalius	D	
+112	Latin	alter	ˈalter	(D)	
+17	Catalan	ALTRA		D	
+56	Portuguese	outro	ˈo(ou)tɾu	D	
+68	Spanish	otro	'otɾo	D	
+61	Sardinian Cagliari	ATRU		D	
+62	Sardinian Logudoro	ATERE		D	
+63	Sardinian Nuoro	ATERU		D	
+85	French Creole Dominica	LOT		F	
+76	Walloon	OTE		D	
+25	French	autre	otʀ	D	
+57	Provencal	AUTRE		D	
+42	Ladin	OTER		D	
+146	Dolomite Ladino	auter		D	
+123	Romansh	auter		D	
+122	Friulian	altri		D	
+39	Italian	altro	'altro	D	
+59	Romanian	alt		D	
+74	Vlach	ALTU		D	
+140	Gaulish	allos		D	
+127	Old Irish	aile	alʹe	D	
+101	Middle Cornish	gen			
+101	Middle Cornish	an nəjl…i gilə	i gilə		
+101	Middle Cornish	yben			
+101	Middle Cornish	aral	'aral	D	
+172	Middle Breton	all, arall	ˈalː, aˈralː	D	
+12	Breton	all, arall	ˈalː, aˈralː	D	
+79	Welsh	llall		D	
+38	Irish	eile		D	
+115	Scottish Gaelic	eile	ˈeɪ.lə	D	
+5	[Legacy] Albanian T	tjetër		C	
+29	[Legacy] Greek K	ALLOS		D	
+29	[Legacy] Greek K	HEIS		M	
+28	[Legacy] Greek D	ALLOS		D	
+30	[Legacy] Greek Md	ALLOS		D	
+64	[Legacy] Serbocroatian	DRUGI		G	
+113	[Legacy] Serbian	drugi	drûɡi:	G	
+113	[Legacy] Serbian	ini		E	
+89	[Legacy] Bulgarian P	DRUG		G	
+49	[Legacy] Macedonian	DRUG		G	
+94	[Legacy] Russian P	DRUGOJ		G	
+93	[Legacy] Polish P	DRUGI		G	
+90	[Legacy] Byelorussian P	DRUHI		G	
+98	[Legacy] Ukrainian P	DRUHYJ		G	
+19	[Legacy] Czech E	DRUHE		G	
+96	[Legacy] Slovak P	DRUHY		G	
+91	[Legacy] Czech P	DRUHY		G	
+67	[Legacy] Slovenian	DRUGI		G	
+45	[Legacy] Lithuanian O	KITAS		L	
+11	[Legacy] Brazilian	OUTRO		D	
+142	[Legacy] German Munich	andere/-r/-s			
+84	[Legacy] French Creole C	LOT		F	
+14	[Legacy] Breton St	all	al	D	
+13	[Legacy] Breton Se	ARALL		D	
+78	[Legacy] Welsh C	ARALL		D	
+37	[Legacy] Irish A	EILE		D	

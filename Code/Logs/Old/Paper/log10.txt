@@ -1,0 +1,312 @@
+Hybrid Model
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LAMBDA :  0.7 , P :  3 , New Model :  True
+Steel Ratio :  0.0 9388  /  9389 
+Training on fold  1 148 
+Training set size :  262067
+Positive Labels :  54157 
+
+Shape of Data :  (262067, 16182)
+Confusion Matrix : 
+[[ 15050  39107]
+ [  3185 204725]]
+Accuracy  :  83.862142124 %
+Precision :  82.5335892514 %
+Recall    :  27.7895747549 %
+F-Score   :  0.415791800199
+
+Testing on fold  1
+Testing set size :  14824
+Positive Labels :  3465 
+
+Confusion Matrix : 
+[[ 1101  2364]
+ [  289 11070]]
+Accuracy  :  82.1033459255 %
+Precision :  79.2086330935 %
+Recall    :  31.7748917749 %
+F-Score   :  0.453553038105
+---------------------------------
+82.0978077572 	79.2085761089 	31.7748826047 	0.453144552085
+---------------------------------
+Steel Ratio :  0.1
+Training on fold  1 148 
+Training set size :  262067
+Positive Labels :  54157 
+
+Shape of Data :  (262067, 16182)
+Confusion Matrix : 
+[[ 15384  38773]
+ [  3193 204717]]
+Accuracy  :  83.9865377938 %
+Precision :  82.8120794531 %
+Recall    :  28.4063002013 %
+F-Score   :  0.423020870569
+
+Testing on fold  1
+Testing set size :  14824
+Positive Labels :  3465 
+
+Confusion Matrix : 
+[[ 1115  2350]
+ [  294 11065]]
+Accuracy  :  82.1640582839 %
+Precision :  79.1341376863 %
+Recall    :  32.1789321789 %
+F-Score   :  0.457529749692
+---------------------------------
+82.1585160202 	79.134081523 	32.1789228921 	0.457118901125
+---------------------------------
+Steel Ratio :  0.2
+Training on fold  1 148 
+Training set size :  262067
+Positive Labels :  54157 
+
+Shape of Data :  (262067, 16182)
+Confusion Matrix : 
+[[ 15848  38309]
+ [  3190 204720]]
+Accuracy  :  84.1647364987 %
+Precision :  83.2440382393 %
+Recall    :  29.2630684861 %
+F-Score   :  0.433035043377
+
+Testing on fold  1
+Testing set size :  14824
+Positive Labels :  3465 
+
+Confusion Matrix : 
+[[ 1127  2338]
+ [  295 11064]]
+Accuracy  :  82.2382622774 %
+Precision :  79.2545710267 %
+Recall    :  32.5252525253 %
+F-Score   :  0.461223654594
+---------------------------------
+82.2327150084 	79.2545152922 	32.5252431385 	0.460811216588
+---------------------------------
+Steel Ratio :  0.3
+Training on fold  1 148 
+Training set size :  262067
+Positive Labels :  54157 
+
+Shape of Data :  (262067, 16182)
+Confusion Matrix : 
+[[ 16741  37416]
+ [  3222 204688]]
+Accuracy  :  84.4932784364 %
+Precision :  83.8601412613 %
+Recall    :  30.9119781376 %
+F-Score   :  0.451726929304
+
+Testing on fold  1
+Testing set size :  14824
+Positive Labels :  3465 
+
+Confusion Matrix : 
+[[ 1156  2309]
+ [  281 11078]]
+Accuracy  :  82.5283324339 %
+Precision :  80.4453723034 %
+Recall    :  33.3621933622 %
+F-Score   :  0.471644226846
+---------------------------------
+82.5227655987 	80.445316322 	33.3621837339 	0.471229975611
+---------------------------------
+Steel Ratio :  0.4
+Training on fold  1 148 
+Training set size :  262067
+Positive Labels :  54157 
+
+Shape of Data :  (262067, 16182)
+Confusion Matrix : 
+[[ 18234  35923]
+ [  3176 204734]]
+Accuracy  :  85.0805328408 %
+Precision :  85.165810369 %
+Recall    :  33.6687778127 %
+F-Score   :  0.482591607448
+
+Testing on fold  1
+Testing set size :  14824
+Positive Labels :  3465 
+
+Confusion Matrix : 
+[[ 1189  2276]
+ [  281 11078]]
+Accuracy  :  82.7509444145 %
+Precision :  80.8843537415 %
+Recall    :  34.3145743146 %
+F-Score   :  0.481864235056
+---------------------------------
+82.7453625632 	80.8842987182 	34.3145644114 	0.481446113673
+---------------------------------
+Steel Ratio :  0.5
+Training on fold  1 148 
+Training set size :  262067
+Positive Labels :  54157 
+
+Shape of Data :  (262067, 16182)
+Confusion Matrix : 
+[[ 19768  34389]
+ [  3186 204724]]
+Accuracy  :  85.6620635181 %
+Precision :  86.1200662194 %
+Recall    :  36.5012833059 %
+F-Score   :  0.512715436189
+
+Testing on fold  1
+Testing set size :  14824
+Positive Labels :  3465 
+
+Confusion Matrix : 
+[[ 1232  2233]
+ [  283 11076]]
+Accuracy  :  83.0275229358 %
+Precision :  81.3201320132 %
+Recall    :  35.5555555556 %
+F-Score   :  0.494779116466
+---------------------------------
+83.0219224283 	81.3200783366 	35.5555452942 	0.494355941671
+---------------------------------
+Steel Ratio :  0.6
+Training on fold  1 148 
+Training set size :  262067
+Positive Labels :  54157 
+
+Shape of Data :  (262067, 16182)
+Confusion Matrix : 
+[[ 21286  32871]
+ [  3130 204780]]
+Accuracy  :  86.2626732858 %
+Precision :  87.1805373526 %
+Recall    :  39.3042450653 %
+F-Score   :  0.541814618253
+
+Testing on fold  1
+Testing set size :  14824
+Positive Labels :  3465 
+
+Confusion Matrix : 
+[[ 1259  2206]
+ [  302 11057]]
+Accuracy  :  83.0814894765 %
+Precision :  80.6534272902 %
+Recall    :  36.3347763348 %
+F-Score   :  0.5009948269
+---------------------------------
+83.0758853288 	80.6533756224 	36.3347658486 	0.500566749343
+---------------------------------
+Steel Ratio :  0.7
+Training on fold  1 148 
+Training set size :  262067
+Positive Labels :  54157 
+
+Shape of Data :  (262067, 16182)
+Confusion Matrix : 
+[[ 22515  31642]
+ [  2985 204925]]
+Accuracy  :  86.7869666917 %
+Precision :  88.2941176471 %
+Recall    :  41.57357313 %
+F-Score   :  0.565298718255
+
+Testing on fold  1
+Testing set size :  14824
+Positive Labels :  3465 
+
+Confusion Matrix : 
+[[ 1278  2187]
+ [  323 11036]]
+Accuracy  :  83.0679978413 %
+Precision :  79.8251093067 %
+Recall    :  36.8831168831 %
+F-Score   :  0.504540071062
+---------------------------------
+83.0623946037 	79.8250594472 	36.8831062386 	0.504107933004
+---------------------------------
+Steel Ratio :  0.8
+Training on fold  1 148 
+Training set size :  262067
+Positive Labels :  54157 
+
+Shape of Data :  (262067, 16182)
+Confusion Matrix : 
+[[ 23336  30821]
+ [  2776 205134]]
+Accuracy  :  87.1799959552 %
+Precision :  89.368872549 %
+Recall    :  43.0895359787 %
+F-Score   :  0.581444891552
+
+Testing on fold  1
+Testing set size :  14824
+Positive Labels :  3465 
+
+Confusion Matrix : 
+[[ 1269  2196]
+ [  339 11020]]
+Accuracy  :  82.8993524015 %
+Precision :  78.9179104478 %
+Recall    :  36.6233766234 %
+F-Score   :  0.500295683028
+---------------------------------
+82.8937605396 	78.9178613695 	36.6233660539 	0.499862858519
+---------------------------------
+Steel Ratio :  0.9
+Training on fold  1 148 
+Training set size :  262067
+Positive Labels :  54157 
+
+Shape of Data :  (262067, 16182)
+Confusion Matrix : 
+[[ 23239  30918]
+ [  2276 205634]]
+Accuracy  :  87.3337734244 %
+Precision :  91.0797570057 %
+Recall    :  42.9104270916 %
+F-Score   :  0.583366803896
+
+Testing on fold  1
+Testing set size :  14824
+Positive Labels :  3465 
+
+Confusion Matrix : 
+[[ 1169  2296]
+ [  331 11028]]
+Accuracy  :  82.2787371829 %
+Precision :  77.9333333333 %
+Recall    :  33.7373737374 %
+F-Score   :  0.470896273917
+---------------------------------
+82.2731871838 	77.9332813778 	33.7373640008 	0.470474778545
+---------------------------------
+Steel Ratio :  1.0 9388  /  9389 
+Training on fold  1 148 
+Training set size :  262069
+Positive Labels :  54505 
+
+Shape of Data :  (262069, 16159)
+Confusion Matrix : 
+[[ 21685  32820]
+ [  1760 205804]]
+Accuracy  :  86.8050017362 %
+Precision :  92.4930688846 %
+Recall    :  39.7853407944 %
+F-Score   :  0.556382296344
+
+Testing on fold  1
+Testing set size :  14849
+Positive Labels :  3417 
+
+Confusion Matrix : 
+[[  928  2489]
+ [  366 11066]]
+Accuracy  :  80.7731160347 %
+Precision :  71.71561051 %
+Recall    :  27.158326017 %
+F-Score   :  0.393971555933
+---------------------------------
+80.7676767677 	71.7155550884 	27.158318069 	0.393573332729
+---------------------------------

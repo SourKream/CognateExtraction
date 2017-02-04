@@ -1,0 +1,180 @@
+114	Proto-Indo-European	*atta-		B	
+114	Proto-Indo-European	*ph₂tḗr		A	
+80	Hittite	attas		B	
+133	Luvian	tātis		F	
+134	Lycian	tedi		F	
+135	Palaic	pāpa-			
+81	Tocharian A	pācar		A	
+82	Tocharian B	pācer		A	
+88	Albanian	ATI		B	
+143	Standard Albanian	baba		C	
+2	Albanian Sicily	TATA		D	
+2	Albanian Sicily	JATI		B	
+4	Albanian Corinth	TATE		D	
+3	Albanian Gheg	ATI		B	
+6	Albanian Tosk	BABA		C	
+173	Mycenaean Greek	pa-te	paté̞ːr	A	
+110	Ancient Greek	πατήρ	patɛ́ːr	A	
+32	Greek	πατέρας	paˈte̞ras	A	
+31	Greek Lesbos	PATERAS		A	
+129	Classical Armenian	հայր		A	
+8	Armenian Eastern	hayr	hɑɪ̯ɾ	A	
+7	Armenian Western	HIRE		A	
+128	Avestan	pita		A	
+131	Old Persian	pitā		A	
+136	Sogdian	(’)ptr		A	
+174	Khotanese	päte	pəðe	A	
+75	Wakhi	TUT		D	
+9	Baluchi	PHITH, PITH		A	
+137	Zazaki	pī		A	
+137	Zazaki	bābī		A	
+72	Tajik	PADAR		A	
+54	Persian	PEDAR		A	
+77	Waziri	BABA		C	
+77	Waziri	PLOR		A	
+1	Pashto	PLAR		A	
+138	Shughni	dōd		D	
+138	Shughni	padar, pid		A	
+139	Sarikoli	ato		D	
+52	Ossetic	fyd	fɨd	A	
+124	Ossetic Iron	fyd	fyd	A	
+125	Ossetic Digor	fidɐ	fidɐ	A	
+141	Kata-viri	to		I	
+105	Vedic Sanskrit	pitā́		A	
+162	Pāḷī	pitar		A	
+41	Khaskura	BABU		C	
+51	Nepali	BABU		C	
+106	Assamese	pitā		A	
+106	Assamese	bopai		C	
+102	Oriya	bapa	bapa	C	
+102	Oriya	pita	pita	A	
+102	Oriya	baa	baa	C	
+10	Bengali	BABA, BAP		C	
+111	Bihari	bāp		C	
+111	Bihari	pitā		A	
+144	Magahi	बाबूजी	bɑbuji		
+104	Marwari	bāp		C	
+35	Hindi	pita	pit̪ɑː	A	
+35	Hindi	BAP		C	
+119	Urdu	باپ	bɑp	C	
+103	Sindhi	piu		H	
+103	Sindhi	bābō		C	
+43	Lahnda	PYU		H	
+53	Punjabi	BAP		C	
+53	Punjabi	PYO		H	
+33	Gujarati	PITA		A	
+33	Gujarati	bap	bap	C	
+50	Marathi	bap		C	
+50	Marathi	wadīl	wə'ɖi:l	A	
+40	Kashmiri	BAB		C	
+40	Kashmiri	MOLU		L	
+65	Sinhalese	PIYA		H	
+65	Sinhalese	appa, appachchi	appa, appatʃtʃi	C	
+65	Sinhalese	tatta	tatta	D	
+34	Romani Greece	DADE		D	
+100	Old Church Slavonic	отьць	ɔtɪ̆tsʲɪ̆	B	
+95	Serbo-Croatian	otac	ˈɔ̌tats	B	
+15	Bulgarian	баща	bəˈʃta	E	
+92	Macedonian	татко	ˈtatkɔ	D	
+60	Russian	отец	ɔ'tʲɛts	B	
+55	Polish	ojciec	ˈɔjtɕɛts	B	
+16	Belarusian	бацька	ˈbatsʲka	E	
+73	Ukrainian	батько	ˈbatʲkɔ	E	
+66	Slovak	otec	ˈɔcɛts	B	
+18	Czech	otec	ˈɔtɛts	B	
+48	Sorbian Upper	nan	nan	M	
+47	Sorbian Lower	nan	nan	M	
+97	Slovenian	oče	ˈɔ̌ːtʃɛ	B	
+108	Old Prussian	tāwas		D	
+44	Latvian	tę̃vs		D	
+46	Lithuanian	tevas	ˈtʲe:vɐs	D	
+109	Old Norse	faðir	ˈfaðir	A	
+36	Icelandic	faðir	ˈfaːðɪr	A	
+23	Faroese	babba	ˈb̥ab̥ːa	(K)	
+23	Faroese	faðir	ˈfɛaːjɪɹ	A	
+58	Norwegian Riksmal	far	faːɾ	A	
+159	Stavangersk	far	fɑːʁ	A	
+157	Old Swedish	fadhir	ˈfaːðir	A	
+69	Swedish	fader	ˈfɑ̀:dər, fɑːr	A	
+71	Swedish Vilhelmina	FAR		A	
+70	Swedish Uppland	FAR, FADER		A	
+145	Elfdalian	faðer	ˈfɑ̀ðɛr	A	
+20	Danish	fader	ˈfɛ:ðʌ, ˈfɑː	A	
+158	Danish Fjolde	faar	fɑːɹ	A	
+160	Old Gutnish	faþir		A	
+161	Gutnish Lau	fadar	fɑːdar	A	
+99	Old English	fæder		A	
+22	English	father	fɑ:ðə	A	
+26	Frisian	faar	fa:r	A	
+26	Frisian	heit	haɪt, hæɪt		
+21	Dutch	vader	'vadər	A	
+24	Flemish	VADER		A	
+24	Flemish	PAPA		G	
+83	Afrikaans	VADER		A	
+83	Afrikaans	PA		G	
+87	Sranan	TATA		D	
+87	Sranan	POCPA			
+126	Old High German	fater		A	
+27	German	Vater	'fa:tɐ	A	
+86	Pennsylvania Dutch	FOTTER		A	
+120	Luxembourgish	Papp		G	
+121	German Switzerland	fatter		A	
+107	Gothic	atta		B	
+107	Gothic	fadar		A	
+130	Oscan	patir		A	
+132	Umbrian	patre			
+112	Latin	pater	ˈpater	A	
+17	Catalan	pare	'paɾə	A	
+56	Portuguese	pai	pai	A	
+68	Spanish	padre	'paðɾe	A	
+61	Sardinian Cagliari	BABBU		J	
+62	Sardinian Logudoro	BABBU		J	
+63	Sardinian Nuoro	BABBU		J	
+85	French Creole Dominica	PAPA		G	
+76	Walloon	PERE		A	
+25	French	père	pɛʀ	A	
+57	Provencal	paire	ˈpajɾe	A	
+42	Ladin	BAP		J	
+146	Dolomite Ladino	pare		A	
+123	Romansh	bab	baːp	J	
+122	Friulian	pari		A	
+39	Italian	padre	'padre	A	
+59	Romanian	tată	ˈtatə	D	
+74	Vlach	BABA		J	
+74	Vlach	AFENT			
+74	Vlach	TATE		D	
+74	Vlach	NENI			
+140	Gaulish	ater-		A	
+127	Old Irish	athair	aθərʹ	A	
+101	Middle Cornish	tas	ta:z	D	
+172	Middle Breton	tat	ˈtaːt	D	
+12	Breton	tad	ˈtaːt	D	
+79	Welsh	tad		D	
+38	Irish	athair		A	
+115	Scottish Gaelic	athair	ahɪɾʲ	A	
+5	[Legacy] Albanian T	BABA		C	
+29	[Legacy] Greek K	PATER		A	
+28	[Legacy] Greek D	PATERAS, MPAMPAS		A	
+30	[Legacy] Greek Md	PATERAS		A	
+64	[Legacy] Serbocroatian	OTAC		B	
+113	[Legacy] Serbian	otac	ǒtats	B	
+89	[Legacy] Bulgarian P	BASTA		E	
+49	[Legacy] Macedonian	OTEC		B	
+49	[Legacy] Macedonian	TATKO		D	
+94	[Legacy] Russian P	OTEC		B	
+93	[Legacy] Polish P	OJCIEC		B	
+90	[Legacy] Byelorussian P	BAC KA		E	
+98	[Legacy] Ukrainian P	OTEC		B	
+19	[Legacy] Czech E	OTEC		B	
+19	[Legacy] Czech E	TATA		D	
+96	[Legacy] Slovak P	OTEC		B	
+91	[Legacy] Czech P	OTEC		B	
+67	[Legacy] Slovenian	OCE		B	
+45	[Legacy] Lithuanian O	TEVAS		D	
+11	[Legacy] Brazilian	PAI		A	
+142	[Legacy] German Munich	Vater		A	
+84	[Legacy] French Creole C	PAPA		G	
+14	[Legacy] Breton St	tad	tɑːt	D	
+13	[Legacy] Breton Se	TAD		D	
+78	[Legacy] Welsh C	TAD		D	
+37	[Legacy] Irish A	ATHAIR		A	

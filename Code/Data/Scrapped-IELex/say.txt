@@ -1,0 +1,194 @@
+80	Hittite	tēzzi		X	
+133	Luvian	āssatti			
+81	Tocharian A	träṅkäṣ		Y	
+82	Tocharian B	weṣṣäṃ		Z	
+88	Albanian	thom		C	
+143	Standard Albanian	them		C	
+2	Albanian Sicily	thom		C	
+4	Albanian Corinth	thom		C	
+3	Albanian Gheg	thom		C	
+3	Albanian Gheg	dëftoj			
+6	Albanian Tosk	thom		C	
+173	Mycenaean Greek	pa-si	pʰaːsí	Al	
+110	Ancient Greek	λέγω	légɔː	I	
+152	Tsakonian	νιου		Ac	
+152	Tsakonian	αου		Ad	
+32	Greek	(ο)μιλω, μιλαω		(Ac)	
+32	Greek	λέω	ˈleo̞	I	
+32	Greek	λαλώ		(Ad)	
+31	Greek Lesbos	LEGO		I	
+129	Classical Armenian	ասեմ	asem	D	
+8	Armenian Eastern	asel	ɑˈsɛl	D	
+7	Armenian Western	USELL		D	
+128	Avestan	aoxte		Ab	
+128	Avestan	mraoiti		M	
+131	Old Persian	θātiy (θah-)		Ah	
+75	Wakhi	XAN		Ai	
+9	Baluchi	GUSHAGH, GUSTA, GWASHAGH, GWASHTA		L	
+118	Kurdish	gotin		L	
+137	Zazaki	vātiš			
+72	Tajik	guftan	ɡuftæn	L	
+72	Tajik	GAP ZADAN		L	
+54	Persian	GOFTAN		L	
+77	Waziri	WEYEL		A	
+1	Pashto	VAJEL		A	
+138	Shughni	gāp dedōw			
+139	Sarikoli	lev : levd			
+52	Ossetic	dzuryn	dzurɨn	P	
+124	Ossetic Iron	žɐʁ-	žɐʁ-	P	
+125	Ossetic Digor	zɐʁ-	zɐʁ-	P	
+154	Vasi-vari	(i)lye/u		Ae	
+153	Askunu	lāl-		Ae	
+105	Vedic Sanskrit	vadati		(Aa)	
+105	Vedic Sanskrit	praṇigad			
+105	Vedic Sanskrit	ah			
+105	Vedic Sanskrit	bhaṇ		(K)	
+105	Vedic Sanskrit	brávīti		M	
+105	Vedic Sanskrit	kathayati		(R)	
+105	Vedic Sanskrit	vívakti		(Z)	
+162	Pāḷī	vatti (√vac)		Z	
+41	Khaskura	BHANNU		K	
+51	Nepali	BHANNU		K	
+106	Assamese	kɒ	kɒ		
+102	Oriya	kɔhiba	kɔhiba	J	
+10	Bengali	KOOA		E	
+111	Bihari	kəhəb	kəhəb	J	
+144	Magahi	कहना	kəhənɑ	J	
+151	Bhojpuri	kah		J	
+104	Marwari	keh-	keh-	J	
+104	Marwari	bol-ɳo	bol-ɳo	K	
+35	Hindi	kahna	kəhna	J	
+35	Hindi	bolna	bolna		
+119	Urdu	کہنا	kɛhnə	J	
+103	Sindhi	cəv-	cəv-		
+103	Sindhi	kahaṇu		J	
+103	Sindhi	ḡālhā-inu			
+103	Sindhi	čūṇu			
+43	Lahnda	AKHEN		E	
+53	Punjabi	KENA		J	
+33	Gujarati	KEHEWU		J	
+50	Marathi	mhanne	mʰəɳ'ɳe	K	
+50	Marathi	bolne	'bolɳe	K	
+40	Kashmiri	WANUN			
+65	Sinhalese	kiya	kija	J	
+34	Romani Greece	PHENAV		K	
+100	Old Church Slavonic	рєщи	rɛʃti	H	
+95	Serbo-Croatian	kazati	ˈkǎːzati	W	
+95	Serbo-Croatian	reći	ˈrɛ̂tɕi	H	
+15	Bulgarian	казвам	ˈkazvəm	W	
+92	Macedonian	каже	ˈkaʒɛ	W	
+60	Russian	сказать	ska'zatʲ	W	
+55	Polish	powiedzieć	pɔˈvjɛdʑɛtɕ	U	
+16	Belarusian	сказаць	skaˈzatsʲ	W	
+73	Ukrainian	сказати	skaˈzatɪ	W	
+66	Slovak	povedať	ˈpɔvɛdac	U	
+18	Czech	říct	r̝iːtst	H	
+48	Sorbian Upper	prajić	ˈpʀajitʃ	Aj	
+48	Sorbian Upper	rjec	ʀɛts	H	
+47	Sorbian Lower	groniś	ˈɡrɔɲiɕ	Ak	
+97	Slovenian	reči	rɛ̂ːtʃi	H	
+108	Old Prussian	gerdawi			
+44	Latvian	saka		B	
+44	Latvian	RUNAT			
+44	Latvian	tèic		T	
+46	Lithuanian	sakyti	sɐˈkʲi:tʲɪ	B	
+46	Lithuanian	tarti		X	
+109	Old Norse	kveða	ˈkveða	(R)	
+109	Old Norse	segja	ˈseɣja	B	
+36	Icelandic	segja	ˈseiːja	B	
+23	Faroese	siga	ˈsiːja	B	
+58	Norwegian Riksmal	si	siː	B	
+159	Stavangersk	seia	ˈsɛɪ̀a	B	
+157	Old Swedish	sighia	ˈsiɣja	B	
+69	Swedish	säga	ˈsɛ̀jːa	B	
+71	Swedish Vilhelmina	SAGA		B	
+70	Swedish Uppland	SAJA, SAGA		B	
+145	Elfdalian	saja	ˈsɑ̀jɑ	B	
+145	Elfdalian	låta	ˈlɔ̀ːtɑ	Ag	
+20	Danish	sige	si:	B	
+158	Danish Fjolde	sej	sej	B	
+160	Old Gutnish	queþa		R	
+160	Old Gutnish	segia		B	
+160	Old Gutnish	telia		Af	
+161	Gutnish Lau	sägä	ˈsɛːɡɛ	B	
+99	Old English	sægþ		B	
+22	English	to say	seɪ	B	
+26	Frisian	sizze	'sɪzə, 'se:zə	B	
+21	Dutch	zeggen	'zɛɣə(n)	B	
+24	Flemish	ZEGGEN		B	
+83	Afrikaans	SE		B	
+87	Sranan	TAKI			
+126	Old High German	quidit		R	
+126	Old High German	sagēt		B	
+27	German	sagen	'za:gn̩	B	
+86	Pennsylvania Dutch	SAWG		B	
+120	Luxembourgish	soen			
+121	German Switzerland	säge		B	
+107	Gothic	qiþiþ		R	
+130	Oscan	deíkum			
+112	Latin	dicere	ˈdiːkere	F	
+17	Catalan	dir	di	F	
+56	Portuguese	dizer	diˈzeɾ	F	
+68	Spanish	decir	de'θiɾ	F	
+61	Sardinian Cagliari	NAI		N	
+62	Sardinian Logudoro	NARRER		N	
+63	Sardinian Nuoro	NARRERE		N	
+85	French Creole Dominica	DI		F	
+76	Walloon	DIRE		F	
+25	French	dire	diʀ	F	
+57	Provencal	DIRE		F	
+42	Ladin	DIR		F	
+146	Dolomite Ladino	dir		F	
+123	Romansh	dir		F	
+122	Friulian	dî		F	
+39	Italian	dire	'dire	F	
+59	Romanian	a spune	a 'spune		
+59	Romanian	a zice	a ziˈtʃe	F	
+74	Vlach	ZYKU		F	
+140	Gaulish	labaro-		G	
+127	Old Irish	labraithir	laβrəθʹərʹ	(G)	
+127	Old Irish	as·beir	asˈbʹerʹ	Q	
+101	Middle Cornish	cows		(S)	
+101	Middle Cornish	cewsel		(S)	
+101	Middle Cornish	leverel	lɛ'vɛrɛl	G	
+172	Middle Breton	lauarez	laˈvaːreð	G	
+12	Breton	lavared	laˈvaːred	G	
+79	Welsh	dweud		Aa, O	
+79	Welsh	siarad	ˈʃarad		
+38	Irish	deir		(Q)	
+38	Irish	abair		Q	
+38	Irish	labhair		(G)	
+115	Scottish Gaelic	can			
+115	Scottish Gaelic	labhair		(G)	
+115	Scottish Gaelic	abair		Q	
+147	Manx	gra / abbyr		Q	
+5	[Legacy] Albanian T	thom		C	
+29	[Legacy] Greek K	LEGO		I	
+28	[Legacy] Greek D	LEO		I	
+30	[Legacy] Greek Md	LEGO, LEO		I	
+64	[Legacy] Serbocroatian	KAZATI		W	
+113	[Legacy] Serbian	kazati	kǎːzati	W	
+113	[Legacy] Serbian	govoriti		V	
+113	[Legacy] Serbian	reći	rêtɕi	H	
+89	[Legacy] Bulgarian P	KAZVAM		W	
+49	[Legacy] Macedonian	KAZE		W	
+49	[Legacy] Macedonian	RECE		H	
+49	[Legacy] Macedonian	IZUSTI			
+49	[Legacy] Macedonian	VELI			
+94	[Legacy] Russian P	SKAZAT		W	
+93	[Legacy] Polish P	RZEC		H	
+90	[Legacy] Byelorussian P	KAZAC		H	
+98	[Legacy] Ukrainian P	SKAZATY		W	
+19	[Legacy] Czech E	POVIT		U	
+19	[Legacy] Czech E	REKNUT		H	
+96	[Legacy] Slovak P	MLUVIT		M	
+91	[Legacy] Czech P	RICI		H	
+67	[Legacy] Slovenian	RECI		H	
+45	[Legacy] Lithuanian O	SAKYTI		B	
+11	[Legacy] Brazilian	DIZER		F	
+142	[Legacy] German Munich	sagen		B	
+84	[Legacy] French Creole C	DI		F	
+14	[Legacy] Breton St	lavarout	la'va:rut	G	
+13	[Legacy] Breton Se	LARET		G	
+78	[Legacy] Welsh C	DWEUD, DYWEDYD		Aa, O	
+37	[Legacy] Irish A	RADH			

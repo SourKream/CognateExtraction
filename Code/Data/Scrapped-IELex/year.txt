@@ -1,0 +1,163 @@
+114	Proto-Indo-European	*wet-		C	
+114	Proto-Indo-European	*yeHr-		B	
+80	Hittite	wīz		C	
+133	Luvian	ussis			
+134	Lycian	uhi			
+81	Tocharian A	pkul		N	
+82	Tocharian B	pikul		N	
+88	Albanian	VITI		C	
+143	Standard Albanian	vit		C	
+2	Albanian Sicily	VIT		C	
+4	Albanian Corinth	VIT		C	
+3	Albanian Gheg	MOTI		O	
+3	Albanian Gheg	VITI		C	
+6	Albanian Tosk	VIT		C	
+173	Mycenaean Greek	we-to	wétos	C	
+110	Ancient Greek	ἔτος	étos	C	
+32	Greek	χρονιά	xro̞ˈɲa	J	
+31	Greek Lesbos	CHRONOS		J	
+129	Classical Armenian	տարի	tari	(D)	
+129	Classical Armenian	ամ	am		
+8	Armenian Eastern	տարի	tɑˈɾi	D	
+7	Armenian Western	տարի	dɑˈɾi	D	
+128	Avestan	yārə		B	
+131	Old Persian	θard-		E	
+136	Sogdian	srδδ		E	
+75	Wakhi	SOL		(E)	
+9	Baluchi	SAL		(E)	
+137	Zazaki	ser̄i		E	
+72	Tajik	SOL		E	
+54	Persian	SAL		E	
+77	Waziri	KOL		A	
+1	Pashto	KAL		A	
+138	Shughni	sōl		(E)	
+139	Sarikoli	sul : seδ		E	
+52	Ossetic	afaedz	æfædz		
+124	Ossetic Iron	až	až	L	
+125	Ossetic Digor	anz	anz	L	
+141	Kata-viri	sɨ		P	
+105	Vedic Sanskrit	vatsarás		C	
+162	Pāḷī	vassa		K	
+162	Pāḷī	(saŋ)vacchara		C	
+41	Khaskura	SAL		(E)	
+51	Nepali	BARSA		K	
+51	Nepali	SAL		(E)	
+106	Assamese	bɒsɒr	bɒsɒr	K	
+102	Oriya	bɔrsɔ	bɔrsɔ	K	
+10	Bengali	BOTSOR		K	
+111	Bihari	sal	sal	(E)	
+111	Bihari	barṣ		K	
+144	Magahi	बरस	bərəs	K	
+144	Magahi	साल	sɑl	(E)	
+104	Marwari	baras		K	
+104	Marwari	sal	sal	(E)	
+35	Hindi	SAL		(E)	
+35	Hindi	VERS		K	
+119	Urdu	سال	sɑl	(E)	
+103	Sindhi	varehu		K	
+43	Lahnda	SAL		(E)	
+53	Punjabi	SAL		(E)	
+33	Gujarati	VERES		K	
+33	Gujarati	sal	sal	(E)	
+50	Marathi	warsa	'wəɾʂə	K	
+50	Marathi	sāl	sal	E	
+40	Kashmiri	WAHAR, WARIH		K	
+65	Sinhalese	AVURUDDA		K	
+34	Romani Greece	BRES		K	
+100	Old Church Slavonic	лѣто	lætɔ	M	
+95	Serbo-Croatian	godina	ˈɡɔ̂dina	H	
+15	Bulgarian	година	ɡuˈdinə	H	
+92	Macedonian	година	ˈɡodina	H	
+60	Russian	год	gɔd	H	
+55	Polish	rok	rɔk	I	
+16	Belarusian	год	ɣɔd	H	
+73	Ukrainian	рік	rʲik	I	
+66	Slovak	rok	rɔk	I	
+18	Czech	rok	rɔk	I	
+48	Sorbian Upper	lěto	ˈlɪtɔ	M	
+47	Sorbian Lower	lěto	ˈlʲɪtɔ	M	
+97	Slovenian	leto	ˈlěːtɔ	M	
+108	Old Prussian	mettan		O	
+44	Latvian	gads		(H)	
+46	Lithuanian	METAI		O	
+109	Old Norse	ár	aːr	B	
+36	Icelandic	ár	auːr	B	
+23	Faroese	ár	ɔaːɹ	B	
+58	Norwegian Riksmal	år	oːɾ	B	
+159	Stavangersk	år	oːʁ	B	
+157	Old Swedish	ar	aːr	B	
+69	Swedish	år	o:r	B	
+71	Swedish Vilhelmina	AR		B	
+70	Swedish Uppland	AR		B	
+145	Elfdalian	år	ɔːr	B	
+20	Danish	år	ɒˀ	B	
+158	Danish Fjolde	oar	oaɹ	B	
+160	Old Gutnish	ar		B	
+161	Gutnish Lau	ar, år	ɑːr, oːr	B	
+99	Old English	gēar		B	
+22	English	year	jɪə	B	
+26	Frisian	jier	(j)i.ər	B	
+21	Dutch	jaar	jar	B	
+24	Flemish	JAER		B	
+83	Afrikaans	JAAR		B	
+87	Sranan	JARI		B	
+126	Old High German	jār		B	
+27	German	Jahr	ja:ɐ̯	B	
+86	Pennsylvania Dutch	YAWR		B	
+120	Luxembourgish	Joer		B	
+121	German Switzerland	jahr		B	
+107	Gothic	aþn(s?)		F	
+107	Gothic	jēr		B	
+107	Gothic	ataþni		F	
+130	Oscan	akeneí			
+132	Umbrian	acnu			
+112	Latin	annus	ˈanːus	F	
+17	Catalan	any	aɲ	F	
+56	Portuguese	ano	ˈɐnu	F	
+68	Spanish	año	'aɲo	F	
+61	Sardinian Cagliari	ANNU		F	
+62	Sardinian Logudoro	ANNU		F	
+63	Sardinian Nuoro	ANNU		F	
+85	French Creole Dominica	LANE		F	
+76	Walloon	AN, ANNEYE		F	
+25	French	an	ɑ̃	F	
+57	Provencal	AN, ANNADO		F	
+42	Ladin	AN, ANNEDA		F	
+146	Dolomite Ladino	an		F	
+123	Romansh	onn		F	
+122	Friulian	an		F	
+39	Italian	anno	'anno	F	
+59	Romanian	an	an	F	
+74	Vlach	ANU		F	
+127	Old Irish	blíadain	bʹlʹi:əðənʹ	G	
+101	Middle Cornish	bledhen	'blɛðɛn	G	
+172	Middle Breton	bloaz, bloz, bloez, bloeaz	ˈbloað	G	
+12	Breton	bloaz	blwaːs, ˈbloas	G	
+79	Welsh	blwydd		G	
+38	Irish	bliain	bʲlʲiənʲ	G	
+115	Scottish Gaelic	bliadhna		G	
+5	[Legacy] Albanian T	MOT		O	
+5	[Legacy] Albanian T	VIT		C	
+29	[Legacy] Greek K	ETOS		C	
+28	[Legacy] Greek D	CHRONOS		J	
+30	[Legacy] Greek Md	CHRONOS		J	
+64	[Legacy] Serbocroatian	GODINA		H	
+113	[Legacy] Serbian	godina	ɡôdina	H	
+89	[Legacy] Bulgarian P	GODINA		H	
+49	[Legacy] Macedonian	GODINA		H	
+94	[Legacy] Russian P	LETA		M	
+93	[Legacy] Polish P	ROK		I	
+90	[Legacy] Byelorussian P	HOD		H	
+98	[Legacy] Ukrainian P	LITA		M	
+19	[Legacy] Czech E	ROK		I	
+96	[Legacy] Slovak P	ROK		I	
+91	[Legacy] Czech P	ROK		I	
+67	[Legacy] Slovenian	LETO		M	
+45	[Legacy] Lithuanian O	METAI (PL.)		O	
+11	[Legacy] Brazilian	ANO (ANNO)		F	
+142	[Legacy] German Munich	Jahr		B	
+84	[Legacy] French Creole C	LANE,   A(BOUND FORM)		F	
+14	[Legacy] Breton St	bloaz	blwaː,ˈblwaːs	G	
+13	[Legacy] Breton Se	BLE		G	
+78	[Legacy] Welsh C	BLWYDDYN		G	
+37	[Legacy] Irish A	BLIADHAIN		G	

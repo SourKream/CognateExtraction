@@ -1,0 +1,210 @@
+114	Proto-Indo-European	*udero-		E	
+80	Hittite	sarhuwanz			
+81	Tocharian A	kāts		O	
+82	Tocharian B	kātso		O	
+88	Albanian	MULLA		R	
+88	Albanian	BARKU		C	
+143	Standard Albanian	bark		C	
+2	Albanian Sicily	BARK		C	
+4	Albanian Corinth	BARK		C	
+3	Albanian Gheg	MULLA		R	
+3	Albanian Gheg	BARKU		C	
+6	Albanian Tosk	barku		C	
+110	Ancient Greek	γαστήρ	ɡastɛ́ːr	Ak	
+152	Tsakonian	φουκα			
+32	Greek	κοιλιά	ciˈʎa	I	
+32	Greek	γαστέρα	ɣasˈte̞ra	(Ak)	
+31	Greek Lesbos	KOILIA		I	
+129	Classical Armenian	որովայն	orovayn		
+129	Classical Armenian	փոր	pʰɔɾ	W	
+8	Armenian Eastern	փոր	pʰɔɾ	W	
+7	Armenian Western	փոր	pʰor	W	
+128	Avestan	udarəm		E	
+136	Sogdian	kδ’r’k		E	
+174	Khotanese	ūri		E	
+75	Wakhi	DOR		E	
+75	Wakhi	WERD		E	
+75	Wakhi	WANJ		Y	
+9	Baluchi	LAF		Z	
+118	Kurdish	zik		Aa	
+137	Zazaki	pīze		Ab	
+72	Tajik	šikam	ʃikæm	L	
+54	Persian	SHEKAM		L	
+77	Waziri	GADOLYAI		A	
+1	Pashto	GEDA		A	
+1	Pashto	XETA		Ad	
+1	Pashto	NAS		Ac	
+138	Shughni	qīč		Ae	
+139	Sarikoli	dɛwr		E	
+52	Ossetic	guybyn	ɡwɨbɨn	V	
+124	Ossetic Iron	gʷybyn	gʷybyn	V	
+125	Ossetic Digor	gubun	gubun	V	
+141	Kata-viri	kʊ̣ṭʌl		Aj	
+154	Vasi-vari	ül, yül		E	
+154	Vasi-vari	kṭal		Aj	
+153	Askunu	kūċ		Aj	
+105	Vedic Sanskrit	udára-		E	
+162	Pāḷī	udara		E	
+41	Khaskura	BHUNRI		Q	
+51	Nepali	PET		D	
+51	Nepali	BHURI		Q	
+106	Assamese	pat	pat	D	
+106	Assamese	pat	pat	D	
+102	Oriya	peṭɔ	peʈɔ	D	
+10	Bengali	PET		D	
+111	Bihari	peʈ	peʈ	D	
+144	Magahi	पेट	pet	D	
+104	Marwari	pēṭ		D	
+35	Hindi	PET		D	
+119	Urdu	پیٹ	peʈ	D	
+103	Sindhi	pēṭu		D	
+43	Lahnda	PET		D	
+53	Punjabi	PET		D	
+33	Gujarati	PET		D	
+50	Marathi	pot	poʈ	D	
+40	Kashmiri	MYADA		Af	
+40	Kashmiri	PHORU		Q	
+40	Kashmiri	YED		Ag	
+65	Sinhalese	BADA		Ah	
+34	Romani Greece	GII		Ai	
+100	Old Church Slavonic	чрѣво	ʧrævo	P	
+95	Serbo-Croatian	trbuh	ˈtřːbux	G	
+15	Bulgarian	корем	kuˈrɛm	(Am)	
+92	Macedonian	мев	mev	K	
+60	Russian	живот	ʐɨˈvɔt	S	
+55	Polish	brzuch	bʐux	H	
+16	Belarusian	жывот	ʐɨˈvɔt	S	
+73	Ukrainian	живіт	ʐɪˈvit	S	
+66	Slovak	brucho	ˈbruxɔ	H	
+18	Czech	břicho	ˈbr̝ɪxɔ	H	
+48	Sorbian Upper	brjuch	bʀux	H	
+47	Sorbian Lower	brjuch	brʲux	H	
+97	Slovenian	trebuh	ˈtrěːbux	G	
+108	Old Prussian	weders		E	
+44	Latvian	vę̂dęrs		E	
+46	Lithuanian	PILVAS		J	
+109	Old Norse	vo̜mb	vɔmb	(E)	
+109	Old Norse	kviðr	kviðr	(O)	
+109	Old Norse	magi	ˈmaɣi	N	
+36	Icelandic	búkur	ˈb̥uːkʰʏr	B	
+36	Icelandic	magi	ˈmaːɣɪ	N	
+36	Icelandic	kviður	ˈkʰvɪːðʏr	O	
+23	Faroese	kviður	ˈkʰviːjʊɹ	O	
+23	Faroese	magi	ˈmɛaːjɪ	N	
+23	Faroese	vomb	vɔmb̥	E	
+23	Faroese	bukur	ˈb̥uːkʊɹ	B	
+58	Norwegian Riksmal	buk	bʉːk	B	
+58	Norwegian Riksmal	mave	ˈmàːʋə	N	
+159	Stavangersk	buɡ	bʉːɡ	(B)	
+159	Stavangersk	mage	ˈmɑ̀ːɡə	N	
+157	Old Swedish	buker	ˈbuːker	B	
+157	Old Swedish	qvidher	ˈkviːðer	O	
+157	Old Swedish	vamb	vamb	E	
+157	Old Swedish	maghi	ˈmaːɣi	N	
+69	Swedish	buk	bʉ:k	B	
+69	Swedish	mage	ˈmɑ̀ːɡə	N	
+71	Swedish Vilhelmina	MAGA		N	
+70	Swedish Uppland	MAGE		N	
+70	Swedish Uppland	BALG		B	
+145	Elfdalian	kwið	kwɪːð	O	
+145	Elfdalian	mågå	mɔ̀gɔ	(N)	
+20	Danish	mave	ˈmæːvə	N	
+20	Danish	bug	b̥uˀ	B	
+158	Danish Fjolde	buk	buɡ	B	
+158	Danish Fjolde	maav	maːw	N	
+160	Old Gutnish	lif		Al	
+161	Gutnish Lau	läiv	lɛɪv	Al	
+161	Gutnish Lau	magä	ˈmɑːɡɛ	N	
+161	Gutnish Lau	bäuk	bɛuk	B	
+99	Old English	wamb		E	
+22	English	belly	bɛlɪ	B	
+26	Frisian	bûk	buk	B	
+21	Dutch	buik	bœyk	B	
+24	Flemish	BUIK		B	
+83	Afrikaans	PENS			
+83	Afrikaans	BUIK		B	
+87	Sranan	BELE		B	
+126	Old High German	būh		B	
+126	Old High German	wanba		E	
+27	German	Bauch	baŭx	B	
+86	Pennsylvania Dutch	BAUCH		B	
+120	Luxembourgish	Bauch		B	
+121	German Switzerland	buuch		B	
+107	Gothic	wamba		E	
+107	Gothic	qiþus		O	
+112	Latin	uenter	ˈwenter	E	
+17	Catalan	panxa	'panʃə, 'pantʃa	U	
+17	Catalan	ventre	'bentrə	E	
+56	Portuguese	ventre	ˈvẽtɾɨ	E	
+56	Portuguese	barriga	bɐˈʁiɣɐ		
+68	Spanish	barriga	ba'riɣa		
+68	Spanish	VIENTRE		E	
+61	Sardinian Cagliari	BRENTI		E	
+62	Sardinian Logudoro	BENTRE		E	
+63	Sardinian Nuoro	ENTRE		E	
+85	French Creole Dominica	BUDE		M	
+76	Walloon	VINTE		E	
+25	French	ventre	vɑ̃tʀ	E	
+57	Provencal	VENTRE		E	
+57	Provencal	PANSO		U	
+42	Ladin	VAINTER		E	
+146	Dolomite Ladino	vènter		E	
+146	Dolomite Ladino	baldin			
+146	Dolomite Ladino	baldin			
+146	Dolomite Ladino	panza		U	
+123	Romansh	busecca			
+123	Romansh	venter		E	
+123	Romansh	panza		U	
+122	Friulian	panze		U	
+122	Friulian	vintri		E	
+39	Italian	ventre	'vɛntre	E	
+59	Romanian	burtă			
+59	Romanian	PINTEC(E)		U	
+74	Vlach	PENDIKE		U	
+127	Old Irish	bolg	bolg	B	
+127	Old Irish	tarr, tairr	tarr, tarʹrʹ	(X)	
+127	Old Irish	brú	bru:	H	
+149	Old Cornish	tor		X	
+101	Middle Cornish	kroth			
+101	Middle Cornish	torr	tɔr:	X	
+148	Old Breton	torr		X	
+172	Middle Breton	coff	ˈkoːf	(F)	
+12	Breton	tor	ˈtoːr	(X)	
+12	Breton	kof	ˈkoːf	F	
+150	Old Welsh	torr		X	
+150	Old Welsh	boly, bola		(B)	
+79	Welsh	bol, bola		B	
+79	Welsh	tor		(X)	
+38	Irish	tarr		(X)	
+38	Irish	bolg		B	
+115	Scottish Gaelic	brú		H	
+147	Manx	bolg		B	
+5	[Legacy] Albanian T	bark		C	
+29	[Legacy] Greek K	KOILIA		I	
+28	[Legacy] Greek D	KOILIA		I	
+30	[Legacy] Greek Md	KOILIA		I	
+64	[Legacy] Serbocroatian	TRBUH		G	
+113	[Legacy] Serbian	stomak		(T)	
+89	[Legacy] Bulgarian P	TURBUCH		G	
+49	[Legacy] Macedonian	SKEMBE			
+49	[Legacy] Macedonian	stómak	ˈstɔmak		
+49	[Legacy] Macedonian	MEV		K	
+94	[Legacy] Russian P	ZYVOT		S	
+93	[Legacy] Polish P	BRZUCH		H	
+90	[Legacy] Byelorussian P	ZYVOT		S	
+98	[Legacy] Ukrainian P	CEREVO		P	
+19	[Legacy] Czech E	BRUX		H	
+96	[Legacy] Slovak P	BRUCHO		H	
+91	[Legacy] Czech P	BRICHO		H	
+67	[Legacy] Slovenian	TREBUH		G	
+45	[Legacy] Lithuanian O	PILVAS		J	
+11	[Legacy] Brazilian	ventre	ˈvẽtɾi	E	
+11	[Legacy] Brazilian	barriga	baˈxigɐ		
+142	[Legacy] German Munich	Bauch		B	
+84	[Legacy] French Creole C	BUDE		M	
+84	[Legacy] French Creole C	VAT		E	
+14	[Legacy] Breton St	tor/teur		X	
+14	[Legacy] Breton St	kof	ko:f	(F)	
+13	[Legacy] Breton Se	KOV		(F)	
+78	[Legacy] Welsh C	BOLA		B	
+37	[Legacy] Irish A	BOLG		B	

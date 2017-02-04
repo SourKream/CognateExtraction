@@ -1,0 +1,172 @@
+114	Proto-Indo-European	*bʰe/ol-i̯om, *bʰlō-t		B	
+80	Hittite	hurpastas		L	
+81	Tocharian A	pält		B	
+82	Tocharian B	pilta		B	
+88	Albanian	gjeth		N	
+143	Standard Albanian	gjethe		N	
+2	Albanian Sicily	fletë		C	
+4	Albanian Corinth	fletë		C	
+3	Albanian Gheg	gjeth		N	
+6	Albanian Tosk	gjeth		N	
+6	Albanian Tosk	fletë		C	
+110	Ancient Greek	φύλλον	pʰýlːon	B	
+152	Tsakonian	φυλι		B	
+32	Greek	φύλλο	ˈfilo̞	B	
+31	Greek Lesbos	FULLO		B	
+129	Classical Armenian	տերեւ	terew	D	
+8	Armenian Eastern	terew	tɛˈɾɛv	D	
+7	Armenian Western	DEREF		D	
+128	Avestan	varəka-		J	
+136	Sogdian	wrkr		J	
+75	Wakhi	PULC		B	
+9	Baluchi	THAKH		O	
+118	Kurdish	pêl		B	
+137	Zazaki	velg		J	
+72	Tajik	BARG		J	
+54	Persian	BARG		J	
+77	Waziri	PONRYE		K	
+1	Pashto	PANA		A	
+138	Shughni	barg, bark		J	
+138	Shughni	pārk		J	
+139	Sarikoli	pork		J	
+52	Ossetic	syf	sɨf	M	
+124	Ossetic Iron	šyf	šyf	M	
+125	Ossetic Digor	šifɐ	šifɐ	M	
+141	Kata-viri	pur		J	
+154	Vasi-vari	parəg		J	
+153	Askunu	pöṭilä		E	
+153	Askunu	pār		J	
+105	Vedic Sanskrit	parṇám		A	
+162	Pāḷī	patti		E	
+41	Khaskura	PAT		E	
+51	Nepali	PAT		E	
+106	Assamese	kalā			
+106	Assamese	pat	pat	E	
+102	Oriya	pɔt(ɔ)rɔ	pɔt(ɔ)rɔ	(E)	
+10	Bengali	PATA		E	
+111	Bihari	pat	pat	E	
+144	Magahi	पत्ता	pət̪t̪ɑ		
+104	Marwari	pətto	pətto	E	
+35	Hindi	petta	pətːiː	E	
+119	Urdu	پَتّا	pətːɑ	E	
+103	Sindhi	panu		A	
+43	Lahnda	PETTA		E	
+53	Punjabi	PETTA		E	
+33	Gujarati	PAN, PANDERU		A	
+50	Marathi	pān	pan	A	
+40	Kashmiri	PAN		A	
+65	Sinhalese	KOLAYA			
+34	Romani Greece	PATRIN		E	
+100	Old Church Slavonic	листъ	listʊ̆	H	
+95	Serbo-Croatian	list	lîːst	H	
+15	Bulgarian	лист	list	H	
+92	Macedonian	лист	list	H	
+60	Russian	лист	lʲist	H	
+55	Polish	liść	liɕtɕ	H	
+16	Belarusian	ліст	lʲist	H	
+73	Ukrainian	лист	ɫɪst	H	
+66	Slovak	list	list	H	
+18	Czech	list	lɪst	H	
+48	Sorbian Upper	łopjeno	ˈwɔpĕɛnɔ	I	
+47	Sorbian Lower	łopjeno	ˈwɔpĕɛnɔ	I	
+97	Slovenian	list	lîːst	H	
+108	Old Prussian	lapan		I	
+44	Latvian	lapa		I	
+46	Lithuanian	LAPAS		I	
+109	Old Norse	blað	blað	(B)	
+109	Old Norse	lauf	lauf	(I)	
+36	Icelandic	blað	b̥laːð	B	
+36	Icelandic	lauf	løɪːf	(I)	
+23	Faroese	blað	b̥lɛaː	B	
+23	Faroese	leyf	lɛiːf	(I)	
+58	Norwegian Riksmal	blad	blaː(d)	B	
+58	Norwegian Riksmal	løv	løːʋ	(I)	
+159	Stavangersk	bla, blad	blɑː, blɑːd	B	
+159	Stavangersk	ləu	ləʉ	(I)	
+157	Old Swedish	löf	løːf	(I)	
+157	Old Swedish	bladh	blaːð	B	
+69	Swedish	blad	blɑ:d	B	
+69	Swedish	löv	lø:v	(I)	
+71	Swedish Vilhelmina	LOVBLA		B, I	
+71	Swedish Vilhelmina	BLA		B	
+70	Swedish Uppland	BLAD		B	
+145	Elfdalian	lov	luːv	(I)	
+145	Elfdalian	blað	blɑːð	B	
+20	Danish	løv	løˀw	(I)	
+20	Danish	blad	b̥lað	B	
+158	Danish Fjolde	bla	blɑ	B	
+161	Gutnish Lau	blad	blɑːd	B	
+161	Gutnish Lau	lau(g)	lau(ɡ)	(I)	
+99	Old English	blœd		B	
+99	Old English	lēaf		I	
+22	English	leaf	li:f	I	
+26	Frisian	blêd	blɛ:t	B	
+21	Dutch	blad	blɑt	B	
+24	Flemish	BLAD		B	
+83	Afrikaans	BLAD, BLAAR		B	
+87	Sranan	WIWIRI			
+126	Old High German	loub		I	
+126	Old High German	blat		B	
+27	German	Blatt	blat	B	
+86	Pennsylvania Dutch	BLOT		B	
+120	Luxembourgish	Blat		B	
+121	German Switzerland	blatt		B	
+107	Gothic	laufs		I	
+112	Latin	folium	ˈfolium	B	
+17	Catalan	fulla	'fuʎa	B	
+56	Portuguese	folha	ˈfoʎɐ	B	
+68	Spanish	hoja	'oxa	B	
+61	Sardinian Cagliari	FOLLA		B	
+62	Sardinian Logudoro	FOZZA		F	
+63	Sardinian Nuoro	OTHTHA			
+85	French Creole Dominica	FEY		B	
+76	Walloon	FOUYE, FOYE		B	
+25	French	feuille	fœj	B	
+57	Provencal	RAMO			
+57	Provencal	FUEIO		B	
+42	Ladin	FOGLIA		B	
+146	Dolomite Ladino	fòå		B	
+123	Romansh	fegl, feglia		B	
+122	Friulian	fuee		B	
+39	Italian	foglio	'fɔʎʎo	B	
+59	Romanian	FOAIE		B	
+59	Romanian	frunză	ˈfrunzə	F	
+74	Vlach	FRYNZE		F	
+140	Gaulish	dula		G	
+127	Old Irish	duille	dulʹlʹe	G	
+127	Old Irish	bileóc	bʹilʹe:og	(P)	
+149	Old Cornish	del-en		G	
+101	Middle Cornish	delen	'dɛlɛn	G	
+148	Old Breton	dol		G	
+172	Middle Breton	delyenn, delyen	ˈdeːljen	G	
+12	Breton	delienn	ˈdeljen	G	
+150	Old Welsh	deil		G	
+79	Welsh	deilen		G	
+38	Irish	billeog		(P)	
+38	Irish	duilleog, duille		G	
+115	Scottish Gaelic	duilleog		G	
+147	Manx	duilley, duillag		G	
+5	[Legacy] Albanian T	fletë		C	
+29	[Legacy] Greek K	FULLON		B	
+28	[Legacy] Greek D	FULLO		B	
+30	[Legacy] Greek Md	FULLO		B	
+64	[Legacy] Serbocroatian	LIST		H	
+113	[Legacy] Serbian	list		H	
+89	[Legacy] Bulgarian P	LIST		H	
+49	[Legacy] Macedonian	LIST		H	
+94	[Legacy] Russian P	LIST		H	
+93	[Legacy] Polish P	LISC		H	
+90	[Legacy] Byelorussian P	LIST		H	
+98	[Legacy] Ukrainian P	LYST		H	
+19	[Legacy] Czech E	LIST		H	
+96	[Legacy] Slovak P	LIST		H	
+91	[Legacy] Czech P	LIST		H	
+67	[Legacy] Slovenian	PERU			
+45	[Legacy] Lithuanian O	LAPAS, LAKSTAS		I	
+11	[Legacy] Brazilian	FOLHA		B	
+142	[Legacy] German Munich	Blatt		B	
+84	[Legacy] French Creole C	FEY		B	
+14	[Legacy] Breton St	delienn	'dɛljɛn	G	
+13	[Legacy] Breton Se	DELEN		G	
+78	[Legacy] Welsh C	DALEN		G	
+37	[Legacy] Irish A	DUILLEOG		G	

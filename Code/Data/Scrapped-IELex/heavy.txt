@@ -1,0 +1,163 @@
+114	Proto-Indo-European	*gʷr̥h₂-ú-		M	
+80	Hittite	nakkis			
+80	Hittite	suwārus		U	
+133	Luvian	suwārus		U	
+133	Luvian	kuwanzus			
+81	Tocharian A	kramärts		M	
+82	Tocharian B	kramartse		M	
+88	Albanian	RAND		C	
+143	Standard Albanian	i, e rëndë		C	
+2	Albanian Sicily	I-REND		C	
+4	Albanian Corinth	IRENDE		C	
+3	Albanian Gheg	RAND		C	
+6	Albanian Tosk	I-RENDE		C	
+110	Ancient Greek	βαρύς	barýs	M	
+32	Greek	βαρύς	va'ris	M	
+31	Greek Lesbos	BARUS		M	
+129	Classical Armenian	ծանր	canr	D	
+8	Armenian Eastern	canr	ˈʦɑnəɾ	D	
+7	Armenian Western	ZUNNER		D	
+128	Avestan	gouru-		M	
+136	Sogdian	β’rcyk		E	
+75	Wakhi	GHURUNG		M	
+9	Baluchi	GIRAN		M	
+72	Tajik	SANGI VAZNIN		Q	
+72	Tajik	VAZNIN		L	
+54	Persian	SANGIN		L	
+77	Waziri	SAKHT		R	
+77	Waziri	DRIND		A	
+1	Pashto	DRUND		A	
+138	Shughni	zūr		P	
+138	Shughni	wazmin		L	
+139	Sarikoli	garun		M	
+52	Ossetic	uaezzau	wæzzaw	L	
+124	Ossetic Iron	wɐžžaw	wɐžžaw	L	
+125	Ossetic Digor	wɐzzaw	wɐzzaw	L	
+141	Kata-viri	gʌnwo		S	
+105	Vedic Sanskrit	gurús		M	
+162	Pāḷī	garu		M	
+41	Khaskura	GARUNGO		M	
+51	Nepali	GARAU		M	
+51	Nepali	BHARI		E	
+106	Assamese	bhari	bhari	E	
+102	Oriya	bhari	bhari	E	
+10	Bengali	BHARI		E	
+111	Bihari	bhari	bhari	E	
+144	Magahi	भारी	bʰɑri	E	
+104	Marwari	sai'lo		W	
+104	Marwari	lūntho		X	
+35	Hindi	BHARI		E	
+119	Urdu	بھاری	ˈbʰɑ.ɾi	E	
+103	Sindhi	ḡarō̄		M	
+43	Lahnda	BHARI		E	
+53	Punjabi	PARA		E	
+33	Gujarati	BHARE		E	
+50	Marathi	dzad	dzəɖ	Y	
+40	Kashmiri	GOBU		Z	
+65	Sinhalese	BARA		E	
+34	Romani Greece	PHARO		E	
+100	Old Church Slavonic	тѧжькъ	tɛ̃ʒɪ̆kʊ̆	H	
+95	Serbo-Croatian	težak	ˈtɛ̌ːʒak	H	
+15	Bulgarian	тежък	ˈtɛʒək	H	
+92	Macedonian	тежок	ˈteʒɔk	H	
+60	Russian	тяжёлый	tʲa'ʐɔɫɨj	H	
+55	Polish	ciężki	ˈʨɛɰ̃ʐkʲi	H	
+16	Belarusian	цяжкі	ˈtsʲaʐkʲi	H	
+73	Ukrainian	тяжкий	tʲaʐkɪj	H	
+66	Slovak	ťažký	ˈcaʒkiː	H	
+18	Czech	těžký	ˈcɛʃkiː	H	
+48	Sorbian Upper	ćežki	ˈtʃɛʒki	H	
+47	Sorbian Lower	śěžki	ˈɕɪʐki	H	
+97	Slovenian	težek	ˈtɛ̂ːʒək	H	
+108	Old Prussian	brendus			
+44	Latvian	smags		N	
+46	Lithuanian	SUNKUS		K	
+109	Old Norse	ho̜fugr	ˈhɔfuɣr	(I)	
+109	Old Norse	þungr	θunɣr	H	
+36	Icelandic	þungur	ˈθuŋɡ̊ʏr	H	
+23	Faroese	tungur	ˈtʰʊŋɡ̊ʊɹ	H	
+58	Norwegian Riksmal	tung	tʉŋː	H	
+159	Stavangersk	tonge	ˈtuŋːə	H	
+157	Old Swedish	thunger	ˈθuŋːer	H	
+69	Swedish	svår	svo:r	(B)	
+69	Swedish	stor	stur	(B)	
+69	Swedish	tung	tɵŋː	H	
+71	Swedish Vilhelmina	TONG		H	
+70	Swedish Uppland	TUNG		H	
+145	Elfdalian	tungg	tʉŋg	H	
+20	Danish	tung	d̥ʰɔŋˀ	H	
+158	Danish Fjolde	svaar	svɑːɹ	(B)	
+161	Gutnish Lau	tunggar	ˈtuŋɡar	H	
+99	Old English	swǣr		B	
+99	Old English	hefig		I	
+22	English	heavy	'hɛvɪ	I	
+26	Frisian	LEADICH			
+26	Frisian	POUNICH		(T)	
+26	Frisian	swier	svi.ər	B	
+21	Dutch	zwaar	zwar	B	
+24	Flemish	ZWAAR		B	
+83	Afrikaans	SWAAR		B	
+87	Sranan	HEBI		I	
+126	Old High German	swāri		B	
+126	Old High German	hefīg		I	
+27	German	schwer	ʃve:ɐ̯	B	
+86	Pennsylvania Dutch	SCHWAIIR		B	
+120	Luxembourgish	schwéier		B	
+121	German Switzerland	schwäär		B	
+107	Gothic	kaúrus		M	
+112	Latin	grauis	ˈɡrawis	M	
+17	Catalan	pesant	pə'zan	F	
+17	Catalan	feixuc	fə'ʃuk		
+56	Portuguese	pesado	pɨˈzaðu	F	
+68	Spanish	pesado	pe'saðo	F	
+68	Spanish	GRAVE		M	
+61	Sardinian Cagliari	GRAI		M	
+62	Sardinian Logudoro	GRAVE		M	
+63	Sardinian Nuoro	PESANTE		F	
+85	French Creole Dominica	LU		O	
+76	Walloon	LOUR(D)		O	
+25	French	lourd	luʀ	O	
+57	Provencal	LOURD		O	
+57	Provencal	EVO		M	
+57	Provencal	GREU		M	
+42	Ladin	PESANT		F	
+123	Romansh	grev		M	
+123	Romansh	pesant		F	
+122	Friulian	pesant		F	
+39	Italian	pesante	pe'sante	F	
+39	Italian	greve	'grɛve	M	
+59	Romanian	greu		M	
+74	Vlach	GREU		M	
+127	Old Irish	tromm	trom	J	
+101	Middle Cornish	poos	po:z	(F), V	
+172	Middle Breton	ponnher	ˈponːer	Aa, (G)	
+12	Breton	ponner, pounner	'pɔ̃nɛr, 'pũnɛr	Aa, (G)	
+79	Welsh	trwm		J	
+79	Welsh	pwys(fawr)		(F), V	
+38	Irish	IOMTHROM		(J)	
+38	Irish	trom		J	
+115	Scottish Gaelic	trom		J	
+5	[Legacy] Albanian T	i rëndë		C	
+29	[Legacy] Greek K	BARUS		M	
+28	[Legacy] Greek D	BARUS		M	
+30	[Legacy] Greek Md	BARUS		M	
+64	[Legacy] Serbocroatian	TEZAK		H	
+113	[Legacy] Serbian	težak	tě:ʒak	H	
+89	[Legacy] Bulgarian P	TEZUK		H	
+49	[Legacy] Macedonian	tezok	ˈtɛʒɔk	H	
+94	[Legacy] Russian P	T AZOLYJ		H	
+93	[Legacy] Polish P	CIEZKI		H	
+90	[Legacy] Byelorussian P	C AZKI		H	
+98	[Legacy] Ukrainian P	T AZKYJ		H	
+19	[Legacy] Czech E	TYASKE		H	
+96	[Legacy] Slovak P	T AZKY		H	
+91	[Legacy] Czech P	TEZKY		H	
+67	[Legacy] Slovenian	TEZKO, TESKO		H	
+45	[Legacy] Lithuanian O	SUNKUS		K	
+11	[Legacy] Brazilian	pesado	peˈzadu	F	
+142	[Legacy] German Munich	schwer		B	
+84	[Legacy] French Creole C	LU		O	
+14	[Legacy] Breton St	ponner, pounner	'pɔ̃nɛr, 'pũnɛr	(G)	
+13	[Legacy] Breton Se	PONNER		(G)	
+78	[Legacy] Welsh C	TRWM		J	
+37	[Legacy] Irish A	TROM		J	

@@ -1,0 +1,165 @@
+114	Proto-Indo-European	*enter-o-		K	
+80	Hittite	garates		N	
+81	Tocharian A	weṣkiñc			
+88	Albanian	ZORRET		N	
+143	Standard Albanian	zorrë		N	
+2	Albanian Sicily	ZOR		N	
+4	Albanian Corinth	ZORE		N	
+3	Albanian Gheg	ZORRET		N	
+6	Albanian Tosk	ZORE		N	
+110	Ancient Greek	σπλάγχνα	spláŋkʰna	(C)	
+110	Ancient Greek	ἔντερα	éntera	K	
+32	Greek	άντερα	ˈande̞ra	K	
+32	Greek	σπλάχνα	ˈsplaxna	(C)	
+31	Greek Lesbos	ANTERA		K	
+129	Classical Armenian	ընդերք	ənderkʰ	K	
+129	Classical Armenian	աղիք	ałikʰ	K	
+8	Armenian Eastern	p’orotik’	pʰoɾoˈtikʰ		
+8	Armenian Eastern	ałik‘		D	
+7	Armenian Western	AKHIK		D	
+75	Wakhi	SINGER		S	
+9	Baluchi	ROTH, RODH		L	
+72	Tajik	SLANG		T	
+72	Tajik	RUDA		L	
+54	Persian	RUDE		L	
+77	Waziri	KULMA		A	
+77	Waziri	LARMIN		R	
+1	Pashto	KULMA		A	
+138	Shughni	darūn		R	
+139	Sarikoli	darыn, darůn		R	
+52	Ossetic	t'ang	tænɡ	U	
+124	Ossetic Iron	artɐnbyn	artɐnbyn	E	
+125	Ossetic Digor	artɐn	artɐn	E	
+105	Vedic Sanskrit	āntrám		K	
+51	Nepali	ANRA		K	
+106	Assamese	bhuru	bhuru		
+102	Oriya	ɔntɔ	ɔntɔ	K	
+10	Bengali	NARIBHURI			
+111	Bihari	ãt	ãt	K	
+144	Magahi	अतडी	ət̪əɽi		
+35	Hindi	AT		K	
+119	Urdu	آنْت	bəɽi ʔɑ̃t̪	K	
+43	Lahnda	HIMMET		(W)	
+53	Punjabi	ANDER		K	
+33	Gujarati	ANTERLA		K	
+50	Marathi	atede		K	
+50	Marathi	huśārī	ɦusaɾi:		
+40	Kashmiri	TSAPH			
+65	Sinhalese	BADAVEL(A)			
+34	Romani Greece	PORA		V	
+100	Old Church Slavonic	ѫтроба	ɔ̃trɔbɑ	K	
+95	Serbo-Croatian	utroba	ˈûtrɔba	K	
+15	Bulgarian	вътрешности	ˈvɤtrɘʃnusti	J	
+92	Macedonian	утроба	ˈutrɔba	K	
+60	Russian	внутренности	ˈvnutrʲɛnnɔstʲi	J	
+55	Polish	wnętrzności	vnɛnˈt-ʂnɔɕtɕi	J	
+16	Belarusian	вантробы	vanˈtrɔbɨ	(K)	
+73	Ukrainian	кишки	kɪʂˈkɪ	H	
+66	Slovak	vnútornosti	ˈvnutɔrnɔsci	J	
+18	Czech	vnitřnosti	ˈvɲɪtr̝̊noscɪ	J	
+48	Sorbian Upper	črjewa	ˈtʃʀɛwa	G	
+47	Sorbian Lower	crjowa	ˈtsrʲowa	G	
+97	Slovenian	črevo	tʃrɛˈvôː	G	
+108	Old Prussian	grobis			
+44	Latvian	xar̂na		N	
+46	Lithuanian	ZARNOS		N	
+46	Lithuanian	VIDURIAI			
+109	Old Norse	þarmr		B	
+109	Old Norse	innyfli, innylfi	inːyfli, inːylfi	(K)	
+109	Old Norse	iðr, innr	iðr, inːr	(K)	
+109	Old Norse	garnar/gǫrn		(N)	
+36	Icelandic	innyfli	ˈɪnːɪflɪ	K	
+36	Icelandic	THARMAR		(B)	
+36	Icelandic	iður	ˈɪːðʏr	K	
+23	Faroese	TARMAR		(B)	
+23	Faroese	innvølur	ˈɪnːvøːlʊɹ	K	
+23	Faroese	indur	ˈɪnd̥ʊɹ	K	
+23	Faroese	GARNAR		(N)	
+58	Norwegian Riksmal	innvoller	ˈɪ̀nːʋɔlːəɾ	K	
+58	Norwegian Riksmal	TARMER		(B)	
+159	Stavangersk	innvål	ˈɪnːvoːl	K	
+159	Stavangersk	tarm	taʁm	(B)	
+157	Old Swedish	inälve	ˈinːælve	K	
+69	Swedish	inälvor	ˈìnˌɛlvʊr	K	
+69	Swedish	tarm	tarm	(B)	
+71	Swedish Vilhelmina	TORMA		B	
+70	Swedish Uppland	TARMAR		B	
+145	Elfdalian	inmat	ˈɪ̀nmɑːt	Y	
+145	Elfdalian	renta	ˈrɛ̀ntɑ	X	
+20	Danish	indvolde	ˈenˌvʌlə	K	
+20	Danish	tarm	d̥ʰɑm	(B)	
+158	Danish Fjolde	inxevæjtər	ˈinxəwæjdəɹ	(O)	
+161	Gutnish Lau	inälvår		K	
+99	Old English	guttas		P	
+99	Old English	þearm		B	
+22	English	guts	gʌts	P	
+21	Dutch	ingewanden	ˈɪnɣəwɑndə	O	
+21	Dutch	darm	dɑrm	(B)	
+24	Flemish	DARMEN		B	
+83	Afrikaans	INGEWAND		O	
+83	Afrikaans	DERM		B	
+87	Sranan	BELE			
+87	Sranan	TRIPA		Q	
+126	Old High German	darm		B	
+27	German	Gedärm	gə'dɛrm	B	
+27	German	Eingeweide	'aĭngəvaĭdə	O	
+120	Luxembourgish	Träipen		Q	
+121	German Switzerland	darm		B	
+107	Gothic	hairþra			
+132	Umbrian	arvia			
+112	Latin	intestīna	intesˈtiːna	K	
+17	Catalan	budells	bu'ðeʎs	I	
+56	Portuguese	entranhas	ẽˈtɾɐɲɐʃ	K	
+56	Portuguese	intestino	ĩtɨʃˈtinu		
+56	Portuguese	TRIPAS		Q	
+68	Spanish	tripas	'tɾipas		
+68	Spanish	INTESTINO		K	
+61	Sardinian Cagliari	MAZZAMINI		M	
+62	Sardinian Logudoro	INTESTINOS (M. PL.)		K	
+63	Sardinian Nuoro	ENTRE		K	
+85	French Creole Dominica	BUDE		I	
+76	Walloon	BOYE		I	
+25	French	boyau	bwajo	I	
+57	Provencal	BUDEU, BOUIEU		I	
+42	Ladin	BOGL		I	
+146	Dolomite Ladino	budele		I	
+123	Romansh	begl		I	
+122	Friulian	intestin		K	
+122	Friulian	budiel		I	
+39	Italian	intestino	intes'tino	K	
+59	Romanian	măruntaie			
+74	Vlach	MACE		M	
+127	Old Irish	indida	inʹ(dʹ)əda	Z	
+101	Middle Cornish	kolodhyon	kɔ'lɔðjɔn		
+172	Middle Breton	couraillou	kuˈralju	(Aa)	
+12	Breton	bouzellen		F	
+79	Welsh	perfedd			
+79	Welsh	YMYSGAROEDD			
+38	Irish	inní		Z	
+115	Scottish Gaelic	mionach			
+115	Scottish Gaelic	caolain			
+5	[Legacy] Albanian T	ZORE		N	
+29	[Legacy] Greek K	EUTOSTHIA			
+28	[Legacy] Greek D	SPLACHNA		C	
+28	[Legacy] Greek D	SKOTIA			
+64	[Legacy] Serbocroatian	UTROBA		K	
+113	[Legacy] Serbian	creva			
+89	[Legacy] Bulgarian P	CERVO		G	
+49	[Legacy] Macedonian	créva	ˈʦrɛva	G	
+49	[Legacy] Macedonian	DROBOVI			
+94	[Legacy] Russian P	KISKA		H	
+93	[Legacy] Polish P	jelita	jɛˈʎita	D	
+90	[Legacy] Byelorussian P	KISKA		H	
+98	[Legacy] Ukrainian P	KYSKA		H	
+19	[Legacy] Czech E	STREVA		G	
+96	[Legacy] Slovak P	CREVO		G	
+91	[Legacy] Czech P	STREVO		G	
+67	[Legacy] Slovenian	CEJVA		G	
+11	[Legacy] Brazilian	entranhas	ẽˈtɾɐɲɐs	K	
+11	[Legacy] Brazilian	intestino	ĩtesˈtʃinu	K	
+142	[Legacy] German Munich	Eingeweide		O	
+84	[Legacy] French Creole C	THWIP		Q	
+14	[Legacy] Breton St	bouzellenn	bu'zɛlɛn	F	
+13	[Legacy] Breton Se	BOELLEU		F	
+78	[Legacy] Welsh C	PERFEDD			
+37	[Legacy] Irish A	HUTOGA			

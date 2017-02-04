@@ -1,0 +1,208 @@
+114	Proto-Indo-European	*dʰg̑ʰ(e)m, *dʰég̑ʰ-m		C	
+80	Hittite	tēkan		C	
+133	Luvian	tiyammis		C	
+81	Tocharian A	tkaṃ		C	
+82	Tocharian B	keṃ		C	
+88	Albanian	dheu		C	
+143	Standard Albanian	toka			
+2	Albanian Sicily	BOT		D	
+4	Albanian Corinth	BOTE		D	
+3	Albanian Gheg	dheu		C	
+6	Albanian Tosk	dhe		C	
+110	Ancient Greek	χθών	kʰtʰɔ́ːn	(C)	
+110	Ancient Greek	γῆ	ɡɛ̑ː	M	
+152	Tsakonian	χωμα		I	
+32	Greek	γη	ʝi	(M)	
+32	Greek	χώμα	ˈxo̞ma	I	
+31	Greek Lesbos	CHOMA		I	
+129	Classical Armenian	երկիր	erkir	(U)	
+129	Classical Armenian	հող	hoł		
+8	Armenian Eastern	հող	hɔʁ		
+7	Armenian Western	YERGIR		U	
+7	Armenian Western	KEDIN			
+7	Armenian Western	հող	hɔʁ		
+128	Avestan	zå		C	
+131	Old Persian	būmiš		(N)	
+136	Sogdian	γwrm(h)		L	
+75	Wakhi	XOK		K	
+75	Wakhi	SET		V	
+9	Baluchi	MITTI		(E)	
+118	Kurdish	xak		K	
+118	Kurdish	erd		(W)	
+137	Zazaki	ḥer̄		(W)	
+72	Tajik	ZAMIN		C	
+54	Persian	زمین	zamin	C	
+77	Waziri	KHOVRA, WATAN		(X)	
+1	Pashto	XAK		K	
+1	Pashto	MDZEKA		(Y)	
+138	Shughni	sit		(V)	
+138	Shughni	zimad		C	
+138	Shughni	zamin		C	
+139	Sarikoli	zыmoδ		C	
+139	Sarikoli	sit		(V)	
+52	Ossetic	SYDZYT		V	
+52	Ossetic	zaexx	zæχχ	T	
+124	Ossetic Iron	žɐχχ	žɐχχ	T	
+125	Ossetic Digor	zɐnχɐ	zɐnχɐ	T	
+154	Vasi-vari	pərċe, puċé		J	
+154	Vasi-vari	bīm		N	
+153	Askunu	bŭm		N	
+153	Askunu	palal		Ab	
+105	Vedic Sanskrit	kṣā́s		C	
+162	Pāḷī	bhūmi		N	
+41	Khaskura	MATO		E	
+51	Nepali	MATO		E	
+106	Assamese	mati	mati	(E)	
+102	Oriya	bhũĩ	bhũĩ	N	
+102	Oriya	maṭi	maʈi	(E)	
+10	Bengali	MATI		(E)	
+111	Bihari	sənsar	sənsar	(R)	
+111	Bihari	prithbi	prithbi	(S)	
+144	Magahi	भइआं	bʰuĩjɑ	N	
+144	Magahi	जमीन	ɟəmin	(C)	
+104	Marwari	dhəra	dhəra	Z	
+104	Marwari	jəmĩ	jəmĩ	(C)	
+35	Hindi	MITTI		E	
+119	Urdu	زمِین	zəmin	(C)	
+103	Sindhi	bhũ		N	
+103	Sindhi	sãisāru		R	
+43	Lahnda	ZEMIN		(C)	
+53	Punjabi	MITTI		E	
+33	Gujarati	MATI		E	
+50	Marathi	dzamīn	dzə'min	(C)	
+50	Marathi	prthwī	pɽtʰwi:	S	
+50	Marathi	mati		E	
+40	Kashmiri	METSU		E	
+40	Kashmiri	ZAMIN		(C)	
+65	Sinhalese	PASA		J	
+34	Romani Greece	POSU		J	
+100	Old Church Slavonic	зємля, зєм(ь)я	zɛmʎa, zɛmja	C	
+95	Serbo-Croatian	zemlja	ˈzɛ̌mʎa	C	
+15	Bulgarian	земя	zɘˈmʲa	C	
+92	Macedonian	земја	ˈzemja	C	
+60	Russian	земля	zʲɛm'lʲa	C	
+55	Polish	ziemia	ˈʑɛmja	C	
+16	Belarusian	зямля	zʲaˈmlʲa	C	
+73	Ukrainian	земля	zɛˈmlʲa	C	
+66	Slovak	zem	zɛm	C	
+18	Czech	země	ˈzɛmɲɛ	C	
+48	Sorbian Upper	zemja	ˈzemja	C	
+47	Sorbian Lower	zemja	ˈzemja	C	
+97	Slovenian	zemlja	ˈzɛ̂ːmlja	C	
+108	Old Prussian	semmē		C	
+44	Latvian	zeme		C	
+46	Lithuanian	žemė	ˈʒʲæ:mʲe:	C	
+109	Old Norse	jo̜rð	jɔrð	(B)	
+109	Old Norse	mold	mold	H	
+36	Icelandic	jörð	jœrð	B	
+36	Icelandic	mold	mɔld	H	
+23	Faroese	mold	mɔld̥	H	
+23	Faroese	jørð	jøːɹ	B	
+58	Norwegian Riksmal	jord	juːɾ	B	
+58	Norwegian Riksmal	mold, muld		H	
+159	Stavangersk	jor	juːʁ	B	
+159	Stavangersk	måll	mɔlː	H	
+157	Old Swedish	jorð	joːrð	B	
+157	Old Swedish	muld	muld	H	
+69	Swedish	jord	juːɖ	B	
+69	Swedish	mull	mɵlː	H	
+71	Swedish Vilhelmina	JOL		B	
+70	Swedish Uppland	MARK			
+70	Swedish Uppland	JORD		B	
+145	Elfdalian	muld	mʉld	H	
+20	Danish	jord	joˀɐ̯	B	
+20	Danish	muld	mulˀ	H	
+158	Danish Fjolde	juor	juoɹ	B	
+160	Old Gutnish	iorþ		B	
+161	Gutnish Lau	muld	muld	H	
+161	Gutnish Lau	jård	joːrd	B	
+99	Old English	eorþe		B	
+22	English	earth	ɜ:θ	B	
+26	Frisian	ierde	'i.ədə	B	
+21	Dutch	aarde	'ardə	B	
+24	Flemish	AERDE		B	
+83	Afrikaans	AARDE		B	
+87	Sranan	GRON			
+126	Old High German	erda		B	
+27	German	Erde	'e:ɐ̯də	B	
+86	Pennsylvania Dutch	AIIRD		B	
+120	Luxembourgish	Buedem			
+121	German Switzerland	härd		B	
+107	Gothic	aírþa		B	
+130	Oscan	teras		F	
+112	Latin	humus	ˈhumus	(C)	
+112	Latin	terra	ˈterːa	F	
+17	Catalan	terra	ˈtɛrə	F	
+56	Portuguese	terra	ˈtɛʀɐ	F	
+56	Portuguese	solo		O	
+56	Portuguese	CHAO			
+68	Spanish	tierra	'tjera	F	
+61	Sardinian Cagliari	TERRA		F	
+62	Sardinian Logudoro	TERRINU		F	
+63	Sardinian Nuoro	TERRA		F	
+85	French Creole Dominica	TE		F	
+76	Walloon	TERE, TERE		F	
+25	French	terre	tɛʀ	F	
+57	Provencal	TERRO		F	
+42	Ladin	TERRA		F	
+146	Dolomite Ladino	tèrå		F	
+123	Romansh	tiara		F	
+122	Friulian	tiere		F	
+39	Italian	terra	'tɛrra	F	
+59	Romanian	SOL			
+59	Romanian	pământ			
+74	Vlach	CARE			
+140	Gaulish	diarā		G	
+140	Gaulish	talamo-		A	
+127	Old Irish	tír	tʹi:rʹ	(F)	
+127	Old Irish	cré	kʹrʹe:	Q	
+127	Old Irish	talam	taləṽ	(A)	
+149	Old Cornish	tir		(F)	
+149	Old Cornish	doer		G	
+101	Middle Cornish	gweres	'gwɛrɛs		
+101	Middle Cornish	tir	ti:r	(F)	
+101	Middle Cornish	dor	dɔ:r	(G)	
+148	Old Breton	tir		(F)	
+148	Old Breton	doiar		G	
+172	Middle Breton	douar	ˈduːar	G	
+12	Breton	douar	ˈduːar	G	
+150	Old Welsh	dayr		G	
+150	Old Welsh	tir		(F)	
+79	Welsh	pridd		Q	
+79	Welsh	daear		G	
+79	Welsh	tir		(F)	
+38	Irish	tír		(F)	
+38	Irish	cré		Q	
+38	Irish	talamh		(A)	
+115	Scottish Gaelic	talamh		A	
+115	Scottish Gaelic	tír		(F)	
+147	Manx	thalloo		A	
+5	[Legacy] Albanian T	dhe	ðɛ	C	
+5	[Legacy] Albanian T	tokë			
+29	[Legacy] Greek K	CHOMA		I	
+28	[Legacy] Greek D	CHOMA		I	
+30	[Legacy] Greek Md	CHOMA		I	
+64	[Legacy] Serbocroatian	ZEMLJA		C	
+113	[Legacy] Serbian	zemlja	zěmʎa	C	
+113	[Legacy] Serbian	tlo			
+113	[Legacy] Serbian	domovina			
+89	[Legacy] Bulgarian P	ZEM A		C	
+49	[Legacy] Macedonian	ZEMJA		C	
+94	[Legacy] Russian P	ZEML A		C	
+93	[Legacy] Polish P	ZIEMIA		C	
+90	[Legacy] Byelorussian P	Z AML A		C	
+98	[Legacy] Ukrainian P	ZEML A		C	
+19	[Legacy] Czech E	ZEM, HLINA		C	
+96	[Legacy] Slovak P	ZEM		C	
+91	[Legacy] Czech P	ZEME		C	
+67	[Legacy] Slovenian	ZEMLA		C	
+45	[Legacy] Lithuanian O	ZEME		C	
+11	[Legacy] Brazilian	SOLO		F	
+142	[Legacy] German Munich	Erde		B	
+84	[Legacy] French Creole C	TE		F	
+14	[Legacy] Breton St	tir		(F)	
+14	[Legacy] Breton St	douar	ˈduːaʁ	G	
+13	[Legacy] Breton Se	DOUAR		G	
+78	[Legacy] Welsh C	PRIDD		Q	
+37	[Legacy] Irish A	CRE		Q	
+37	[Legacy] Irish A	ITHIR		F	

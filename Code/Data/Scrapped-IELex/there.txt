@@ -1,0 +1,155 @@
+80	Hittite	apiya			
+81	Tocharian A	tmaṃ		B	
+82	Tocharian B	tane		B	
+82	Tocharian B	omp		B	
+88	Albanian	ATJE		B	
+143	Standard Albanian	atje		B	
+2	Albanian Sicily	ATJE		B	
+4	Albanian Corinth	ATJE		B	
+3	Albanian Gheg	ATJE, ATY		B	
+6	Albanian Tosk	ATJE		B	
+110	Ancient Greek	ἐκεῖ	ekȇː	E, M	
+32	Greek	εκεί	e̞ˈci	E, M	
+31	Greek Lesbos	EKEI		E, M	
+129	Classical Armenian	and			
+8	Armenian Eastern	aynteł		B	
+7	Armenian Western	HON			
+131	Old Persian	avadā		L	
+136	Sogdian	’wc’		L	
+75	Wakhi	DRA, HUDRA, TRA, HUTRA, TRET, DRET		J	
+9	Baluchi	ODHA		L	
+137	Zazaki	owrā		L	
+72	Tajik	DAR ON CO		J	
+54	Persian	unja	ɒːndʒɒː	L	
+77	Waziri	WOLATA		A	
+1	Pashto	HALTA		A	
+138	Shughni	yamand, yamard			
+139	Sarikoli	woδ, moδ, doδ		L	
+139	Sarikoli	ы/ům		L	
+52	Ossetic	um	wɨm	G	
+124	Ossetic Iron	wym	wym	G	
+125	Ossetic Digor	womi	womi	G	
+105	Vedic Sanskrit	tátra		B	
+162	Pāḷī	tattha		B	
+41	Khaskura	UTHA		L	
+51	Nepali	UTA		L	
+51	Nepali	TYAHA		B	
+106	Assamese	tāt(e)		B	
+102	Oriya	se(i)ṭhi	se(i)ʈhi		
+10	Bengali	OKHANE			
+111	Bihari	omhar, ota, ohiṭhām		L	
+111	Bihari	tatau		B	
+144	Magahi	उंहा	ʊhɑ̃		
+104	Marwari	uʈʈhɛ	uʈʈhɛ	L	
+35	Hindi	VEHA		L	
+119	Urdu	وہاں	wəhɑ̃	L	
+103	Sindhi	tithe			
+103	Sindhi	(h)utē	(h)utē	L	
+43	Lahnda	UTTHA		L	
+53	Punjabi	OTTHE		L	
+33	Gujarati	TYA		B	
+50	Marathi	tethe, titha	'tetʰe, 'titʰə	L	
+40	Kashmiri	TOR, TOTU		B	
+65	Sinhalese	ETANA			
+34	Romani Greece	KOTE		B	
+100	Old Church Slavonic	тѹ	tu	B	
+95	Serbo-Croatian	tamo	ˈtâmɔ	B	
+15	Bulgarian	там	tam	B	
+92	Macedonian	таму	ˈtamu	B	
+60	Russian	там	tam	B	
+55	Polish	tam	tam	B	
+16	Belarusian	там	tam	B	
+73	Ukrainian	там	tam	B	
+66	Slovak	tam	tam	B	
+18	Czech	tam	tam	B	
+48	Sorbian Upper	tam	tam	B	
+47	Sorbian Lower	tam	tam	B	
+97	Slovenian	tam	tam	B	
+108	Old Prussian	stwen		B	
+44	Latvian	tùr		B	
+46	Lithuanian	TEN, TENAI		I	
+109	Old Norse	þar	θar	B	
+36	Icelandic	þar	θaːr	B	
+23	Faroese	har	hɛaːɹ	B	
+58	Norwegian Riksmal	der	dæːɾ	B	
+159	Stavangersk	der	dɛːʁ	B	
+157	Old Swedish	thär	θæːr	B	
+69	Swedish	där	dæːr	B	
+71	Swedish Vilhelmina	DAR, DENA  DENAN		B	
+70	Swedish Uppland	DAR		B	
+145	Elfdalian	dar	dɑːr	B	
+20	Danish	der	dɛɐ̯	B	
+158	Danish Fjolde	deær	deæɹ	B	
+160	Old Gutnish	þar		B	
+161	Gutnish Lau	där	dɛːr	B	
+99	Old English	þǣr		B	
+22	English	there	ðɛə	B	
+26	Frisian	der	dər	B	
+21	Dutch	daar, aldaar	dar, ɑl'dar	B	
+24	Flemish	DAER		B	
+83	Afrikaans	DAAR		B	
+87	Sranan	JANDA, JANDASO			
+126	Old High German	dār		B	
+27	German	dort	dɔrt	B	
+86	Pennsylvania Dutch	ES			
+120	Luxembourgish	do		B	
+121	German Switzerland	dört		B	
+107	Gothic	þar		B	
+130	Oscan	ifei		S	
+132	Umbrian	ef		S	
+132	Umbrian	eruk		S	
+132	Umbrian	ife		S	
+112	Latin	illīc		(C)	
+112	Latin	ibi	ˈibiː	S	
+17	Catalan	allà	ə’ʎa		
+17	Catalan	aqui	ə’ki	C	
+56	Portuguese	ALLI, ACOLA		C	
+56	Portuguese	aí	ɐˈi	C	
+68	Spanish	ALLA		C	
+68	Spanish	ahí	a'i	C	
+61	Sardinian Cagliari	INNIA		H, S	
+62	Sardinian Logudoro	INNI		H, S	
+63	Sardinian Nuoro	IN KUE		H, S	
+85	French Creole Dominica	LA		C	
+76	Walloon	LA		C	
+25	French	là	la	C	
+57	Provencal	LA, CAI, SIAN		C	
+42	Ladin	ACQUI / ALLO, QUANDER / QUI		C	
+123	Romansh	là		C	
+122	Friulian	là, culà		C	
+39	Italian	là, colà, lì	la, ko'la, li	C	
+59	Romanian	acolo	aˈkolo	C	
+74	Vlach	AKLO		C	
+127	Old Irish	tall	tall		
+101	Middle Cornish	ena	'ɛna	K	
+172	Middle Breton	vase	ˈvaːse		
+12	Breton	aze		D	
+79	Welsh	yno		K	
+38	Irish	ansin	ənˈʃinʲ	F	
+115	Scottish Gaelic	an siud		(F)	
+115	Scottish Gaelic	an sin		F	
+5	[Legacy] Albanian T	atje	atˈjɛ	B	
+29	[Legacy] Greek K	EKEI		E, M	
+28	[Legacy] Greek D	EKEI		E, M	
+30	[Legacy] Greek Md	EKEI		E, M	
+64	[Legacy] Serbocroatian	TAMO		B	
+113	[Legacy] Serbian	tamo	tâmo	B	
+113	[Legacy] Serbian	eno		I	
+89	[Legacy] Bulgarian P	TAM		B	
+49	[Legacy] Macedonian	tamy	ˈtamu	B	
+94	[Legacy] Russian P	TAM		B	
+93	[Legacy] Polish P	TAM		B	
+90	[Legacy] Byelorussian P	TAM		B	
+98	[Legacy] Ukrainian P	TAM		B	
+19	[Legacy] Czech E	TAM		B	
+96	[Legacy] Slovak P	TAM		B	
+91	[Legacy] Czech P	TAM		B	
+67	[Legacy] Slovenian	TOM		B	
+45	[Legacy] Lithuanian O	TENAI		I	
+11	[Legacy] Brazilian	ai	aˈi	C	
+142	[Legacy] German Munich	da		B	
+84	[Legacy] French Creole C	LA		C	
+14	[Legacy] Breton St	aze	ˈaze	D	
+13	[Legacy] Breton Se	AZE		D	
+78	[Legacy] Welsh C	YNA		K	
+37	[Legacy] Irish A	ANNSAN		F	

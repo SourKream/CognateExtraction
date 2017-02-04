@@ -1,0 +1,167 @@
+114	Proto-Indo-European	*prs-o-		H	
+133	Luvian	pasūriyas			
+81	Tocharian A	twe		Q	
+82	Tocharian B	tweye		Q	
+88	Albanian	PLUHUNI		F	
+143	Standard Albanian	pluhur		F	
+2	Albanian Sicily	PLUXURAC		F	
+4	Albanian Corinth	SKON		(J)	
+3	Albanian Gheg	PLUHUNI		F	
+6	Albanian Tosk	PLUHUR		F	
+110	Ancient Greek	κόνις	kóniːs	J	
+32	Greek	σκόνη	ˈsko̞ni	J	
+31	Greek Lesbos	SKONE		J	
+129	Classical Armenian	փոշի	pʰɔʃi	D	
+8	Armenian Eastern	փոշի	pʰoˈʃi	D	
+7	Armenian Western	փոշի	pʰoˈʃi	D	
+128	Avestan	pąsnuš		U	
+136	Sogdian	γwrm(h)		V	
+75	Wakhi	XSUREM		E	
+75	Wakhi	GERD		A	
+9	Baluchi	DATO, DANZ		W	
+72	Tajik	CAND		A	
+72	Tajik	GARD		A	
+54	Persian	KHAK		S	
+77	Waziri	KHAIRPAL		X	
+1	Pashto	GARZ		A	
+138	Shughni	sit		(T)	
+138	Shughni	γubōr		Y	
+138	Shughni	gard		(A)	
+139	Sarikoli	čong		Z	
+139	Sarikoli	sit		Aa, (T)	
+52	Ossetic	ryg	rɨɡ	G	
+52	Ossetic	CYREN		E	
+52	Ossetic	TAEVD		L	
+52	Ossetic	TAERK		L	
+124	Ossetic Iron	ryg	ryg	G	
+125	Ossetic Digor	rugɐ	rugɐ	G	
+141	Kata-viri	pʌrʌ̱s		H	
+105	Vedic Sanskrit	rēṇús		Ab	
+162	Pāḷī	reṇu		Ab	
+41	Khaskura	DHULO		C	
+51	Nepali	KHAG		(S)	
+51	Nepali	DHULO		C	
+106	Assamese	dhuli	dhuli	C	
+102	Oriya	guṇḍɔ	guɳɖɔ	Ad	
+102	Oriya	dhuḷi	dhuɭi	C	
+102	Oriya	kuheḷi(ka)	kuheɭi(ka)	Ac	
+10	Bengali	DHULA		C	
+144	Magahi	धूरी	d̪ʰuri	C	
+144	Magahi	गरदा	ɡərd̟ɑ	(A)	
+35	Hindi	DHUL		C	
+119	Urdu	گَرد	ɡəɾd̪	(A)	
+103	Sindhi	miTii		P	
+43	Lahnda	MITTI		P	
+53	Punjabi	TUR		C	
+33	Gujarati	DHUL		C	
+50	Marathi	dhūl	dʱuɭ	C	
+40	Kashmiri	KHAKH		(S)	
+40	Kashmiri	LATSH		Ae	
+40	Kashmiri	PHEKH		Af	
+65	Sinhalese	DUWILI		C	
+34	Romani Greece	SKONI		(J)	
+100	Old Church Slavonic	прахъ	prɑxʊ̆	H	
+95	Serbo-Croatian	prašina	ˈprǎʃina	H	
+15	Bulgarian	прах	prax	H	
+92	Macedonian	прав	prav	H	
+60	Russian	пыль	pɨlʲ	R	
+55	Polish	pył	pɘ̟w	R	
+55	Polish	kurz	kuʂ	Ag	
+16	Belarusian	пыл	pɨɫ	R	
+73	Ukrainian	порох	ˈpɔrɔx	H	
+66	Slovak	prach	prax	H	
+18	Czech	prach	prax	H	
+48	Sorbian Upper	proch	pʀɔx	H	
+47	Sorbian Lower	proch	prɔx	H	
+97	Slovenian	prah	prâːx	H	
+44	Latvian	putekl̜I		R	
+44	Latvian	pîs̀l-̜i			
+46	Lithuanian	DULKES		Q	
+109	Old Norse	dumba	ˈdumba	(N)	
+109	Old Norse	joreykr		(I)	
+109	Old Norse	dust	dust	Q	
+109	Old Norse	damm	damː	(N)	
+36	Icelandic	dust	d̥ʏst	Q	
+36	Icelandic	ryk	rɪːk	I	
+23	Faroese	dust	d̥ʊst	Q	
+23	Faroese	støv	støːv	(B)	
+58	Norwegian Riksmal	dust	dʉst	Q	
+58	Norwegian Riksmal	støv	støːʋ	(B)	
+159	Stavangersk	dust	dʉst	Q	
+157	Old Swedish	dust	dust	Q	
+69	Swedish	stoft	stɔft	(B)	
+69	Swedish	damm	damː	N	
+71	Swedish Vilhelmina	DAM		N	
+70	Swedish Uppland	DAMM		N	
+145	Elfdalian	damb	dɑmb	N	
+20	Danish	støv	sd̥ʰø̞ˀw	(B)	
+158	Danish Fjolde	ståv	sdɔw	(B)	
+99	Old English	dūst		Q	
+22	English	dust	dʌst	Q	
+26	Frisian	stof	stɔf	B	
+21	Dutch	stof	stɔf	B	
+24	Flemish	STOF		B	
+83	Afrikaans	STOF		B	
+87	Sranan	STOF		B	
+126	Old High German	melm		M	
+126	Old High German	stuppi		B	
+126	Old High German	stoub		B	
+27	German	Staub	ʃtaŭp	B	
+86	Pennsylvania Dutch	SCHTAWB		B	
+120	Luxembourgish	Stëbs		B	
+121	German Switzerland	schtoub		B	
+107	Gothic	stubjus		B	
+107	Gothic	mulda		M	
+112	Latin	puluis	ˈpulwis	F	
+17	Catalan	pols	pols	F	
+56	Portuguese	poeira	puˈejɾɐ	F	
+68	Spanish	polvo	'polβo	F	
+61	Sardinian Cagliari	PRUINI		F	
+62	Sardinian Logudoro	PIUERE		F	
+63	Sardinian Nuoro	PRUERE		F	
+85	French Creole Dominica	PUSYE		F	
+76	Walloon	POUSSIRE		F	
+25	French	poussière	pusjɛʀ	F	
+57	Provencal	POUSSO		F	
+42	Ladin	PUOLVRA		F	
+146	Dolomite Ladino	polver		F	
+123	Romansh	pulvra		F	
+122	Friulian	polvar		F	
+39	Italian	polvere	'polvere	F	
+59	Romanian	praf		H	
+59	Romanian	pulbere		F	
+74	Vlach	KURNAXTO			
+127	Old Irish	lúaithred	lu:əθʹrʹəð		
+101	Middle Cornish	polter		(F)	
+101	Middle Cornish	doust	du:st	(Q)	
+172	Middle Breton	poultr	ˈpultr	Ah, (F)	
+12	Breton	poultr	ˈpult(r)	Ah, (F)	
+79	Welsh	ll(u)wch		(O)	
+38	Irish	deannach			
+38	Irish	ceo		(K)	
+115	Scottish Gaelic	stùr			
+5	[Legacy] Albanian T	PLUHUR		F	
+29	[Legacy] Greek K	KONIORTOS		J	
+28	[Legacy] Greek D	SKONE		J	
+30	[Legacy] Greek Md	SKONE		J	
+64	[Legacy] Serbocroatian	PRASINA		H	
+113	[Legacy] Serbian	prašina	prǎʃina	H	
+89	[Legacy] Bulgarian P	PRACH		H	
+49	[Legacy] Macedonian	PRAV		H	
+94	[Legacy] Russian P	PYL		R	
+93	[Legacy] Polish P	PROCH		H	
+90	[Legacy] Byelorussian P	PYL		R	
+98	[Legacy] Ukrainian P	POROCH		H	
+19	[Legacy] Czech E	PRAX		H	
+96	[Legacy] Slovak P	PRACH		H	
+91	[Legacy] Czech P	PRACH		H	
+67	[Legacy] Slovenian	PRAH		H	
+45	[Legacy] Lithuanian O	DULKES		Q	
+11	[Legacy] Brazilian	PO, POEIRA		F	
+142	[Legacy] German Munich	Staub		B	
+84	[Legacy] French Creole C	PUSYE		F	
+14	[Legacy] Breton St	poultrenn	'pultrɛn	(F)	
+13	[Legacy] Breton Se	HUAN			
+78	[Legacy] Welsh C	LLWCH		O	
+37	[Legacy] Irish A	DUSTA		(Q)	
+37	[Legacy] Irish A	CEO		K	

@@ -1,0 +1,181 @@
+80	Hittite	harranz			
+82	Tocharian B	āmpau		O	
+88	Albanian	PERTATS		M	
+88	Albanian	DEMEL		N	
+143	Standard Albanian	i, e kalbur		C	
+2	Albanian Sicily	I-KALBET		C	
+4	Albanian Corinth	I KALHBETE		C	
+3	Albanian Gheg	KALBET		C	
+3	Albanian Gheg	DEMEL		N	
+3	Albanian Gheg	PERTATS		M	
+6	Albanian Tosk	KALHBUR		C	
+110	Ancient Greek	σαπρός	saprós	Q	
+32	Greek	σάπιος	ˈsapço̞s	Q	
+31	Greek Lesbos	SAPIOS		Q	
+129	Classical Armenian	փուտ	p'ut		
+129	Classical Armenian	նեխեալ	nexeal		
+129	Classical Armenian	փտեալ	p'teal		
+8	Armenian Eastern	nexac			
+8	Armenian Eastern	p’tac	pʰəˈtɑʦ	O	
+7	Armenian Western	PUDAZ		O	
+128	Avestan	pūtō		O	
+136	Sogdian	pwtqy		O	
+75	Wakhi	PITK		O	
+9	Baluchi	GALAGH			
+72	Tajik	PUSIDA		O	
+54	Persian	PUSIDE		O	
+77	Waziri	WROST		A	
+1	Pashto	VROST		A	
+139	Sarikoli	peδǰ		O	
+52	Ossetic	aembyd	æmbɨd	O	
+124	Ossetic Iron	ɐmbyd	ɐmbyd	O	
+125	Ossetic Digor	ɐmbud	ɐmbud	O	
+105	Vedic Sanskrit	pú̄tis		O	
+162	Pāḷī	pūtika		O	
+51	Nepali	MAKINU (VB.)			
+51	Nepali	BISADDE		H	
+106	Assamese	pɒsa	pɒsa	G	
+102	Oriya	pɔča	pɔča	G	
+102	Oriya	sɔḍha	sɔɖha	H	
+10	Bengali	JAOA (TO ROT)			
+10	Bengali	POCE		G	
+111	Bihari	sarab		I	
+144	Magahi	सडल	səɽəl		
+104	Marwari	kədẽ	kədẽ		
+35	Hindi	SERA		I	
+119	Urdu	گَلا ہُؤا	ɡəlɑ hʊwɑ		
+43	Lahnda	SERI		I	
+53	Punjabi	SEREA HOYA		I	
+50	Marathi	sadlela	səɖ'lelə	H	
+50	Marathi	naska			
+50	Marathi	sadkā	səɖ'ka	H	
+40	Kashmiri	DODURU			
+65	Sinhalese	DIRACCA			
+34	Romani Greece	SAPYO		(Q)	
+100	Old Church Slavonic	съгнилъ	sʊ̆ɡnilʊ̆	F	
+95	Serbo-Croatian	gnjio	ˈɡɲî.ɔ	F	
+95	Serbo-Croatian	truo	ˈtrû.ɔ	Aa	
+15	Bulgarian	гнил	gniɫ	F	
+92	Macedonian	гнил	ɡnil	F	
+60	Russian	гнилой	gnʲi'ɫɔj	F	
+55	Polish	zgniły	zɡɲiwɘ̟	F	
+16	Belarusian	гнілы	ɣnʲiˈɫɨ	F	
+73	Ukrainian	гнилий	ɦnɪˈɫɪj	F	
+66	Slovak	zhnitý	ˈzɦɲitiː	F	
+18	Czech	shnilý	sxɲɪliː	F	
+48	Sorbian Upper	zhniły	ˈznʲiwɘ̟	F	
+47	Sorbian Lower	zgnity	ˈzɡɲitɘ̟	F	
+97	Slovenian	gnil	gnîːw	F	
+44	Latvian	satrunẽjis		J	
+44	Latvian	sapuvis		O	
+46	Lithuanian	SUPUVES		O	
+109	Old Norse	morkinn	ˈmorkinː	(R)	
+109	Old Norse	meyrr		(V)	
+109	Old Norse	rotinn	ˈrotinː	(B)	
+109	Old Norse	fúna	ˈfuːna	(O)	
+109	Old Norse	fúinn	ˈfuːinː	(O)	
+36	Icelandic	rotinn	ˈrɔːtʰɪnː	(B)	
+36	Icelandic	fúinn	ˈfuːɪnː	(O)	
+36	Icelandic	morkinn	ˈmɔr̥kʰɪnː	R	
+36	Icelandic	meyr		V	
+23	Faroese	morkin	ˈmɔɹ̥tʃɪn	R	
+23	Faroese	spiltur	ˈspɪltʰʊɹ	(T)	
+23	Faroese	rotin	ˈɹoːtʰɪn	(B)	
+23	Faroese	fúgvin	ˈfɪɡ̊vɪn	(O)	
+58	Norwegian Riksmal	morken	ˈmùɾkən	R	
+58	Norwegian Riksmal	råtten	ˈɾɔ̀tːən	(B)	
+159	Stavangersk	rådn	ˈʁòːdn̩	(B)	
+157	Old Swedish	mör		V	
+157	Old Swedish	rutin	ˈruːtin	(B)	
+69	Swedish	multen		X	
+69	Swedish	murken	ˈmɵ̀rkən	R	
+69	Swedish	rutten	ˈrɵ̀tːən	(B)	
+71	Swedish Vilhelmina	ROTAN		B	
+70	Swedish Uppland	RUTTEN		B	
+145	Elfdalian	rotin		(B)	
+145	Elfdalian	fuoskun	ˈfʉə̀skʉn	(S)	
+20	Danish	mør		V	
+20	Danish	rådden	ˈʁʌðən	(B)	
+158	Danish Fjolde	morsk		(W)	
+158	Danish Fjolde	rårn	ɹɔɹn	B	
+160	Old Gutnish	fulr		(O)	
+161	Gutnish Lau	rutn	ruːtn	(B)	
+161	Gutnish Lau	fäular	ˈfɛular	(O)	
+161	Gutnish Lau	multän		X	
+161	Gutnish Lau	musken		R	
+99	Old English	fūl		O	
+22	English	rotten	'rɒtən	(B)	
+26	Frisian	rotsje	rɔtsjə	B	
+21	Dutch	versleten	vər'sletə(n)	(U)	
+21	Dutch	vermolmd		Y	
+21	Dutch	verrot	və'rɔt	(B)	
+24	Flemish	VERROTTEN		B	
+83	Afrikaans	ROT, VERROT, BEDERF, BEDERWE		B	
+87	Sranan	PORI			
+126	Old High German	fūl		O	
+27	German	faul	faŭl	O	
+86	Pennsylvania Dutch	FAUL		O	
+120	Luxembourgish	faul		O	
+121	German Switzerland	morsch			
+107	Gothic	fūls		O	
+112	Latin	putridus	ˈputridus	O	
+17	Catalan	podrit	puðɾit	O	
+17	Catalan	CORROMPUT			
+56	Portuguese	podre	ˈpodɾɨ	O	
+68	Spanish	podrido	poð'ɾiðo	O	
+61	Sardinian Cagliari	MALU		K	
+62	Sardinian Logudoro	MALZU		K	
+63	Sardinian Nuoro	ISKUSSERTU			
+85	French Creole Dominica	PUWI		O	
+76	Walloon	(TO ROT) POURI		O	
+25	French	pourri	puʀi	O	
+57	Provencal	POURRI		O	
+57	Provencal	COUNFI, IDO			
+42	Ladin	PUTIRD		O	
+146	Dolomite Ladino	sgnech			
+146	Dolomite Ladino	marz		P	
+123	Romansh	marsch		P	
+122	Friulian	vuast			
+122	Friulian	frait			
+39	Italian	marcio	'martʃo	P	
+59	Romanian	putred		O	
+74	Vlach	PRUDITU		O	
+74	Vlach	ASPARTU			
+127	Old Irish	lobtha	loβθa	D	
+127	Old Irish	morgthae	morgθe	(Z)	
+101	Middle Cornish	poder	'pɔdɛr	L, (O)	
+101	Middle Cornish	casadow			
+101	Middle Cornish	podrethek		(L), (O)	
+101	Middle Cornish	breyn	brɛɪn	E	
+101	Middle Cornish	pesach			
+172	Middle Breton	brein, breyn	ˈbrejn	E	
+12	Breton	brein	ˈbrejn	E	
+79	Welsh	braen		E	
+79	Welsh	pwdr		L, (O)	
+38	Irish	morgtha		(Z)	
+38	Irish	dreoite			
+38	Irish	lofa		D	
+115	Scottish Gaelic	loibhte		D	
+115	Scottish Gaelic	grod			
+5	[Legacy] Albanian T	I, E KALBUR		C	
+64	[Legacy] Serbocroatian	GNJIO		F	
+113	[Legacy] Serbian	truo	trûo		
+113	[Legacy] Serbian	gnjio	ɡɲîo	F	
+89	[Legacy] Bulgarian P	GNIL		F	
+49	[Legacy] Macedonian	IZGNIEN, SKAPAN, GNILI		F	
+94	[Legacy] Russian P	GNILOJ		F	
+93	[Legacy] Polish P	ZGNILY		F	
+90	[Legacy] Byelorussian P	HNILY		F	
+98	[Legacy] Ukrainian P	HNYLYJ		F	
+19	[Legacy] Czech E	HNYILE		F	
+96	[Legacy] Slovak P	HNILY		F	
+91	[Legacy] Czech P	SHNILY		F	
+67	[Legacy] Slovenian	GRULA			
+45	[Legacy] Lithuanian O	SUPUVES		O	
+11	[Legacy] Brazilian	PODRE		O	
+142	[Legacy] German Munich	morsch			
+84	[Legacy] French Creole C	PUHWI		O	
+14	[Legacy] Breton St	brein	brɛjn	E	
+13	[Legacy] Breton Se	BREIN		E	
+78	[Legacy] Welsh C	PWDR		L, (O)	
+37	[Legacy] Irish A	LOBHTHA		D	

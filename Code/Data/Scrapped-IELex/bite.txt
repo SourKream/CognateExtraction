@@ -1,0 +1,164 @@
+114	Proto-Indo-European	*denk̑-		A	
+114	Proto-Indo-European	*gᵘrug̑ʰ-			
+114	Proto-Indo-European	*h₁ed-			
+80	Hittite	wāki			
+81	Tocharian A	tsāk-		A	
+82	Tocharian B	tsāk-		A	
+88	Albanian	KAPSHOJ		C	
+143	Standard Albanian	kafshoj		(C)	
+2	Albanian Sicily	ZE NE AC		D	
+4	Albanian Corinth	ZEE AAJ		D	
+3	Albanian Gheg	KAPSHOJ		C	
+6	Albanian Tosk	KAFSON		C	
+110	Ancient Greek	δάκνω	dáknɔː	A	
+152	Tsakonian	κατσíνου			
+32	Greek	δαγκώνω	ðaˈ(ŋ)ɡo̞no̞	A	
+31	Greek Lesbos	DAGKANO		A	
+129	Classical Armenian	խածանեմ	xacanem	(J)	
+129	Classical Armenian	կծ(ան)եմ	kit͡s(-ɑn)-ɛ-m	S	
+8	Armenian Eastern	կծել	kəˈʦɛl	S	
+7	Armenian Western	խածնել	χɑd͡znɛl	S	
+128	Avestan	dąs-		A	
+136	Sogdian	zβ’t-		V	
+75	Wakhi	DENDUK DI-		N	
+75	Wakhi	GUP DI-		E	
+9	Baluchi	WARAGH, WARTHA		L	
+118	Kurdish	geztin		T	
+72	Tajik	gazidan	ɡæzidæn	T	
+54	Persian	DANDAN GEREFTAN		N	
+77	Waziri	CHICHEL		S	
+1	Pashto	CICEL		S	
+138	Shughni	pirēnd		R	
+139	Sarikoli	ži/ыɣw : ži/ыɣud		U	
+52	Ossetic	xaecyn	χætsɨn	O	
+124	Ossetic Iron	χɐs-	χɐs-	O	
+125	Ossetic Digor	χwɐc-	χwɐc-	O	
+141	Kata-viri	aṭušˑɪo		W	
+105	Vedic Sanskrit	dáś-		A	
+162	Pāḷī	ḍasati		A	
+41	Khaskura	TOKNU		Q	
+51	Nepali	TOKNU		Q	
+106	Assamese	kamor	kamor	P	
+102	Oriya	kamuṛ-	kamuɽ-	P	
+10	Bengali	CIBONO		F	
+111	Bihari	kaʈəb	kaʈəb	M	
+144	Magahi	काटना	kɑtənɑ	M	
+104	Marwari	ghavabō		X	
+35	Hindi	KHANA		Ab	
+119	Urdu	کاٹنا	kɑʈnə	M	
+103	Sindhi	chaka		Y	
+43	Lahnda	KETTEN		M	
+53	Punjabi	VEDDENA			
+33	Gujarati	KERERWU		M	
+50	Marathi	tsāwā	'tsawa	F	
+50	Marathi	cavne		F	
+40	Kashmiri	TSAPUN		F	
+65	Sinhalese	HAPANAWA		Z	
+34	Romani Greece	DANDALAV		N	
+100	Old Church Slavonic	хапати	xɑpɑti	I	
+100	Old Church Slavonic	грысти	ɡrɯsti	S	
+95	Serbo-Croatian	gristi	ˈɡrîzti	S	
+15	Bulgarian	хапя	ˈxapʲə	I	
+92	Macedonian	каса	ˈkasa	J	
+60	Russian	кусать	kuˈsatʲ	J	
+55	Polish	gryźć	ɡrɘ̟ʑʨ	S	
+16	Belarusian	кусаць	kuˈsatsʲ	J	
+73	Ukrainian	кусати	kuˈsatɪ	J	
+66	Slovak	hrýzť	ɦriːzc	S	
+18	Czech	kousat	ˈkɔusat	J	
+48	Sorbian Upper	kusać	ˈkusatʃ	J	
+47	Sorbian Lower	kusaś	ˈkusaɕ	J	
+97	Slovenian	gristi	ˈɡrǐːzti	S	
+44	Latvian	kôž		J	
+46	Lithuanian	KASTI		J	
+109	Old Norse	bíta	ˈbiːta	B	
+36	Icelandic	bíta	ˈb̥iːtʰa	B	
+23	Faroese	bíta	ˈb̥ʊiːta	B	
+58	Norwegian Riksmal	bite	ˈbìːtə	B	
+159	Stavangersk	bida	ˈbìːda	B	
+157	Old Swedish	bita	ˈbiːta	B	
+69	Swedish	bita	ˈbì:ta	B	
+71	Swedish Vilhelmina	BIT		B	
+70	Swedish Uppland	BITA		B	
+145	Elfdalian	baita	bɑ̀ɪtɑ	B	
+20	Danish	bide	ˈb̥iːðə	B	
+158	Danish Fjolde	bit	bid	B	
+160	Old Gutnish	bita		B	
+161	Gutnish Lau	bäitä	ˈbɛɪtɛ	B	
+99	Old English	bītt		B	
+22	English	to bite	baɪt	B	
+26	Frisian	bite	bitət	B	
+21	Dutch	bijten	'bɛitə(n)	B	
+24	Flemish	BYTEN		B	
+83	Afrikaans	BYT		B	
+87	Sranan	NJAM			
+87	Sranan	BETI		B	
+126	Old High German	bīzit		B	
+27	German	beissen	'baĭsn̩	B	
+86	Pennsylvania Dutch	BEISZ		B	
+120	Luxembourgish	bäissen		B	
+121	German Switzerland	biisse		B	
+107	Gothic	beitiþ		B	
+112	Latin	mordēre	morˈdeːre	G	
+17	Catalan	mossegar	musəˈɣa	K	
+17	Catalan	picar	pi'ka		
+56	Portuguese	morder	muɾˈdeɾ	G	
+68	Spanish	morder	moɾ'ðeɾ	G	
+61	Sardinian Cagliari	MUSSIAI		K	
+62	Sardinian Logudoro	MOSSIGARE		K	
+63	Sardinian Nuoro	MOSSIKRARE		K	
+85	French Creole Dominica	MODE		G	
+76	Walloon	HAGNI			
+25	French	mordre	mɔʀdʀ	G	
+57	Provencal	MORDRE		G	
+42	Ladin	MORDER		G	
+146	Dolomite Ladino	morde		G	
+146	Dolomite Ladino	zachèr			
+123	Romansh	punscher			
+123	Romansh	morder		G	
+122	Friulian	muardi		G	
+39	Italian	mordere	'mɔrdere	G	
+59	Romanian	a mușca	a muʃˈka	K	
+74	Vlach	MYSKU		K	
+127	Old Irish	cnaïd	kna.ið	(J)	
+127	Old Irish	ithid	iθʹəðʹ		
+101	Middle Cornish	bratha	'braθa	Ac	
+101	Middle Cornish	dynsel		(Ae)	
+101	Middle Cornish	danta		(Ae)	
+101	Middle Cornish	deintio		(Ae)	
+101	Middle Cornish	cnoi		(J)	
+172	Middle Breton	dantaff	ˈdantaṽ	Ae	
+172	Middle Breton	creguiff	ˈkreːgiṽ	(H)	
+12	Breton	krogiñ, kregiñ	ˈkroːgĩ, ˈkreːgĩ	Ad, H	
+79	Welsh	brathu		Ac	
+38	Irish	greim (nn.)		Aa	
+38	Irish	cogain		(J)	
+115	Scottish Gaelic	bìd		(B)	
+115	Scottish Gaelic	thor gréim		(Aa)	
+147	Manx	greim		Aa	
+5	[Legacy] Albanian T	me kafshuar		C	
+29	[Legacy] Greek K	DAGEANO		A	
+28	[Legacy] Greek D	DAGKONO		A	
+30	[Legacy] Greek Md	DAGKANO		A	
+64	[Legacy] Serbocroatian	UGRISTI		S	
+113	[Legacy] Serbian	ujesti	ǔjesti		
+113	[Legacy] Serbian	ugristi	ǔɡristi	S	
+89	[Legacy] Bulgarian P	CHAP A		I	
+49	[Legacy] Macedonian	kása	ˈkasa	J	
+94	[Legacy] Russian P	KUSAT		J	
+93	[Legacy] Polish P	KASAC		J	
+90	[Legacy] Byelorussian P	KUSAC		J	
+98	[Legacy] Ukrainian P	KUSATY		J	
+19	[Legacy] Czech E	KUSAT		J	
+96	[Legacy] Slovak P	KUSAT		J	
+91	[Legacy] Czech P	KOUSATI		J	
+67	[Legacy] Slovenian	GRIZT		S	
+45	[Legacy] Lithuanian O	KASTI		J	
+11	[Legacy] Brazilian	MORDER		G	
+142	[Legacy] German Munich	beißen		B	
+84	[Legacy] French Creole C	MODE		G	
+14	[Legacy] Breton St	kregiñ	'krɛ:gĩn	(H)	
+14	[Legacy] Breton St	dantañ	'dãntã	(Ae)	
+13	[Legacy] Breton Se	DANTEIN		Ae	
+78	[Legacy] Welsh C	CNOI		J	
+37	[Legacy] Irish A	GREIM DO BHAINT AS		Aa	

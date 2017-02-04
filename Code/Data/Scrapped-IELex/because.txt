@@ -1,0 +1,184 @@
+80	Hittite	kuit		F	
+133	Luvian	kuiza			
+81	Tocharian A	kucne		F	
+81	Tocharian A	kuyalte		F	
+82	Tocharian B	kuce		F	
+82	Tocharian B	mäkte		J	
+88	Albanian	SEPSE		B	
+143	Standard Albanian	sepse		B	
+2	Albanian Sicily	SE		B	
+4	Albanian Corinth	PSE		B	
+3	Albanian Gheg	SEPSE		B	
+6	Albanian Tosk	SE		B	
+110	Ancient Greek	διότι	dióti	At	
+110	Ancient Greek	ἔνεκα	éneka		
+32	Greek	επειδή	epiˈði	N	
+32	Greek	διότι	ˌðiˈo̞ti	(At)	
+32	Greek	γιατί	ʝaˈti	D	
+31	Greek Lesbos	EPEIDE		N	
+129	Classical Armenian	զի	zi	V	
+129	Classical Armenian	քանզի	k‘anzi		
+8	Armenian Eastern	քանի որ	kʰɑni=ʋor		
+8	Armenian Eastern	որովհետև	ʋɔɾɔʋ(h)ɛtɛʋ	Ar	
+7	Armenian Western	որովհետեւ	vɔrɔvhɛdɛv	Ar	
+7	Armenian Western	KANZI			
+128	Avestan	zī		V	
+136	Sogdian	c’nwt		F	
+75	Wakhi	CIZER		F	
+9	Baluchi	PHA HAW-AN SAUAV, PHA HAW-AN KHAN, KI		F	
+137	Zazaki	welo-k		F	
+72	Tajik	BAROI..., BAROI XAMIN, BINOBAR IN, AZ IN SABAB		S	
+54	Persian	CHUN		F	
+1	Pashto	DZEKA CE, VALI CE		F	
+138	Shughni	čarō didi		F	
+52	Ossetic	umaen aemae	wɨmæn æmæ, womæn æmæ	S	
+124	Ossetic Iron	wymɐn ɐmɐ	wymɐn ɐmɐ	S	
+125	Ossetic Digor	womɐn ɐma	womɐn ɐma	S	
+105	Vedic Sanskrit	hí		V	
+41	Khaskura	KINAKI		P	
+51	Nepali	KASOGARI BHANE, KINAKI		P	
+106	Assamese	kitā-buliyā		Ap	
+106	Assamese	karɒpn	karɒpn	C	
+102	Oriya	jogu	jogu	Aq	
+102	Oriya	hetu	hetu	(Ae)	
+102	Oriya	boli	boli	X	
+102	Oriya	karɔṇɔ	karɔɳɔ	C	
+10	Bengali	KARON		C	
+111	Bihari	kyāk ki		O	
+144	Magahi	काहेकि	kɑheki	O	
+104	Marwari	ghālyāṃ		Ak	
+35	Hindi	KYOKE		O	
+119	Urdu	کیُوں کہ	kjũ ke	O	
+103	Sindhi	sōkō		Ah	
+103	Sindhi	ǰēl(h)ã		Ag	
+103	Sindhi	čhaǰō		Af	
+43	Lahnda	KYUKE		O	
+53	Punjabi	KYOKE		O	
+33	Gujarati	KAREN KE		C	
+50	Marathi	kāran	'kaɾəɳ	C	
+40	Kashmiri	NEMATI		Ai	
+65	Sinhalese	NISA		Aj	
+34	Romani Greece	EPIDHI		(N)	
+100	Old Church Slavonic	понѥ(жє)	pɔɲɛ(ʒɛ)	Ac, I	
+100	Old Church Slavonic	занѥ(жє)	zɑɲɛ(ʒɛ)	Ab, I	
+95	Serbo-Croatian	jer	jɛ̂r	I	
+95	Serbo-Croatian	zato što	ˈzǎtɔː ʃtɔ	A, Ab, F	
+15	Bulgarian	защото	zəˈʃtɔtu	A, Ab, F	
+92	Macedonian	бидејќи	biˈdejci	Av	
+92	Macedonian	затоа што	zaˈto.aʃtɔ	A, Ab, F	
+60	Russian	потому что	pɔtɔˈmuʂtɔ	A, Ac, F	
+55	Polish	bo	bɔ	V	
+16	Belarusian	бо	bɔ	V	
+73	Ukrainian	тому що	tɔˈmu ʂtʂɔ	A, F	
+66	Slovak	lebo	ˈlɛbɔ	V	
+66	Slovak	pretože	ˈprɛtɔʒɛ	A, H	
+18	Czech	protože	ˈprɔtɔʒɛ	A, H	
+48	Sorbian Upper	dokelž	ˈdɔkɛlʃ	G	
+47	Sorbian Lower	dokulaž	ˈdɔkulʲaʂ	G	
+97	Slovenian	ker	kɛr	As	
+108	Old Prussian	beggi		V	
+44	Latvian	tàdẽl ̜ka		Q	
+44	Latvian	tàpêc ka		Ad	
+46	Lithuanian	TODEL KAD		Q	
+46	Lithuanian	kadangi	kɐˈda:ŋɡɪ	V	
+46	Lithuanian	UZ TAI KAD		R	
+109	Old Norse	því (at)	θviː (at)	L	
+36	Icelandic	af því að	af ˈθviː að	L	
+23	Faroese	tí	tʰʊiː	L	
+58	Norwegian Riksmal	fordi	fɔˈɖiː	A, H	
+159	Stavangersk	fårde (at)	fɔʁˈdeː (at)	A, H	
+157	Old Swedish	thy	θyː	L	
+157	Old Swedish	for at	foːr at	H	
+69	Swedish	eftersom	ˈɛ̀ftəˌʂɔmː	Ao	
+69	Swedish	emedan	e'me:dan	W	
+69	Swedish	därför att	ˈdærːfœr atː	A, H	
+70	Swedish Uppland	EMEDAN		W	
+145	Elfdalian	fer		H	
+145	Elfdalian	ettersos	ɛtːɛrsós	Ao	
+20	Danish	fordi	fʌˈd̥iˀ	A, H	
+158	Danish Fjolde	yvər	ˈyvəɹ	An	
+161	Gutnish Lau	därför att	ˈdæːrfœːr atː	A, H	
+99	Old English	forþȳ þe		H	
+22	English	because	bɪkɒz	(K)	
+26	Frisian	TROCHDET		A, Z	
+26	Frisian	OMDET		A, U	
+26	Frisian	OMREDENEN		U	
+21	Dutch	omdat	ɔm'dɑt	A, U	
+24	Flemish	WANT		Y	
+24	Flemish	OMDAT		A, U	
+83	Afrikaans	OMDAT		A, U	
+83	Afrikaans	OOR		Z	
+83	Afrikaans	WANT		Y	
+83	Afrikaans	DOORDAT		A, Z	
+87	Sranan	BIKASI, BIKA		K	
+126	Old High German	bi diu wanta			
+27	German	weil	vaĭl	M	
+86	Pennsylvania Dutch	WEIL		M	
+120	Luxembourgish	well		M	
+121	German Switzerland	wüu		M	
+107	Gothic	untē			
+112	Latin	quod	kʷod	F	
+17	Catalan	perquè	pər'kɛ	F, H	
+56	Portuguese	porque	ˈpuɾkɨ	F, H	
+68	Spanish	porque	'poɾke	F, H	
+61	Sardinian Cagliari	POITA		T	
+62	Sardinian Logudoro	PROITE		T	
+63	Sardinian Nuoro	PROKE		F, H	
+85	French Creole Dominica	PAS, PIS		H	
+76	Walloon	PACE QUI		F, H	
+25	French	parce que	paʀs(ə) k(ə)	F, H	
+57	Provencal	PER-CO-QUE		F, H	
+42	Ladin	CAUSA CHA		F, K	
+42	Ladin	PERVI CHA		F, H	
+146	Dolomite Ladino	parcie, parcè		F, H	
+123	Romansh	perquai che		F, H	
+122	Friulian	parcè, parcè che		F, H	
+39	Italian	perchè	per'ke	F, H	
+59	Romanian	FIINDCA		F	
+74	Vlach	KA		F	
+127	Old Irish	úare	u:ərʹe	Al	
+101	Middle Cornish	drefenn		(Z)	
+101	Middle Cornish	rag	rag	Aa	
+172	Middle Breton	rac	raːk, rak	Aa	
+172	Middle Breton	palamour, palomour, polamour	paˈlaːmur	(Au)	
+12	Breton	abalamour	ˌabaˈlɑ̃mur, aˈblɑ̃mǝr, blɑ̃m	(Au)	
+12	Breton	o veza ma	o ˈveːza ma (veǝ, veɑ̃)	(E)	
+12	Breton	rag ma, rak ma	rak ma	(Aa), (E)	
+12	Breton	peogwir	pewˈgɥiːr		
+12	Breton	dre ma	dre ma	(E), (Z)	
+79	Welsh	oherwydd			
+79	Welsh	gan			
+79	Welsh	AM			
+38	Irish	mar go		Am	
+115	Scottish Gaelic	oir	ˈɔir	Al	
+5	[Legacy] Albanian T	SE, SEPSE		B	
+29	[Legacy] Greek K	DIOTI			
+29	[Legacy] Greek K	EPEIDE		N	
+28	[Legacy] Greek D	EPEIDE		N	
+28	[Legacy] Greek D	GIATI		D	
+30	[Legacy] Greek Md	GIATI		D	
+64	[Legacy] Serbocroatian	ZATO		A, Ab	
+113	[Legacy] Serbian	zato	zǎtoː	A, F	
+113	[Legacy] Serbian	jer	jêr		
+89	[Legacy] Bulgarian P	ZASTOTO		Ab, F	
+49	[Legacy] Macedonian	ZASTO		Ab, F	
+94	[Legacy] Russian P	POTOMU CTO		A, Ac, F	
+93	[Legacy] Polish P	PONIEWAZ		Ac, I	
+90	[Legacy] Byelorussian P	TAMU STO		A, F	
+98	[Legacy] Ukrainian P	TOMU STO		A, F	
+19	[Legacy] Czech E	PROTO		A, H	
+96	[Legacy] Slovak P	LEBO		V	
+91	[Legacy] Czech P	PONEVADZ		Ac, I	
+67	[Legacy] Slovenian	ZATO		A, Ab	
+45	[Legacy] Lithuanian O	UZTAI KAD		R	
+45	[Legacy] Lithuanian O	TODEL KAD		Q	
+11	[Legacy] Brazilian	PORQUE		F, H	
+142	[Legacy] German Munich	weil		M	
+84	[Legacy] French Creole C	BIKOZ		(K)	
+84	[Legacy] French Creole C	PIS		H	
+84	[Legacy] French Creole C	A KOZ		K	
+14	[Legacy] Breton St	peogwir	pɛ'gwi:r		
+13	[Legacy] Breton Se	RAK MA		Aa, E	
+78	[Legacy] Welsh C	ACHOS			
+37	[Legacy] Irish A	TOISC			
+37	[Legacy] Irish A	MAR		Am	

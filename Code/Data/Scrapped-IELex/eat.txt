@@ -1,0 +1,163 @@
+114	Proto-Indo-European	*h₁ed-		B	
+80	Hittite	ēz’zi		B	
+133	Luvian	azti		B	
+135	Palaic	ad-		B	
+81	Tocharian A	śuwāṣ		J	
+82	Tocharian B	śuwaṃ		J	
+88	Albanian	ha		B	
+143	Standard Albanian	ha		B	
+2	Albanian Sicily	ha		B	
+4	Albanian Corinth	ha		B	
+3	Albanian Gheg	ha		B	
+6	Albanian Tosk	ha		B	
+110	Ancient Greek	ἐσθίω	estʰíɔː	B	
+152	Tsakonian	τσου		H	
+32	Greek	τρώ(γ)ω	ˈtro̞(ɣ)o̞	H	
+31	Greek Lesbos	TROGO		H	
+129	Classical Armenian	ուտեմ	ut-ɛ-m	B	
+8	Armenian Eastern	ուտել	uˈtɛl	B	
+7	Armenian Western	ուտել	udɛl	B	
+128	Avestan	xvaraiti		A	
+75	Wakhi	YAU-		M	
+9	Baluchi	WARAGH, WARTHA		A	
+118	Kurdish	xwarin		A	
+137	Zazaki	werdiš		A	
+72	Tajik	xurdan	xɵrdæn	A	
+54	Persian	KHORDAN		A	
+77	Waziri	KHWAREL		A	
+1	Pashto	XVAREL		A	
+138	Shughni	xār		A	
+139	Sarikoli	xor : xыg		A	
+52	Ossetic	xaeryn	χærɨn	A	
+124	Ossetic Iron	χor-	χor-	A	
+125	Ossetic Digor	χwɐr-	χwɐr-	A	
+141	Kata-viri	yu		M	
+154	Vasi-vari	oyu-		M	
+105	Vedic Sanskrit	átti		B	
+162	Pāḷī	adeti		B	
+41	Khaskura	KHANU		C	
+51	Nepali	KHANU		C	
+106	Assamese	khā-		C	
+102	Oriya	kha-	kha-	C	
+10	Bengali	KHAOA		C	
+111	Bihari	khaeəb	khaeəb	C	
+144	Magahi	खाना	kʰanɑ	C	
+151	Bhojpuri	khá		C	
+104	Marwari	jīm		N	
+104	Marwari	kha-e	kha-e	C	
+35	Hindi	khānā	kʰana	C	
+119	Urdu	کھانا	kʰɑnə	C	
+103	Sindhi	khāinu	khāinu	C	
+43	Lahnda	KHAWEN		C	
+53	Punjabi	KHANA		C	
+33	Gujarati	jəmvũ	dʒəmvũ	N	
+33	Gujarati	KHAWU		C	
+50	Marathi	khāne	'kʰaɳe	C	
+40	Kashmiri	KHYONU		C	
+65	Sinhalese	KANAWA		C	
+34	Romani Greece	XAV		C	
+100	Old Church Slavonic	ясти	jasti	B	
+95	Serbo-Croatian	jesti	ˈjɛ̂sti	B	
+15	Bulgarian	ям	jam	B	
+92	Macedonian	јаде	ˈjadɛ	B	
+60	Russian	есть	jɛsʲtʲ	B	
+55	Polish	jeść	jɛɕtɕ	B	
+16	Belarusian	есці	ˈjɛsʲtsʲi	B	
+73	Ukrainian	їсти	ˈjistɪ	B	
+66	Slovak	jesť	jɛsc	B	
+18	Czech	jíst	jiːst	B	
+48	Sorbian Upper	jěsć	jɪstʃ	B	
+47	Sorbian Lower	jěsć	jɪstɕ	B	
+97	Slovenian	jesti	ˈjěːsti	B	
+108	Old Prussian	īst		B	
+108	Old Prussian	wolgeit		K	
+44	Latvian	ę̂d		B	
+46	Lithuanian	valgyti	ˈʋa:lʲɡʲi:tʲɪ	K	
+109	Old Norse	eta	ˈeta	B	
+36	Icelandic	eta	ɛːtʰa	B	
+36	Icelandic	borða	ˈpɔrða	(B), O	
+23	Faroese	eta	ˈeːta	B	
+58	Norwegian Riksmal	ete	ˈèːtə	B	
+58	Norwegian Riksmal	spise	ˈspìːsə	(G)	
+159	Stavangersk	spisa	ˈspìːsa	(G)	
+159	Stavangersk	eda	ˈèːda	B	
+157	Old Swedish	äta	ˈæːta	B	
+69	Swedish	äta	ˈɛ̀:ta	B	
+71	Swedish Vilhelmina	ATA  ETA		B	
+70	Swedish Uppland	ATA		B	
+145	Elfdalian	jätå	ˈjæ̀tɔ	B	
+20	Danish	spise	sb̥ʰi:sə	(G)	
+20	Danish	æde	ˈɛːðə	B	
+158	Danish Fjolde	spiis	sbiːs	(G)	
+158	Danish Fjolde	eæd	eæð	B	
+161	Gutnish Lau	jetä	ˈjeːtɛ	B	
+99	Old English	itt		B	
+22	English	to eat	i:t	B	
+26	Frisian	ite	'itə	B	
+21	Dutch	eten	etə(n)	B	
+24	Flemish	ETEN		B	
+83	Afrikaans	EET		B	
+87	Sranan	NJANJAM			
+126	Old High German	izzit		B	
+27	German	essen	'ɛsn̩	B	
+86	Pennsylvania Dutch	ESS		B	
+120	Luxembourgish	iessen		B	
+121	German Switzerland	ässe		B	
+107	Gothic	matjiþ			
+107	Gothic	itiþ		B	
+130	Oscan	edum		B	
+112	Latin	edere	ˈedere	B	
+17	Catalan	menjar	mən'ʒa	F	
+56	Portuguese	comer	kuˈmeɾ	B, D	
+68	Spanish	comer	ko'meɾ	B, D	
+61	Sardinian Cagliari	PAPPAI			
+62	Sardinian Logudoro	MANDIGARE		F	
+63	Sardinian Nuoro	MANNIKARE		F	
+85	French Creole Dominica	MAZE		F	
+76	Walloon	MAGNI		F	
+25	French	manger	mɑ̃ʒe	F	
+57	Provencal	MANJA		F	
+42	Ladin	MANGER		F	
+146	Dolomite Ladino	jlapèr			
+146	Dolomite Ladino	magnèr		F	
+123	Romansh	mangiar		F	
+123	Romansh	magliar			
+123	Romansh	tschavrar			
+122	Friulian	mangjâ		F	
+39	Italian	mangiare	man'dʒare	F	
+59	Romanian	a mânca	a mɨnˈka	F	
+74	Vlach	MYKU		F	
+140	Gaulish	depro-			
+127	Old Irish	ithid	iθʹəðʹ	I	
+101	Middle Cornish	dybri	dɪbri	E	
+148	Old Breton	diprim		E	
+172	Middle Breton	dibriff, dybryf	ˈdibriṽ	E	
+12	Breton	debriñ	ˈdebrĩ	E	
+79	Welsh	bwyta		L	
+38	Irish	ith	ɪ, ɪh	I	
+115	Scottish Gaelic	ith	i	I	
+147	Manx	ee		I	
+5	[Legacy] Albanian T	ha		B	
+29	[Legacy] Greek K	TROGO		H	
+28	[Legacy] Greek D	TROO		H	
+30	[Legacy] Greek Md	TROGO		H	
+64	[Legacy] Serbocroatian	JESTI		B	
+113	[Legacy] Serbian	jesti	jêsti	B	
+89	[Legacy] Bulgarian P	JAM		B	
+49	[Legacy] Macedonian	jade	ˈjadɛ	B	
+94	[Legacy] Russian P	JEST		B	
+93	[Legacy] Polish P	JESC		B	
+90	[Legacy] Byelorussian P	JESCI		B	
+98	[Legacy] Ukrainian P	JISTY		B	
+19	[Legacy] Czech E	YEST		B	
+96	[Legacy] Slovak P	JEST		B	
+91	[Legacy] Czech P	JISTI		B	
+67	[Legacy] Slovenian	JEST		B	
+45	[Legacy] Lithuanian O	VALGYTI		K	
+11	[Legacy] Brazilian	COMER		B, D	
+142	[Legacy] German Munich	essen		B	
+84	[Legacy] French Creole C	MAZE		F	
+14	[Legacy] Breton St	debriñ	ˈdebʁɪ	E	
+13	[Legacy] Breton Se	DEBREIN		E	
+78	[Legacy] Welsh C	BWYTA		L	
+37	[Legacy] Irish A	ITHE		I	

@@ -1,0 +1,204 @@
+Common Subsequences Only
+Fold Within Meanings
+Testing on different POS tags
+
+---------------------------------
+FOLD  1 
+
+Training on fold  1
+Training set size :  249219
+Positive Labels :  53422 
+
+Shape of Data :  (249219, 7395)
+Confusion Matrix : 
+[[ 15693  37729]
+ [  3055 192742]]
+Accuracy  :  83.6352766041 %
+Precision :  83.7049285257 %
+Recall    :  29.3755381678 %
+F-Score   :  0.434889843425
+NN
+Confusion Matrix : 
+[[ 1828  3656]
+ [  373 23147]]
+Accuracy  :  86.1088125776 %
+Precision :  83.0531576556 %
+Recall    :  33.3333333333 %
+F-Score   :  0.475731945348
+DT
+Confusion Matrix : 
+[[ 842 3832]
+ [ 152 9554]]
+Accuracy  :  72.2948539638 %
+Precision :  84.708249497 %
+Recall    :  18.0145485665 %
+F-Score   :  0.297106563162
+JJ
+Confusion Matrix : 
+[[ 1132  1984]
+ [  267 15466]]
+Accuracy  :  88.0577218951 %
+Precision :  80.9149392423 %
+Recall    :  36.3286264442 %
+F-Score   :  0.501439645626
+---------------------------------
+---------------------------------
+FOLD  2 
+
+Training on fold  2
+Training set size :  249219
+Positive Labels :  53354 
+
+Shape of Data :  (249219, 7540)
+Confusion Matrix : 
+[[ 15722  37632]
+ [  3074 192791]]
+Accuracy  :  83.6665743784 %
+Precision :  83.6454564801 %
+Recall    :  29.4673314091 %
+F-Score   :  0.435814275814
+NN
+Confusion Matrix : 
+[[ 1842  3702]
+ [  384 23076]]
+Accuracy  :  85.9122879603 %
+Precision :  82.7493261456 %
+Recall    :  33.2251082251 %
+F-Score   :  0.474131274131
+DT
+Confusion Matrix : 
+[[ 866 3895]
+ [ 157 9462]]
+Accuracy  :  71.8219749652 %
+Precision :  84.6529814272 %
+Recall    :  18.1894559966 %
+F-Score   :  0.299446749654
+JJ
+Confusion Matrix : 
+[[ 1087  1950]
+ [  266 15546]]
+Accuracy  :  88.2434081384 %
+Precision :  80.339985218 %
+Recall    :  35.7918999012 %
+F-Score   :  0.495216400911
+---------------------------------
+---------------------------------
+FOLD  3 
+
+Training on fold  3
+Training set size :  249219
+Positive Labels :  53358 
+
+Shape of Data :  (249219, 7455)
+Confusion Matrix : 
+[[ 15640  37718]
+ [  3094 192767]]
+Accuracy  :  83.6240415057 %
+Precision :  83.4845735027 %
+Recall    :  29.3114434574 %
+F-Score   :  0.433890029407
+NN
+Confusion Matrix : 
+[[ 1842  3625]
+ [  451 23086]]
+Accuracy  :  85.9467659633 %
+Precision :  80.3314435238 %
+Recall    :  33.6930674959 %
+F-Score   :  0.474742268041
+DT
+Confusion Matrix : 
+[[ 909 3873]
+ [ 140 9458]]
+Accuracy  :  72.0931849791 %
+Precision :  86.6539561487 %
+Recall    :  19.008782936 %
+F-Score   :  0.311781855599
+JJ
+Confusion Matrix : 
+[[ 1191  1898]
+ [  280 15480]]
+Accuracy  :  88.4450103454 %
+Precision :  80.9653297077 %
+Recall    :  38.5561670444 %
+F-Score   :  0.522368421053
+---------------------------------
+---------------------------------
+FOLD  4 
+
+Training on fold  4
+Training set size :  249219
+Positive Labels :  53331 
+
+Shape of Data :  (249219, 7511)
+Confusion Matrix : 
+[[ 15759  37572]
+ [  3082 192806]]
+Accuracy  :  83.6874395612 %
+Precision :  83.6420572156 %
+Recall    :  29.549417787 %
+F-Score   :  0.436706756083
+NN
+Confusion Matrix : 
+[[ 1798  3741]
+ [  400 23065]]
+Accuracy  :  85.7226589436 %
+Precision :  81.8016378526 %
+Recall    :  32.4607329843 %
+F-Score   :  0.464779630348
+DT
+Confusion Matrix : 
+[[ 797 3961]
+ [ 160 9462]]
+Accuracy  :  71.3421418637 %
+Precision :  83.2810867294 %
+Recall    :  16.7507356032 %
+F-Score   :  0.278915135608
+JJ
+Confusion Matrix : 
+[[ 1098  1970]
+ [  261 15520]]
+Accuracy  :  88.1638283198 %
+Precision :  80.7947019868 %
+Recall    :  35.7887874837 %
+F-Score   :  0.496046984414
+---------------------------------
+---------------------------------
+FOLD  5 
+
+Training on fold  5
+Training set size :  249219
+Positive Labels :  53386 
+
+Shape of Data :  (249219, 7479)
+Confusion Matrix : 
+[[ 15693  37693]
+ [  3057 192776]]
+Accuracy  :  83.6489192237 %
+Precision :  83.696 %
+Recall    :  29.3953470947 %
+F-Score   :  0.435094820894
+NN
+Confusion Matrix : 
+[[ 1873  3544]
+ [  406 23181]]
+Accuracy  :  86.3811888015 %
+Precision :  82.1851689337 %
+Recall    :  34.5763337641 %
+F-Score   :  0.486746361746
+DT
+Confusion Matrix : 
+[[ 909 3959]
+ [ 150 9362]]
+Accuracy  :  71.4255910987 %
+Precision :  85.835694051 %
+Recall    :  18.6729663106 %
+F-Score   :  0.306731904842
+JJ
+Confusion Matrix : 
+[[ 1118  1907]
+ [  304 15520]]
+Accuracy  :  88.2699347445 %
+Precision :  78.6216596343 %
+Recall    :  36.958677686 %
+F-Score   :  0.502810883742
+---------------------------------

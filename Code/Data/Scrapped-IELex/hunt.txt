@@ -1,0 +1,147 @@
+80	Hittite	huwarniskezzi			
+82	Tocharian B	śerītsi			
+88	Albanian	GJUJ, GJUJTE		C	
+143	Standard Albanian	gjuaj		C	
+2	Albanian Sicily	VETE AKACA		C	
+4	Albanian Corinth	KINIJISIN			
+3	Albanian Gheg	GJUJ		C	
+6	Albanian Tosk	VETE PER GA, GUAN		C	
+110	Ancient Greek	θηρεύω	tʰɛːréu̯ɔː	Ab	
+32	Greek	κυνηγώ	ˌciniˈɣo̞	J	
+31	Greek Lesbos	KUNEGO		J	
+129	Classical Armenian	որսամ	orsam	D	
+8	Armenian Eastern	orsal	voɾˈsɑl	D	
+7	Armenian Western	VORSAL		D	
+9	Baluchi	SHIKAR KHANAGH-A PHA (HUNTING GAME)		A	
+137	Zazaki	seyd		Q	
+137	Zazaki	nēčīr		R	
+72	Tajik	SIKOR KARDAN, SAJD KARDAN		A	
+54	Persian	SHEKAR KARDAN		A	
+77	Waziri	SHKORZAN (HUNTER)		A	
+1	Pashto	SKAR KAVEL		A	
+138	Shughni	γ̆ēw		S	
+52	Ossetic	cuan kaenyn	ʦwan kænɨn	P	
+124	Ossetic Iron	suwan kɐn-	suwan kɐn-	P	
+125	Ossetic Digor	cawɐn kɐn-	cawɐn kɐn-	P	
+105	Vedic Sanskrit	mŕ̥gáyatē		U	
+51	Nepali	SIKAR KHELNU		(A)	
+51	Nepali	LAGARNU		V	
+106	Assamese	sikar kɒr	sikar kɒr	(A)	
+106	Assamese	khɛd	khɛd	W	
+102	Oriya	goḍeiba	goɖeiba		
+102	Oriya	sikarɔ (kɔriba)	sikarɔ (kɔriba)	(A)	
+10	Bengali	SIKAR+KORA		(A)	
+111	Bihari	khiharə	khiharə	Y	
+111	Bihari	sikar kheləb	sikar kheləb	(A)	
+144	Magahi	सिकार करना	sikɑr kərnɑ	Z	
+35	Hindi	SIKAR + KERNA		(A)	
+119	Urdu	شِکار کرنا	ʃɪkɑɾ kəɾnə	(A)	
+43	Lahnda	SIKAR KHEDEN		(A)	
+53	Punjabi	SEKAR+KERNA		(A)	
+33	Gujarati	SIKAR KERWO		(A)	
+50	Marathi	śikār karne	'ʃikaɾ 'kaɾɳe	(A)	
+40	Kashmiri	SHIKAR KARUN		(A)	
+65	Sinhalese	DADAYAM/KARANAWA		Aa	
+34	Romani Greece	trádel		T	
+100	Old Church Slavonic	ловити	lɔviti	F	
+95	Serbo-Croatian	loviti	ˈlɔ̌viti	F	
+15	Bulgarian	ловувам	ɫuˈvuvəm	F	
+92	Macedonian	лови	ˈlovi	F	
+60	Russian	охотиться	a'xɔtʲitʲsʲa	M	
+55	Polish	polować	pɔˈlɔvatɕ	X	
+16	Belarusian	паляваць	palʲaˈvatsʲ	X	
+73	Ukrainian	полювати	pɔlʲuˈvatɪ	X	
+66	Slovak	poľovať	ˈpɔlʲɔvac	X	
+18	Czech	lovit	ˈlɔvɪt	F	
+48	Sorbian Upper	honić	ˈhɔnʲitʃ	G	
+47	Sorbian Lower	góńtwowaś	ˈɡɘ̟ɲtwowaɕ	G	
+97	Slovenian	loviti	lɔˈvǐːti	F	
+108	Old Prussian	medies		L	
+44	Latvian	medĩ		L	
+46	Lithuanian	medžioti	mʲɛˈdʲʒʲotʲɪ	L	
+109	Old Norse	jaga	ˈjaɡa	(B)	
+109	Old Norse	veiða	ˈvɛiða	I	
+36	Icelandic	veiða	ˈveiːða	I	
+23	Faroese	veiða	ˈvaiːja	I	
+23	Faroese	jaga	ˈjɛaːɡa	(B)	
+58	Norwegian Riksmal	jage	ˈjàːɡə	(B)	
+58	Norwegian Riksmal	veide	ˈʋɑɪ̀də	I	
+159	Stavangersk	jaga	ˈjɑ̀ːɡa	(B)	
+157	Old Swedish	vedha	ˈveːða	I	
+157	Old Swedish	iägha	ˈjæːɣa	(B)	
+69	Swedish	jaga	ˈjɑ̀ːɡa	(B)	
+71	Swedish Vilhelmina	JAGA  JAGA		B	
+70	Swedish Uppland	JAGA		B	
+145	Elfdalian	jaga	ˈjɑ̀ːgɑ	(B)	
+20	Danish	jage	ˈjæ:jə	(B)	
+158	Danish Fjolde	jaav	jɑːw	(B)	
+161	Gutnish Lau	jagä	ˈjɑːɡɛ	(B)	
+99	Old English	huntaþ		H	
+22	English	to hunt	hʊnt	H	
+26	Frisian	JEIJE		B	
+21	Dutch	jagen	'jaɣə(n)	B	
+24	Flemish	JAGEN		B	
+83	Afrikaans	JAG, JA (AG), JAE		B	
+87	Sranan	HONTI		H	
+126	Old High German	weid(en)ōt		I	
+126	Old High German	jagōt		B	
+27	German	jagen	'ja:gn̩	B	
+86	Pennsylvania Dutch	HUUNT		H	
+120	Luxembourgish	joen		B	
+121	German Switzerland	jage		B	
+107	Gothic	frahinþan		H	
+107	Gothic	gafahan			
+112	Latin	uēnāri	weːˈnaːri	N	
+17	Catalan	caçar	kə'sa	E	
+56	Portuguese	caçar	kɐˈsaɾ	E	
+68	Spanish	cazar	ka'θaɾ	E	
+61	Sardinian Cagliari	KASSAI		E	
+62	Sardinian Logudoro	CAZZARE		E	
+63	Sardinian Nuoro	KATHTHARE		E	
+85	French Creole Dominica	SASE		E	
+76	Walloon	TCHESSI		E	
+25	French	chasser	ʃase	E	
+57	Provencal	caçar	kaˈsa	E	
+42	Ladin	CHATSCHER		E	
+146	Dolomite Ladino	cazà, cazà via		E	
+123	Romansh	chatchar		E	
+122	Friulian	cjaçâ		E	
+39	Italian	cacciare	kat'tʃare	E	
+59	Romanian	a vâna		N	
+127	Old Irish	ad·claid	aðˈklaðʹ		
+127	Old Irish	selg (nn.)	sʹelg	K	
+101	Middle Cornish	chassya		(E)	
+101	Middle Cornish	helghya	'hɛlxja	K	
+172	Middle Breton	chasseal	ʃaˈseal	Ac, (E)	
+172	Middle Breton	emolch, hemolch	ˈhemolx	K	
+12	Breton	hemolc'hiñ	heˈmolxĩ	K	
+12	Breton	chaseal, chasseal	ʃaˈseal	Ac, (E)	
+79	Welsh	hela		K	
+38	Irish	DUL AG FLADHACH		(O)	
+38	Irish	seilg		K	
+115	Scottish Gaelic	sealg	ʃaɫ̪aɡ	K	
+5	[Legacy] Albanian T	ME GJUAJTUR		C	
+29	[Legacy] Greek K	KUNEGO		J	
+28	[Legacy] Greek D	KUNEGAO		J	
+30	[Legacy] Greek Md	KUNEGO		J	
+64	[Legacy] Serbocroatian	LOVITI		F	
+113	[Legacy] Serbian	loviti	lǒʋiti	F	
+89	[Legacy] Bulgarian P	LOVUVAM		F	
+49	[Legacy] Macedonian	LOV		F	
+94	[Legacy] Russian P	OCHOTIT S A		M	
+93	[Legacy] Polish P	POLOWAC		X	
+90	[Legacy] Byelorussian P	PAL AVAC		X	
+98	[Legacy] Ukrainian P	POL UVATY		X	
+19	[Legacy] Czech E	IT NA HON, HONYIT		G	
+96	[Legacy] Slovak P	LOVIT		F	
+91	[Legacy] Czech P	LOVITI		F	
+67	[Legacy] Slovenian	JAGAT		B	
+45	[Legacy] Lithuanian O	MEDZIOTI		L	
+11	[Legacy] Brazilian	CACAR		E	
+142	[Legacy] German Munich	jagen		B	
+84	[Legacy] French Creole C	SASE, ALE LASAS		E	
+14	[Legacy] Breton St	chaseal	ʃa'seal	(E)	
+13	[Legacy] Breton Se	JIBOESEIN			
+78	[Legacy] Welsh C	HELA		K	
+37	[Legacy] Irish A	SEILG		K	
+37	[Legacy] Irish A	FIADHACH		O	

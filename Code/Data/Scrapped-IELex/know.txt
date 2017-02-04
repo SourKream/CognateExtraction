@@ -1,0 +1,180 @@
+114	Proto-Indo-European	*g̑neh₃-		A	
+114	Proto-Indo-European	*u̯ei̯d-		F	
+80	Hittite	sākki			
+133	Luvian	un(a)i-			
+81	Tocharian A	knānaṣ		A	
+81	Tocharian A	kärsnāṣ			
+82	Tocharian B	aiśtär			
+82	Tocharian B	kärsanaṃ			
+88	Albanian	di		B	
+143	Standard Albanian	di		B	
+2	Albanian Sicily	di		B	
+4	Albanian Corinth	di		B	
+3	Albanian Gheg	di		B	
+6	Albanian Tosk	njoh		A	
+6	Albanian Tosk	di		B	
+110	Ancient Greek	οἶδα	óì̯da	F	
+152	Tsakonian	νοιριζου, νιουριζω			
+152	Tsakonian	νοιριζου, νιουριζω		A	
+152	Tsakonian	ξερου		G	
+32	Greek	ξέρω	ˈkse̞ro̞	G	
+32	Greek	γνωρίζω		(A)	
+31	Greek Lesbos	KSERO		G	
+129	Classical Armenian	գիտեմ	gitem	F	
+8	Armenian Eastern	gitenal	gitɛˈnɑl	F	
+8	Armenian Eastern	imanal	imɑˈnɑl		
+7	Armenian Western	KIDNAL		F	
+128	Avestan	zanāiti		A	
+128	Avestan	vaēδa		F	
+131	Old Persian	dānātiy (xšnā-)		A	
+136	Sogdian	γrβ		J	
+75	Wakhi	DIS-		M	
+9	Baluchi	SAHIH BIAGH		(L)	
+118	Kurdish	zanîn		A	
+137	Zazaki	zānāyiš		A	
+72	Tajik	OGOX BUDAN		A	
+72	Tajik	donistan	dɔːnistæn	A	
+72	Tajik	FAXMIDAN		(H)	
+54	Persian	DANESTAN		A	
+77	Waziri	KHABAR, MOLIM (KNOWN)		(I)	
+1	Pashto	POHEDEL		K	
+138	Shughni	wizān		A	
+138	Shughni	fām		(H)	
+139	Sarikoli	wazon : wazond		A	
+52	Ossetic	zonyn	zonɨn	A	
+52	Ossetic	faesmaerun	fæsmærun	P	
+124	Ossetic Iron	žon-	žon-	A	
+125	Ossetic Digor	zon-	zon-	A	
+154	Vasi-vari	äzne		A	
+153	Askunu	niŋa-		A	
+105	Vedic Sanskrit	vḗda		F	
+162	Pāḷī	jānāti		A	
+41	Khaskura	JANNU		A	
+51	Nepali	JANNU		A	
+106	Assamese	zan	zan	A	
+102	Oriya	jaṇ-	jaɳ-	A	
+10	Bengali	JANA		A	
+111	Bihari	janəb	janəb	A	
+144	Magahi	जानना	ɟɑnnɑ	A	
+104	Marwari	ja-ɳɛ	ja-ɳɛ	A	
+104	Marwari	ʈhah	ʈhah	O	
+35	Hindi	janna	dʒan:a	A	
+119	Urdu	جاننا	ʤɑnnə	A	
+103	Sindhi	j̄aṇaṇu		A	
+43	Lahnda	JANEN		A	
+53	Punjabi	JANNENA		A	
+33	Gujarati	JANEWU		A	
+50	Marathi	māhit asne	'maɦit əs'ɳe	N	
+50	Marathi	dzānne	'dzaɳɳe	A	
+40	Kashmiri	ZANUN		A	
+65	Sinhalese	KARUNU/DANNAWA		A	
+34	Romani Greece	JANAV		A	
+100	Old Church Slavonic	вѣдѣти	vædæti	F	
+95	Serbo-Croatian	znati	ˈznâti	A	
+15	Bulgarian	зная	ˈznajə	A	
+92	Macedonian	знае	ˈzna.ɛ	A	
+60	Russian	знать	znatʲ	A	
+55	Polish	wiedzieć	ˈvjɛdʑɛtɕ	F	
+16	Belarusian	ведаць	ˈvʲɛdatsʲ	F	
+73	Ukrainian	знати	znatɪ	A	
+66	Slovak	vedieť	ˈvɛɟiɛc	F	
+18	Czech	vědět	ˈvjɛɟɛt	F	
+48	Sorbian Upper	wědźeć	wedʒɛtʃ	F	
+47	Sorbian Lower	wěźeś	ˈwɪʑeɕ	F	
+97	Slovenian	vedeti	ˈvěːdɛti	F	
+108	Old Prussian	waist		F	
+44	Latvian	zina		A	
+46	Lithuanian	žinoti	ʒʲɪˈno:tʲɪ	A	
+109	Old Norse	vita	ˈviːta	F	
+36	Icelandic	vita	ˈvɪːta	F	
+23	Faroese	vita	ˈviːta	F	
+58	Norwegian Riksmal	vite	ˈʋìːtə	F	
+159	Stavangersk	veda	ˈʋèːda	F	
+157	Old Swedish	vita	ˈviːta	F	
+69	Swedish	veta	ˈvè:ta	F	
+71	Swedish Vilhelmina	VETA		F	
+70	Swedish Uppland	KANNA (TILL)		A	
+70	Swedish Uppland	VETA		F	
+145	Elfdalian	witå	ˈwɪ̀tɔ	F	
+20	Danish	vide	ˈvi:ðə	F	
+158	Danish Fjolde	veer	veːɹ	F	
+160	Old Gutnish	vita		F	
+161	Gutnish Lau	vitä	ˈvɪːtɛ	F	
+99	Old English	wāt		F	
+22	English	know	nəʊ	A	
+26	Frisian	witte	'vɪtə	F	
+21	Dutch	weten	'wetə(n)	F	
+24	Flemish	WETEN		F	
+83	Afrikaans	WEET		F	
+87	Sranan	SABI		(C)	
+126	Old High German	weiz		F	
+27	German	wissen	'vɪsn̩	F	
+86	Pennsylvania Dutch	WAYSS		F	
+120	Luxembourgish	wëssen		F	
+121	German Switzerland	wüsse		F	
+107	Gothic	wait		F	
+112	Latin	scīre	ˈskiːre	D	
+112	Latin	nōscere	ˈnoːskere	(A)	
+17	Catalan	conèixer	ku'nɛʃə	(A)	
+17	Catalan	saber	sə'βe	C	
+17	Catalan	SEMBLARSE			
+17	Catalan	SENTIRSE			
+56	Portuguese	saber	sɐˈbeɾ	C	
+68	Spanish	saber	sa'βeɾ	C	
+61	Sardinian Cagliari	SIRI		D	
+62	Sardinian Logudoro	ISCHIRE		D	
+63	Sardinian Nuoro	ISKIRE		D	
+85	French Creole Dominica	SAV		C	
+76	Walloon	SAVEUR, SAVU, SEPI		C	
+25	French	savoir	savwaʀ	C	
+57	Provencal	SABE, SAUPRE		C	
+42	Ladin	SAVAIR		C	
+146	Dolomite Ladino	cognóšer		A	
+146	Dolomite Ladino	saér		C	
+123	Romansh	saver		C	
+123	Romansh	enconuscher		A	
+122	Friulian	cognossi		A	
+122	Friulian	savê		C	
+39	Italian	sapere	sa'pere	C	
+59	Romanian	a ști	a ʃti	D	
+74	Vlach	STIU		D	
+140	Gaulish	uid-		F	
+127	Old Irish	ro·fitir	roˈɸʹidərʹ	F	
+101	Middle Cornish	ajon	'æʤɐn	(A)	
+101	Middle Cornish	godhvos	'gɔθfɔs	F	
+148	Old Breton	gudbut		F	
+172	Middle Breton	gouzout, gouzuout	ˈguːðut	F	
+12	Breton	gouzout	ˈguːzut	F	
+150	Old Welsh	gwybot		F	
+79	Welsh	gwn		F	
+38	Irish	fios (nn.)	fʲɪsˠ	F	
+38	Irish	aithin		(A)	
+115	Scottish Gaelic	aithnich		(A)	
+115	Scottish Gaelic	f(h)ios (nn.)		F	
+147	Manx	fys		F	
+5	[Legacy] Albanian T	di	di	B	
+5	[Legacy] Albanian T	njoh		A	
+29	[Legacy] Greek K	GNORIDZO		A	
+28	[Legacy] Greek D	KSERO		G	
+30	[Legacy] Greek Md	KSERO		G	
+30	[Legacy] Greek Md	GNORIDZO		A	
+64	[Legacy] Serbocroatian	ZNATI		A	
+113	[Legacy] Serbian	znati	znâti	A	
+89	[Legacy] Bulgarian P	ZANJA		A	
+49	[Legacy] Macedonian	ZNAE		A	
+94	[Legacy] Russian P	ZNAT		A	
+93	[Legacy] Polish P	ZNAC		A	
+90	[Legacy] Byelorussian P	ZNAC		A	
+98	[Legacy] Ukrainian P	ZNATY		A	
+19	[Legacy] Czech E	VEDET		F	
+96	[Legacy] Slovak P	ZNAT		A	
+91	[Legacy] Czech P	ZNATI		A	
+67	[Legacy] Slovenian	ZNAS		A	
+45	[Legacy] Lithuanian O	ZINOTI		A	
+11	[Legacy] Brazilian	SABER		C	
+142	[Legacy] German Munich	wissen		F	
+84	[Legacy] French Creole C	SAV  SE		C	
+14	[Legacy] Breton St	gouzout	'gu:zut	F	
+13	[Legacy] Breton Se	GOUIEIN		F	
+78	[Legacy] Welsh C	GWYBOD		F	
+37	[Legacy] Irish A	TA A FHIOS AIGE		F	

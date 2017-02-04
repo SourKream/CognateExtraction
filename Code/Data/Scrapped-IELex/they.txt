@@ -1,0 +1,161 @@
+80	Hittite	e		I	
+133	Luvian	apinzi			
+133	Luvian	-ata			
+134	Lycian	-ẽ			
+134	Lycian	-ebtte			
+81	Tocharian A	cem		J	
+82	Tocharian B	cey		J	
+88	Albanian	ATA		J	
+143	Standard Albanian	ata (m), ato (f)		J	
+2	Albanian Sicily	ATA		J	
+4	Albanian Corinth	ATA		J	
+3	Albanian Gheg	ATA		J	
+6	Albanian Tosk	ATA, ATO		J	
+110	Ancient Greek	ἐκεῖνοι	ekȇːnoi̯	(I), (K), (L)	
+110	Ancient Greek	οὗτοι	hȗːtoi̯	J, M	
+32	Greek	αυτοί	afˈti	J	
+31	Greek Lesbos	AUTOI		J, M	
+129	Classical Armenian	nokʰa		C	
+8	Armenian Eastern	nrank'	nəˈɾɑnkʰ	C	
+7	Armenian Western	ANONK		C	
+128	Avestan	tē		J	
+136	Sogdian	’wy(h)		Q	
+75	Wakhi	YUST, HAEIUST			
+9	Baluchi	ESHAN		D	
+137	Zazaki	ē		D	
+72	Tajik	онҳо, онон	onho, onon	D	
+54	Persian	ishan	iˈʃɒːn	D	
+77	Waziri	AGHA			
+1	Pashto	DUJ, JE		H	
+138	Shughni	dād, wād			
+52	Ossetic	udon	wɨdon	Q	
+124	Ossetic Iron	wydon	wydon	Q	
+125	Ossetic Digor	je-tɐ	je-tɐ		
+141	Kata-viri	amki		R	
+105	Vedic Sanskrit	tḗ		J	
+162	Pāḷī	te		J	
+41	Khaskura	UNIHARU		N	
+51	Nepali	TI		J	
+51	Nepali	tinihəru	tinihəru	E	
+51	Nepali	unihəru	unihəru	E	
+106	Assamese	xihɒ̃t	xihɒ̃t	J	
+106	Assamese	tānō		J	
+102	Oriya	semane	semane	J	
+10	Bengali	ORA ORA		E	
+10	Bengali	taro	'tɑɹɒ		
+111	Bihari	osəb	osəb		
+144	Magahi	ओहनी	ohəni		
+104	Marwari	ɛ	ɛ		
+104	Marwari	bɛ	bɛ		
+104	Marwari	iɳā	iɳā		
+35	Hindi	VE, YE		H	
+119	Urdu	وُہ	woʰ	N	
+103	Sindhi	hī/ū		N	
+43	Lahnda	O		N	
+53	Punjabi	O		N	
+33	Gujarati	EO, TEO		J	
+50	Marathi	te, tyā, tī	te, tja, ti:	J	
+40	Kashmiri	TIM		J	
+65	Sinhalese	OVHU, OHU		E	
+34	Romani Greece	KOLA			
+100	Old Church Slavonic	oni	ɔni	L	
+100	Old Church Slavonic	и	ji	B	
+100	Old Church Slavonic	ти	ti	J	
+95	Serbo-Croatian	oni	ˈɔ̌ni	L	
+15	Bulgarian	те	tɛ	J	
+92	Macedonian	тие	ˈti.ɛ	J	
+60	Russian	они	ɔ'nʲi	L	
+55	Polish	oni	ˈɔɲi	L	
+16	Belarusian	яны	jaˈnɨ	L	
+73	Ukrainian	вони	ʋɔˈnɪ	L	
+66	Slovak	oni	ˈɔɲi	L	
+18	Czech	oni	ˈɔɲɪ	L	
+48	Sorbian Upper	woni	ˈwɔnʲi	L	
+47	Sorbian Lower	wóni	ˈwɘ̟ɲi	L	
+97	Slovenian	oni	ˈɔ̌ːni	L	
+108	Old Prussian	tennei		L	
+44	Latvian	vin ̜-i		M	
+46	Lithuanian	jie	jæ	B	
+109	Old Norse	þeir	θɛir	J	
+36	Icelandic	þeir	θeiːr	J	
+23	Faroese	teir	tʰaiːɹ	J	
+58	Norwegian Riksmal	de	diː	J	
+159	Stavangersk	di	diː, di	J	
+157	Old Swedish	the	ˈθeː	J	
+69	Swedish	de	dɔmː	J	
+71	Swedish Vilhelmina	DAM		J	
+70	Swedish Uppland	DE		J	
+145	Elfdalian	dier	dɪɛːr	J	
+20	Danish	de	di	J	
+158	Danish Fjolde	di	di	J	
+161	Gutnish Lau	di, de	dɪː, deː	J	
+99	Old English	hīe		O	
+22	English	they	ðɛɪ	(J)	
+26	Frisian	hja	ja		
+26	Frisian	sy	sɛɪ	J	
+21	Dutch	zij	zɛi	J	
+24	Flemish	ZY		J	
+83	Afrikaans	HULLE, HUL			
+87	Sranan	DEM		J	
+126	Old High German	sie		J	
+27	German	sie	zi:	J	
+86	Pennsylvania Dutch	SIE		J	
+120	Luxembourgish	si		J	
+121	German Switzerland	si		J	
+107	Gothic	eis		I	
+130	Oscan	iusc			
+112	Latin	eī	eiː	F	
+17	Catalan	ells		F	
+56	Portuguese	eles	ˈelɨʃ	F	
+68	Spanish	ellos	'eʎos	F	
+61	Sardinian Cagliari	ISSOS		J	
+62	Sardinian Logudoro	IPSOS (M.PL.)		J	
+63	Sardinian Nuoro	ISSOS		J	
+85	French Creole Dominica	YO		G	
+76	Walloon	I (BEFORE CONSONANT), IL (BEFORE VOWEL)		F	
+25	French	ils, elles	il, ɛl	F	
+57	Provencal	ELI		F	
+42	Ladin	ELS		F	
+146	Dolomite Ladino	lori		P	
+123	Romansh	els m, ellas f		F	
+122	Friulian	lôr		P	
+39	Italian	coloro	ko'loro	P	
+39	Italian	essi	es'si	J	
+59	Romanian	ELE		F	
+59	Romanian	ei	jej	F	
+74	Vlach	AESTI, ACELI (FEM)		F	
+127	Old Irish	é	e:	I	
+101	Middle Cornish	i	i	J	
+101	Middle Cornish	aga			
+101	Middle Cornish	gi			
+101	Middle Cornish	ən dʒej	ən dʒej		
+172	Middle Breton	y, i	i		
+12	Breton	i		J	
+79	Welsh	hwy	hwi	J	
+38	Irish	siad	ʃiəd	J	
+115	Scottish Gaelic	iad		J	
+5	[Legacy] Albanian T	ata	aˈta	J	
+29	[Legacy] Greek K	AUTOI		J, M	
+28	[Legacy] Greek D	AUTOI		J, M	
+30	[Legacy] Greek Md	AUTOI, TOUS		J, M	
+64	[Legacy] Serbocroatian	ONI		L	
+113	[Legacy] Serbian	oni	ǒni	L	
+89	[Legacy] Bulgarian P	TE		J	
+49	[Legacy] Macedonian	ONI		L	
+49	[Legacy] Macedonian	tie	tiɛ	J	
+94	[Legacy] Russian P	ONI		L	
+93	[Legacy] Polish P	ONI		L	
+90	[Legacy] Byelorussian P	JANY		L	
+98	[Legacy] Ukrainian P	VONY		L	
+19	[Legacy] Czech E	ONI		L	
+96	[Legacy] Slovak P	ONI		L	
+91	[Legacy] Czech P	ONI		L	
+67	[Legacy] Slovenian	ONI		L	
+45	[Legacy] Lithuanian O	JIE		B	
+11	[Legacy] Brazilian	eles	ˈelis	F	
+142	[Legacy] German Munich	sie		J	
+84	[Legacy] French Creole C	YO		G	
+14	[Legacy] Breton St	i, int	i, ĩnt	J	
+13	[Legacy] Breton Se	I, INT		J	
+78	[Legacy] Welsh C	HWY		J	
+37	[Legacy] Irish A	SIAD		J	
