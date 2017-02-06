@@ -1,11 +1,18 @@
+#!/usr/bin/python -tt
+# -*- coding: utf-8 -*-
+
+import argparse
+import codecs
+import logging
 import numpy as np
 import os
-import sys
-import logging
-import argparse
 import pdb
-import theano
 import pickle
+import sys
+import theano
+
+UTF8Writer = codecs.getwriter('utf8')
+sys.stdout = UTF8Writer(sys.stdout)
 
 np.random.seed(1337)
 from keras.preprocessing.sequence import pad_sequences
@@ -20,7 +27,7 @@ from keras.layers.recurrent import *
 from keras.layers.wrappers import *
 from keras.layers.normalization import BatchNormalization
 from keras.layers import *
-from Reader import *
+from sklearn.metrics import *
 from Utils import *
 from datetime import datetime
 from matplotlib import cm
@@ -29,9 +36,9 @@ def get_params():
     parser = argparse.ArgumentParser(description='Short sample app')
     parser.add_argument('-lstm', action="store", default=75, dest="lstm_units", type=int)
     parser.add_argument('-epochs', action="store", default=10, dest="epochs", type=int)
-    parser.add_argument('-batch', action="store", default=30, dest="batch_size", type=int)
-    parser.add_argument('-xmaxlen', action="store", default=10, dest="xmaxlen", type=int)
-    parser.add_argument('-ymaxlen', action="store", default=10, dest="ymaxlen", type=int)
+    parser.add_argument('-batch', action="store", default=32, dest="batch_size", type=int)
+    parser.add_argument('-xmaxlen', action="store", default=12, dest="xmaxlen", type=int)
+    parser.add_argument('-ymaxlen', action="store", default=12, dest="ymaxlen", type=int)
     parser.add_argument('-nopad', action="store", default=False, dest="no_padding", type=bool)
     parser.add_argument('-lr', action="store", default=0.001, dest="lr", type=float)
     parser.add_argument('-decay', action="store", default=0.2, dest='decay', type=float)
@@ -42,6 +49,7 @@ def get_params():
     parser.add_argument('-local', action="store", default=False, dest="local", type=bool)
     parser.add_argument('-optimiser', action="store", default='adam', dest='optimiser', type=str)
     parser.add_argument('-embd', action="store", default=200, dest='embd_size', type=int)
+    parser.add_argument('-tkn_simple', action="store", default=False, dest='tokenize_simple', type=bool)
     opts = parser.parse_args(sys.argv[1:])
     print "lstm_units", opts.lstm_units
     print "epochs", opts.epochs
@@ -55,6 +63,7 @@ def get_params():
     print "Decay", opts.decay
     print "Optimiser", opts.optimiser
     print "Embedding Size", opts.embd_size
+    print "Tokenize Simple", opts.tokenize_simple
     return opts
 
 def get_H_i(i):  
@@ -90,33 +99,6 @@ def weighted_average_pooling(X):
     A = K.permute_dimensions(A, (0,2,1))  
     # Now A is (None,k,L) and Alpha is always (None,L,1)
     return K.T.batched_dot(A, Alpha)
-
-def precision(y_true, y_pred):
-    y_true = K.argmax(y_true, axis=1)
-    y_pred = K.argmax(y_pred, axis=1)
-    true_positives = K.sum(y_true * y_pred)
-    predicted_positives = K.sum(y_pred)
-    precision = true_positives / (predicted_positives + K.epsilon())
-    return precision
-
-def recall(y_true, y_pred):
-    y_true = K.argmax(y_true, axis=1)
-    y_pred = K.argmax(y_pred, axis=1)
-    true_positives = K.sum(y_true * y_pred)
-    possible_positives = K.sum(y_true)
-    recall = true_positives / (possible_positives + K.epsilon())
-    return recall
-
-def fmeasure(y_true, y_pred):
-
-    if K.sum(K.round(K.clip(y_true, 0, 1))) == 0:
-        return 0
-
-    p = precision(y_true, y_pred)
-    r = recall(y_true, y_pred)
-    bb = 1 ** 2
-    fbeta_score = (1 + bb) * (p * r) / (bb * p + r + K.epsilon())
-    return fbeta_score
 
 def build_model(opts, verbose=False):
 
@@ -195,34 +177,36 @@ def build_model(opts, verbose=False):
 
     h_star = Activation('tanh')(merge([r, h_n]))
 
-    output_layer = Dense(2, activation='softmax', name="Output Layer")(h_star)
+    output_layer = Dense(1, activation='sigmoid', name="Output Layer")(h_star)
 
     model = Model(input = input_layer, output = output_layer)
     model.summary()
     if opts.optimiser == 'adam':
-        model.compile(loss='categorical_crossentropy', optimizer=Adam(opts.lr), metrics=[precision, recall, fmeasure])
+        model.compile(loss='binary_crossentropy', optimizer=Adam(opts.lr), metrics=['precision', 'recall', 'fmeasure'])
     else:
-        model.compile(loss='categorical_crossentropy', optimizer=SGD(lr=opts.lr, decay=opts.decay), metrics=['precision', 'recall', 'fmeasure'])
+        model.compile(loss='binary_crossentropy', optimizer=SGD(lr=opts.lr, decay=opts.decay), metrics=['precision', 'recall', 'fmeasure'])
     print "Model Compiled"
 
     return model
 
-def compute_acc(X, Y, vocab, model, opts, filename=None):
-    scores = model.predict(X, batch_size = options.batch_size)
-    plabels = np.argmax(scores, axis=1)
-    tlabels = np.argmax(Y, axis=1)
-    p, r, f = getResults(tlabels, plabels)
+def compute_acc(X, Y, model, filename=None):
+    scores = model.predict(X)
+    plabels = np.round(scores)
+    tlabels = np.matrix(Y).transpose()
+    # print plabels
+    # print tlabels
+    p, r, f, _ = precision_recall_fscore_support(tlabels, plabels)
 
-    if filename != None:
-        with open(filename, 'w') as f:
-            for i, sample in enumerate(X):
-                f.write(map_to_txt(sample, vocab)+"\t")
-                f.write(str(plabels[i])+"\n")
+    # if filename != None:
+    #     with open(filename, 'w') as f:
+    #         for i, sample in enumerate(X):
+    #             f.write(map_to_txt(sample, vocab)+"\t")
+    #             f.write(str(plabels[i])+"\n")
 
-    return p, r, f
+    return p[1], r[1], f[1]
 
 def getConfig(opts):
-    conf = [opts.lstm_units, opts.embd_size, opts.lr, opts.l2, opts.xmaxlen, opts.optimiser]
+    conf = [opts.lstm_units, opts.embd_size, opts.vocab_size, opts.lr, opts.l2, opts.xmaxlen, opts.optimiser]
     return "_".join(map(lambda x: str(x), conf))
 
 class WeightSharing(Callback):
@@ -241,19 +225,17 @@ class WeightSharing(Callback):
             self.find_layer_by_name(n).set_weights([weights, biases])
 
 class Metrics(Callback):
-    def __init__(self, train_x, train_y, test_x, test_y, vocab, options):
+    def __init__(self, train_x, train_y, test_x, test_y):
         self.train_x = train_x
         self.train_y = train_y
         self.test_x = test_x 
         self.test_y = test_y
-        self.vocab = vocab
-        self.options = options
 
     def on_epoch_end(self, epochs, logs={}):
-        train_pre, train_rec, train_f = compute_acc(self.train_x, self.train_y, self.vocab, self.model, self.options)
-        test_pre, test_rec, test_f  = compute_acc(self.test_x, self.test_y, self.vocab, self.model, self.options)
-        print "Training -> Precision: ", train_pre, "\t Recall: ", train_rec, "\t F-Score: ", train_f
-        print "Testing  -> Precision: ", test_pre,  "\t Recall: ", test_rec,  "\t F-Score: ", test_f
+        train_pre, train_rec, train_f = compute_acc(self.train_x, self.train_y, self.model)
+        test_pre, test_rec, test_f  = compute_acc(self.test_x, self.test_y, self.model)
+        print "\n\nTraining -> Precision: ", train_pre, "\t Recall: ", train_rec, "\t F-Score: ", train_f
+        print "Testing  -> Precision: ", test_pre,  "\t Recall: ", test_rec,  "\t F-Score: ", test_f, "\n"
 
 
 class WeightSave(Callback):
@@ -270,19 +252,19 @@ if __name__ == "__main__":
 
 #    options.local = True
     if options.local:
-        dataPath = 'Data/Dyen/'
+        dataPath = './Data/Dyen/'
     else:
-        dataPath = 'Data/IELex/'
+        dataPath = './Data/IELex/'
 
-    train = [line.strip().split('\t') for line in open(dataPath + 'Train.txt')]
-    test = [line.strip().split('\t') for line in open(dataPath + 'Test.txt')]
-    vocab = pickle.load(open(dataPath + 'Dictionary.pkl'))
+    train = [line.strip().decode('utf-8').split('\t') for line in open(dataPath + 'Train.txt')]
+    test = [line.strip().decode('utf-8').split('\t') for line in open(dataPath + 'Test.txt')]
+    vocab = get_vocab(train, options.tokenize_simple)
 
     options.vocab_size = len(vocab)
     print "Vocab Size : ", len(vocab)
 
-    X_train, Y_train, Z_train = load_data(train, vocab)
-    X_test,  Y_test,  Z_test  = load_data(test,  vocab)
+    X_train, Y_train, labels_train = load_data(train, vocab, tokenize_simple = options.tokenize_simple)
+    X_test,  Y_test,  labels_test  = load_data(test,  vocab, tokenize_simple = options.tokenize_simple)
    
     params = {'xmaxlen': options.xmaxlen}
     setattr(K, 'params', params)
@@ -297,10 +279,10 @@ if __name__ == "__main__":
     net_train = concat_in_out(X_train, Y_train, vocab)
     net_test  = concat_in_out(X_test , Y_test , vocab)
 
-    labels_train = to_categorical(Z_train, nb_classes=2)
-    labels_test  = to_categorical(Z_test,  nb_classes=2)
-
     assert net_train[0][options.xmaxlen] == vocab['delimiter']
+
+    # options.load_save = True
+    # MODEL_WGHT = 'IPAModel_75_200_0.001_0.005_10_adam_1.weights'
 
     if options.load_save and os.path.exists(MODEL_WGHT):
         print("Loading pre-trained model from ", MODEL_WGHT)
@@ -316,17 +298,12 @@ if __name__ == "__main__":
         group2 = ['Wr'+str(i) for i in range(1, options.ymaxlen+1)]
         group3 = ['alpha'+str(i) for i in range(1, options.ymaxlen+2)]
 
-        ModelSaveDir = "./IPAModel_"
+        ModelSaveDir = "./Models/IPAModel_"
         save_weights = WeightSave(ModelSaveDir, getConfig(options))
-        metrics_callback = Metrics(net_train, labels_train, net_test, labels_test, vocab, options)
+        metrics_callback = Metrics(net_train, labels_train, net_test, labels_test)
 
         history = model.fit(x = net_train, 
                             y = labels_train,
                             batch_size = options.batch_size,
                             nb_epoch = options.epochs,
                             callbacks = [WeightSharing(group1), WeightSharing(group2), WeightSharing(group3), save_weights, metrics_callback])
-
-        train_pre, train_rec, train_f = compute_acc(net_train, labels_train, vocab, model, options)
-        test_pre, test_rec, test_f  = compute_acc(net_test, labels_test, vocab, model, options)
-        print "Training -> Precision: ", train_pre, "\t Recall: ", train_rec, "\t F-Score: ", train_f
-        print "Testing  -> Precision: ", test_pre,  "\t Recall: ", test_rec,  "\t F-Score: ", test_f

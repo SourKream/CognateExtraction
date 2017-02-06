@@ -11,20 +11,20 @@ for steal_ratio in [x/100.0 for x in range(0,110,10)]:
 import matplotlib.pyplot as plt
 from sklearn.metrics import *
 
-modelA, x_testA, y_test = pickle.load(open('DataDump/HybridModelDyenDataFold1.pkl')) 
-modelN, x_testN, _ = pickle.load(open('DataDump/HybridNormModelDyenDataFold1.pkl'))
-# modelA, x_testA, y_test = pickle.load(open('DataDump/HybridModelIELexDataFold1.pkl')) 
-# modelN, x_testN, _ = pickle.load(open('DataDump/HybridNormModelIELexDataFold1.pkl'))
+# modelA, x_testA, y_test = pickle.load(open('DataDump/HybridModelDyenDF1.pkl')) 
+# modelN, x_testN, _ = pickle.load(open('DataDump/HybridNormModelDyenDF1.pkl'))
+modelA, x_testA, y_test = pickle.load(open('DataDump/HybridModelIELexDF1.pkl')) 
+modelN, x_testN, _ = pickle.load(open('DataDump/NormModelIELexDF1.pkl'))
 
-model = {}
+subseqModels = {}
 x_test = {}
 
-model['Additive'] = modelA[1.0]
-model['Multiplicative'] = modelA[0.0]
-model['Hy-Avg 0.2'] = modelA[0.2]
-model['Hy-Avg 0.5'] = modelA[0.5]
-model['Hy-Norm 0.2'] = modelN[0.2]
-model['Hy-Norm 0.5'] = modelN[0.5]
+subseqModels['Additive'] = modelA[1.0]
+subseqModels['Multiplicative'] = modelA[0.0]
+subseqModels['Hy-Avg 0.2'] = modelA[0.2]
+subseqModels['Hy-Avg 0.5'] = modelA[0.5]
+subseqModels['Hy-Norm 0.2'] = modelN[0.2]
+subseqModels['Hy-Norm 0.5'] = modelN[0.5]
 
 x_test['Additive'] = x_testA[1.0]
 x_test['Multiplicative'] = x_testA[0.0]
@@ -34,8 +34,8 @@ x_test['Hy-Norm 0.2'] = x_testN[0.2]
 x_test['Hy-Norm 0.5'] = x_testN[0.5]
 
 
-for label in sorted(model.keys()):
-	p_proba = model[label].decision_function(x_test[label])
+for label in sorted(subseqModels.keys()):
+	p_proba = subseqModels[label].decision_function(x_test[label])
 	precision, recall, _ = precision_recall_curve(y_test, p_proba)
 	plt.plot(recall, precision, label='{0} (AUC = {1:0.2f})'.format(label, auc(recall, precision)))
 

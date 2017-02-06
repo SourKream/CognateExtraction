@@ -1,0 +1,59 @@
+
+---------------------
+6th Feb Morning:
+
+ - Implemented word by word attention model (RNNModel) in Keras. Running following tests on HPC
+
+   - Complex tokenisation (XMaxlen 10)
+   - Simple tokenisation, Embedding size 60
+   - Complex tokenisation, Regularisation 0.01
+   - Complex tokenisation (XMaxlen 12)
+
+  Playable parameters with model
+    - Tokenisation
+    - Embedding size
+    - Regularisation
+
+  Preliminary results:
+   - DYEN Dataset (Would not be working with this dataset now. IPA domain more interesting)
+     The initial model trained gave better performace that Subsequence model as shown in the PR Curves. 
+     Models saved in HPC/Scratch/CognateModel/
+
+   - IELex Dataset
+     The simple tokenisation model was run for 2 epochs and the results wre significantly better than the subsequence model. There can be a possible 'logic error' in the implementation that the embedding size (200) was greater than the vocabulary size (161). Also complex tokenisation makes more sense phonetically so I tried that next. Still, this model has given the best PR Curve yet.
+     The complex tokenisation model was tried again for 2 epochs on the local system but did not perform as good as simple tokenisation.
+
+  Problems with existing model:
+   - Keras implementation not proper
+      - Running slow on HPC (???? What is this about ????)
+      - Averaging of weights after every batch
+      - Implement Theano Model for same
+
+   - Keras Models in general were overfitting
+      - After 3-4 epochs, there was large differce between training and testing
+      - Testing Precision, Recall, FScore saturates
+      - Regularisation? Unit-Norm for embeddings? Batch Normalisation?
+
+   - Architecture problem
+     - Non symmetric model
+     - Try co-attention model
+
+   - Error in 'Metrics'
+     - The inbuild precision, recall, fscrore are not repoting correct figures
+     - The defined precision recall fscore functions are not correct. Ambiguity of the input tensor to function.
+     - The metrics reported by keras do not correspond with what is calculated in 'compute_acc'
+
+  TODO:
+   - Theano model
+   - CoAttention model
+   - Analysis of difference with tokenisation
+   - Siamese model
+
+---------------------
+6th Feb Evening:
+
+Updates
+ - The 'error' in metrics issue is resolved. The system during training reported 'average' metric value across batches.
+ - The output of the network has been changed from 2-dim with softmax to 1-dim with sigmoid. (Analyse affect on PR Curve for the same, sigmoid is a sharper function) and loss changed to binary_crossentropy from categorical_crossentropy.
+
+ 

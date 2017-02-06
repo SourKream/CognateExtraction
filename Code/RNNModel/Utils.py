@@ -1,8 +1,27 @@
 from sklearn.metrics import *
+from collections import Counter
 import numpy as np
 
-def tokenize(sent):
-    return sent.split(' ')
+def tokenize(word, simple = False):
+    if simple:
+        return list(word)
+
+    arts = set([u'\u02b0', u'\u02b1', u'\u02b2', u'\u02b7', u'\u02b9', u'\u02c0', u'\u02c8', u'\u02cc',
+                u'\u02d0', u'\u02d1', u'\u02e0', u'\u0300', u'\u0301', u'\u0302', u'\u0303', u'\u0304',
+                u'\u0306', u'\u030a', u'\u030c', u'\u0311', u'\u031c', u'\u031d', u'\u031e', u'\u031f',
+                u'\u0320', u'\u0324', u'\u0325', u'\u0329', u'\u032a', u'\u032f', u'\u033b', u'\u035c',
+                u'\u0361'])
+    segs = []
+    curr = ''
+    for i in range(len(word)):
+        curr += word[i]
+        if i+1 < len(word):
+            if word[i+1] not in arts:
+                segs.append(curr)
+                curr = ''
+    if curr != '':
+        segs.append(curr)               
+    return segs
 
 def map_to_idx(x, vocab):
     return [vocab[w] if w in vocab else vocab["unk"] for w in x]
@@ -20,6 +39,23 @@ def concat_in_out(X, Y, vocab):
     inp_train = np.concatenate((X,glue,Y),axis=1)
     return inp_train
 
-def getResults (labels, predicted):
-    p, r, f, _ = precision_recall_fscore_support(labels, predicted)
-    return p[1]*100, r[1]*100, f[1]
+def load_data(train, vocab, labels = {'0':0,'1':1}, tokenize_simple = False):
+    X,Y,Z = [],[],[]
+    for p,h,l in train:
+        p = map_to_idx(tokenize(p, tokenize_simple), vocab)
+        h = map_to_idx(tokenize(h, tokenize_simple), vocab)
+        if l in labels:         
+            X += [p]
+            Y += [h]
+            Z += [labels[l]]
+    return X,Y,Z
+
+def get_vocab(data, tokenize_simple = False):
+    vocab = Counter()
+    for ex in data:
+        tokens = tokenize(ex[0], tokenize_simple)
+        tokens += tokenize(ex[1], tokenize_simple)
+        vocab.update(tokens)
+    tokens = ["unk", "delimiter", "pad_tok"] + [x for x, y in sorted(vocab.iteritems()) if y > 0]
+    vocab = {y:x for x,y in enumerate(tokens)}
+    return vocab
