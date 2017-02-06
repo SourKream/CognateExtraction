@@ -171,16 +171,15 @@ def train(options):
         train_actual_positive_list.append(actual_positive)
         train_cost_list.append(cost)
 
-        train_precision = sum(train_true_positive_list) / float(sum(train_pred_positive_list) + np.finfo(float).eps)
-        train_recall = sum(train_true_positive_list) / float(sum(train_actual_positive_list) + np.finfo(float).eps)
-        train_fscore = 2*train_precision*train_recall / (train_precision + train_recall + np.finfo(float).eps)
-        ave_train_cost = sum(train_cost_list)/float(len(train_cost_list))
-
         if (itr % disp_interval) == 0  or (itr == max_iters):
-            logger.info('Iteration %d/%d Epoch %f/%d Cost: %f Precision: %f Recall: %f FScore: %f, lr %f' \
-                        % (itr, max_iters,
-                           itr / float(num_iters_one_epoch), max_epochs,
-                           ave_train_cost, train_precision, train_recall, train_fscore, lr_t))
+            train_precision = sum(train_true_positive_list) / float(sum(train_pred_positive_list) + np.finfo(float).eps)
+            train_recall = sum(train_true_positive_list) / float(sum(train_actual_positive_list) + np.finfo(float).eps)
+            train_fscore = 2*train_precision*train_recall / (train_precision + train_recall + np.finfo(float).eps)
+            cost = sum(train_cost_list)/float(len(train_cost_list))
+            logger.info('Epoch %d/%d Iterations %d/%d Cost: %f Precision: %f Recall: %f FScore: %f, lr %f' \
+                        % (itr / num_iters_one_epoch, max_epochs,
+                           itr, num_iters_one_epoch,
+                           cost, train_precision, train_recall, train_fscore, lr_t))
             if np.isnan(cost):
                 logger.info('nan detected')
                 file_name = options['model_name'] + '_nan_debug.model'

@@ -329,7 +329,7 @@ def build_model(shared_params, options):
     h_star = T.tanh( T.dot(r, shared_params['W_p_w']) + T.dot(h_word2[-1], shared_params['W_x_w'] ) )
 
     ## Output Probability
-    prob = fflayer(shared_params, h_star, options, prefix='final_layer', act_func='sigmoid')
+    prob = fflayer(shared_params, h_star, options, prefix='final_layer', act_func='sigmoid').dimshuffle((1,0))
     pred_label = T.round(prob)
 
     cost = T.nnet.binary_crossentropy(prob, label).mean()
