@@ -55,37 +55,31 @@ def sigmoid(x):
 ###################################################
 ##  Weight Matrices Initialisations
 
-def ortho_weight(ndim):
-    """
-    Random orthogonal weights, we take
-    the right matrix in the SVD.
-
-    Remember in SVD, u has the same # rows as W
-    and v has the same # of cols as W. So we
-    are ensuring that the rows are
-    orthogonal.
-    """
-    W = numpy.random.randn(ndim, ndim)
-    u, _, _ = numpy.linalg.svd(W)
-    return u.astype('float64')
-
-def init_weight(n, d, options, activation='tanh'):
+def init_weight(n, d, options, activation='tanh', ortho = False):
     ''' initialize weight matrix
     options['init_type'] determines
     gaussian or uniform initlizaiton
     '''
+    retVal = None
     if options['init_type'] == 'gaussian':
-        return (numpy.random.randn(n, d).astype(floatX)) * options['std']
+        retVal = (numpy.random.randn(n, d).astype(floatX)) * options['std']
     elif options['init_type'] == 'uniform':
         # [-range, range]
-        return ((numpy.random.rand(n, d) * 2 - 1) * options['range']).astype(floatX)    
+        retVal = ((numpy.random.rand(n, d) * 2 - 1) * \
+                options['range']).astype(floatX)
+    
     elif options['init_type'] == 'glorot uniform':
         low = -1.0 * np.sqrt(6.0/(n + d))
         high = 1.0 * np.sqrt(6.0/(n + d))
         if activation == 'sigmoid':
             low = low * 4.0
             high = high * 4.0
-        return numpy.random.uniform(low,high,(n,d)).astype(floatX)
+        retVal = numpy.random.uniform(low,high,(n,d)).astype(floatX)
+    if ortho:
+        assert n == d
+        u, _, _ = numpy.linalg.svd(retVal)
+        retVal = u.astype('float64')
+    return retVal
 
 ###################################################
 ##  Layer Initialisations
@@ -106,10 +100,10 @@ def init_lstm_layer(params, nin, ndim, options, prefix='lstm'):
                                               init_weight(nin, ndim, options, activation='tanh')], axis = 1)
     # use svd trick to initializ
     if options['init_lstm_svd']:
-        params[prefix + '_w_h'] = np.concatenate([ortho_weight(ndim),
-                                                  ortho_weight(ndim),
-                                                  ortho_weight(ndim),
-                                                  ortho_weight(ndim)],
+        params[prefix + '_w_h'] = np.concatenate([init_weight(ndim, ndim, options, activation='sigmoid', ortho = True),
+                                                  init_weight(ndim, ndim, options, activation='sigmoid', ortho = True),
+                                                  init_weight(ndim, ndim, options, activation='sigmoid', ortho = True),
+                                                  init_weight(ndim, ndim, options, activation='tanh', ortho = True)],
                                                  axis=1)
     else:
         params[prefix + '_w_h'] = init_weight(ndim, 4 * ndim, options)
@@ -329,7 +323,7 @@ def build_model(shared_params, options):
     h_star = T.tanh( T.dot(r, shared_params['W_p_w']) + T.dot(h_word2[-1], shared_params['W_x_w'] ) )
 
     ## Output Probability
-    prob = fflayer(shared_params, h_star, options, prefix='final_layer', act_func='sigmoid').dimshuffle((1,0))
+    prob = fflayer(shared_params, h_star, options, prefix='final_layer', act_func='sigmoid').flatten()
     pred_label = T.round(prob)
 
     cost = T.nnet.binary_crossentropy(prob, label).mean()

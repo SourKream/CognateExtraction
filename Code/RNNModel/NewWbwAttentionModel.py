@@ -31,6 +31,7 @@ from sklearn.metrics import *
 from Utils import *
 from datetime import datetime
 from matplotlib import cm
+from AttentionLayer import *
 
 def get_params():
     parser = argparse.ArgumentParser(description='Short sample app')
@@ -129,76 +130,22 @@ def build_model(opts, verbose=False):
 
     LSTMEncoding = Dropout(0.1, name="Dropout LSTM Layer")(LSTMEncoding)
 
+    r = WbwAttentionLayer(L, name="Attention Layer")(LSTMEncoding)
+    r_n = Lambda(get_H_n, output_shape=(k,), name="r_n")(r)
+
     h_n = Lambda(get_H_n, output_shape=(k,), name = "h_n")(LSTMEncoding)
-
-    Y = Lambda(get_H_premise, output_shape = (L, k), name = "Y")(LSTMEncoding)
-    Y = TimeDistributed(Dense(k, W_regularizer = l2(0.01)))(Y)
-
-    h_hypo = Lambda(get_H_hypothesis, output_shape = (N-L, k), name = "h_hypo")(LSTMEncoding)
-    h_hypo = TimeDistributed(Dense(k, W_regularizer = l2(0.01)))(h_hypo)
-
-    ## Init Dense Weights
-    alpha_init_weight = ((2.0/np.sqrt(k)) * np.random.rand(k,1)) - (1.0 / np.sqrt(k))
-    alpha_init_bias = ((2.0) * np.random.rand(1,)) - (1.0)
-    Tan_Wr_init_weight = 2*(1/np.sqrt(k))*np.random.rand(k,k) - (1/np.sqrt(k))
-    Tan_Wr_init_bias = 2*(1/np.sqrt(k))*np.random.rand(k,) - (1/np.sqrt(k))
-    Wr_init_weight = 2*(1/np.sqrt(k))*np.random.rand(k,k) - (1/np.sqrt(k))
-    Wr_init_bias = 2*(1/np.sqrt(k))*np.random.rand(k,) - (1/np.sqrt(k))
-
-    ## Fetching Attention
-    alpha_fetch = 0
-
-    # GET R1, R2, R3, .. R_N
-    for i in range(1, N-L+1):
-        Wh_i = Lambda(get_H_i(i-1), output_shape=(k,))(h_hypo)
-
-        if i == 1:
-            M = Activation('tanh')(merge([RepeatVector(L)(Wh_i), Y], mode = 'sum'))
-        else:
-            M = Activation('tanh')(merge([RepeatVector(L)(Wh_i), Y, RepeatVector(L)(Wr)], mode = 'sum'))
-
-        alpha = Reshape((L, 1), input_shape=(L,))(Activation("softmax")(Flatten()(TimeDistributed(Dense(1, weights=[alpha_init_weight, alpha_init_bias]), name='alpha'+str(i))(M))))
-
-        ## Fetching Attention
-        if i == 1:
-            alpha_fetch = alpha
-        else:
-            alpha_fetch = merge([alpha_fetch, alpha], mode='concat', concat_axis=2)
-
-        r = Lambda(weighted_average_pooling, output_shape=(k,), name="r"+str(i))(merge([Y, alpha], mode = 'concat', concat_axis = 2))
-
-        if i != 1:
-            r = merge([r, Tan_Wr], mode='sum')
-
-        if i != (N-L):
-
-            Tan_Wr = Dense(k, W_regularizer = l2(0.01),
-                    activation = 'tanh',
-                    name='Tan_Wr'+str(i), 
-                    weights = [Tan_Wr_init_weight, Tan_Wr_init_bias])(r)
-            Wr = Dense(k, W_regularizer = l2(0.01), 
-                            name = 'Wr'+str(i), 
-                            weights = [Wr_init_weight, Wr_init_bias])(r)
-
-
-    r = Dense(k, W_regularizer = l2(0.01))(r) 
     h_n = Dense(k, W_regularizer = l2(0.01))(h_n)
 
-    h_star = Activation('tanh')(merge([r, h_n]))
+    h_star = Activation('tanh')(merge([r_n, h_n]))
 
     output_layer = Dense(1, activation='sigmoid', name="Output Layer")(h_star)
 
     model = Model(input = input_layer, output = output_layer)
     model.summary()
-    if opts.optimiser == 'adam':
-        model.compile(loss='binary_crossentropy', optimizer=Adam(opts.lr), metrics=['precision', 'recall', 'fmeasure'])
-    else:
-        model.compile(loss='binary_crossentropy', optimizer=SGD(lr=opts.lr, decay=opts.decay), metrics=['precision', 'recall', 'fmeasure'])
+    model.compile(loss='binary_crossentropy', optimizer=Adam(opts.lr), metrics=['precision', 'recall', 'fmeasure'])
     print "Model Compiled"
 
-    attention_model = Model(input=input_layer, output=alpha_fetch)
-
-    return model, attention_model
+    return model
 
 def compute_acc(X, Y, model, filename=None):
     scores = model.predict(X)
@@ -220,20 +167,6 @@ def getConfig(opts):
     conf = [opts.lstm_units, opts.embd_size, opts.vocab_size, opts.lr, opts.l2, opts.xmaxlen, opts.optimiser]
     return "_".join(map(lambda x: str(x), conf))
 
-class WeightSharing(Callback):
-    def __init__(self, shared):
-        self.shared = shared
-
-    def find_layer_by_name(self, name):
-        for l in self.model.layers:
-            if l.name == name:
-                return l
-
-    def on_batch_end(self, batch, logs={}):
-        weights = np.mean([self.find_layer_by_name(n).get_weights()[0] for n in self.shared],axis=0)
-        biases = np.mean([self.find_layer_by_name(n).get_weights()[1] for n in self.shared],axis=0)
-        for n in self.shared:
-            self.find_layer_by_name(n).set_weights([weights, biases])
 
 class Metrics(Callback):
     def __init__(self, train_x, train_y, test_x, test_y):
@@ -297,25 +230,21 @@ if __name__ == "__main__":
 
     assert net_train[0][options.xmaxlen] == vocab['delimiter']
 
-    options.load_save = True
-    MODEL_WGHT = './Models/IPAModel_75_200_539_0.001_0.005_12_adam_4.weights'
+    # options.load_save = True
+    # MODEL_WGHT = './Models/IPAModel_75_200_539_0.001_0.005_12_adam_4.weights'
     # MODEL_WGHT = './Models/IPAModel_15_20_539_0.001_0.005_12_adam_9.weights'
 
     if options.load_save and os.path.exists(MODEL_WGHT):
         print("Loading pre-trained model from ", MODEL_WGHT)
-        model, attention_model = build_model(options)
+        model = build_model(options)
         model.load_weights(MODEL_WGHT)
 
     else:
         print 'Building model'
-        model, attention_model = build_model(options)
+        model = build_model(options)
 
         print 'Training New Model'
-        group1 = ['Tan_Wr'+str(i) for i in range(1, options.ymaxlen+1)]
-        group2 = ['Wr'+str(i) for i in range(1, options.ymaxlen+1)]
-        group3 = ['alpha'+str(i) for i in range(1, options.ymaxlen+2)]
-
-        ModelSaveDir = "./Models/IPAModel_"
+        ModelSaveDir = "./Models/New_IPAModel_"
         save_weights = WeightSave(ModelSaveDir, getConfig(options))
         metrics_callback = Metrics(net_train, labels_train, net_test, labels_test)
 
@@ -324,4 +253,4 @@ if __name__ == "__main__":
                             batch_size = options.batch_size,
                             nb_epoch = options.epochs,
                             class_weight = {1:3.0, 0:1.0},
-                            callbacks = [WeightSharing(group1), WeightSharing(group2), WeightSharing(group3), save_weights, metrics_callback])
+                            callbacks = [save_weights, metrics_callback])

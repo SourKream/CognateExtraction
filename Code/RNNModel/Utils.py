@@ -1,5 +1,7 @@
 from sklearn.metrics import *
 from collections import Counter
+from matplotlib import pyplot as plt
+import matplotlib.ticker as ticker
 import numpy as np
 
 def tokenize(word, simple = False):
@@ -59,3 +61,22 @@ def get_vocab(data, tokenize_simple = False):
     tokens = ["unk", "delimiter", "pad_tok"] + [x for x, y in sorted(vocab.iteritems()) if y > 0]
     vocab = {y:x for x,y in enumerate(tokens)}
     return vocab
+
+def plot_attention(matrix, title='Attention matrix', cmap=plt.cm.Blues, labels=None):
+    fig = plt.figure()
+    ax = fig.add_subplot(111)
+    cax = ax.matshow(matrix, cmap=cmap)
+    plt.title(title)
+    fig.colorbar(cax)
+    if labels:
+        ax.set_xticklabels([''] + labels[1])
+        ax.set_yticklabels([''] + labels[0])
+    ax.xaxis.set_major_locator(ticker.MultipleLocator(1))
+    ax.yaxis.set_major_locator(ticker.MultipleLocator(1))
+    plt.show()
+
+def getPRCurvePersistanceKeras (x_test, y_test, model, label='DL Model'):
+    p_proba = model.predict(x_test)
+    precision, recall, thresholds = precision_recall_curve(y_test, p_proba)
+    plt.plot(recall, precision, label='{0} (AUC = {1:0.2f})'.format(label, auc(recall, precision)))
+

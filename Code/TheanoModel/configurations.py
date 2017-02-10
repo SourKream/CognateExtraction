@@ -39,21 +39,21 @@ def get_configurations():
 
 	## Learning Parameters
 	options['optimization'] = 'adam' 
-	options['batch_size'] = 32
-	options['lr'] = np.float32(0.001)
+	options['batch_size'] = 128
+	options['lr'] = np.float32(0.0005)
 	options['w_emb_lr'] = np.float32(80)
 	options['momentum'] = np.float32(0.9)
 	options['gamma'] = 1
 	options['step'] = 10
 	options['step_start'] = 100
 	options['max_epochs'] = 10
-	options['weight_decay'] = 0.005
+	options['weight_decay'] = 0.1
 	options['decay_rate'] = np.float32(0.999)
 	options['drop_ratio'] = np.float32(0.5)
 	options['smooth'] = np.float32(1e-8)
-	options['grad_clip'] = np.float32(0.1)
+	options['grad_clip'] = np.float32(100)
 
 	## Log Params
-	options['disp_interval'] = 200
+	options['disp_interval'] = 1
 
 	return options

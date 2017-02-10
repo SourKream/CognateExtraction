@@ -1,0 +1,75 @@
+Shantanu@ ~/Documents/College/SemVIII/BTP/Code/RNNModel/ $ python NewWbwAttentionModel.py 
+Couldn't import dot_parser, loading of dot files will not be possible.
+Using Theano backend.
+lstm_units 75
+epochs 10
+batch_size 128
+xmaxlen 12
+ymaxlen 12
+no_padding False
+regularization factor 0.005
+dropout 0.1
+LR 0.001
+Decay 0.2
+Optimiser adam
+Embedding Size 200
+Tokenize Simple False
+Vocab Size :  539
+Building model
+Premise Length :  12
+Total Length   :  25
+____________________________________________________________________________________________________
+Layer (type)                     Output Shape          Param #     Connected to                     
+====================================================================================================
+Input Layer (InputLayer)         (None, 25)            0                                            
+____________________________________________________________________________________________________
+Embedding Layer (Embedding)      (None, 25, 200)       107800      Input Layer[0][0]                
+____________________________________________________________________________________________________
+Dropout Embeddings (Dropout)     (None, 25, 200)       0           Embedding Layer[0][0]            
+____________________________________________________________________________________________________
+bidirectional_1 (Bidirectional)  (None, 25, 150)       165600      Dropout Embeddings[0][0]         
+____________________________________________________________________________________________________
+Dropout LSTM Layer (Dropout)     (None, 25, 150)       0           bidirectional_1[0][0]            
+____________________________________________________________________________________________________
+Attention Layer (WbwAttentionLay (None, 25, 150)       90150       Dropout LSTM Layer[0][0]         
+____________________________________________________________________________________________________
+h_n (Lambda)                     (None, 150)           0           Dropout LSTM Layer[0][0]         
+____________________________________________________________________________________________________
+r_n (Lambda)                     (None, 150)           0           Attention Layer[0][0]            
+____________________________________________________________________________________________________
+dense_1 (Dense)                  (None, 150)           22650       h_n[0][0]                        
+____________________________________________________________________________________________________
+merge_1 (Merge)                  (None, 150)           0           r_n[0][0]                        
+                                                                   dense_1[0][0]                    
+____________________________________________________________________________________________________
+activation_1 (Activation)        (None, 150)           0           merge_1[0][0]                    
+____________________________________________________________________________________________________
+Output Layer (Dense)             (None, 1)             151         activation_1[0][0]               
+====================================================================================================
+Total params: 386,351
+Trainable params: 386,351
+Non-trainable params: 0
+____________________________________________________________________________________________________
+Model Compiled
+Training New Model
+Epoch 1/10
+197760/197866 [============================>.] - ETA: 0s - loss: 0.8186 - precision: 0.4950 - recall: 0.7387 - fmeasure: 0.5854  
+
+Training -> Precision:  0.595227925473 	 Recall:  0.82954615432 	 F-Score:  0.693119061503
+Testing  -> Precision:  0.558479532164 	 Recall:  0.74609375 	 F-Score:  0.638795986622 
+
+197866/197866 [==============================] - 827s - loss: 0.8186 - precision: 0.4950 - recall: 0.7387 - fmeasure: 0.5854   
+Epoch 2/10
+197760/197866 [============================>.] - ETA: 0s - loss: 0.5119 - precision: 0.6531 - recall: 0.8588 - fmeasure: 0.7385  
+
+Training -> Precision:  0.684551243178 	 Recall:  0.926842785886 	 F-Score:  0.787481360691
+Testing  -> Precision:  0.60649526387 	 Recall:  0.795809659091 	 F-Score:  0.688373521732 
+
+197866/197866 [==============================] - 808s - loss: 0.5118 - precision: 0.6531 - recall: 0.8588 - fmeasure: 0.7385   
+Epoch 3/10
+197760/197866 [============================>.] - ETA: 0s - loss: 0.3623 - precision: 0.7457 - recall: 0.9097 - fmeasure: 0.8168  
+
+Training -> Precision:  0.799027155655 	 Recall:  0.937372990948 	 F-Score:  0.862688794642
+Testing  -> Precision:  0.675416924027 	 Recall:  0.776633522727 	 F-Score:  0.722497522299 
+
+197866/197866 [==============================] - 783s - loss: 0.3623 - precision: 0.7457 - recall: 0.9097 - fmeasure: 0.8168   

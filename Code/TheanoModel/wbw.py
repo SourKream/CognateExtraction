@@ -178,7 +178,7 @@ def train(options):
             cost = sum(train_cost_list)/float(len(train_cost_list))
             logger.info('Epoch %d/%d Iterations %d/%d Cost: %f Precision: %f Recall: %f FScore: %f, lr %f' \
                         % (itr / num_iters_one_epoch, max_epochs,
-                           itr, num_iters_one_epoch,
+                           itr%num_iters_one_epoch, num_iters_one_epoch,
                            cost, train_precision, train_recall, train_fscore, lr_t))
             if np.isnan(cost):
                 logger.info('nan detected')

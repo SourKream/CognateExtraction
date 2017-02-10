@@ -32,7 +32,6 @@ def getPRCurvePersistance (x_test, y_test, model, label='Model'):
 
 def getPRCurvePersistanceKeras (x_test, y_test, model, label='DL Model'):
 	p_proba = model.predict(x_test)
-	p_proba = p_proba[:,1]
 	precision, recall, thresholds = precision_recall_curve(y_test, p_proba)
 	plt.plot(recall, precision, label='{0} (AUC = {1:0.2f})'.format(label, auc(recall, precision)))
 

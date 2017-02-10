@@ -177,12 +177,12 @@ if __name__ == "__main__":
 	# 	labels.append(line.strip())
 
 	labels = []
-	vocab = pickle.load(open('IPA_Labels.pkl'))
+	vocab = pickle.load(open('IPA_Labels_539.pkl'))
 	vocab = {vocab[i]:i for i in vocab}
 	for i in range(len(vocab)):
-		labels.append(vocab[i].decode('utf-8'))
+		labels.append(vocab[i])
 
-	X = pickle.load(open('IPAEmbed1.pkl'))
+	X = pickle.load(open('IPAEmbed_20.pkl'))
 	X = X[:len(labels),:]
 
 	## PCA
@@ -190,8 +190,8 @@ if __name__ == "__main__":
 	pca.fit(X)
 	Y = pca.transform(X)
 
-	## TSNE
-	# Y = tsne(X, 2, 200, 20.0);
+	# TSNE
+	# Y = tsne(X, 2, 20);
 
 	## Plot
 	Plot.scatter(Y[:,0], Y[:,1])

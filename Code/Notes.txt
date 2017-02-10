@@ -38,7 +38,7 @@
      - Non symmetric model
      - Try co-attention model
 
-   - Error in 'Metrics'
+   - Error in 'Metrics' (RESOLVED)
      - The inbuild precision, recall, fscrore are not repoting correct figures
      - The defined precision recall fscore functions are not correct. Ambiguity of the input tensor to function.
      - The metrics reported by keras do not correspond with what is calculated in 'compute_acc'
@@ -56,4 +56,22 @@ Updates
  - The 'error' in metrics issue is resolved. The system during training reported 'average' metric value across batches.
  - The output of the network has been changed from 2-dim with softmax to 1-dim with sigmoid. (Analyse affect on PR Curve for the same, sigmoid is a sharper function) and loss changed to binary_crossentropy from categorical_crossentropy.
 
+---------------------
+6th Feb Late Night:
+
+- Keras model trained to maximum AUC of 0.83 on the val set for IELexDF1
+- Implemented Theano code. Training is slow and not sure about the results currently. Update on that tomorrow morning.
+- Increasing XMaxlen to 12 increased the Fscore by 2 points
+- Need to try CoAttention Model
+- Need to implement/ask for Siamese model
  
+---------------------
+8th Feb Meeting Notes:
+
+Check performance on these sets,
+
+- words with more cognates vs less cognates
+- long words vs short words
+- POS tag sets
+- Divide datasets on meanings
+
