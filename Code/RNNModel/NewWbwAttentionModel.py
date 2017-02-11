@@ -45,11 +45,10 @@ def get_params():
     parser.add_argument('-decay', action="store", default=0.2, dest='decay', type=float)
     parser.add_argument('-load', action="store", default=False, dest="load_save", type=bool)
     parser.add_argument('-verbose', action="store", default=False, dest="verbose", type=bool)
-    parser.add_argument('-l2', action="store", default=0.005, dest="l2", type=float)
+    parser.add_argument('-l2', action="store", default=0.01, dest="l2", type=float)
     parser.add_argument('-dropout', action="store", default=0.1, dest="dropout", type=float)
     parser.add_argument('-local', action="store", default=False, dest="local", type=bool)
-    parser.add_argument('-optimiser', action="store", default='adam', dest='optimiser', type=str)
-    parser.add_argument('-embd', action="store", default=200, dest='embd_size', type=int)
+    parser.add_argument('-embd', action="store", default=100, dest='embd_size', type=int)
     parser.add_argument('-tkn_simple', action="store", default=False, dest='tokenize_simple', type=bool)
     opts = parser.parse_args(sys.argv[1:])
     print "lstm_units", opts.lstm_units
@@ -120,9 +119,8 @@ def build_model(opts, verbose=False):
     emb_layer = Embedding(opts.vocab_size, 
                             opts.embd_size,
                             input_length = N,
-                            name = "Embedding Layer") (input_layer)
-    emb_layer = Dropout(0.1, name="Dropout Embeddings")(emb_layer)
-    
+                            dropout = 0.1,
+                            name = "Embedding Layer") (input_layer)    
 
     LSTMEncoding = Bidirectional(LSTM(opts.lstm_units,
                                     return_sequences = True, 
@@ -142,7 +140,7 @@ def build_model(opts, verbose=False):
 
     model = Model(input = input_layer, output = output_layer)
     model.summary()
-    model.compile(loss='binary_crossentropy', optimizer=Adam(opts.lr), metrics=['precision', 'recall', 'fmeasure'])
+    model.compile(loss='binary_crossentropy', optimizer=Adam(opts.lr))
     print "Model Compiled"
 
     return model
@@ -164,7 +162,7 @@ def compute_acc(X, Y, model, filename=None):
     return p[1], r[1], f[1]
 
 def getConfig(opts):
-    conf = [opts.lstm_units, opts.embd_size, opts.vocab_size, opts.lr, opts.l2, opts.xmaxlen, opts.optimiser]
+    conf = [opts.lstm_units, opts.embd_size, opts.vocab_size, opts.lr, opts.l2, opts.xmaxlen]
     return "_".join(map(lambda x: str(x), conf))
 
 
@@ -252,5 +250,5 @@ if __name__ == "__main__":
                             y = labels_train,
                             batch_size = options.batch_size,
                             nb_epoch = options.epochs,
-                            class_weight = {1:3.0, 0:1.0},
+                            class_weight = {1:2.0, 0:1.0},
                             callbacks = [save_weights, metrics_callback])
