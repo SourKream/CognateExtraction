@@ -60,7 +60,6 @@ def get_params():
     print "dropout", opts.dropout
     print "LR", opts.lr
     print "Decay", opts.decay
-    print "Optimiser", opts.optimiser
     print "Embedding Size", opts.embd_size
     print "Tokenize Simple", opts.tokenize_simple
     return opts
@@ -118,9 +117,8 @@ def build_model(opts, verbose=False):
     emb_layer = Embedding(opts.vocab_size, 
                             opts.embd_size,
                             input_length = N,
-                            name = "Embedding Layer") (input_layer)
-    emb_layer = Dropout(0.1, name="Dropout Embeddings")(emb_layer)
-    
+                            dropout = 0.1,
+                            name = "Embedding Layer") (input_layer)    
 
     LSTMEncoding = Bidirectional(LSTM(opts.lstm_units,
                                     return_sequences = True, 

@@ -61,7 +61,6 @@ def get_params():
     print "dropout", opts.dropout
     print "LR", opts.lr
     print "Decay", opts.decay
-    print "Optimiser", opts.optimiser
     print "Embedding Size", opts.embd_size
     print "Tokenize Simple", opts.tokenize_simple
     return opts
@@ -125,10 +124,12 @@ def build_model(opts, verbose=False):
     LSTMEncoding = Bidirectional(LSTM(opts.lstm_units,
                                     return_sequences = True, 
                                     name="LSTM Layer")) (emb_layer)
-
     LSTMEncoding = Dropout(0.1, name="Dropout LSTM Layer")(LSTMEncoding)
 
-    r = WbwAttentionLayer(L, name="Attention Layer")(LSTMEncoding)
+    Y = Lambda(get_H_premise, output_shape = (L, k), name = "Y")(LSTMEncoding)
+    h_hypo = Lambda(get_H_hypothesis, output_shape = (N-L, k), name = "h_hypo")(LSTMEncoding)
+
+    r, alpha = WbwAttentionLayer(return_att=True, name="Attention Layer")([Y, h_hypo])
     r_n = Lambda(get_H_n, output_shape=(k,), name="r_n")(r)
 
     h_n = Lambda(get_H_n, output_shape=(k,), name = "h_n")(LSTMEncoding)
@@ -139,11 +140,13 @@ def build_model(opts, verbose=False):
     output_layer = Dense(1, activation='sigmoid', name="Output Layer")(h_star)
 
     model = Model(input = input_layer, output = output_layer)
+    attenion_model = Model(input = input_layer, output = alpha)
+
     model.summary()
     model.compile(loss='binary_crossentropy', optimizer=Adam(opts.lr))
     print "Model Compiled"
 
-    return model
+    return model, attenion_model
 
 def compute_acc(X, Y, model, filename=None):
     scores = model.predict(X)
@@ -234,12 +237,12 @@ if __name__ == "__main__":
 
     if options.load_save and os.path.exists(MODEL_WGHT):
         print("Loading pre-trained model from ", MODEL_WGHT)
-        model = build_model(options)
+        model, attenion_model = build_model(options)
         model.load_weights(MODEL_WGHT)
 
     else:
         print 'Building model'
-        model = build_model(options)
+        model, attenion_model = build_model(options)
 
         print 'Training New Model'
         ModelSaveDir = "./Models/New_IPAModel_"
