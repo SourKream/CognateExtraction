@@ -54,17 +54,17 @@ class WbwAttentionLayer(Layer):
 
         if self.return_att:
             return [r.dimshuffle((1, 0, 2)), alpha.dimshuffle((1, 0, 2))]
-        else
+        else:
             return r.dimshuffle((1, 0, 2))
 
     def get_output_shape_for(self, input_shape):
         if self.return_att:
             return [(input_shape[0][0], input_shape[1][1], input_shape[0][2]), (input_shape[0][0], input_shape[1][1], input_shape[0][1])]
-        else
+        else:
             return (input_shape[0][0], input_shape[1][1], input_shape[0][2])
 
     def compute_mask(self, input_tensors, input_masks):
         if self.return_att:
             return [None, None]
-        else
+        else:
             return None
