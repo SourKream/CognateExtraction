@@ -18,6 +18,7 @@ np.random.seed(1337)
 from keras.preprocessing.sequence import pad_sequences
 from keras.regularizers import l2, activity_l2
 from keras.callbacks import *
+from keras.constraints import *
 from keras.models import *
 from keras.optimizers import *
 from keras.utils.np_utils import to_categorical, accuracy
@@ -35,7 +36,7 @@ from AttentionLayer import *
 
 def get_params():
     parser = argparse.ArgumentParser(description='Short sample app')
-    parser.add_argument('-lstm', action="store", default=75, dest="lstm_units", type=int)
+    parser.add_argument('-lstm', action="store", default=50, dest="lstm_units", type=int)
     parser.add_argument('-epochs', action="store", default=10, dest="epochs", type=int)
     parser.add_argument('-batch', action="store", default=128, dest="batch_size", type=int)
     parser.add_argument('-xmaxlen', action="store", default=12, dest="xmaxlen", type=int)
@@ -44,7 +45,7 @@ def get_params():
     parser.add_argument('-l2', action="store", default=0.01, dest="l2", type=float)
     parser.add_argument('-dropout', action="store", default=0.1, dest="dropout", type=float)
     parser.add_argument('-local', action="store", default=False, dest="local", type=bool)
-    parser.add_argument('-embd', action="store", default=100, dest='embd_size', type=int)
+    parser.add_argument('-embd', action="store", default=80, dest='embd_size', type=int)
     parser.add_argument('-tkn_simple', action="store", default=False, dest='tokenize_simple', type=bool)
     opts = parser.parse_args(sys.argv[1:])
     print "lstm_units", opts.lstm_units
@@ -54,73 +55,52 @@ def get_params():
     print "regularization factor", opts.l2
     print "dropout", opts.dropout
     print "LR", opts.lr
-    print "Decay", opts.decay
     print "Embedding Size", opts.embd_size
     print "Tokenize Simple", opts.tokenize_simple
     return opts
 
-def get_H_n(X):
+def get_last(X):
     # get last element from time dimension
     return X[:, -1, :]
 
-def get_H_premise(X):
-    # get elements 1 to L from time dimension
-    xmaxlen = K.params['xmaxlen']
-    return X[:, :xmaxlen, :] 
-
-def get_H_hypothesis(X):
-    # get elements L+1 to N from time dimension
-    xmaxlen = K.params['xmaxlen']
-    return X[:, xmaxlen+1:, :]  
-
 def build_model(opts, verbose=False):
 
-    # LSTM Output Dimension
-    k = 2 * opts.lstm_units
-
-    # Premise Length
-    L = opts.xmaxlen
-
-    # Premise + Delimiter + Hypothesis Length
-    N = 2 * opts.xmaxlen + 1
-
-    print "Premise Length : ", L
-    print "Total Length   : ", N
-
-    input_layer = Input(shape=(N,), dtype='int32', name="Input Layer")
+    input_word_a = Input(shape=(opts.xmaxlen,), dtype='int32', name="Input Word A")
+    input_word_b = Input(shape=(opts.xmaxlen,), dtype='int32', name="Input Word B")
 
     emb_layer = Embedding(opts.vocab_size, 
                             opts.embd_size,
-                            input_length = N,
+                            input_length = opts.xmaxlen,
                             dropout = opts.dropout,
-                            name = "Embedding Layer") (input_layer)    
+                            name = "Embedding Layer")    
 
-    LSTMEncoding = Bidirectional(LSTM(opts.lstm_units,
+    lstm_layer = Bidirectional(LSTM(opts.lstm_units,
                                     return_sequences = True, 
-                                    name="LSTM Layer")) (emb_layer)
-    LSTMEncoding = Dropout(opts.dropout, name="LSTM Dropout Layer")(LSTMEncoding)
+                                    name="LSTM Layer"))
+    lstm_dropout_layer = Dropout(opts.dropout, name="LSTM Dropout Layer")
 
-    h_prem = Lambda(get_H_premise, output_shape = (L, k), name = "h_prem")(LSTMEncoding)
-    h_hypo = Lambda(get_H_hypothesis, output_shape = (N-L-1, k), name = "h_hypo")(LSTMEncoding)
+    word_a = lstm_dropout_layer (lstm_layer (emb_layer (input_word_a)))
+    word_b = lstm_dropout_layer (lstm_layer (emb_layer (input_word_b)))
 
-    r, alpha = WbwAttentionLayer(return_att=True, name="Attention Layer")([h_prem, h_hypo])
-    r_n = Lambda(get_H_n, output_shape=(k,), name="r_n")(r)
+    attention_layer = WbwAttentionLayer(return_att=False, name="Attention Layer")
 
-    h_n = Lambda(get_H_n, output_shape=(k,), name = "h_n")(LSTMEncoding)
-    h_n = Dense(k, W_regularizer = l2(opts.l2))(h_n)
+    r_a = attention_layer ([word_a, word_b])
+    r_b = attention_layer ([word_b, word_a])
 
-    h_star = Activation('tanh')(merge([r_n, h_n]))
+    k = 2 * opts.lstm_units
+    r_a_n = Lambda(get_last, output_shape=(k,), name="r_a_n")(r_a)
+    r_b_n = Lambda(get_last, output_shape=(k,), name="r_b_n")(r_b)
 
-    output_layer = Dense(1, activation='sigmoid', W_regularizer = l2(opts.l2), name="Output Layer")(h_star)
+    h_star = Activation('tanh')(merge([r_a_n, r_b_n], mode='concat', concat_axis=1))
 
-    model = Model(input = input_layer, output = output_layer)
-    attenion_model = Model(input = input_layer, output = alpha)
+    output_layer = Dense(1, activation='sigmoid', W_regularizer=l2(opts.l2), name="Output Layer")(h_star)
 
+    model = Model(input = [input_word_a, input_word_b], output = output_layer)
     model.summary()
     model.compile(loss='binary_crossentropy', optimizer=Adam(opts.lr))
     print "Model Compiled"
 
-    return model, attenion_model
+    return model
 
 def compute_acc(X, Y, model, filename=None):
     scores = model.predict(X)
@@ -190,20 +170,12 @@ if __name__ == "__main__":
     X_train, Y_train, labels_train = load_data(train, vocab, tokenize_simple = options.tokenize_simple)
     X_test,  Y_test,  labels_test  = load_data(test,  vocab, tokenize_simple = options.tokenize_simple)
    
-    params = {'xmaxlen': options.xmaxlen}
-    setattr(K, 'params', params)
-   
     XMAXLEN = options.xmaxlen
-    X_train = pad_sequences(X_train, maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'pre')
-    X_test  = pad_sequences(X_test,  maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'pre')
+    X_train = pad_sequences(X_train, maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'post')
+    X_test  = pad_sequences(X_test,  maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'post')
     Y_train = pad_sequences(Y_train, maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'post')
     Y_test  = pad_sequences(Y_test,  maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'post')
    
-    net_train = concat_in_out(X_train, Y_train, vocab)
-    net_test  = concat_in_out(X_test , Y_test , vocab)
-
-    assert net_train[0][options.xmaxlen] == vocab['delimiter']
-
     # options.load_save = True
     # MODEL_WGHT = './Models/IPAModel_75_200_539_0.001_0.005_12_adam_4.weights'
     # MODEL_WGHT = './Models/IPAModel_15_20_539_0.001_0.005_12_adam_9.weights'
@@ -215,14 +187,14 @@ if __name__ == "__main__":
 
     else:
         print 'Building model'
-        model, attenion_model = build_model(options)
+        model = build_model(options)
 
         print 'Training New Model'
-        ModelSaveDir = "./Models/New_IPAModel_"
+        ModelSaveDir = "./Models/CoAtt_Model_"
         save_weights = WeightSave(ModelSaveDir, getConfig(options))
-        metrics_callback = Metrics(net_train, labels_train, net_test, labels_test)
+        metrics_callback = Metrics([X_train, Y_train], labels_train, [X_test, Y_test], labels_test)
 
-        history = model.fit(x = net_train, 
+        history = model.fit(x = [X_train, Y_train], 
                             y = labels_train,
                             batch_size = options.batch_size,
                             nb_epoch = options.epochs,
