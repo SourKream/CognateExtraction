@@ -75,8 +75,12 @@ def plot_attention(matrix, title='Attention matrix', cmap=plt.cm.Blues, labels=N
     ax.yaxis.set_major_locator(ticker.MultipleLocator(1))
     plt.show()
 
-def getPRCurvePersistanceKeras (x_test, y_test, model, label='DL Model'):
+def getPRCurveKeras (x_test, y_test, model, label='DL Model'):
     p_proba = model.predict(x_test)
     precision, recall, thresholds = precision_recall_curve(y_test, p_proba)
     plt.plot(recall, precision, label='{0} (AUC = {1:0.2f})'.format(label, auc(recall, precision)))
 
+def getROCCurveKeras (x_test, y_test, model, label='DL Model'):
+    p_proba = model.predict(x_test)
+    fpr, tpr, thresholds = roc_curve(y_test, p_proba)
+    plt.plot(fpr, tpr, label='{0} (AUC = {1:0.2f})'.format(label, auc(fpr, tpr)))

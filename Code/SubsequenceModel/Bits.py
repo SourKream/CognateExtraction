@@ -33,6 +33,7 @@ x_test['Hy-Avg 0.5'] = x_testA[0.5]
 x_test['Hy-Norm 0.2'] = x_testN[0.2]
 x_test['Hy-Norm 0.5'] = x_testN[0.5]
 
+#### PR Curve
 
 for label in sorted(subseqModels.keys()):
 	p_proba = subseqModels[label].decision_function(x_test[label])
@@ -44,7 +45,22 @@ plt.ylim([0.0, 1.05])
 plt.xlabel('Recall')
 plt.ylabel('Precision')
 plt.title('Precision-Recall curve')
-plt.legend(loc="upper right")
+plt.legend(loc="lower left")
+plt.show(block=False)
+
+#### ROC Curve
+
+for label in sorted(subseqModels.keys()):
+	p_proba = subseqModels[label].decision_function(x_test[label])
+	fpr, tpr, _ = roc_curve(y_test, p_proba)
+	plt.plot(fpr, tpr, label='{0} (AUC = {1:0.2f})'.format(label, auc(fpr, tpr)))
+
+plt.xlim([0.0, 1.0])
+plt.ylim([0.0, 1.05])
+plt.xlabel('False Positive Rate')
+plt.ylabel('True Positive Rate')
+plt.title('ROC curve')
+plt.legend(loc="lower right")
 plt.show(block=False)
 
 ##########################################

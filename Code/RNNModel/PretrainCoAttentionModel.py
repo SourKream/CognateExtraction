@@ -65,6 +65,25 @@ def get_last(X):
 
 def build_model(opts, verbose=False):
 
+    ## DYEN Model Part
+    input_word_a_DY = Input(shape=(opts.xmaxlen,), dtype='int32', name="Input DYEN Word A")
+    input_word_b_DY = Input(shape=(opts.xmaxlen,), dtype='int32', name="Input DYEN Word B")
+
+    emb_layer_DY = Embedding(opts.vocab_size_DY, 
+                            opts.embd_size,
+                            input_length = opts.xmaxlen,
+                            dropout = opts.dropout,
+                            name = "Embedding Layer DYEN")    
+
+    lstm_layer_DY = Bidirectional(LSTM(opts.lstm_units,
+                                    return_sequences = True, 
+                                    name="LSTM Layer DYEN"), name="Bidir LSTM Layer DYEN")
+    lstm_dropout_layer_DY = Dropout(opts.dropout, name="LSTM Dropout Layer DYEN")
+
+    word_a_DY = lstm_dropout_layer_DY (lstm_layer_DY (emb_layer_DY (input_word_a_DY)))
+    word_b_DY = lstm_dropout_layer_DY (lstm_layer_DY (emb_layer_DY (input_word_b_DY)))
+
+    ## IELex Model Part
     input_word_a = Input(shape=(opts.xmaxlen,), dtype='int32', name="Input Word A")
     input_word_b = Input(shape=(opts.xmaxlen,), dtype='int32', name="Input Word B")
 
@@ -82,8 +101,25 @@ def build_model(opts, verbose=False):
     word_a = lstm_dropout_layer (lstm_layer (emb_layer (input_word_a)))
     word_b = lstm_dropout_layer (lstm_layer (emb_layer (input_word_b)))
 
+    ## Attention Layer
     attention_layer = WbwAttentionLayer(return_att=True, name="Attention Layer")
 
+    ## DYEN
+    r_a_DY, _ = attention_layer ([word_a_DY, word_b_DY])
+    r_b_DY, _ = attention_layer ([word_b_DY, word_a_DY])
+
+    k = 2 * opts.lstm_units
+    r_a_DY = Lambda(get_last, output_shape=(k,), name="r_a_n_DY")(r_a_DY)
+    r_b_DY = Lambda(get_last, output_shape=(k,), name="r_b_n_DY")(r_b_DY)
+
+    h_star_DY = Activation('tanh')(merge([r_a_DY, r_b_DY], mode='concat', concat_axis=1))
+
+    output_layer_DY = Dense(1, activation='sigmoid', W_regularizer=l2(opts.l2), name="Output Layer DYEN")(h_star_DY)
+
+    model_DY = Model(input = [input_word_a_DY, input_word_b_DY], output = output_layer_DY)
+    model_DY.compile(loss='binary_crossentropy', optimizer=Adam(opts.lr))
+
+    ## IELex
     r_a, alpha_a_b = attention_layer ([word_a, word_b])
     r_b, alpha_b_a = attention_layer ([word_b, word_a])
 
@@ -96,14 +132,15 @@ def build_model(opts, verbose=False):
     output_layer = Dense(1, activation='sigmoid', W_regularizer=l2(opts.l2), name="Output Layer")(h_star)
 
     model = Model(input = [input_word_a, input_word_b], output = output_layer)
-    model.summary()
     model.compile(loss='binary_crossentropy', optimizer=Adam(opts.lr))
-    print "Model Compiled"
 
-    att_model = Model(input = [input_word_a, input_word_b], output = alpha_a_b)
+    print "DYEN MODEL"
+    model_DY.summary()
+    print "IELex MODEL"
+    model.summary()
+    print "Models Compiled"
 
-    return model, att_model
-    # return model
+    return model, model_DY
 
 def compute_acc(X, Y, model, filename=None):
     scores = model.predict(X)
@@ -127,18 +164,14 @@ def getConfig(opts):
 
 
 class Metrics(Callback):
-    def __init__(self, train_x, train_y, test_x, test_y):
-        self.train_x = train_x
-        self.train_y = train_y
-        self.test_x = test_x 
-        self.test_y = test_y
+    def __init__(self, data, labels, split="Training"):
+        self.data = data
+        self.labels = labels
+        self.split = split
 
     def on_epoch_end(self, epochs, logs={}):
-        train_pre, train_rec, train_f = compute_acc(self.train_x, self.train_y, self.model)
-        test_pre, test_rec, test_f  = compute_acc(self.test_x, self.test_y, self.model)
-        print "\n\nTraining -> Precision: ", train_pre, "\t Recall: ", train_rec, "\t F-Score: ", train_f
-        print "Testing  -> Precision: ", test_pre,  "\t Recall: ", test_rec,  "\t F-Score: ", test_f, "\n"
-
+        pre, rec, fscore = compute_acc(self.data, self.labels, self.model)
+        print "\n", self.split, " -> Precision: ", pre, "\t Recall: ", rec, "\t F-Score: ", fscore
 
 class WeightSave(Callback):
     def __init__(self, path, config_str):
@@ -168,39 +201,48 @@ def PrepareData(dataPath, options):
 if __name__ == "__main__":
 
     options = get_params()
-    if options.local:
-        dataPath = './Data/Dyen/'
-    else:
-        dataPath = './Data/IELex/'
 
     ## LOAD DATA
-    X_train, Y_train, labels_train, X_test, Y_test, labels_test, vocab = PrepareData(dataPath, options)    
+    X_train, Y_train, labels_train, X_test, Y_test, labels_test, vocab = PrepareData('./Data/IELex/', options)    
+    X_train_DY, Y_train_DY, labels_train_DY, X_test_DY, Y_test_DY, labels_test_DY, vocab_DY = PrepareData('./Data/Dyen/', options)
 
     options.vocab_size = len(vocab)
+    options.vocab_size_DY = len(vocab_DY)
     print "Vocab Size : ", len(vocab)
 
     ## LOAD MODEL   
-    options.load_save = True
-    MODEL_WGHT = './Models/CoAtt_Model_50_80_539_0.001_0.01_12_9.weights'
+    # options.load_save = True
+    # MODEL_WGHT = './Models/CoAtt_Model_50_80_539_0.001_0.01_12_9.weights'
 
     if options.load_save and os.path.exists(MODEL_WGHT):
         print("Loading pre-trained model from ", MODEL_WGHT)
-        model, attention_model = build_model(options)
-        # model = build_model(options)
+        model, model_DY = build_model(options)
         model.load_weights(MODEL_WGHT)
 
     else:
         print 'Building model'
-        model = build_model(options)
+        model, model_DY = build_model(options)
 
-        print 'Training New Model'
-        ModelSaveDir = "./Models/CoAtt_Model_"
+        print "Pretraining with DYEN Dataset"
+        metrics_train = Metrics([X_train_DY, Y_train_DY], labels_train_DY, "Training")
+        metrics_test = Metrics([X_test_DY, Y_test_DY], labels_test_DY, "Testing")
+
+        history = model_DY.fit(x = [X_train_DY, Y_train_DY], 
+                            y = labels_train_DY,
+                            batch_size = options.batch_size,
+                            nb_epoch = 10,
+                            class_weight = {1:2.0, 0:1.0},
+                            callbacks = [metrics_train, metrics_test])
+
+        print 'Training IELex Model'
+        ModelSaveDir = "./Models/Pret_CoAtt_Model_"
         save_weights = WeightSave(ModelSaveDir, getConfig(options))
-        metrics_callback = Metrics([X_train, Y_train], labels_train, [X_test, Y_test], labels_test)
+        metrics_train = Metrics([X_train, Y_train], labels_train, "Training")
+        metrics_test = Metrics([X_test, Y_test], labels_test, "Testing")
 
         history = model.fit(x = [X_train, Y_train], 
                             y = labels_train,
                             batch_size = options.batch_size,
                             nb_epoch = options.epochs,
                             class_weight = {1:2.0, 0:1.0},
-                            callbacks = [save_weights, metrics_callback])
+                            callbacks = [save_weights, metrics_train, metrics_test])
