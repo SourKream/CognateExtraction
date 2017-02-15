@@ -47,6 +47,7 @@ def get_params():
     parser.add_argument('-local', action="store", default=False, dest="local", type=bool)
     parser.add_argument('-embd', action="store", default=80, dest='embd_size', type=int)
     parser.add_argument('-tkn_simple', action="store", default=False, dest='tokenize_simple', type=bool)
+    parser.add_argument('-concept', action="store", default=False, dest='concept', type=bool)
     opts = parser.parse_args(sys.argv[1:])
     print "lstm_units", opts.lstm_units
     print "epochs", opts.epochs
@@ -57,6 +58,7 @@ def get_params():
     print "LR", opts.lr
     print "Embedding Size", opts.embd_size
     print "Tokenize Simple", opts.tokenize_simple
+    print "Using Concept Fold Data", opts.concept
     return opts
 
 def get_last(X):
@@ -70,6 +72,7 @@ def build_model(opts, verbose=False):
 
     emb_layer = Embedding(opts.vocab_size, 
                             opts.embd_size,
+##                            W_constraint = unitnorm(),
                             input_length = opts.xmaxlen,
                             dropout = opts.dropout,
                             name = "Embedding Layer")    
@@ -123,7 +126,11 @@ def compute_acc(X, Y, model, filename=None):
 
 def getConfig(opts):
     conf = [opts.lstm_units, opts.embd_size, opts.vocab_size, opts.lr, opts.l2, opts.xmaxlen]
-    return "_".join(map(lambda x: str(x), conf))
+    if opts.concept:
+        concept = '_Concept'
+    else:
+        concept = ''
+    return "_".join(map(lambda x: str(x), conf)) + concept
 
 
 class Metrics(Callback):
@@ -171,17 +178,22 @@ if __name__ == "__main__":
     if options.local:
         dataPath = './Data/Dyen/'
     else:
-        dataPath = './Data/IELex/'
+        if options.concept:
+            dataPath = './Data/IELex_ConceptFolds/'
+        else:
+            dataPath = './Data/IELex/'
 
     ## LOAD DATA
+    print "Loading data from ", dataPath
     X_train, Y_train, labels_train, X_test, Y_test, labels_test, vocab = PrepareData(dataPath, options)    
 
     options.vocab_size = len(vocab)
     print "Vocab Size : ", len(vocab)
 
     ## LOAD MODEL   
-    options.load_save = True
-    MODEL_WGHT = './Models/CoAtt_Model_50_80_539_0.001_0.01_12_9.weights'
+    # options.load_save = True
+    # MODEL_WGHT = './Models/CoAtt_Model_50_80_539_0.001_0.01_12_9.weights'
+    # MODEL_WGHT = './Models/Pret_CoAtt_Model_50_80_539_0.001_0.01_12_14.weights'
 
     if options.load_save and os.path.exists(MODEL_WGHT):
         print("Loading pre-trained model from ", MODEL_WGHT)
@@ -191,7 +203,7 @@ if __name__ == "__main__":
 
     else:
         print 'Building model'
-        model = build_model(options)
+        model, attention_model = build_model(options)
 
         print 'Training New Model'
         ModelSaveDir = "./Models/CoAtt_Model_"

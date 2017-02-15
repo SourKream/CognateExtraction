@@ -71,6 +71,7 @@ def build_model(opts, verbose=False):
 
     emb_layer_DY = Embedding(opts.vocab_size_DY, 
                             opts.embd_size,
+                            W_constraint = unitnorm(),
                             input_length = opts.xmaxlen,
                             dropout = opts.dropout,
                             name = "Embedding Layer DYEN")    
@@ -89,6 +90,7 @@ def build_model(opts, verbose=False):
 
     emb_layer = Embedding(opts.vocab_size, 
                             opts.embd_size,
+##                            W_constraint = unitnorm(),
                             input_length = opts.xmaxlen,
                             dropout = opts.dropout,
                             name = "Embedding Layer")    
