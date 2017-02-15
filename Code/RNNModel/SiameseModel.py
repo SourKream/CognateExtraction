@@ -41,6 +41,7 @@ def get_params():
     parser.add_argument('-local', action="store", default=False, dest="local", type=bool)
     parser.add_argument('-embd', action="store", default=16, dest='embd_size', type=int)
     parser.add_argument('-tkn_simple', action="store", default=False, dest='tokenize_simple', type=bool)
+    parser.add_argument('-concept', action="store", default=False, dest='concept', type=bool)
     opts = parser.parse_args(sys.argv[1:])
     print "conv_dim", opts.conv_dim
     print "epochs", opts.epochs
@@ -49,6 +50,7 @@ def get_params():
     print "LR", opts.lr
     print "Embedding Size", opts.embd_size
     print "Tokenize Simple", opts.tokenize_simple
+    print "Using Concept Fold Data", opts.concept
     return opts
 
 def abs_diff(X):
@@ -119,7 +121,11 @@ def compute_acc(X, Y, model, filename=None):
 
 def getConfig(opts):
     conf = [opts.conv_dim, opts.embd_size, opts.vocab_size, opts.lr, opts.xmaxlen]
-    return "_".join(map(lambda x: str(x), conf))
+    if opts.concept:
+        concept = '_Concept'
+    else:
+        concept = ''
+    return "_".join(map(lambda x: str(x), conf)) + concept
 
 class Metrics(Callback):
     def __init__(self, train_x, train_y, test_x, test_y):
@@ -150,7 +156,10 @@ if __name__ == "__main__":
     if options.local:
         dataPath = './Data/Dyen/'
     else:
-        dataPath = './Data/IELex/'
+        if options.concept:
+            dataPath = './Data/IELex_ConceptFolds/'
+        else:
+            dataPath = './Data/IELex/'
 
     train = [line.strip().decode('utf-8').split('\t') for line in open(dataPath + 'Train.txt')]
     test = [line.strip().decode('utf-8').split('\t') for line in open(dataPath + 'Test.txt')]
@@ -171,8 +180,8 @@ if __name__ == "__main__":
     Y_train = pad_sequences(Y_train, maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'post')
     Y_test  = pad_sequences(Y_test,  maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'post')
    
-    options.load_save = True
-    MODEL_WGHT = './Models/SiameseModel_10_16_539_0.001_10_9.weights'
+    # options.load_save = True
+    # MODEL_WGHT = './Models/SiameseModel_10_16_539_0.001_10_9.weights'
 
     if options.load_save and os.path.exists(MODEL_WGHT):
         print("Loading pre-trained model from ", MODEL_WGHT)
