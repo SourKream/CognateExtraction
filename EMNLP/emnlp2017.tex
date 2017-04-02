@@ -57,22 +57,14 @@ In this paper, we present a deep learning model for the task of pairwise cognate
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Introduction}
-Cognates are words across different languages that are known to have originated from the same word in a common ancestral language. For example, the English word `\textit{Night}' and the German `\textit{Nacht}’, both meaning night and English `\textit{Hound}’ and German `\textit{Hund}’, meaning dog are cognates whose origin can be traced back to Proto-Germanic. Traditionally, the identification of cognates was carried out by a historical linguist.  
+Cognates are words across different languages that are known to have originated from the same word in a common ancestral language. For example, the English word `\textit{Night}' and the German `\textit{Nacht}’, both meaning night and English `\textit{Hound}’ and German `\textit{Hund}’, meaning dog are cognates whose origin can be traced back to Proto-Germanic. Traditionally, the identification of cognates was carried out by a historical linguist. Advances in automated cognate identification have focused on using  
 
-In this paper, we proposed to use an end-to-end recurrent neural network based model with the need for explicit string similarity feature engineering. LSTM (Long Short Term Memory) networks are being used in a extensive range of NLP tasks to build end-to-end systems. LSTM networks being a form of recurrent networks, fit more naturally to natural language as compared to convolutional networks.  
+Most approaches for automatic cognate identification focus on finding similarity measures between a pair of words (e.g. orthographic or phonetic similarity). \citep{hauer2011clustering, inkpen2005similarity,List2016g}. These are used as features for classifiers to identify cognacy for a particular word-pair. Such features are is less effective in order to capture generalizations beyond string similarity. For example, the words \textit{que} in Spanish and \textit{Hvad} in Danish both map to the concept \textsc{WHAT}, but have nothing in common with each other. We would like our model to find generalizations beyond string similarity, in a manner that is closer to the task carried out by a human expert. 
 
+In this paper, we propose an end-to-end recurrent neural network based model \texttt{without} the need for explicit string similarity feature engineering. LSTM (Long Short Term Memory) networks are being used in a extensive range of NLP tasks to build end-to-end systems. As LSTM networks are a form of recurrent network, they fit more naturally to natural language as compared to convolutional networks. \texttt{Need a bit more clarity here on what is meant by fit more naturally}. We do an extensive analysis of our trained models to try to understand the kinds of features it learns to recognize that are important for making the cognate judgements.
 
-, there have been several attempts to calthough there have been advances in automatic cognate information.
+While the task of cognate identification is an interesting problem in its own right, it has also been applied to NLP tasks, like sentence alignment in bitexts and improving statistical machine translation models.\cite{Kondrak:2003,Simard:1993:UCA:962367.962411}. Additionally, it has been proposed that cognates can be used to share lexical resources among languages that are closely related \citep{Singh:07b}. This approach may be particularly useful among the languages of South Asia, which are not rich in such resources. Information about cognates can become an important source for assisting the creation and sharing of lexical resources between languages. Therefore, another contribution of this paper is to apply our cognate detection model to a real language pair. We apply the model to the domain of Hindi-Marathi, using a large unlabeled corpus of aligned texts to find cognate pairs.
 
-
-applied to NLP tasks, like sentence alignment in bitexts and improving statistical machine translation models.\texttt{Need some citations here}
-
-
-The high level of linguistic diversity in South Asia poses the challenge of building lexical resources across the languages from these regions. An important source for assisting the creation and sharing of lexical resources between languages is information about cognate words. 
-
-
-
-We do an extensive analysis of our trained models to try to understand the kinds of features it learns to recognize that are important for making the cognate judgment. We also specifically try to apply the model to the domain on Hindi-Marathi, by applying it to a large unlabeled corpus of aligned texts to find cognate pairs.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.18)  2 APR 2017 20:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.14)  2 APR 2017 22:16
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **emnlp2017.tex
 (./emnlp2017.tex
@@ -307,46 +306,41 @@ Missing character: There is no ™ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 68.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 64.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 86.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 95.
+Underfull \hbox (badness 1796) in paragraph at lines 64--65
+\OT1/ptm/m/n/10.95 the need for ex-plicit string sim-i-lar-ity fea-ture
+ []
 
 
-Package natbib Warning: Citation `hauer2011clustering' on page 1 undefined on i
-nput line 95.
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\OT1/pcr/m/n/10.95 clarity here on what is meant by
+ []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 96.
+(Font)              <10.95> on input line 74.
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
 ]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 78.
 
-Package natbib Warning: Citation `rama2015automatic' on page 2 undefined on inp
-ut line 97.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
 
-
-Underfull \hbox (badness 1337) in paragraph at lines 97--98
-[]\OT1/ptm/b/n/10.95 Gap-weighted com-mon sub-se-quences \OT1/ptm/m/n/10.95 : \
-OT1/ptm/b/n/10.95 ?
+Underfull \hbox (badness 3579) in paragraph at lines 89--90
+\OT1/ptm/m/n/10.95 ([][]2015[][]) uses a string ker-nel based ap-proach
  []
 
-
-Package natbib Warning: Citation `rama2016siamese' on page 2 undefined on input
- line 99.
-
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
@@ -359,90 +353,56 @@ Missing character: There is no ™ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
-<CoAttNetwork.png, id=17, 492.84125pt x 732.7375pt>
+<CoAttNetwork.png, id=41, 492.84125pt x 732.7375pt>
 File: CoAttNetwork.png Graphic file (type png)
  <use CoAttNetwork.png>
-Package pdftex.def Info: CoAttNetwork.png used on input line 117.
+Package pdftex.def Info: CoAttNetwork.png used on input line 109.
 (pdftex.def)             Requested size: 159.3382pt x 236.89581pt.
 
-
-Package natbib Warning: Citation `rocktaschel2016reasoning' on page 2 undefined
- on input line 122.
-
-
-LaTeX Warning: Reference `CoAttNet' on page 2 undefined on input line 123.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
-\OT1/pcr/m/n/10.95 Is this architecture based on (\OT1/ptm/b/n/10.95 ?\OT1/pcr/
-m/n/10.95 )
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+[]\OT1/pcr/m/n/10.95 Is this architecture based on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
-\OT1/pcr/m/n/10.95 ? Is it a modification of this
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+\OT1/pcr/m/n/10.95 ([][]Rockt[]aschel et al.[][], [][]2016[][]) ? Is
  []
 
 
-Underfull \hbox (badness 2057) in paragraph at lines 122--124
-\OT1/ptm/m/n/10.95 net-work and fi-nally a char-ac-ter by char-ac-ter
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+\OT1/pcr/m/n/10.95 it a modification of this model,
  []
 
-
-Underfull \hbox (badness 1072) in paragraph at lines 122--124
-\OT1/ptm/m/n/10.95 net-work with \OT1/ptm/m/it/10.95 tanh \OT1/ptm/m/n/10.95 an
-d \OT1/ptm/m/it/10.95 sig-moid \OT1/ptm/m/n/10.95 ac-ti-va-tions to
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 152.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 152.
 [2 <./CoAttNetwork.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 144.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 144.
 
-Package natbib Warning: Citation `rama2016siamese' on page 3 undefined on input
- line 195.
-
-
-Underfull \hbox (badness 5578) in paragraph at lines 225--226
+Underfull \hbox (badness 5578) in paragraph at lines 217--218
 []\OT1/ptm/m/n/10.95 The cross-concept eval-u-a-tion test can be
  []
 
-(./emnlp2017.bbl
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 14.
- [3])
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 261.
-[4
-
-] [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 261.
+[3] (./emnlp2017.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
+ [4] [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
  (./emnlp2017.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 261.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 261.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 253.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 253.
 Package rerunfilecheck Info: File `emnlp2017.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 261.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
  )
 (\end occurred when \iffalse on line 337 was incomplete) 
 Here is how much of TeX's memory you used:
- 6118 strings out of 493014
- 88669 string characters out of 6133350
- 189920 words of memory out of 5000000
- 9555 multiletter control sequences out of 15000+600000
- 28400 words of font info for 63 fonts, out of 8000000 for 9000
+ 6134 strings out of 493014
+ 89210 string characters out of 6133351
+ 190267 words of memory out of 5000000
+ 9565 multiletter control sequences out of 15000+600000
+ 29912 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,10n,37p,718b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,10n,37p,942b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/201
 6/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fon
@@ -450,10 +410,10 @@ ts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 /urw/helvetic/uhvb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/ti
 mes/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a
 .pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on emnlp2017.pdf (5 pages, 206553 bytes).
+Output written on emnlp2017.pdf (5 pages, 215702 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
- 40 named destinations out of 1000 (max. 500000)
+ 149 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
