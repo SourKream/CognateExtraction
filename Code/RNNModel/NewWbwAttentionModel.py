@@ -54,7 +54,6 @@ def get_params():
     print "regularization factor", opts.l2
     print "dropout", opts.dropout
     print "LR", opts.lr
-    print "Decay", opts.decay
     print "Embedding Size", opts.embd_size
     print "Tokenize Simple", opts.tokenize_simple
     return opts
@@ -204,8 +203,8 @@ if __name__ == "__main__":
 
     assert net_train[0][options.xmaxlen] == vocab['delimiter']
 
-    # options.load_save = True
-    # MODEL_WGHT = './Models/IPAModel_75_200_539_0.001_0.005_12_adam_4.weights'
+    options.load_save = True
+    MODEL_WGHT = './Models/IPAModel_75_200_539_0.001_0.005_12_adam_4.weights'
     # MODEL_WGHT = './Models/IPAModel_15_20_539_0.001_0.005_12_adam_9.weights'
 
     if options.load_save and os.path.exists(MODEL_WGHT):

@@ -153,6 +153,7 @@ if __name__ == "__main__":
     options = get_params()
 
 #    options.local = True
+    # options.concept = True
     if options.local:
         dataPath = './Data/Dyen/'
     else:
@@ -161,6 +162,8 @@ if __name__ == "__main__":
         else:
             dataPath = './Data/IELex/'
 
+    ## LOAD DATA
+    print "Loading data from ", dataPath
     train = [line.strip().decode('utf-8').split('\t') for line in open(dataPath + 'Train.txt')]
     test = [line.strip().decode('utf-8').split('\t') for line in open(dataPath + 'Test.txt')]
     vocab = get_vocab(train, options.tokenize_simple)
@@ -180,8 +183,10 @@ if __name__ == "__main__":
     Y_train = pad_sequences(Y_train, maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'post')
     Y_test  = pad_sequences(Y_test,  maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'post')
    
-    # options.load_save = True
-    # MODEL_WGHT = './Models/SiameseModel_10_16_539_0.001_10_9.weights'
+    ## Load Model
+    options.load_save = True
+    MODEL_WGHT = './Models/SiameseModel_10_16_539_0.001_10_9.weights'
+    # MODEL_WGHT = './Models/SiameseModel_10_16_530_0.001_10_Concept_3.weights'
 
     if options.load_save and os.path.exists(MODEL_WGHT):
         print("Loading pre-trained model from ", MODEL_WGHT)

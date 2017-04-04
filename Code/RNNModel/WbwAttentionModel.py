@@ -47,7 +47,7 @@ def get_params():
     parser.add_argument('-l2', action="store", default=0.01, dest="l2", type=float)
     parser.add_argument('-dropout', action="store", default=0.1, dest="dropout", type=float)
     parser.add_argument('-local', action="store", default=False, dest="local", type=bool)
-    parser.add_argument('-embd', action="store", default=100, dest='embd_size', type=int)
+    parser.add_argument('-embd', action="store", default=200, dest='embd_size', type=int)
     parser.add_argument('-tkn_simple', action="store", default=False, dest='tokenize_simple', type=bool)
     opts = parser.parse_args(sys.argv[1:])
     print "lstm_units", opts.lstm_units
@@ -291,8 +291,8 @@ if __name__ == "__main__":
 
     assert net_train[0][options.xmaxlen] == vocab['delimiter']
 
-    # options.load_save = True
-    # MODEL_WGHT = './Models/IPAModel_75_200_539_0.001_0.005_12_adam_4.weights'
+    options.load_save = True
+    MODEL_WGHT = './Models/IPAModel_75_200_539_0.001_0.005_12_adam_4.weights'
     # MODEL_WGHT = './Models/IPAModel_15_20_539_0.001_0.005_12_adam_9.weights'
 
     if options.load_save and os.path.exists(MODEL_WGHT):

@@ -41,7 +41,7 @@ def concat_in_out(X, Y, vocab):
     inp_train = np.concatenate((X,glue,Y),axis=1)
     return inp_train
 
-def load_data(train, vocab, labels = {'0':0,'1':1}, tokenize_simple = False):
+def load_data(train, vocab, labels = {'0':0,'1':1,0:0,1:1}, tokenize_simple = False):
     X,Y,Z = [],[],[]
     for p,h,l in train:
         p = map_to_idx(tokenize(p, tokenize_simple), vocab)
@@ -58,7 +58,7 @@ def get_vocab(data, tokenize_simple = False):
         tokens = tokenize(ex[0], tokenize_simple)
         tokens += tokenize(ex[1], tokenize_simple)
         vocab.update(tokens)
-    tokens = ["unk", "delimiter", "pad_tok"] + [x for x, y in sorted(vocab.iteritems()) if y > 0]
+    tokens = ["pad_tok", "unk", "delimiter"] + [x for x, y in sorted(vocab.iteritems()) if y > 0]
     vocab = {y:x for x,y in enumerate(tokens)}
     return vocab
 
@@ -79,6 +79,15 @@ def getPRCurveKeras (x_test, y_test, model, label='DL Model'):
     p_proba = model.predict(x_test)
     precision, recall, thresholds = precision_recall_curve(y_test, p_proba)
     plt.plot(recall, precision, label='{0} (AUC = {1:0.2f})'.format(label, auc(recall, precision)))
+
+def getAccuracy(x_test, y_test, model):
+    pred = model.predict(x_test)
+    pred = np.round(pred)
+    s = 0
+    for i in range(len(pred)):
+        if pred[i][0] == y_test[i]:
+            s += 1
+    return s/float(len(y_test))
 
 def getROCCurveKeras (x_test, y_test, model, label='DL Model'):
     p_proba = model.predict(x_test)

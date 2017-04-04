@@ -16,18 +16,19 @@ sys.stdout = UTF8Writer(sys.stdout)
 
 np.random.seed(1337)
 from keras.preprocessing.sequence import pad_sequences
-from keras.regularizers import l2, activity_l2
+from keras.regularizers import l2
 from keras.callbacks import *
 from keras.constraints import *
 from keras.models import *
 from keras.optimizers import *
-from keras.utils.np_utils import to_categorical, accuracy
+from keras.utils.np_utils import to_categorical
 from keras.layers.core import *
 from keras.layers.embeddings import Embedding
 from keras.layers.recurrent import *
 from keras.layers.wrappers import *
 from keras.layers.normalization import BatchNormalization
 from keras.layers import *
+from keras.layers.merge import *
 from sklearn.metrics import *
 from Utils import *
 from datetime import datetime
@@ -74,16 +75,17 @@ def build_model(opts, verbose=False):
                             opts.embd_size,
 ##                            W_constraint = unitnorm(),
                             input_length = opts.xmaxlen,
-                            dropout = opts.dropout,
+                            mask_zero = True,
                             name = "Embedding Layer")    
+    emb_dropout_layer = SpatialDropout1D(opts.dropout)
 
     lstm_layer = Bidirectional(LSTM(opts.lstm_units,
                                     return_sequences = True, 
                                     name="LSTM Layer"), name="Bidir LSTM Layer")
-    lstm_dropout_layer = Dropout(opts.dropout, name="LSTM Dropout Layer")
+    lstm_dropout_layer = SpatialDropout1D(opts.dropout, name="LSTM Dropout Layer")
 
-    word_a = lstm_dropout_layer (lstm_layer (emb_layer (input_word_a)))
-    word_b = lstm_dropout_layer (lstm_layer (emb_layer (input_word_b)))
+    word_a = lstm_dropout_layer (lstm_layer (emb_dropout_layer (emb_layer (input_word_a))))
+    word_b = lstm_dropout_layer (lstm_layer (emb_dropout_layer (emb_layer (input_word_b))))
 
     attention_layer = WbwAttentionLayer(return_att=True, name="Attention Layer")
 
@@ -94,16 +96,16 @@ def build_model(opts, verbose=False):
     r_a_n = Lambda(get_last, output_shape=(k,), name="r_a_n")(r_a)
     r_b_n = Lambda(get_last, output_shape=(k,), name="r_b_n")(r_b)
 
-    h_star = Activation('tanh')(merge([r_a_n, r_b_n], mode='concat', concat_axis=1))
+    h_star = Activation('tanh')(concatenate([r_a_n, r_b_n], axis=1))
 
-    output_layer = Dense(1, activation='sigmoid', W_regularizer=l2(opts.l2), name="Output Layer")(h_star)
+    output_layer = Dense(1, activation='sigmoid', kernel_regularizer=l2(opts.l2), name="Output Layer")(h_star)
 
-    model = Model(input = [input_word_a, input_word_b], output = output_layer)
+    model = Model(inputs = [input_word_a, input_word_b], outputs = output_layer)
     model.summary()
     model.compile(loss='binary_crossentropy', optimizer=Adam(opts.lr))
     print "Model Compiled"
 
-    att_model = Model(input = [input_word_a, input_word_b], output = alpha_a_b)
+    att_model = Model(inputs = [input_word_a, input_word_b], outputs = alpha_a_b)
 
     return model, att_model
     # return model
@@ -175,6 +177,7 @@ def PrepareData(dataPath, options):
 if __name__ == "__main__":
 
     options = get_params()
+    # options.concept = True
     if options.local:
         dataPath = './Data/Dyen/'
     else:
@@ -191,10 +194,13 @@ if __name__ == "__main__":
     print "Vocab Size : ", len(vocab)
 
     ## LOAD MODEL   
-    # options.load_save = True
-    # MODEL_WGHT = './Models/CoAtt_Model_50_80_539_0.001_0.01_12_9.weights'
-    # MODEL_WGHT = './Models/Pret_CoAtt_Model_50_80_539_0.001_0.01_12_14.weights'
+    options.load_save = True
+    MODEL_WGHT = './Models/CoAtt_Model_50_80_539_0.001_0.01_12_9.weights'
 
+    # MODEL_WGHT = './Models/Pret_CoAtt_Model_50_80_539_0.001_0.01_12_14.weights'
+    # MODEL_WGHT = './Models/CoAtt_Model_50_80_530_0.001_0.01_12_Concept_18.weights'
+    # MODEL_WGHT = './Models/CoAtt_Model_30_50_530_0.002_0.1_12_Concept_7.weights'
+    
     if options.load_save and os.path.exists(MODEL_WGHT):
         print("Loading pre-trained model from ", MODEL_WGHT)
         model, attention_model = build_model(options)
@@ -213,6 +219,6 @@ if __name__ == "__main__":
         history = model.fit(x = [X_train, Y_train], 
                             y = labels_train,
                             batch_size = options.batch_size,
-                            nb_epoch = options.epochs,
+                            epochs = options.epochs,
                             class_weight = {1:2.0, 0:1.0},
                             callbacks = [save_weights, metrics_callback])
