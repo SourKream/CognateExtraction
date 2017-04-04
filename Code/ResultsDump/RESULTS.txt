@@ -1,0 +1,52 @@
+RESULTS
+-------
+
+CROSS_CONCEPT
+
+					Indo European			Austronesian			Mayan		
+
+					F1		Acc				F1		Acc				F1		Acc
+
+PAPER
+-----
+Phonetic + Lang		86.1	86.4			78.3	79.8			86.2	86.2
+CharCNN + Lang		85.7	86.0			80.3	80.9			87.5	87.5
+
+IMPLEMENTED
+-----------
+Phonetic + Lang		86.4	87.1			78.5	79.4			86.5	86.5
+CharCNN + Lang		85.2	85.7			79.8	80.6			89.2	89.2	
+
+ACTUAL
+------
+Phonetic + Lang		64.2					57.6					80.4
+CharCNN + Lang		62.8					60.8					84.2
+
+CoAtt 				64.8					59.7					69.1					
+CoAtt + Lang		63.3					59.9					68.6					
+
+Subsequence			51.6					53.1					61.0							
+
+CoAtt (IPA)			63.7					-						-
+CoAtt + Lang (IPA)	63.7					-						-
+
+-----------------------------------------------------------------------------------------------
+
+CROSS_LANGUAGE
+
+					Indo European			Austronesian			Mayan		
+
+					F1						F1						F1		
+ACTUAL
+------
+Phonetic			73.7					54.6					72.8
+Phonetic + Lang		62.2					46.8					66.4
+CharCNN				75.3					62.2					75.9
+CharCNN + Lang		61.1					61.4					70.7				
+
+CoAtt 				81.2					68.3					65.8			
+CoAtt + Concept 	82.2					68.5					73.4
+PretCoAtt (Aus)		83.2					-						81.1					
+PretCoAtt (IELex)	-						-						80.1
+
+Subsequence			59.0					58.8					71.8					
