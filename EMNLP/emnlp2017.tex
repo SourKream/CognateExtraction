@@ -9,7 +9,7 @@
 \usepackage{graphicx}
 
 % Uncomment this line for the final submission:
-% \emnlpfinalcopy
+\emnlpfinalcopy
 
 %  Enter the EMNLP Paper ID here:
 \def\emnlppaperid{***}
@@ -104,33 +104,48 @@ Secondly, this also resulted in very sparse vectors as the feature space size wa
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Approach}
 
-\begin{figure}[ht]
+\begin{figure}[t]
 	\centering
 	\includegraphics[width=0.35\textwidth]{CoAttNetwork}
     \caption{Recurrent Co-Attention Network for Cognate Discovery}
     \label{CoAttNet}
 \end{figure}
 
-\texttt{Is this architecture based on \cite{rocktaschel2016reasoning} ? Is it a modification of this model, or something else?}
-The overall network used in our model is illustrated in Figure~\ref{CoAttNet}. It is a Siamese style network that encodes a word pair parallely and then makes a discriminative judgement in the final layer. The input words are first encoded into character level embeddings followed by a bidirectional LSTM network and finally a character by character attention layer. The encodings of both the words are merged and passed through a 2-layer neural network with \textit{tanh} and \textit{sigmoid} activations to make a final binary prediction. 
+The overall model used in our system is called the Recurrent Co-Attention Model (\textit{CoAtt} for short) and is extended from the word-by-word attention model used by \citet{rocktaschel2016reasoning} for the task of recognising textual entailment in natural language sentences. The network used is illustrated in Figure~\ref{CoAttNet}. It is a Siamese style network that encodes a word pair parallely and then makes a discriminative judgement in the final layer. The input words are first encoded into character level embeddings followed by a bidirectional LSTM network and finally a character by character attention layer as described the subsections that follow. The encodings of both the words are merged and passed through a 2-layer neural network with \textit{tanh} and \textit{sigmoid} activations to make a final binary prediction. Additionally we also add a \textit{Language features} vector or a \textit{Concept features} vector to the model by concatenating it with the merged attention vector before passing it to the 2-layer neural network.
 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Character Embeddings}
 
+\texttt{TODO: Describe Character embeddings}
+
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{LSTM network}
 
-<Describe LSTM>
-<Add LSTM equations>
+\texttt{TODO: Describe LSTM and add equations}
 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Attention}
 
-<Add attention equations>
+\texttt{TODO: Add attention equations}
 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Language Features}
 
+It is known that some languages are more closely related to each other as compared to other languages. Thus, these languages which are closer would naturally tend to share more cognate pairs than they do with other languages. \citet{rama2016siamese} tried to exploit this information about language \textit{relatedness} by providing the network with 2-hot encoding vector that represents the respective languages of the 2 input words being tested. The network would then use this information about the languages to learn which language pairs may be more related using the training data provided.
+
+We follow the same approach used by \citet{rama2016siamese} and provide the model with these addition \textit{Language Features} before the final classification by the 2-layer MLP. The 2-hot input language pair vector $x_{lang}$ is concatenated with the attention weighted representation of the input words $h^{*}$, before being fed into the final multi-layer perceptron for classification.
+
+%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Concept Features}
+
+As the information about the language of the input words can be beneficial for the task of cognate discovery, we hypothesise that information regarding the semantics or the meaning of the input word pair should also be helpful. The word semantics can provide information like the POS category of the word, which can be an useful if some POS classes show higher degree of variation in cognates while others show less. \texttt{More justification needed?}
+
+We implement this by using GloVe word embeddings \citep{pennington2014glove}. Word embeddings are distributional representation of words in a low-dimensional space compared to the vocabulary size and they have been shown to capture semantic information about the words inherently. We use the GloVe embedding for the English concept of the word pair as obtained from the label in the dataset, and input this vector to the network before the final MLP for classification. The word embedding of the concept $x_{concept}$ is concatenated with the attention weighted representation of the input words $h^{*}$, before being fed into the final multi-layer perceptron for classification.
+
+%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Cross Family Pre-training}
+
+\texttt{TODO: Describe Pretraining inspiration}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Experiments}
@@ -145,10 +160,6 @@ We report the \textit{F-score} as a measure of performance for all our models. \
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Cross Language Evaluation}
-
-In the cross language evaluation test, we fixed a random set of 70\% of the languages in the training set of languages and the remaining in the testing set, Then we took words from languages in the training set of languages and all concepts to form the training samples and similarly for the testing samples. It must be noted that all samples were created by taking words from the same concept .ie. for each word pair in the training and testing set, be it positive or negative, belongs to the same concept.
-
-The training and testing set size details for the different datasets formed using cross language evaluation test can be found in Table~\ref{CL_res}. The results for the cross language evaluation tests are listed in Table~\ref{CL_res}.
 
 \begin{table*}[t]
 \centering
@@ -168,23 +179,32 @@ Testing Samples               & 9,894               & 2,188                & 20,
 \multicolumn{1}{c}{\textbf{Model}} & \textbf{Indo-European} & \textbf{Austronesian} & \textbf{Mayan} \\
 Gap-weighted Subsequence           & 59.0                   & 58.8                  & 71.8           \\
 PhoneticCNN                        & 73.7                   & 54.6                  & 72.8           \\
-PhoneticCNN + Lang                 & 62.2                   & 46.8                  & 66.4           \\
-CharCNN                            & 75.3                   & 62.2                  & \textbf{75.9}           \\
-CharCNN + Lang                     & 61.1                   & 61.4                  & 70.7           \\
-CoAtt                              & \textbf{81.2}                   & \textbf{68.3}                  & 65.8          
+PhoneticCNN + Language Features                 & 62.2                   & 46.8                  & 66.4           \\
+CharCNN                            & 75.3                   & 62.2                  & 75.9           \\
+CharCNN + Language Features                     & 61.1                   & 61.4                  & 70.7           \\ \hline
+CoAtt                              & 81.2                   & 68.3                  & 65.8          \\
+CoAtt + Concept Features                   & 82.2                   & \textbf{68.5}                  & 73.4          \\
+CoAtt + Pre-training (Austro)                    & \textbf{83.2}                   & -                  & \textbf{81.1}     \\
+CoAtt + Pre-training (Indo-Eur)               & -                   & -                  & 80.1          
 \end{tabular}
 \label{CL_res}
 \caption{Cross Language Evaluation Results}
 \end{table*}
 
+In the cross language evaluation test, we fixed a random set of 70\% of the languages as the training set of languages and the remaining as the testing set, Then we took words from languages in the training set of languages and all concepts, to form the training samples and similarly for the testing samples. It must be noted that all samples were created by taking words from the same concept .ie. for each word pair in the training and testing set, be it positive or negative, belongs to the same concept.
+
+The training and testing set size details for the different datasets formed using cross language evaluation test can be found in Table~\ref{CL_res}. The results for the cross language evaluation tests are listed in Table~\ref{CL_res}.
+
 It is observed that the Recurrent Co-attention model (denoted as \textit{CoAtt}) performs significantly better than the CNN and the Subsequence models for the Indo-European and the Austronesian datasets. For the Mayan dataset, the \textit{CoAtt} model does not learn very well and in fact performs worse than even the subsequence model. This can be due to the small size of the Mayan dataset, which is not sufficient for training the \textit{CoAtt} network. 
 
-Since the mode of evaluation is cross concept, it is intuitive that the additional \textit{Language Features} will not contribute to the performance of the model since the languages of the training and testing set do not overlap and hence the relevant language feature weights for the test set are never learnt. This can clearly be observed in the performance of the CNN models, whos performance deteriorates by a margin with the addition of the \textit{Language features}. 
+Since the mode of evaluation is cross-language, it is intuitive that the additional \textit{Language Features} will not contribute to the performance of the model since the languages of the training and testing set do not overlap and hence the relevant language feature weights for the test set are never learnt. That is, any information about the affinity or interaction between the languages in the training set is not useful for the languages in the testing set, as they are not common. This can clearly be observed in the performance of the CNN models, whos performance deteriorates by a margin with the addition of the \textit{Language features}. Hence, we do not use \textit{Language features} with our model for cross-language evaluation.
+
+On the other hand, the \textit{Concept features} discussed earlier, are found to be useful in improving the performance of the \textit{CoAtt} especially on the Mayan dataset. Using the extra information about the word meaning from the of input pair from the \textit{Concept features}, the \textit{CoAtt} model is able to cross the baseline performance on the Mayan dataset.
+
+The best boost however for the \textit{CoAtt} model on the Mayan dataset comes from pre-training the model on the Austronesian and the Indo-European datasets. Pre-training the model on the other language families gives a good initialisation point to start training for the Mayan dataset. Using this method, the \textit{CoAtt} model is thus able to beat the performance of best CNN model (\textit{CharCNN}) on the Mayan dataset. This also provides evidence to our hypothesis that the \textit{CoAtt} was not able to learn on the Mayan dataset simply because of the lack of enough data to train the network, but pre-training the model on other language families helped to show the true potential of the model on the dataset.
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Cross Concept Evaluation}
-
-For the cross concept evaluation test, we followed the same scheme as done by \citet{rama2016siamese}, wherein we took the first 70\% of the concepts as training concepts and the remaining concepts as testing concepts. The training and testing pair samples were then created from each set by using words from the same concept. The training and testing set size details formed using cross concept evaluation test can be found in Table~\ref{CC_res}. The results for the cross concept evaluation tests are listed in Table~\ref{CC_res}.
 
 \begin{table*}[t]
 \centering
@@ -204,7 +224,7 @@ Testing Samples               & 103,092             & 21,547               & 150
 \multicolumn{1}{c}{\textbf{Model}} & \textbf{Indo-European} & \textbf{Austronesian} & \textbf{Mayan} \\
 Gap-weighted Subsequence           & 51.6                   & 53.1                  & 61.0           \\
 PhoneticCNN + Lang                 & 64.2                   & 57.6                  & 80.4           \\
-CharCNN + Lang                     & 62.8                   & \textbf{60.8}                  & \textbf{84.2}           \\
+CharCNN + Lang                     & 62.8                   & \textbf{60.8}                  & \textbf{84.2}           \\ \hline
 CoAtt                              & \textbf{64.8}                   & 59.7                  & 69.1           \\
 CoAtt + Lang                       & 63.3                   & 59.9                  & 68.6          
 \end{tabular}
@@ -212,19 +232,11 @@ CoAtt + Lang                       & 63.3                   & 59.9              
 \caption{Cross Concept Evaluation Results}
 \end{table*}
 
+For the cross concept evaluation test, we followed the same scheme as done by \citet{rama2016siamese}, wherein we took the first 70\% of the concepts as training concepts and the remaining concepts as testing concepts. The training and testing pair samples were then created from each set by using words from the same concept. The training and testing set size details formed using cross concept evaluation test can be found in Table~\ref{CC_res}. The results for the cross concept evaluation tests are listed in Table~\ref{CC_res}.
+
 It is observed that the \textit{CoAtt} model gives an almost equal performance for the Indo-European and the Austronesian datasets as compared to the CNN models. In fact, it can be seen that within the CNN models, \textit{PhoneticCNN + Lang} model performs better on Indo-European whereas \textit{CharCNN + Lang} performs better on Austronesian dataset. The \textit{CoAtt} model has a performance equivalent to the best CNN model for each dataset. It is also observed that the \textit{CoAtt} model again does not learn very well for the Mayan dataset. Even though it is able to beat the Subsequence model in terms of F-score, it is still behind the CNN models by more than 10 points.
 
 The cross-concept evaluation test can be thought of as a more rigorous test for cognate detection as the models have not seen any of the similar word structures during training. Words coming from different concepts would have different sequence structures altogether and for a model to predict cognate similarity in such a case would definitely have to exploit phoneme similarity information in the context of cognates.
-
-%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Cross Family Pre-training}
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Transcription}
-
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Analysis}
