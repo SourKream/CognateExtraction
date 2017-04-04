@@ -7,9 +7,10 @@
 \usepackage{times}
 \usepackage{latexsym}
 \usepackage{graphicx}
+\usepackage{amssymb}
 
 % Uncomment this line for the final submission:
-\emnlpfinalcopy
+% \emnlpfinalcopy
 
 %  Enter the EMNLP Paper ID here:
 \def\emnlppaperid{***}
@@ -61,7 +62,7 @@ Cognates are words across different languages that are known to have originated 
 
 Most approaches for automatic cognate identification focus on finding similarity measures between a pair of words (e.g. orthographic or phonetic similarity). \citep{hauer2011clustering, inkpen2005similarity,List2016g}. These are used as features for classifiers to identify cognacy for a particular word-pair. Such features are is less effective in order to capture generalizations beyond string similarity. For example, the words \textit{que} in Spanish and \textit{Hvad} in Danish both map to the concept \textsc{WHAT}, but have nothing in common with each other. We would like our model to find generalizations beyond string similarity, in a manner that is closer to the task carried out by a human expert. 
 
-In this paper, we propose an end-to-end recurrent neural network based model \texttt{without} the need for explicit string similarity feature engineering. LSTM (Long Short Term Memory) networks are being used in a extensive range of NLP tasks to build end-to-end systems. As LSTM networks are a form of recurrent network, they fit more naturally to natural language as compared to convolutional networks. \texttt{Need a bit more clarity here on what is meant by fit more naturally}. We do an extensive analysis of our trained models to try to understand the kinds of features it learns to recognize that are important for making the cognate judgements.
+In this paper, we propose an end-to-end recurrent neural network based model \texttt{without} the need for explicit string similarity feature engineering. LSTM (Long Short Term Memory) networks are being used in a extensive range of NLP tasks to build end-to-end systems. LSTMs have been successfully applied to machine translation \citep{bahdanau2014neural}. language modelling \citep{mikolov2010recurrent}, information retrieval \citep{sordoni2015hierarchical} and RTE \citep{snli:emnlp2015}. As LSTM networks are a form of recurrent network, they fit more naturally to natural language as compared to convolutional networks. \texttt{Need a bit more clarity here on what is meant by fit more naturally}. We do an extensive analysis of our trained models to try to understand the kinds of features it learns to recognize that are important for making the cognate judgements.
 
 While the task of cognate identification is an interesting problem in its own right, it has also been applied to NLP tasks, like sentence alignment in bitexts and improving statistical machine translation models.\cite{Kondrak:2003,Simard:1993:UCA:962367.962411}. Additionally, it has been proposed that cognates can be used to share lexical resources among languages that are closely related \citep{Singh:07b}. This approach may be particularly useful among the languages of South Asia, which are not rich in such resources. Information about cognates can become an important source for assisting the creation and sharing of lexical resources between languages. Therefore, another contribution of this paper is to apply our cognate detection model to a real language pair. We apply the model to the domain of Hindi-Marathi, using a large unlabeled corpus of aligned texts to find cognate pairs.
 
@@ -116,17 +117,35 @@ The overall model used in our system is called the Recurrent Co-Attention Model 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Character Embeddings}
 
-\texttt{TODO: Describe Character embeddings}
+The network starts by encoding the input words into their character embeddings. We encode the words using a character level embedding matrix $E \in \mathbb{R}^{n_e \times |C|}$. Here $n_e$ is the size of the character embeddings and $C$ is the vocabulary of all characters. Thus for an input word $x$ which can be represented as sequence of characters $x = \{c_{i_1}, c_{i_2}, ..., c_{i_n}\}$, is transformed into a sequence of vectors $y = \{e_{i_1}, e_{i_2}, ..., e_{i_n}\}$ where $e_j$ is the $j^{th}$ column of the $E$ matrix. This embedding matrix is learnt during training and each column in the matrix represents the embedding vector of the respective token in the vocabulary. 
+
+\citet{rama2016siamese} manually defined the character embeddings using various properties of the respective phoneme and fixed these embeddings during training. However, we observe that such a method restricts the power of the distributional representation to world knowledge known to us and letting the embeddings be learnt themselves should help learn a representation that is useful for the task in hand.
 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{LSTM network}
 
-\texttt{TODO: Describe LSTM and add equations}
+Recurrent Neural networks (RNN) with Long Short-Term Memory (LSTM) have been extensively been used in several NLP tasks. After the input words to the network are encoded using the character embedding matrix, we transform them use LSTM cells. Given the input words $y = \{e_1, e_2, ..., e_n\}$, at every time step $t$ the LSTM of hidden unit size $n_h$ uses the next input $e_t$, the previous output $h_{t-1}$ and the previous cell state $c_{t-1}$ to compute the next output $h_t$ and the next cell state $c_t$ as follows,
+
+$$H = [e_t h_{t-1}]$$
+$$i_t = \sigma (W^iH + b^i)$$
+$$o_t = \sigma (W^oH + b^o)$$
+$$f_t = \sigma (W^fH + b^f)$$
+$$c_t = i_t * tanh(W^cH + b^c) + f_t * c_{t-1}$$
+$$h_t = o_t * tanh(c_t)$$
+
+Here $W^i$, $W^o$, $W^f$, $W^c \in  \mathbb{R}^{n_e+n_h \times n_h}$ and $b_i$, $b_o$, $b_f$, $b_c \in \mathbb{R}^{n_h}$ are trained weights of the LSTM. The final output of the LSTM gives us a sequence $\{h_1, h_2, ..., h_n\}$ for every word, where $h_j \in \mathbb{R}^{n_h}$.
 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Attention}
 
-\texttt{TODO: Add attention equations}
+\texttt{TODO: Attention Motivation}
+\texttt{TODO: Explain Attention Equations}
+
+$$M_t = tanh(W_yY + (W^hh_t + W^rr_{t-1})*e_L)$$
+$$\alpha_t = softmax(w^TM_t)$$
+$$r_t = Y\alpha_t^T + tanh(W^tr_{t-1})$$
+
+\texttt{TODO: Co Attention Explanation}
 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Language Features}
@@ -223,10 +242,10 @@ Testing Samples               & 103,092             & 21,547               & 150
 \begin{tabular}{lccc}
 \multicolumn{1}{c}{\textbf{Model}} & \textbf{Indo-European} & \textbf{Austronesian} & \textbf{Mayan} \\
 Gap-weighted Subsequence           & 51.6                   & 53.1                  & 61.0           \\
-PhoneticCNN + Lang                 & 64.2                   & 57.6                  & 80.4           \\
-CharCNN + Lang                     & 62.8                   & \textbf{60.8}                  & \textbf{84.2}           \\ \hline
+PhoneticCNN + Language Features                 & 64.2                   & 57.6                  & 80.4           \\
+CharCNN + Language Features                     & 62.8                   & \textbf{60.8}                  & \textbf{84.2}           \\ \hline
 CoAtt                              & \textbf{64.8}                   & 59.7                  & 69.1           \\
-CoAtt + Lang                       & 63.3                   & 59.9                  & 68.6          
+CoAtt + Language Features                       & 63.3                   & 59.9                  & 68.6          
 \end{tabular}
 \label{CC_res}
 \caption{Cross Concept Evaluation Results}
