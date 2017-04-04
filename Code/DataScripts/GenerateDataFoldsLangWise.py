@@ -11,12 +11,16 @@ UTF8Writer = codecs.getwriter('utf8')
 sys.stdout = UTF8Writer(sys.stdout)
 
 #dataFile = 'DataPickles/DyenDataset.pkl'
-dataFile = 'DataPickles/Mayan_asjp.pkl'
+dataFile = 'DataPickles/ieLex2016.pkl'
+# dataFile = 'DataPickles/Austronesian_asjp.pkl'
+# dataFile = 'DataPickles/ieLex2016_asjp.pkl'
+# dataFile = 'DataPickles/Mayan_asjp.pkl'
 
 Data = pickle.load(open(dataFile,'r'))
 
 numFolds = 5
 words = {}
+languages = set([])
 
 for meaning in Data:
 	random.shuffle(Data[meaning])
@@ -24,6 +28,10 @@ for meaning in Data:
 	for word in Data[meaning]:
 		if word[4] != '':
 			words[meaning].append((word[2], word[4], word[1]))
+			languages.add(word[1])
+
+languages = list(languages)
+random.shuffle(languages)
 
 for fold in range(numFolds):
 
@@ -34,17 +42,18 @@ for fold in range(numFolds):
 	lang_train = []
 	lang_test = []
 
+	numLanguagesPerFold = len(languages)/numFolds
+	testLanguages = set(languages[fold*numLanguagesPerFold:(fold+1)*numLanguagesPerFold])	
+
 	for meaning in words:
 
-		numWordsInMeaning = len(words[meaning])
-		numWordsPerFold = numWordsInMeaning/numFolds
-
-		testWords = set(words[meaning][fold*numWordsPerFold:(fold+1)*numWordsPerFold])
 		trainWords = []
+		testWords = []
 		for word in words[meaning]:
-			if word not in testWords:
+			if word[2] not in testLanguages:
 				trainWords.append(word)
-		testWords = list(testWords)
+			else:
+				testWords.append(word)
 
 		for i, word_i in enumerate(trainWords):
 			for j, word_j in enumerate(trainWords[i+1:]):
@@ -67,3 +76,5 @@ for fold in range(numFolds):
 
 	pickle.dump([X_train, y_train, X_test, y_test], open('DataFold'+str(fold+1)+'.pkl', 'w'))	
 	pickle.dump([X_train, y_train, X_test, y_test, lang_train, lang_test], open('LangInfo_DataFold'+str(fold+1)+'.pkl','w'))
+
+

@@ -18,7 +18,8 @@ UTF8Writer = codecs.getwriter('utf8')
 sys.stdout = UTF8Writer(sys.stdout)
 
 #dataFile = 'Pickles/Dyen/DataFold1.pkl'
-dataFile = 'Pickles/IELex/DataFold1.pkl'
+#dataFile = 'DataPickles/IELex/DataFold1.pkl'
+dataFile = 'DataPickles/IELexConceptFolds/ConceptDataFold1.pkl'
 
 X_train, y_train, X_test, y_test = pickle.load(open(dataFile,'r'))
 
@@ -181,21 +182,22 @@ print "---------------------------------"
 model = {}
 x_test = {}
 
-for steal_ratio in [x/100.0 for x in range(0,110,10)]:
+#for steal_ratio in [x/100.0 for x in range(0,110,10)]:
+for steal_ratio in [0, 0.2, 0.5, 1.0]:
 	print "Steel Ratio : ", steal_ratio
 
 	## Get Feature Vectors
 	x_train = []
 	j = 0
 	for dataPoint in X_train:
-	 	x_train.append(featureHybridNorm(dataPoint, steal_ratio))
+	 	x_train.append(featureHybrid(dataPoint, steal_ratio))
 		j += 1
 		print "Progress : ", j, " / ", len(X_train), "\r",
 		sys.stdout.flush()
 
 	x_test[steal_ratio] = []
 	for dataPoint in X_test:
-	 	x_test[steal_ratio].append(featureHybridNorm(dataPoint, steal_ratio))
+	 	x_test[steal_ratio].append(featureHybrid(dataPoint, steal_ratio))
 
 
 	# z = zip(x_train, y_train)
@@ -224,7 +226,7 @@ for steal_ratio in [x/100.0 for x in range(0,110,10)]:
 #	getPRCurvePersistance (x_test[steal_ratio], y_test, model[steal_ratio])
 	print "---------------------------------"
 
-pickle.dump([model, x_test, y_test], open('DataDump/HybridNormModelIELexDataFold1.pkl','w'))
+pickle.dump([model, x_test, y_test], open('DataDump/HybridModelIELexConceptDataFold1.pkl','w'))
 # plt.xlabel('Recall')
 # plt.ylabel('Precision')
 # plt.ylim([0.0, 1.05])

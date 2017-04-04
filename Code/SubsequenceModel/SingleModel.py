@@ -17,8 +17,12 @@ from sklearn.feature_extraction import DictVectorizer
 UTF8Writer = codecs.getwriter('utf8')
 sys.stdout = UTF8Writer(sys.stdout)
 
-dataFile = 'Pickles/Dyen/DataFold1.pkl'
-#dataFile = 'Pickles/IELex/DataFold1.pkl'
+dataFile = 'DataPickles/Dyen/DataFold1.pkl'
+dataFile = 'DataPickles/CrossLanguage/IELex_ASJP/DataFold1.pkl'
+#dataFile = 'DataPickles/CrossLanguage/Mayan/DataFold1.pkl'
+dataFile = 'DataPickles/CrossLanguage/Austro/DataFold1.pkl'
+#dataFile = 'DataPickles/Mayan/DataFold1.pkl'
+#dataFile = 'DataPickles/TarakaDF/MAYAN_ConceptDF_Taraka.pkl'
 
 X_train, y_train, X_test, y_test = pickle.load(open(dataFile,'r'))
 

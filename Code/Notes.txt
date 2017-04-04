@@ -75,3 +75,42 @@ Check performance on these sets,
 - POS tag sets
 - Divide datasets on meanings
 
+- Correlation between pairwise distances, Spearman, Pearson, results unsatisfactory
+- Models for learning Panphon using embeddings, doesnt seem feasible, varies results, very small dataset (233 chars)
+- 
+
+---------------------
+1st March:
+
+- Character Embedding Analysis
+  - Pairwise distance correlation, no apparant relation
+  - Pairwise distance correlation with different sets, no relation
+  - Classifier to predict different classes, intractable
+  - Diacritic vectors
+
+- Error analysis test of best model
+  - LanguageAnalysis.xlsx
+
+- Siamese model performance
+  - Error in implementation
+  - Library version?
+
+- Hindi-Marathi Domain
+  - Devanagri to IPA tool
+  - POS tagging available
+  - NLTK lemmetizers
+  - Linguistica Project (http://linguistica.uchicago.edu)
+
+---------------------
+
+ - Tests for rating word embeddings? Character embeddings?
+ - Create dataset like Wordsim 353
+   - Found low correlation for learnt embeddings. High for Panphon and Taraka embeddings
+
+---------------------
+
+ - Using Concept word vector as additional input feature like language feaures
+ - Pretraing across language families
+    - Results updated. Huge bonus for Mayan (Cross Language test)
+
+---------------------

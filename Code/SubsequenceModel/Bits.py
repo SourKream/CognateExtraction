@@ -13,8 +13,9 @@ from sklearn.metrics import *
 
 # modelA, x_testA, y_test = pickle.load(open('DataDump/HybridModelDyenDF1.pkl')) 
 # modelN, x_testN, _ = pickle.load(open('DataDump/HybridNormModelDyenDF1.pkl'))
-modelA, x_testA, y_test = pickle.load(open('DataDump/HybridModelIELexDF1.pkl')) 
-modelN, x_testN, _ = pickle.load(open('DataDump/NormModelIELexDF1.pkl'))
+# modelA, x_testA, y_test = pickle.load(open('DataDump/HybridModelIELexDF1.pkl')) 
+# modelN, x_testN, _ = pickle.load(open('DataDump/NormModelIELexDF1.pkl'))
+modelA, x_testA, y_test = pickle.load(open('DataDump/HybridModelIELexConceptDataFold1.pkl'))
 
 subseqModels = {}
 x_test = {}
@@ -23,19 +24,19 @@ subseqModels['Additive'] = modelA[1.0]
 subseqModels['Multiplicative'] = modelA[0.0]
 subseqModels['Hy-Avg 0.2'] = modelA[0.2]
 subseqModels['Hy-Avg 0.5'] = modelA[0.5]
-subseqModels['Hy-Norm 0.2'] = modelN[0.2]
-subseqModels['Hy-Norm 0.5'] = modelN[0.5]
+# subseqModels['Hy-Norm 0.2'] = modelN[0.2]
+# subseqModels['Hy-Norm 0.5'] = modelN[0.5]
 
 x_test['Additive'] = x_testA[1.0]
 x_test['Multiplicative'] = x_testA[0.0]
 x_test['Hy-Avg 0.2'] = x_testA[0.2]
 x_test['Hy-Avg 0.5'] = x_testA[0.5]
-x_test['Hy-Norm 0.2'] = x_testN[0.2]
-x_test['Hy-Norm 0.5'] = x_testN[0.5]
+# x_test['Hy-Norm 0.2'] = x_testN[0.2]
+# x_test['Hy-Norm 0.5'] = x_testN[0.5]
 
 #### PR Curve
 
-for label in sorted(subseqModels.keys()):
+for label in ['Additive', 'Multiplicative', 'Hy-Avg 0.5', 'Hy-Avg 0.2']:
 	p_proba = subseqModels[label].decision_function(x_test[label])
 	precision, recall, _ = precision_recall_curve(y_test, p_proba)
 	plt.plot(recall, precision, label='{0} (AUC = {1:0.2f})'.format(label, auc(recall, precision)))
@@ -50,7 +51,7 @@ plt.show(block=False)
 
 #### ROC Curve
 
-for label in sorted(subseqModels.keys()):
+for label in ['Additive', 'Multiplicative', 'Hy-Norm 0.5', 'Hy-Avg 0.2']:
 	p_proba = subseqModels[label].decision_function(x_test[label])
 	fpr, tpr, _ = roc_curve(y_test, p_proba)
 	plt.plot(fpr, tpr, label='{0} (AUC = {1:0.2f})'.format(label, auc(fpr, tpr)))
