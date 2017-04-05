@@ -8,6 +8,7 @@
 \usepackage{latexsym}
 \usepackage{graphicx}
 \usepackage{amssymb}
+\usepackage{amsmath}
 
 % Uncomment this line for the final submission:
 % \emnlpfinalcopy
@@ -62,7 +63,7 @@ Cognates are words across different languages that are known to have originated 
 
 Most approaches for automatic cognate identification focus on finding similarity measures between a pair of words (e.g. orthographic or phonetic similarity). \citep{hauer2011clustering, inkpen2005similarity,List2016g}. These are used as features for classifiers to identify cognacy for a particular word-pair. Such features are is less effective in order to capture generalizations beyond string similarity. For example, the words \textit{que} in Spanish and \textit{Hvad} in Danish both map to the concept \textsc{WHAT}, but have nothing in common with each other. We would like our model to find generalizations beyond string similarity, in a manner that is closer to the task carried out by a human expert. 
 
-In this paper, we propose an end-to-end recurrent neural network based model \texttt{without} the need for explicit string similarity feature engineering. LSTM (Long Short Term Memory) networks are being used in a extensive range of NLP tasks to build end-to-end systems. LSTMs have been successfully applied to machine translation \citep{bahdanau2014neural}. language modelling \citep{mikolov2010recurrent}, information retrieval \citep{sordoni2015hierarchical} and RTE \citep{snli:emnlp2015}. As LSTM networks are a form of recurrent network, they fit more naturally to natural language as compared to convolutional networks. \texttt{Need a bit more clarity here on what is meant by fit more naturally}. We do an extensive analysis of our trained models to try to understand the kinds of features it learns to recognize that are important for making the cognate judgements.
+In this paper, we propose an end-to-end recurrent neural network based model \texttt{without} the need for explicit string similarity feature engineering. LSTM (Long Short Term Memory) networks are being used in a extensive range of NLP tasks to build end-to-end systems. LSTMs have been successfully applied to machine translation \citep{bahdanau2014neural}. language modelling \citep{mikolov2010recurrent}, information retrieval \citep{sordoni2015hierarchical} and RTE \citep{snli:emnlp2015}. As LSTM networks are a form of recurrent network (RNN), they fit more naturally to natural language which also has a sequential architecture and follows a linear order, as compared to convolutional networks which are more hierarchical and hence seem natural for images. Even though NLP literature does not support a clear distinction between the domains where CNNs or RNNs perform better, recent works have shown that each provide complementary information for text classification tasks \citep{yin2017comparative}. We do an extensive analysis of our trained models to try to understand the kinds of features it learns to recognize that are important for making the cognate judgements.
 
 While the task of cognate identification is an interesting problem in its own right, it has also been applied to NLP tasks, like sentence alignment in bitexts and improving statistical machine translation models.\cite{Kondrak:2003,Simard:1993:UCA:962367.962411}. Additionally, it has been proposed that cognates can be used to share lexical resources among languages that are closely related \citep{Singh:07b}. This approach may be particularly useful among the languages of South Asia, which are not rich in such resources. Information about cognates can become an important source for assisting the creation and sharing of lexical resources between languages. Therefore, another contribution of this paper is to apply our cognate detection model to a real language pair. We apply the model to the domain of Hindi-Marathi, using a large unlabeled corpus of aligned texts to find cognate pairs.
 
@@ -126,27 +127,46 @@ The network starts by encoding the input words into their character embeddings. 
 
 Recurrent Neural networks (RNN) with Long Short-Term Memory (LSTM) have been extensively been used in several NLP tasks. After the input words to the network are encoded using the character embedding matrix, we transform them use LSTM cells. Given the input words $y = \{e_1, e_2, ..., e_n\}$, at every time step $t$ the LSTM of hidden unit size $n_h$ uses the next input $e_t$, the previous output $h_{t-1}$ and the previous cell state $c_{t-1}$ to compute the next output $h_t$ and the next cell state $c_t$ as follows,
 
-$$H = [e_t h_{t-1}]$$
-$$i_t = \sigma (W^iH + b^i)$$
-$$o_t = \sigma (W^oH + b^o)$$
-$$f_t = \sigma (W^fH + b^f)$$
-$$c_t = i_t * tanh(W^cH + b^c) + f_t * c_{t-1}$$
-$$h_t = o_t * tanh(c_t)$$
+\begin{align}
+H &= [e_t h_{t-1}] \\
+i_t &= \sigma (W^iH + b^i) \\
+o_t &= \sigma (W^oH + b^o) \\
+f_t &= \sigma (W^fH + b^f) \\
+c_t &= i_t * tanh(W^cH + b^c) + f_t * c_{t-1} \\
+h_t &= o_t * tanh(c_t)
+\end{align}
 
 Here $W^i$, $W^o$, $W^f$, $W^c \in  \mathbb{R}^{n_e+n_h \times n_h}$ and $b_i$, $b_o$, $b_f$, $b_c \in \mathbb{R}^{n_h}$ are trained weights of the LSTM. The final output of the LSTM gives us a sequence $\{h_1, h_2, ..., h_n\}$ for every word, where $h_j \in \mathbb{R}^{n_h}$.
 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Attention}
 
-\texttt{TODO: Attention Motivation}
-\texttt{TODO: Explain Attention Equations}
+Attention neural networks have been used extensively in tasks like machine translation \cite{}, image captioning \cite{}, summarisation \cite{} and visual question answering \cite{}. The attention mechanism helps to enhance the representation obtained from the LSTM cell state by giving it context that is used for attending. More precisely, we attend over the LSTM encoding of a given word, using a single characted encoding of the second word, which helps to generate a weighted representation of the first word that includes its important segments with respect to its similarity with the second word's character. 
 
-$$M_t = tanh(W_yY + (W^hh_t + W^rr_{t-1})*e_L)$$
-$$\alpha_t = softmax(w^TM_t)$$
-$$r_t = Y\alpha_t^T + tanh(W^tr_{t-1})$$
+Given a character vector $h \in  \mathbb{R}^{n_h}$ using which we would like to attend on a sequence of character vectors $Y = \{c_1, c_2, ..., c_L\} \in \mathbb{R}^{n_h \times L}$, we generate a set of attention weights $\alpha$ and a attention-weight representation $r \in  \mathbb{R}^{n_h}$ of $Y$ as,
 
-\texttt{TODO: Co Attention Explanation}
+\begin{align}
+M &= tanh(W^yY + W^hh*e_L) \\
+\alpha &= softmax(w^TM) \\
+r &= Y\alpha_t^T
+\end{align}
 
+Using the mechanism followed by \citet{rocktaschel2016reasoning} for word-by-word attention, we employ a character-by-character attention model, wherein we find an attention weighted representation of the first word $Y = \{c_1, c_2, ..., c_L\} \in \mathbb{R}^{n_h \times L}$ at every character of the second word $H = \{h_1, h_2, ..., h_N\} \in \mathbb{R}^{n_h \times N}$.
+
+\begin{align}
+M_t &= tanh(W^yY + (W^hh_t + W^rr_{t-1})*e_L) \\
+\alpha_t &= softmax(w^TM_t) \\
+r_t &= Y\alpha_t^T + tanh(W^tr_{t-1})
+\end{align}
+
+Here $W^y$, $W^h$, $W^r$, $W^t \in  \mathbb{R}^{n_h \times n_h}$ and $w \in \mathbb{R}^{n_h}$ are trained weights of the Attention layer. The final output gives us $r_N = r_{YH}$ which can considered as attention weighted representation of $Y$ with respect to $H$. Similarly, we also obtain $r_{HY}$. The final feature vector $r^*$ that is passed to the multi-layer perceptron for classification is the concatenation of these 2 vectors.
+
+\begin{align}
+r^* &= [r_{HY} r_{YH}]
+\end{align}
+
+ This method of making both the sequences attend over each is called the \textit{Co-Attention} model.
+ 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Language Features}
 
