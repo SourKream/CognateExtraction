@@ -1,6 +1,21 @@
 \begin{thebibliography}{}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
+\bibitem[{Bahdanau et~al.(2014)Bahdanau, Cho, and Bengio}]{bahdanau2014neural}
+Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. 2014.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock In {\em ICLR 2015\/}.
+
+\bibitem[{Bowman et~al.(2015)Bowman, Angeli, Potts, and
+  Manning}]{snli:emnlp2015}
+Samuel~R. Bowman, Gabor Angeli, Christopher Potts, and Christopher~D. Manning.
+  2015.
+\newblock A large annotated corpus for learning natural language inference.
+\newblock In {\em Proceedings of the 2015 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)\/}. Association for Computational
+  Linguistics.
+
 \bibitem[{Hauer and Kondrak(2011)}]{hauer2011clustering}
 Bradley Hauer and Grzegorz Kondrak. 2011.
 \newblock Clustering semantically equivalent words into cognate sets in
@@ -36,6 +51,23 @@ Johann-Mattis List, Philippe Lopez, and Eric Bapteste. 2016.
   2016 (Volume 2: Short Papers)\/}. Berlin, pages 599--605.
 \newblock
   \href{http://anthology.aclweb.org/P16-2097}{http://anthology.aclweb.org/P16-2097}.
+
+\bibitem[{Mikolov et~al.(2010)Mikolov, Karafi{\'a}t, Burget, Cernock{\`y}, and
+  Khudanpur}]{mikolov2010recurrent}
+Tomas Mikolov, Martin Karafi{\'a}t, Lukas Burget, Jan Cernock{\`y}, and Sanjeev
+  Khudanpur. 2010.
+\newblock Recurrent neural network based language model.
+\newblock In {\em Interspeech\/}. volume~2, page~3.
+
+\bibitem[{Pennington et~al.(2014)Pennington, Socher, and
+  Manning}]{pennington2014glove}
+Jeffrey Pennington, Richard Socher, and Christopher~D. Manning. 2014.
+\newblock \href{http://www.aclweb.org/anthology/D14-1162}{Glove: Global vectors
+  for word representation}.
+\newblock In {\em Empirical Methods in Natural Language Processing (EMNLP)\/}.
+  pages 1532--1543.
+\newblock
+  \href{http://www.aclweb.org/anthology/D14-1162}{http://www.aclweb.org/anthology/D14-1162}.
 
 \bibitem[{Rama(2015)}]{rama2015automatic}
 Taraka Rama. 2015.
@@ -74,5 +106,19 @@ Anil~Kumar Singh and Harshit Surana. 2007.
 \newblock Study of cognates among south asian languages for the purpose of
   building lexical resources.
 \newblock {\em Journal of Language Technology\/} .
+
+\bibitem[{Sordoni et~al.(2015)Sordoni, Bengio, Vahabi, Lioma, Grue~Simonsen,
+  and Nie}]{sordoni2015hierarchical}
+Alessandro Sordoni, Yoshua Bengio, Hossein Vahabi, Christina Lioma, Jakob
+  Grue~Simonsen, and Jian-Yun Nie. 2015.
+\newblock A hierarchical recurrent encoder-decoder for generative context-aware
+  query suggestion.
+\newblock In {\em Proceedings of the 24th ACM International on Conference on
+  Information and Knowledge Management\/}. ACM, pages 553--562.
+
+\bibitem[{Yin et~al.(2017)Yin, Kann, Yu, and Sch{\"u}tze}]{yin2017comparative}
+Wenpeng Yin, Katharina Kann, Mo~Yu, and Hinrich Sch{\"u}tze. 2017.
+\newblock Comparative study of cnn and rnn for natural language processing.
+\newblock {\em arXiv preprint arXiv:1702.01923\/} .
 
 \end{thebibliography}

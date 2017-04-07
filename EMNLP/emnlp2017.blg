@@ -3,44 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: emnlp2017.aux
 The style file: emnlp_natbib.bst
 Database file #1: emnlp2017.bib
-You've used 9 entries,
+Warning--I didn't find a database entry for ""
+You've used 15 entries,
             2936 wiz_defined-function locations,
-            655 strings with 7009 characters,
-and the built_in function-call counts, 6733 in all, are:
-= -- 566
-> -- 239
-< -- 11
-+ -- 78
-- -- 69
-* -- 431
-:= -- 930
-add.period$ -- 46
-call.type$ -- 9
-change.case$ -- 84
-chr.to.int$ -- 9
-cite$ -- 9
-duplicate$ -- 550
-empty$ -- 572
-format.name$ -- 96
-if$ -- 1464
+            686 strings with 8361 characters,
+and the built_in function-call counts, 11303 in all, are:
+= -- 906
+> -- 488
+< -- 15
++ -- 163
+- -- 144
+* -- 755
+:= -- 1589
+add.period$ -- 75
+call.type$ -- 15
+change.case$ -- 149
+chr.to.int$ -- 15
+cite$ -- 15
+duplicate$ -- 921
+empty$ -- 921
+format.name$ -- 189
+if$ -- 2411
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 96
-newline$ -- 52
-num.names$ -- 36
-pop$ -- 221
+missing$ -- 169
+newline$ -- 83
+num.names$ -- 60
+pop$ -- 397
 preamble$ -- 1
-purify$ -- 59
+purify$ -- 108
 quote$ -- 0
-skip$ -- 241
+skip$ -- 368
 stack$ -- 0
-substring$ -- 327
-swap$ -- 273
-text.length$ -- 7
+substring$ -- 471
+swap$ -- 448
+text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 81
+type$ -- 135
 warning$ -- 0
-while$ -- 45
+while$ -- 70
 width$ -- 0
-write$ -- 130
+write$ -- 210
+(There was 1 warning)
