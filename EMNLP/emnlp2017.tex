@@ -184,7 +184,7 @@ We implement this by using GloVe word embeddings \citep{pennington2014glove}. Wo
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Cross Family Pre-training}
 
-\texttt{TODO: Describe Pretraining inspiration}
+The three different language families with which we work have completely different origins and are placed across different regions geographically and in time. However, it would be interesting to note if any notion of language evolution is still shared amongst these independently evolved language families. We try to test this hypothesis through the joint learning of the model for these families. Particularly since the size of the Mayan dataset available is quite small, it would be interesting to note if some information or feature learning from the other language families could prove beneficial for it. To implement this, we instantiate the network with the combined character vocabulary of the two language families. We then train the model till the loss saturates on one language family. This is followed by the training of the model on the second language family, while using the learned weights from the pre-training as the initialisation. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Experiments}
@@ -193,13 +193,6 @@ We conducted several types of evaluations on our models covering a variety of te
 The wordlist datasets used in our evaluation can be divided on the basis of languages or concepts for testing and training. We also conducted cross-family evaluation tests. Finally we conducted tests on how the different levels of transcription affects the learning and performance of the models.
 
 %%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Evaluation Metric}
-
-We report the \textit{F-score} as a measure of performance for all our models. \textit{F-score} is computed as the harmonic mean of the \textit{precision} and \textit{recall}\footnote{Precision and Recall is computed on positive labels. Precision = TP/(TP+FP), Recall = TP/(TP+FN)}. Since the dataset is heavily biased and contains a majority of negative samples (As can be seen in Tables \ref{CL_count} and \ref{CC_count}), \textit{accuracy} is not a good measure of performance to compare the models.
-
-%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Cross Language Evaluation}
-
 \begin{table*}[t]
 \centering
 \begin{tabular}{lcccccc}
@@ -229,6 +222,15 @@ CoAtt + Pre-training (Indo-Eur)               & -                   & -         
 \label{CL_res}
 \caption{Cross Language Evaluation Results}
 \end{table*}
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Evaluation Metric}
+
+We report the \textit{F-score} as a measure of performance for all our models. \textit{F-score} is computed as the harmonic mean of the \textit{precision} and \textit{recall}\footnote{Precision and Recall is computed on positive labels. Precision = TP/(TP+FP), Recall = TP/(TP+FN)}. Since the dataset is heavily biased and contains a majority of negative samples (As can be seen in Tables \ref{CL_count} and \ref{CC_count}), \textit{accuracy} is not a good measure of performance to compare the models.
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Cross Language Evaluation}
 
 In the cross language evaluation test, we fixed a random set of 70\% of the languages as the training set of languages and the remaining as the testing set, Then we took words from languages in the training set of languages and all concepts, to form the training samples and similarly for the testing samples. It must be noted that all samples were created by taking words from the same concept .ie. for each word pair in the training and testing set, be it positive or negative, belongs to the same concept.
 
@@ -240,11 +242,7 @@ Since the mode of evaluation is cross-language, it is intuitive that the additio
 
 On the other hand, the \textit{Concept features} discussed earlier, are found to be useful in improving the performance of the \textit{CoAtt} especially on the Mayan dataset. Using the extra information about the word meaning from the of input pair from the \textit{Concept features}, the \textit{CoAtt} model is able to cross the baseline performance on the Mayan dataset.
 
-The best boost however for the \textit{CoAtt} model on the Mayan dataset comes from pre-training the model on the Austronesian and the Indo-European datasets. Pre-training the model on the other language families gives a good initialisation point to start training for the Mayan dataset. Using this method, the \textit{CoAtt} model is thus able to beat the performance of best CNN model (\textit{CharCNN}) on the Mayan dataset. This also provides evidence to our hypothesis that the \textit{CoAtt} was not able to learn on the Mayan dataset simply because of the lack of enough data to train the network, but pre-training the model on other language families helped to show the true potential of the model on the dataset.
-
 %%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Cross Concept Evaluation}
-
 \begin{table*}[t]
 \centering
 \begin{tabular}{lcccccc}
@@ -270,6 +268,12 @@ CoAtt + Language Features                       & 63.3                   & 59.9 
 \label{CC_res}
 \caption{Cross Concept Evaluation Results}
 \end{table*}
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+The best boost however for the \textit{CoAtt} model on the Mayan dataset comes from pre-training the model on the Austronesian and the Indo-European datasets. Pre-training the model on the other language families gives a good initialisation point to start training for the Mayan dataset. Using this method, the \textit{CoAtt} model is thus able to beat the performance of best CNN model (\textit{CharCNN}) on the Mayan dataset. This also provides evidence to our hypothesis that the \textit{CoAtt} was not able to learn on the Mayan dataset simply because of the lack of enough data to train the network, but pre-training the model on other language families helped to show the true potential of the model on the dataset.
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Cross Concept Evaluation}
 
 For the cross concept evaluation test, we followed the same scheme as done by \citet{rama2016siamese}, wherein we took the first 70\% of the concepts as training concepts and the remaining concepts as testing concepts. The training and testing pair samples were then created from each set by using words from the same concept. The training and testing set size details formed using cross concept evaluation test can be found in Table~\ref{CC_res}. The results for the cross concept evaluation tests are listed in Table~\ref{CC_res}.
 
