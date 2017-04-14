@@ -7,45 +7,45 @@ Warning--entry type for "wichmannASJP:2016" isn't style-file defined
 --line 21 of file emnlp2017.bib
 Warning--I didn't find a database entry for ""
 Warning--empty year in wichmannASJP:2016; set to ????
-You've used 18 entries,
+You've used 14 entries,
             2936 wiz_defined-function locations,
-            703 strings with 8834 characters,
-and the built_in function-call counts, 13140 in all, are:
-= -- 1042
-> -- 580
-< -- 16
-+ -- 196
-- -- 170
-* -- 886
-:= -- 1868
-add.period$ -- 86
-call.type$ -- 18
-change.case$ -- 174
-chr.to.int$ -- 18
-cite$ -- 19
-duplicate$ -- 1070
-empty$ -- 1063
-format.name$ -- 227
-if$ -- 2778
+            684 strings with 7905 characters,
+and the built_in function-call counts, 10058 in all, are:
+= -- 821
+> -- 402
+< -- 13
++ -- 134
+- -- 116
+* -- 669
+:= -- 1420
+add.period$ -- 67
+call.type$ -- 14
+change.case$ -- 128
+chr.to.int$ -- 14
+cite$ -- 15
+duplicate$ -- 818
+empty$ -- 828
+format.name$ -- 161
+if$ -- 2142
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 200
-newline$ -- 97
-num.names$ -- 74
-pop$ -- 472
+missing$ -- 149
+newline$ -- 77
+num.names$ -- 58
+pop$ -- 347
 preamble$ -- 1
-purify$ -- 128
+purify$ -- 94
 quote$ -- 0
-skip$ -- 412
+skip$ -- 332
 stack$ -- 0
-substring$ -- 529
-swap$ -- 514
-text.length$ -- 11
+substring$ -- 447
+swap$ -- 397
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 162
+type$ -- 126
 warning$ -- 1
-while$ -- 81
+while$ -- 65
 width$ -- 0
-write$ -- 246
+write$ -- 193
 (There were 3 warnings)
