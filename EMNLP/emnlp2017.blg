@@ -3,46 +3,49 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: emnlp2017.aux
 The style file: emnlp_natbib.bst
 Database file #1: emnlp2017.bib
+Warning--entry type for "wichmannASJP:2016" isn't style-file defined
+--line 21 of file emnlp2017.bib
 Warning--I didn't find a database entry for ""
-You've used 15 entries,
+Warning--empty year in wichmannASJP:2016; set to ????
+You've used 18 entries,
             2936 wiz_defined-function locations,
-            686 strings with 8361 characters,
-and the built_in function-call counts, 11303 in all, are:
-= -- 906
-> -- 488
-< -- 15
-+ -- 163
-- -- 144
-* -- 755
-:= -- 1589
-add.period$ -- 75
-call.type$ -- 15
-change.case$ -- 149
-chr.to.int$ -- 15
-cite$ -- 15
-duplicate$ -- 921
-empty$ -- 921
-format.name$ -- 189
-if$ -- 2411
+            703 strings with 8834 characters,
+and the built_in function-call counts, 13140 in all, are:
+= -- 1042
+> -- 580
+< -- 16
++ -- 196
+- -- 170
+* -- 886
+:= -- 1868
+add.period$ -- 86
+call.type$ -- 18
+change.case$ -- 174
+chr.to.int$ -- 18
+cite$ -- 19
+duplicate$ -- 1070
+empty$ -- 1063
+format.name$ -- 227
+if$ -- 2778
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 169
-newline$ -- 83
-num.names$ -- 60
-pop$ -- 397
+missing$ -- 200
+newline$ -- 97
+num.names$ -- 74
+pop$ -- 472
 preamble$ -- 1
-purify$ -- 108
+purify$ -- 128
 quote$ -- 0
-skip$ -- 368
+skip$ -- 412
 stack$ -- 0
-substring$ -- 471
-swap$ -- 448
+substring$ -- 529
+swap$ -- 514
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 135
-warning$ -- 0
-while$ -- 70
+type$ -- 162
+warning$ -- 1
+while$ -- 81
 width$ -- 0
-write$ -- 210
-(There was 1 warning)
+write$ -- 246
+(There were 3 warnings)

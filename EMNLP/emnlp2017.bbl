@@ -16,6 +16,12 @@ Samuel~R. Bowman, Gabor Angeli, Christopher Potts, and Christopher~D. Manning.
   Natural Language Processing (EMNLP)\/}. Association for Computational
   Linguistics.
 
+\bibitem[{Greenhill et~al.(2008)Greenhill, Blust, and Gray}]{greenhillBlust:08}
+S.J. Greenhill, R.~Blust, and R.D. Gray. 2008.
+\newblock The austronesian basic vocabulary database: From bioinformatics to
+  lexomics.
+\newblock {\em Evolutionary Bioinformatics\/} 4:271--283.
+
 \bibitem[{Hauer and Kondrak(2011)}]{hauer2011clustering}
 Bradley Hauer and Grzegorz Kondrak. 2011.
 \newblock Clustering semantically equivalent words into cognate sets in
@@ -115,6 +121,16 @@ Alessandro Sordoni, Yoshua Bengio, Hossein Vahabi, Christina Lioma, Jakob
   query suggestion.
 \newblock In {\em Proceedings of the 24th ACM International on Conference on
   Information and Knowledge Management\/}. ACM, pages 553--562.
+
+\bibitem[{Wichmann and Holman(2008)}]{wichmann:2008}
+Soren Wichmann and Eric~W Holman. 2008.
+\newblock Languages with longer words have more lexical change.
+\newblock In Lars Borin and Anju Saxena, editors, {\em Approaches to Measuring
+  Linguistic Differences\/}, De Gruyter.
+
+\bibitem[{Wichmann et~al.()Wichmann, Holman, and Brown}]{wichmannASJP:2016}
+Soren Wichmann, Eric~W Holman, and Cecil~H. Brown. ????
+\newblock The asjp database.
 
 \bibitem[{Yin et~al.(2017)Yin, Kann, Yu, and Sch{\"u}tze}]{yin2017comparative}
 Wenpeng Yin, Katharina Kann, Mo~Yu, and Hinrich Sch{\"u}tze. 2017.

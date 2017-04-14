@@ -59,9 +59,9 @@ In this paper, we present a deep learning model for the task of pairwise cognate
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Introduction}
-Cognates are words across different languages that are known to have originated from the same word in a common ancestral language. For example, the English word `\textit{Night}' and the German `\textit{Nacht}’, both meaning night and English `\textit{Hound}’ and German `\textit{Hund}’, meaning dog are cognates whose origin can be traced back to Proto-Germanic. Traditionally, the identification of cognates was carried out by a historical linguist. Advances in automated cognate identification have focused on using  
+Cognates are words across different languages that are known to have originated from the same word in a common ancestral language. For example, the English word `\textit{Night}' and the German `\textit{Nacht}’, both meaning night and English `\textit{Hound}’ and German `\textit{Hund}’, meaning dog are cognates whose origin can be traced back to Proto-Germanic. Traditionally, the identification of cognates was carried out by a historical linguist, using word lists and establishing sound correspondences between words. For some time now, there has been a growing interest in automatic cognate identification techniques. These are useful in determining linguistic distance within a language family, and also to understand the process of language change. 
 
-Most approaches for automatic cognate identification focus on finding similarity measures between a pair of words (e.g. orthographic or phonetic similarity). \citep{hauer2011clustering, inkpen2005similarity,List2016g}. These are used as features for classifiers to identify cognacy for a particular word-pair. Such features are is less effective in order to capture generalizations beyond string similarity. For example, the words \textit{que} in Spanish and \textit{Hvad} in Danish both map to the concept \textsc{WHAT}, but have nothing in common with each other. We would like our model to find generalizations beyond string similarity, in a manner that is closer to the task carried out by a human expert. 
+Most approaches focus on finding similarity measures between a pair of words (e.g. orthographic or phonetic similarity). \citep{hauer2011clustering, inkpen2005similarity,List2016g}. These are used as features for classifiers to identify cognacy for a particular word-pair. Such features are less effective in order to capture generalizations beyond  string similarity. For example, the words \textit{que} in Spanish and \textit{Hvad} in Danish both map to the concept \textsc{WHAT}, but have nothing in common with each other. We would like our model to find generalizations beyond string similarity, in a manner that is closer to the task carried out by a human expert. 
 
 In this paper, we propose an end-to-end recurrent neural network based model \texttt{without} the need for explicit string similarity feature engineering. LSTM (Long Short Term Memory) networks are being used in a extensive range of NLP tasks to build end-to-end systems. LSTMs have been successfully applied to machine translation \citep{bahdanau2014neural}. language modelling \citep{mikolov2010recurrent}, information retrieval \citep{sordoni2015hierarchical} and RTE \citep{snli:emnlp2015}. As LSTM networks are a form of recurrent network (RNN), they fit more naturally to natural language which also has a sequential architecture and follows a linear order, as compared to convolutional networks which are more hierarchical and hence seem natural for images. Even though NLP literature does not support a clear distinction between the domains where CNNs or RNNs perform better, recent works have shown that each provide complementary information for text classification tasks \citep{yin2017comparative}. We do an extensive analysis of our trained models to try to understand the kinds of features it learns to recognize that are important for making the cognate judgements.
 
@@ -70,17 +70,20 @@ While the task of cognate identification is an interesting problem in its own ri
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Problem Definition and Data}
+\section{Datasets}
 
-The data used for the task consists of annotated word lists. The word lists for different language families contain the cognate class ids for each token, along with its language and concept/meaning label. Word pairs are formed using words from the same concept and are assigned a positive cognate label if their cognate class ids match.
+The task of cognate identification will make use of word lists taken from the basic vocabulary e.g. kinship terms, body parts, numbers etc. Usually this vocabulary will represent concepts from the language itself and not borrowed items, (although this is also possible at times). Each concept has its equivalent word from a number of language families and cognate information that is provided in the form of cognate class ids.
+for different language families contain the cognate class ids for each token, along with its language and concept/meaning label. 
 
-We have primarily used the Indo-European language family for our experiments as are target languages (Hindi and Marathi) belong to this family. But we have additionally also test our models on two other families listed below.
+We make use of datasets from three language families: Indo European, the ASJP database \cite{wichmannASJP:2016}, Austronesian \cite{greenhillBlust:08} and Mayan \cite{wichmann:2008}. 
 
-\begin{itemize}
-\item Indo-European family : IELex
-\item Austronesian :
-\item Mayan :
-\end{itemize}
+
+%The data used for the task consists of annotated word lists. The word lists for different language families contain the cognate class ids for each token, along with its language and concept/meaning label. Word pairs are formed using words from the same concept and are assigned a positive cognate label if their cognate class ids match
+%We have primarily used the Indo-European language family for our experiments as are target languages (Hindi and Marathi) belong to this family. But we have additionally also test our models on two other families listed below.
+
+
+For the purposes of this task, we form word pairs using words from the same concept and such a pair is assigned a positive cognate label if its cognate class ids match.
+
 
 We also use the TDIL Hindi-Marathi sentence-aligned corpus as the large unlabeled data for our final model. This dataset provides a large part of the vocabulary from the both the languages to search for cognates.
 
