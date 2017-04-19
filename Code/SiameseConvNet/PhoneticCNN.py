@@ -7,7 +7,7 @@ from keras.layers import *
 from keras.models import Sequential, Model
 from keras.layers.convolutional import Convolution1D, MaxPooling1D, Convolution2D, MaxPooling2D
 from keras.optimizers import SGD, RMSprop
-from keras.callbacks import EarlyStopping
+from keras.callbacks import *
 from keras import backend as K
 import itertools as it
 import numpy as np
@@ -16,6 +16,7 @@ np.random.seed(1337)  # for reproducibility
 import codecs, sys
 from sklearn import metrics
 from keras.regularizers import l2
+from sklearn.metrics import *
 
 max_word_len = 10
 nb_filter = 16
@@ -68,7 +69,7 @@ def pad_word(w):
 
 phonetic_features = defaultdict()
 
-f = open("my_phonetic_features_without_vowel.txt.csv", "r")
+f = open("TarakaScripts/my_phonetic_features_without_vowel.txt.csv", "r")
 header = f.readline()
 for line in f:
     line = line.replace("\n","")
@@ -87,7 +88,8 @@ data_file = 'data/IELex-2016.tsv.asjp'
 data_file = '../DataPickles/CrossLanguage/Austro/LangInfo_DataFold1.pkl'
 # data_file = '../DataPickles/CrossLanguage/Mayan/LangInfo_DataFold1.pkl'
 # data_file = '../DataPickles/CrossLanguage/IELex_ASJP/LangInfo_DataFold1.pkl'
-use_lang_feat = False
+ModelSaveDir = './Models/Austro_'
+use_lang_feat = True
 
 train_pairs, train_labels, test_pairs, test_labels, train_lang_pairs, test_lang_pairs = pickle.load(open(data_file))
 
@@ -182,6 +184,17 @@ test_1 = test_1.astype('float32')
 test_2 = test_2.astype('float32')
 
 ############################################
+
+class WeightSave(Callback):
+    def __init__(self, path, config_str):
+        self.path = path
+        self.config_str = config_str
+
+    def on_epoch_end(self,epochs, logs={}):
+        Weights = self.model.get_weights()
+        pickle.dump(Weights, open(self.path + self.config_str +"_"+ str(epochs) +  ".weights",'w'))
+
+############################################
 ## Model
 
 word_1 = Input(shape=(1, n_dim, max_word_len))
@@ -218,12 +231,17 @@ if use_lang_feat:
 else:
     model = Model(input=[word_1, word_2], output=predictions)
 model.summary()
-
 model.compile(optimizer="adadelta", loss='binary_crossentropy', metrics=['accuracy'])
+
+## Weight Save
 if use_lang_feat:
-    model.fit([train_1, train_2, train_lang], train_labels, epochs=nb_epoch, batch_size=batch_size, validation_data=([test_1, test_2, test_lang], test_labels), callbacks=[early_stopping])
+    ModelSaveDir += 'LangFeat_'
+save_weights = WeightSave(ModelSaveDir, 'PhoneticCNN_')
+
+if use_lang_feat:
+    model.fit([train_1, train_2, train_lang], train_labels, epochs=nb_epoch, batch_size=batch_size, validation_data=([test_1, test_2, test_lang], test_labels), callbacks=[early_stopping, save_weights])
 else:
-    model.fit([train_1, train_2], train_labels, epochs=nb_epoch, batch_size=batch_size, validation_data=([test_1, test_2], test_labels), callbacks=[early_stopping])
+    model.fit([train_1, train_2], train_labels, epochs=nb_epoch, batch_size=batch_size, validation_data=([test_1, test_2], test_labels), callbacks=[early_stopping, save_weights])
 
 
 #####################################
@@ -249,3 +267,7 @@ print(metrics.classification_report(test_labels, te_pred, digits=3))
 print("Testing Accuracy")
 print(metrics.accuracy_score(test_labels, te_pred))
 
+precision, recall, thresholds = precision_recall_curve(test_labels, te_score)
+print "AUC : ", auc(recall, precision)
+for item in te_score:
+    print item[0]
