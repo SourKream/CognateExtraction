@@ -61,13 +61,13 @@ In this paper, we present a deep learning model for the task of pairwise cognate
 \section{Introduction}
 Cognates are words across different languages that are known to have originated from the same word in a common ancestral language. For example, the English word `\textit{Night}' and the German `\textit{Nacht}’, both meaning night and English `\textit{Hound}’ and German `\textit{Hund}’, meaning dog are cognates whose origin can be traced back to Proto-Germanic. Traditionally, the identification of cognates was carried out by a historical linguist, using word lists and establishing sound correspondences between words. For some time now, there has been a growing interest in automatic cognate identification techniques. These are useful in determining linguistic distance within a language family, and also to understand the process of language change. 
 
-Most approaches focus on finding similarity measures between a pair of words (e.g. orthographic or phonetic similarity). \citep{hauer2011clustering, inkpen2005similarity,List2016g}. These are used as features for classifiers to identify cognacy for a particular word-pair. Similarity measures miss out on capturing generalizations beyond string similarity. For example, the words \textit{que} in Spanish and \textit{Hvad} in Danish both map to the concept \textsc{WHAT}, but have nothing in common with each other. For such pairs, surface similarity measures that rely on sub-sequence similarity are never useful. Instead, we require information about relationships between sound, or the sound correspondences that are used in historical linguistics to narrow down candidate pairs as cognates.
+Most approaches focus on finding similarity measures between a pair of words (e.g. orthographic or phonetic similarity). \citep{hauer2011clustering, inkpen2005similarity,List2016g}. These are used as features for classifiers to identify cognacy for a particular word-pair. Similarity measures miss out on capturing generalizations beyond string similarity. For example, the words \textit{que} in Spanish and \textit{Hvad} in Danish both map to the concept \textsc{WHAT}, but have nothing in common with each other. For such pairs, surface similarity measures that rely on sub-sequence similarity are not useful. Instead, we require information about phonological similarity that is beyond surace similarity, such as the sound correspondences that are used in historical linguistics to narrow down candidate pairs as cognates.
 
 %sound correspondences in  %in a manner that is closer to the task carried out by a human expert. 
 
-Our paper shows that an end-to-end recurrent neural network based model is able to outperform both surface similarity as well as a recent CNN based siamese-style model \cite{rama2016siamese}. A key observation is that language-based features either with respect to language family or phonetic relationships does not help performance, while semantic information has a positive effect. We find that pre-training on language data unrelated to the language family is also useful, which points to the model's flexibility and its ability to capture statistical regularities without explicit feature engineering.
+Our paper shows that an end-to-end recurrent neural network based model is able to outperform both surface similarity as well as a recent CNN based siamese-style model \citep{rama2016siamese}. A key observation is that language-based features either with respect to language family or phonetic relationships does not help performance, while semantic information has a positive effect. We find that pre-training on language data unrelated to the language family is also useful, which points to the model's flexibility and its ability to capture statistical regularities without explicit feature engineering.
 
-We also compare our model's performance with existing supervised approaches, including the subsequence model described in \cite{rama2015automatic} (and its variants). Even if these models are provided with richer character representations in the form of IPA encoding, they are still unable to identify cognate pairs from very broad cognate classes. On the other hand, the LSTM model, even when pre-trained with data from a completely unrelated language familty has a much lower error rate.  \textit{Some lines need to be added here about the result pairs}
+We also compare our model's performance with existing supervised approaches, including the subsequence model described in \citep{rama2015automatic} (and its variants). Even if these models are provided with richer character representations in the form of IPA encoding, they are still unable to identify cognate pairs from very broad cognate classes. On the other hand, the LSTM model, even when pre-trained with data from a completely unrelated language familty has a much lower error rate.  \textit{Some lines need to be added here about the result pairs}
 
 
 %%%%%%%%%%%%%This can be put back, moving things around now %%%%%%
@@ -75,27 +75,32 @@ We also compare our model's performance with existing supervised approaches, inc
 %In this paper, we propose an end-to-end recurrent neural network based model \texttt{without} the need for explicit string similarity feature engineering
 %LSTM (Long Short Term Memory) networks are being used in a extensive range of NLP tasks to build end-to-end systems. LSTMs have been successfully applied to machine translation \citep{bahdanau2014neural}. language modelling \citep{mikolov2010recurrent}, information retrieval \citep{sordoni2015hierarchical} and RTE \citep{snli:emnlp2015}. 
 
-While the task of cognate identification is an interesting problem in its own right, it has also been applied to NLP tasks, like sentence alignment in bitexts and improving statistical machine translation models.\cite{Kondrak:2003,Simard:1993:UCA:962367.962411}. Additionally, it has been proposed that cognates can be used to share lexical resources among languages that are closely related \citep{Singh:07b}. This approach may be particularly useful among the languages of South Asia, which are not rich in such resources. Information about cognates can become an important source for assisting the creation and sharing of lexical resources between languages. Therefore, another contribution of this paper is to apply our cognate detection model to a real language pair. We apply the model to the domain of Hindi-Marathi, using a large unlabeled corpus of aligned texts to find cognate pairs.
+While the task of cognate identification is an interesting problem in its own right, it has also been applied to NLP tasks, like sentence alignment in bitexts and improving statistical machine translation models.\citep{Kondrak:2003,Simard:1993:UCA:962367.962411}. Additionally, it has been proposed that cognates can be used to share lexical resources among languages that are closely related \citep{Singh:07b}. This approach may be particularly useful among the languages of South Asia, which are not rich in such resources. Information about cognates can become an important source for assisting the creation and sharing of lexical resources between languages. Therefore, another contribution of this paper is to apply our cognate detection model to a real language pair. We apply the model to the domain of Hindi-Marathi, using a large unlabeled corpus of aligned texts to find cognate pairs.
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Datasets}
 
-The task of cognate identification will make use of word lists taken from the basic vocabulary e.g. kinship terms, body parts, numbers etc. Usually this vocabulary will represent concepts from the language itself and not borrowed items, (although this is also possible at times). Each concept has its equivalent word from a number of language families and cognate information that is provided in the form of cognate class ids.
-for different language families contain the cognate class ids for each token, along with its language and concept/meaning label. 
+The task of cognate identification will make use of word lists taken from the basic vocabulary e.g. kinship terms, body parts, numbers etc. Usually this vocabulary will represent concepts from the language itself and not borrowed items, (although this is also possible at times). The word lists contain information about a particular word, its language family and a cognate class ID. Words are provided for a number of languages for a set of concepts that are from the basic vocabulary.
 
-We make use of datasets from three language families: Indo European, the ASJP database \cite{wichmannASJP:2016}, Austronesian \cite{greenhillBlust:08} and Mayan \cite{wichmann:2008}. 
+We make use of three datasets in our work. The first of these is the IELex Database, which contains cognacy judgements from the Indo European language family, curated by Michael Dunn . Second, we include a dataset taken from the Austronesian Basic Vocabulary project \citep{greenhillBlust:08}, and a third dataset from the Mayan family \citep{wichmann:2008}. 
+%\footnote{http://ielex.mpi.nl/}
+There are several differences in transcription in each of these datasets. While IELex is available in both IPA and a coarse `Romanized' IPA encoding, the Mayan database is available in the ASJP format (similar to a Romanized IPA) \citep{Brown:08} and the Austronesian has been semi-automatically converted to ASJP \citep{rama2016siamese}. We use subsets of the original databases due to lack of availability of uniform transcription.
 
+The Indo European database has the largest number of languages: 139 as compared to Mayan, which is a much smaller language family consisting of only 30. The Austronesian dataset contains the largest number of cognate classes as compared to the other two.
+
+% Each concept has its equivalent word from a number of language families and cognate information that is provided in the form of cognate class ids.for different language families contain the cognate class ids for each token, along with its language and concept/meaning label. 
+For the purposes of this task, we form word pairs using words from the same concept and such a pair is assigned a positive cognate label if its cognate class ids match. In this way, we 
+get 525, 941 word pairs from Austronesian, 326, 758 pairs from Indo-European and 63, 028 pairs from Mayan.
+
+We also use the TDIL Hindi-Marathi sentence-aligned corpus as the large unlabeled data for our final model. This dataset provides a large part of the vocabulary from the both the languages to search for cognates.
 
 %The data used for the task consists of annotated word lists. The word lists for different language families contain the cognate class ids for each token, along with its language and concept/meaning label. Word pairs are formed using words from the same concept and are assigned a positive cognate label if their cognate class ids match
 %We have primarily used the Indo-European language family for our experiments as are target languages (Hindi and Marathi) belong to this family. But we have additionally also test our models on two other families listed below.
 
 
-For the purposes of this task, we form word pairs using words from the same concept and such a pair is assigned a positive cognate label if its cognate class ids match.
 
-
-We also use the TDIL Hindi-Marathi sentence-aligned corpus as the large unlabeled data for our final model. This dataset provides a large part of the vocabulary from the both the languages to search for cognates.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Related Work}
@@ -103,7 +108,7 @@ We also use the TDIL Hindi-Marathi sentence-aligned corpus as the large unlabele
 
 \textbf{Gap-weighted common subsequences} : \citet{rama2015automatic} uses a string kernel based approach wherein he defines a vector for a word pair using all common subsequences between them and weighting the subsequence by their gaps in the strings. The subsequence based features outperform orthographic word similarity measures.
 
-\textbf{Siamese ConvNet model} : In a recent work, T. Rama introduces CNN based siamese-style model \cite{rama2016siamese} for the task. The model is inspired by image-similarity CNN models. Instead of CNNs, we propose the use of LSTM networks. As these are a form of recurrent network (RNN), they fit more naturally to natural language which also has a sequential architecture and follows a linear order. In comparison, convolutional networks are more hierarchical and hence seem natural for images. Even though NLP literature does not support a clear distinction between the domains where CNNs or RNNs perform better, recent works have shown that each provide complementary information for text classification tasks \citep{yin2017comparative}. 
+\textbf{Siamese ConvNet model} : In a recent work, T. Rama introduces CNN based siamese-style model \citep{rama2016siamese} for the task. The model is inspired by image-similarity CNN models. Instead of CNNs, we propose the use of LSTM networks. As these are a form of recurrent network (RNN), they fit more naturally to natural language which also has a sequential architecture and follows a linear order. In comparison, convolutional networks are more hierarchical and hence seem natural for images. Even though NLP literature does not support a clear distinction between the domains where CNNs or RNNs perform better, recent works have shown that each provide complementary information for text classification tasks \citep{yin2017comparative}. 
 
 %We do an extensive analysis of our trained models to try to understand the kinds of features it learns to recognize that are important for making the cognate judgements.
 
@@ -114,10 +119,11 @@ We also use the TDIL Hindi-Marathi sentence-aligned corpus as the large unlabele
 Before coming to the LSTM based model, we performed a thorough analysis on the performance of the gap-weighted subsequence model.
 There were two fundamental drawbacks in using the common-subsequence model (Referred to as \textit{Multiplicative} model). 
 
-Firstly, since the model only looked at common subsequences, it ignored vital information about closely related subsequences such as ’\textit{fa}’ in FATHER and ’\textit{pa}’ in PATER which are cognate words. 
-Secondly, this also resulted in very sparse vectors as the feature space size was huge. To overcome these problems, we tried smoothing techniques which resulted in models Hy-Avg, Hy- Norm and Additive.
+Firstly, since the model only looked at common subsequences, it ignored vital information about closely related subsequences such as \textit{`fa'} in FATHER and \textit{`pa'} in PATER which are cognate words. 
+Secondly, this also resulted in very sparse vectors as the feature space size was huge. To overcome these problems, we tried smoothing techniques which resulted in models Hy-Avg, Hy-Norm and Additive.
 
 \subsection{Error Analysis}
+
 \subsection{Modified model}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -158,7 +164,8 @@ Here $W^i$, $W^o$, $W^f$, $W^c \in  \mathbb{R}^{n_e+n_h \times n_h}$ and $b_i$, 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Attention}
 
-Attention neural networks have been used extensively in tasks like machine translation \cite{}, image captioning \cite{}, summarisation \cite{} and visual question answering \cite{}. The attention mechanism helps to enhance the representation obtained from the LSTM cell state by giving it context that is used for attending. More precisely, we attend over the LSTM encoding of a given word, using a single characted encoding of the second word, which helps to generate a weighted representation of the first word that includes its important segments with respect to its similarity with the second word's character. 
+Attention neural networks have been used extensively in tasks like machine translation \texttt{cite}, image captioning \texttt{cite}, summarisation \texttt{cite} and visual question answering %\cite{}%. 
+The attention mechanism helps to enhance the representation obtained from the LSTM cell state by giving it context that is used for attending. More precisely, we attend over the LSTM encoding of a given word, using a single characted encoding of the second word, which helps to generate a weighted representation of the first word that includes its important segments with respect to its similarity with the second word's character. 
 
 Given a character vector $h \in  \mathbb{R}^{n_h}$ using which we would like to attend on a sequence of character vectors $Y = \{c_1, c_2, ..., c_L\} \in \mathbb{R}^{n_h \times L}$, we generate a set of attention weights $\alpha$ and a attention-weight representation $r \in  \mathbb{R}^{n_h}$ of $Y$ as,
 
