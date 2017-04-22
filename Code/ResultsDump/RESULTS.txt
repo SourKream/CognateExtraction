@@ -19,6 +19,8 @@ CharCNN + Lang		85.2	85.7			79.8	80.6			89.2	89.2
 
 ACTUAL
 ------
+					F1		AUC				F1		AUC				F1		AUC
+
 Subsequence			51.6					53.1					61.0
 
 Phonetic + Lang		64.2					57.6					80.4
@@ -30,27 +32,27 @@ CoAtt + Concept 	64.8					59.3					73.3
 PretCoAtt (Aus)		66.2					-						72.6
 PretCoAtt (IELex)	-						NL						NL
 
-CoAtt (IPA)			63.7					-						-
-CoAtt + Lang (IPA)	63.7					-						-
-
 -----------------------------------------------------------------------------------------------
 
 CROSS_LANGUAGE
 
 					Indo European			Austronesian			Mayan
 
-					F1						F1						F1
+					F1		AUC				F1		AUC				F1		AUC
 ACTUAL
 ------
-Subsequence			59.0					58.8					71.8
+Subsequence			59.0	75.5			58.8	68.9			71.8	81.8
 
-Phonetic			73.7					54.6					72.8
-Phonetic + Lang		62.2					46.8					66.4
-CharCNN				75.3					62.2					75.9
-CharCNN + Lang		61.1					61.4					70.7
+Phonetic			73.7	86.1			54.6	68.0			72.8	85.0
+Phonetic + Lang		62.2	85.4			46.8	67.0			66.4	84.0
+CharCNN				75.3	85.3			62.2	71.6			75.9	85.7
+CharCNN + Lang		70.7	82.6			61.4	70.1			61.1	82.2
 
-CoAtt 				81.2					68.3					65.8
-CoAtt + Concept 	82.2					68.5					73.4
-PretCoAtt (Aus)		83.2					-						81.1
-PretCoAtt (IELex)	-						NL						80.1
+CoAtt 				81.0	86.7			68.7	77.0			66.8	67.2	
+CoAtt + Concept 	81.2	88.2			68.9	77.9			76.2	84.2	
+PretCoAtt (Aus)		83.2	90.6			-						80.4	88.3	
+PretCoAtt (IELex)	-						NL						79.6	85.2	
+
+CoAtt + IPA			81.8	89.0			
+CoAtt + IPA + Conc 	81.3	89.0			
 

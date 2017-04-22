@@ -114,3 +114,53 @@ Check performance on these sets,
     - Results updated. Huge bonus for Mayan (Cross Language test)
 
 ---------------------
+
+More properties on the datasets
+chracter vocabs
+Avergae word length
+n-gram count
+cognate counts in languages
+
+- New concept features
+- Pretraining not learning
+  - Overlap of vocab b/w lang families
+  - Overlap within dataset
+- Error analysis
+  - Concept Wise Performance
+  - Language Wise Performance
+- Hindi Marathi
+
+- Transcription tests
+- Character emebeddings
+- Language annotated vocab?
+
+---------------------
+
+Number of unique words in each Lang family:
+ - IELex    8622
+ - Austro   10079
+ - Mayan    1629
+
+Number of words with more than 1 meaning:
+ - IELex    667     ~07.7%  (1.11 meanings/word)
+ - Austro   1119    ~11.1%  (1.17 meanings/word)
+ - Mayan    148     ~09.1%  (1.11 meanings/word)
+
+Number of words with more than 1 languages:
+ - IELex    1333    ~15.4%  (1.3 langs/word)
+ - Austro   1682    ~16.7%  (1.4 langs/word)
+ - Mayan    384     ~23.6%  (1.7 langs/word))
+
+Vocabulary Overlap between Language Families:
+ - ielex and austro   558
+ - ielex and mayan    141
+ - mayan and austro   154
+
+---------------------
+
+TODO:
+
+ - Attention heat maps
+ - List of overlapping words                              DONE
+ - IPA results                                            DONE
+ - Pair counts for pair starting with (p,f), (p,v), etc
