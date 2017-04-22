@@ -1,6 +1,13 @@
 \begin{thebibliography}{}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
+\bibitem[{Brown et~al.(2008)Brown, Holman, Wichmann, and
+  Villupillai}]{Brown:08}
+Cecil~H. Brown, Eric~W Holman, Soren Wichmann, and Viveka Villupillai. 2008.
+\newblock Automated classification of the world's languages:a description of
+  the method and preliminary results.
+\newblock {\em Language Typology and Universals\/} (285-308).
+
 \bibitem[{Greenhill et~al.(2008)Greenhill, Blust, and Gray}]{greenhillBlust:08}
 S.J. Greenhill, R.~Blust, and R.D. Gray. 2008.
 \newblock The austronesian basic vocabulary database: From bioinformatics to
@@ -77,13 +84,10 @@ Tim Rockt{\"a}schel, Edward Grefenstette, Karl~Moritz Hermann, Tomas Kocisky,
 \bibitem[{Simard et~al.(1993)Simard, Foster, and
   Isabelle}]{Simard:1993:UCA:962367.962411}
 Michel Simard, George~F. Foster, and Pierre Isabelle. 1993.
-\newblock \href{http://dl.acm.org/citation.cfm?id=962367.962411}{Using cognates
-  to align sentences in bilingual corpora}.
+\newblock Using cognates to align sentences in bilingual corpora.
 \newblock In {\em Proceedings of the 1993 Conference of the Centre for Advanced
   Studies on Collaborative Research: Distributed Computing - Volume 2\/}. IBM
   Press, CASCON '93, pages 1071--1082.
-\newblock
-  \href{http://dl.acm.org/citation.cfm?id=962367.962411}{http://dl.acm.org/citation.cfm?id=962367.962411}.
 
 \bibitem[{Singh and Surana(2007)}]{Singh:07b}
 Anil~Kumar Singh and Harshit Surana. 2007.
@@ -96,10 +100,6 @@ Soren Wichmann and Eric~W Holman. 2008.
 \newblock Languages with longer words have more lexical change.
 \newblock In Lars Borin and Anju Saxena, editors, {\em Approaches to Measuring
   Linguistic Differences\/}, De Gruyter.
-
-\bibitem[{Wichmann et~al.()Wichmann, Holman, and Brown}]{wichmannASJP:2016}
-Soren Wichmann, Eric~W Holman, and Cecil~H. Brown. ????
-\newblock The asjp database.
 
 \bibitem[{Yin et~al.(2017)Yin, Kann, Yu, and Sch{\"u}tze}]{yin2017comparative}
 Wenpeng Yin, Katharina Kann, Mo~Yu, and Hinrich Sch{\"u}tze. 2017.
