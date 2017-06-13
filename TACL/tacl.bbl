@@ -36,8 +36,7 @@ Bradley Hauer and Grzegorz Kondrak.
 \newblock 2011.
 \newblock Clustering semantically equivalent words into cognate sets in
   multilingual lists.
-\newblock In {\em Proceedings of 5th International Joint Conference on Natural
-  Language Processing}, pages 865--873. Citeseer.
+\newblock In {\em IJCNLP}, pages 865--873. Citeseer.
 
 \bibitem[\protect\citename{Inkpen \bgroup et al.\egroup
   }2005]{inkpen2005similarity}
@@ -47,6 +46,16 @@ Diana Inkpen, Oana Frunza, and Grzegorz Kondrak.
   english.
 \newblock In {\em Proceedings of the International Conference on Recent
   Advances in Natural Language Processing (RANLP 2005)}, pages 251--257.
+
+\bibitem[\protect\citename{Kondrak \bgroup et al.\egroup
+  }2003]{kondrak2003cognates}
+Grzegorz Kondrak, Daniel Marcu, and Kevin Knight.
+\newblock 2003.
+\newblock Cognates can improve statistical translation models.
+\newblock In {\em Proceedings of the 2003 Conference of the North American
+  Chapter of the Association for Computational Linguistics on Human Language
+  Technology: companion volume of the Proceedings of HLT-NAACL 2003--short
+  papers-Volume 2}, pages 46--48. Association for Computational Linguistics.
 
 \bibitem[\protect\citename{List \bgroup et al.\egroup }2016]{List2016g}
 Johann-Mattis List, Philippe Lopez, and Eric Bapteste.
@@ -77,7 +86,9 @@ Taraka Rama.
 \newblock 2015.
 \newblock Automatic cognate identification with gap-weighted string
   subsequences.
-\newblock In {\em HLT-NAACL}, pages 1227--1231.
+\newblock In {\em Proceedings of the 2015 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies, May 31--June 5, 2015 Denver, Colorado, USA}, pages 1227--1231.
 
 \bibitem[\protect\citename{Rama}2016]{rama2016siamese}
 Taraka Rama.
@@ -94,6 +105,14 @@ Tim Rockt{\"a}schel, Edward Grefenstette, Karl~Moritz Hermann, Tomas Kocisky,
 \newblock 2016.
 \newblock Reasoning about entailment with neural attention.
 \newblock In {\em ICLR}.
+
+\bibitem[\protect\citename{Simard \bgroup et al.\egroup }1993]{simard1993using}
+Michel Simard, George~F Foster, and Pierre Isabelle.
+\newblock 1993.
+\newblock Using cognates to align sentences in bilingual corpora.
+\newblock In {\em Proceedings of the 1993 conference of the Centre for Advanced
+  Studies on Collaborative research: distributed computing-Volume 2}, pages
+  1071--1082. IBM Press.
 
 \bibitem[\protect\citename{Singh and Surana}2007]{Singh:07b}
 Anil~Kumar Singh and Harshit Surana.
