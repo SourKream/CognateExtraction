@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tacl.aux
+The style file: acl2012.bst
+Database file #1: tacl.bib
+Warning--I didn't find a database entry for "simard1993using"
+Warning--I didn't find a database entry for "kondrak2003cognates"
+Warning--there's a number but no volume in Brown:08
+You've used 16 entries,
+            2490 wiz_defined-function locations,
+            645 strings with 7938 characters,
+and the built_in function-call counts, 7507 in all, are:
+= -- 775
+> -- 309
+< -- 9
++ -- 107
+- -- 104
+* -- 518
+:= -- 1152
+add.period$ -- 68
+call.type$ -- 16
+change.case$ -- 115
+chr.to.int$ -- 16
+cite$ -- 17
+duplicate$ -- 346
+empty$ -- 580
+format.name$ -- 123
+if$ -- 1637
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 16
+newline$ -- 99
+num.names$ -- 50
+pop$ -- 151
+preamble$ -- 1
+purify$ -- 131
+quote$ -- 0
+skip$ -- 273
+stack$ -- 0
+substring$ -- 342
+swap$ -- 115
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 128
+warning$ -- 1
+while$ -- 53
+width$ -- 19
+write$ -- 226
+(There were 3 warnings)

@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related Work}{}% 2
+\BOOKMARK [1][-]{section.3}{Datasets}{}% 3
+\BOOKMARK [1][-]{section.4}{Approach}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Character Embeddings}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{LSTM network}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{Attention}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.4}{Language Features}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.5}{Concept Features}{section.4}% 9
+\BOOKMARK [1][-]{section.5}{Experiments}{}% 10
+\BOOKMARK [2][-]{subsection.5.1}{Evaluation Metric}{section.5}% 11
+\BOOKMARK [2][-]{subsection.5.2}{Experiments with Indo-European}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.3}{Experiments with Multiple Datasets}{section.5}% 13
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Cross Family Pre-training Experiments}{subsection.5.3}% 14
+\BOOKMARK [2][-]{subsection.5.4}{Cross Concept Evaluation}{section.5}% 15
+\BOOKMARK [1][-]{section.6}{Analysis}{}% 16
+\BOOKMARK [2][-]{subsection.6.1}{Concept Wise Performance}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.2}{Transcription Tests}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.3}{Hindi-Marathi Domain Adaptation}{section.6}% 19
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 20

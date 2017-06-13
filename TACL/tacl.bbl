@@ -1,0 +1,128 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Bahdanau \bgroup et al.\egroup
+  }2014]{bahdanau2014neural}
+Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio.
+\newblock 2014.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock In {\em ICLR 2015}.
+
+\bibitem[\protect\citename{Bowman \bgroup et al.\egroup }2015]{snli:emnlp2015}
+Samuel~R. Bowman, Gabor Angeli, Christopher Potts, and Christopher~D. Manning.
+\newblock 2015.
+\newblock A large annotated corpus for learning natural language inference.
+\newblock In {\em Proceedings of the 2015 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}. Association for Computational
+  Linguistics.
+
+\bibitem[\protect\citename{Brown \bgroup et al.\egroup }2008]{Brown:08}
+Cecil~H. Brown, Eric~W Holman, Soren Wichmann, and Viveka Villupillai.
+\newblock 2008.
+\newblock Automated classification of the world's languages:a description of
+  the method and preliminary results.
+\newblock {\em Language Typology and Universals}, (285-308).
+
+\bibitem[\protect\citename{Greenhill \bgroup et al.\egroup
+  }2008]{greenhillBlust:08}
+S.J. Greenhill, R.~Blust, and R.D. Gray.
+\newblock 2008.
+\newblock The austronesian basic vocabulary database: From bioinformatics to
+  lexomics.
+\newblock {\em Evolutionary Bioinformatics}, 4:271--283.
+
+\bibitem[\protect\citename{Hauer and Kondrak}2011]{hauer2011clustering}
+Bradley Hauer and Grzegorz Kondrak.
+\newblock 2011.
+\newblock Clustering semantically equivalent words into cognate sets in
+  multilingual lists.
+\newblock In {\em Proceedings of 5th International Joint Conference on Natural
+  Language Processing}, pages 865--873. Citeseer.
+
+\bibitem[\protect\citename{Inkpen \bgroup et al.\egroup
+  }2005]{inkpen2005similarity}
+Diana Inkpen, Oana Frunza, and Grzegorz Kondrak.
+\newblock 2005.
+\newblock Automatic identification of cognates and false friends in french and
+  english.
+\newblock In {\em Proceedings of the International Conference on Recent
+  Advances in Natural Language Processing (RANLP 2005)}, pages 251--257.
+
+\bibitem[\protect\citename{List \bgroup et al.\egroup }2016]{List2016g}
+Johann-Mattis List, Philippe Lopez, and Eric Bapteste.
+\newblock 2016.
+\newblock Using sequence similarity networks to identify partial cognates in
+  multilingual wordlists.
+\newblock In {\em Proceedings of the Association of Computational Linguistics
+  2016 (Volume 2: Short Papers)}, pages 599--605, Berlin.
+
+\bibitem[\protect\citename{Mikolov \bgroup et al.\egroup
+  }2010]{mikolov2010recurrent}
+Tomas Mikolov, Martin Karafi{\'a}t, Lukas Burget, Jan Cernock{\`y}, and Sanjeev
+  Khudanpur.
+\newblock 2010.
+\newblock Recurrent neural network based language model.
+\newblock In {\em Interspeech}, volume~2, page~3.
+
+\bibitem[\protect\citename{Pennington \bgroup et al.\egroup
+  }2014]{pennington2014glove}
+Jeffrey Pennington, Richard Socher, and Christopher~D. Manning.
+\newblock 2014.
+\newblock Glove: Global vectors for word representation.
+\newblock In {\em Empirical Methods in Natural Language Processing (EMNLP)},
+  pages 1532--1543.
+
+\bibitem[\protect\citename{Rama}2015]{rama2015automatic}
+Taraka Rama.
+\newblock 2015.
+\newblock Automatic cognate identification with gap-weighted string
+  subsequences.
+\newblock In {\em HLT-NAACL}, pages 1227--1231.
+
+\bibitem[\protect\citename{Rama}2016]{rama2016siamese}
+Taraka Rama.
+\newblock 2016.
+\newblock Siamese convolutional networks for cognate identification.
+\newblock In {\em Proceedings of COLING 2016, the 26th International Conference
+  on Computational Linguistics: Technical Papers, Osaka, Japan}, pages
+  1018--1027.
+
+\bibitem[\protect\citename{Rockt{\"a}schel \bgroup et al.\egroup
+  }2016]{rocktaschel2016reasoning}
+Tim Rockt{\"a}schel, Edward Grefenstette, Karl~Moritz Hermann, Tomas Kocisky,
+  and Phil Blunsom.
+\newblock 2016.
+\newblock Reasoning about entailment with neural attention.
+\newblock In {\em ICLR}.
+
+\bibitem[\protect\citename{Singh and Surana}2007]{Singh:07b}
+Anil~Kumar Singh and Harshit Surana.
+\newblock 2007.
+\newblock Study of cognates among south asian languages for the purpose of
+  building lexical resources.
+\newblock {\em Journal of Language Technology}.
+
+\bibitem[\protect\citename{Sordoni \bgroup et al.\egroup
+  }2015]{sordoni2015hierarchical}
+Alessandro Sordoni, Yoshua Bengio, Hossein Vahabi, Christina Lioma, Jakob
+  Grue~Simonsen, and Jian-Yun Nie.
+\newblock 2015.
+\newblock A hierarchical recurrent encoder-decoder for generative context-aware
+  query suggestion.
+\newblock In {\em Proceedings of the 24th ACM International on Conference on
+  Information and Knowledge Management}, pages 553--562. ACM.
+
+\bibitem[\protect\citename{Wichmann and Holman}2008]{wichmann:2008}
+Soren Wichmann and Eric~W Holman.
+\newblock 2008.
+\newblock Languages with longer words have more lexical change.
+\newblock In Lars Borin and Anju Saxena, editors, {\em Approaches to Measuring
+  Linguistic Differences}. De Gruyter.
+
+\bibitem[\protect\citename{Yin \bgroup et al.\egroup }2017]{yin2017comparative}
+Wenpeng Yin, Katharina Kann, Mo~Yu, and Hinrich Sch{\"u}tze.
+\newblock 2017.
+\newblock Comparative study of cnn and rnn for natural language processing.
+\newblock {\em arXiv preprint arXiv:1702.01923}.
+
+\end{thebibliography}
