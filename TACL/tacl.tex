@@ -152,7 +152,7 @@ Here $W^i$, $W^o$, $W^f$, $W^c \in  \mathbb{R}^{n_e+n_h \times n_h}$ and $b_i$, 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Attention}
 
-Attention neural networks have been used extensively in tasks like machine translation \texttt{mtattention}, image captioning \texttt{cpattention} and visual question answering \texttt{stackedattention}. The attention mechanism helps to enhance the representation obtained from the LSTM cell state by giving it context that is used for attending. More precisely, we attend over the LSTM encoding of a given word, using a single characted encoding of the second word, which helps to generate a weighted representation of the first word that includes its important segments with respect to its similarity with the second word's character. 
+Attention neural networks have been used extensively in tasks like machine translation \cite{mtattention}, image captioning \cite{cpattention} and visual question answering \cite{stackedattention}. The attention mechanism helps to enhance the representation obtained from the LSTM cell state by giving it context that is used for attending. More precisely, we attend over the LSTM encoding of a given word, using a single characted encoding of the second word, which helps to generate a weighted representation of the first word that includes its important segments with respect to its similarity with the second word's character. 
 
 Given a character vector $h \in  \mathbb{R}^{n_h}$ using which we would like to attend on a sequence of character vectors $Y = \{c_1, c_2, ..., c_L\} \in \mathbb{R}^{n_h \times L}$, we generate a set of attention weights $\alpha$ and a attention-weight representation $r \in  \mathbb{R}^{n_h}$ of $Y$ as,
 
@@ -244,7 +244,7 @@ Co-Attention Model                                  & 83.8                  & 89
 
 We compare our model against the following baseline models. 
 
-\textbf{Gap-weighted Subsequences} : This model refers to the common subsequence model \cite{rama2015automatic} mentioned earlier. The author uses a string kernel based approach wherein he defines a vector for a word pair using all common subsequences between them and weighting the subsequence by their gaps in the strings.
+\textbf{Gap-weighted Subsequences} : This model refers to the common subsequence model \cite{rama2015automatic} mentioned earlier. The author uses a string kernel based approach wherein he defines a vector for a word pair using all common subsequences between them and weighting the subsequence by their gaps in the strings. The results reported for the subsequence model were found by reimplementing the model using the paper as the original code was not available.
 
 \textbf{Phonetic CNN \& Character CNN} : These models are variations of the siamese-style CNN-based models \cite{rama2016siamese}. The models are inspired from CNN networks used for image-similarity tasks. The \textit{Phonetic CNN} model uses the manually defined (fixed) character embeddings in the network, whereas the \textit{Character CNN} model uses a 1-hot encoding to represent the different characters. The results reported for these models were found by rerunning the original code from the  author on the prepared datasets\footnote{It can be noted that there is a difference in the reported f-score of the CNN models as compared to the original paper. This is because we report the f-score with respect to the positive labels only, whereas the original paper reported the average f-scores of positive and negative labels (Observed from the implementation in author's code)}.
 
@@ -272,9 +272,11 @@ Co-Attention Model                                  & 69.0                  & 77
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Experiments with Indo-European}
 
-As can be observed in Table~\ref{CL_res}, the \textit{CoAtt} model performs significantly better than the CNN and the subsequence based models. The \textit{LSTM + No Attention} and \textit{LSTM + Uniform Attention} models reflect the importance of the attention layer adapted from the RTE model in the network, as without it the model does not perform very good. 
+As can be observed in Table~\ref{CL_res}, the \textit{CoAtt} model performs significantly better than the CNN and the subsequence based models. The \textit{LSTM + No Attention} and \textit{LSTM + Uniform Attention} models reflect the importance of the attention layer adapted from the RTE model in the network, as without it the model does not perform very good. \texttt{EXPAND}
 
-A few additional features added to the \textit{CoAtt} model helps to improve it even further. Initialising the character embeddings with the manually defined vectors (\textit{+ IE} models) increases the \textit{AUC} by around 3\%. Further, addition of the \textit{Concept features} discussed earlier, is also found to be useful (\textit{+ CF} model).
+A few additional features added to the \textit{CoAtt} model helps to improve it even further. Initialising the character embeddings with the manually defined vectors (\textit{+ IE} models) increases the \textit{AUC} by around 3\%. Further, addition of the \textit{Concept features} discussed earlier, is also found to be useful (\textit{+ CF} model). \texttt{EXPAND}
+
+\subsubsection{Transcription Tests}
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Experiments with Multiple Datasets}
@@ -299,16 +301,18 @@ Testing Samples               & 103,092             & 21,547               & 150
 \begin{tabular}{lcccccc}
 \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \multicolumn{2}{c}{\textbf{Indo-European}} \\ \cline{2-3} 
 \multicolumn{1}{c}{}                                & \textit{F-Score}      & \textit{AUC}    \\ \hline
-Gap-weighted Subsequence                            & 51.6                  & 62.0            \\ \hline
-PhoneticCNN + Language Features                     & \textbf{66.4}         & \textbf{73.2}   \\
-CharacterCNN + Language Features                    & 63.5                  & 70.5            \\ \hline
-CoAtt                                               & 64.8                  & 69.8            \\
-CoAtt + Language Features                           & 65.6                  & 70.8            \\
-CoAtt+ Concept Features                             & 64.1                  & 70.6            \\
-CoAtt + Pre-training (Austro)                       & 65.8                  & 71.0 
+Gap-weighted Subsequence              & 51.6                  & 62.0            \\
+Phonetic CNN + LF                     & 66.4                  & 73.2            \\
+Character CNN + LF                    & 63.5                  & 70.5            \\ \hline
+Co-Attention Model                    & 64.8                  & 69.8            \\
+\quad + CF                            & 64.1                  & 70.6            \\
+\quad + LF                            & 65.6                  & 70.8            \\
+\quad + PreT (Austronesian)           & 65.8                  & 71.0            \\ 
+\quad + IE + CF                       & 69.0                  & 74.9            \\
+\quad + IE + LF                       & \textbf{69.1}                  & \textbf{75.0}
 \end{tabular}
 \label{CC_res}
-\caption{Cross Concept Evaluation Results for Indo-European}
+\caption{Cross Concept Evaluation Results for Indo-European \newline [IE: \textit{Initialised Embeddings}, CF: \textit{Concept Features}, LF: \textit{Language Features}, PreT: \textit{Pre-Training on another dataset}]}
 \end{table*}
 %%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -322,14 +326,16 @@ It is found that such a joint-training procedure helps the \textit{CoAtt} model 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Cross Concept Evaluation}
 
-We also conducted cross-concept evaluation experiments, where the training and testing datapoints were formed using exclusive sets of \textit{concepts} or \textit{meanings}. For this, we followed the same scheme as done by \cite{rama2016siamese}, wherein we took the first 70\% of the concepts as training concepts and the remaining concepts as testing concepts. The training and testing set size details formed using cross concept evaluation test can be found in Table~\ref{CC_res}. The results for the cross concept evaluation tests are listed in Table~\ref{CC_res}.
+We also conducted cross concept evaluation experiments, where the training and testing word pairs were formed using exclusive sets of \textit{concepts} or \textit{meanings}. For this, we followed the same scheme as done by \cite{rama2016siamese}, wherein we took the first 70\% of the concepts as training concepts and the remaining concepts as testing concepts. The training and testing set size details formed using cross concept evaluation test can be found in Table~\ref{CC_count}. The results for the cross concept evaluation tests are listed in Table~\ref{CC_res}.
 
-It is observed that the \textit{CoAtt} model is able to reach close to, but not improve on, the performance of the \textit{PhoneticCNN + Language Features} model for the Indo-European dataset. In fact, the \textit{CoAtt} model with pre-training and extra features reaches the performance of the \textit{CharCNN + Lang} model, but the \textit{PhoneticCNN + Lang} still leads by 3 points.
+It is observed that the \textit{CoAtt} model is able to reach close to the performance of the CNN based models. With the initialised embeddings and extra \textit{Language features}, the model performs slightly better than the baselines. \texttt{EXPAND}
 
-The cross-concept evaluation test can be thought of as a more rigorous test for cognate detection as the models have not seen any of the similar word structures during training. Words coming from different concepts would have different sequence structures altogether and for a model to predict cognate similarity in such a case would definitely have to exploit phoneme similarity information in the context of cognates.
+The cross-concept evaluation test can be thought of as a more rigorous test as the models have not seen any of the similar word structures during training. The testing sample words are from absolutely different concepts. Words coming from different concepts would have different sequence structures altogether and for a model to predict cognate similarity in such a case would definitely have to exploit phoneme similarity information in the context of cognates.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Analysis}
+
+\subsection{Character Embeddings}
 
 \subsection{Concept Wise Performance}
 
@@ -353,36 +359,36 @@ AT               & \textit{0.25}  & \textit{0}
 \caption{\textit{CoAtt} vs \textit{Subseq} model on various concepts (F-Score)}
 \end{table}
 
-\subsection{Transcription Tests}
+% \subsection{Transcription Tests}
 
-As mentioned in an earlier section, the Indo-European dataset is available to us different transcriptions. The dataset is trascribed in ASJP like the other datasets and is also transcribed in IPA, which is a much finer representation as compared to ASJP. On comparing the models trained on these different transcriptions of the same data, it is found that the IPA model performs poorly on some concepts like GUTS, SWIM, WIPE, WHITE, SING where the ASJP model gives good results. On the other hand, the IPA model performs relatively better on concepts like FIRE, SLEEP, PULL, SAY and SMOOTH. By looking at specific examples, we find that for concepts like FIRE and PULL, the ASJP model gives many false positives which can be a fault due to the coarser representation of the ASJP character.
+% As mentioned in an earlier section, the Indo-European dataset is available to us different transcriptions. The dataset is trascribed in ASJP like the other datasets and is also transcribed in IPA, which is a much finer representation as compared to ASJP. On comparing the models trained on these different transcriptions of the same data, it is found that the IPA model performs poorly on some concepts like GUTS, SWIM, WIPE, WHITE, SING where the ASJP model gives good results. On the other hand, the IPA model performs relatively better on concepts like FIRE, SLEEP, PULL, SAY and SMOOTH. By looking at specific examples, we find that for concepts like FIRE and PULL, the ASJP model gives many false positives which can be a fault due to the coarser representation of the ASJP character.
 
-\begin{table}[h]
-\centering
-\begin{tabular}{ccc}
-\textbf{Concept} & \textbf{IPA}  & \textbf{ASJP} \\ \hline
-GUTS             & \textit{0.28} & \textit{0.58} \\
-SWIM             & \textit{0.47} & 0.93          \\
-WHITE            & \textit{0.54} & \textit{0.75} \\
-WIPE             & \textit{0.55} & \textit{0.72} \\
-SING             & \textit{0.56} & \textit{0.88} \\ \hline
-FIRE             & \textit{0.62} & \textit{0.33} \\
-SLEEP            & \textit{0.73} & 0.39          \\
-PULL             & \textit{0.83} & \textit{0.50} \\
-SMOOTH           & \textit{0.83} & \textit{0.50} \\
-SAY              & \textit{0.90} & \textit{0.51}
-\end{tabular}
-\caption{\textit{CoAtt} model using IPA vs ASJP transcription on various concepts (F-Score)}
-\end{table}
+% \begin{table}[h]
+% \centering
+% \begin{tabular}{ccc}
+% \textbf{Concept} & \textbf{IPA}  & \textbf{ASJP} \\ \hline
+% GUTS             & \textit{0.28} & \textit{0.58} \\
+% SWIM             & \textit{0.47} & 0.93          \\
+% WHITE            & \textit{0.54} & \textit{0.75} \\
+% WIPE             & \textit{0.55} & \textit{0.72} \\
+% SING             & \textit{0.56} & \textit{0.88} \\ \hline
+% FIRE             & \textit{0.62} & \textit{0.33} \\
+% SLEEP            & \textit{0.73} & 0.39          \\
+% PULL             & \textit{0.83} & \textit{0.50} \\
+% SMOOTH           & \textit{0.83} & \textit{0.50} \\
+% SAY              & \textit{0.90} & \textit{0.51}
+% \end{tabular}
+% \caption{\textit{CoAtt} model using IPA vs ASJP transcription on various concepts (F-Score)}
+% \end{table}
 
-\begin{figure}[t]
-\centering
-  \includegraphics[width=.9\linewidth]{swim}
-  \caption{Sample test word pairs from the concept SWIM}
-  \label{disssim}
-\end{figure}
+% \begin{figure}[t]
+% \centering
+%   \includegraphics[width=.9\linewidth]{swim}
+%   \caption{Sample test word pairs from the concept SWIM}
+%   \label{disssim}
+% \end{figure}
 
-Figure 2 shows few test sample pairs from the concept SWIM. It is observed that for all of these samples, the IPA model falsely predicts negatives whereas the ASJP model is correctly able to predict them all as cognates. Here perhaps the very find representation in IPA throws the model's judgment off and its not able to pick up the correspondence correctly. It is also interesting to note that for all of these samples, adding the \textit{concept feature} of SWIM to the \textit{CoAtt + Concept Features} model makes it predict all of them as cognates. Thus, perhaps adding the concept features signals the model to relax the degree of overlapping of phonemes and become less strict in predicting cognates.
+% Figure 2 shows few test sample pairs from the concept SWIM. It is observed that for all of these samples, the IPA model falsely predicts negatives whereas the ASJP model is correctly able to predict them all as cognates. Here perhaps the very find representation in IPA throws the model's judgment off and its not able to pick up the correspondence correctly. It is also interesting to note that for all of these samples, adding the \textit{concept feature} of SWIM to the \textit{CoAtt + Concept Features} model makes it predict all of them as cognates. Thus, perhaps adding the concept features signals the model to relax the degree of overlapping of phonemes and become less strict in predicting cognates.
 
 \subsection{Hindi-Marathi Domain Adaptation}
 

@@ -10,10 +10,11 @@
 \BOOKMARK [2][-]{subsection.4.1}{Evaluation Metric}{section.4}% 10
 \BOOKMARK [2][-]{subsection.4.2}{Baseline Models}{section.4}% 11
 \BOOKMARK [2][-]{subsection.4.3}{Experiments with Indo-European}{section.4}% 12
-\BOOKMARK [2][-]{subsection.4.4}{Experiments with Multiple Datasets}{section.4}% 13
-\BOOKMARK [2][-]{subsection.4.5}{Cross Concept Evaluation}{section.4}% 14
-\BOOKMARK [1][-]{section.5}{Analysis}{}% 15
-\BOOKMARK [2][-]{subsection.5.1}{Concept Wise Performance}{section.5}% 16
-\BOOKMARK [2][-]{subsection.5.2}{Transcription Tests}{section.5}% 17
-\BOOKMARK [2][-]{subsection.5.3}{Hindi-Marathi Domain Adaptation}{section.5}% 18
-\BOOKMARK [1][-]{section.6}{Conclusion}{}% 19
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Transcription Tests}{subsection.4.3}% 13
+\BOOKMARK [2][-]{subsection.4.4}{Experiments with Multiple Datasets}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.5}{Cross Concept Evaluation}{section.4}% 15
+\BOOKMARK [1][-]{section.5}{Analysis}{}% 16
+\BOOKMARK [2][-]{subsection.5.1}{Character Embeddings}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.2}{Concept Wise Performance}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.3}{Hindi-Marathi Domain Adaptation}{section.5}% 19
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 20

@@ -65,6 +65,12 @@ Johann-Mattis List, Philippe Lopez, and Eric Bapteste.
 \newblock In {\em Proceedings of the Association of Computational Linguistics
   2016 (Volume 2: Short Papers)}, pages 599--605, Berlin.
 
+\bibitem[\protect\citename{Luong \bgroup et al.\egroup }2015]{mtattention}
+Minh-Thang Luong, Hieu Pham, and Christopher~D Manning.
+\newblock 2015.
+\newblock Effective approaches to attention-based neural machine translation.
+\newblock {\em arXiv preprint arXiv:1508.04025}.
+
 \bibitem[\protect\citename{Mikolov \bgroup et al.\egroup
   }2010]{mikolov2010recurrent}
 Tomas Mikolov, Martin Karafi{\'a}t, Lukas Burget, Jan Cernock{\`y}, and Sanjeev
@@ -137,5 +143,21 @@ Soren Wichmann and Eric~W Holman.
 \newblock Languages with longer words have more lexical change.
 \newblock In Lars Borin and Anju Saxena, editors, {\em Approaches to Measuring
   Linguistic Differences}. De Gruyter.
+
+\bibitem[\protect\citename{Xu \bgroup et al.\egroup }2015]{cpattention}
+Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan
+  Salakhudinov, Rich Zemel, and Yoshua Bengio.
+\newblock 2015.
+\newblock Show, attend and tell: Neural image caption generation with visual
+  attention.
+\newblock In {\em International Conference on Machine Learning}, pages
+  2048--2057.
+
+\bibitem[\protect\citename{Yang \bgroup et al.\egroup }2016]{stackedattention}
+Zichao Yang, Xiaodong He, Jianfeng Gao, Li~Deng, and Alex Smola.
+\newblock 2016.
+\newblock Stacked attention networks for image question answering.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 21--29.
 
 \end{thebibliography}
