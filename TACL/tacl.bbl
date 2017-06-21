@@ -138,10 +138,4 @@ Soren Wichmann and Eric~W Holman.
 \newblock In Lars Borin and Anju Saxena, editors, {\em Approaches to Measuring
   Linguistic Differences}. De Gruyter.
 
-\bibitem[\protect\citename{Yin \bgroup et al.\egroup }2017]{yin2017comparative}
-Wenpeng Yin, Katharina Kann, Mo~Yu, and Hinrich Sch{\"u}tze.
-\newblock 2017.
-\newblock Comparative study of cnn and rnn for natural language processing.
-\newblock {\em arXiv preprint arXiv:1702.01923}.
-
 \end{thebibliography}

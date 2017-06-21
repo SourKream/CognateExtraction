@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: emnlp2017.aux
+The style file: emnlp_natbib.bst
+Database file #1: emnlp2017.bib
+You've used 10 entries,
+            2936 wiz_defined-function locations,
+            653 strings with 6505 characters,
+and the built_in function-call counts, 7506 in all, are:
+= -- 635
+> -- 270
+< -- 12
++ -- 88
+- -- 78
+* -- 469
+:= -- 1037
+add.period$ -- 50
+call.type$ -- 10
+change.case$ -- 94
+chr.to.int$ -- 10
+cite$ -- 10
+duplicate$ -- 609
+empty$ -- 635
+format.name$ -- 108
+if$ -- 1635
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 104
+newline$ -- 56
+num.names$ -- 40
+pop$ -- 248
+preamble$ -- 1
+purify$ -- 66
+quote$ -- 0
+skip$ -- 275
+stack$ -- 0
+substring$ -- 378
+swap$ -- 300
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 90
+warning$ -- 0
+while$ -- 51
+width$ -- 0
+write$ -- 138

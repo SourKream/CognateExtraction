@@ -4,45 +4,45 @@ The top-level auxiliary file: tacl.aux
 The style file: acl2012.bst
 Database file #1: tacl.bib
 Warning--there's a number but no volume in Brown:08
-You've used 18 entries,
+You've used 17 entries,
             2490 wiz_defined-function locations,
-            656 strings with 8635 characters,
-and the built_in function-call counts, 8635 in all, are:
-= -- 903
-> -- 345
+            651 strings with 8450 characters,
+and the built_in function-call counts, 8265 in all, are:
+= -- 866
+> -- 322
 < -- 11
-+ -- 119
-- -- 116
-* -- 592
-:= -- 1310
-add.period$ -- 78
-call.type$ -- 18
-change.case$ -- 129
-chr.to.int$ -- 18
-cite$ -- 19
-duplicate$ -- 400
-empty$ -- 670
-format.name$ -- 137
-if$ -- 1897
++ -- 111
+- -- 108
+* -- 564
+:= -- 1244
+add.period$ -- 74
+call.type$ -- 17
+change.case$ -- 121
+chr.to.int$ -- 17
+cite$ -- 18
+duplicate$ -- 386
+empty$ -- 649
+format.name$ -- 128
+if$ -- 1825
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 18
-newline$ -- 111
-num.names$ -- 56
-pop$ -- 171
+missing$ -- 17
+newline$ -- 105
+num.names$ -- 53
+pop$ -- 163
 preamble$ -- 1
-purify$ -- 147
+purify$ -- 138
 quote$ -- 0
-skip$ -- 317
+skip$ -- 306
 stack$ -- 0
-substring$ -- 416
-swap$ -- 139
+substring$ -- 411
+swap$ -- 137
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 144
+type$ -- 136
 warning$ -- 1
-while$ -- 63
-width$ -- 21
-write$ -- 256
+while$ -- 61
+width$ -- 20
+write$ -- 243
 (There was 1 warning)

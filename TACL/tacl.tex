@@ -49,18 +49,20 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{abstract}
-In this paper, we present a deep learning model for the task of pairwise cognate prediction. We use a character level model with recurrent architecture and attention that has previously been employed on several NLP tasks. We compare the performance of our model with previous approaches on various language families. We also employ our model specifically to the domain of discovering cognates from Hindi-Marathi to assist the task of lexical resource creation.
+In this paper, we present a deep learning (DL) model for the task of pairwise cognate prediction. We use a character level model with recurrent neural network architecture and attention. We compare the performance of our model with previous approaches on various language families. We are able to show that our model performs better than non-DL methods which exploit surface similarity measures as well as a recent convolutional neural network (CNN) based model for the task. We also employ our model specifically to the domain of discovering cognates from Hindi-Marathi to assist the task of lexical resource creation.
 \end{abstract}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Introduction}
-Cognates are words across different languages that are known to have originated from the same word in a common ancestral language. For example, the English word `\textit{Night}' and the German `\textit{Nacht}', both meaning \textit{Night} and English `\textit{Hound}€™' and German `\textit{Hund}', meaning \textit{Dog} are cognates whose origin can be traced back to Proto-Germanic. 
+Cognates are words across different languages that are known to have originated from the same word in a common ancestral language. For example, the English word `\textit{Night}' and the German word `\textit{Nacht}', both meaning \textit{Night} and English `\textit{Hound}' and German `\textit{Hund}', meaning \textit{Dog} are cognates whose origin can be traced back to Proto-Germanic. Cognate words are not simply the translations of each other in any two languages, but are historically known to have a common origin. For example, the English word `\textit{Hound}' and the Spanish word `\textit{Perro}' both mean \textit{Dog} but are not cognates.
 
-Traditionally, the identification of cognates was carried out by historical linguists, using word lists and establishing sound correspondences between words. These are useful in determining linguistic distance within a language family, and also to understand the process of language change. While the task of cognate identification is an interesting problem in its own right, cognate information has also been used in several downstream NLP tasks, like sentence alignment in bitexts \cite{simard1993using} and improving statistical machine translation models \cite{kondrak2003cognates}. Additionally, it has been proposed that cognates can be used to share lexical resources among languages that are closely related \cite{Singh:07b}.
+Traditionally, the identification of cognates was carried out by historical linguists, using word lists and establishing sound correspondences between words. These are useful in determining linguistic distance within a language family, and also to understand the process of language change. Cognate information has also been used in several downstream NLP tasks, like sentence alignment in bi-texts \cite{simard1993using} and improving statistical machine translation models \cite{kondrak2003cognates}. Additionally, it has been proposed that cognates can be used to share lexical resources among languages that are closely related \cite{Singh:07b}.
 
-For some time now, there has been a growing interest in automatic cognate identification techniques. Most approaches for this task focus on finding similarity measures between a pair of words (e.g. orthographic or phonetic similarity). \cite{hauer2011clustering} \cite{inkpen2005similarity} \cite{List2016g}. These are used as features for classifiers to identify cognacy for a particular word-pair. Surface similarity measures like these miss out on capturing generalizations beyond string similarity, as cognate words are not always revealingly similar. For example, the cognate words \textit{Que} in Spanish and \textit{Hvad} in Danish both map to the concept \textsc{WHAT}, but have nothing in common with each other orthographically. For such pairs, surface similarity measures that rely on sub-sequence similarity are not useful. Instead, we require information about phonological similarity that is beyond surface similarity, such as the sound correspondences that are used in historical linguistics to narrow down candidate pairs as cognates.
+For some time now, there has been a growing interest in automatic cognate identification techniques. Most approaches for this task focus on finding similarity measures between a pair of words such as orthographic or phonetic similarity \cite{hauer2011clustering} \cite{inkpen2005similarity} \cite{List2016g}. These are used as features for a classifier to identify cognacy between a given word-pair. Surface similarity measures miss out on capturing generalizations beyond string similarity, as cognate words are not always revealingly similar. \cite{rama2015automatic} attempt to identify cognates by looking at the common subsequences present in the candidate word pair. For a cognate pair like the English `\textit{Wheel}' and the Sanskrit `\textit{Chakra}', such an approach fails as they have nothing in common with each other orthographically. In fact, even for a pair like English `\textit{Father}' and Latin `\textit{Pater}', a common subsequence approach completely ignores the similarity between the `\textit{Fa}' and `\textit{Pa}' phonemes, which is a possible indication of cognacy between the pair. Thus, there is a need of information about phonological similarity that is beyond surface similarity, such as the sound correspondences that are used in historical linguistics to narrow down candidate pairs as cognates.
 
-Our paper shows that an end-to-end recurrent neural network based model is able to outperform both surface similarity as well as a recent CNN based Siamese-style model \cite{rama2016siamese} on the task. LSTM (Long Short Term Memory) networks are being used in an extensive range of NLP tasks to build end-to-end systems. LSTMs have been successfully applied to machine translation \cite{bahdanau2014neural}. language modeling \cite{mikolov2010recurrent}, information retrieval \cite{sordoni2015hierarchical} and RTE \cite{snli:emnlp2015}. In the subsequent sections, we describe our LSTM based Siamese-style architecture which uses character by character attention to enrich the representations of the input word pairs and make the cognate prediction. We perform thorough analysis on the performance of our model and compare it against existing supervised approaches, including the subsequence based model described in \cite{rama2015automatic} and its variants.
+By using DL based models, the need for external feature engineering is circumvented as the system learns to find hidden representations of the input depending on the task in hand. Our paper presents an end-to-end character-level recurrent neural network (RNN) based model that is adapted from a model used on a similar word-level task called RTE \cite{rocktaschel2016reasoning}. Our model is able to outperform both the common subsequence model \cite{rama2015automatic} as well as a recent CNN-based model \cite{rama2016siamese} on the task. 
+
+LSTM (Long Short Term Memory) networks are being used in an extensive range of NLP tasks to build end-to-end systems. LSTMs have been successfully applied to machine translation \cite{bahdanau2014neural}. language modeling \cite{mikolov2010recurrent}, information retrieval \cite{sordoni2015hierarchical} and RTE \cite{snli:emnlp2015}. In the subsequent sections, we describe our LSTM based Siamese-style architecture which uses character by character attention to enrich the representations of the input word pairs and make the cognate prediction. We perform thorough analysis on the performance of our model and compare it against existing supervised approaches, including the subsequence based model \cite{rama2015automatic}.
 
 %A key observation is that language-based features either with respect to language family or phonetic relationships does not help performance, while semantic information has a positive effect. We find that pre-training on language data unrelated to the language family is also useful, which points to the model's flexibility and its ability to capture statistical regularities without explicit feature engineering.
 
@@ -69,15 +71,15 @@ Our paper shows that an end-to-end recurrent neural network based model is able 
 The task of discovering cognates can possibly be particularly useful among the languages of South Asia, which are not rich in lexical resources. Information about cognates can become an important source for assisting the creation and sharing of lexical resources between languages. Therefore, another contribution of this work is to apply our cognate detection model to a real language pair. We apply our model to the domain of Hindi-Marathi, using a large unlabeled corpus of aligned texts to find cognate pairs.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Related Work}
+% \section{Related Work}
 
-There have been several previous works for automatic cognate identification that try to exploit different forms of features and representations for capturing the necessary information.
+% There have been several previous works for automatic cognate identification that try to exploit different forms of features and representations for capturing the necessary information.
 
-\textbf{Orthographic features based classifier} : \cite{hauer2011clustering} use a number of basic word similarity measures as input to a SVM classifier for cognate prediction. They use features like common bigrams, longest common substring, word length difference etc. The also use features that encode the degree of affinity between pairs of languages.
+% \textbf{Orthographic features based classifier} : \cite{hauer2011clustering} use a number of basic word similarity measures as input to a SVM classifier for cognate prediction. They use features like common bigrams, longest common substring, word length difference etc. The also use features that encode the degree of affinity between pairs of languages.
 
-\textbf{Gap-weighted common subsequences} : \cite{rama2015automatic} uses a string kernel based approach wherein he defines a vector for a word pair using all common subsequences between them and weighting the subsequence by their gaps in the strings. The subsequence based features outperform orthographic word similarity measures.
+% \textbf{Gap-weighted common subsequences} : \cite{rama2015automatic} uses a string kernel based approach wherein he defines a vector for a word pair using all common subsequences between them and weighting the subsequence by their gaps in the strings. The subsequence based features outperform orthographic word similarity measures.
 
-\textbf{Siamese ConvNet model} : In a recent work, T. Rama introduces CNN based siamese-style model \cite{rama2016siamese} for the task. The model is inspired by image-similarity CNN models. Instead of CNNs, we propose the use of LSTM networks. As these are a form of recurrent network (RNN), they fit more naturally to natural language which also has a sequential architecture and follows a linear order. In comparison, convolutional networks are more hierarchical and hence seem natural for images. Even though NLP literature does not support a clear distinction between the domains where CNNs or RNNs perform better, recent works have shown that each provide complementary information for text classification tasks \cite{yin2017comparative}. 
+% \textbf{Siamese ConvNet model} : In a recent work, T. Rama introduces CNN based siamese-style model \cite{rama2016siamese} for the task. The model is inspired by image-similarity CNN models. Instead of CNNs, we propose the use of LSTM networks. As these are a form of recurrent network (RNN), they fit more naturally to natural language which also has a sequential architecture and follows a linear order. In comparison, convolutional networks are more hierarchical and hence seem natural for images. Even though NLP literature does not support a clear distinction between the domains where CNNs or RNNs perform better, recent works have shown that each provide complementary information for text classification tasks \cite{yin2017comparative}. 
 
 %We do an extensive analysis of our trained models to try to understand the kinds of features it learns to recognize that are important for making the cognate judgements.
 
@@ -87,18 +89,16 @@ There have been several previous works for automatic cognate identification that
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Datasets}
 
-The task of cognate identification will make use of word lists taken from the basic vocabulary e.g. kinship terms, body parts, numbers etc. Usually this vocabulary will represent concepts from the language itself and not borrowed items, (although this is also possible at times). The word lists contain information about a particular word, its language family and a cognate class ID. Words are provided for a number of languages for a set of concepts that are from the basic vocabulary.
+The task of cognate identification will make use of word lists of different language families taken from the basic vocabulary e.g. kinship terms, body parts, numbers etc. Usually this vocabulary will represent concepts from the language itself and not borrowed items, (although this is also possible at times). A word list can be considered as a table where the different rows and columns represent different languages and concepts respectively. Each cell in the table contains a lexical item along with its cognate class ID which helps to determine if two words are cognates.
 
-We make use of three datasets in our work. The first and primary dataset that we use is the IELex Database, which contains cognacy judgements from the Indo-European language family. The dataset is curated by Michael Dunn\footnote{http://ielex.mpi.nl/}. Second, we include a dataset taken from the Austronesian Basic Vocabulary project \cite{greenhillBlust:08}, and a third dataset from the Mayan family \cite{wichmann:2008}. 
+We make use of three datasets in our work which come from three different language families. These families make a good test set as they vary widely in terms of the number of languages, concepts and cognate classes. The first and primary dataset that we use is the IELex Database, which contains cognacy judgements from the Indo-European language family. The dataset is curated by Michael Dunn\footnote{http://ielex.mpi.nl/}. Second, we include a dataset taken from the Austronesian Basic Vocabulary project \cite{greenhillBlust:08}, and a third dataset from the Mayan family \cite{wichmann:2008}. 
 
 There are several differences in transcription in each of these datasets. While IELex is available in both IPA and a coarse `Romanized' IPA encoding, the Mayan database is available in the ASJP format (similar to a Romanized IPA) \cite{Brown:08} and the Austronesian has been semi-automatically converted to ASJP \cite{rama2016siamese}. We use subsets of the original databases due to lack of availability of uniform transcription.
 
-The Indo European database has the largest number of languages (139) as compared to Mayan, which is a much smaller language family consisting of only 30. The Austronesian dataset contains the largest number of cognate classes as compared to the other two. For the purposes of this task, we form word pairs using words from the same concept and such a pair is assigned a positive cognate label if its cognate class ids match. 
+The IELex database contains words from 52 languages for over 200 concepts, while the Austronesian contains words from 100 languages and as many concepts. The Mayan dataset is comparatively very small with only 100 concepts from 30 languages. The Austronesian dataset also contains the largest number of cognate classes as compared to the other two. The number of samples obtained from each dataset are mentioned in Tables~\ref{CL_count} and \ref{CC_count}. The small size of the Mayan dataset especially poses a challenge for training the deep learning networks which is addressed in the later sections. 
 
 We also use the TDIL Hindi-Marathi sentence-aligned corpus as the large unlabeled data for our final model. This dataset provides a large part of the vocabulary from the both the languages to search for cognates.
 
-%The data used for the task consists of annotated word lists. The word lists for different language families contain the cognate class ids for each token, along with its language and concept/meaning label. Word pairs are formed using words from the same concept and are assigned a positive cognate label if their cognate class ids match
-%We have primarily used the Indo-European language family for our experiments as are target languages (Hindi and Marathi) belong to this family. But we have additionally also test our models on two other families listed below.
 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % \section{Gap-weighted subsequence model}
@@ -122,14 +122,16 @@ We also use the TDIL Hindi-Marathi sentence-aligned corpus as the large unlabele
     \label{CoAttNet}
 \end{figure}
 
-The overall model used in our system is called the Recurrent Co-Attention Model (\textit{CoAtt} for short) and is extended from the word-by-word attention model used by \cite{rocktaschel2016reasoning} for the task of recognising textual entailment in natural language sentences. The network used is illustrated in Figure~\ref{CoAttNet}. It is a Siamese style network that encodes a word pair parallely and then makes a discriminative judgement in the final layer. The input words are first encoded into character level embeddings followed by a bidirectional LSTM network and finally a character by character attention layer as described the subsections that follow. The encodings of both the words are merged and passed through a 2-layer neural network with \textit{tanh} and \textit{sigmoid} activations to make a final binary prediction. Additionally we also add a \textit{Language features} vector or a \textit{Concept features} vector to the model by concatenating it with the merged attention vector before passing it to the 2-layer neural network.
+The overall model used in our system is called the Recurrent Co-Attention Model (\textit{CoAtt}). It is adapted from the word-by-word attention model used by \cite{rocktaschel2016reasoning} for the task of recognising textual entailment (RTE) in natural language sentences. Just as the RTE task involves understanding the semantics of a sentence which is hidden behind sequence of words, the cognate identification task also requires information beyond surface character similarity, which was the motivation to adapt this particular model for our task. The network is illustrated in Figure~\ref{CoAttNet}. We have converted the RTE model into a siamese-style network that encodes a word pair in parallel and then makes a discriminative judgement in the final layer. 
+
+The input words are first encoded into character level embeddings followed by a bidirectional LSTM network and finally a character by character attention layer as described the subsections that follow. The encodings of both the words are merged and passed through a 2-layer neural network with \textit{tanh} and \textit{sigmoid} activations to make a final binary prediction. Additionally we also add a \textit{Language features} vector or a \textit{Concept features} vector to the model by concatenating it with the merged attention vector before passing it to the 2-layer neural network.
 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Character Embeddings}
 
-The network starts by encoding the input words into their character embeddings. We encode the words using a character level embedding matrix $E \in \mathbb{R}^{n_e \times |C|}$. Here $n_e$ is the size of the character embeddings and $C$ is the vocabulary of all characters. Thus for an input word $x$ which can be represented as sequence of characters $x = \{c_{i_1}, c_{i_2}, ..., c_{i_n}\}$, is transformed into a sequence of vectors $y = \{e_{i_1}, e_{i_2}, ..., e_{i_n}\}$ where $e_j$ is the $j^{th}$ column of the $E$ matrix. This embedding matrix is learnt during training and each column in the matrix represents the embedding vector of the respective token in the vocabulary. 
+The input words are first encoded into character level embeddings. Character embeddings are a form of distributional representation, where every character of the vocabulary is expressed as a vector in a vector space. This is done using a character level embedding matrix $E \in \mathbb{R}^{n_e \times |C|}$. Here $n_e$ is the dimensionality of the embeddings and $C$ is the vocabulary of all characters. Thus for an input word $x$ which can be represented as sequence of characters $x = \{c_{i_1}, c_{i_2}, ..., c_{i_n}\}$, is transformed into a sequence of vectors $y = \{e_{i_1}, e_{i_2}, ..., e_{i_n}\}$ where $e_j$ is the $j^{th}$ column of the $E$ matrix. This embedding matrix is learnt during training and each column in the matrix represents the embedding vector of the respective token in the vocabulary. 
 
-\cite{rama2016siamese} manually defined the character embeddings using various properties of the respective phoneme and fixed these embeddings during training. However, we observe that such a method restricts the power of the distributional representation to world knowledge known to us and letting the embeddings be learnt themselves should help learn a representation that is tuned for the task in hand. Thus, we use Rama's manually defined embeddings as an initialisation for the character embeddings and let these weights be trained during learning. 
+\cite{rama2016siamese} manually defined the character embeddings using various properties of the respective phoneme and fixed these embeddings during training. However, we observe that such a method restricts the power of the distributional representation to world knowledge known to us and letting the embeddings be learnt themselves should help learn a representation that is tuned for the task in hand. Thus, we use Rama's manually defined embeddings as an initialisation for the character embeddings and let these weights be trained during learning. It is found that such a method of embedding initialisation results in a better traning of the model as compared to a random initialisation.
 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{LSTM network}
@@ -150,7 +152,7 @@ Here $W^i$, $W^o$, $W^f$, $W^c \in  \mathbb{R}^{n_e+n_h \times n_h}$ and $b_i$, 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Attention}
 
-Attention neural networks have been used extensively in tasks like machine translation \texttt{cite}, image captioning \texttt{cite}, summarisation \texttt{cite} and visual question answering \texttt{cite}. The attention mechanism helps to enhance the representation obtained from the LSTM cell state by giving it context that is used for attending. More precisely, we attend over the LSTM encoding of a given word, using a single characted encoding of the second word, which helps to generate a weighted representation of the first word that includes its important segments with respect to its similarity with the second word's character. 
+Attention neural networks have been used extensively in tasks like machine translation \texttt{mtattention}, image captioning \texttt{cpattention} and visual question answering \texttt{stackedattention}. The attention mechanism helps to enhance the representation obtained from the LSTM cell state by giving it context that is used for attending. More precisely, we attend over the LSTM encoding of a given word, using a single characted encoding of the second word, which helps to generate a weighted representation of the first word that includes its important segments with respect to its similarity with the second word's character. 
 
 Given a character vector $h \in  \mathbb{R}^{n_h}$ using which we would like to attend on a sequence of character vectors $Y = \{c_1, c_2, ..., c_L\} \in \mathbb{R}^{n_h \times L}$, we generate a set of attention weights $\alpha$ and a attention-weight representation $r \in  \mathbb{R}^{n_h}$ of $Y$ as,
 
@@ -181,7 +183,28 @@ r^* &= [r_{HY} r_{YH}]
 
 It is known that some languages are more closely related to each other as compared to other languages. Thus, these languages which are closer would naturally tend to share more cognate pairs than they do with other languages. \cite{rama2016siamese} tried to exploit this information about language \textit{relatedness} by providing the network with 2-hot encoding vector that represents the respective languages of the 2 input words being tested. The network would then use this information about the languages to learn which language pairs may be more related using the training data provided.
 
-We follow the same approach used by \cite{rama2016siamese} and provide the model with these addition \textit{Language Features} before the final classification by the 2-layer MLP. The 2-hot input language pair vector $x_{lang}$ is concatenated with the attention weighted representation of the input words $h^{*}$, before being fed into the final multi-layer perceptron for classification.
+Since we would primarily work in a Cross Language mode of evaluation, where the training and testing languages come from exclusive sets, it is intuitive that such \textit{Language Features} will not help to improve of the model in such a setting. Since the languages of the training and testing set do not overlap, the relevant language feature weights for the test set are never learnt. Any information about the affinity or interaction between the languages in the training set is not useful for the languages in the testing set. 
+
+The \textit{Language Features} are thus only used during the Cross Concept mode of evaluation, where there is an overlap in the training and testing languages. We follow the same approach used by \cite{rama2016siamese} and provide the model with these addition \textit{Language Features} before the final classification by the 2-layer MLP. The 2-hot input language pair vector $x_{lang}$ is concatenated with the attention weighted representation of the input words $h^{*}$, before being fed into the final multi-layer perceptron for classification.
+
+%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Concept Features}
+
+As the information about the language of the input words can be beneficial for the task of cognate discovery, we hypothesise that information regarding the semantics or the meaning of the input word pair should also be helpful. The word semantics can provide information like the POS category of the word, which can be an useful if some POS classes show higher degree of variation in cognates while others show less.
+
+We implement this by using GloVe word embeddings \cite{pennington2014glove}. Word embeddings are distributional representation of words in a low-dimensional space compared to the vocabulary size and they have been shown to capture semantic information about the words inherently. We use the GloVe embedding for the English concept of the word pair as obtained from the label in the dataset, and input this vector to the network before the final MLP for classification. The word embedding of the concept $x_{concept}$ is concatenated with the attention weighted representation of the input words $h^{*}$, before being fed into the final multi-layer perceptron for classification.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Experiments}
+
+We primarily follow a Cross Language evaluation procedure, where the training and testing sample pairs are created using exclusive sets of languages. A random set of 70\% of the languages is set as the training set of languages and the rest as testing set. Both words in a sample pair belongs to the same concept or meaning. A word pair is assigned a positive cognate label if their cognate class ids match. The number of sample pairs obtained for training and testing from the different datasets formed using cross language evaluation test can be found in Table~\ref{CL_count}. 
+
+We conducted ablation tests to study the contribution of different features and conducted tests on how the different levels of transcription affects the performance of the models. In the subsections below we describe the results from these different tests.
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Evaluation Metric}
+
+We report the \textit{F-score} and the area under the PR curve (\textit{AUC}) as a measure of performance for all the models. \textit{F-score} is computed as the harmonic mean of the \textit{precision} and \textit{recall}\footnote{Precision and Recall is computed on positive labels at 0.5 threshold. Precision = TP/(TP+FP), Recall = TP/(TP+FN), TP: True Positives, FP: False Positives, FN: False Negatives}. Since the dataset is heavily biased and contains a majority of negative cognate sample pairs, we do not use \textit{accuracy} as a measure of performance.
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{table*}[t]
@@ -202,38 +225,30 @@ Testing Samples               & 9,894               & 2,188                & 20,
 \begin{tabular}{lcc}
 \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \multicolumn{2}{c}{\textbf{Indo-European}} \\ \cline{2-3} 
 \multicolumn{1}{c}{}                                & \textit{F-Score}      & \textit{AUC}       \\ \hline
-Majority Classfier                                  & -                     & 64.9               \\
 Gap-Weighted Subsequence                            & 59.0                  & 75.5               \\
 PhoneticCNN                                         & 73.7                  & 86.1               \\
 CharacterCNN                                        & 75.3                  & 85.3               \\
 LSTM + No Attention                                 & 56.7                  & 59.0               \\
 LSTM + Uniform Attention                            & 52.8                  & 59.4               \\ \hline
-Co-Attention Model                                  & 83.8                  & 89.2               \\ \hline
-+ Initalised Embeddings                             & 85.1                  & 92.4               \\
-+ Concept Features                                  & \textbf{86.2}         & \textbf{93.0}     
+Co-Attention Model                                  & 83.8                  & 89.2               \\
+\quad + IE                                          & 85.1                  & 92.4               \\
+\quad + IE + CF                                     & \textbf{86.2}         & \textbf{93.0}     
 \end{tabular}
 
 \label{CL_res}
-\caption{Cross Language Evaluation Results for Indo-European Dataset}
+\caption{Cross Language Evaluation Results for Indo-European Dataset \newline [IE: \textit{Initialised Embeddings}, CF: \textit{Concept Features}]}
 \end{table*}
 %%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Concept Features}
-
-As the information about the language of the input words can be beneficial for the task of cognate discovery, we hypothesise that information regarding the semantics or the meaning of the input word pair should also be helpful. The word semantics can provide information like the POS category of the word, which can be an useful if some POS classes show higher degree of variation in cognates while others show less.
-
-We implement this by using GloVe word embeddings \cite{pennington2014glove}. Word embeddings are distributional representation of words in a low-dimensional space compared to the vocabulary size and they have been shown to capture semantic information about the words inherently. We use the GloVe embedding for the English concept of the word pair as obtained from the label in the dataset, and input this vector to the network before the final MLP for classification. The word embedding of the concept $x_{concept}$ is concatenated with the attention weighted representation of the input words $h^{*}$, before being fed into the final multi-layer perceptron for classification.
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Experiments}
-
-We conducted several types of evaluations on our models covering a variety of test for thorough analysis of its performance. We conducted abalation tests to study the contribution of different features and conducted tests on how the different levels of transcription affects the performance of the models. In the subsections below we describe the results from these different tests.
-
 %%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Evaluation Metric}
+\subsection{Baseline Models}
 
-We report the \textit{F-score} as a measure of performance for all our models. \textit{F-score} is computed as the harmonic mean of the \textit{precision} and \textit{recall}\footnote{Precision and Recall is computed on positive labels. Precision = TP/(TP+FP), Recall = TP/(TP+FN)}. Since the dataset is heavily biased and contains a majority of negative samples (As can be seen in Tables \ref{CL_count} and \ref{CC_count}), \textit{accuracy} is not a good measure of performance to compare the models.
+We compare our model against the following baseline models. 
+
+\textbf{Gap-weighted Subsequences} : This model refers to the common subsequence model \cite{rama2015automatic} mentioned earlier. The author uses a string kernel based approach wherein he defines a vector for a word pair using all common subsequences between them and weighting the subsequence by their gaps in the strings.
+
+\textbf{Phonetic CNN \& Character CNN} : These models are variations of the siamese-style CNN-based models \cite{rama2016siamese}. The models are inspired from CNN networks used for image-similarity tasks. The \textit{Phonetic CNN} model uses the manually defined (fixed) character embeddings in the network, whereas the \textit{Character CNN} model uses a 1-hot encoding to represent the different characters. The results reported for these models were found by rerunning the original code from the  author on the prepared datasets\footnote{It can be noted that there is a difference in the reported f-score of the CNN models as compared to the original paper. This is because we report the f-score with respect to the positive labels only, whereas the original paper reported the average f-scores of positive and negative labels (Observed from the implementation in author's code)}.
+
+\textbf{LSTM + No Attention \& LSTM + Uniform Attention} : We also introduced two sanity-check baseline models to test the attention layer of the \textit{CoAtt} model. The \textit{LSTM + No Attention} model removes the Co-Attention layer from the \textit{CoAtt} model, while the \textit{LSTM + Uniform Attention} model does a simple average rather than a weighted average in the attention layer.
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{table*}[t]
@@ -241,44 +256,30 @@ We report the \textit{F-score} as a measure of performance for all our models. \
 \begin{tabular}{lcccc}
 \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \multicolumn{2}{c}{\textbf{Austronesian}} & \multicolumn{2}{c}{\textbf{Mayan}} \\ \cline{2-5} 
 \multicolumn{1}{c}{}                                & \textit{F-Score}      & \textit{AUC}      & \textit{F-Score}  & \textit{AUC}   \\ \hline
-Majority Classfier                                  & -                     & 62.7              & -                 & 65.1           \\
 Gap-Weighted Subsequence                            & 58.8                  & 68.9              & 71.8              & 81.8           \\
 PhoneticCNN                                         & 54.6                  & 68.0              & 72.8              & 85.0           \\
-CharacterCNN                                        & 62.2                  & 71.6              & 75.9              & 85.7           \\
-LSTM + No Attention                                 & 51.2                  & 55.2              & 60.6              & 67.1           \\
-LSTM + Uniform Attention                            & 49.8                  & 52.7              & 60.8              & 66.1           \\ \hline
+CharacterCNN                                        & 62.2                  & 71.6              & 75.9              & 85.7           \\ \hline
 Co-Attention Model                                  & 69.0                  & 77.5              & 67.1              & 67.7           \\
-\hline
-+ Initalised Embeddings                             & 70.2                  & 79.3              & 63.6              & 71.3           \\
-+ Concept Features                                  & \textbf{70.5}         & \textbf{79.7}     & 81.5              & 89.0           \\
-\hline
-+ Pre-training (Indo-European)                      & -                     & -                 & 82.5              & 90.6           \\
-\hline
-+ Pre-training (Austronesian)                       & -                     & -                 & \textbf{83.5}     & \textbf{91.2} 
+\quad + IE                                          & 70.2                  & 79.3              & 63.6              & 71.3           \\
+\quad + IE + CF                                     & \textbf{70.5}         & \textbf{79.7}     & 81.5              & 89.0           \\
+\quad + IE + PreT (Indo-European)                   & -                     & -                 & 82.5              & 90.6           \\
+\quad + IE + PreT (Austronesian)                    & -                     & -                 & \textbf{83.5}     & \textbf{91.2} 
 \end{tabular}
-\caption{Cross Language Evaluation Results for Austronesian and Mayan Datasets}
+\caption{Cross Language Evaluation Results for Austronesian and Mayan Datasets \newline [IE: \textit{Initialised Embeddings}, CF: \textit{Concept Features}, PreT: \textit{Pre-Training on another dataset}]}
 \label{CL_res_2}
 \end{table*}
 %%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Experiments with Indo-European}
 
-We performed the cross-language evaluation for the Indo-European dataset, where we created training and testing data samples using exclusive sets of languages. We fixed a random set of 70\% of the languages as the training set of languages and the remaining as the testing set. It must be noted that all samples were created by taking words from the same concept .ie. for each word pair in the training and testing set, be it positive or negative, belongs to the same concept.
+As can be observed in Table~\ref{CL_res}, the \textit{CoAtt} model performs significantly better than the CNN and the subsequence based models. The \textit{LSTM + No Attention} and \textit{LSTM + Uniform Attention} models reflect the importance of the attention layer adapted from the RTE model in the network, as without it the model does not perform very good. 
 
-The training and testing set size details for the different datasets formed using cross language evaluation test can be found in Table~\ref{CL_res}. The results for the cross language evaluation tests for Indo-European are listed in Table~\ref{CL_res}. 
-
-It is observed that the Recurrent Co-attention model (\textit{CoAtt}) performs significantly better than the CNN and the Subsequence models. The \textit{Majority Classifier} model simply outputs the mojority label of the training data. We tested two sanity-check baseline models to test the attention layer of the \textit{CoAtt} model.  The \textit{LSTM + No Attention} model removes the Co-Attention layer from the \textit{CoAtt} model, while the \textit{LSTM + Uniform Attention} model does a simple average rather than a weighted average in the attention layer. These to models clearly show the importance of the Attention layer in the network, as without it the model performs even worse than the majority classifier.
-
-Even though the \textit{CoAtt} model performs better than the other models by itself, adding a few additional modifications helps to imporve its performance further. Initialising the character embeddings with the manually defined binary vectors based on different phonetic properties of the characters, and then allowing these embeddings to change during training increases the \textit{AUC} by around 3\%. Further, adding the \textit{Concept features} discussed earlier, is also found to be useful.
-
-Since the mode of evaluation is cross-language, it is intuitive that the additional \textit{Language Features} will not contribute to the performance of the model since the languages of the training and testing set do not overlap and hence the relevant language feature weights for the test set are never learnt. That is, any information about the affinity or interaction between the languages in the training set is not useful for the languages in the testing set, as they are not common. Hence, we do not use \textit{Language features} with our model for this evaluation mode.
+A few additional features added to the \textit{CoAtt} model helps to improve it even further. Initialising the character embeddings with the manually defined vectors (\textit{+ IE} models) increases the \textit{AUC} by around 3\%. Further, addition of the \textit{Concept features} discussed earlier, is also found to be useful (\textit{+ CF} model).
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Experiments with Multiple Datasets}
 
-As mentioned earlier, other than the Indo-European dataset we also have two more datasets for the task, ie. the Austronesian and the Mayan datasets. Table~\ref{CL_res_2} lists the results of the models on these datasets. We observe a similar trend on the performance of the models on these datasets as we did for Indo-European. However, we can note that by itself, the \textit{CoAtt} model does not train well on the Mayan dataset. In fact its performance is as bad as the baseline models and no where close to the subsequence and the CNN models. This poor performance on the Mayan datasets is associated with the small size of the dataset, which is not sufficient for training the \textit{CoAtt} network. We justify this hypothesis subsequently with the \textit{Cross-Family Pretraining} experiment.
-
-The \textit{Concept features} discussed earlier, are again found useful to improve the \textit{CoAtt} model, especially on the Mayan dataset. Using the extra information about the word meaning from the of input pair from the \textit{Concept features}, the \textit{CoAtt} model is able to cross the baseline performance on the Mayan dataset. 
+Table~\ref{CL_res_2} lists the results of the models on these datasets. We observe a similar trend for the models on the Austronesian and Mayan datasets as well. However, the \textit{CoAtt} model does not train well on the Mayan dataset directly. This poor performance on the Mayan dataset is associated with its small size. The Mayan dataset being significantly smaller than the other datasets, does not prove sufficient for training the \textit{CoAtt} network. We justify this hypothesis subsequently with the \textit{Cross-Family Pretraining} experiment. The \textit{Concept features} are again found useful to improve the \textit{CoAtt} model, especially on the Mayan dataset, where the extra information about the meaning of input word pair helps the model to cross the baseline results. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{table*}[t]
@@ -314,9 +315,9 @@ CoAtt + Pre-training (Austro)                       & 65.8                  & 71
 %%%%%%%%%%%%%%%%%%%%%%
 \subsubsection*{Cross Family Pre-training Experiments}
 
-The three different language families with which we work have completely different origins and are placed across different regions geographically. However, it would be interesting to note if any notion of language evolution is still shared amongst these independently evolved language families. We try to test this hypothesis through the joint learning of the model for these families. Particularly since the size of the Mayan dataset available is quite small, it would be interesting to note if some information or feature learning from the other language families could prove beneficial for it. To implement this, we instantiate the network with the combined character vocabulary of the two language families. We then train the model till the loss saturates on one language family. This is followed by the training of the model on the second language family, while using the learned weights from the pre-training as the initialisation. 
+The three different language families with which we work have completely different origins and are placed across different regions geographically. We test if any notion of language evolution is still shared amongst these independently evolved families. This is done through the joint learning of models. The network is instantiated with the combined character vocabulary of two datasets. Then the model is trained on one dataset till the loss saturated. This is followed by the training on a second dataset, starting from the weights learned from the pre-training. 
 
-It is found that such a joint-training procedure helps the \textit{CoAtt} model on the Mayan dataset significantly. The model trained without the \textit{Concept Features} and pretrained on either the Indo-European or the Austronesian dataset, gives the best performance for the Mayan test set. The pretraining procedure is able to provide a good initialisation point to start training. Using this method, the \textit{CoAtt} model is thus able to beat the performance of best CNN model (\textit{CharCNN}) on the Mayan dataset. This also provides evidence to support our hypothesis that the \textit{CoAtt} was not able to learn on the Mayan dataset because of lack of enough data to train the network, but pre-training the model on other language families helped to show the true potential of the model on the dataset.
+It is found that such a joint-training procedure helps the \textit{CoAtt} model on the Mayan dataset significantly. The pretraining procedure is able to provide a good initialisation point to start training on the Mayan dataset. The pretrained models perform significantly better than the baseline models (\textit{PreT} models in Table~\ref{CL_res_2}). This also provides evidence to support our hypothesis that the \textit{CoAtt} was not able to learn on the Mayan dataset because of lack of enough data to train the network, but pre-training the model on other language families helped to show the true potential of the model on the dataset.
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Cross Concept Evaluation}

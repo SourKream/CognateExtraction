@@ -1,0 +1,72 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Hauer and Kondrak(2011)}]{hauer2011clustering}
+Bradley Hauer and Grzegorz Kondrak. 2011.
+\newblock Clustering semantically equivalent words into cognate sets in
+  multilingual lists.
+\newblock In {\em IJCNLP\/}. Citeseer, pages 865--873.
+
+\bibitem[{Inkpen et~al.(2005)Inkpen, Frunza, and
+  Kondrak}]{inkpen2005similarity}
+Diana Inkpen, Oana Frunza, and Grzegorz Kondrak. 2005.
+\newblock Automatic identification of cognates and false friends in french and
+  english.
+\newblock In {\em Proceedings of the International Conference on Recent
+  Advances in Natural Language Processing\/}. pages 251--257.
+
+\bibitem[{Kondrak et~al.(2003)Kondrak, Marcu, and Knight}]{kondrak2003cognates}
+Grzegorz Kondrak, Daniel Marcu, and Kevin Knight. 2003.
+\newblock Cognates can improve statistical translation models.
+\newblock In {\em Proceedings of the 2003 Conference of NAACL: Human Language
+  Technologies\/}. ACL, pages 46--48.
+
+\bibitem[{List et~al.(2016)List, Lopez, and Bapteste}]{List2016g}
+Johann-Mattis List, Philippe Lopez, and Eric Bapteste. 2016.
+\newblock \href{http://anthology.aclweb.org/P16-2097}{Using sequence similarity
+  networks to identify partial cognates in multilingual wordlists}.
+\newblock In {\em Proceedings of the ACL 2016\/}. pages 599--605.
+\newblock
+  \href{http://anthology.aclweb.org/P16-2097}{http://anthology.aclweb.org/P16-2097}.
+
+\bibitem[{Pennington et~al.(2014)Pennington, Socher, and
+  Manning}]{pennington2014glove}
+Jeffrey Pennington, Richard Socher, and Christopher~D. Manning. 2014.
+\newblock \href{http://www.aclweb.org/anthology/D14-1162}{Glove: Global vectors
+  for word representation}.
+\newblock In {\em EMNLP\/}. pages 1532--1543.
+\newblock
+  \href{http://www.aclweb.org/anthology/D14-1162}{http://www.aclweb.org/anthology/D14-1162}.
+
+\bibitem[{Rama(2015)}]{rama2015automatic}
+Taraka Rama. 2015.
+\newblock Automatic cognate identification with gap-weighted string
+  subsequences.
+\newblock In {\em Proceedings of the 2015 Conference of NAACL: Human Language
+  Technologies\/}. pages 1227--1231.
+
+\bibitem[{Rama(2016)}]{rama2016siamese}
+Taraka Rama. 2016.
+\newblock Siamese convolutional networks for cognate identification.
+\newblock In {\em Proceedings of COLING 2016\/}. pages 1018--1027.
+
+\bibitem[{Rockt{\"a}schel et~al.(2016)Rockt{\"a}schel, Grefenstette, Hermann,
+  Kocisky, and Blunsom}]{rocktaschel2016reasoning}
+Tim Rockt{\"a}schel, Edward Grefenstette, Karl~Moritz Hermann, Tomas Kocisky,
+  and Phil Blunsom. 2016.
+\newblock Reasoning about entailment with neural attention.
+\newblock In {\em ICLR\/}.
+
+\bibitem[{Simard et~al.(1993)Simard, Foster, and Isabelle}]{simard1993using}
+Michel Simard, George~F Foster, and Pierre Isabelle. 1993.
+\newblock Using cognates to align sentences in bilingual corpora.
+\newblock In {\em Proceedings of the 1993 Conference of CASCON\/}. IBM Press,
+  pages 1071--1082.
+
+\bibitem[{Singh and Surana(2007)}]{Singh:07b}
+Anil~Kumar Singh and Harshit Surana. 2007.
+\newblock Study of cognates among south asian languages for the purpose of
+  building lexical resources.
+\newblock {\em Journal of Language Technology\/} .
+
+\end{thebibliography}
