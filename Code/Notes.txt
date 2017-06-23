@@ -160,7 +160,131 @@ Vocabulary Overlap between Language Families:
 
 TODO:
 
- - Attention heat maps
  - List of overlapping words                              DONE
  - IPA results                                            DONE
+ - Hindi Marathi                                          DONE
+ - Dataset stats                                          DONE
  - Pair counts for pair starting with (p,f), (p,v), etc
+ - Error analysis exampples
+ - Attention heat maps
+ 
+---------------------
+
+IPA vs ASJP
+
+ - IPA does poorly on Guts, Vomit, Bad, Short, Thich as but ASJP does decent
+ - IPA does well on Fire, Sleep, Pull, Smooth
+
+ - For FIRE, ASJP gives many false positives
+ - For SLEEP, ASJP gives false negatives 
+
+
+---------------------
+
+ - noun and verb list (50 each)
+
+ - restrict to concepts
+ - artificial samples
+ 
+ - uniform attention test
+ - taraka embeddings
+ - performance falling on adding concepts?
+ - Paper
+ 
+
+---------------------
+
+ - Models running last
+    - IElex taraka embeddings     D
+    - IElex + concept + taraka    D
+    - CF IElex + taraka
+    - Mayan + Taraka              D
+    - Mayan + Concept + taraka    D
+    - Austro + tarak              D 
+    - Austro + Concept + taraka   D
+    - IPA + IELEX + taraka             D
+    - IPA + IELEX + Concept + taraka   D
+    - Mayan + PretAustro + taraka   D
+    - Mayan + PretIELEX + taraka    D
+    - IELEX + PretAustro + taraka   D
+    - Austro + PretIELEX + taraka   D
+    - Mayan + Uniform               
+    - Austro + Uniform
+
+---------------------
+
+  - Results on noun and verb lists
+  - Uniform attention results
+  - Taraka embeddings results
+
+
+ - random embeddings vs init embeddings
+ - rank dimensions to match spaces
+ - normalise and cosine distance
+
+ - motivation for co Attention      Done
+ - Split related work               Done
+ - footnote with taraka's results   Done
+ - transcription tests to experiments sections
+ - PR curves
+
+ - related work on character level tasks
+ - SCLeM website
+ - fixed embeddings rather than initialisation onluy
+
+ - rethink analysis sections
+ - bring out properties of the datasets
+ - bring back to problem in subseq model
+
+---------------------
+
+D - add word list table table 3.1 from thesis
+D - problem definition in section 2
+ - Match labels in image to section headings
+D - First line section 3.2 repetitive  
+ - section 3.3 attention explanaation. use example. compare against what subseq model is doing.
+D - section 3.4 remove second para
+D - section 3.4 refer back to the table 3.1 from thesis and relate. keep to 1 para
+ - add line about non-linear classifier
+D - remove ablation para. give a 'coming up'
+D - dataset sectino comes before experiments
+ - properties of datasets
+D - table 3.2 from thesis
+
+D - section 3.1: 
+D    - Use '+ IE' consistently
+D    - there are 2 ways of initialising the embeddings
+D     - linguistic features of the phonemes
+D     - random initialisations
+
+ - experiment 1 : Indo European
+ - experiment 2 : Pretraining (remove para about multi dataset experiments)
+D - Table 3. Split experiments into addition of concept features and using pretraining.
+    - usefulness of CF comes from testing on more datasets
+    - pretrainign another exp. helps further
+ 
+D - Counts tables can be brought together
+ - Explain difference between cross concept and cross language
+ - cross concept - human cognate identifier would not coduct such a task. he would look at dictionaries with commmon menaings
+
+D - Move domain adaptation to experiments end
+  - talk about inflectional endings
+  - add examples/images
+
+ - Discussion section instead of analysis
+    - Co Attention is effective at character level. Attention is very importnat without it its not working
+    - Dataset size matters a lot. Particularly for small language families
+    - Transcription doesnt really matter
+    - Concept features help
+    - Better performance on nouns and adjectives
+    - Adaptable to text 
+
+
+
+
+
+
+
+
+
+

@@ -1,20 +1,20 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.2}{Datasets}{}% 2
-\BOOKMARK [1][-]{section.3}{Approach}{}% 3
+\BOOKMARK [1][-]{section.2}{Problem Statement}{}% 2
+\BOOKMARK [1][-]{section.3}{Model}{}% 3
 \BOOKMARK [2][-]{subsection.3.1}{Character Embeddings}{section.3}% 4
 \BOOKMARK [2][-]{subsection.3.2}{LSTM network}{section.3}% 5
 \BOOKMARK [2][-]{subsection.3.3}{Attention}{section.3}% 6
-\BOOKMARK [2][-]{subsection.3.4}{Language Features}{section.3}% 7
-\BOOKMARK [2][-]{subsection.3.5}{Concept Features}{section.3}% 8
-\BOOKMARK [1][-]{section.4}{Experiments}{}% 9
-\BOOKMARK [2][-]{subsection.4.1}{Evaluation Metric}{section.4}% 10
-\BOOKMARK [2][-]{subsection.4.2}{Baseline Models}{section.4}% 11
-\BOOKMARK [2][-]{subsection.4.3}{Experiments with Indo-European}{section.4}% 12
-\BOOKMARK [3][-]{subsubsection.4.3.1}{Transcription Tests}{subsection.4.3}% 13
-\BOOKMARK [2][-]{subsection.4.4}{Experiments with Multiple Datasets}{section.4}% 14
-\BOOKMARK [2][-]{subsection.4.5}{Cross Concept Evaluation}{section.4}% 15
+\BOOKMARK [2][-]{subsection.3.4}{Language \046 Concept Features}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Experiments}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Datasets}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Evaluation Metric}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.3}{Baseline Models}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.4}{Cross Language Evaluation}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.5}{Cross-Family Pretraining Experiment}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.6}{Cross Concept Evaluation}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.7}{Hindi-Marathi Domain Adaptation}{section.4}% 15
 \BOOKMARK [1][-]{section.5}{Analysis}{}% 16
 \BOOKMARK [2][-]{subsection.5.1}{Character Embeddings}{section.5}% 17
 \BOOKMARK [2][-]{subsection.5.2}{Concept Wise Performance}{section.5}% 18
-\BOOKMARK [2][-]{subsection.5.3}{Hindi-Marathi Domain Adaptation}{section.5}% 19
-\BOOKMARK [1][-]{section.6}{Conclusion}{}% 20
+\BOOKMARK [1][-]{section.6}{Discussion}{}% 19
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 20
