@@ -2,8 +2,8 @@
 \BOOKMARK [1][-]{section.2}{Problem Statement}{}% 2
 \BOOKMARK [1][-]{section.3}{Model}{}% 3
 \BOOKMARK [2][-]{subsection.3.1}{Character Embeddings}{section.3}% 4
-\BOOKMARK [2][-]{subsection.3.2}{LSTM network}{section.3}% 5
-\BOOKMARK [2][-]{subsection.3.3}{Attention}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{LSTM}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Attention Layer}{section.3}% 6
 \BOOKMARK [2][-]{subsection.3.4}{Language \046 Concept Features}{section.3}% 7
 \BOOKMARK [1][-]{section.4}{Experiments}{}% 8
 \BOOKMARK [2][-]{subsection.4.1}{Datasets}{section.4}% 9
@@ -16,5 +16,6 @@
 \BOOKMARK [1][-]{section.5}{Analysis}{}% 16
 \BOOKMARK [2][-]{subsection.5.1}{Character Embeddings}{section.5}% 17
 \BOOKMARK [2][-]{subsection.5.2}{Concept Wise Performance}{section.5}% 18
-\BOOKMARK [1][-]{section.6}{Discussion}{}% 19
-\BOOKMARK [1][-]{section.7}{Conclusion}{}% 20
+\BOOKMARK [2][-]{subsection.5.3}{Transcription Tests}{section.5}% 19
+\BOOKMARK [1][-]{section.6}{Discussion}{}% 20
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 21

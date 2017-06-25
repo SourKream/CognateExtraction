@@ -104,7 +104,7 @@ The task of pairwise cognate prediction can thus be more formally defined as giv
 
 The overall model used in our system is called the Recurrent Co-Attention Model (\textit{CoAtt}). It is adapted from the word-by-word attention model used by \cite{rocktaschel2016reasoning} for the task of recognising textual entailment (RTE) in natural language sentences. Just as the RTE task involves understanding the semantics of a sentence which is hidden behind sequence of words, the cognate identification task also requires information beyond surface character similarity, which was the motivation to adapt this particular model for our task. The network is illustrated in Figure~\ref{CoAttNet}. We have converted the RTE model into a siamese-style network that encodes a word pair in parallel and then makes a discriminative judgement in the final layer. 
 
-The input words are first encoded into character level embeddings followed by a bidirectional LSTM network and finally a character by character attention layer as described the subsections that follow. The encodings of both the words are merged and passed through a 2-layer neural network with \textit{tanh} and \textit{sigmoid} activations to make a final binary prediction. Additionally we also add a \textit{Language features} vector or a \textit{Concept features} vector to the model by concatenating it with the merged attention vector before passing it to the 2-layer neural network.
+The input words are first encoded into character level embeddings followed by a bidirectional LSTM network and finally a character by character attention layer as described the subsections that follow. The encodings of both the words are merged and passed through a 2-layer neural network classifier with \textit{tanh} and \textit{sigmoid} activations to make a final binary prediction. Additionally we also add a \textit{Language features} vector or a \textit{Concept features} vector to the model by concatenating it with the merged attention vector before passing it to the 2-layer neural network.
 
 %%%%%%%%%%%%%%%%%%%%%%
 \subsection{Character Embeddings}
@@ -114,7 +114,7 @@ The input words are first encoded into character level embeddings. Character emb
 There are two ways of initilising the character embedding matrix for training. The matrix can be \textit{randomly initialised} by sampling values from a glorot uniform distibution. In such a case, the embeddings are dependent heavily on the training and the random vectors assigned to each character can change during training to such values that are optimal for the task. The other method of initialising the embeddings matrix is by using \textit{phonetic feature vectors} (PV). These phonetic vectors are manually defined binary vectors that are based on various linguistic properties of phonemes such as place of articulation (Dental, Nasal) and manner of articulation (Fricative, Voiced, Lateral).
 
 %%%%%%%%%%%%%%%%%%%%%%
-\subsection{LSTM network}
+\subsection{LSTM}
 
 After the input words to the network are encoded using the character embedding matrix, we transform them use LSTM cells. Given the input words $y = \{e_1, e_2, ..., e_n\}$, at every time step $t$ the LSTM of hidden unit size $n_h$ uses the next input $e_t$, the previous output $h_{t-1}$ and the previous cell state $c_{t-1}$ to compute the next output $h_t$ and the next cell state $c_t$ as follows,
 
@@ -130,9 +130,9 @@ h_t &= o_t * tanh(c_t)
 Here $W^i$, $W^o$, $W^f$, $W^c \in  \mathbb{R}^{n_e+n_h \times n_h}$ and $b_i$, $b_o$, $b_f$, $b_c \in \mathbb{R}^{n_h}$ are trained weights of the LSTM. The final output of the LSTM gives us a sequence $\{h_1, h_2, ..., h_n\}$ for every word, where $h_j \in \mathbb{R}^{n_h}$.
 
 %%%%%%%%%%%%%%%%%%%%%%
-\subsection{Attention}
+\subsection{Attention Layer}
 
-Attention neural networks have been used extensively in tasks like machine translation \cite{mtattention}, image captioning \cite{cpattention} and visual question answering \cite{stackedattention}. The attention mechanism helps to enhance the representation obtained from the LSTM cell state by giving it context that is used for attending. More precisely, we attend over the LSTM encoding of a given word, using a single characted encoding of the second word, which helps to generate a weighted representation of the first word that includes its important segments with respect to its similarity with the second word's character. 
+Attention neural networks have been used extensively in tasks like machine translation \cite{mtattention}, image captioning \cite{cpattention} and visual question answering \cite{stackedattention}. On a high level, attention can be considered as a soft selection procedure, where given a sequence of inputs, one would like to focus or attend on the important part of the sequence with respect to a context. We use this procedure to enhance the representation of the character sequence of a word coming out of the LSTM, by giving it as context the second word. One can compare the attention mechanism with the common subsequence model. In a common subsequence model, one makes a hard selection procedure by using as features only the common subsequences of both the words. In the attention model, the network makes a soft selection while focusing on those parts of the sequence which are important with respect to the other word.
 
 Given a character vector $h \in  \mathbb{R}^{n_h}$ using which we would like to attend on a sequence of character vectors $Y = \{c_1, c_2, ..., c_L\} \in \mathbb{R}^{n_h \times L}$, we generate a set of attention weights $\alpha$ and a attention-weight representation $r \in  \mathbb{R}^{n_h}$ of $Y$ as,
 
@@ -193,8 +193,6 @@ Testing Samples               & 103,092             & 21,547               & 150
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Experiments}
 
-We primarily follow a Cross Language evaluation procedure, where the training and testing sample pairs are created using exclusive sets of languages. A random set of 70\% of the languages is set as the training set of languages and the rest as testing set. Both words in a sample pair belongs to the same concept or meaning. A word pair is assigned a positive cognate label if their cognate class ids match. The number of sample pairs obtained for training and testing from the different datasets formed using cross language evaluation test can be found in Table~\ref{C_count}. 
-
 In the subsections below we describe the datasets that we used and the models against which we compare our models. This is followed by the three different experiments we conducted with our models.
 
 %%%%%%%%%%%%%%%%%%%%%%%%
@@ -204,10 +202,9 @@ We make use of three datasets in our work which come from three different langua
 
 There are several differences in transcription in each of these datasets. While IELex is available in both IPA and a coarse `Romanized' IPA encoding, the Mayan database is available in the ASJP format (similar to a Romanized IPA) \cite{Brown:08} and the Austronesian has been semi-automatically converted to ASJP \cite{rama2016siamese}. We use subsets of the original databases due to lack of availability of uniform transcription.
 
-The IELex database contains words from 52 languages for over 200 concepts, while the Austronesian contains words from 100 languages and as many concepts. The Mayan dataset is comparatively very small with only 100 concepts from 30 languages. The Austronesian dataset also contains the largest number of cognate classes as compared to the other two. The number of samples obtained from each dataset are mentioned in Table~\ref{C_count}. The small size of the Mayan dataset especially poses a challenge for training the deep learning networks which is addressed in the later sections. 
+The IELex database contains words from 52 languages for over 200 concepts, while the Austronesian contains words from 100 languages and as many concepts, as can be seen in Table~\ref{datastat}. The Mayan dataset is comparatively very small with only 100 concepts from 30 languages. The Austronesian dataset also contains the largest number of cognate classes as compared to the other two. The number of sample pairs obtained from each dataset are mentioned in Table~\ref{C_count}. The small size of the Mayan dataset especially poses a challenge for training the deep learning models which is addressed in the later sections. 
 
-\texttt{Highlight properties of the datasets.}
-\texttt{Difference between cross language and cross concept}
+There are also two different methods of evaluation that we follow in our experiments, namely the cross-language evaluation and the cross-concept evaluation. In cross-language evaluation, the training and testing sample pairs are created using exclusive sets of languages, where as in cross-concept they come from exclusive set of concets. This can be done by diving the word list like in Table~\ref{sample_wordlist} on the basis of rows or column, respectively for cross-language or cross-concept, into training and testing sets and then forming the sample pairs from them. Both words in a sample pair always belongs to the same concept or meaning. A sample pair is assigned a positive cognate label if their cognate class ids match. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Evaluation Metric}
@@ -303,20 +300,16 @@ Co-Attention Model                    & 64.8                  & 69.8            
 \end{table*}
 %%%%%%%%%%%%%%%%%%%%%%%%
 
-We also conducted cross concept evaluation experiments, where the training and testing word pairs were formed using exclusive sets of \textit{concepts} or \textit{meanings}. For this, we followed the same scheme as done by \cite{rama2016siamese}, wherein we took the first 70\% of the concepts as training concepts and the remaining concepts as testing concepts. The training and testing set size details formed using cross concept evaluation test can be found in Table~\ref{C_count}. The results for the cross concept evaluation tests are listed in Table~\ref{CC_res}.
+The results for the cross concept evaluation tests are listed in Table~\ref{CC_res}. It is observed that the \textit{CoAtt} model is able to reach close to the performance of the CNN based models. With the initialised embeddings and extra \textit{Language features}, the model performs slightly better than the baselines.
 
-It is observed that the \textit{CoAtt} model is able to reach close to the performance of the CNN based models. With the initialised embeddings and extra \textit{Language features}, the model performs slightly better than the baselines. \texttt{EXPAND}
-
-The cross-concept evaluation test can be thought of as a more rigorous test as the models have not seen any of the similar word structures during training. The testing sample words are from absolutely different concepts. Words coming from different concepts would have different sequence structures altogether and for a model to predict cognate similarity in such a case would definitely have to exploit phoneme similarity information in the context of cognates.
+The lower performance values on the cross-concept task as compared to the cross-language task can be associated to the nature of this experiment. The cross-concept evaluation test can be thought of as a more rigorous test as the models have not seen any of the similar word structures during training. The testing sample words are from absolutely different concepts. Words coming from different concepts would have different sequence structures altogether and for a model to predict cognate similarity in such a case would definitely have to exploit phoneme similarity information in the context of cognates. Even for a human cognate identifier, the task is unnatural as traditionally a new word is assigned to a cognate class after is compared against words of the same meaning that are known to be cognates, that is there is already sufficient cognate information about that concept available to the human.
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Hindi-Marathi Domain Adaptation}
 
-We also use the TDIL Hindi-Marathi sentence-aligned corpus as the large unlabeled data for our final model. This dataset provides a large part of the vocabulary from the both the languages to search for cognates.
+As we had mentioned earlier, we also applied our \textit{CoAtt} model to the domain of Hindi-Marathi. The model used was trained on the Indo-European dataset with IPA transcription. It should be noted that the Indo-European database contains instances from Marathi, but it does not directly contain instances from Hindi. However, it does contain words from Urdu and Bhojpuri (Bihari) which are also languages closely related to Hindi and share many words of the vocabulary with Hindi.
 
-Finally we applied the \textit{CoAtt} model to the domain of Hindi-Marathi. The model was trained on the IELex dataset with IPA transcription with a character vocabulary of around 150 phonetic characters. The model was trained in a cross-language evaluation style. It should be noted that the IELex database contains instances from Marathi, but it does not directly contain instances from Hindi. However, it does contain words from Urdu and Bhojpuri (Bihari) which are also languages closely related to Hindi and share many words of the vocabulary with Hindi.
-
-We used the TDIL sentence-aligned corpus. The corpus contains sentences from Hindi-Marathi that are POS tagged and transcribed in Devanagari. We specifically extracted word pairs from each sentence with the NOUN and VERB tags. Since the sentences are not word aligned, we extracted candidate word pairs for testing by choosing the first word with the same tag in either sentence as the candidate pair. The words were converted from Devanagari to IPA using a rule-based system and finally fed into the model. We extracted 16K pairs from Nouns and 9K pairs from Verbs.
+We used the TDIL sentence-aligned corpus. This dataset provides a large part of the vocabulary from the both the languages to search for cognates. The corpus contains sentences from Hindi-Marathi that are POS tagged and transcribed in Devanagari. We specifically extracted word pairs from each sentence with the NOUN and VERB tags. Since the sentences are not word aligned, we extracted candidate word pairs for testing by choosing the first word with the same tag in either sentence as the candidate pair. The words were converted from Devanagari to IPA using a rule-based system and finally fed into the model. We extracted 16K pairs from Nouns and 9K pairs from Verbs.
 
 On first observation it seems that the model is doing a fair job of aligning similar word pairs that are possibly cognates. We tested the performance of the model by randomly sampling 50 word pairs each from NOUNs and VERBs and manually annotating them. We found that our model gives an 80\% accuracy on Verbs and 74\% accuracy on Nouns. The model is able to find word pairs with a common stem without the need of lemmetization. In the case of verbs, it can be observed that the model is able to see through the inflections on the verbs to predict the pairs with similar stems as cognates. 
 
@@ -347,36 +340,36 @@ AT               & \textit{0.25}  & \textit{0}
 \caption{\textit{CoAtt} vs \textit{Subseq} model on various concepts (F-Score)}
 \end{table}
 
-% \subsection{Transcription Tests}
+\subsection{Transcription Tests}
 
-% As mentioned in an earlier section, the Indo-European dataset is available to us different transcriptions. The dataset is trascribed in ASJP like the other datasets and is also transcribed in IPA, which is a much finer representation as compared to ASJP. On comparing the models trained on these different transcriptions of the same data, it is found that the IPA model performs poorly on some concepts like GUTS, SWIM, WIPE, WHITE, SING where the ASJP model gives good results. On the other hand, the IPA model performs relatively better on concepts like FIRE, SLEEP, PULL, SAY and SMOOTH. By looking at specific examples, we find that for concepts like FIRE and PULL, the ASJP model gives many false positives which can be a fault due to the coarser representation of the ASJP character.
+As mentioned in an earlier section, the Indo-European dataset is available to us different transcriptions. The dataset is trascribed in ASJP like the other datasets and is also transcribed in IPA, which is a much finer representation as compared to ASJP. On comparing the models trained on these different transcriptions of the same data, it is found that the IPA model performs poorly on some concepts like GUTS, SWIM, WIPE, WHITE, SING where the ASJP model gives good results. On the other hand, the IPA model performs relatively better on concepts like FIRE, SLEEP, PULL, SAY and SMOOTH. By looking at specific examples, we find that for concepts like FIRE and PULL, the ASJP model gives many false positives which can be a fault due to the coarser representation of the ASJP character.
 
-% \begin{table}[h]
-% \centering
-% \begin{tabular}{ccc}
-% \textbf{Concept} & \textbf{IPA}  & \textbf{ASJP} \\ \hline
-% GUTS             & \textit{0.28} & \textit{0.58} \\
-% SWIM             & \textit{0.47} & 0.93          \\
-% WHITE            & \textit{0.54} & \textit{0.75} \\
-% WIPE             & \textit{0.55} & \textit{0.72} \\
-% SING             & \textit{0.56} & \textit{0.88} \\ \hline
-% FIRE             & \textit{0.62} & \textit{0.33} \\
-% SLEEP            & \textit{0.73} & 0.39          \\
-% PULL             & \textit{0.83} & \textit{0.50} \\
-% SMOOTH           & \textit{0.83} & \textit{0.50} \\
-% SAY              & \textit{0.90} & \textit{0.51}
-% \end{tabular}
-% \caption{\textit{CoAtt} model using IPA vs ASJP transcription on various concepts (F-Score)}
-% \end{table}
+\begin{table}[h]
+\centering
+\begin{tabular}{ccc}
+\textbf{Concept} & \textbf{IPA}  & \textbf{ASJP} \\ \hline
+GUTS             & \textit{0.28} & \textit{0.58} \\
+SWIM             & \textit{0.47} & 0.93          \\
+WHITE            & \textit{0.54} & \textit{0.75} \\
+WIPE             & \textit{0.55} & \textit{0.72} \\
+SING             & \textit{0.56} & \textit{0.88} \\ \hline
+FIRE             & \textit{0.62} & \textit{0.33} \\
+SLEEP            & \textit{0.73} & 0.39          \\
+PULL             & \textit{0.83} & \textit{0.50} \\
+SMOOTH           & \textit{0.83} & \textit{0.50} \\
+SAY              & \textit{0.90} & \textit{0.51}
+\end{tabular}
+\caption{\textit{CoAtt} model using IPA vs ASJP transcription on various concepts (F-Score)}
+\end{table}
 
-% \begin{figure}[t]
-% \centering
-%   \includegraphics[width=.9\linewidth]{swim}
-%   \caption{Sample test word pairs from the concept SWIM}
-%   \label{disssim}
-% \end{figure}
+\begin{figure}[t]
+\centering
+  \includegraphics[width=.9\linewidth]{swim}
+  \caption{Sample test word pairs from the concept SWIM}
+  \label{disssim}
+\end{figure}
 
-% Figure 2 shows few test sample pairs from the concept SWIM. It is observed that for all of these samples, the IPA model falsely predicts negatives whereas the ASJP model is correctly able to predict them all as cognates. Here perhaps the very find representation in IPA throws the model's judgment off and its not able to pick up the correspondence correctly. It is also interesting to note that for all of these samples, adding the \textit{concept feature} of SWIM to the \textit{CoAtt + Concept Features} model makes it predict all of them as cognates. Thus, perhaps adding the concept features signals the model to relax the degree of overlapping of phonemes and become less strict in predicting cognates.
+Figure 2 shows few test sample pairs from the concept SWIM. It is observed that for all of these samples, the IPA model falsely predicts negatives whereas the ASJP model is correctly able to predict them all as cognates. Here perhaps the very find representation in IPA throws the model's judgment off and its not able to pick up the correspondence correctly. It is also interesting to note that for all of these samples, adding the \textit{concept feature} of SWIM to the \textit{CoAtt + Concept Features} model makes it predict all of them as cognates. Thus, perhaps adding the concept features signals the model to relax the degree of overlapping of phonemes and become less strict in predicting cognates.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Discussion}
