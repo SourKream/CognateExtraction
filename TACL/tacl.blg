@@ -3,10 +3,11 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tacl.aux
 The style file: acl2012.bst
 Database file #1: tacl.bib
+Warning--I didn't find a database entry for "bhat-EtAl:2014:LT4CloseLang"
 Warning--there's a number but no volume in Brown:08
 You've used 20 entries,
             2490 wiz_defined-function locations,
-            665 strings with 9128 characters,
+            667 strings with 9182 characters,
 and the built_in function-call counts, 9921 in all, are:
 = -- 1033
 > -- 411
@@ -45,4 +46,4 @@ warning$ -- 1
 while$ -- 73
 width$ -- 23
 write$ -- 284
-(There was 1 warning)
+(There were 2 warnings)

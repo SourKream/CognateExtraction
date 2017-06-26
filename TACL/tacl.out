@@ -7,11 +7,11 @@
 \BOOKMARK [2][-]{subsection.3.4}{Language \046 Concept Features}{section.3}% 7
 \BOOKMARK [1][-]{section.4}{Experiments}{}% 8
 \BOOKMARK [2][-]{subsection.4.1}{Datasets}{section.4}% 9
-\BOOKMARK [2][-]{subsection.4.2}{Evaluation Metric}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Evaluation}{section.4}% 10
 \BOOKMARK [2][-]{subsection.4.3}{Baseline Models}{section.4}% 11
-\BOOKMARK [2][-]{subsection.4.4}{Cross Language Evaluation}{section.4}% 12
-\BOOKMARK [2][-]{subsection.4.5}{Cross-Family Pretraining Experiment}{section.4}% 13
-\BOOKMARK [2][-]{subsection.4.6}{Cross Concept Evaluation}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.4}{Experiment 1: Cross Language Evaluation}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.5}{Experiment 2: Cross-Family Pretraining}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.6}{Experiment 3: Cross Concept Evaluation}{section.4}% 14
 \BOOKMARK [2][-]{subsection.4.7}{Hindi-Marathi Domain Adaptation}{section.4}% 15
 \BOOKMARK [1][-]{section.5}{Analysis}{}% 16
 \BOOKMARK [2][-]{subsection.5.1}{Character Embeddings}{section.5}% 17

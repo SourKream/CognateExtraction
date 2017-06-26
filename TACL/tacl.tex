@@ -58,7 +58,9 @@ Cognates are words across different languages that are known to have originated 
 
 Traditionally, the identification of cognates was carried out by historical linguists, using word lists and establishing sound correspondences between words. These are useful in determining linguistic distance within a language family, and also to understand the process of language change. Cognate information has also been used in several downstream NLP tasks, like sentence alignment in bi-texts \cite{simard1993using} and improving statistical machine translation models \cite{kondrak2003cognates}. Additionally, it has been proposed that cognates can be used to share lexical resources among languages that are closely related \cite{Singh:07b}.
 
-For some time now, there has been a growing interest in automatic cognate identification techniques. Most approaches for this task focus on finding similarity measures between a pair of words such as orthographic or phonetic similarity \cite{hauer2011clustering} \cite{inkpen2005similarity} \cite{List2016g}. These are used as features for a classifier to identify cognacy between a given word-pair. Surface similarity measures miss out on capturing generalizations beyond string similarity, as cognate words are not always revealingly similar. \cite{rama2015automatic} attempt to identify cognates by looking at the common subsequences present in the candidate word pair. For a cognate pair like the English `\textit{Wheel}' and the Sanskrit `\textit{Chakra}', such an approach fails as they have nothing in common with each other orthographically. In fact, even for a pair like English `\textit{Father}' and Latin `\textit{Pater}', a common subsequence approach completely ignores the similarity between the `\textit{Fa}' and `\textit{Pa}' phonemes, which is a possible indication of cognacy between the pair. Thus, there is a need of information about phonological similarity that is beyond surface similarity, such as the sound correspondences that are used in historical linguistics to narrow down candidate pairs as cognates.
+For some time now, there has been a growing interest in automatic cognate identification techniques. Most approaches for this task focus on finding similarity measures between a pair of words such as orthographic or phonetic similarity \cite{hauer2011clustering} \cite{inkpen2005similarity} \cite{List2016g}. These are used as features for a classifier to identify cognacy between a given word-pair. Surface similarity measures miss out on capturing generalizations beyond string similarity, as cognate words are not always revealingly similar. 
+
+Rama~\shortcite{rama2015automatic} attempt to identify cognates by looking at the common subsequences present in the candidate word pair. For a cognate pair like the English `\textit{Wheel}' and the Sanskrit `\textit{Chakra}', such an approach fails as they have nothing in common with each other orthographically. In fact, even for a pair like English `\textit{Father}' and Latin `\textit{Pater}', a common subsequence approach completely ignores the similarity between the `\textit{Fa}' and `\textit{Pa}' phonemes, which is a possible indication of cognacy between the pair. Thus, there is a need of information about phonological similarity that is beyond surface similarity, such as the sound correspondences that are used in historical linguistics to narrow down candidate pairs as cognates.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{table*}[ht]
@@ -157,7 +159,9 @@ Here $W^y$, $W^h$, $W^r$, $W^t \in  \mathbb{R}^{n_h \times n_h}$ and $w \in \mat
 
 It is known that some languages are more closely related to each other as compared to others. For example from Table~\ref{sample_wordlist} one can see that \textit{Hindi} is more related to \textit{Marathi} than to \textit{French}. That is a candidate word pair with words from \textit{Hindi} and \textit{Marathi} is more likely to be a cognate pair as compared to a word pair with words from \textit{Hindi} and \textit{French}. This information about language relatedness can thus be exploited by using as features a 2-hot encoding vector that represents the respective languages of the two input words. During training, the network can use these features to learn automatically which language pairs are closely related from the data.
 
-Similar to language information, we hypothesise that information about the semantics of the input words can also be useful features for the classifier. The word semantics inherently contain information like the part-of-speech (POS) category of the word, which can be an useful if some POS classes show higher degree of variation in cognates than others. We implement these features using GloVe word embeddings \cite{pennington2014glove}. Word embeddings are distributional representation of words in a low-dimensional space compared to the vocabulary size and they have been shown to capture semantic information about the words inherently. We use the GloVe embedding for the English concept of the input word pair as the concept feature vector.
+Similar to language information, we hypothesise that information about the semantics of the input words can also be useful features for the classifier. The word semantics inherently contain information like the part-of-speech (POS) category of the word. Our initial exploration of the data showed that certain POS categories such as question words or prepositions tend to have greater divergence in their cognate classes as compared to nouns or adjectives.  
+%which can be an useful if some POS classes show higher degree of variation in cognates than others. 
+We implement these features using GloVe word embeddings \cite{pennington2014glove}. Word embeddings are distributional representation of words in a low-dimensional space compared to the vocabulary size and they have been shown to capture semantic information about the words inherently. We use the GloVe embedding for the English concept of the input word pair as the concept feature vector.
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{table*}[ht]
@@ -193,21 +197,22 @@ Testing Samples               & 103,092             & 21,547               & 150
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Experiments}
 
-In the subsections below we describe the datasets that we used and the models against which we compare our models. This is followed by the three different experiments we conducted with our models.
+In the subsections below we describe the datasets that we used and the comparisons we made with our models. This is followed by the three experiments we conducted with the datasets.
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Datasets}
 
-We make use of three datasets in our work which come from three different language families. These families make a good test set as they vary widely in terms of the number of languages, concepts and cognate classes. The first and primary dataset that we use is the IELex Database, which contains cognacy judgements from the Indo-European language family. The dataset is curated by Michael Dunn\footnote{http://ielex.mpi.nl/}. Second, we include a dataset taken from the Austronesian Basic Vocabulary project \cite{greenhillBlust:08}, and a third dataset from the Mayan family \cite{wichmann:2008}. 
+We make use of three datasets in our work which come from three language families. These families make a good test set as they vary widely in terms of the number of languages, concepts and cognate classes. The first and primary dataset that we use is the IELex Database, which contains cognacy judgements from the Indo-European language family. The dataset is curated by Michael Dunn\footnote{http://ielex.mpi.nl/}. Second, we include a dataset taken from the Austronesian Basic Vocabulary project \cite{greenhillBlust:08}, and a third dataset from the Mayan family \cite{wichmann:2008}. 
 
 There are several differences in transcription in each of these datasets. While IELex is available in both IPA and a coarse `Romanized' IPA encoding, the Mayan database is available in the ASJP format (similar to a Romanized IPA) \cite{Brown:08} and the Austronesian has been semi-automatically converted to ASJP \cite{rama2016siamese}. We use subsets of the original databases due to lack of availability of uniform transcription.
 
 The IELex database contains words from 52 languages for over 200 concepts, while the Austronesian contains words from 100 languages and as many concepts, as can be seen in Table~\ref{datastat}. The Mayan dataset is comparatively very small with only 100 concepts from 30 languages. The Austronesian dataset also contains the largest number of cognate classes as compared to the other two. The number of sample pairs obtained from each dataset are mentioned in Table~\ref{C_count}. The small size of the Mayan dataset especially poses a challenge for training the deep learning models which is addressed in the later sections. 
 
-There are also two different methods of evaluation that we follow in our experiments, namely the cross-language evaluation and the cross-concept evaluation. In cross-language evaluation, the training and testing sample pairs are created using exclusive sets of languages, where as in cross-concept they come from exclusive set of concets. This can be done by diving the word list like in Table~\ref{sample_wordlist} on the basis of rows or column, respectively for cross-language or cross-concept, into training and testing sets and then forming the sample pairs from them. Both words in a sample pair always belongs to the same concept or meaning. A sample pair is assigned a positive cognate label if their cognate class ids match. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Evaluation Metric}
+\subsection{Evaluation}
+
+There are two methods of evaluation that we follow in our experiments, namely the \textbf{cross-language} evaluation and \textbf{cross-concept} evaluation. In cross-language evaluation, the training and testing sample pairs are created using exclusive sets of languages, where as in cross-concept they come from exclusive set of concets. This can be done by dividing the word list in Table~\ref{sample_wordlist} on the basis of rows or columns, respectively for cross-language or cross-concept, into training and testing sets and then forming the sample pairs from them. Both words in a sample pair always belong to the same concept or meaning. A sample pair is assigned a positive cognate label if their cognate class ids match. 
 
 We report the \textit{F-score} and the area under the PR curve (\textit{AUC}) as a measure of performance for all the models. \textit{F-score} is computed as the harmonic mean of the \textit{precision} and \textit{recall}\footnote{Precision and Recall is computed on positive labels at 0.5 threshold. Precision = TP/(TP+FP), Recall = TP/(TP+FN), TP: True Positives, FP: False Positives, FN: False Negatives}. Since the dataset is heavily biased and contains a majority of negative cognate sample pairs, we do not use \textit{accuracy} as a measure of performance.
 
@@ -235,16 +240,16 @@ Co-Attention Model                                  & 83.8                      
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Baseline Models}
 
-We compare our model against the following models. 
+We compare our model against a model based on surface similarity (gap-based subsequence) and two deep learning (DL) models as described below:
 
 \textbf{Gap-weighted Subsequences} : This model refers to the common subsequence model \cite{rama2015automatic} mentioned earlier. The author uses a string kernel based approach wherein he defines a vector for a word pair using all common subsequences between them and weighting the subsequence by their gaps in the strings. The results reported for the subsequence model were found by reimplementing the model using the paper as the original code was not available.
 
-\textbf{Phonetic CNN \& Character CNN} : These models are variations of the siamese-style CNN-based models \cite{rama2016siamese}. The models are inspired from CNN networks used for image-similarity tasks. The \textit{Phonetic CNN} model uses the manually defined phonetic feature vectors as character embeddings in the network (but they are fixed during training), whereas the \textit{Character CNN} model uses a 1-hot encoding to represent the different characters. The results reported for these models were found by rerunning the original code from the  author on the prepared datasets\footnote{It can be noted that there is a difference in the reported f-score of the CNN models as compared to the original paper. This is because we report the f-score with respect to the positive labels only, whereas the original paper reported the average f-scores of positive and negative labels (Observed from the implementation in author's code)}.
+\textbf{Phonetic CNN \& Character CNN} : These models are variations of the siamese-style CNN-based models \cite{rama2016siamese}. The models are inspired from CNN networks used for image-similarity tasks. The \textit{Phonetic CNN} model uses the manually defined phonetic feature vectors as character embeddings in the network (but they are fixed during training), whereas the \textit{Character CNN} model uses a 1-hot encoding to represent the different characters. The results reported for these models were found by rerunning the original code from the  author on the prepared datasets\footnote{It can be noted that there is a difference in the reported f-score of the CNN models as compared to the original paper Rama~\shortcite{rama2016siamese}. This is because we report the f-score with respect to the positive labels only, whereas the original paper reported the average f-scores of positive and negative labels (Observed from the implementation in author's code)}.
 
 \textbf{LSTM + No Attention \& LSTM + Uniform Attention} : We also introduced two sanity-check baseline models to test the attention layer of the \textit{CoAtt} model. The \textit{LSTM + No Attention} model removes the Co-Attention layer from the \textit{CoAtt} model, while the \textit{LSTM + Uniform Attention} model does a simple average rather than a weighted average in the attention layer.
 
 %%%%%%%%%%%%%%%%%%%%%%%%
-\begin{table*}[t]
+\begin{table*}[htpb]
 \centering
 \begin{tabular}{lcc}
 \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \multicolumn{2}{c}{\textbf{Mayan}} \\ \cline{2-3} 
@@ -262,26 +267,31 @@ Co-Attention Model                                  & 67.1              & 67.7  
 \end{table*}
 %%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Cross Language Evaluation}
+\subsection{Experiment 1: Cross Language Evaluation}
 
-As can be observed in Table~\ref{CL_res}, the \textit{CoAtt} model performs significantly better than the CNN and the subsequence based models. The \textit{LSTM + No Attention} and \textit{LSTM + Uniform Attention} models reflect the importance of the attention layer, as without it the model does not perform very good. The soft selection procedure of attention is able to highlight the important features of either word automatically that is needed for classification. 
+As can be observed in Table~\ref{CL_res}, the \textit{CoAtt} model performs significantly better than the baseline models (both CNN and subsequence-based). The \textit{LSTM + No Attention} and \textit{LSTM + Uniform Attention} models reflect the importance of the attention layer. The soft selection procedure of attention is able to highlight the important features of either word automatically for the classification task.  
 
-A few additional features added to the \textit{CoAtt} model helps to improve it even further. Initialising the character embeddings with the manually defined vectors (\textit{+ PV} models) increases the \textit{AUC} by around 3\%. Further, addition of the \textit{Concept features} discussed earlier, is also found to be useful (\textit{+ CF} model). The concept features can inituitively help the model to indicate different thresholds to use depending on the kind of variation in cognates observed for that concept.
+The additional features added to the \textit{CoAtt} model help to improve its performance further. Initialising the character embeddings with the manually defined phonetic vectors (\textit{+ PV} models) increases the \textit{AUC} by around 3\%. Further, addition of the \textit{Concept features} discussed earlier, is also found to be useful (\textit{+ CF} model). The concept features can inituitively help the model to indicate different thresholds to use depending on the kind of variation in cognates observed for that concept. 
 
-A key point to note from able~\ref{CL_res} is that the \textit{CoAtt} model does not train well on the Mayan dataset directly. It is found that the loss does not decrease a lot during training as compared to the other models. This poor performance on the Mayan dataset is associated with its small size. The Mayan dataset being significantly smaller than the other datasets, does not prove sufficient for training the \textit{CoAtt} network. We justify this hypothesis subsequently with the \textit{Cross-Family Pretraining} experiment. The addition of \textit{Concept features} significantly improves the \textit{CoAtt} model on the Mayan dataset. The extra information about the meaning of input word pair helps the model to cross the baseline results. 
+The Mayan language family is linguistically and geographically less diverse than the other datasets (see also Table ~\ref{datastat}). The addition of \textit{Concept features} significantly improves the \textit{CoAtt} model on the Mayan dataset. This shows the usefulness of semantic information for cognacy detection when less data is available. For Indo-European and Austronesian, on the other hand, the \textit{CoAtt} performs more effectively than the subsequence models or the Phonetic or Character CNN. 
+
+Table~\ref{CL_res} shows that the \textit{CoAtt} model does not train well on the Mayan dataset directly. It is found that the loss does not decrease a lot during training as compared to the other models. This poor performance on the Mayan dataset is associated with its small size, and relatively fewer number of languages and this does not prove sufficient for training the \textit{CoAtt} network. 
+We justify this hypothesis in the following section with the \textit{Cross-Family Pretraining} experiment.
 
 %%%%%%%%%%%%%%%%%%%%%%
-\subsection{Cross-Family Pretraining Experiment}
+\subsection{Experiment 2: Cross-Family Pretraining}
 
-The three different language families with which we work have completely different origins and are placed across different regions geographically. We test if any notion of language evolution is still shared amongst these independently evolved families. This is done through the joint learning of models. The network is instantiated with the combined character vocabulary of two datasets. Then the model is trained on one dataset till the loss saturated. This is followed by the training on a second dataset, starting from the weights learned from the pre-training. 
+The three different language families with which we work have completely different origins and are placed across different regions geographically. We test whether any notion of language evolution might be shared amongst these independently evolved families. This is done through the joint learning of models. The network is instantiated with the combined character vocabulary of two datasets. Then the model is trained on one dataset till the loss saturated. This is followed by the training on a second dataset, starting from the weights learned from the pre-training. 
 
-It is found that such a joint-training procedure helps the \textit{CoAtt} model on the Mayan dataset significantly. The pretraining procedure is able to provide a good initialisation point to start training on the Mayan dataset. The pretrained models perform significantly better than the baseline models (\textit{PreT} models in Table~\ref{CL_res_2}). This also provides evidence to support our hypothesis that the \textit{CoAtt} was not able to learn on the Mayan dataset because of lack of enough data to train the network, but pre-training the model on other language families helped to show the true potential of the model on the dataset.
+It is found that such a joint-training procedure helps the \textit{CoAtt} model on the Mayan dataset significantly. The pretraining procedure is able to provide a good initialisation point to start training on the Mayan dataset. The pretrained models perform better than the baseline models (\textit{PreT} models in Table~\ref{CL_res_2}). This shows that pre-training \textit{CoAtt} is helpful and also points to the fact that some regular sound changes could potentially be shared across language families (keeping in mind that the datasets are coarsely transcribed, with a few similarities that may be coincidental). 
+
+%This also provides evidence to support our hypothesis that the \textit{CoAtt} was not able to learn on the Mayan dataset because of lack of enough data to train the network, but pre-training the model on other language families helped to show the true potential of the model on the dataset. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Cross Concept Evaluation}
+\subsection{Experiment 3: Cross Concept Evaluation}
 
 %%%%%%%%%%%%%%%%%%%%%%%%
-\begin{table*}[t]
+\begin{table*}[htpb]
 \centering
 \begin{tabular}{lcccccc}
 \multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \multicolumn{2}{c}{\textbf{Indo-European}} \\ \cline{2-3} 
@@ -300,18 +310,22 @@ Co-Attention Model                    & 64.8                  & 69.8            
 \end{table*}
 %%%%%%%%%%%%%%%%%%%%%%%%
 
-The results for the cross concept evaluation tests are listed in Table~\ref{CC_res}. It is observed that the \textit{CoAtt} model is able to reach close to the performance of the CNN based models. With the initialised embeddings and extra \textit{Language features}, the model performs slightly better than the baselines.
+The cross-concept evaluation test can be thought of as a more rigorous test as the models have not seen any of the similar word structures during training. The testing sample words are from completely different concepts. Words coming from different concepts would have different sequence structures altogether. A model that predicts cognate similarity in such a case would have to exploit phonetic similarity information in the context of cognates. 
 
-The lower performance values on the cross-concept task as compared to the cross-language task can be associated to the nature of this experiment. The cross-concept evaluation test can be thought of as a more rigorous test as the models have not seen any of the similar word structures during training. The testing sample words are from absolutely different concepts. Words coming from different concepts would have different sequence structures altogether and for a model to predict cognate similarity in such a case would definitely have to exploit phoneme similarity information in the context of cognates. Even for a human cognate identifier, the task is unnatural as traditionally a new word is assigned to a cognate class after is compared against words of the same meaning that are known to be cognates, that is there is already sufficient cognate information about that concept available to the human.
+The results for the cross concept evaluation tests are listed in Table~\ref{CC_res}. It is observed that the \textit{CoAtt} model is able to reach close to the performance of the CNN based models. With the initialised embeddings and extra \textit{Language features}, the model performs slightly better than the baselines. We note that the initialized embeddings consisting of phonetic feature vectors are useful for this task as compared to the randomly initialized cases. 
+
+The lower performance values on the cross-concept task as compared to the cross-language task can be associated due to the nature of this experiment.  Even for a human historical linguist, this task is unnatural as traditionally a new word is assigned to a cognate class after it is compared against words of the same meaning that are known to be cognates. Therefore, there is sufficient information about that concept available to a human being that is peforming this task. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Hindi-Marathi Domain Adaptation}
 
-As we had mentioned earlier, we also applied our \textit{CoAtt} model to the domain of Hindi-Marathi. The model used was trained on the Indo-European dataset with IPA transcription. It should be noted that the Indo-European database contains instances from Marathi, but it does not directly contain instances from Hindi. However, it does contain words from Urdu and Bhojpuri (Bihari) which are also languages closely related to Hindi and share many words of the vocabulary with Hindi.
+We also applied our \textit{CoAtt} model to the domain of Hindi-Marathi. The model used was trained on the Indo-European dataset with IPA transcription. It should be noted that the Indo-European database contains instances from Marathi, but it does not directly contain instances from Hindi. However, it does contain words from Urdu and Bhojpuri (Bihari) which are also languages closely related to Hindi and share many words of the vocabulary with Hindi.
 
-We used the TDIL sentence-aligned corpus. This dataset provides a large part of the vocabulary from the both the languages to search for cognates. The corpus contains sentences from Hindi-Marathi that are POS tagged and transcribed in Devanagari. We specifically extracted word pairs from each sentence with the NOUN and VERB tags. Since the sentences are not word aligned, we extracted candidate word pairs for testing by choosing the first word with the same tag in either sentence as the candidate pair. The words were converted from Devanagari to IPA using a rule-based system and finally fed into the model. We extracted 16K pairs from Nouns and 9K pairs from Verbs.
+We used a Hindi-Marathi parallel corpus downloaded from TDIL. This dataset provides a large part of the vocabulary from the both the languages to search for cognates. The corpus contains sentences from Hindi-Marathi that are POS tagged and transcribed in Devanagari. We specifically extracted word pairs from each sentence with the NOUN and VERB tags. Since the sentences are not word aligned, we extracted candidate word pairs for testing by choosing the first word with the same tag in either sentence as the candidate pair. The words were converted from Devanagari to IPA using a rule-based system and finally fed into the model. We extracted 16K pairs from Nouns and 9K pairs from Verbs.
 
-On first observation it seems that the model is doing a fair job of aligning similar word pairs that are possibly cognates. We tested the performance of the model by randomly sampling 50 word pairs each from NOUNs and VERBs and manually annotating them. We found that our model gives an 80\% accuracy on Verbs and 74\% accuracy on Nouns. The model is able to find word pairs with a common stem without the need of lemmetization. In the case of verbs, it can be observed that the model is able to see through the inflections on the verbs to predict the pairs with similar stems as cognates. 
+Our model is does a fair job of aligning similar word pairs that are possibly cognates. We tested the performance of the model by randomly sampling 50 word pairs each from NOUNs and VERBs and manually annotating them. We found that our model gives an 80\% accuracy on Verbs and 74\% accuracy on Nouns. The model is able to find word pairs with a common stem without the need of lemmatization. In the case of verbs, it can be observed that the model is able to see through the inflections on the verbs to predict the pairs with similar stems as cognates. 
+
+This implies that the model can be used to find cognate pairs across closely related languages in order to share resources that are missing in one of the pairs. As an example, lexical resource sharing between Urdu and Hindi was carried out for verb subcategorization frames \cite{bhat-EtAl:2014:LT4CloseLang}.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Analysis}
@@ -320,7 +334,7 @@ On first observation it seems that the model is doing a fair job of aligning sim
 
 \subsection{Concept Wise Performance}
 
-In this analysis of the models, we looked at the performance of various models over the individual concepts in the test set samples. It is observed that the performance of \textit{CoAtt} is more uniform throughout the concepts as compared to more varied distribution of the subsequence model. For concepts like WHAT, WHO, WHERE, HOW, THERE where the subsequence model performed poorly, the \textit{CoAtt} model is able to acheive high scores. The \textit{CoAtt} model performs poorly on a few selected concepts like AT, IF, IN, BECAUSE, GIVE. By looking at the samples, it is found that these concepts are heavily biased by negative samples and contain only a handful of positive cognate pair examples. In fact the subsequence model could not perform at all on these concepts as the highly biased data is coupled with almost no overlap of subsequences.
+In this analysis of the models, we looked at the performance of various models over the individual concepts in the test set samples. It is observed that the performance of \textit{CoAtt} is more uniform throughout the concepts as compared to more varied distribution of the subsequence model. For concepts like WHAT, WHO, WHERE, HOW, THERE where the subsequence model performed poorly, the \textit{CoAtt} model is able to acheive high scores. The \textit{CoAtt} model performs poorly on a concepts like AT, IF, IN, BECAUSE, GIVE. By looking at the samples, it is found that these concepts are heavily biased by negative samples and contain only a handful of positive cognate pair examples. \texttt{Are they also very lexically divergent?} In fact the subsequence model could not perform at all on these concepts as the highly biased data is coupled with almost no overlap of subsequences. \texttt{Actually need a comparison with CNN also here. How is it doing with AT, IF, IN ? }
 
 \begin{table}[h]
 \centering
@@ -342,7 +356,11 @@ AT               & \textit{0.25}  & \textit{0}
 
 \subsection{Transcription Tests}
 
-As mentioned in an earlier section, the Indo-European dataset is available to us different transcriptions. The dataset is trascribed in ASJP like the other datasets and is also transcribed in IPA, which is a much finer representation as compared to ASJP. On comparing the models trained on these different transcriptions of the same data, it is found that the IPA model performs poorly on some concepts like GUTS, SWIM, WIPE, WHITE, SING where the ASJP model gives good results. On the other hand, the IPA model performs relatively better on concepts like FIRE, SLEEP, PULL, SAY and SMOOTH. By looking at specific examples, we find that for concepts like FIRE and PULL, the ASJP model gives many false positives which can be a fault due to the coarser representation of the ASJP character.
+One of the three available datasets, viz. the Indo-European dataset is available in two different transcriptions. The dataset is trascribed in ASJP like the other datasets and is also transcribed in IPA, which is a much finer representation as compared to ASJP. 
+\texttt{Not sure what Table below is really telling us: the figure seems more informative. also avoid screenshots here, there is a TIPA latex package that can be used to show one or two examples using IPA. Also what about those trascription results on CoAtt? }
+%On comparing the models trained on these different transcriptions of the same data, it is found that the IPA model performs poorly on some concepts like GUTS, SWIM, WIPE, WHITE, SING where the ASJP model gives good results. On the other hand, the IPA model performs relatively better on concepts like FIRE, SLEEP, PULL, SAY and SMOOTH. 
+
+By looking at specific examples, we find that for concepts like FIRE and PULL, the ASJP model gives many false positives which can be a fault due to the coarser representation of the ASJP character.
 
 \begin{table}[h]
 \centering
@@ -369,11 +387,11 @@ SAY              & \textit{0.90} & \textit{0.51}
   \label{disssim}
 \end{figure}
 
-Figure 2 shows few test sample pairs from the concept SWIM. It is observed that for all of these samples, the IPA model falsely predicts negatives whereas the ASJP model is correctly able to predict them all as cognates. Here perhaps the very find representation in IPA throws the model's judgment off and its not able to pick up the correspondence correctly. It is also interesting to note that for all of these samples, adding the \textit{concept feature} of SWIM to the \textit{CoAtt + Concept Features} model makes it predict all of them as cognates. Thus, perhaps adding the concept features signals the model to relax the degree of overlapping of phonemes and become less strict in predicting cognates.
+Figure 2 shows few test sample pairs from the concept SWIM. It is observed that for all of these samples, the IPA model falsely predicts negatives whereas the ASJP model is correctly able to predict them all as cognates. Here perhaps the very fine representation in IPA throws the model's judgment off and its not able to pick up the correspondence correctly. It is also interesting to note that for all of these samples, adding the \textit{concept feature} of SWIM to the \textit{CoAtt + Concept Features} model makes it predict all of them as cognates. Thus, perhaps adding the concept features signals the model to relax the degree of overlapping of phonemes and become less strict in predicting cognates.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Discussion}
-- Co Attention is effective at character level. Attention is very importnat as without it the rnn is not able to perform.
+- Co Attention is effective at character level. Attention is very important as without it the rnn is not able to perform.
 - Dataset size matters a lot. Particularly for small language families.
 - Transcription doesnt really matter.
 - Concept features help.
