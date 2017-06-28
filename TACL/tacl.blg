@@ -3,47 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tacl.aux
 The style file: acl2012.bst
 Database file #1: tacl.bib
-Warning--I didn't find a database entry for "bhat-EtAl:2014:LT4CloseLang"
 Warning--there's a number but no volume in Brown:08
-You've used 20 entries,
+You've used 21 entries,
             2490 wiz_defined-function locations,
-            667 strings with 9182 characters,
-and the built_in function-call counts, 9921 in all, are:
-= -- 1033
-> -- 411
-< -- 13
-+ -- 143
-- -- 140
-* -- 688
-:= -- 1498
-add.period$ -- 86
-call.type$ -- 20
-change.case$ -- 149
-chr.to.int$ -- 20
-cite$ -- 21
-duplicate$ -- 454
-empty$ -- 760
-format.name$ -- 163
-if$ -- 2177
+            672 strings with 8914 characters,
+and the built_in function-call counts, 10575 in all, are:
+= -- 1101
+> -- 449
+< -- 14
++ -- 157
+- -- 154
+* -- 740
+:= -- 1599
+add.period$ -- 91
+call.type$ -- 21
+change.case$ -- 160
+chr.to.int$ -- 21
+cite$ -- 22
+duplicate$ -- 479
+empty$ -- 802
+format.name$ -- 178
+if$ -- 2318
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 20
-newline$ -- 123
-num.names$ -- 62
-pop$ -- 197
+missing$ -- 21
+newline$ -- 129
+num.names$ -- 65
+pop$ -- 207
 preamble$ -- 1
-purify$ -- 169
+purify$ -- 181
 quote$ -- 0
-skip$ -- 365
+skip$ -- 387
 stack$ -- 0
-substring$ -- 490
-swap$ -- 163
-text.length$ -- 13
+substring$ -- 519
+swap$ -- 173
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 160
+type$ -- 168
 warning$ -- 1
-while$ -- 73
-width$ -- 23
-write$ -- 284
-(There were 2 warnings)
+while$ -- 78
+width$ -- 24
+write$ -- 300
+(There was 1 warning)

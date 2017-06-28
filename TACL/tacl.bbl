@@ -8,13 +8,20 @@ Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio.
   translate.
 \newblock In {\em ICLR 2015}.
 
+\bibitem[\protect\citename{Bhat \bgroup et al.\egroup
+  }2014]{bhat-EtAl:2014:LT4CloseLang}
+Riyaz~Ahmad Bhat, Naman Jain, Ashwini Vaidya, Martha Palmer, Tafseer~Ahmed
+  Khan, Dipti~Misra Sharma, and James Babani.
+\newblock 2014.
+\newblock Adapting predicate frames for urdu propbanking.
+\newblock In {\em Proceedings of the EMNLP 2014 Workshop on Language Technology
+  for Closely Related Languages and Language Variants}, pages 47--55. ACL.
+
 \bibitem[\protect\citename{Bowman \bgroup et al.\egroup }2015]{snli:emnlp2015}
 Samuel~R. Bowman, Gabor Angeli, Christopher Potts, and Christopher~D. Manning.
 \newblock 2015.
 \newblock A large annotated corpus for learning natural language inference.
-\newblock In {\em Proceedings of the 2015 Conference on Empirical Methods in
-  Natural Language Processing (EMNLP)}. Association for Computational
-  Linguistics.
+\newblock In {\em Proceedings of the 2015 Conference on EMNLP}. ACL.
 
 \bibitem[\protect\citename{Brown \bgroup et al.\egroup }2008]{Brown:08}
 Cecil~H. Brown, Eric~W Holman, Soren Wichmann, and Viveka Villupillai.
@@ -52,18 +59,16 @@ Diana Inkpen, Oana Frunza, and Grzegorz Kondrak.
 Grzegorz Kondrak, Daniel Marcu, and Kevin Knight.
 \newblock 2003.
 \newblock Cognates can improve statistical translation models.
-\newblock In {\em Proceedings of the 2003 Conference of the North American
-  Chapter of the Association for Computational Linguistics on Human Language
-  Technology: companion volume of the Proceedings of HLT-NAACL 2003--short
-  papers-Volume 2}, pages 46--48. Association for Computational Linguistics.
+\newblock In {\em Proceedings of HLT-NAACL 2003--short papers- Volume 2},
+  NAACL-Short '03, pages 46--48. ACL.
 
 \bibitem[\protect\citename{List \bgroup et al.\egroup }2016]{List2016g}
 Johann-Mattis List, Philippe Lopez, and Eric Bapteste.
 \newblock 2016.
 \newblock Using sequence similarity networks to identify partial cognates in
   multilingual wordlists.
-\newblock In {\em Proceedings of the Association of Computational Linguistics
-  2016 (Volume 2: Short Papers)}, pages 599--605, Berlin.
+\newblock In {\em Proceedings of the ACL 2016 (Volume 2: Short Papers)}, pages
+  599--605, Berlin.
 
 \bibitem[\protect\citename{Luong \bgroup et al.\egroup }2015]{mtattention}
 Minh-Thang Luong, Hieu Pham, and Christopher~D Manning.
@@ -92,17 +97,14 @@ Taraka Rama.
 \newblock 2015.
 \newblock Automatic cognate identification with gap-weighted string
   subsequences.
-\newblock In {\em Proceedings of the 2015 Conference of the North American
-  Chapter of the Association for Computational Linguistics: Human Language
-  Technologies, May 31--June 5, 2015 Denver, Colorado, USA}, pages 1227--1231.
+\newblock In {\em Proceedings of the 2015 Conference of NAACL: Human Language
+  Technologies}, pages 1227--1231.
 
 \bibitem[\protect\citename{Rama}2016]{rama2016siamese}
 Taraka Rama.
 \newblock 2016.
 \newblock Siamese convolutional networks for cognate identification.
-\newblock In {\em Proceedings of COLING 2016, the 26th International Conference
-  on Computational Linguistics: Technical Papers, Osaka, Japan}, pages
-  1018--1027.
+\newblock In {\em Proceedings of COLING 2016}, pages 1018--1027.
 
 \bibitem[\protect\citename{Rockt{\"a}schel \bgroup et al.\egroup
   }2016]{rocktaschel2016reasoning}
@@ -116,8 +118,7 @@ Tim Rockt{\"a}schel, Edward Grefenstette, Karl~Moritz Hermann, Tomas Kocisky,
 Michel Simard, George~F Foster, and Pierre Isabelle.
 \newblock 1993.
 \newblock Using cognates to align sentences in bilingual corpora.
-\newblock In {\em Proceedings of the 1993 conference of the Centre for Advanced
-  Studies on Collaborative research: distributed computing-Volume 2}, pages
+\newblock In {\em Proceedings of the 1993 Conference of CASCON}, pages
   1071--1082. IBM Press.
 
 \bibitem[\protect\citename{Singh and Surana}2007]{Singh:07b}
