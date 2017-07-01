@@ -28,16 +28,16 @@
 
 \title{Discovering Cognates Using LSTM Networks}
 
-\author{First Author \\
-  Affiliation / Address line 1 \\
-   Affiliation / Address line 2 \\
-   Affiliation / Address line 3 \\
-   {\tt email@domain} \\\And
-   Second Author \\
-   Affiliation / Address line 1 \\
-   Affiliation / Address line 2 \\
-   Affiliation / Address line 3 \\
-   {\tt email@domain} \\}
+% \author{First Author \\
+%   Affiliation / Address line 1 \\
+%    Affiliation / Address line 2 \\
+%    Affiliation / Address line 3 \\
+%    {\tt email@domain} \\\And
+%    Second Author \\
+%    Affiliation / Address line 1 \\
+%    Affiliation / Address line 2 \\
+%    Affiliation / Address line 3 \\
+%    {\tt email@domain} \\}
 
 %\author{Shantanu Kumar \and Ashwini Vaidya \and Sumeet Agarwal \\ 
 %  Indian Institute of Technology Delhi
@@ -338,9 +338,9 @@ This implies that the model can be used to find cognate pairs across closely rel
 
 \subsection{Concept Wise Performance}
 
-We examined the performance of the models over individual concepts in the test set samples for the Indo-European dataset. In Table \ref{tbl:pos}, we compare the peformance of our model with CNN and the subsequence models across various part- of-speech categories. We find that the performance of \textit{CoAtt} is more consistent throughout the categories as compared to the more varied distribution of the other models. 
+We examined the performance of the models over individual concepts in the test set samples for the Indo-European dataset. In Table \ref{tbl:pos}, we compare the peformance of our model with CNN and the subsequence models across various part-of-speech categories. We find that the performance of \textit{CoAtt} is more consistent throughout the categories as compared to the more varied distribution of the other models. 
 
-Table \ref{tbl:indconcept} also examines particular concepts which consist of words that are lexically divergent. For example, \textit{Hvad} in Danish and \textit{Que} in Spanish both belong to the concept WHAT. These concepts are also more challenging because they contain a large number of cognate classes with only a handful of positive cognate pair examples. This results in a bias in the training data due to the presence of negative samples. 
+Table \ref{tbl:indconcept} also examines particular concepts which consist of words that are lexically divergent. For example, \textit{Hvad} in Danish and \textit{Que} in Spanish are cognates which both belong to the concept WHAT. These concepts are also more challenging because they contain a large number of cognate classes with only a handful of positive cognate pair examples. This results in a bias in the training data due to the presence of negative samples. 
 
 For these concepts, we find that the \textit{CoAtt} model is able to achieve high scores, but in comparison, both the subsequence model and the CNN model perform poorly. For the most challenging concepts e.g. AT, IF, BECAUSE, GIVE, the \textit{CoAtt} model is still able to perform almost as well as the CNN model, whereas the subsequence model is worse due to the almost zero overlap of subsequences.
 
