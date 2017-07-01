@@ -163,11 +163,12 @@ Similar to language information, we hypothesise that information about the seman
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{table*}[ht]
 \centering
-\begin{tabular}{l|c|c|c|c}
+\begin{tabular}{|l|c|c|c|c|}
+\hline
 \textbf{Language Family} & \textbf{Languages} & \textbf{Concepts} & \textbf{Unique Lexical Items} & \textbf{Cognate Classes} \\ \hline
 Indo-European   & 52        & 208      & 8622                & 2528            \\
 Austronesian    & 100       & 210      & 10079                & 4863            \\
-Mayan           & 30        & 100      & 1629                 & 858            
+Mayan           & 30        & 100      & 1629                 & 858          \\ \hline  
 \end{tabular}
 \caption{Statistics about the different language families}
 \label{datastat}
@@ -175,16 +176,18 @@ Mayan           & 30        & 100      & 1629                 & 858
 
 \begin{table*}[t]
 \centering
-\begin{tabular}{lcccccc}
-\multicolumn{1}{c}{\textbf{}} & \multicolumn{2}{c}{\textbf{Indo-European}} & \multicolumn{2}{c}{\textbf{Austronesian}} & \multicolumn{2}{c}{\textbf{Mayan}} \\ \cline{2-7}
-\multicolumn{1}{c}{}          & \textit{Total}               & \textit{Positive}             & \textit{Total}               & \textit{Positive}            & \textit{Total}           & \textit{Positive}         \\ \hline
-\multicolumn{1}{c}{\textbf{Cross Language Evaluation}} & \multicolumn{2}{c}{\textbf{}}               &                 &                &             &             \\
+\begin{tabular}{|l|cc|cc|cc|}
+\cline{2-7}
+\multicolumn{1}{c}{\textbf{}} & \multicolumn{2}{|c|}{\textbf{Indo-European}} & \multicolumn{2}{c|}{\textbf{Austronesian}} & \multicolumn{2}{c|}{\textbf{Mayan}} \\ \cline{2-7}
+\multicolumn{1}{c|}{}          & \textit{Total}               & \textit{Positive}             & \textit{Total}               & \textit{Positive}            & \textit{Total}           & \textit{Positive}         \\ \hline
+\textbf{Cross Language Evaluation}                      &                      &                      &                 &                &             &             \\
 Training Samples              & 218,429             & 56,678               & 333,626             & 96,356              & 25,473          & 9,614            \\
 Testing Samples               & 9,894               & 2,188                & 20,799              & 5,296               & 1,458           & 441             \\
                                                        &                      &                      &                 &                &             &             \\ \hline
 \textbf{Cross Concept Evaluation}                      &                      &                      &                 &                &             &             \\
 Training Samples              & 223,666             & 61,856               & 375,693             & 126,081             & 28,222          & 10.482           \\
-Testing Samples               & 103,092             & 21,547               & 150,248             & 41,595              & 12,344          & 4,297                       
+Testing Samples               & 103,092             & 21,547               & 150,248             & 41,595              & 12,344          & 4,297                       \\ 
+                                                       &                      &                      &                 &                &             &             \\ \hline
 \end{tabular}
 \caption{Number of word pairs obtained for both modes of evaluation from different language families}
 \label{C_count}
@@ -214,9 +217,10 @@ There are two methods of evaluation that we follow in our experiments, namely th
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{table*}[t]
 \centering
-\begin{tabular}{lcccccc}
-\multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \multicolumn{2}{c}{\textbf{Indo-European}}                              & \multicolumn{2}{c}{\textbf{Austronesian}} & \multicolumn{2}{c}{\textbf{Mayan}} \\ \cline{2-7} 
-\multicolumn{1}{c}{}                                & \multicolumn{1}{l}{\textit{F-Score}} & \multicolumn{1}{l}{\textit{AUC}} & \textit{F-Score}      & \textit{AUC}      & \textit{F-Score}  & \textit{AUC}   \\ \hline 
+\begin{tabular}{|l|cc|cc|cc|}
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\textbf{Model}}} & \multicolumn{2}{c}{\textbf{Indo-European}}                              & \multicolumn{2}{|c|}{\textbf{Austronesian}} & \multicolumn{2}{|c|}{\textbf{Mayan}} \\ \cline{2-7} 
+\multicolumn{1}{|c|}{}                                & \textit{F-Score} & \textit{AUC} & \textit{F-Score}      & \textit{AUC}      & \textit{F-Score}  & \textit{AUC}   \\ \hline 
 Gap-Weighted Subsequence                            & 59.0                                 & 75.5                             & 58.8                  & 68.9              & 71.8              & 81.8           \\
 Phonetic CNN                                        & 73.7                                 & 86.1                             & 54.6                  & 68.0              & 72.8              & 85.0           \\
 Character CNN                                       & 75.3                                 & 85.3                             & 62.2                  & 71.6              & 75.9              & 85.7           \\
@@ -224,7 +228,7 @@ LSTM + No Attention                                 & 56.7                      
 LSTM + Uniform Attention                            & 52.8                                 & 59.4                             & 49.8                  & 52.7              & 60.8              & 66.1           \\ \hline
 Co-Attention Model                                  & 83.8                                 & 89.2                             & 69.0                  & 77.5              & 67.1              & 67.7           \\
 \quad + PV                                                & 85.1                                 & 92.4                             & 70.2                  & 79.3              & 63.6              & 71.3           \\
-\quad + PV + CF                                           & \textbf{86.2}                        & \textbf{93.0}                    & \textbf{70.5}         & \textbf{79.7}     & \textbf{81.5}              & \textbf{89.0}
+\quad + PV + CF                                           & \textbf{86.2}                        & \textbf{93.0}                    & \textbf{70.5}         & \textbf{79.7}     & \textbf{81.5}              & \textbf{89.0} \\ \hline
 \end{tabular}
 \caption{Cross Language Evaluation Results \quad [PV: \textit{Phonetic Feature Vectors}, CF: \textit{Concept Features}]}
 \label{CL_res}
@@ -247,16 +251,17 @@ We compare our model against a model based on surface similarity (subsequence mo
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{table*}[htpb]
 \centering
-\begin{tabular}{lcc}
-\multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \multicolumn{2}{c}{\textbf{Mayan}} \\ \cline{2-3} 
-\multicolumn{1}{c}{}                                & \textit{F-Score}  & \textit{AUC}   \\ \hline
+\begin{tabular}{|l|cc|}
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\textbf{Model}}} & \multicolumn{2}{c|}{\textbf{Mayan}} \\ \cline{2-3} 
+\multicolumn{1}{|c|}{}                                & \textit{F-Score}  & \textit{AUC}   \\ \hline
 Gap-Weighted Subsequence                            & 71.8              & 81.8           \\
 Phonetic CNN                                        & 72.8              & 85.0           \\
 Character CNN                                       & 75.9              & 85.7           \\ \hline
 Co-Attention Model                                  & 67.1              & 67.7           \\
 \quad + PV                                          & 63.6              & 71.3           \\
 \quad + PV + PreT (Indo-European)                   & 82.5              & 90.6           \\
-\quad + PV + PreT (Austronesian)                    & \textbf{83.5}     & \textbf{91.2} 
+\quad + PV + PreT (Austronesian)                    & \textbf{83.5}     & \textbf{91.2}  \\ \hline
 \end{tabular}
 \caption{Cross Language Evaluation Results for Mayan Dataset with Pre-Training \newline [PV: \textit{Phonetic Feature Vectors}, PreT: \textit{Pre-Training on another dataset}]}
 \label{CL_res_2}
@@ -289,9 +294,10 @@ It is found that such a joint-training procedure helps the \textit{CoAtt} model 
 %%%%%%%%%%%%%%%%%%%%%%%%
 \begin{table*}[htpb]
 \centering
-\begin{tabular}{lcccccc}
-\multicolumn{1}{c}{\multirow{2}{*}{\textbf{Model}}} & \multicolumn{2}{c}{\textbf{Indo-European}} \\ \cline{2-3} 
-\multicolumn{1}{c}{}                                & \textit{F-Score}      & \textit{AUC}    \\ \hline
+\begin{tabular}{|l|cc|}
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\textbf{Model}}} & \multicolumn{2}{c|}{\textbf{Indo-European}} \\ \cline{2-3} 
+\multicolumn{1}{|c|}{}                                & \textit{F-Score}      & \textit{AUC}    \\ \hline
 Gap-weighted Subsequence              & 51.6                  & 62.0            \\
 Phonetic CNN + LF                     & 66.4                  & 73.2            \\
 Character CNN + LF                    & 63.5                  & 70.5            \\ \hline
@@ -299,7 +305,7 @@ Co-Attention Model                    & 64.8                  & 69.8            
 \quad + CF                            & 64.1                  & 70.6            \\
 \quad + LF                            & 65.6                  & 70.8            \\
 \quad + PV + CF                       & 69.0                  & 74.9            \\
-\quad + PV + LF                       & \textbf{69.1}                  & \textbf{75.0}
+\quad + PV + LF                       & \textbf{69.1}                  & \textbf{75.0} \\ \hline
 \end{tabular}
 \caption{Cross Concept Evaluation Results for Indo-European \newline [PV: \textit{Phonetic Feature Vectors}, CF: \textit{Concept Features}, LF: \textit{Language Features}]}
 \label{CC_res}
@@ -332,7 +338,8 @@ We observed the performance of the models over individual concepts in the test s
 
 \begin{table}[h]
 \centering
-\begin{tabular}{cccc}
+\begin{tabular}{|c|c|c|c|}
+\hline
 \textbf{POS} & \textbf{CoAtt} & \textbf{CNN} & \textbf{Subseq} \\ \hline
 Noun             & \textit{0.80}  & \textit{0.74}  & \textit{0.66}   \\
 Pronoun          & \textit{0.73}  & \textit{0.52}  & \textit{0.22}   \\
@@ -340,14 +347,15 @@ Verb             & \textit{0.82}  & \textit{0.76}  & \textit{0.62}   \\
 Adverb           & \textit{0.76}  & \textit{0.63}  & \textit{0.50}   \\
 Adjective        & \textit{0.80}  & \textit{0.65}  & \textit{0.60}   \\
 Preposition      & \textit{0.63}  & \textit{0.59}  & \textit{0.30}   \\
-Determiner       & \textit{0.85}  & \textit{0.74}  & \textit{0.38}   
+Determiner       & \textit{0.85}  & \textit{0.74}  & \textit{0.38}   \\ \hline
 \end{tabular}
 \caption{F-Scores for various model on different POS categories [\textit{CoAtt}: Co-attention model, \textit{CNN}: Phonetic CNN model, \textit{Subseq}: Gap-weighted subsequence model] }
 \end{table}
 
 \begin{table}[h]
 \centering
-\begin{tabular}{cccc}
+\begin{tabular}{|c|c|c|c|}
+\hline
 \textbf{Concept} & \textbf{CoAtt} & \textbf{CNN} & \textbf{Subseq} \\ \hline
 WHAT             & \textit{0.97}  & \textit{0.39}  & \textit{0.20}   \\
 THERE            & \textit{0.86}  & \textit{0.78}  & \textit{0.17}   \\
@@ -358,7 +366,7 @@ IN               & \textit{0.70}  & \textit{0.64}  & \textit{0.17}   \\
 GIVE             & \textit{0.56}  & \textit{0.56}  & \textit{0.31}   \\
 AT               & \textit{0.50}  & \textit{0.50}  & \textit{0.29}   \\
 IF               & \textit{0.46}  & \textit{0.33}  & \textit{0.00}   \\
-BECAUSE          & \textit{0.33}  & \textit{0.00}  & \textit{0.00}   
+BECAUSE          & \textit{0.33}  & \textit{0.00}  & \textit{0.00}   \\ \hline
 \end{tabular}
 \caption{F-Scores for various model on different concepts \newline [\textit{CoAtt}: Co-attention model, \textit{CNN}: Phonetic CNN model, \textit{Subseq}: Gap-weighted subsequence model] }
 \end{table}
@@ -369,12 +377,13 @@ The Indo-European dataset, as we had mentioned earlier, is available in two diff
 
 \begin{table}[th]
 \centering
-\begin{tabular}{lcccc}
-\multicolumn{1}{c}{\multirow{3}{*}{\textbf{Model}}} & \multicolumn{2}{c}{\textbf{Indo-European}} & \multicolumn{2}{c}{\textbf{Indo-European}} \\
-\multicolumn{1}{c}{} & \multicolumn{2}{c}{\textbf{(ASJP)}} & \multicolumn{2}{c}{\textbf{(IPA)}} \\ \cline{2-5}  
-\multicolumn{1}{c}{} & \multicolumn{1}{l}{\textit{F-Score}} & \multicolumn{1}{l}{\textit{AUC}} & \textit{F-Score} & \textit{AUC} \\ \hline 
+\begin{tabular}{|l|cc|cc|}
+\hline
+\multicolumn{1}{|c|}{\multirow{3}{*}{\textbf{Model}}} & \multicolumn{2}{c|}{\textbf{Indo-European}} & \multicolumn{2}{c|}{\textbf{Indo-European}} \\
+\multicolumn{1}{|c|}{} & \multicolumn{2}{c|}{\textbf{(ASJP)}} & \multicolumn{2}{c|}{\textbf{(IPA)}} \\ \cline{2-5}  
+\multicolumn{1}{|c|}{} & \textit{F-Score} & \textit{AUC} & \textit{F-Score} & \textit{AUC} \\ \hline 
 CoAtt             & 83.8       & 89.2      & 82.2     & 89.1      \\
-CoAtt + CF        & 83.5       & 90.5      & 82.1     & 90.7      
+CoAtt + CF        & 83.5       & 90.5      & 82.1     & 90.7      \\ \hline
 \end{tabular}
 \caption{Cross Language Evaluation Transcription Tests \quad [CF: \textit{Concept Features}]}
 \label{CL_res_tran}
@@ -382,16 +391,17 @@ CoAtt + CF        & 83.5       & 90.5      & 82.1     & 90.7
 
 \begin{table}[h]
 \centering
-\begin{tabular}{cc|cc}
-\multicolumn{2}{c}{\textbf{ASJP}} & \multicolumn{2}{c}{\textbf{IPA}} \\ \hline
-\textbf{Word A}  & \textbf{Word B} & \textbf{Word A} & \textbf{Word B}  \\ \hline
+\begin{tabular}{|cc|cc|}
+\hline
+\multicolumn{2}{|c|}{\textbf{ASJP}} & \multicolumn{2}{c|}{\textbf{IPA}} \\ \hline
+\textit{Word A}  & \textit{Word B} & \textit{Word A} & \textit{Word B}  \\ \hline
 swim    & sinda     & sw\textipa{I}m    & 's\textipa{I}n\textipa{\r*d}a  \\
 swim    & zwem3n    & sw\textipa{I}m    & zw\textipa{E}m\textipa{@}n  \\
 swim    & svim3n    & sw\textipa{I}m    & \textipa{S}v\textipa{I}m\textipa{@}n  \\
 swim    & swem3     & sw\textipa{I}m    & 's\textipa{VF}m\textipa{:@}  \\
-swim    & sima      & sw\textipa{I}m    & 'sim\textipa{:}a  
+swim    & sima      & sw\textipa{I}m    & 'sim\textipa{:}a  \\ \hline
 \end{tabular}
-\caption{Sample word pairs from the concept SWIM. All samples are cognate pairs.}
+\caption{Sample word pairs from the concept SWIM from Indo-European dataset. All samples are cognate pairs.}
 \label{dissim_ex}
 \end{table}
 
