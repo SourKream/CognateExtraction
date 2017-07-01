@@ -28,20 +28,20 @@
 
 \title{Discovering Cognates Using LSTM Networks}
 
-% \author{First Author \\
-%   Affiliation / Address line 1 \\
-%   Affiliation / Address line 2 \\
-%   Affiliation / Address line 3 \\
-%   {\tt email@domain} \\\And
-%   Second Author \\
-%   Affiliation / Address line 1 \\
-%   Affiliation / Address line 2 \\
-%   Affiliation / Address line 3 \\
-%   {\tt email@domain} \\}
+\author{First Author \\
+  Affiliation / Address line 1 \\
+   Affiliation / Address line 2 \\
+   Affiliation / Address line 3 \\
+   {\tt email@domain} \\\And
+   Second Author \\
+   Affiliation / Address line 1 \\
+   Affiliation / Address line 2 \\
+   Affiliation / Address line 3 \\
+   {\tt email@domain} \\}
 
-\author{Shantanu Kumar \and Ashwini Vaidya \and Sumeet Agarwal \\ 
-  Indian Institute of Technology Delhi
-  \\ {\tt \{ee1130798, ird11278, sumeet\}@iitd.ac.in}}
+%\author{Shantanu Kumar \and Ashwini Vaidya \and Sumeet Agarwal \\ 
+%  Indian Institute of Technology Delhi
+%  \\ {\tt \{ee1130798, ird11278, sumeet\}@iitd.ac.in}}
 
 \date{}
 
@@ -50,12 +50,12 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{abstract}
-In this paper, we present a deep learning (DL) model for the task of pairwise cognate prediction. We use a character level model with recurrent neural network architecture and attention. We compare the performance of our model with previous approaches on various language families. We are able to show that our model performs better than non-DL methods which exploit surface similarity measures as well as a recent convolutional neural network (CNN) based model for the task. We also employ our model specifically to the domain of discovering cognates from Hindi-Marathi to assist the task of lexical resource creation.
+In this paper, we present a deep learning (DL) model for the task of pairwise cognate prediction, i.e. identifying whether English `\textit{Night}' and German `\textit{Nacht}', both meaning \textit{Night} come from the same common ancestor. We use a character level model with recurrent neural network architecture and attention and test its performance on datasets drawn from three different language families. Our results show an improvement in performance as compared to existing models and highlight the usefulness of phonetic and conceptual features. We also employ our model to the domain of discovering similar word pairs from a pair of closely related languages to bootstrap lexical resource creation.
 \end{abstract}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Introduction}
-Cognates are words across different languages that are known to have originated from the same word in a common ancestral language. For example, the English word `\textit{Night}' and the German word `\textit{Nacht}', both meaning \textit{Night} and English `\textit{Hound}' and German `\textit{Hund}', meaning \textit{Dog} are cognates whose origin can be traced back to Proto-Germanic. Cognate words are not simply the translations of each other in any two languages, but are historically known to have a common origin. For example, the English word `\textit{Hound}' and the Spanish word `\textit{Perro}' both mean \textit{Dog} but are not cognates.
+Cognates are words across different languages that are known to have originated from the same word in a common ancestral language. For example, the English word  `\textit{Night}' and the German word `\textit{Nacht}', both meaning \textit{Night} and English `\textit{Hound}' and German `\textit{Hund}', meaning \textit{Dog} are cognates whose origin can be traced back to Proto-Germanic. Cognate words are not simply the translations of each other in any two languages, but are historically known to have a common origin. For example, the English word `\textit{Hound}' and the Spanish word `\textit{Perro}' both mean \textit{Dog} but are not cognates.
 
 Traditionally, the identification of cognates was carried out by historical linguists, using word lists and establishing sound correspondences between words. These are useful in determining linguistic distance within a language family, and also to understand the process of language change. Cognate information has also been used in several downstream NLP tasks, like sentence alignment in bi-texts \cite{simard1993using} and improving statistical machine translation models \cite{kondrak2003cognates}. Additionally, it has been proposed that cognates can be used to share lexical resources among languages that are closely related \cite{Singh:07b}.
 
