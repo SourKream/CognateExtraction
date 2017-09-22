@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: titlepage.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: chap1.aux
+A level-1 auxiliary file: chap2.aux
+A level-1 auxiliary file: chap3.aux
+A level-1 auxiliary file: chap4.aux
+A level-1 auxiliary file: chap5.aux
+A level-1 auxiliary file: chap7.aux
+A level-1 auxiliary file: chap8.aux
+The style file: plain.bst
+Database file #1: ref.bib
+Warning--can't use both volume and number fields in bergsma2007alignment
+Warning--there's a number but no volume in Brown:08
+Warning--empty journal in listusing
+Warning--empty year in listusing
+You've used 30 entries,
+            2118 wiz_defined-function locations,
+            680 strings with 10769 characters,
+and the built_in function-call counts, 12577 in all, are:
+= -- 1225
+> -- 630
+< -- 19
++ -- 251
+- -- 216
+* -- 834
+:= -- 1960
+add.period$ -- 98
+call.type$ -- 30
+change.case$ -- 197
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 530
+empty$ -- 973
+format.name$ -- 216
+if$ -- 2751
+int.to.chr$ -- 0
+int.to.str$ -- 30
+missing$ -- 30
+newline$ -- 152
+num.names$ -- 62
+pop$ -- 258
+preamble$ -- 1
+purify$ -- 167
+quote$ -- 0
+skip$ -- 398
+stack$ -- 0
+substring$ -- 705
+swap$ -- 192
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 120
+warning$ -- 4
+while$ -- 110
+width$ -- 32
+write$ -- 333
+(There were 4 warnings)

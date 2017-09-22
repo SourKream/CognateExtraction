@@ -1,0 +1,200 @@
+\begin{thebibliography}{10}
+
+\bibitem{bahdanau2014neural}
+Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock In {\em ICLR 2015}, 2014.
+
+\bibitem{bergsma2007alignment}
+Shane Bergsma and Grzegorz Kondrak.
+\newblock Alignment-based discriminative string similarity.
+\newblock In {\em Annual meeting-Association for Computational Linguistics},
+  volume~45, page 656, 2007.
+
+\bibitem{snli:emnlp2015}
+Samuel~R. Bowman, Gabor Angeli, Christopher Potts, and Christopher~D. Manning.
+\newblock A large annotated corpus for learning natural language inference.
+\newblock In {\em Proceedings of the 2015 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}. Association for Computational
+  Linguistics, 2015.
+
+\bibitem{Brown:08}
+Cecil~H. Brown, Eric~W Holman, Soren Wichmann, and Viveka Villupillai.
+\newblock Automated classification of the world's languages:a description of
+  the method and preliminary results.
+\newblock {\em Language Typology and Universals}, (285-308), 2008.
+
+\bibitem{dyen1992indoeuropean}
+Isidore Dyen, Joseph~B Kruskal, and Paul Black.
+\newblock An indoeuropean classification: A lexicostatistical experiment.
+\newblock {\em Transactions of the American Philosophical society},
+  82(5):iii--132, 1992.
+
+\bibitem{greenhillBlust:08}
+S.J. Greenhill, R.~Blust, and R.D. Gray.
+\newblock The austronesian basic vocabulary database: From bioinformatics to
+  lexomics.
+\newblock {\em Evolutionary Bioinformatics}, 4:271--283, 2008.
+
+\bibitem{hauer2011clustering}
+Bradley Hauer and Grzegorz Kondrak.
+\newblock Clustering semantically equivalent words into cognate sets in
+  multilingual lists.
+\newblock In {\em IJCNLP}, pages 865--873. Citeseer, 2011.
+
+\bibitem{lstm1997}
+Sepp Hochreiter and J{\"u}rgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural computation}, 9(8):1735--1780, 1997.
+
+\bibitem{inkpen2005similarity}
+Diana Inkpen, Oana Frunza, and Grzegorz Kondrak.
+\newblock Automatic identification of cognates and false friends in french and
+  english.
+\newblock In {\em Proceedings of the International Conference on Recent
+  Advances in Natural Language Processing (RANLP 2005)}, pages 251--257, 2005.
+
+\bibitem{inkpen2005automatic}
+Diana Inkpen, Oana Frunza, and Grzegorz Kondrak.
+\newblock Automatic identification of cognates and false friends in french and
+  english.
+\newblock In {\em Proceedings of the International Conference Recent Advances
+  in Natural Language Processing}, pages 251--257, 2005.
+
+\bibitem{kondrak2004identification}
+Grzegorz Kondrak and Bonnie Dorr.
+\newblock Identification of confusable drug names: A new approach and
+  evaluation methodology.
+\newblock In {\em Proceedings of the 20th international conference on
+  Computational Linguistics}, page 952. Association for Computational
+  Linguistics, 2004.
+
+\bibitem{kondrak2003cognates}
+Grzegorz Kondrak, Daniel Marcu, and Kevin Knight.
+\newblock Cognates can improve statistical translation models.
+\newblock In {\em Proceedings of the 2003 Conference of the North American
+  Chapter of the Association for Computational Linguistics on Human Language
+  Technology: companion volume of the Proceedings of HLT-NAACL 2003--short
+  papers-Volume 2}, pages 46--48. Association for Computational Linguistics,
+  2003.
+
+\bibitem{listusing}
+Johann-Mattis List, Philippe Lopez, and Eric Bapteste.
+\newblock Using sequence similarity networks to identify partial cognates in
+  multilingual wordlists.
+
+\bibitem{List2016g}
+Johann-Mattis List, Philippe Lopez, and Eric Bapteste.
+\newblock Using sequence similarity networks to identify partial cognates in
+  multilingual wordlists.
+\newblock In {\em Proceedings of the Association of Computational Linguistics
+  2016 (Volume 2: Short Papers)}, pages 599--605, Berlin, 2016.
+
+\bibitem{mtattention}
+Minh-Thang Luong, Hieu Pham, and Christopher~D Manning.
+\newblock Effective approaches to attention-based neural machine translation.
+\newblock {\em arXiv preprint arXiv:1508.04025}, 2015.
+
+\bibitem{mann2001multipath}
+Gideon~S Mann and David Yarowsky.
+\newblock Multipath translation lexicon induction via bridge languages.
+\newblock In {\em Proceedings of the second meeting of the North American
+  Chapter of the Association for Computational Linguistics on Language
+  technologies}, pages 1--8. Association for Computational Linguistics, 2001.
+
+\bibitem{mikolov2010recurrent}
+Tomas Mikolov, Martin Karafi{\'a}t, Lukas Burget, Jan Cernock{\`y}, and Sanjeev
+  Khudanpur.
+\newblock Recurrent neural network based language model.
+\newblock In {\em Interspeech}, volume~2, page~3, 2010.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{pennington2014glove}
+Jeffrey Pennington, Richard Socher, and Christopher~D. Manning.
+\newblock Glove: Global vectors for word representation.
+\newblock In {\em Empirical Methods in Natural Language Processing (EMNLP)},
+  pages 1532--1543, 2014.
+
+\bibitem{rama2015automatic}
+Taraka Rama.
+\newblock Automatic cognate identification with gap-weighted string
+  subsequences.
+\newblock In {\em Proceedings of the 2015 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies, May 31--June 5, 2015 Denver, Colorado, USA}, pages 1227--1231,
+  2015.
+
+\bibitem{rama2016siamese}
+Taraka Rama.
+\newblock Siamese convolutional networks for cognate identification.
+\newblock In {\em Proceedings of COLING 2016, the 26th International Conference
+  on Computational Linguistics: Technical Papers, Osaka, Japan}, pages
+  1018--1027, 2016.
+
+\bibitem{rocktaschel2016reasoning}
+Tim Rockt{\"a}schel, Edward Grefenstette, Karl~Moritz Hermann, Tomas Kocisky,
+  and Phil Blunsom.
+\newblock Reasoning about entailment with neural attention.
+\newblock In {\em ICLR}, 2016.
+
+\bibitem{simard1993using}
+Michel Simard, George~F Foster, and Pierre Isabelle.
+\newblock Using cognates to align sentences in bilingual corpora.
+\newblock In {\em Proceedings of the 1993 conference of the Centre for Advanced
+  Studies on Collaborative research: distributed computing-Volume 2}, pages
+  1071--1082. IBM Press, 1993.
+
+\bibitem{Singh:07b}
+Anil~Kumar Singh and Harshit Surana.
+\newblock Study of cognates among south asian languages for the purpose of
+  building lexical resources.
+\newblock {\em Journal of Language Technology}, 2007.
+
+\bibitem{sordoni2015hierarchical}
+Alessandro Sordoni, Yoshua Bengio, Hossein Vahabi, Christina Lioma, Jakob
+  Grue~Simonsen, and Jian-Yun Nie.
+\newblock A hierarchical recurrent encoder-decoder for generative context-aware
+  query suggestion.
+\newblock In {\em Proceedings of the 24th ACM International on Conference on
+  Information and Knowledge Management}, pages 553--562. ACM, 2015.
+
+\bibitem{tufis2002cheap}
+Dan Tufis.
+\newblock A cheap and fast way to build useful translation lexicons.
+\newblock In {\em Proceedings of the 19th international conference on
+  Computational linguistics-Volume 1}, pages 1--7. Association for
+  Computational Linguistics, 2002.
+
+\bibitem{wichmann:2008}
+Soren Wichmann and Eric~W Holman.
+\newblock Languages with longer words have more lexical change.
+\newblock In Lars Borin and Anju Saxena, editors, {\em Approaches to Measuring
+  Linguistic Differences}. De Gruyter, 2008.
+
+\bibitem{cpattention}
+Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan
+  Salakhudinov, Rich Zemel, and Yoshua Bengio.
+\newblock Show, attend and tell: Neural image caption generation with visual
+  attention.
+\newblock In {\em International Conference on Machine Learning}, pages
+  2048--2057, 2015.
+
+\bibitem{stackedattention}
+Zichao Yang, Xiaodong He, Jianfeng Gao, Li~Deng, and Alex Smola.
+\newblock Stacked attention networks for image question answering.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 21--29, 2016.
+
+\bibitem{yin2017comparative}
+Wenpeng Yin, Katharina Kann, Mo~Yu, and Hinrich Sch{\"u}tze.
+\newblock Comparative study of cnn and rnn for natural language processing.
+\newblock {\em arXiv preprint arXiv:1702.01923}, 2017.
+
+\end{thebibliography}

@@ -1,6 +1,5 @@
 *.pkl
 *.weights
-*.pdf
 *.m4a
 *.xlsx
 *.pyc

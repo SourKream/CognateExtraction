@@ -1,0 +1,60 @@
+\chapter{Dataset}
+
+The task of cognate identification will make use of word lists that contain words from a number of languages of a language family. They contain words from a given set of concepts that are from the basic vocabulary such as kinship terms, body parts, numbers etc. Usually this vocabulary will represent concepts from the language itself and not borrowed items, although this is also possible at times. The word lists contain information about a particular word, its language family and a cognate class ID. These lists containing cognate class labels are usually small because cognacy judgement is a laborious task and requires expert domain knowledge and therefore not many datasets exist. 
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{llcccccc}
+\multicolumn{1}{c}{\textbf{}}                           & \multicolumn{1}{c}{\textbf{}}         & \multicolumn{6}{c}{\textbf{Concept}}                                                                      \\ \cline{3-8} 
+\multicolumn{1}{c}{}                                    & \multicolumn{1}{c}{\textit{}}         & \multicolumn{2}{c}{\textit{ALL}} & \multicolumn{2}{c}{\textit{BIG}} & \multicolumn{2}{c}{\textit{ANIMAL}} \\ \cline{3-8} 
+\multicolumn{1}{l|}{\multirow{4}{*}{\textbf{Language}}} & \multicolumn{1}{l|}{\textit{ENGLISH}} & all   & \multicolumn{1}{c|}{001} & big   & \multicolumn{1}{c|}{009} & animal   & \multicolumn{1}{c|}{015} \\ \cline{3-8} 
+\multicolumn{1}{l|}{}                                   & \multicolumn{1}{l|}{\textit{FRENCH}}  & tut   & \multicolumn{1}{c|}{002} & grand & \multicolumn{1}{c|}{010} & animal   & \multicolumn{1}{c|}{015} \\ \cline{3-8} 
+\multicolumn{1}{l|}{}                                   & \multicolumn{1}{l|}{\textit{MARATHI}} & serve & \multicolumn{1}{c|}{006} & motha & \multicolumn{1}{c|}{011} & jenaver  & \multicolumn{1}{c|}{017} \\ \cline{3-8} 
+\multicolumn{1}{l|}{}                                   & \multicolumn{1}{l|}{\textit{HINDI}}   & seb   & \multicolumn{1}{c|}{006} & bara  & \multicolumn{1}{c|}{012} & janver   & \multicolumn{1}{c|}{017} \\ \cline{3-8} 
+\end{tabular}
+\caption{Sample Word List from the original Indo-European Dataset by Dyen et al.\citep{dyen1992indoeuropean}}
+\end{table}
+
+Table 3.1 shows a small part of a word list which is the typical data used in this task. The rows in the table represent individual languages and the columns represent individual concepts or meanings. Each entry in the table contains a unique cognate class ID which defines the groups of cognate words.
+
+We make use of three different datasets in our work described below. 
+
+\textbf{IELex Database : } The first and the primary dataset we work on is the IELex Database whic is an Indo-European dataset and which contains cognacy judgements from 208 Indo-European languages. The dataset is curated by Michael Dunn\footnote{http://ielex.mpi.nl/}. It was originally created by Dyen et al.\citep{dyen1992indoeuropean} but then later expanded due to which its transcription is non-uniform. T. Rama extracted a subset of this dataset in their work \citep{rama2016siamese} and cleaned it to uniform IPA (International Phonetic Alphabet) transcription, which we use in our work. 
+
+\textbf{Austronesian Dataset : } The second dataset is the Austronesian language family dataset that is taken from the \textbf{Austronesian} Basic Vocabulary project \citep{greenhillBlust:08}. The dataset has been semi-automatically cleaned and transcribed to ASJP character set \citep{rama2016siamese}.  
+
+\textbf{Mayan Dataset : } The third dataset comes from the Mayan language family \citep{wichmann:2008} that is spoken in Meso-America. This dataset is a small dataset and the word lists are uniformly transcribed in ASJP. 
+
+All the 3 datasets present are widely separated in time and geography provide a big domain to test out the systems. However, there are several differences in transcription in each of these datasets. While IELex is available in both IPA and a coarse `Romanized' IPA encoding, the Mayan database is available in the ASJP format (similar to a Romanized IPA) \citep{Brown:08}. IELex and the Austronesian dataset have also been semi-automatically converted to ASJP \citep{rama2016siamese}. We use subsets of the original databases converted to ASJP due to lack of availability of uniform transcription. The statistics about the final sizes of the datasets used is mentioned in Table \ref{datastat}.
+
+\begin{table}[t]
+\centering
+\begin{tabular}{lcccc}
+Language Family & Languages & Concepts & Unique Lexical Items & Cognate Classes \\ \hline
+Indo-European   & 52        & 208      & 8622                & 2528            \\
+Austronesian    & 100       & 210      & 10079                & 4863            \\
+Mayan           & 30        & 100      & 1629                 & 858            
+\end{tabular}
+\caption{Statistics about the datasets}
+\label{datastat}
+\end{table}
+
+For the purposes of our task, we form word pairs using words from the same concept and such a pair is assigned a positive cognate label if their cognate class ids match. In this way, we can extract a total of 525,941 word pairs from Austronesian, 326,758 pairs from Indo-European and 63,028 pairs from Mayan, for training and testing the models.
+
+\clearpage
+\begin{table}[ht]
+\centering
+\begin{tabular}{lccccc}
+\multirow{2}{*}{\begin{tabular}[c]{@{}l@{}}Language\\ Family\end{tabular}} & \multirow{2}{*}{\begin{tabular}[c]{@{}c@{}}Unique \\ Words \end{tabular}} & \multirow{2}{*}{\begin{tabular}[c]{@{}c@{}}Words with \\ \textgreater1 Meaning\end{tabular}} & \multirow{2}{*}{\begin{tabular}[c]{@{}c@{}}Words belonging\\  to \textgreater1 Languages\end{tabular}} & \multicolumn{2}{c}{\begin{tabular}[c]{@{}c@{}}Fraction of subsequences\\  found in data\end{tabular}} \\ \cline{5-6} 
+                                                                           &                                                                                     &                                                                                              &                                                                                                        & Length 2                                          & Length 3                                          \\ \hline
+Indo-European                                                              & 8622                                                                                & 667 ($\sim$7.7\%)                                                                            & 1333 ($\sim$15.4\%)                                                                                    & 0.82                                              & 0.43                                              \\
+Austronesian                                                               & 10079                                                                               & 1119 ($\sim$11.1\%)                                                                          & 1682 ($\sim$16.7\%)                                                                                    & 0.86                                              & 0.45                                              \\
+Mayan                                                                      & 1629                                                                                & 148 ($\sim$9.1\%)                                                                            & 384 ($\sim$23.6\%)                                                                                     & 0.72                                              & 0.26                                             
+\end{tabular}
+\label{overlaptable}
+\caption{Overlapping Statistics of the datasets}
+\end{table}
+
+Table 3.3 contains some useful information about the overlaps within each dataset. We can see that since the Austronesian is a very big dataset with relatively few unique lexical items, it has a high overlap with respect to the number of words having multiple meanings with in the same language family. Also in terms of the number of words belonging to more than one language in the family, almost 24\% of the words Mayan datasets belong to multiple languages. When using orthographic features like common subsequences between word pairs, it would be interesting to note how many possible subsequences actually appear in the dataset. It can be seen that for all possible subsequences of length 3 only around 45\% of the subsequences for IELex and Austronesian and only 26\% of the subsequences for Mayan actually appear in the training data. Thus, the test samples can have many common sequences that are not seen during training and are hence ignored.
+
+We also use the TDIL Hindi-Marathi sentence-aligned corpus\footnote{http://tdil.mit.gov.in} for the domain test of extracting cognate words from Hindi and Marathi. This dataset consists of aligned-sentences from Hindi and Marathi originally constructed for a task like machine translation. The sentences are tokenized and POS tagged. They are transcribed in Devanagari and are automatically converted to IPA before testing on the model. They  provide a large part of the vocabulary from the both the languages to search for cognates. It should be noted that cognate words are not simply translations of each other in the different languages, they are words which are known to have historically evolved from the same common word in an ancestral language. Hence, the sentence aligned corpus does not provide any gold label for the cognacy detection task, it only provides a rich source of testing data. To evaluate the performance of model on this corpus, we sample a subset of our predictions and manually judge them for cognates.

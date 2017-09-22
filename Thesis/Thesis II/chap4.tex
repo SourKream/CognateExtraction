@@ -1,0 +1,153 @@
+\chapter{Surface Similarity Measures}
+
+In this chapter, we look at the gap-weighted subsequence model for cognate identification introduced by T.Rama \citep{rama2015automatic} which tries to exploit surface similarity between words by using the common subsequences present in the words as features. 
+
+In our works, we have implemented and extended the gap-weighted subsequence based model and performed rigorous testing to identify its pitfalls and that of its extensions. We implemented the model in Python, using scikit-learn \cite{scikit-learn} open source library for the classification model. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Model}
+
+Let $\Sigma$ be the set of characters over which the data is defined. For any string $s$ defined over $\Sigma$, it can be decomposed into ($s_1$, $s_2$, ..., $s_{|s|}$) where $|s|$ is the length of the string. Let $I$ be a sequence of indices ($i_1, i_2, .., i_{|u|}$) such that 1 $\leq$ $i_1$ $<$ ... $<$ $i_{|u|}$ $\leq$ $|s|$. Then the subsequence $u$ is formed by using the sequence of indices $I$ from the sting $s$. For such a string $s$ over $\Sigma$, the subsequence vector $\Phi(s)$ is defined as follows,
+
+\begin{equation}
+\phi_u(s) = \Sigma_{\forall I, s[I] = u} \lambda^{l(I)}
+\end{equation}
+\begin{equation}
+l(I) = i_{|u|} - i_1 + 1\end{equation}
+\begin{equation}
+\Phi(s) = \{\phi_u(s); \forall u \in \cup_{n=1}^p \Sigma^n\}
+\end{equation}
+
+Here $\lambda \in (0,1)$ is the weight tuning parameter for the model and $p$ is the longest length of the subsequence to be considered. The $\lambda$ parameter controls the penalty of the gaps in subsequence as it is present in the string. When $\lambda$ is close to 0, the subsequence is restricted to a substring as the decay for a larger length is large. When $\lambda$ is close to 1, the weight $\phi_u(s)$ counts the number of occurrences of the subsequence $u$ in $s$. The subsequence vector $\Phi(s)$ for every word $s$ is further normalised by dividing it with $||\Phi(s)||$. 
+
+The combined subsequence vector for two words, ($s_1, s_2$) can be defined in two ways,
+\begin{equation}
+\Phi_{Mul}(s_1, s_2) = \{\phi_u(s_1) + \phi_u(s_2); \forall u \text{ present in } s_1 \text{ and } s_2\}
+\end{equation}
+\begin{equation}
+\Phi_{Add}(s_1, s_2) = \{\phi_u(s_1) + \phi_u(s_2); \forall u \text{ present in } s_1 \text{ or } s_2\}
+\end{equation}
+
+We also define a third form of common subsequence vector for the word pair, which is a hybrid between the $\Phi_{Mul}$ and $\Phi_{Add}$ vectors, control by parameter $\alpha \in [0,1]$.
+
+\begin{equation}
+\Phi_{Avg}(s_1, s_2) = (1-\alpha)\cdot \Phi_{Mul}(s_1, s_2) + \alpha \cdot \Phi_{Add}(s_1, s_2)
+\end{equation}
+
+The difference between the two combined subsequence vectors mentioned above is that the first one only considers only the subsequences that are common to both $s_1$ and $s_2$, whereas the second takes the sum of all the subsequences. It can be said that the first model is \textit{Multiplicative} while the second is \textit{Additive} (We shall use this naming of the models for future reference). Although the \textit{Multiplicative} model vector should capture the correct information regarding the common features between the words, it can be too sparse at times when there are not a lot of common subsequences between the word (which does not not necessarily imply that the words are not cognates). The \textit{Average} model is then a hybrid between the \textit{Multiplicative} and the \textit{Additive} models. It tries to maintain a high overall weight for the common subsequence, but gives some amount of weight to the non-common subsequences as well depending on the value of $\alpha$.
+
+A Linear SVM classifier model is then trained using the combined subsequence vector $\Phi(s_1, s_2)$ from either the \textit{Multiplicative} or the \textit{Additive}. We have used the python sci-kit learn library to train the SVM classifier. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Experiments}
+We test the common subsequence model on the IELex datset transcribed in the IPA and the Romanized IPA characters as mentioned earlier. The testing is done in 2 forms of evaluation,
+
+\textbf{Simple cross validation :} In this method, all the lexical items in the word list are divided into 5 fold cross validation sets. The training samples are picked by considering all word pairs formed from the training folds and the testing samples consist of all word pairs formed from the testing fold. We report the average 5 fold cross validated F-Score as the measure of performance of the model, for various values of the parameter $\lambda$ while keeping the maximum length of the subsequence ($p$) fixed at 3.
+
+\textbf{Cross-Concept cross validation :} In this method, all the meanings/concepts in the word list are divided into 5 fold cross validation sets. Thus the samples in the training and testing sets come from mutually exclusive sets of concepts.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Results}
+
+The performance of the subsequence models is reported in Figure 4-1. It is clearly observed that the \textit{Multiplicative} model, i.e. the vector comprising of only the common subsequences, performs better than the \textit{Additive} model despite having sparser vectors and learning over a smaller feature space. The models learns better for values of lambda closer to 1. 
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=10cm]{G1.png}
+\caption{Average Cross validation F-Score (Simple Cross Validation)}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=10cm]{G2.png}
+\caption{Average Cross validation F-Score (Cross Concept Cross Validation)}
+\end{figure}
+
+For the cross-concept cross-validation experiment, the \textit{Multiplicative} models maintains its performance across both the cross validation methods, but it is observed that the \textit{Additive} model performs much worse in the cross-concept setting. The \textit{Additive} model overfits on the training data despite setting a high regularization penalty.
+
+The performance of the \textit{Average} models is noted in figures 4-3 and 4-4. It can be noted that as the model moves from the \textit{Multiplicative} to the \textit{Additive} model, the recall of the system gets a substantial increase around $\alpha = 0.4$ before falling again as $\alpha$ approaches 1. This causes the overall F-score of the model to increase at the cost of precision of th model. 
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=13cm]{hybf.png}
+\caption{Average Model F-Score}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=\textwidth]{hybpr.png}
+\caption{Average Model Precision and Recall}
+\end{figure}
+
+Even with the improved performance of the \textit{Average} model, it is found that the model is still not good enough for real world application to new domains, with the best model only giving a recall of around 37\% at a precision of 75\%. It is clear that common subsequence models with just their surface similarity fundamentally lack the representation power to capture words the important features discovering cognates which goes beyond string matching.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Transcription Tests}
+
+We even evaluated the subsequence model on both forms of transcription of the IELex dataset, that is the IPA and the Romanized IPA forms. The IPA character set is a finer character set that consists of around 108 phonetic characters. The Romaized IPA is a broader notation that combines several characters from IPA into a single character, thus having a smaller character vocabulary of around 26 characters. 
+
+As can be seen in Figure 4-5, the performance of the subsequence models is similar on either form of transcription of the data. Even though the IPA provides a richer detail of structure in the word, the subsequence model is not able to exploit it, as a finer representation actually means less number of common subsequences. 
+
+\clearpage
+\subsection{Performance on individual concepts}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=10cm]{G3.png}
+\caption{Cross validation F-Score for different transcription of data}
+\end{figure}
+
+To investigate the performance of the models, the results were divided over individual meanings from which the samples were derived in the word list. It was observed that the results varied drastically over the different meanings. It is observed that the F-score was affected only due to the Recall of the samples when the Precision was mostly constant around 90\%. The Recall varied from as high as 80\% for some meanings like `CHILD', `TOOTH', `LAKE' to as low as 5\% for concepts like `WHEN', `WHERE', `WHAT', as shown in Tables 4.2, 4.3.
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{Concept} & \textbf{Precision} & \textbf{Recall} & \textbf{F-Score} & \textbf{Num Cognate Classes} \\ \hline
+CHILD            & 99.98              & 79.99           & 0.888            & 24                           \\ \hline
+TOOTH            & 99.99              & 76.92           & 0.869            & 5                            \\ \hline
+BLACK            & 85.70              & 85.70           & 0.856            & 14                           \\ \hline
+LAKE             & 81.81              & 89.99           & 0.856            & 22                           \\ \hline
+EARTH            & 99.99              & 71.3            & 0.831            & 19                           \\ \hline
+\end{tabular}
+\caption{High Performance Concepts}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\label{my-label}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{Concept} & \textbf{Precision} & \textbf{Recall} & \textbf{F-Score} & \textbf{Num Cognate Classes} \\ \hline
+WHEN             & 99.98              & 7.59            & 0.141            & 8                            \\ \hline
+HOW              & 79.98              & 7.69            & 0.140            & 8                            \\ \hline
+WHERE            & 99.998             & 7.35            & 0.136            & 6                            \\ \hline
+WHAT             & 999.95             & 5.49            & 0.103            & 5                            \\ \hline
+IN               & 59.98              & 3.99            & 0.074            & 12                           \\ \hline
+\end{tabular}
+\caption{Poor Performance Concepts}
+\end{table}
+
+We can observe the general trend that the model is learning better for concepts that belong to Nouns and Adjective classes as compared to the non-Nouns and non-Adjectives. By observing the data it was realised that the number of distinct cognate classes in the dataset from which the words are sampled is on average less for concepts that perform poorly for the model. Such concepts have large variations of sounds or transcription within a class of cognates. For example, Table 4.4 shows a small part of the word list for the concept `WHAT', from the dataset.
+
+\begin{table}[h!]
+\centering
+\label{my-label}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Language} & \textbf{Word} & \textbf{Cognate Class} \\ \hline
+Takitaki          & HOESAN        & 1                      \\ \hline
+Singhalese        & MOKADA        & 1                      \\ \hline
+Hindi             & KYA           & 2                      \\ \hline
+Nepali            & KE            & 2                      \\ \hline
+Spanish           & QUE           & 2                      \\ \hline
+Slovak            & CO            & 2                      \\ \hline
+Swedish           & VA            & 2                      \\ \hline
+Danish            & HVAD          & 2                      \\ \hline
+\end{tabular}
+\caption{Part of Word list for concept `WHAT'}
+\end{table}
+
+Even within the same cognate class (class 2), there is a lot of variation between the words, so much so that the Danish \textit{Hvad} and the Spanish \textit{Que} do not actually share any subsequences in their normal form. Clearly a model looking at only the common subsequences cannot learn to predict cognates for such word pairs. Thus as motivated before, we need to work towards a model that is able to exploit deeper representations and recognize and learn sound correspondences and sound change between characters. 
+
+
