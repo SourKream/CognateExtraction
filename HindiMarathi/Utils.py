@@ -89,7 +89,18 @@ def getAccuracy(x_test, y_test, model):
             s += 1
     return s/float(len(y_test))
 
-def getROCCurveKeras (x_test, y_test, model, label='DL Model'):
+def getROCCurveKeras(x_test, y_test, model, label='DL Model'):
     p_proba = model.predict(x_test)
     fpr, tpr, thresholds = roc_curve(y_test, p_proba)
     plt.plot(fpr, tpr, label='{0} (AUC = {1:0.2f})'.format(label, auc(fpr, tpr)))
+
+def writeToFile(result, filname="raw_result.txt"):
+    with codecs.open(filname,'w','utf-8') as fil:
+        for a,b,c in result:
+            fil.write(a)
+            fil.write('\t')
+            fil.write(b)
+            fil.write('\t')
+            fil.write(str(c))
+            fil.write('\n')
+

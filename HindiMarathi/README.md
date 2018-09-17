@@ -27,6 +27,13 @@ This repo extracts pair of different Part-of-Speach (PoS) (N_NN, V_VM) from Hind
 ##### Load the model
 - Next load the model using `execfile('LoadModel.py')`
 
+##### Run the model on the data
+- `X, Y = load_test_data(data_ipa['N_NN'], vocab)`
+- `result = model.predict([X,Y])`
+- If the above command is taking time, you can run it on a smaller set using `model.predict([X[:100,:], Y[:100,:]])`
+- `output = [(data_ipa['N_NN'][i][0], data_ipa['N_NN'][i][1], result[i,0]) for i in range(len(result))]` consolidates the results in the variable `output`.
+- The output can be written to a file using `writeToFile(output, <filename>)`
+
 ### Dependencies
 
 - Python 2.7

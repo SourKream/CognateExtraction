@@ -11,11 +11,11 @@ class WbwAttentionLayer(Layer):
 
     def build(self, input_shape):
         self.ndim = input_shape[0][2]
-        self.wbw_w_y = self.add_weight(shape=(self.ndim, self.ndim), initializer='glorot_uniform', trainable=True) # n_dim x n_dim
-        self.wbw_w_h = self.add_weight(shape=(self.ndim, self.ndim), initializer='glorot_uniform', trainable=True) # n_dim x n_dim
-        self.wbw_w_r = self.add_weight(shape=(self.ndim, self.ndim), initializer='glorot_uniform', trainable=True) # n_dim x n_dim
-        self.wbw_w_alpha = self.add_weight(shape=(self.ndim, 1), initializer='glorot_uniform', trainable=True) # n_dim x 1
-        self.wbw_w_t = self.add_weight(shape=(self.ndim, self.ndim), initializer='glorot_uniform', trainable=True) # n_dim x n_dim    
+        self.wbw_w_y = self.add_weight(name="wbw_w_y", shape=(self.ndim, self.ndim), initializer='glorot_uniform', trainable=True) # n_dim x n_dim
+        self.wbw_w_h = self.add_weight(name="wbw_w_h", shape=(self.ndim, self.ndim), initializer='glorot_uniform', trainable=True) # n_dim x n_dim
+        self.wbw_w_r = self.add_weight(name="wbw_w_r", shape=(self.ndim, self.ndim), initializer='glorot_uniform', trainable=True) # n_dim x n_dim
+        self.wbw_w_alpha = self.add_weight(name="wbw_w_alpha", shape=(self.ndim, 1), initializer='glorot_uniform', trainable=True) # n_dim x 1
+        self.wbw_w_t = self.add_weight(name="wbw_w_t", shape=(self.ndim, self.ndim), initializer='glorot_uniform', trainable=True) # n_dim x n_dim    
         super(WbwAttentionLayer, self).build(input_shape)
 
     
