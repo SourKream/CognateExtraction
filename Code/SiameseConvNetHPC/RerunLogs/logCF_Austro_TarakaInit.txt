@@ -1,0 +1,427 @@
+lstm_units 40
+epochs 50
+batch_size 128
+xmaxlen 12
+regularization factor 0.02
+dropout 0.1
+LR 0.001
+Embedding Size 10
+Tokenize Simple True
+Using Concept Fold Data False
+Language Features False
+Concept Features False
+Uniform Attention False
+Initit Embed with Taraka True
+35  CHARACTERS
+[u'3', u'5', u'7', u'8', u'C', u'E', u'G', u'L', u'N', u'S', u'T', u'a', u'b', u'e', u'd', u'g', u'f', u'i', u'h', u'k', u'm', u'l', u'o', u'n', u'q', u'p', u's', u'r', u'u', u't', u'w', u'v', u'y', u'x', u'z']
+100  LANGUAGES
+[u'Teanu', u'Banjarese Malay', u'Lampung', u'Patpatar', u'Tabar', u'Tontemboan', u'Ambrym, South-East', u'Magori (South East Papua)', u'Wuna', u'Tikopia', u'Cheke Holo', u'Windesi Wandamen', u'Gapapaiwa', u'Bunun, Southern', u'Tunjung', u'Tigak', u'Manam', u'Roti (Termanu Dialect)', u'Tetum', u'Sekar', u'Vitu', u'Alune', u'Tongan', u'Dobuan', u'Rejang Rejang', u'Makassar', u'Watubela', u'Carolinian', u'Katingan', u'Soboyo', u'Kisar', u'Mambai', u'Tboli (Tagabili)', u'Sasak', u'Wogeo', u'Lenakel', u'Toambaita', u'Western Bukidnon Manobo', u'Futuna-Aniwa', u'Molima', u'Wolio', u'Anejom (Aneityum)', u'Sengseng', u'Dehu', u'Ubir', u'Marshallese (E. Dialect)', u'Nakanai (Bileki Dialect)', u'Paiwan (Kulalao)', u'Rotuman', u'Singhi', u'Ujir (N.Aru)', u'Toba Batak', u'Futuna, East', u'Jawe', u'Bonfia', u'Samoan', u'Waropen', u'Santa Ana', u'Kapingamarangi', u'Kanakanabu', u'Melayu Ambon', u'Tuvalu', u'Lahanan', u'Kwaraae (Solomon Islands)', u'Maanyan', u'Roviana', u'Cebuano', u'Savu', u'Ririo', u'Bukat', u'Teop', u'Wuvulu', u'Punan Kelai', u'Woleai', u'Itbayaten', u'Sangir', u'Chuukese', u'Varisi', u'Seimat', u'Dayak Ngaju', u'Rurutuan', u'Tae (S.Toraja)', u'Ponapean', u'Taiof', u'Baree', u'Yakan', u'Vaghua', u'Raga', u'Tsou', u'Tahitian (Modern)', u'Elat, Kei Besar', u'Belait', u'Rennellese', u'Lio, Flores Tongah', u'Koiwai (Irian Jaya)', u'Kilivila', u'As', u'Sika', u'Minangkabau', u'Selaru']
+Vocab Size :  37
+Building model
+NO MASKING
+NO MASKING
+____________________________________________________________________________________________________
+Layer (type)			 Output Shape	       Param #	   Connected to
+====================================================================================================
+Input Word A (InputLayer)	 (None, 12)	       0
+____________________________________________________________________________________________________
+Input Word B (InputLayer)	 (None, 12)	       0
+____________________________________________________________________________________________________
+Embedding Layer (Embedding)	 (None, 12, 16)	       592
+____________________________________________________________________________________________________
+spatial_dropout1d_1 (SpatialDrop (None, 12, 16)	       0
+____________________________________________________________________________________________________
+Bidir LSTM Layer (Bidirectional) (None, 12, 80)	       18240
+____________________________________________________________________________________________________
+LSTM Dropout Layer (SpatialDropo (None, 12, 80)	       0
+____________________________________________________________________________________________________
+Attention Layer (WbwAttentionLay [(None, 12, 80), (Non 25680
+____________________________________________________________________________________________________
+r_a_n (Lambda)			 (None, 80)	       0
+____________________________________________________________________________________________________
+r_b_n (Lambda)			 (None, 80)	       0
+____________________________________________________________________________________________________
+concatenate_1 (Concatenate)	 (None, 160)	       0
+____________________________________________________________________________________________________
+activation_1 (Activation)	 (None, 160)	       0
+____________________________________________________________________________________________________
+Hidden Layer (Dense)		 (None, 20)	       3220
+____________________________________________________________________________________________________
+Output Layer (Dense)		 (None, 1)	       21
+====================================================================================================
+Total params: 47,753.0
+Trainable params: 47,753.0
+Non-trainable params: 0.0
+____________________________________________________________________________________________________
+Model Compiled
+Training New Model
+Epoch 1/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.669645
+
+Training -> Precision:	0.734816659412	 Recall:  0.863615453558	 F-Score:  0.794026868518	 AUC:  0.890447114289
+Testing	 -> Precision:	0.573375863902	 Recall:  0.648226950355	 F-Score:  0.608508237418	 AUC:  0.641249980289
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_0.weights
+751386/751386 [==============================] - 968s - loss: 0.6696
+Epoch 2/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.468086
+
+Training -> Precision:	0.792242565821	 Recall:  0.919928458689	 F-Score:  0.85132439698	 AUC:  0.938993997678
+Testing	 -> Precision:	0.580758771343	 Recall:  0.626373362183	 F-Score:  0.602704234475	 AUC:  0.641305879815
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_1.weights
+751386/751386 [==============================] - 955s - loss: 0.4680
+Epoch 3/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.3915007
+
+Training -> Precision:	0.833690620765	 Recall:  0.939233508617	 F-Score:  0.883320559369	 AUC:  0.959820493603
+Testing	 -> Precision:	0.594181604467	 Recall:  0.583339343671	 F-Score:  0.588710557921	 AUC:  0.633637873076
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_2.weights
+751386/751386 [==============================] - 964s - loss: 0.3915
+Epoch 4/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.346593
+
+Training -> Precision:	0.856569242496	 Recall:  0.949199324244	 F-Score:  0.900508471707	 AUC:  0.968274433827
+Testing	 -> Precision:	0.588911100942	 Recall:  0.587835076331	 F-Score:  0.588372596674	 AUC:  0.638743793596
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_3.weights
+751386/751386 [==============================] - 959s - loss: 0.3465
+Epoch 5/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.315577
+
+Training -> Precision:	0.880137110786	 Recall:  0.96022001729		 F-Score:  0.91843616529	 AUC:  0.97701141595
+Testing	 -> Precision:	0.601318975733	 Recall:  0.561173217935	 F-Score:  0.580552895676	 AUC:  0.633348428455
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_4.weights
+751386/751386 [==============================] - 947s - loss: 0.3155
+Epoch 6/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.293870
+
+Training -> Precision:	0.892643528577	 Recall:  0.962936524932	 F-Score:  0.926458608763	 AUC:  0.979662602254
+Testing	 -> Precision:	0.605755581365	 Recall:  0.564250510879	 F-Score:  0.58426686582	 AUC:  0.632052829833
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_5.weights
+751386/751386 [==============================] - 921s - loss: 0.2938
+Epoch 7/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.276126
+
+Training -> Precision:	0.918081539138	 Recall:  0.959827412536	 F-Score:  0.938490470928	 AUC:  0.982777280887
+Testing	 -> Precision:	0.636358389843	 Recall:  0.530183916336	 F-Score:  0.578439344262	 AUC:  0.636092452356
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_6.weights
+751386/751386 [==============================] - 926s - loss: 0.2761
+Epoch 8/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.262228
+
+Training -> Precision:	0.89326605438	 Recall:  0.975832996248	 F-Score:  0.932725839221	 AUC:  0.985123278641
+Testing	 -> Precision:	0.596079202083	 Recall:  0.583339343671	 F-Score:  0.589640466094	 AUC:  0.62804339913
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_7.weights
+751386/751386 [==============================] - 928s - loss: 0.2622
+Epoch 9/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.252770
+
+Training -> Precision:	0.911177403716	 Recall:  0.972660432579	 F-Score:  0.940915603859	 AUC:  0.986558448127
+Testing	 -> Precision:	0.61310252851	 Recall:  0.541555475418	 F-Score:  0.575112336601	 AUC:  0.624740976377
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_8.weights
+751386/751386 [==============================] - 919s - loss: 0.2527
+Epoch 10/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.242239
+
+Training -> Precision:	0.918672561745	 Recall:  0.975622813905	 F-Score:  0.94629160929	 AUC:  0.988092057062
+Testing	 -> Precision:	0.618611808536	 Recall:  0.550883519654	 F-Score:  0.582786509995	 AUC:  0.637375252276
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_9.weights
+751386/751386 [==============================] - 921s - loss: 0.2422
+Epoch 11/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.234800
+
+Training -> Precision:	0.912082100592	 Recall:  0.978049825112	 F-Score:  0.943914789059	 AUC:  0.988416729499
+Testing	 -> Precision:	0.608944371675	 Recall:  0.547661978603	 F-Score:  0.576679661789	 AUC:  0.623322667462
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_10.weights
+751386/751386 [==============================] - 919s - loss: 0.2348
+Epoch 12/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.228666
+
+Training -> Precision:	0.938012093524	 Recall:  0.973838246841	 F-Score:  0.955589497135	 AUC:  0.989384403427
+Testing	 -> Precision:	0.635786726766	 Recall:  0.515446568097	 F-Score:  0.569326977973	 AUC:  0.628616275449
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_11.weights
+751386/751386 [==============================] - 919s - loss: 0.2286
+Epoch 13/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.222871
+
+Training -> Precision:	0.927649849138	 Recall:  0.98027855109		 F-Score:  0.953238339471	 AUC:  0.990525695733
+Testing	 -> Precision:	0.616995778292	 Recall:  0.54460872701		 F-Score:  0.578546801175	 AUC:  0.627104331317
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_12.weights
+751386/751386 [==============================] - 923s - loss: 0.2228
+Epoch 14/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.218225
+
+Training -> Precision:	0.941637480951	 Recall:  0.97773653445		 F-Score:  0.959347537214	 AUC:  0.991129206466
+Testing	 -> Precision:	0.624821234483	 Recall:  0.525183315302	 F-Score:  0.57068589417	 AUC:  0.625610707707
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_13.weights
+751386/751386 [==============================] - 916s - loss: 0.2182
+Epoch 15/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.213452
+
+Training -> Precision:	0.94395597251	 Recall:  0.978811240393	 F-Score:  0.96106768425	 AUC:  0.991500817219
+Testing	 -> Precision:	0.630826546526	 Recall:  0.5251352326	 F-Score:  0.573149132129	 AUC:  0.624968245039
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_14.weights
+751386/751386 [==============================] - 919s - loss: 0.2134
+Epoch 16/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.210880
+
+Training -> Precision:	0.950111951822	 Recall:  0.976027315773	 F-Score:  0.962895293837	 AUC:  0.991685507696
+Testing	 -> Precision:	0.639726590931	 Recall:  0.486019954321	 F-Score:  0.552379911471	 AUC:  0.622984532074
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_15.weights
+751386/751386 [==============================] - 924s - loss: 0.2108
+Epoch 17/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.206445
+
+Training -> Precision:	0.942251055896	 Recall:  0.982039323927	 F-Score:  0.96173384184	 AUC:  0.992730704153
+Testing	 -> Precision:	0.624048532021	 Recall:  0.524293785311	 F-Score:  0.56983838727	 AUC:  0.625932070942
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_16.weights
+751386/751386 [==============================] - 921s - loss: 0.2064
+Epoch 18/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.203670
+
+Training -> Precision:	0.94191398553	 Recall:  0.981971906949	 F-Score:  0.961525916031	 AUC:  0.992576959386
+Testing	 -> Precision:	0.617490213876	 Recall:  0.523356172617	 F-Score:  0.566539577613	 AUC:  0.616886888238
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_17.weights
+751386/751386 [==============================] - 919s - loss: 0.2036
+Epoch 19/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.202092
+
+Training -> Precision:	0.951435176267	 Recall:  0.979310919171	 F-Score:  0.965171815396	 AUC:  0.992604603708
+Testing	 -> Precision:	0.632998362603	 Recall:  0.473999278759	 F-Score:  0.542080228754	 AUC:  0.614076138914
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_18.weights
+751386/751386 [==============================] - 918s - loss: 0.2020
+Epoch 20/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.197770
+
+Training -> Precision:	0.947499694433	 Recall:  0.983744576899	 F-Score:  0.965282020351	 AUC:  0.993440559662
+Testing	 -> Precision:	0.631263500563	 Recall:  0.49883399447		 F-Score:  0.557289428449	 AUC:  0.622723739633
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_19.weights
+751386/751386 [==============================] - 919s - loss: 0.1977
+Epoch 21/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.195990
+
+Training -> Precision:	0.945314225231	 Recall:  0.984617031908	 F-Score:  0.964565430219	 AUC:  0.993770046042
+Testing	 -> Precision:	0.617684833594	 Recall:  0.531866810915	 F-Score:  0.571572515534	 AUC:  0.621409690906
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_20.weights
+751386/751386 [==============================] - 920s - loss: 0.1959
+Epoch 22/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.192347
+
+Training -> Precision:	0.949528939319	 Recall:  0.983633537171	 F-Score:  0.966280403833	 AUC:  0.993595141712
+Testing	 -> Precision:	0.622046327552	 Recall:  0.513907921625	 F-Score:  0.562829947735	 AUC:  0.621193853255
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_21.weights
+751386/751386 [==============================] - 919s - loss: 0.1923
+Epoch 23/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.190740
+
+Training -> Precision:	0.943520976458	 Recall:  0.98526740746		 F-Score:  0.963942414948	 AUC:  0.994283244383
+Testing	 -> Precision:	0.605979107097	 Recall:  0.514605120808	 F-Score:  0.556566733404	 AUC:  0.607381882863
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_22.weights
+751386/751386 [==============================] - 921s - loss: 0.1907
+Epoch 24/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.188455
+
+Training -> Precision:	0.956030276637	 Recall:  0.983752508308	 F-Score:  0.969693297579	 AUC:  0.994469778096
+Testing	 -> Precision:	0.640436100091	 Recall:  0.492871739392	 F-Score:  0.557046979866	 AUC:  0.617292794914
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_23.weights
+751386/751386 [==============================] - 923s - loss: 0.1884
+Epoch 25/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.187228
+
+Training -> Precision:	0.953441365556	 Recall:  0.983950793537	 F-Score:  0.968455853222	 AUC:  0.994286496194
+Testing	 -> Precision:	0.622398384846	 Recall:  0.503978843611	 F-Score:  0.556963706892	 AUC:  0.616358136781
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_24.weights
+751386/751386 [==============================] - 921s - loss: 0.1872
+Epoch 26/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.186238
+
+Training -> Precision:	0.963604150848	 Recall:  0.98138498267		 F-Score:  0.97241329176	 AUC:  0.994436755923
+Testing	 -> Precision:	0.648635727214	 Recall:  0.456641423248	 F-Score:  0.535963204379	 AUC:  0.616624835457
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_25.weights
+751386/751386 [==============================] - 917s - loss: 0.1862
+Epoch 27/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.1838691
+
+Training -> Precision:	0.95293599249	 Recall:  0.98627866213		 F-Score:  0.969320681988	 AUC:  0.994892279249
+Testing	 -> Precision:	0.631202716388	 Recall:  0.509484313018	 F-Score:  0.563849459219	 AUC:  0.621429123703
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_26.weights
+751386/751386 [==============================] - 920s - loss: 0.1838
+Epoch 28/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.182791
+
+Training -> Precision:	0.947698776642	 Recall:  0.986762478089	 F-Score:  0.966836209342	 AUC:  0.99467463308
+Testing	 -> Precision:	0.60535968466	 Recall:  0.531674480106	 F-Score:  0.566129507085	 AUC:  0.616028987843
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_27.weights
+751386/751386 [==============================] - 917s - loss: 0.1827
+Epoch 29/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.180680
+
+Training -> Precision:	0.957716644803	 Recall:  0.984371158224	 F-Score:  0.970860989318	 AUC:  0.994840500341
+Testing	 -> Precision:	0.628603372212	 Recall:  0.500132227431	 F-Score:  0.557056594679	 AUC:  0.616471747654
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_28.weights
+751386/751386 [==============================] - 922s - loss: 0.1806
+Epoch 30/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.179317
+
+Training -> Precision:	0.960252007679	 Recall:  0.985838468921	 F-Score:  0.972877037744	 AUC:  0.995174447868
+Testing	 -> Precision:	0.640194891847	 Recall:  0.495949032336	 F-Score:  0.558915169742	 AUC:  0.618181279149
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_29.weights
+751386/751386 [==============================] - 919s - loss: 0.1793
+Epoch 31/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.178992
+
+Training -> Precision:	0.959019146792	 Recall:  0.985021533776	 F-Score:  0.971846443684	 AUC:  0.99508957029
+Testing	 -> Precision:	0.625638689101	 Recall:  0.462170934006	 F-Score:  0.531622466193	 AUC:  0.607416888361
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_30.weights
+751386/751386 [==============================] - 921s - loss: 0.1789
+Epoch 32/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.176558
+
+Training -> Precision:	0.950671601034	 Recall:  0.987147151434	 F-Score:  0.968566086704	 AUC:  0.995150395199
+Testing	 -> Precision:	0.617712111829	 Recall:  0.503570140642	 F-Score:  0.554831532104	 AUC:  0.612436239413
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_31.weights
+751386/751386 [==============================] - 920s - loss: 0.1765
+Epoch 33/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.175354
+
+Training -> Precision:	0.955233390525	 Recall:  0.986929037682	 F-Score:  0.970822581243	 AUC:  0.995149203159
+Testing	 -> Precision:	0.631884229529	 Recall:  0.513330929198	 F-Score:  0.566471228079	 AUC:  0.631266803467
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_32.weights
+751386/751386 [==============================] - 917s - loss: 0.1753
+Epoch 34/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.174017
+
+Training -> Precision:	0.964708985883	 Recall:  0.986167622401	 F-Score:  0.975320287175	 AUC:  0.995657922724
+Testing	 -> Precision:	0.647189850534	 Recall:  0.481981007333	 F-Score:  0.552499586617	 AUC:  0.624699282508
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_33.weights
+751386/751386 [==============================] - 922s - loss: 0.1740
+Epoch 35/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.173675
+
+Training -> Precision:	0.959276558682	 Recall:  0.987123357207	 F-Score:  0.97300075834	 AUC:  0.995544143175
+Testing	 -> Precision:	0.624031983882	 Recall:  0.47657170333		 F-Score:  0.540423385723	 AUC:  0.613437830306
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_34.weights
+751386/751386 [==============================] - 919s - loss: 0.1736
+Epoch 36/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.172234
+
+Training -> Precision:	0.957628226824	 Recall:  0.987424750755	 F-Score:  0.972298260343	 AUC:  0.995568317082
+Testing	 -> Precision:	0.63782356373	 Recall:  0.499386945546	 F-Score:  0.560179067447	 AUC:  0.626464620055
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_35.weights
+751386/751386 [==============================] - 919s - loss: 0.1722
+Epoch 37/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.171201
+
+Training -> Precision:	0.954565359352	 Recall:  0.985485521213	 F-Score:  0.969779040453	 AUC:  0.99544467106
+Testing	 -> Precision:	0.619018498701	 Recall:  0.486717153504	 F-Score:  0.544952893674	 AUC:  0.608936698991
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_36.weights
+751386/751386 [==============================] - 919s - loss: 0.1712
+Epoch 38/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.170656
+
+Training -> Precision:	0.958667817137	 Recall:  0.986960763319	 F-Score:  0.972608575013	 AUC:  0.995729617769
+Testing	 -> Precision:	0.632242890742	 Recall:  0.497631926914	 F-Score:  0.556918772029	 AUC:  0.623181892395
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_37.weights
+751386/751386 [==============================] - 920s - loss: 0.1706
+Epoch 39/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.169759
+
+Training -> Precision:	0.956119986032	 Recall:  0.98810288624		 F-Score:  0.971848373212	 AUC:  0.995811570938
+Testing	 -> Precision:	0.625596450172	 Recall:  0.494867171535	 F-Score:  0.552605439072	 AUC:  0.61652532027
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_38.weights
+751386/751386 [==============================] - 921s - loss: 0.1697
+Epoch 40/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.169425
+
+Training -> Precision:	0.954202592393	 Recall:  0.988792918838	 F-Score:  0.971189857147	 AUC:  0.99583859599
+Testing	 -> Precision:	0.608733246866	 Recall:  0.507753335737	 F-Score:  0.553676759733	 AUC:  0.606273319611
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_39.weights
+751386/751386 [==============================] - 919s - loss: 0.1694
+Epoch 41/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.167235
+
+Training -> Precision:	0.954322365605	 Recall:  0.990101601352	 F-Score:  0.971882797629	 AUC:  0.996044444324
+Testing	 -> Precision:	0.607283745926	 Recall:  0.510734463277	 F-Score:  0.554840226178	 AUC:  0.61436133593
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_40.weights
+751386/751386 [==============================] - 922s - loss: 0.1672
+Epoch 42/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.167023
+
+Training -> Precision:	0.962868236521	 Recall:  0.988348759924	 F-Score:  0.975442125883	 AUC:  0.996203477189
+Testing	 -> Precision:	0.635306520142	 Recall:  0.478110349802	 F-Score:  0.545611676589	 AUC:  0.619775440118
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_41.weights
+751386/751386 [==============================] - 920s - loss: 0.1670
+Epoch 43/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.166554
+
+Training -> Precision:	0.960319416945	 Recall:  0.988638256359	 F-Score:  0.974273096764	 AUC:  0.996008267961
+Testing	 -> Precision:	0.631049970162	 Recall:  0.483038826782	 F-Score:  0.547212462892	 AUC:  0.612760797327
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_42.weights
+751386/751386 [==============================] - 919s - loss: 0.1666
+Epoch 44/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.165997
+
+Training -> Precision:	0.965725384383	 Recall:  0.987876841078	 F-Score:  0.976675527535	 AUC:  0.99639625918
+Testing	 -> Precision:	0.621923793613	 Recall:  0.465392475057	 F-Score:  0.532390918717	 AUC:  0.600765764613
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_43.weights
+751386/751386 [==============================] - 920s - loss: 0.1659
+Epoch 45/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.165337
+
+Training -> Precision:	0.954848308676	 Recall:  0.990026252964	 F-Score:  0.972119140055	 AUC:  0.996212028464
+Testing	 -> Precision:	0.61030436803	 Recall:  0.505204952518	 F-Score:  0.552803609244	 AUC:  0.612831645197
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_44.weights
+751386/751386 [==============================] - 921s - loss: 0.1653
+Epoch 46/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.164665
+
+Training -> Precision:	0.971562111971	 Recall:  0.986742649567	 F-Score:  0.979093541939	 AUC:  0.996644794999
+Testing	 -> Precision:	0.653456703911	 Recall:  0.449933886284	 F-Score:  0.532925179754	 AUC:  0.618852878205
+
+Saving To :  ./Models/RE_SYM_Austro_CF_DF_CoAtt_Model_40_16_37_0.001_0.02_12_TarakaInit_45.weights
+751386/751386 [==============================] - 919s - loss: 0.1646
+Epoch 47/50
+751360/751386 [============================>.] - ETA: 0ss--loss::0.164121

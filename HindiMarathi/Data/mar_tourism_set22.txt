@@ -1,0 +1,1001 @@
+ID	Value
+htd21001	मुंबईपासून\N-NNP उत्तर\N_NN दिशेला\N_NN वसलेले\V_VM बोर्डी\N-NNP एक\QT_QTC रमणीय\JJ पर्यटनस्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd21002	हहाणूबोर्डीचा\N-NNP समुद्रकिनारा\N_NN जवळजवळ\RB १७\QT_QTC कि.\N_NN मी.\N_NN पर्यंत\RP_RPD पसरलेला\V_VM आहे\V_VAUX .\RD_PUNC
+htd21003	हा\DM_DMR प्रदेश\N_NN चीकू\N_NN तसेच\CC_CCD इतर\QT_QTF फळांसाठी\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd21004	बोर्डी\N-NNP निवासी\JJ शाळांसाठी\N_NN देखील\RB प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd21005	येथून\PR_PRL जोरास्ट्रीयन\JJ लोकांचे\N_NN अदवादा\N-NNP स्थळ\N_NN पाहता\V_VM येते\V_VAUX .\RD_PUNC
+htd21006	जवळचे\RB विमानतळ\N_NN मुंबई\N-NNP १४५\QT_QTC कि.\N_NN मी.\N_NN जवळचे\RB रेल्वे\N_NN स्थानक\N_NN घोलवड\N-NNP २\QT_QTC कि.\N_NN मी.\N_NN तसेच\CC_CCD डहाणू\N-NNP रेल्वे\N_NN स्थानकापासून\N_NN १५\QT_QTC कि.\N_NN मी.\N_NN आहे\V_VM .\RD_PUNC
+htd21007	महामार्ग\N_NN मुंबईपासून\N-NNP बोर्डी\N-NNP १४५\QT_QTC कि.\N_NN मी.\N_NN ,\RD_PUNC डहाणूपासून\N-NNP बोर्डी\N-NNP १५\QT_QTC कि.\N_NN मी.\N_NN आहे\V_VM .\RD_PUNC
+htd21008	विदर्भामध्ये\N-NNP चिखलदरा\N-NNP छोटासे\JJ थंड\JJ हवेचे\N_NN ठिकाण\N_NN वन्य\JJ जीवन\N_NN आणि\CC_CCD झर्‍यांमुळे\N_NN पर्यटकांचे\N_NN मन\N_NN आकर्षित\JJ करते\V_VM .\RD_PUNC
+htd21009	कोल्काज\N-NNP ढाकना\N-NNP राष्ट्रीय\JJ उपवनामध्ये\N_NN वाघ\N_NN पहाण्यास\V_VM मिळतात\V_VAUX .\RD_PUNC
+htd21010	मेळघाटचा\N-NNP व्याघ्र\N_NN प्रकल्पदेखील\N_NN ह्याच\DM_DMR प्रदेशात\N_NN आहे\V_VM .\RD_PUNC
+htd21011	सेमाहोड\N-NNP फॉरेस्ट\N_NN लॉज\N_NN निवास\N_NN व्यवस्थादेखील\N_NN चांगली\JJ आहे\V_VM .\RD_PUNC
+htd21012	कार्ल्यात\N-NNP चैत्य\N-NNP गुफा\N_NN पाहता\V_VM येतात\V_VAUX ज्यातून\PR_PRL पर्यटकांना\N_NN ईस\N_NN पूर्व\N_NN दुसर्‍या\QT_QTO शतकाची\N_NN झलक\N_NN पहायला\V_VM मिळते\V_VAUX .\RD_PUNC
+htd21013	जवळच\RB भाजेमूव\N-NNP बेडसाच्या\N-NNP गुफा\N_NN पाहता\V_VM येतील\V_VAUX ज्या\PR_PRL कार्ल्यापासून\N-NNP ६\QT_QTC कि.\N_NN मी.\N_NN अंतरावर\N_NN आहेत\V_VM .\RD_PUNC
+htd21014	१८व्या\N_NN शतकातील\N_NN लोहगड\N-NNP येथील\PR_PRL किल्ले\N_NN केवळ\JJ ३\QT_QTC कि.\N_NN मी.\N_NN अंतरावर\N_NN आहेत\V_VM .\RD_PUNC
+htd21015	दर्शनीय\JJ स्थळ\N_NN विशाल\JJ बलवणदेखील\N-NNP जवळ\RB आहे\V_VM .\RD_PUNC
+htd21016	कार्ल्यापासून\N-NNP जवळच\RB खंडाळा\N-NNP आणि\CC_CCD लोणावळा\N-NNP ही\DM_DMR थंड\JJ हवेची\N_NN ठिकाणं\N_NN आहेत\V_VM .\RD_PUNC
+htd21017	कसे\PR_PRQ जावे\V_VM :-\N_NN जवळचे\RB विमानतळ\N_NN पुणे\N-NNP ५६\QT_QTC कि.\N_NN मी.\N_NN आहे\V_VM .\RD_PUNC
+htd21018	जवळचे\RB रेल्वे\N_NN स्थानक\N_NN मलवली\N-NNP २\QT_QTC कि.\N_NN मी.\N_NN परंतु\CC_CCD लोणावळा\N-NNP रेल्वे\N_NN स्थानक\N_NN १०\QT_QTC कि.\N_NN मी.\N_NN जास्त\QT_QTF सोयीस्कर\RB आहे\V_VM .\RD_PUNC
+htd21019	महामार्गाने\N_NN मुंबईपासून\N-NNP कार्ल्याचे\N-NNP अंतर\N_NN १४४\QT_QTC कि.\N_NN मी.\N_NN आणि\CC_CCD पुण्यापासून\N-NNP ५६\QT_QTC किलोमीटर\N_NN आहे\V_VM .\RD_PUNC
+htd21020	लोणावळ्यापासून\N-NNP कार्ल्यासाठी\N-NNP नियमित\JJ राज्य\N_NN परिवहन\N_NN महामंडळाची\N_NN बससेवा\N_NN उपलब्ध\JJ आहे\V_VM .\RD_PUNC
+htd21021	खिंडसे\N-NNP तलावाला\N_NN रामटेक\N-NNP टेकडीवर\N_NN पसरलेल्या\V_VM हिरवळीवर\N_NN वसलेले\V_VM एक\QT_QTC रत्‍नच\N_NN म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21022	हे\DM_DMR लहान\JJ परंतु\CC_CCD आकर्षक\N_NN पर्यटनस्थळ\N_NN सुट्ट्या\N_NN घालवण्यासाठी\N-NNP चांगले\JJ आहे\V_VM .\RD_PUNC
+htd21023	येथुन\PR_PRL रामटेक\N-NNP आणि\CC_CCD कालिदास\N-NNP स्मारक\N_NN देखील\RB पाहता\V_VM येते\V_VAUX .\RD_PUNC
+htd21024	समुद्रसपाटीपासून\N_NN १,३७२\QT_QTC मीटर\N_NN उंचीवर\N_NN वसलेले\V_VM महाबळेश्‍वर\N-NNP महाराष्‍ट्रातील\N-NNP सर्वात\RP_INTF लोकप्रिय\JJ थंड\JJ हवेचे\N_NN ठिकाण\N_NN आहे\V_VM .\RD_PUNC
+htd21025	निसर्गाचा\N_NN देखावा\N_NN येथील\PR_PRL ३०\QT_QTC व्यू\N_NN प्वाइंटवरुन\N_NN पाहता\V_VM येतो\V_VAUX .\RD_PUNC
+htd21026	वेण्णा\N-NNP सरोवराच्या\N_NN स्वच्छ\JJ पाण्यामध्ये\N_NN नौकाविहाराचा\N_NN आनंद\N_NN घेण्याची\V_VM सोनेरी\JJ संधी\N_NN मिळते\V_VM .\RD_PUNC
+htd21027	लिंगमाला\N-NNP धबधब्याच्या\N_NN रोमांचक\JJ दर्शनाने\N_NN एक\QT_QTC वेगळा\JJ अनुभव\N_NN मिळेल\V_VM .\RD_PUNC
+htd21028	महाबळेश्‍वरचे\N-NNP नाव\N_NN इथल्या\PR_PRL महाबली\N-NNP देवीच्या\N_NN नावावर\N_NN पडले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21029	येथुन\PR_PRL काही\QT_QTF अंतरावर\N_NN आहे\V_VM महाराष्‍ट्रातील\N-NNP आणखी\JJ एक\QT_QTC थंड\JJ हवेचे\N_NN ठिकाण\N_NN ते\DM_DMR म्हणजे\CC_CCD पाचगणी\N-NNP .\RD_PUNC
+htd21030	येथुन\PR_PRL जवळ\RB आहे\V_VM प्रतापगड\N-NNP २४\QT_QTC कि.\N_NN मी.\N_NN आणि\CC_CCD रायगड\N-NNP ८०\QT_QTC कि.\N_NN मी.\N_NN
+htd21031	हे\DM_DMR ऐतिहासिक\JJ किल्लेदेखील\N_NN दर्शनीय\JJ आहेत\V_VM .\RD_PUNC
+htd21032	जवळचे\RB विमानतळ\N_NN पुणे\N-NNP १२०\QT_QTC कि.\N_NN मी.\N_NN आहे\V_VM .\RD_PUNC
+htd21033	जवळचे\RB रेल्वे\N_NN स्थानक\N_NN ’\RD_PUNC वाठार\N-NNP ’\RD_PUNC परंतु\CC_CCD पुणे\N-NNP रेल्वे\N_NN स्थानक\N_NN जास्त\QT_QTF सोयीस्कर\RB आहे\V_VM .\RD_PUNC
+htd21034	पुणे\N-NNP -\RD_PUNC मुंबईवरुन\N-NNP राज्य\N_NN परिवहन\N_NN मंडळाच्या\N_NN बसेस\N_NN नियमितपणे\RB उपलब्ध\JJ आहेत\V_VM .\RD_PUNC
+htd21035	दक्षिण\N_NN पूर्व\N_NN रेल्वेवर\N_NN देऊळगाव\N-NNP १\QT_QTC कि.\N_NN मी.\N_NN अंतरावर\N_NN आहे\V_VM .\RD_PUNC
+htd21036	रायगड\N-NNP :-\RD_PUNC ही\DM_DMR शिवाजी\N-NNP महाराजांची\N_NN राजधानी\N_NN आहे\V_VM .\RD_PUNC
+htd21037	ह्याच\DM_DMR ठिकाणी\N_NN त्यांचा\PR_PRL राज्याभिषेक\N_NN झाला\V_VM आणि\CC_CCD त्यांचा\PR_PRL अंतही\N_NN येथेच\DM_DMD झाला\V_VM होता\V_VAUX .\RD_PUNC
+htd21038	ह्याच\DM_DMR ठिकाणी\N_NN शिवाजी\N-NNP महाराजांची\N_NN समाधी\N_NN आणि\CC_CCD त्यांच्या\PR_PRL महालाचे\N_NN अवशेषदेखील\N_NN दिसतील\V_VM .\RD_PUNC
+htd21039	गंगासागर\N-NNP तलाव\N_NN आणि\CC_CCD पाचाडचा\N-NNP जीजाबाईचा\N-NNP राजवाडा\N-NNP ह्या\DM_DMR पर्यटनस्थळाची\N_NN प्रमुख\JJ आकर्षणं\N_NN आहेत\V_VM .\RD_PUNC
+htd21040	आपल्या\PR_PRP अप्रतिम\JJ सुंदरतेमुळे\N_NN रायगड\N-NNP गिर्यारोहकांसाठी\N_NN अनमोल\JJ स्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd21041	अजस्त्र\JJ रायगड\N-NNP आणि\CC_CCD शिवाजी\N-NNP महाराजांचे\N_NN अश्‍वारूढ\JJ पुतळे\N_NN येथील\PR_PRL दर्शनीय\JJ ठिकाणे\N_NN आहेत\V_VM .\RD_PUNC
+htd21042	सर्वात\RP_INTF जवळचे\RB विमानतळ\N_NN पुणे\N-NNP १२६\QT_QTC कि.\N_NN मी.\N_NN अंतरावर\N_NN आहे\V_VM .\RD_PUNC
+htd21043	जवळचे\RB रेल्वे\N_NN स्थानक\N_NN वीर\N-NNP ४०\QT_QTC कि.\N_NN मी.\N_NN (\RD_SYM कोंकण\N-NNP रेल्वे\N_NN )\RD_SYM आहे\V_VM .\RD_PUNC
+htd21044	महामार्गाने\N_NN मुंबई\N-NNP ,\RD_PUNC महाड\N-NNP आणि\CC_CCD पूण्यापासून\N-NNP रायगडच्या\N-NNP पायथ्यापर्यंत\N_NN बससेवा\N_NN उपलब्ध\JJ आहे\V_VM .\RD_PUNC
+htd21045	पायथ्यापासून\N_NN किल्ल्यापर्यंत\N_NN जाण्यासाठी\V_VM खाजगी\JJ रज्जूमार्ग\N_NN सुविधा\N_NN उपलब्ध\JJ आहे\V_VM .\RD_PUNC
+htd21046	सिंदखेड\N-NNP राजा\N_NN :-\N_NN हे\DM_DMR पर्यटनस्थळ\N_NN बुलढाणापासून\N-NNP १०५\QT_QTC किमी.\N_NN अंतरावर\N_NN राजमार्ग\N_NN १८३\QT_QTC वर\N_NST आहे\V_VM .\RD_PUNC
+htd21047	हे\DM_DMR स्थान\N_NN शिवाजी\N-NNP महाराजांची\N_NN माता\N_NN राजमाता\N_NN जीजाबाईंचे\N-NNP स्थान\N_NN आहे\V_VM .\RD_PUNC
+htd21048	ह्या\DM_DMR छोट्या\JJ शहरामध्ये\N_NN खूप\QT_QTF जुन्या\JJ वस्तू\N_NN आहेत\V_VM .\RD_PUNC
+htd21049	जीजामाता\N-NNP आणि\CC_CCD त्यांचे\PR_PRL वडील\N_NN लखुजी\N-NNP जाधव\N-NNP ह्यांच्या\DM_DMR आठवणी\N_NN करुन\V_VM देणार्‍या\V_VM अनेक\QT_QTF वस्तू\N_NN येथे\DM_DMD ठेवल्या\V_VM आहेत\V_VAUX .\RD_PUNC
+htd21050	लखुजी\N-NNP जाधव\N-NNP ह्यांच्या\DM_DMR समाधीची\N_NN वास्तुकला\N_NN दर्शनीय\JJ आहे\V_VM .\RD_PUNC
+htd21051	जवळचे\RB विमानतळ\N_NN औरंगाबाद\N-NNP १०\QT_QTC कि.\N_NN मी.\N_NN आहे\V_VM .\RD_PUNC
+htd21052	जालना\N-NNP दक्षिण\N_NN मध्य\N_NST रेल्वेवर\N_NN जवळचे\RB रेल्वे\N_NN स्थानक\N_NN आहे\V_VM .\RD_PUNC
+htd21053	महामार्गाने\N_NN मुंबई\N-NNP ,\RD_PUNC अहमदनगर\N-NNP ,\RD_PUNC पैठणवरुन\N-NNP जाता\V_VM येते\V_VAUX .\RD_PUNC
+htd21054	वर्धा\N-NNP :-\N_NN आधुनिक\JJ भारतातील\N-NNP २\QT_QTC तीर्थक्षेत्रांना\N_NN एकत्र\JJ पाहण्यासाठी\V_VM हे\DM_DMR सोयीस्कर\RB स्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd21055	सेवाग्रामचा\N-NNP गांधीजींचा\N-NNP आश्रम\N_NN (\RD_SYM ८\QT_QTC कि.\N_NN मी.\N_NN )\RD_SYM तसेच\CC_CCD विनोबाजींचा\N-NNP पवनार\N-NNP आश्रम\N_NN (\RD_SYM १३\QT_QTC कि.मी.\N_NN )\RD_SYM ही\DM_DMR दोन्हीं\N_NN तीर्थक्षेत्र\N_NN वर्ध्यामध्ये\N-NNP आहेत\V_VM .\RD_PUNC
+htd21056	ह्या\DM_DMR ठिकाणी\N_NN गांधी\N-NNP ज्ञान\N_NN मंदिर\N_NN ,\RD_PUNC मगनवाडी\N-NNP ,\RD_PUNC बजाजवाडी\N-NNP आणि\CC_CCD गीताई\N-NNP मंदिरदेखील\N_NN प्रेक्षणीय\JJ आहेत\V_VM .\RD_PUNC
+htd21057	वर्ध्यापासून\N-NNP मध्य\N_NST रेल्वेचे\N_NN एक\QT_QTC प्रमुख\JJ जंक्शन\N_NN आहे\V_VM .\RD_PUNC
+htd21058	तोरणामाल\N-NNP :-\RD_PUNC हे\DM_DMR नाव\N_NN कधी\PR_PRQ ऐकले\V_VM नाही\V_VAUX ना\RP_NEG ?\RD_PUNC
+htd21059	हे\DM_DMR एक\QT_QTC थंड\JJ हवेचे\N_NN ठिकाण\N_NN आहे\V_VM आणि\CC_CCD सातपुडा\N-NNP पर्वतरांगांमध्ये\N_NN समुद्रकिनार्‍यापासून\N_NN १४६१\QT_QTC कि.\N_NN मी.\N_NN उंचीवर\N_NN वसलेले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21060	धुलियापासून\N-NNP १२८\QT_QTC कि.\N_NN मी.\N_NN अंतरावर\N_NN जाण्यासाठी\V_VM बसची\N_NN सुविधा\N_NN उपलब्ध\JJ आहे\V_VM .\RD_PUNC
+htd21061	पुण्याजवळ\N-NNP पानशेत\N-NNP आणि\CC_CCD भातघर\N-NNP ही\DM_DMR २\QT_QTC धरणं\N_NN आहेत\V_VM आणि\CC_CCD पानशेतमध्ये\N-NNP वॉटर\N_NN पार्क\N_NN बनवलेले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21062	बेलवंडी\N-NNP नदीवर\N_NN बांधलेल्या\V_VM भातघर\N-NNP धरणावर\N_NN जाण्यासाठी\V_VM पुण्याहून\N-NNP मुंबईकडे\N-NNP येताना\V_VM पिंपरी\N-NNP आणि\CC_CCD चिंचवड\N-NNP ही\DM_DMR उपनगरं\N_NN मार्गात\N_NN येतात\V_VM .\RD_PUNC
+htd21063	तिथे\DM_DMD दुर्गादेवी\N-NNP उद्यान\N_NN आणि\CC_CCD इंदिरा\N-NNP गांधी\N-NNP उद्यान\N_NN प्रेक्षणीय\JJ आहेत\V_VM .\RD_PUNC
+htd21064	गणेशपूरी\N-NNP :-\RD_PUNC ठाणे\N-NNP आणि\CC_CCD कल्याणपासून\N-NNP ६०\QT_QTC कि.\N_NN मी.\N_NN अंतरावर\N_NN वसलेल्या\V_VM गणेशपूरीला\N-NNP जाण्यासाठी\V_VM एस.टी\N_NN बसची\N_NN सुविधा\N_NN उपलब्ध\JJ आहे\V_VM .\RD_PUNC
+htd21065	गरम\JJ पाण्याचे\N_NN झरे\N_NN येथील\PR_PRL खास\JJ आकर्षण\N_NN आहे\V_VM .\RD_PUNC
+htd21066	एम\N_NN टी\N_NN डी\N_NN सीची\N_NN उपाहारगृहं\N_NN पर्यटकांसाठी\N_NN उपलब्ध\JJ आहेत\V_VM .\RD_PUNC
+htd21067	बाहुबली\N-NNP :-\RD_PUNC कोल्हापूरपासून\N-NNP २७\N_NN कि.\N_NN मी.\N_NN अंतरावर\N_NN कुंभोजगिरीमध्ये\N-NNP जैन\N_NN महावीराचा\N-NNP (\RD_SYM बाहुबली\N-NNP )\RD_SYM २८\QT_QTC फुट\N_NN उंच\JJ संगमरमरी\N_NN पुतळा\N_NN आहे\V_VM .\RD_PUNC
+htd21068	घोडबंदर\N-NNP :-\RD_PUNC आज\RB घोडबंदरचे\N-NNP नाव\N_NN घेताच\V_VM टॉवर\N_NN आणि\CC_CCD इमारतींनी\N_NN भरलेला\V_VM आणि\CC_CCD खड्ड्यांनी\N_NN वेढलेला\V_VM प्रदेश\N_NN आठवतो\V_VM .\RD_PUNC
+htd21069	परंतु\CC_CCD ह्याच\DM_DMR नावाचा\N_NN एक\QT_QTC किल्ला\N_NN अस्तित्त्वात\N_NN आहे\V_VM आणि\CC_CCD मराठा\N_NN आणि\CC_CCD पोर्तुगीज\N_NN ह्यांच्या\DM_DMR कालखंडाची\N_NN आठवण\N_NN जागी\N_NN होते\V_VM .\RD_PUNC
+htd21070	येथून\PR_PRL वसई\N-NNP खाडीचे\N_NN रम्य\JJ दृश्य\N_NN स्पष्ट\JJ दिसून\V_VM येते\V_VAUX .\RD_PUNC
+htd21071	नदी\N_NN ,\RD_PUNC पहाड\N_NN आणि\CC_CCD पाम\N_NN वृक्षांनी\N_NN सजलेला\V_VM हा\DM_DMR दर्शनीय\JJ परिसर\N_NN आहे\V_VM .\RD_PUNC
+htd21072	बोरिवली\N-NNP आणि\CC_CCD ठाण्यापासून\N-NNP केवळ\JJ ८\QT_QTC कि.\N_NN मी.\N_NN अंतरावर\N_NN जाण्यासाठी\V_VM बेस्टच्या\N_NN बसेस\N_NN उपलब्ध\JJ आहेत\V_VM .\RD_PUNC
+htd21073	सोमेश्‍वर\N-NNP :-\RD_PUNC नाशिकमध्ये\N-NNP गंगापूर\N-NNP रोडवर\N_NN गोदावरी\N-NNP नदीचा\N_NN हा\DM_DMR परिसर\N_NN शांत\JJ तसेच\CC_CCD सुंदर\JJ आहे\V_VM .\RD_PUNC
+htd21074	ह्याशिवाय\CC_CCD तेथे\DM_DMD एक\QT_QTC धबधबादेखील\N_NN आहे\V_VM आणि\CC_CCD नदीमध्ये\N_NN नौकाविहाराची\N_NN सुविधादेखील\N_NN उपलब्ध\JJ आहे\V_VM .\RD_PUNC
+htd21075	उनपदेवकुंड\N-NNP :-\RD_PUNC चोपडा\N-NNP नामक\N_NN शहरापासून\N_NN ३०\QT_QTC -\RD_PUNC ३५\QT_QTC कि.मी.\N_NN अंतरावर\N_NN वसलेला\V_VM हा\DM_DMR कुंडाचा\N_NN परिसरदेखील\N_NN शांत\JJ आणि\CC_CCD रमणीय\JJ स्थळ\N_NN आहे\V_VM .\RD_PUNC
+htd21076	अनकाई\N-NNP किल्ला\N_NN :-\RD_PUNC मनमाड\N-NNP रेल्वे\N_NN मार्गावर\N_NN स्थित\JJ अनकाई\N-NNP किल्ला\N_NN पाहण्यासाठी\V_VM अनेक\QT_QTF पर्यटक\N_NN येतात\V_VM .\RD_PUNC
+htd21077	माहुली\N-NNP किल्ला\N_NN :-\N_NN शहापूरच्या\N-NNP जवळ\RB आहे\V_VM हा\DM_DMR किल्ला\N_NN .\RD_PUNC
+htd21078	वाशिंद\N-NNP रेल्वे\N_NN स्थानकावरुन\N_NN पावसात\N_NN पायी\N_NN चालून\V_VM ह्याचे\DM_DMR विलक्षण\JJ रुप\N_NN बघु\V_VM शकता\V_VAUX .\RD_PUNC
+htd21079	फाळके\N-NNP स्मारक\N_NN :-\RD_PUNC हे\DM_DMR भारतीय\JJ चित्रपटसृष्टीचे\N_NN जनक\N_NN दादासाहेब\N-NNP फाळके\N-NNP ह्यांची\DM_DMR नाशिक\N-NNP ही\DM_DMR जन्मभूमी\N_NN आहे\V_VM .\RD_PUNC
+htd21080	नाशिकला\N-NNP जाताना\V_VM नाशिकच्या\N-NNP अलिकडेच\N_NST ३\QT_QTC -\RD_PUNC ४\QT_QTC कि.\N_NN मी.\N_NN अंतरावर\N_NN हे\DM_DMR स्मारक\N_NN बांधले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21081	आरवची\N-NNP देवराई\N-NNP :-\N_NN स्वाभाविक\JJ हिरवळीचे\N_NN दृश्य\N_NN बघायचे\V_VM असेल\V_VAUX तर\CC_CCS महाराष्‍ट्राच्या\N-NNP सातारा\N-NNP जिल्हाच्या\N_NN आरवच्या\N-NNP देवराईचे\N-NNP पर्यटन\N_NN करणे\V_VM आवश्यक\JJ आहे\V_VM .\RD_PUNC
+htd21082	ह्या\DM_DMR जंगलामध्ये\N_NN अनेक\QT_QTF उपयोगी\JJ वनस्पती\N_NN लावल्या\V_VM आहेत\V_VAUX ज्या\PR_PRL अनेक\QT_QTF आजारांवर\N_NN गुणकारी\JJ आहेत\V_VM .\RD_PUNC
+htd21083	शेतीची\N_NN औजारे\N_NN आणि\CC_CCD घर\N_NN बनवण्यासाठी\V_VM देवराईच्या\N-NNP वृक्षांचा\N_NN उपयोग\N_NN केला\V_VM जातो\V_VAUX .\RD_PUNC
+htd21084	आपल्या\PR_PRP अद्‍भुत\JJ पिरॅमिडस्साठी\N_NN इजिप्‍त\N-NNP जगभरातून\N_NN लोकांना\N_NN आपल्याकडे\PR_PRP आकर्षित\JJ करते\V_VM .\RD_PUNC
+htd21085	हे\DM_DMR पिरॅमिड\N_NN इतिहासातील\N_NN एका\QT_QTC वेगळ्याच\JJ जगाला\N_NN आपल्या\PR_PRP समोर\N_NST ठेवतात\V_VM .\RD_PUNC
+htd21086	उघड\JJ आहे\V_VM की\CC_CCS येथे\DM_DMD पिरॅमिड्सची\N_NN विपुलता\N_NN आहे\V_VM .\RD_PUNC
+htd21087	पण\CC_CCD असे\RB दिसते\V_VM की\CC_CCS ह्या\DM_DMR जगाचे\N_NN पूर्ण\QT_QTF सत्य\N_NN अजुन\RB आमच्या\PR_PRP समोर\N_NST यायचे\V_VM आहे\V_VAUX .\RD_PUNC
+htd21088	पुरातत्वशास्त्रज्ञाने\JJ सक्काराच्या\N-NNP वाळूच्या\N_NN खाली\N_NST एक\QT_QTC आणखी\RB पिरॅमिड\N_NN शोधून\V_VM काढले\V_VAUX .\RD_PUNC
+htd21089	सक्काराचा\N-NNP प्रदेश\N_NN आतापर्यंत\CC_CCD खूप\QT_QTF कमी\QT_QTF शोधला\V_VM गेला\V_VAUX आहे\V_VAUX .\RD_PUNC
+htd21090	खरेतर\RB अलिकडील\N_NST काही\QT_QTF वर्षांमध्ये\N_NN अनेक\QT_QTF न\RP_NEG शोधलेले\V_VM पिरॅमिड\N_NN येथे\DM_DMD आढळले\V_VM आहेत\V_VAUX .\RD_PUNC
+htd21091	म्हटले\V_VM जाते\V_VAUX की\CC_CCS अलिकडेच\N_NST मिळालेले\V_VM पिरॅमिड\N_NN ४३००\QT_QTC वर्ष\N_NN जुने\JJ आहे\V_VM आणि\CC_CCD हे\DM_DMR गिजाच्या\N-NNP महान\JJ पिरॅमिडस\N_NN नंतर\RB कित्येक\QT_QTF शतकांनंतर\N_NN बनले\V_VM .\RD_PUNC
+htd21092	हे\DM_DMR पिरॅमिड\N_NN इजिप्तच्या\N-NNP सहाव्या\N_NN राजवंशाच्या\N_NN संस्थापकची\N_NN राणी\N_NN मां\N_NN सेशेशतचे\N-NNP सांगितले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21093	ह्या\DM_DMR राणीने\N_NN राजघराण्याच्या\N_NN आपापसात\PR_PRC भांडणार्‍या\V_VM दोन\QT_QTC शाखांना\N_NN एक\QT_QTC करुन\V_VM सहाव्या\N_NN वंशाच्या\N_NN स्थापनेमध्ये\N_NN महत्त्वपूर्ण\N_NN भूमिका\N_NN बजावली\V_VM होती\V_VAUX .\RD_PUNC
+htd21094	इजिप्तचे\N-NNP पिरॅमिड\N_NN आपल्याला\PR_PRP हजारो\N_NN वर्ष\N_NN प्राचीन\JJ सभ्यता\N_NN आणि\CC_CCD अद्‍भुत\JJ वास्तुशिल्प\N_NN ह्यांची\DM_DMR कहाणी\N_NN सांगतात\V_VM जेव्हा\CC_CCS असे\RB मानले\V_VM जात\V_VAUX होते\V_VAUX की\CC_CCS कोणताही\DM_DMQ राजा\N_NN मेल्यानंतर\V_VM मृतांचा\N_NN राजा\N_NN होत\V_VM होता\V_VAUX आणि\CC_CCD त्याच्या\PR_PRL आतील\N_NST एखादा\QT_QTC भाग\N_NN मेल्यानंतरसुद्धा\V_VM राजा\N_NN म्हणून\CC_CCS_UT कर्तव्य\N_NN निभवत\V_VM राहतो\V_VAUX .\RD_PUNC
+htd21095	ह्यामुळे\CC_CCD त्याच्या\PR_PRL शरीरलाला\N_NN ममीमध्ये\N_NN बदलून\V_VM पिरॅमिडमध्ये\N_NN ठेवले\V_VM जात\V_VAUX होते\V_VAUX त्या\PR_PRL अनेक\QT_QTF सुविधांबरोबर\N_NN ज्याची\PR_PRL आवश्यकता\N_NN त्याला\PR_PRL भासत\V_VM असे\V_VAUX .\RD_PUNC
+htd21096	येथपर्यंत\DM_DMD की\CC_CCS चाकरांच्या\N_NN मूर्तीदेखील\N_NN पिरॅमिडच्या\N_NN आत\N_NST उभ्या\N_NN केल्या\V_VM जात\V_VAUX .\RD_PUNC
+htd21097	गिजापासून\N-NNP १९\QT_QTC किलोमीटर\N_NN दक्षिणेला\N_NN मिस्रच्या\N-NNP प्राचीन\JJ राजघराण्याची\N_NN राजधानी\N_NN ’मेम्फिस’च्या\N-NNP राजांच्या\N_NN दफन-भूमीत\N_NN हा\DM_DMR शोध\N_NN नुकताच\N_NST लागला\V_VM .\RD_PUNC
+htd21098	पंचवीस\QT_QTC मीटर\N_NN वाळूमध्ये\N_NN दफन\N_NN केलेल्या\V_VM ह्या\DM_DMR पिरॅमिडचा\N_NN केवळ\JJ पाच\QT_QTC मीटर\N_NN उंच\JJ चौरस\N_NN भाग\N_NN बाकी\QT_QTF राहिला\V_VM होता\V_VAUX .\RD_PUNC
+htd21099	येथे\DM_DMD इतकी\QT_QTF वाळू\N_NN जमली\V_VM होती\V_VAUX की\CC_CCS कोणालाच\DM_DMQ ह्या\DM_DMR गोष्टीचा\N_NN अंदाज\N_NN नव्हता\V_VM की\CC_CCS खाली\N_NST काय\PR_PRQ आहे\V_VM .\RD_PUNC
+htd21100	येथे\DM_DMD दोन\QT_QTC वर्षापासून\N_NN उत्खननचे\N_NN काम\N_NN चालू\JJ होते\V_VM परंतू\CC_CCD केवळ\JJ दोन\QT_QTC महिने\N_NN आधी\N_NST हे\DM_DMR स्पष्ट\JJ झाले\V_VM की\CC_CCS २२\QT_QTC मीटर\N_NN लांबी\N_NN -\RD_PUNC रुंदी\N_NN असणारा\V_VM आकार\N_NN खरे\N_NN म्हणजे\CC_CCD एखाद्या\JJ पिरॅमिडचा\N_NN आधार\N_NN आहे\V_VM .\RD_PUNC
+htd21101	त्यांना\PR_PRL पिरॅमिडचे\N_NN पांढर्‍या\JJ चुनखडीचे\N_NN भागदेखील\N_NN मिळाले\V_VM जे\PR_PRL कधी\PR_PRQ पूर्ण\QT_QTF पिरॅमिडवर\N_NN लावलेले\V_VM असेल\V_VAUX .\RD_PUNC
+htd21102	त्यामुळेच\CC_CCD त्यांना\PR_PRL ही\DM_DMR गणना\N_NN करण्यांमध्ये\V_VM मदत\N_NN झाली\V_VM की\CC_CCS पिरॅमिड\N_NN १४\QT_QTC मीटर\N_NN उंच\JJ असेल\V_VM .\RD_PUNC
+htd21103	इजिप्तमध्ये\N-NNP आतापर्यंत\CC_CCD शोधले\V_VM गेलेले\V_VAUX हे\DM_DMR ११८वे\N_NN पिरॅमिड\N_NN आहे\V_VM म्हणजे\CC_CCD इजिप्तला\N-NNP जाण्याच्या\V_VM निमित्तांमध्ये\N_NN एकाची\N_NN वाढ\N_NN .\RD_PUNC
+htd21104	इजिप्तचे\N-NNP पहिले\QT_QTO पिरॅमिडदेखील\N_NN सक्कारामध्येच\N-NNP इ.स.\N_NN २६३०\QT_QTC पूर्वी\N_NN तयार\JJ केले\V_VM आहे\V_VAUX असे\CC_CCS_UT सांगितले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21105	ही\DM_DMR त्या\PR_PRL काळातील\N_NN जगातील\N_NN सर्वात\RP_INTF उंच\JJ इमारत\N_NN म्हणून\CC_CCS_UT सांगितली\V_VM जात\V_VAUX होती\V_VAUX त्यानंतर\N_NST अशातर्‍हेच्या\JJ पिरॅमिड्सची\N_NN प्रथा\N_NN चालू\JJ झाली\V_VM .\RD_PUNC
+htd21106	हिमाचलप्रदेश\N-NNP पर्यटन\N_NN विकास\N_NN महामंडळाने\N_NN चालू\JJ विवाह\N_NN सीजनच्या\N_NN दरम्यान\N_NN नव\JJ दांपत्यांना\N_NN आगामी\JJ २०\QT_QTC डिसेंबर\N_NN २००८पर्यंत\N_NN \N_NN आकर्षक\JJ हनीमून\N_NN पॅकेज\N_NN सुरू\JJ केले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21107	नंदाने\N-NNP सांगितले\V_VM की\CC_CCS पॅकेजमध्ये\N_NN जोडप्यांना\N_NN सुधारीत\JJ अमेरिकन\JJ योजनेच्या\N_NN अंतर्गत\JJ सुविधा\N_NN दिल्या\V_VM जाणार\V_VAUX आहेत\V_VAUX .\RD_PUNC
+htd21108	नवविवाहितांसाठी\N_NN वेलकम\N_NN ड्रिंक\N_NN ,\RD_PUNC बेड\N_NN टी\N_NN ,\RD_PUNC नाश्ता\N_NN आणि\CC_CCD लंच\N_NN वा\N_NN डिनर\N_NN (\RD_SYM शाकाहारी\N_NN भोजन\N_NN )\RD_SYM मोफत\JJ उपलब्ध\JJ केले\V_VM जाईल\V_VAUX .\RD_PUNC
+htd21109	ह्याशिवाय\CC_CCD नवदांपत्यांना\N_NN आरामदायी\JJ बसगाडीमध्ये\N_NN मनाली-लेह\N-NNP राष्‍ट्रीय\JJ राजमार्गावर\N_NN स्नो\N_NN प्वाइंट\N_NN (\RD_SYM सामान्यतः\RB रोहतांग\N-NNP दरी\N_NN )\RD_SYM पर्यंत\RP_RPD फिरायला\V_VM नेले\V_VAUX जाईल\V_VAUX आणि\CC_CCD मनालीच्या\N-NNP प्रतिष्‍ठित\JJ क्लब\N_NN हाउसच्या\N_NN डिस्कोथिकमध्ये\N_NN मोफत\JJ प्रवेश\N_NN दिला\V_VM जाईल\V_VAUX .\RD_PUNC
+htd21110	हनीमून\N_NN पॅकेजचे\N_NN आरक्षण\N_NN देशभरामध्ये\N_NN राज्य\N_NN पर्यटन\N_NN महामंडळाच्या\N_NN सर्व\QT_QTF कार्यालयांतून\N_NN नाहीतर\CC_CCD इंटरनेटच्या\N_NN माध्यमातून\N_NN करता\V_VM येते\V_VAUX .\RD_PUNC
+htd21111	ह्याशिवाय\CC_CCD हिमाचल\N-NNP पर्यटन\N_NN विकास\N_NN महामंडळ\N_NN हिवाळ्यात\N_NN म्हणजे\CC_CCD १५\QT_QTC नोव्हेंबर\N_NN ते\CC_CCS १४\QT_QTC एप्रिल\N_NN पर्यंत\RP_RPD आपल्या\PR_PRP बहुतांश\QT_QTF उपाहारगृहामध्ये\N_NN पर्यटकांना\N_NN भाड्यांमध्ये\N_NN २०\QT_QTC ते\CC_CCS ३०\QT_QTC टक्क्याची\N_NN सूट\N_NN देत\V_VM आहे\V_VAUX .\RD_PUNC
+htd21112	यामध्ये\PR_PRL काहीवेळा\QT_QTF म्हणजे\CC_CCD नाताळ\N_NN व\CC_CCD नवीन\JJ वर्ष\N_NN महणजे\CC_CCD २३\QT_QTC डिसेंबर\N_NN ते\CC_CCS २\QT_QTC जानेवारी\N_NN पर्यंत\RP_RPD ही\DM_DMR सूट\N_NN नाही\V_VAUX मिळणार\V_VM .\RD_PUNC
+htd21113	देशात\N_NN प्रवासी\JJ पक्ष्यांचे\N_NN सगळ्यात\QT_QTF मोठ्या\JJ स्थानी\N_NN ओरिसातील\N-NNP चिल्का\N-NNP सरोवरात\N_NN बगळे\N_NN येऊ\V_VM लागले\V_VAUX आहेत\V_VAUX आणि\CC_CCD आधीच\N_NST चार\QT_QTC लाख\QT_QTC पक्ष्यांचे\N_NN आगमन\N_NN तेथे\DM_DMD झाले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21114	ह्यामुळे\CC_CCD त्या\PR_PRL शंकेवर\N_NN देखील\RB पूर्णविराम\N_NN लागला\V_VM आहे\V_VAUX ज्यांमध्ये\PR_PRL ही\DM_DMR शंका\N_NN व्यक्‍त\JJ केली\V_VM जात\V_VAUX होती\V_VAUX की\CC_CCS प्रवासी\JJ पक्ष्यांच्या\N_NN संख्येमध्ये\N_NN घट\N_NN होऊ\V_VM लागली\V_VAUX आहे\V_VAUX .\RD_PUNC
+htd21115	एकूण\QT_QTF ११००\QT_QTC किलोमीटर\N_NN त्रिज्या\N_NN असणारे\V_VM आणि\CC_CCD ओरिसाच्या\N_NNP तीन\QT_QTC जिल्हे्\N_NN खुरदा\N_NNP , पूरी\N_NNP आणि\CC_CCD गंजममध्ये\N_NNP पसरलेल्या\V_VM ह्या\DM_DMR सरोवरांमध्ये\N_NN पोहचणार्‍या\V_VM सुरूवातीच्या\N_NN पाहुण्यांमध्ये\N_NN शोवलर\N_NNP ,\RD_PUNC पिनटेल\N_NNP ,\RD_PUNC गडवाल\N_NNP आणि\CC_CCD पोचार्ड\N_NNP सामील\N_NN आहेत\V_VM .\RD_PUNC
+htd21116	पक्ष्यांचा\N_NN मुख्य\JJ अड्डा\N_NN १५.५३\QT_QTC वर्ग\N_NN किलोमीटरमध्ये\N_NN पसरलेले\V_VM नलबन\N-NNP मध्ये\N_NST आहे\V_VM जेव्हा\CC_CCS मंगलाजोडी\N-NNP ,\RD_PUNC भुसंदपूर\N-NNP आणि\CC_CCD अनेक\QT_QTF इतर\QT_QTF ठिकाणी\N_NN देखील\RB पक्षी\N_NN पोहचले\V_VM आहेत.\V_VAUX
+htd21117	नलबनचा\N-NNP हा\DM_DMR प्रदेश\N_NN पक्षी\N_NN अभयारण्याच्या\N_NN धर्तीवर\N_NN घोषित\JJ आहे.\N_NN
+htd21118	वन\N_NN विभागाच्या\N_NN सूत्रांच्या\N_NN अनुसार\N_NN मागील\N_NST वर्षी\N_NN १६८\QT_QTC नाना\JJ प्रकारचे\N_NN एकूण\QT_QTF ८.९३\QT_QTC लाख\QT_QTC पक्षी\N_NN चिल्कामध्ये\N-NNP पोहचले\V_VM होते.\V_VAUX
+htd21119	ह्यांपैकी\DM_DMR ४.०५\QT_QTC लाख\N_NN पक्षी\N_NN तर\CC_CCS केवळ\JJ अभयारण्य\N_NN क्षेत्रामध्येच\N_NN होते\V_VM .\RD_PUNC
+htd21120	तसे\RB प्रत्येक\QT_QTF वर्षी\N_NN दसर्‍यानंतर\N_NN पक्षी\N_NN येऊ\V_VM लागतात\V_VAUX .\RD_PUNC
+htd21121	परंतु\CC_CCD ह्या\DM_DMR वर्षी\N_NN पहिला\QT_QTO प्रवासी\N_NN पक्षी\N_NN अक्टोबरच्या\N_NN तिसर्‍या\QT_QTO आठवड्यातच\N_NN दृष्टीस\N_NN आला\V_VM .\RD_PUNC
+htd21122	गबादिहाच्या\N-NNP जवळ\RB एक\QT_QTC नवीन\JJ नैसर्गिक\JJ मुख\N_NN उघडल्याने\V_VM आणि\CC_CCD ग्लोबल\N_NN वॉर्मिंगला\N_NN देखील\RB ह्याच\DM_DMR कारणांमध्ये\N_NN गणले\V_VM जात\V_VAUX आहे\V_VAUX .\RD_PUNC
+htd21123	हे\DM_DMR पक्षी\N_NN उन्हाळ्याची\N_NN सुरुवात\N_NN होता-होता\V_VM परततात.\V_VAUX
+htd21124	ह्यामुळे\CC_CCD जोपर्यंत\PR_PRL ह्यांना\DM_DMR आपल्या\PR_PRP प्रदेशात\N_NN थंडीची\N_NN जाणीव\N_NN होत\V_VM नाही\V_VAUX ते\DM_DMR तेथून\PR_PRL हलत\V_VM नाहीत\V_VAUX .\RD_PUNC
+htd21125	ह्यांच्यापुढे\PR_PRL सर्व\QT_QTF तंत्रज्ञान\N_NN निष्फळ\JJ ठरले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21126	ह्या\DM_DMR सर्वांना\N_NN लक्षात\N_NN ठेवत\V_VM वर्षाच्या\N_NN शेवटच्या\N_NN सुट्‍ट्या\N_NN किंवा\CC_CCD नवीन\JJ वर्षाच्या\N_NN पहिल्या\QT_QTO सकाळचा\N_NN आनंद\N_NN ह्या\DM_DMR पक्ष्यांच्या\N_NN विश्रांतीस्थानावर\N_NN घ्यायचा\V_VM अनुभव\N_NN विलक्षण\JJ आहे\V_VM .\RD_PUNC
+htd21127	रोमांचक\JJ अनुभवाचे\N_NN चाहते\N_NN तर\CC_CCS खूप\QT_QTF जण\N_NN असतात\V_VM परंतू\CC_CCS त्याला\PR_PRL साध्य\N_NN करणे\V_VM सोपे\JJ नसते\V_VM .\RD_PUNC
+htd21128	मंदीप\N-NNP सिंह\N_NN सोइन\N-NNP असेच\RB उत्साही\JJ आहेत\V_VM .\RD_PUNC
+htd21129	१९९२मध्ये\N_NN मंदीपला\N-NNP लिम्का\N-NNP बुक\N_NN ऑफ\RP_RPD रिकॉ‌र्ड्सने\N_NN पर्सन\N_NN ऑफ\RP_RPD द\RP_RPD ईयर\N_NN घोषित\JJ केले\V_VM होते\V_VAUX .\RD_PUNC
+htd21130	सोळा\QT_QTC वर्षानंतर\N_NN लिम्का\N-NNP बुक\N_NN ऑफ\RP_RPD रिकॉ‌र्ड्सने\N_NN त्यांना\PR_PRP २००८\QT_QTC चे\RD_UNK सर्वात\RP_INTF अद्‍भुत\JJ रोमांचप्रेमी\JJ (\RD_SYM वर्सेटाइल\N_NN एडवेंचरर\N_NN )\RD_SYM म्हणून\CC_CCS_UT निवडले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21131	मंदीपने\N-NNP १६\QT_QTC वर्षाच्या\N_NN वयातच\N_NN साहसक्षेत्रामध्ये\N_NN उडी\N_NN घेतली\V_VM .\RD_PUNC
+htd21132	रोमांचाचा\N_NN हा\DM_DMR प्रवास\N_NN त्यांना\PR_PRL जगातील\N_NN प्रत्येक\QT_QTF कोपर्‍यामध्ये\N_NN प्रत्येक\QT_QTF तर्‍हेच्या\N_NN साहसाच्या\N_NN शोधात\V_VM घेऊन\V_VAUX गेला\V_VAUX .\RD_PUNC
+htd21133	हिच\DM_DMR गोष्ट\N_NN आहे\V_VM की\CC_CCS आज\RB एक\QT_QTC स्कूबा\N_NN डाइविंगला\N_NN सोडून\V_VM सर्व\QT_QTF साहसाची\N_NN मौज\N_NN त्यांनी\PR_PRL घेतली\V_VM आहे\V_VAUX .\RD_PUNC
+htd21134	प्रसिद्ध\JJ पत्रिका\N_NN टाइममध्ये\N_NN मंदीपने\N-NNP सांगितले\V_VM होते\V_VAUX की\CC_CCS फाइल्स\N_NN पुढे\N_NST ढकलण्याचे\V_VM काम\N_NN मला\PR_PRP पहाड\N_NN चढण्यापेक्षाही\V_VM जास्त\QT_QTF अवघड\N_NN वाटले\V_VM .\RD_PUNC
+htd21135	आश्चर्याची\N_NN गोष्ट\N_NN तर\CC_CCS ही\DM_DMR आहे\V_VM की\CC_CCS मंदीपने\N-NNP ह्या\DM_DMR छंदाला\N_NN त्या\PR_PRL काळात\N_NN स्वीकारले\V_VM जेव्हा\CC_CCS ह्यासाठी\N_NN फारसे\N_NN अनुकूल\N_NN वातावरण\N_NN नव्हते\V_VM .\RD_PUNC
+htd21136	परंतू\CC_CCD १९५७\QT_QTC मध्ये\N_NST जन्मलेल्या\V_VM आणि\CC_CCD दिल्लीच्या\N-NNP स्टीफंस\N-NNP कॉलेजमध्ये\N_NN शिकलेल्या\V_VM मंदीपने\N-NNP आपल्या\PR_PRP छंदालाच\N_NN करियर\N_NN बनवत\V_VM केवळ\JJ २२\QT_QTC वर्षाच्या\N_NN वयात\N_NN आपली\PR_PRP कंपनी\N_NN ’आईबॅक्स\N-NNP एक्सपॅडिशंस’\N-NNP स्थापन\N_NN केली\V_VM होती\V_VAUX .\RD_PUNC
+htd21137	त्यांच्या\PR_PRL अभियानांची\N_NN सुरुवात\N_NN शाळेच्या\N_NN दिवसात\N_NN गडवालमध्ये\N-NNP २१\QT_QTC हजार\QT_QTC फूट\N_NN उंच\JJ ब्लॅक\JJ पीक\N_NN शिखराच्या\N_NN अभियानाबरोबर\N_NN झाली\V_VM होती\V_VAUX .\RD_PUNC
+htd21138	त्याच्या\PR_PRL नंतर\RB ते\DM_DMR मनाली\N-NNP पासून\RD_UNK कारगिल\N-NNP पर्यंत\CC_CCD ४००\QT_QTC किलोमीटर\N_NN ट्रेकिंग\V_VM अभियान\N_NN ,\RD_PUNC अनेक\QT_QTF बेटांवर\N_NN डीप\JJ सी\N_NN फिशिंग\V_VM अभियान\N_NN ,\RD_PUNC बामचू\N-NNP शिखरावर\N_NN एकल\N_NN अभियान\N_NN ,\RD_PUNC यूरोपमध्ये\N-NNP एल्प्स\N-NNP पर्वतांचे\N_NN अनेक\QT_QTF अभियान\N_NN ,\RD_PUNC लडाखचे\N-NNP जंस्कार\N-NNP क्षेत्रामध्ये\N_NN इंडीपेंडन्स\N_NN पीक\N_NN सह\N_NN दोन\QT_QTC शिखरांचे\N_NN अभियान\N_NN आणि\CC_CCD न\RP_NEG जाणो\V_VM किती\PR_PRQ अभियानात\N_NN सहभागी\N_NN झाले\V_VM असतील\V_VAUX .\RD_PUNC
+htd21139	थारमध्ये\N-NNP उंट\N_NN ,\RD_PUNC केरळमध्ये\N-NNP हत्ती\N_NN ,\RD_PUNC लडाखमध्ये\N-NNP जीपने\N_NN लांब\JJ प्रवास\N_NN त्यांनी\PR_PRL केला\V_VM आहे\V_VAUX .\RD_PUNC
+htd21140	बंजी\N_NN जंपिंग\N_NN ,\RD_PUNC हॉट\JJ एअर\N_NN बॅलूनिंग\V_VM ,\RD_PUNC स्काई\N_NN डाइविंग\V_VM ,\RD_PUNC राफ्टिंगमध्ये\V_VM ते\CC_CCD जम\N_NN बसवुन\V_VM आहेत\V_VAUX .\RD_PUNC
+htd21141	लडाखमध्ये\N-NNP गोठलेल्या\V_VM जंस्कार\N-NNP नदीवर\N_NN ट्रेकिंग\V_VM त्यांच्या\PR_PRL आठवणीतल्या\N_NN अभियानांपैकी\N_NN एक\QT_QTC आहे\V_VM .\RD_PUNC
+htd21142	एव्हरेस्ट\N-NNP ते\CC_CCD नाही\V_VAUX चढले\V_VM परंतू\CC_CCD मंदीप\N-NNP मानतात\V_VM की\CC_CCS जगातील\N_NN सर्वात\RP_INTF उंच\JJ शिखर\N_NN आधीच\N_NST एवढे\QT_QTF मोजले\V_VM आहे\V_VAUX की\CC_CCS त्याविषयी\PR_PRL आता\RB काहीच\QT_QTF उत्साह\N_NN उरला\V_VM नाही\V_VAUX .\RD_PUNC
+htd21143	मंदीप\N-NNP इको\N_NN टुरिझम\N_NN सोसायटी\N_NN ऑफ\RP_RPD इंडियाचे\N-NNP संस्थापक\N_NN अध्यक्ष\N_NN आणि\CC_CCD हिमालयन\JJ एनवायरमेंट\N_NN ट्रस्टचे\N_NN ट्रस्टी\N_NN आहेत\V_VM .\RD_PUNC
+htd21144	ते\DM_DMR ब्रिटेनच्या\N-NNP रॉयल\N-NNP जियोग्राफीकल\N_NN सोसायटीचे\N_NN फेलो\N_NN देखील\RB आहेत\V_VM .\RD_PUNC
+htd21145	तो\DM_DMR गिर्यारोहण\N_NN ,\RD_PUNC ध्रुवीय\N_NN अभियान\N_NN आणि\CC_CCD युवकांना\N_NN प्रोत्साहनासाठी\N_NN नेस\N-NNP अवार्ड\N_NN मिळविणारे\V_VM देखील\RB पहिले\QT_QTO भारतीय\JJ आहेत\V_VM .\RD_PUNC
+htd21146	मंदीप\N-NNP मानतात\V_VM की\CC_CCS भारतात\N-NNP लोक\N_NN मानसिकदुष्टया\N_NN स्वतःला\PR_PRF खूप\QT_QTF लवकर\RB म्हातारे\N_NN समजु\V_VM लागतात\V_VAUX ह्यामुळे\CC_CCD भारतात\N-NNP साहसाच्या\N_NN संस्कृतिला\N_NN वृद्धिंगत\N_NN होण्यास\V_VM खूप\QT_QTF वेळ\N_NN लागला\V_VM .\RD_PUNC
+htd21147	कल्पना\N_NN करा\V_VM तुम्ही\PR_PRP हजारो\N_NN फुट\N_NN उंचीवर\N_NN मैलांपर्यंत\N_NN पसरलेल्या\V_VM हिरव्या\JJ मखमली\N_NN गवताच्या\N_NN उतरत्या\V_VM मैदानावर\N_NN फिरत\V_VM आहात\V_VAUX .\RD_PUNC
+htd21148	तुमच्या\PR_PRP बरोबर\JJ समोर\N_NST हात\N_NN पुढे\N_NST करुन\V_VM फक्त\JJ स्पर्श\N_NN करण्यायोग्य\V_VM बर्फाने\N_NN अच्छादलेले\V_VM हिमालयाचे\N-NNP शिखर\N_NN आहे\V_VM .\RD_PUNC
+htd21149	आकाश\N_NN प्रत्येक\QT_QTF क्षणी\N_NN रंग\N_NN बदलत\V_VM आहे\V_VAUX तुम्ही\PR_PRP जमीनीवर\N_NN जेथेदेखील\DM_DMD दृष्टी\N_NN टाकाल\V_VM तेथे\DM_DMD तुम्हाला\PR_PRP तर्‍हेतर्‍हेची\N_NN दृश्य\N_NN दिसतील\V_VM तर\CC_CCS निःसंदेह\RB हे\DM_DMR जग\N_NN तुम्हाला\PR_PRP एखाद्या\JJ स्वप्नलोकापेक्षा\N_NN कमी\QT_QTF वाटणार\V_VM नाही\V_VAUX .\RD_PUNC
+htd21150	हिमशिखरांच्या\N_NN पायथ्याशी\N_NN जेथे\DM_DMD टिंबर\N_NN लाइन\N_NN (\RD_SYM म्हणजे\CC_CCD वृक्षांच्या\N_NN रांगा\N_NN )\RD_SYM समाप्‍त\JJ होतात\V_VM तेथून\DM_DMD हिरव्या\JJ मखमली\N_NN गवताचे\N_NN मैदान\N_NN सुरू\JJ होते\V_VM .\RD_PUNC
+htd21151	सामान्यतः\RB हे\DM_DMR ८\QT_QTC ते\CC_CCD १०\QT_QTC हजार\QT_QTC फुट\N_NN उंचीवर\N_NN असतात\V_VM .\RD_PUNC
+htd21152	गडवाल\N-NNP हिमालयामध्ये\N-NNP ह्या\DM_DMR मैदानांना\N_NN बुग्याल\N-NNP म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21153	बुग्याल\N-NNP हिमरेषा\N_NN आणि\CC_CCD वृक्ष\N_NN रेषा\N_NN ह्यांच्या\PR_PRL दरम्यानचे\N_NN क्षेत्र\N_NN असते\V_VM .\RD_PUNC
+htd21154	स्थानीय\N_NN लोक\N_NN आणि\CC_CCD पाळीव\JJ प्राण्यांसाठी\N_NN ह्या\DM_DMR गवताळ\N_NN जमीनचे\N_NN काम\N_NN देतात\V_VM तर\CC_CCS वंजारी\N_NN ,\RD_PUNC भटके\N_NN आणि\CC_CCD गिर्यारोहणाच्या\N_NN शौकीनांसाठी\N_NN आरामाची\N_NN जागा\N_NN व\CC_CCD छावणीला\N_NN योग्य\JJ जागा\N_NN .\RD_PUNC
+htd21155	उन्हाळ्याच्या\N_NN मखमली\N_NN गवतावर\N_NN हिवाळ्यात\N_NN जेव्हा\CC_CCS बर्फाची\N_NN पांढरी\JJ चादर\N_NN अंथरली\V_VM जाते\V_VAUX तर\CC_CCS हे\DM_DMR बुग्याल\N-NNP स्कीइंग\V_VM आणि\CC_CCD इतर\QT_QTF बर्फाच्या\N_NN खेळांचा\N_NN अड्डा\N_NN बनते\V_VM .\RD_PUNC
+htd21156	गडवालच्या\N-NNP जवळजवळ\RB प्रत्येक\QT_QTF ट्रेकिंग\V_VM रूटवर\N_NN तुम्हाला\PR_PRP अशातर्‍हेचे\JJ बुग्याल\N_NN मिळतील\V_VM .\RD_PUNC
+htd21157	अनेक\QT_QTF बुग्याल\N-NNP तर\CC_CCS इतके\QT_QTF लोकप्रिय\JJ झाले\V_VM आहेत\V_VAUX की\CC_CCS तेच\PR_PRL पर्यटकांसाठी\N_NN आकर्षण\N_NN बनले\V_VM आहेत\V_VAUX .\RD_PUNC
+htd21158	जेव्हा\CC_CCS बर्फ\N_NN वितळलेला\V_VM असतो\V_VAUX तर\CC_CCS पावसाळ्यात\N_NN न्हालेल्या\V_VM वातावरणात\N_NN हिरवळ\N_NN पसरलेली\V_VM असते\V_VAUX .\RD_PUNC
+htd21159	पर्वत\N_NN आणि\CC_CCD दरी\N_NN तर्‍हे-तर्‍हेच्या\JJ फुलांनी\N_NN आणि\CC_CCD वनस्पतिंनी\N_NN आच्छादलेले\V_VM असतात\V_VAUX .\RD_PUNC
+htd21160	आपली\PR_PRP विविधता\N_NN ,\RD_PUNC जटिलता\N_NN आणि\CC_CCD सुंदरता\N_NN ह्यां\DM_DMR कारणामुळेच\N_NN बुग्याल\N-NNP भटकणार्‍या\V_VM शौकीनांसाठी\N_NN नेहमीच\RB आकर्षणाचे\N_NN केंद्र\N_NN राहिले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21161	मैलापर्यंत\N_NN पसरलेल्या\V_VM मखमली\N_NN गवताच्या\N_NN ह्या\DM_DMR उतरणीवर\N_NN असलेल्या\V_VM मैदानांवर\N_NN विश्‍वभरातून\N_NN निसर्गप्रेमी\N_NN सहल\N_NN करण्यासाठी\V_VM पोहोचतात\V_VAUX .\RD_PUNC
+htd21162	ह्यांची\DM_DMR सुंदरता\N_NN यातच\PR_PRL आहे\V_VM की\CC_CCS प्रत्येक\QT_QTF ऋतूमध्ये\N_NN तुम्हाला\PR_PRP ह्यांच्यावर\DM_DMR नवीन\JJ रंग\N_NN दिसेल\V_VM आणि\CC_CCD नवीन\JJ दृश्य\N_NN .\RD_PUNC
+htd21163	पावसाळ्यानंतर\N_NN ह्या\DM_DMR उतरत्या\N_NN मैदानांवर\N_NN जागो-जागी\N_NN विविध\JJ रंगी\N_NN हसणारे\V_VM फूल\N_NN तुमचे\PR_PRP स्वागत\N_NN करताना\V_VM दिसून\V_VAUX येतील\V_VAUX .\RD_PUNC
+htd21164	बुग्यालांमध्ये\N-NNP रोपटे\N_NN एक\QT_QTC निश्‍चित\N_NN उंचीपर्यंत\N_NN वाढतात\V_VM .\RD_PUNC
+htd21165	हवामानाच्या\N_NN अनुसार\N_NN हे\DM_DMR जास्त\QT_QTF उंचीचे\N_NN नसतात\V_VM .\RD_PUNC
+htd21166	हेच\DM_DMR कारण\N_NN आहे\V_VM की\CC_CCS ह्यांच्यावर\DM_DMR चालताना\V_VM अगदी\N_NST गादीवर\N_NN चालल्यासारखे\N_NN वाटते\V_VM .\RD_PUNC
+htd21167	तसे\RB तर\CC_CCS गडवालच्या\N-NNP दरीमध्ये\N_NN अनेक\QT_QTF लहान\JJ -\RD_PUNC मोठे\JJ बुग्याल\N-NNP आढळतात\V_VM परंतू\CC_CCS लोकांमध्ये\N_NN जी\PR_PRL सर्वात\RP_INTF जास्त\QT_QTF प्रसिद्ध\JJ आहेत\V_VM त्यामध्ये\PR_PRL बेदनी\N-NNP बुग्याल\N-NNP ,\RD_PUNC पवालीकांठा\N-NNP ,\RD_PUNC चोपता\N-NNP ,\RD_PUNC औली\N-NNP ,\RD_PUNC गुरसों\N-NNP ,\RD_PUNC बंशीनारायण\N-NNP आणि\CC_CCD हर\N-NNP की\CC_CCS दून\N-NNP प्रमुख\JJ आहेत\V_VM .\RD_PUNC
+htd21168	ह्या\DM_DMR बुग्यालांमध्ये\N_NN रतनजोत\N_NN ,\RD_PUNC कलंक\N_NN ,\RD_PUNC वज्रदंती\N_NN ,\RD_PUNC अतीष\N_NN ,\RD_PUNC हत्थाजडीसारख्या\N_NN अनेक\QT_QTF बहुमोल\JJ औषधिगुण\N_NN असणार्‍या\V_VM वनस्पतीदेखील\N_NN आढळतात\V_VM .\RD_PUNC
+htd21169	ह्याच्या\DM_DMR बरोबरच\JJ हिमालयी\JJ मेंढ्या\N_NN ,\RD_PUNC हरिण\N_NN ,\RD_PUNC मोनाल\N_NN ,\RD_PUNC कस्तुरी-मृग\N_NN आणि\CC_CCD धोरडसारखी\N_NN जनावरं\N_NN देखील\RB बघता\V_VM येतात\V_VAUX .\RD_PUNC
+htd21170	पंचकेदार\N-NNP म्हणजे\CC_CCD केदारनाथ\N-NNP ,\RD_PUNC कल्पेश्‍वर\N-NNP ,\RD_PUNC मदमहेश्‍वर\N-NNP ,\RD_PUNC तुंगनाथ\N-NNP आणि\CC_CCD रुद्रनाथला\N-NNP जाण्याच्या\V_VM रस्त्यावर\N_NN अनेक\QT_QTF बुग्याल\N_NN येतात\V_VM .\RD_PUNC
+htd21171	प्रसिद्ध\JJ बेदनी\N-NNP बुग्याल\N_NN रूपकुंडला\N-NNP जाण्याच्या\V_VM रस्त्यावर\N_NN आहे\V_VM .\RD_PUNC
+htd21172	३३५४\QT_QTC मीटर\N_NN उंचीवर\N_NN असलेल्या\V_VM ह्या\DM_DMR बुग्यालपर्यंत\N_NN पोहचण्यासाठी\V_VM तुम्हाला\PR_PRP ऋषिकेशवरुन\N-NNP कर्णप्रयाग\N-NNP ,\RD_PUNC ग्वालदम\N-NNP ,\RD_PUNC मंदोली\N-NNP वरुन\N_NST वाणला\N-NNP पोहचावे\V_VM लागेल\V_VAUX .\RD_PUNC
+htd21173	वाणपासून\N-NNP घनदाट\JJ जंगलांच्या\N_NN मधून\N_NST जाताना\V_VM जवळजवळ\RB १०\QT_QTC किलोमीटर\N_NN चढाईनंतर\N_NN तुम्ही\PR_PRP बेदनीच्या\N-NNP सौंदर्याचा\N_NN आनंद\N_NN घेऊ\V_VM शकता\V_VAUX .\RD_PUNC
+htd21174	ह्या\DM_DMR बुग्यालच्या\N_NN मधोमध\N_NST पसरलेले\V_VM सरोवर\N_NN येथील\PR_PRL सौंदर्याची\N_NN शोभा\N_NN वाढवते\V_VM .\RD_PUNC
+htd21175	गडवालचे\N-NNP स्वित्झर्लंड\N-NNP म्हटले\V_VM जाणारे\V_VAUX चोपता\N-NNP बुग्याल\N_NN २९००\QT_QTC मीटर\N_NN उंचीवर\N_NN गोपेश्‍वर\N-NNP -\RD_PUNC ऊखीमठ\N-NNP -\RD_PUNC केदारनाथ\N-NNP मार्गावर\N_NN आहे\V_VM .\RD_PUNC
+htd21176	चोपतापासून\N-NNP हिमालयाच्या\N-NNP शिखरांचे\N_NN जवळून\RB दर्शन\N_NN घेता\V_VM येते\V_VAUX .\RD_PUNC
+htd21177	चोपतापासूनच\N-NNP आठ\QT_QTC किलोमीटर\N_NN अंतरावर\N_NN दुगलबिठ्‍ठा\N-NNP नामक\N_NN बुग्याल\N_NN आहे\V_VM .\RD_PUNC
+htd21178	इथे\DM_DMD कोणीही\DM_DMQ पर्यटक\N_NN सहजपणे\RB पोहचू\V_VM शकतो\V_VAUX .\RD_PUNC
+htd21179	चमोली\N-NNP जिल्ह्याच्या\N_NN जोशीमठापासून\N-NNP १२\QT_QTC किलोमीटर\N_NN अंतरावर\N_NN २६००\QT_QTC मीटर\N_NN उंचीवर\N_NN स्थित\JJ आहे\V_VM औली\N-NNP बुग्याल\N_NN .\RD_PUNC
+htd21180	साहसी\JJ खेळ\N_NN स्कीइंगचे\V_VM हे\DM_DMR एक\QT_QTC मोठे\JJ केन्द्र\N_NN आहे\V_VM .\RD_PUNC
+htd21181	हिवाळ्यात\N_NN येथील\PR_PRL उतारावर\N_NN स्कीइंग\V_VM चालते\V_VM आणि\CC_CCD उन्हाळ्यांमध्ये\N_NN येथे\DM_DMD उमललेली\V_VM तर्‍हे-तर्‍हेची\JJ फुले\N_NN पर्यटकांच्या\N_NN आकर्षणाचे\N_NN केंद्र\N_NN आहेत\V_VM .\RD_PUNC
+htd21182	औलीपासूनच\N-NNP १५\QT_QTC किलोमीटर\N_NN अंतरावर\N_NN एक\QT_QTC आणखी\JJ आकर्षक\N_NN बुग्याल\N_NN आहे\V_VM क्वारी\N-NNP .\RD_PUNC
+htd21183	हेदेखील\DM_DMR अत्यंत\RP_INTF प्रेक्षणीय\JJ बुग्याल\N_NN आहे\V_VM .\RD_PUNC
+htd21184	चमोली\N-NNP आणि\CC_CCD बागेश्‍वर\N-NNP ह्यांच्या\PR_PRL सीमेला\N_NN लागून\V_VM असलेले\V_VM बगजी\N-NNP बुग्यालदेखील\N_NN पर्यटकांच्या\N_NN आकर्षणाचे\N_NN केंद्र\N_NN आहे\V_VM .\RD_PUNC
+htd21185	समुद्रसपाटीपासून\N_NN १२०००\QT_QTC फुट\N_NN उंचीवर\N_NN असलेले\V_VM हे\DM_DMR बुग्याल\N_NN जवळजवळ\RB चार\QT_QTC किलोमीटर\N_NN क्षेत्रामध्ये\N_NN पसरलेले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21186	येथुन\PR_PRL हिमालयाच्या\N-NNP सतोपंथ\N-NNP ,\RD_PUNC चौखंभा\N-NNP ,\RD_PUNC नंदादेवी\N-NNP आणि\CC_CCD त्रिशूलीसारख्या\N-NNP शिखरांचे\N_NN जवळून\RB दर्शन\N_NN होते\V_VM .\RD_PUNC
+htd21187	टिहरी\N-NNP जिल्ह्यामध्ये\N_NN पवालीकांठा\N-NNP बुग्यालदेखील\N_NN गिर्यारोहणाच्या\N_NN चाहत्यांमध्ये\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd21188	टिहरीपासून\N-NNP घनसाली\N-NNP आणि\CC_CCD घुत्तूवरुन\N-NNP ह्या\DM_DMR बुग्यालपर्यंत\N_NN पोहोचता\V_VM येते\V_VAUX .\RD_PUNC
+htd21189	११०००\QT_QTC फुट\N_NN उंचीवर\N_NN स्थित\JJ हे\DM_DMR बुग्याल\N_NN बहुतकरून\CC_CCS गडवालचे\N-NNP सर्वात\RP_INTF मोठे\JJ बुग्याल\N_NN आहे\V_VM .\RD_PUNC
+htd21190	येथुन\PR_PRL केदारनाथसाठी\N-NNP देखील\RB रस्ता\N_NN जातो\V_VM .\RD_PUNC
+htd21191	अगदी\RP_INTF थोड्या\QT_QTF अंतरावर\N_NN मट्या\N-NNP बुग्याल\N_NN आहे\V_VM जे\PR_PRL स्कीइंगसाठी\V_VM खूप\QT_QTF उपयुक्‍त\JJ आहे\V_VM .\RD_PUNC
+htd21192	येथे\DM_DMD आढळणार्‍या\V_VM दुलर्भ\JJ प्रकारच्या\N_NN वनस्पति\N_NN वैज्ञानिकांसाठी\N_NN शोधाचा\N_NN विषय\N_NN बनतात\V_VM .\RD_PUNC
+htd21193	उत्तरकाशी\N-NNP गंगोत्री\N-NNP मार्गावर\N_NN भटवाडीपासून\N-NNP रैथल\N-NNP किंवा\CC_CCD बारसू\N-NNP गावावरुन\N_NN तुम्ही\PR_PRP दयारा\N-NNP बुग्यालला\N_NN पोहचु\V_VM शकता\V_VAUX .\RD_PUNC
+htd21194	१०५००\QT_QTC फुट\N_NN उंचीवर\N_NN स्थित\JJ हे\DM_DMR बुग्यालदेखील\N_NN स्वर्गाचे\N_NN पर्यंटन\N_NN करण्यासारखे\V_VM आहे\V_VM .\RD_PUNC
+htd21195	असे\RB न\RP_NEG जाणो\V_VM गडवालमध्ये\N-NNP किती\PR_PRQ बुग्याल\N_NN आहेत\V_VM ज्याच्याबद्दल\PR_PRL लोकांना\N_NN अजुनही\RP_RPD माहिती\N_NN नाही\V_VM .\RD_PUNC
+htd21196	ह्यांच्या\PR_PRL अखंड\QT_QTF सुंदरतेला\N_NN केवळ\JJ तेथे\DM_DMD जाऊन\V_VM अनुभवता\N_NN येते\V_VM .\RD_PUNC
+htd21197	जरी\CC_CCS हजारों\QT_QTC फुट\N_NN उंचीवर\N_NN स्थित\JJ ह्या\DM_DMR स्थानांपर्यंत\N_NN पोहोचणे\V_VM प्रत्येकाला\QT_QTF संभव\N_NN नाही\V_VM .\RD_PUNC
+htd21198	ह्या\DM_DMR बुग्यालांपर्यंत\N_NN पोहचण्यासाठी\V_VM तुम्ही\PR_PRP देशाच्या\N_NN कुठल्याही\PR_PRQ कोपर्‍यातून\N_NN बस\N_NN किंवा\CC_CCD रेल्वेने\N_NN ऋषिकेश\N-NNP किंवा\CC_CCD कोटद्वार\N-NNP पोहचू\V_VM शकता\V_VAUX .\RD_PUNC
+htd21199	ऋषिकेश\N-NNP आणि\CC_CCD कोटद्वारला\N-NNP पोहचून\V_VM तुम्ही\PR_PRP बस\N_NN किंवा\CC_CCD टॅक्सीने\N_NN चमोली,\N-NNP टिहरी\N-NNP आणि\CC_CCD उत्तरकाशीला\N-NNP पोहचू\V_VM शकता\V_VAUX .\RD_PUNC
+htd21200	तुम्ही\PR_PRP विमान\N_NN मार्गाने\N_NN देखील\RB ऋषिकेशच्या\N-NNP जवळ\RB जौली\N-NNP ग्रांट\N_NN विमानतळावरही\N_NN उतरु\V_VM शकता\V_VAUX .\RD_PUNC
+htd21201	ह्या\DM_DMR लहान\JJ पहाडी\JJ नगरांपर्यंत\N_NN पोहचण्यासाठी\V_VM बस\N_NN किंवा\CC_CCD टॅक्सी\N_NN सहजपणे\RB मिळतात\V_VM .\RD_PUNC
+htd21202	ह्या\DM_DMR लहान\JJ पहाडी\JJ नगरांवर\N_NN पोहचून\V_VM तुम्ही\PR_PRP येथील\PR_PRL वातावरणाबद्दल\N_NN माहिती\N_NN घेऊ\V_VM शकता\V_VAUX .\RD_PUNC
+htd21203	ह्यांच\DM_DMR जागेवरुन\N_NN ट्रेकिंगच्या\V_VM माध्यमातून\N_NN बुग्यालांची\N_NN स्वप्नमय\N_NN जगाची\N_NN सहल\N_NN केली\V_VM जाते\V_VAUX .\RD_PUNC
+htd21204	हा\DM_DMR साहसी\JJ प्रवास\N_NN आहे\V_VM .\RD_PUNC
+htd21205	ह्या\DM_DMR प्रदेशात\N_NN पावसाळ्यात\N_NN जाणे\V_VM योग्य\JJ नाही\V_VM .\RD_PUNC
+htd21206	हिरवळ\N_NN आणि\CC_CCD फुलांचा\N_NN आनंद\N_NN घ्यायचा\V_VM असेल\V_VAUX तर\CC_CCS मे\N_NN -\RD_PUNC जूनचा\N_NN काळ\N_NN सर्वात\RP_INTF चांगला\JJ आहे\V_VM .\RD_PUNC
+htd21207	सप्टेंबर\N_NN -\RD_PUNC अक्टोबरमध्ये\N_NN पावसाळ्यानंतर\N_NN संपूर्ण\QT_QTF निसर्ग\N_NN धुतल्यासारखा\V_VM वाटते\V_VM .\RD_PUNC
+htd21208	ह्या\DM_DMR काळापर्यंत\N_NN बुग्यालांचा\N_NN रंग\N_NN बदलेला\V_VM असतो\V_VAUX .\RD_PUNC
+htd21209	त्यानंतर\N_NST बर्फ\N_NN पडायला\V_VM सुरू\JJ होते\V_VM .\RD_PUNC
+htd21210	अनेक\QT_QTF रस्ते\N_NN बंद\JJ होतात\V_VM तर\CC_CCS अनेक\QT_QTF बुग्याल\N_NN स्कीइंगच्या\V_VM माध्यमातून\N_NN हिवाळ्यात\N_NN देखील\RB आपली\PR_PRP चमक\N_NN कायम\JJ ठेवतात\V_VM .\RD_PUNC
+htd21211	हवामानाचा\N_NN अंदाज\N_NN घेऊनच\V_VM तुम्हाला\PR_PRP आपली\PR_PRP तयारी\N_NN करावी\V_VM लागेल\V_VAUX .\RD_PUNC
+htd21212	भारतामध्ये\N-NNP एखाद्या\JJ पौराणिक\N_NN ठिकाणी\N_NN सामान्यतः\RB ज्या\PR_PRL संख्येने\N_NN पर्यटक\N_NN येतात\V_VM पुष्करला\N-NNP येणार्‍या\V_VM पर्यटकांची\N_NN संख्या\N_NN त्याहीपेक्षा\PR_PRL खूप\QT_QTF जास्त\QT_QTF आहे\V_VM .\RD_PUNC
+htd21213	ह्यांमध्ये\DM_DMR मोठी\JJ संख्या\N_NN विदेशी\JJ पर्यटकांची\N_NN आहे\V_VM ज्यांना\PR_PRL पुष्कर\N-NNP मुख्यत:\RB पसंत\N_NN आहे\V_VM .\RD_PUNC
+htd21214	प्रत्येक\QT_QTF वर्षी\N_NN कार्तिक\N_NN महिन्यात\N_NN लागणार्‍या\V_VM पुष्कर\N-NNP उंट\N_NN मेळ्यामुळे\N_NN तर\CC_CCS ह्या\DM_DMR जागेला\N_NN जगभरात\N_NN वेगळी\JJ ओळख\N_NN मिळाली\V_VM आहे\V_VAUX .\RD_PUNC
+htd21215	मेळ्याच्या\N_NN वेळी\N_NN पुष्करमध्ये\N-NNP अनेक\QT_QTF संस्कृतींचे\N_NN मिलन\N_NN पाहायला\V_VM मिळते\V_VAUX .\RD_PUNC
+htd21216	एकीकडे\N_NST मेळा\N_NN बघण्यासाठी\V_VM विदेशी\JJ पर्यटक\N_NN मोठ्या\JJ संख्येने\N_NN पोहचतात\V_VM तर\CC_CCS दुसरीकडे\N_NN राजस्थान\N-NNP व\CC_CCD आजूबाजूच्या\N_NN अनेक\QT_QTF प्रदेशातून\N_NN आदिवासी\JJ आणि\CC_CCD ग्रामीण\JJ लोक\N_NN आपल्या-आपल्या\PR_PRP पशूं\N_NN बरोबर\JJ मेळ्यामध्ये\N_NN सम्मिलित\JJ होण्यासाठी\V_VM येतात\V_VAUX .\RD_PUNC
+htd21217	मेळा\N_NN वाळूच्या\N_NN विशाल\JJ मैदानावर\N_NN लावला\V_VM जातो\V_VAUX .\RD_PUNC
+htd21218	मोठ्या\JJ संख्येने\N_NN ,\RD_PUNC रांगाच्या\N_NN रांगा\N_NN दुकाने\N_NN ,\RD_PUNC खाण्या\V_VM -\RD_PUNC पिण्याचे\V_VM स्टॉल\N_NN ,\RD_PUNC सर्कस\N_NN ,\RD_PUNC झोके\N_NN आणि\CC_CCD न\RP_NEG जाणो\V_VM काय\PR_PRQ -\RD_PUNC काय\PR_PRQ .\RD_PUNC
+htd21219	उंट\N_NN मेळा\N_NN आणि\CC_CCD वाळवंटाच्या\N_NN जवळच\RB आहे\V_VM म्हणून\CC_CCD उंट\N_NN तर\CC_CCS प्रत्येक\QT_QTF ठिकाणी\N_NN बघायला\V_VM मिळतात\V_VAUX .\RD_PUNC
+htd21220	परंतू\CC_CCS कालांतराने\N_NN ह्याचे\PR_PRP स्वरूप\N_NN विशाल\JJ पशू\N_NN मेळ्याचे\N_NN झाले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21221	गंगा\N-NNP एक\QT_QTC नदी\N_NN आणि\CC_CCD एक\QT_QTC संस्कृति\N_NN दोन्हीं\N_NN रूपांत\N_NN नेहेमीच\RB भारतीय\JJ लोकांच्या\N_NN चेतनेचे\N_NN केंद्र\N_NN राहिली\V_VM आहे\V_VAUX .\RD_PUNC
+htd21222	ह्याच\DM_DMR गंगेचा\N-NNP महोत्सव\N_NN साजरा\N_NN करण्यासाठी\V_VM वाराणसीच्या\N-NNP घाटापेक्षा\N_NN चांगली\JJ जागा\N_NN कोणती\PR_PRQ असू\V_VM शकते\V_VAUX .\RD_PUNC
+htd21223	पाच\QT_QTC दिवस\N_NN चालणारा\V_VM हा\DM_DMR उत्सव\N_NN भारतीय\JJ शास्त्रीय\JJ संगीत\N_NN व\CC_CCD नृत्य\N_NN ह्यांचे\DM_DMR अद्‍भुत\JJ आयोजन\N_NN असते\V_VM .\RD_PUNC
+htd21224	दरवर्षी\RB ह्या\DM_DMR महोत्सवाचा\N_NN समारोप\N_NN कार्तिक\N_NN पौर्णिमेला\N_NN होतो\V_VM जेव्हा\CC_CCS वाराणसीमध्ये\N-NNP देव\N_NN दिवाळी\N_NN साजरी\N_NN केली\V_VM जाते\V_VAUX .\RD_PUNC
+htd21225	गंगेच्या\N-NNP लहरींमध्ये\N_NN उतरणारे\V_VM दीवे\N_NN आणि\CC_CCD पृष्‍ठभूमीवर\N_NN गूंजणारे\V_VM स्वर\N_NN ह्याच्यापेक्षा\DM_DMR सुंदर\JJ दृश्य\N_NN आणखी\RB काही\QT_QTF नाही\V_VAUX होऊ\V_VM शकत\V_VAUX .\RD_PUNC
+htd21226	ह्या\DM_DMR आयोजनाचे\N_NN महत्त्व\N_NN ह्याने\PR_PRP सिद्ध\JJ होते\V_VM की\CC_CCS देशातील\N_NN अनेक\QT_QTF शीर्षस्थ\N_NN शास्त्रीय\JJ गायक\N_NN व\CC_CCD वादक\N_NN येथे\DM_DMD उपस्थित\JJ राहतात\V_VM .\RD_PUNC
+htd21227	बनारस\N-NNP पाहण्यास\V_VM हा\DM_DMR सर्वात\RP_INTF योग्य\JJ काळ\N_NN आहे\V_VM .\RD_PUNC
+htd21228	जेव्हा\CC_CCS देशातील\N_NN शास्त्रीय\JJ संगीताच्या\N_NN अनमोल\JJ वारस्याची\N_NN गोष्ट\N_NN असेल\V_VM तर\CC_CCS लखनौ\N-NNP महोत्सव\N_NN त्याला\PR_PRL सांभाळण्याची\V_VM महत्त्वपूर्ण\N_NN कडी\N_NN आहे\V_VM .\RD_PUNC
+htd21229	दरवर्षी\RB ह्या\DM_DMR दिवसात\N_NN होणारे\V_VM हे\DM_DMR आयोजन\N_NN अवधच्या\N-NNP विलक्षण\JJ संस्कृतीची\N_NN ओळख\N_NN करुन\V_VM देते\V_VAUX विविध\JJ उत्सव\N_NN ,\RD_PUNC नाटक\N_NN आणि\CC_CCD नृत्य\N_NN -\RD_PUNC संगीत\N_NN .\RD_PUNC
+htd21230	लखनौ\N-NNP घराणे\N_NN तसेदेखील\CC_CCD आपल्या\PR_PRP परंपरेला\N_NN घेऊन\V_VM खूप\QT_QTF प्रसिध्द\JJ आहे\V_VM .\RD_PUNC
+htd21231	अशामध्ये\RD_UNK कत्थक\N_NN ,\RD_PUNC सारंगी\N_NN व\CC_CCD सितार\N_NN ह्यांचा\PR_PRL आनंद\N_NN घ्यायचा\V_VM असेल\V_VAUX किंवा\CC_CCD गजल\N_NN ,\RD_PUNC कव्वाली\N_NN व\CC_CCD ठुमरी\N_NN ह्यांमध्ये\DM_DMR गुंगायचे\V_VM असेल\V_VM ,\RD_PUNC लखनौ\N-NNP महोत्सव\N_NN प्रत्येक\QT_QTF आनंद\N_NN देतो\V_VM .\RD_PUNC
+htd21232	त्यावर\PR_PRL लखनवी\JJ सहभोजनाचा\N_NN सुगंधच\N_NN सर्व\QT_QTF ठिकाणी\N_NN पसरलेला\V_VM असतो\V_VAUX .\RD_PUNC
+htd21233	परंपरेच्या\N_NN शौकीनांसाठी\N_NN इक्कांची\N_NN शर्यत\N_NN ,\RD_PUNC पतंग\N_NN उडविणे\V_VM व\CC_CCD कोंबड्यांची\N_NN लढाईदेखील\N_NN बरोबर\JJ चालत\V_VM राहते\V_VAUX .\RD_PUNC
+htd21234	अवधला\N-NNP समजायचे\V_VM असेल\V_VAUX तर\CC_CCS ह्या\DM_DMR महोत्सवामध्ये\N_NN अवश्य\RB जा\V_VM .\RD_PUNC
+htd21235	महाराष्‍ट्रामध्ये\N-NNP औरंगाबादपासून\N-NNP जवळजवळ\RB तीस\QT_QTC किलोमीटर\N_NN दूर\N_NST एलोरा\N-NNP गुफांच्या\N_NN पृष्‍ठभूमीमध्ये\N_NN होणारे\V_VM नृत्य\N_NN व\CC_CCD संगीत\N_NN ह्यांचे\DM_DMR शानदार\N_NN आयोजन\N_NN .\RD_PUNC
+htd21236	हा\DM_DMR वार्षिक\JJ जलसा\N_NN महाराष्‍ट्र\N-NNP पर्यटन\N_NN विकास\N_NN महामंडळाच्या\N_NN पाहुणचार\N_NN करण्यामध्ये\V_VM होतो\V_VAUX .\RD_PUNC
+htd21237	शतकानुशतकाचा\N_NN इतिहास\N_NN व\CC_CCD संस्कृतीबरोबर\N_NN अप्रतिम\JJ कला\N_NN व\CC_CCD शिल्प\N_NN स्वतःमध्ये\PR_PRF सामावून\V_VM ह्या\DM_DMR प्राचीन\JJ गुफा\N_NN आजदेखील\RB अनेक\QT_QTF प्रतिभांना\N_NN निखरण्याची\V_VM संधी\N_NN देतात\V_VM .\RD_PUNC
+htd21238	गुफांची\N_NN अद्‍भुत\JJ संरचना\N_NN एक\QT_QTC वेगळ्याच\JJ वातावरणात\N_NN अनुभवायची\V_VM असेल\V_VAUX तर\CC_CCS ह्यावेळी\DM_DMR इथे\DM_DMD अवश्य\RB जा\V_VM .\RD_PUNC
+htd21239	पुरीमध्ये\N-NNP स्वर्गद्वाराच्याजवळ\N_NN समुद्रकिनार्‍यावर\N_NN दरवर्षी\RB होणारा\V_VM हा\DM_DMR समारोह\N_NN उडिया\N_NN संस्कृतीचा\N_NN उत्सव\N_NN आहे\V_VM .\RD_PUNC
+htd21240	समुद्रांच्या\N_NN लाटांच्या\N_NN ध्वनिमध्ये\N_NN पायांची\N_NN थाप\N_NN आणि\CC_CCD संगीताचा\N_NN सूर\N_NN एक\QT_QTC मादक\JJ परिणाम\N_NN करतो\V_VM .\RD_PUNC
+htd21241	ह्याच्या\DM_DMR शिवाय\CC_CCD समारोह\N_NN ओरिसाच्या\N-NNP पारंपरिक\N_NN जेवण\N_NN आणि\CC_CCD हस्तकलांचेदेखील\N_NN आहे\V_VM .\RD_PUNC
+htd21242	आणखी\JJ एक\QT_QTC गोष्ट\N_NN जी\PR_PRL येथील\DM_DMD खास\JJ आहे\V_VM ती\DM_DMR आहे\V_VM वाळूचे\N_NN शिल्प\N_NN म्हणजे\CC_CCD सँड\N_NN आर्ट\N_NN ज्याचे\PR_PRL प्रसिद्ध\JJ कलाकार\N_NN सुदर्शन\N-NNP पटनायक\N-NNP पूर्ण\QT_QTF किनार्‍याला\N_NN आपल्या\PR_PRP कॅनवासप्रमाणे\N_NN वापरतात\V_VM .\RD_PUNC
+htd21243	वातावरणाला\N_NN थोडे\QT_QTF आणखी\JJ रंगीन\N_NN बनवण्यासाठी\V_VM फॅशन\N_NN शो\N_NN आणि\CC_CCD रॉक\N_NN शो\N_NN ह्यांचे\DM_DMR आयोजन\N_NN देखील\RB होऊ\V_VM लागले\V_VAUX आहे.\V_VAUX
+htd21244	एकेकाळी\N_NN विजयनगर\N-NNP साम्राज्याची\N_NN गौरवशाली\N_NN राजधानी\N_NN असलेल्या\V_VM हंपीमध्ये\N-NNP आजदेखील\RB त्या\DM_DMR अनमोल\JJ वारस्याची\N_NN चिन्‍हं\N_NN पहायला\V_VM मिळतात\V_VAUX .\RD_PUNC
+htd21245	आता\RB येथे\DM_DMD कर्नाटक\N-NNP सरकार\N_NN दरवर्षी\RB ३\QT_QTC ते\CC_CCS ५\QT_QTC नोव्हेंबरपर्यंत\N_NN समारोहाचे\N_NN आयोजन\N_NN करते\V_VM .\RD_PUNC
+htd21246	ह्या\DM_DMR समारोहाच्या\N_NN दरम्यान\N_NN बंगलोरपासून\N-NNP ३५३\QT_QTC किलोमीटर\N_NN दूर\N_NST हंपीचा\N-NNP इतिहास\N_NN जणू\RP_RPD सजीव\N_NN होतो\V_VM .\RD_PUNC
+htd21247	खडक\N_NN आणि\CC_CCD इतिहास\N_NN ह्यांच्या\DM_DMR भग्नावशेषांच्यामध्ये\N_NN कर्नाटक\N-NNP व\CC_CCD देशातील\N_NN बाकी\QT_QTF भागातून\N_NN आलेले\V_VM सुप्रसिद्ध\JJ कलाकारांच्या\N_NN नृत्य\N_NN -\RD_PUNC संगीताने\N_NN संपूर्ण\QT_QTF प्रदेश\N_NN निनादून\V_VM जातो\V_VAUX स्थानीक\N_NN संस्कृतीशी\N_NN उर्वरीत\JJ जगाला\N_NN ओळख\N_NN करुन\V_VM देतोच\V_VM .\RD_PUNC
+htd21248	ह्याच्या\DM_DMR शिवाय\CC_CCS नाटक\N_NN ,\RD_PUNC झाकिया\N_NN ,\RD_PUNC कळसूत्राचा\N_NN खेळ\N_NN ,\RD_PUNC आतषबाजी\N_NN वगैर\RP_RPD देखील\RB होते\V_VM .\RD_PUNC
+htd21249	ब्रह्मपुत्र\N-NNP नदीच्या\N_NN कुशीत\N_NN माजुली\N-NNP जगातील\N_NN सर्वात\RP_INTF मोठे\JJ नदीबेट\N_NN म्हणून\CC_CCS_UT प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd21250	ह्याची\DM_DMR नैसर्गिक\JJ सुंदरता\N_NN अनेक\QT_QTF गोष्टींनी\N_NN मिळून\V_VM बनलेली\V_VM आहे\V_VAUX .\RD_PUNC
+htd21251	येथे\DM_DMD अनेक\QT_QTF दुर्लभ\JJ प्रवासी\N_NN पक्षीदेखील\N_NN येतात\V_VM .\RD_PUNC
+htd21252	येथील\DM_DMD संस्कृति\N_NN आणि\CC_CCD हस्तकलादेखील\N_NN वेगळी\JJ आहे\V_VM आणि\CC_CCD येथील\DM_DMD नृत्य\N_NN -\RD_PUNC बिहू\N_NN .\RD_PUNC
+htd21253	माजुली\N-NNP फेस्टिवल\N_NN बिहूच्या\N_NN सौंदर्याचा\N_NN उत्सव\N_NN आहे\V_VM असे\RB म्हणणे\V_VM चुकीचे\N_NN नाही\V_VM .\RD_PUNC
+htd21254	माजुलीमध्ये\N-NNP बिहूचे\N_NN तीन\QT_QTC समारोह\N_NN होतात\V_VM आणि\CC_CCD त्यांपैकी\PR_PRL एक\QT_QTC नोव्हेंबरमध्ये\N_NN होतो\V_VM .\RD_PUNC
+htd21255	बिहूची\N_NN छटा\N_NN तर\CC_CCS सगळीकडे\N_NN असते\V_VM ह्याच्या\DM_DMR शिवाय\CC_CCD माजुलीची\N-NNP हस्तकला\N_NN आणि\CC_CCD स्थानीय\N_NN असमिया\N_NN पदार्थांचा\N_NN स्वाददेखील\N_NN संपूर्ण\QT_QTF प्रदेशावर\N_NN होतो.\V_VM
+htd21256	शहरांच्या\N_NN कार्निवलच्या\N_NN सूचीमध्ये\N_NN एक\QT_QTC नाव\N_NN चंदीगड\N-NNP कार्निवलचेदेखील\N_NN जोडले\V_VM गेले\V_VAUX आहे\V_VAUX .\RD_PUNC
+htd21257	दरवर्षी\RB नोव्हेंबरच्या\N_NN महिन्यांमध्ये\N_NN दोन\QT_QTC दिवसाचा\N_NN हा\DM_DMR उत्सव\N_NN होतो\V_VM .\RD_PUNC
+htd21258	सामान्यतः\RB हे\DM_DMR सेक्टर\N_NN १०\QT_QTC मध्ये\N_NST लेजर\N_NN व्हॅलीमध्ये\N_NN होते\V_VM .\RD_PUNC
+htd21259	चंदीगड\N-NNP प्रशासनाद्वारे\N_NN आयोजित\JJ होणारा\V_VM हा\DM_DMR समारोह\N_NN शहर\N_NN आणि\CC_CCD आजूबाजूच्या\N_NN प्रदेशाच्या\N_NN प्रतिभांना\N_NN मंच\N_NN तर\CC_CCS उपलब्ध\JJ करुन\V_VM देतो\V_VAUX सामान्य\JJ लोकांना\N_NN आपल्या\PR_PRP शहराशी\N_NN जो़डल्याची\V_VM जाणीव\N_NN देखील\RB करुन\V_VM देतो\V_VAUX .\RD_PUNC
+htd21260	खाणे\V_VM -\RD_PUNC पिणे\V_VM ,\RD_PUNC संगीत\N_NN ,\RD_PUNC स्पर्धा\N_NN वगैरे\RP_RPD तर\CC_CCS होतातच\N_NN कार्निवलचे\N_NN स्वरूप\N_NN देण्यासाठी\V_VM एक\QT_QTC परेड\N_NN देखील\RB होऊ\V_VM लागली\V_VAUX आहे\V_VAUX .\RD_PUNC
+htd21261	अनेक\QT_QTF झाकिया\N_NN शहराच्या\N_NN रस्त्यावर\N_NN निघतात\V_VM .\RD_PUNC
+htd21262	गिद्‍दा\N_NN ,\RD_PUNC भांगडा\N_NN इत्यादीचे\JJ आयोजन\N_NN लोकांना\N_NN डोलायला\V_VM लावते\V_VAUX .\RD_PUNC
+htd21263	मुले\N_NN व\CC_CCD वरिष्‍ठ\JJ नागरिकांसाठी\N_NN खास\JJ आयोजन\N_NN होते\V_VM .\RD_PUNC
+htd21264	ह्याला\DM_DMR निश्चितपणे\N_NN चंदीगडमधील\N-NNP सर्वात\RP_INTF सुंदर\JJ उत्सव\N_NN म्हणता\V_VM येईल\V_VAUX .\RD_PUNC
+htd21265	निसर्गाच्या\N_NN चमत्काराची\N_NN अजब\JJ -\RD_PUNC गजब\RD_ECH जगामध्ये\N_NN ह्यावेळी\DM_DMR गोष्ट\N_NN एक\QT_QTC अशा\JJ जागेची\N_NN आहे\V_VM जी\PR_PRL खूप\QT_QTF विलक्षण\JJ तर\CC_CCS नाही\V_VM परंतु\CC_CCD खूप\QT_QTF शोभीवंत\N_NN आहे\V_VM .\RD_PUNC
+htd21266	आम्ही\PR_PRP उल्लेख\N_NN करत\V_VM आहोत\V_VAUX श्रीलंकेमध्ये\N-NNP गालेच्या\N_NN विश्‍व\N_NN विरासत\N_NN स्थळ\N_NN किल्ल्यापासून\N_NN थोड्याच\QT_QTF अंतरावर\N_NN असलेल्या\V_VM टैप्रोबेन\N-NNP बेटाची\N_NN .\RD_PUNC
+htd21267	किनार्‍यापासून\N_NN केवळ\JJ फर्लांगभर\N_NN दूर\N_NST हे\DM_DMR बेट\N_NN छोटासे\JJ आहे\V_VM (\RD_SYM एकूण\QT_QTF अडीच\QT_QTC एकर\N_NN प्रदेशात\N_NN पसरलेला\V_VM )\RD_SYM परंतु\CC_CCD हे\DM_DMR श्रीलंकेतील\N-NNP एकटे\QT_QTF खाजगी\JJ स्वामित्व\N_NN असणारे\V_VM बेट\N_NN आहे\V_VM .\RD_PUNC
+htd21268	संपूर्ण\QT_QTF द्वीप\N_NN एका\QT_QTC उपाहारगृहामध्ये\N_NN बदलले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21269	टैप्रोबेनचे\N-NNP नाव\N_NN ह्यामुळे\CC_CCD पडले\V_VM कारण\CC_CCD की\CC_CCS हे\DM_DMR सीलोनचे\N-NNP प्राचीन\JJ ग्रीक\N-NNP नाव\N_NN आहे\V_VM .\RD_PUNC
+htd21270	ह्या\DM_DMR बेटाचे\N_NN स्वरुप\N_NN सीलोन\N-NNP (\RD_SYM आजच्या\RB श्रीलंकाशी\N-NNP )\RD_SYM मिळते\V_VM जुळते\V_VM असल्यामुळेच\V_VAUX ह्याला\DM_DMR हे\DM_DMR नाव\N_NN मिळाले\V_VM .\RD_PUNC
+htd21271	खासे\N_NN रूमानी\N_NN वातावरण\N_NN असलेले\V_VM हे\DM_DMR बेट\N_NN विश्रांतीकाळात\N_NN काही\QT_QTF दिवस\N_NN घालवण्यासाठी\V_VM जगातील\N_NN सर्वात\RP_INTF सुंदर\JJ ठिकाणांपैकी\N_NN एक\QT_QTC मानले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21272	विवाह\N_NN ,\RD_PUNC पार्टी\N_NN व\CC_CCD खास\JJ कारणासाठी\N_NN देखील\RB हे\DM_DMR खूप\QT_QTF अनुकूल\JJ ठिकाण\N_NN आहे\V_VM .\RD_PUNC
+htd21273	ह्या\DM_DMR बेटाला\N_NN सर्वात\RP_INTF प्रथम\QT_QTC शोधले\V_VM होते\V_VAUX स्वतःला\PR_PRF नेपोलियनच्या\N-NNP जनरलांपैकी\N_NN एकाचे\N_NN वंशज\N_NN सांगणारे\V_VM काउंट\N-NNP दी\N_NN माउनी-तलवंडेने\N-NNP जे\PR_PRL चाय\N_NN बादशाह\N_NN थॉमस\N-NNP लिप्टनबरोबर\N-NNP पहिल्यांदा\QT_QTO १९१२\QT_QTC मध्ये\N_NST सीलोनला\N-NNP आले\V_VM होते\V_VAUX .\RD_PUNC
+htd21274	श्रीलंकेच्या\N-NNP सुंदरतेने\N_NN ते\DM_DMR इतके\QT_QTF प्रभावित\JJ झाले\V_VM की\CC_CCS पहिल्या\QT_QTO विश्‍व\N_NN युद्धानंतर\N_NN पुन्हा\RB तिथे\DM_DMD आले\V_VM आपल्यासाठी\PR_PRP एक\QT_QTC स्वप्नांतील\N_NN जगाला\N_NN शोधण्यासाठी\V_VM त्यांना\PR_PRL दहा\QT_QTC वर्ष\N_NN लागली\V_VM .\RD_PUNC
+htd21275	१९३०\QT_QTC मध्ये\N_NST त्यांनी\PR_PRL हे\DM_DMR बेट\N_NN शोधले\V_VM आणि\CC_CCD येथे\DM_DMD इमारत\N_NN बनवली\V_VM जी\PR_PRL बनावटी\N_NN यूरोपीय\JJ शैलीच्या\N_NN दृष्टीने\N_NN विलक्षण\JJ होती\V_VM जणु\RP_RPD तुम्ही\PR_PRP एखाद्या\JJ क्रूज\N_NN बोटमध्ये\N_NN आहात\V_VM .\RD_PUNC
+htd21276	काउंट\N-NNP माउनी\N-NNP तीस\QT_QTC वर्ष\N_NN तिथे\DM_DMD राहिला\V_VM आणि\CC_CCD त्यादरम्यान\CC_CCD त्यांनी\PR_PRL जगातील\N_NN अनेक\QT_QTF प्रसिद्ध\JJ व्यक्तींचे\N_NN आतिथ्य\N_NN केले\V_VM .\RD_PUNC
+htd21277	मजेदार\RB गोष्ट\N_NN ही\DM_DMR आहे\V_VM की\CC_CCS त्याच्या\PR_PRL आधी\RP_RPD ह्या\DM_DMR बेटाला\N_NN स्थानीय\N_NN कोबरा-डंप\N-NNP मानले\V_VM जात\V_VAUX होते\V_VAUX कारण\CC_CCD की\CC_CCS श्रीलंकामध्ये\N-NNP लोक\N_NN सापांना\N_NN मारत\V_VM नाहीत\V_VM ह्यामुळे\CC_CCD जितके\QT_QTF देखील\RB कोबरा\N_NN पकडले\V_VM जात\V_VAUX होते\V_VAUX त्यांना\PR_PRL ह्या\DM_DMR बेटावर\N_NN सोडून\V_VM दिले\V_VAUX जात\V_VAUX होते\V_VAUX .\RD_PUNC
+htd21278	काउंटच्या\N-NNP मृत्यू\N_NN नंतर\RB देखील\RB अनेक\QT_QTF लोकांना\N_NN हे\DM_DMR आपल्याकडे\PR_PRP आकर्षित\JJ करत\V_VM राहिले\V_VAUX .\RD_PUNC
+htd21279	काही-काही\QT_QTF काळासाठी\N_NN अनेक\QT_QTF लोकांनी\N_NN ह्याला\DM_DMR आपले\PR_PRP घर\N_NN बनवले\V_VM .\RD_PUNC
+htd21280	परंतु\CC_CCD हळू\RB -\RD_PUNC हळू\RB लोक\N_NN ह्याला\DM_DMR विसरु\V_VM लागले\V_VAUX .\RD_PUNC
+htd21281	१९९५\QT_QTC सालामध्ये\N_NN ह्याच्या\DM_DMR वर्तमानकालीन\N_NN मालकाने\N_NN ह्याला\DM_DMR आपल्या\PR_PRP हातात\N_NN घेतले\V_VM आणि\CC_CCD आज\RB ह्याला\DM_DMR जगातील\N_NN सर्वात\RP_INTF रोमांटिक\JJ विश्रांतीस्थानांपैकी\N_NN एक\QT_QTC मानले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21282	बेटावर\N_NN असलेल्या\V_VM पांढर्‍या\JJ फरशा\N_NN आणि\CC_CCD लाकडाच्या\N_NN उंच\JJ छतांची\N_NN अष्‍टभुजाकार\N_NN उपाहारगृहं\N_NN पाच\QT_QTC विशालकाय\JJ सुइट\N_NN आहेत\V_VM .\RD_PUNC
+htd21283	प्रत्येक\QT_QTF सुइटमध्ये\N_NN समुद्राचे\N_NN सरळ\JJ दृश्य\N_NN पाहता\V_VM येतील\V_VAUX अशा\JJ शय्यागृहाच्या\N_NN शिवाय\RB बैठक\N_NN ,\RD_PUNC ओसरी\N_NN आणि\CC_CCD खूप\QT_QTF मोकळी\JJ जागा\N_NN आहे\V_VM .\RD_PUNC
+htd21284	प्रत्येक\QT_QTF शय्यागृहाला\N_NN आपला\PR_PRP छज्जा\N_NN आहे\V_VM जेथून\DM_DMD हिंद\N-NNP महासागराच्या\N_NN विशालतेचे\N_NN दृश्य\N_NN मिळते\V_VM .\RD_PUNC
+htd21285	इमारतीची\N_NN मध्य\N_NST खोली\N_NN तीस\QT_QTC फुट\N_NN उंच\JJ आहे\V_VM ज्यामध्ये\PR_PRL नैसर्गिक\JJ प्रकाश\N_NN आणि\CC_CCD हवा\N_NN येण्याचा\V_VM पूर्ण\QT_QTF बंदोबस्त\N_NN आहे\V_VM .\RD_PUNC
+htd21286	इमारतीचे\N_NN फर्निचर\N_NN तुम्हाला\PR_PRP शंभर\QT_QTC वर्ष\N_NN आधीच्या\N_NST काळात\N_NN घेऊन\V_VM जाईल\V_VAUX .\RD_PUNC
+htd21287	इनफिनिटी\N-NNP स्वीमिंग\N_NN पूल\N_NN एकदम\RB अमर्याद\QT_QTF समुद्रात\N_NN स्नान\N_NN करण्यासारखा\V_VM आहे\V_VM .\RD_PUNC
+htd21288	इमारतीच्या\N_NN चारही\N_NN बाजुंना\N_NN दोन\QT_QTC एकरामध्ये\N_NN पसरलेला\V_VM जंगलासारखा\N_NN बगीचा\N_NN आहे\V_VM ज्यामध्ये\PR_PRL तुम्ही\PR_PRP एक\QT_QTC निर्जन\JJ बेटावर\N_NN (\RD_SYM स्वतःमध्ये\PR_PRF )\RD_SYM हरवण्यासारखा\V_VM आनंददेखील\N_NN घेऊ\V_VM शकता\V_VAUX .\RD_PUNC
+htd21289	टैप्रोबेन\N-NNP द्वीप\N_NN श्रीलंकेच्या\N-NNP दक्षिण\N_NN टोकापासून\N_NN केवळ\JJ २००\QT_QTC गज\N_NN दूर\N_NST वेलिगामा\N-NNP खाडीच्या\N_NN एकदम\RB मध्यात\N_NN आहे\V_VM .\RD_PUNC
+htd21290	कोलंबोच्या\N-NNP अंतरराष्‍ट्रीय\N_NN विमानतळावरुन\N_NN महामार्गाने\N_NN साडे\QT_QTC चार\QT_QTC तासाचा\N_NN प्रवास\N_NN आहे\V_VM .\RD_PUNC
+htd21291	परंतु\CC_CCD जर\CC_CCS तुम्ही\PR_PRP थोड्या\QT_QTF आणखी\RB रोमांचाचा\N_NN मजा\N_NN घेत\V_VM हेलीकॉप्टर\N_NN किंवा\CC_CCD सी-प्लेन\N_NN ह्याने\DM_DMR जायचे\V_VM असेल\V_VAUX तर\CC_CCS हा\DM_DMR रस्ता\N_NN केवळ\JJ तासभराचाच\N_NN राहतो\V_VM .\RD_PUNC
+htd21292	किनार्‍यापासून\N_NN बेटापर्यंत\N_NN पाणी\N_NN खोल\JJ नाही\V_VM ह्यामुळे\CC_CCD बेटावर\N_NN पोहचण्याचा\V_VM देखील\RB वेगळा\JJ आनंद\N_NN आहे\V_VM हत्तीवर\N_NN बसून\V_VM गेलात\V_VAUX तर\CC_CCS खूप\QT_QTF अद्‍भुत\JJ जाणीव\N_NN होते\V_VM .\RD_PUNC
+htd21293	श्रीलंकेचा\N-NNP हा\DM_DMR दक्षिण\N_NN किनारा\N_NN जगभरातील\N_NN पर्यटकांसाठी\N_NN नवीन\JJ आकर्षण\N_NN आहे\V_VM कारण\CC_CCD की\CC_CCS येथे\DM_DMD जवळजवळ\RB तेच\PR_PRL दृश्य\N_NN ,\RD_PUNC अनुभव\N_NN आणि\CC_CCD हवामान\N_NN मिळते\V_VM जे\PR_PRL मालदीव\N-NNP किंवा\CC_CCD थायलंडमध्ये\N-NNP मिळते\V_VM .\RD_PUNC
+htd21294	तुम्ही\PR_PRP हे\DM_DMR जाणून\V_VM देखील\RB हैराण\JJ व्हाल\V_VM की\CC_CCS ह्या\DM_DMR द्वीप\N_NN आणि\CC_CCD दक्षिणी\N_NN ध्रुव\N_NN ह्यांच्या\DM_DMR दरम्यान\N_NN अथांग\JJ समुद्राशिवाय\N_NN काही\QT_QTF नाही\V_VM .\RD_PUNC
+htd21295	नोव्हेंबर\N_NN ते\CC_CCS एप्रिलचा\N_NN काळ\N_NN येथे\DM_DMD जाण्यासाठी\V_VM सर्वात\RP_INTF चांगला\JJ आहे\V_VM कारण\CC_CCD की\CC_CCS ह्या\DM_DMR दिवसात\N_NN येथे\DM_DMD पाऊस\N_NN होत\V_VM नाही\V_VAUX .\RD_PUNC
+htd21296	परंतु\CC_CCD अनेक\QT_QTF लोक\N_NN येथे\DM_DMD पावसाचा\N_NN आनंद\N_NN घेण्यासाठी\V_VM देखील\RB जातात\V_VM .\RD_PUNC
+htd21297	येथील\DM_DMD सुइटचे\N_NN भाडे\N_NN ऑगस्ट\N_NN महिन्यात\N_NN आणि\CC_CCD २१\QT_QTC जानेवारी\N_NN ते\CC_CCD ३०\QT_QTC एप्रिल\N_NN ह्यांदरम्यान\CC_CCD १७५०\QT_QTC डॉलर\N_NN रोज\RB रात्री\N_NN आहे\V_VM .\RD_PUNC
+htd21298	तेथेच\DM_DMD १\QT_QTC सप्टेंबर\N_NN ते\DM_DMR १४\QT_QTC डिसेंबर\N_NN आणि\CC_CCD मग\N_NST १\QT_QTC मे\N_NN ते\CC_CCD ३१\N_NN जुलै\N_NN पर्यंत\CC_CCD भाडे\N_NN कमी\QT_QTF होऊन\V_VM १०००\QT_QTC डॉलर\QT_QTC दर\QT_QTF रात्री\N_NN राहते\V_VM .\RD_PUNC
+htd21299	वर्षाच्या\N_NN शेवटी\N_NST ही\DM_DMR जागा\N_NN सर्वात\RP_INTF महागडी\N_NN असते\V_VM जेव्हा\CC_CCS १५\QT_QTC डिसेंबर\N_NN ते\CC_CCD २०\QT_QTC जानेवारी\N_NN ह्यां\DM_DMR दरम्यान\N_NN येथील\DM_DMD भाडे\N_NN २२००\QT_QTC डॉलर\QT_QTC रोज\RB रात्री\N_NN होते\V_VM .\RD_PUNC
+htd21300	पावसाळी\JJ कुंद\JJ हवामान\N_NN जाता-जाता\V_VM हलका\JJ हिवाळा\N_NN येण्याच्या\V_VM तयारीत\N_NN असतो\V_VM .\RD_PUNC
+htd21301	फेरफटका\N_NN मारणारे\V_VM शौकीन\N_NN ह्या\DM_DMR हवामानाला\N_NN खूप\QT_QTF पसंत\N_NN करतात\V_VM .\RD_PUNC
+htd21302	पहाडांवर\N_NN पसरलेली\V_VM हिरवळ\N_NN व\CC_CCD सौम्यता\N_NN असलेले\V_VM पर्यावरण\N_NN नेहेमीचे\RB मानिंद\N_NN त्यांना\PR_PRL बोलवू\V_VM लागतो\V_VAUX परंतू\CC_CCS नेहेमी\JJ जुन्या\JJ पर्यटकस्थळांचे\N_NN नाव\N_NN डोक्यात\N_NN घर\N_NN करुन\V_VM असतात\V_VAUX मसूरी\N_NN ,\RD_PUNC मनाली\N-NNP ,\RD_PUNC कुल्लू\N-NNP ,\RD_PUNC शिमला\N-NNP ,\RD_PUNC चैल\N-NNP वगैरे\RP_RPD .\RD_PUNC
+htd21303	येथे\DM_DMD पर्यटक\N_NN नेहमी\RB नेहमी\RB जात\V_VM असतात\V_VAUX .\RD_PUNC
+htd21304	त्यांना\PR_PRL जाणवले\V_VM आहे\V_VAUX की\CC_CCS वाढती\V_VM लोकसंख्या,\N_NN वाहनांची\N_NN गर्दी,\N_NN कमी\QT_QTF पडणार्‍या\V_VM सामाजिक\JJ सुविधा\N_NN यामुळे\CC_CCD आता\RB ती\DM_DMR मजा\N_NN राहिली\V_VM नाही\V_VAUX जिच्यासाठी\PR_PRL एवढ्या\QT_QTF दूरवरुन\N_NST वेळ\N_NN आणि\CC_CCD पैसे\N_NN खर्च\N_NN करावेत\V_VM .\RD_PUNC
+htd21305	सरकार\N_NN तरी\CC_CCS किती\PR_PRQ ठिकाणी\N_NN लक्ष\N_NN देणार\V_VM बिचारे\JJ स्वतःचे\PR_PRF अस्तित्त्व\N_NN वाचविणे\V_VM आणि\CC_CCD व्यवस्थेचा\N_NN गाडा\N_NN हाकण्यात\V_VM व्यस्त\JJ राहते\V_VM त्यामुळे\CC_CCD अशा\JJ अनेक\QT_QTF जागा\N_NN दुर्लक्षित\JJ राहतात\V_VM की\CC_CCS त्याकडे\PR_PRL थोडे\QT_QTF लक्ष\N_NN पुरविले\V_VM तर\CC_CCS आणि\CC_CCD थोडा\QT_QTF प्रचार\N_NN केला\V_VM तर\CC_CCS पर्यटक\N_NN सहज\RB आनंद\N_NN घेऊ\V_VM शकतात\V_VAUX .\RD_PUNC
+htd21306	चंदीगडपासून\N-NNP नव्वद\QT_QTC किलोमीटर\N_NN दूर\N_NST शिवालिक\N-NNP पर्वतांवर\N_NN समुद्रसपाटीपासून\N_NN ९३३\QT_QTC मीटर\N_NN उंचीवर\N_NN सन\N_NN १६२१\QT_QTC मध्ये\N_NST वसवलेले\V_VM शहर\N_NN आहे\V_VM नाहन\N-NNP .\RD_PUNC
+htd21307	जेव्हा\CC_CCS विकासाने\N_NN निसर्गाशी\N_NN असभ्यपणा\N_NN केला\V_VM नव्हता\V_VAUX त्यावेळी\PR_PRL प्रत्येक\QT_QTF हवामानात\N_NN सुखी\JJ ठेवणार्‍या\V_VM या\DM_DMR प्रदेशाला\N_NN नाहनला,\N-NNP हिमाचलमधील\N-NNP बंगलोर\N-NNP म्हटले\V_VM जात\V_VAUX होते\V_VAUX .\RD_PUNC
+htd21308	हवामानात\N_NN अनेक\QT_QTF परिवर्तनं\N_NN झाल्यानंतर\V_VM आजदेखील\RB नाहनचे\N-NNP हवामान\N_NN हिमाचलच्या\N-NNP निवडक\JJ शहरांच्या\N_NN चांगल्या\JJ हवामानामध्ये\N_NN गणले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21309	नाहनला\N-NNP आपण\PR_PRP तलावांचे\N_NN शहर\N_NN म्हणू\V_VM शकतो\V_VAUX .\RD_PUNC
+htd21310	येथे\DM_DMD चांगली\JJ गोष्ट\N_NN ही\DM_DMR आहे\V_VM की\CC_CCS संपूर्ण\QT_QTF शहर\N_NN थोड्या\QT_QTF तासात\N_NN फिरता\V_VM येते\V_VAUX .\RD_PUNC
+htd21311	येथील\DM_DMD छोट्या\JJ -\RD_PUNC मोठ्या\JJ गल्ल्या\N_NN बाजार\N_NN व\CC_CCD छत\N_NN देखील\RB उनाडकीस\N_NN वाव\N_NN देतात\V_VM .\RD_PUNC
+htd21312	पायी\N_NN चालावे\V_VM लागते\V_VAUX कारण\CC_CCD की\CC_CCS लोकल\N_NN ट्रांसपोर्ट\N_NN नाही\V_VM एवढेच\QT_QTF नाही\V_VM तर\CC_CCS थ्री\QT_QTC व्हीलर\N_NN देखील\RB नाही\V_VM .\RD_PUNC
+htd21313	जुन्या\JJ बाजारात\N_NN शॉपिंग\N_NN पायी\N_NN करा\V_VM येथे\DM_DMD वाहनाला\N_NN मनाई\N_NN आहे\V_VM .\RD_PUNC
+htd21314	नाहनची\N-NNP संध्याकाळ\N_NN रोमॅंटिक\JJ व\CC_CCD सौम्य\JJ आहे\V_VM .\RD_PUNC
+htd21315	मुख्यत:\RB पावसाळ्यानंतर\N_NN उजळून\V_VM नयनाभिराम\JJ रंग\N_NN व\CC_CCD रूप\N_NN बदलणारा\V_VM सूर्यास्त\N_NN आणि\CC_CCD रात्री\N_NN चंदीगड\N-NNP ,\RD_PUNC पंचकुला\N-NNP ,\RD_PUNC यमुनानगर\N-NNP व\CC_CCD आजूबाजूचा\N_NN प्रकाश\N_NN पाहण्याचा\V_VM आनंद\N_NN .\RD_PUNC
+htd21316	निसर्ग\N_NN ,\RD_PUNC कला\N_NN ,\RD_PUNC संस्कृति\N_NN ,\RD_PUNC साहित्य\N_NN ,\RD_PUNC सर्वधर्म\N_NN सद्‍भाव\N_NN ,\RD_PUNC सहजता\N_NN व\CC_CCD संतुष्‍टि\N_NN असलेले\V_VM नगर\N_NN नाहनमध्ये\N-NNP मंदिर\N_NN ,\RD_PUNC मशीद\N_NN ,\RD_PUNC गुरुद्वारा\N_NN व\CC_CCD प्रार्थनास्थळ\N_NN उपस्थित\JJ आहेत\V_VM .\RD_PUNC
+htd21317	नाहनची\N-NNP रोनक\N_NN ए\RD_UNK शाम\N_NN चौगानच्या\N-NNP नावे\N_NN असते\V_VM .\RD_PUNC
+htd21318	आयुष्यातील\N_NN सर्व\QT_QTF गडबडगोंधळ\N_NN येथे\DM_DMD होतो\V_VM .\RD_PUNC
+htd21319	नाहनमध्ये\N-NNP राहण्यासाठी\V_VM शासकीय\JJ विश्रामगृह\N_NN ,\RD_PUNC पीडब्ल्यूडी\N_NN व\CC_CCD नगरपालिका\N_NN विश्रांतीगृह\N_NN ,\RD_PUNC एसएफडीए\N_NN व\CC_CCD अनेक\QT_QTF खाजगी\JJ रिहायशगाह\N_NN आहेत\V_VM .\RD_PUNC
+htd21320	तुम्ही\PR_PRP कुठेही\DM_DMQ थांबा\V_VM तुमची\PR_PRP सकाळ\N_NN निर्मळ\JJ आनंदात\N_NN नाहून\V_VM जाईल\V_VAUX .\RD_PUNC
+htd21321	येथे\DM_DMD असलेल्या\V_VM साधारण\N_NN १२०\QT_QTC वर्ष\N_NN जुन्या\JJ राणी\N_NN ताल\N-NNP बागेत\N_NN सकाळचा\N_NN फेरफटका\N_NN देखील\RB होऊ\V_VM शकतो\V_VAUX आणि\CC_CCD संध्याकाळी\N_NN बोटिंगदेखील\N_NN .\RD_PUNC
+htd21322	नाहनला\N-NNP आलात\V_VM तर\CC_CCS वेळ\N_NN काढून\V_VM आजूबाजूचे\N_NN एकाकी\JJ ठिकाणदेखील\N_NN फिरता\V_VM येऊ\V_VAUX शकते\V_VAUX परंतु\CC_CCD एक\QT_QTC दिवस\N_NN काढून\V_VM रेणुकेला\N-NNP अवश्य\RB जाऊन\V_VM आले\V_VAUX पाहिजे\V_VAUX .\RD_PUNC
+htd21323	नाहनपासून\N-NNP शिमला\N-NNP रोडवरुन\N_NN नऊ\QT_QTC किलोमीटर\N_NN दूर\N_NST ’दोसडका’\N-NNP नामक\N_NN ठिकाणांहून\N_NN जो\PR_PRL रस्ता\N_NN उजव्या\JJ बाजूला\N_NN वळतो\V_VM तो\DM_DMR रेणुकेला\N-NNP जातो\V_VM .\RD_PUNC
+htd21324	येथुन\DM_DMD थोडे\QT_QTF पुढे\N_NST ’\RD_PUNC जमटा\N-NNP ’\RD_PUNC आहे\V_VM जेथुन\DM_DMD आजूबाजूची\N_NN नेत्रदीपक\JJ दृश्य\N_NN बघून\V_VM आनंद\N_NN येतो\V_VM .\RD_PUNC
+htd21325	पावसाळा\N_NN गेला\V_VM असेल\V_VAUX तर\CC_CCS ढगांची\N_NN गर्दी\N_NN येथे\DM_DMD पर्वतांच्या\N_NN पायथ्यापासून\N_NN निघून\V_VM मैलांपर्यंत\N_NN पसरलेले\V_VM असतात\V_VAUX .\RD_PUNC
+htd21326	जमटामध्ये\N-NNP विकास\N_NN कुस\N_NN बदलत\V_VM आहे\V_VAUX .\RD_PUNC
+htd21327	येथे\DM_DMD महागडे\JJ रिजॉर्ट\N_NN देखील\RB आहेत\V_VM जेथे\DM_DMD दर\QT_QTF आठवड्याला\N_NN दिल्लीसारख्या\N-NNP जागेवरुन\N_NN येणार्‍यांची\V_VM एडवांस\JJ बुकिंग\N_NN राहते\V_VM .\RD_PUNC
+htd21328	येथे\DM_DMD थांबलो\N_NN तर\CC_CCS विसरणार\V_VM नाही\V_VAUX .\RD_PUNC
+htd21329	सामान्य\JJ प्रवाश्यासाठी\N_NN मजा\N_NN महागडी\JJ ठरेल\V_VM .\RD_PUNC
+htd21330	जमटापासून\N-NNP रस्ता\N_NN उतारता\V_VM आहे\V_VAUX .\RD_PUNC
+htd21331	समोर\N_NST येथे-तेथे\DM_DMD वसलेले\V_VM पहाडी\JJ गाव\N_NN ,\RD_PUNC जिन्या\N_NN सारखे\JJ शेत\N_NN ,\RD_PUNC नाना\JJ प्रकारचे\N_NN वृक्ष\N_NN ,\RD_PUNC औषधी\N_NN वृक्ष,\N_NN चीडची\N_NN स्वच्छ\JJ हवा\N_NN ,\RD_PUNC जंगली\JJ फुलांनी\N_NN बहरलेले\V_VM वृक्ष\N_NN -\RD_PUNC रोपटे\N_NN ,\RD_PUNC संपूर्ण\QT_QTF रस्ता\N_NN हिरवागार\N_NN सापासारखा\N_NN आहे\V_VM .\RD_PUNC
+htd21332	रस्त्यात\N_NN बाबा\N_NN बडोलिया\N-NNP आकर्षक\N_NN स्टॉपेज\N_NN आहे\V_VM .\RD_PUNC
+htd21333	शेजारी\N_NN वाहत्या\V_VM नदी\N_NN बरोबर\JJ चालले\V_VM असाल\V_VAUX तर\CC_CCS ’ददाहू’\N-NNP नामक\N_NN कसबा\N_NN येतो\V_VM .\RD_PUNC
+htd21334	इथे\DM_DMD खाण्या\V_VM -\RD_PUNC पिण्यासाठी\V_VM एक\QT_QTC -\RD_PUNC दोन\QT_QTC चांगली\JJ ठिकाणं\N_NN आहेत\V_VM .\RD_PUNC
+htd21335	येथुन\DM_DMD एक\QT_QTC लांब\JJ पूल\N_NN पार\V_VM करुन\V_VM आपण\PR_PRP रेणुका\N-NNP सरोवराच्या\N_NN एका\QT_QTC भागात\N_NN पोहचतो\V_VM .\RD_PUNC
+htd21336	रेणूका\N-NNP सरोवराचे\N_NN हिमाचलमध्येच\N-NNP नव्हे\V_VM तर\CC_CCS आशियाच्याही\N_NN नैसर्गिक\JJ सरोवरांमधे\N_NN विशेष\JJ स्थान\N_NN आहे\V_VM .\RD_PUNC
+htd21337	जवळजवळ\RB दोन\QT_QTC किलोमीटर\N_NN क्षेत्रामध्ये\N_NN पसरलेल्या\V_VM ह्या\DM_DMR सरोवराजवळ\N_NN पूर्ण\QT_QTF एकांत\N_NN आहे\V_VM .\RD_PUNC
+htd21338	पायी\N_NN ह्याची\DM_DMR परिक्रमा\N_NN करायची\V_VM असेल\V_VAUX तर\CC_CCS अनेक\QT_QTF पक्ष्यांची\N_NN चिवचिव\N_NN ,\RD_PUNC हिरवळीमध्ये\N_NN उगवलेल्या\V_VM औषधी\N_NN वनस्पतींशी\N_NN ओळख\N_NN होऊ\V_VM शकते\V_VAUX .\RD_PUNC
+htd21339	मोठे\JJ -\RD_PUNC छोटे\JJ वृक्ष\N_NN पर्यावरणाला\N_NN सुखद\JJ बनवतात\V_VM मुख्यतः\RB खजूराचे\N_NN वृक्ष\N_NN .\RD_PUNC
+htd21340	समुद्रसपाटीपासून\N_NN ६६०\QT_QTC मीटर\N_NN उंचीवर\N_NN असलेल्या\V_VM ह्या\DM_DMR सरोवरामध्ये\N_NN उड्या\N_NN मारणारे\V_VM हजारो\QT_QTC महाशीर\N_NN मासे\N_NN छोटे\JJ -\RD_PUNC मोठे\JJ सर्वांबरोबर\N_NN मनाचे\N_NN नाते\N_NN कायम\JJ करुन\V_VM घेतात\V_VAUX .\RD_PUNC
+htd21341	त्यांना\PR_PRL येथे\DM_DMD विकत\V_VM असलेल्या\V_VAUX पिठाच्या\N_NN गोळ्या\N_NN खाऊ\V_VM घालून\V_VAUX व\CC_CCD शेजारी\N_NN असलेल्या\V_VM मंदिर\N_NN व\CC_CCD मठ\N_NN ह्यांमध्ये\PR_PRL मस्तक\N_NN टेकवून\V_VM पर्यटक\N_NN आपल्या\PR_PRP धार्मिक\JJ प्रवृत्तीला\N_NN देखील\RB संतुष्‍ट\JJ करतात\V_VM .\RD_PUNC
+htd21342	श्री\N_NN परशुराम\N-NNP व\CC_CCD माता\N_NN रेणुकेचे\N-NNP मंदिर\N_NN विशेष\JJ आहे\V_VM .\RD_PUNC
+htd21343	येथे\DM_DMD सरोवरामध्ये\N_NN मासे\N_NN पकडणे\V_VM वर्जित\JJ आहे\V_VM व\CC_CCD मांसाहार\N_NN करणे\V_VM देखील\RB .\RD_PUNC
+htd21344	मुलांसाठी\N_NN येथे\DM_DMD छोटे\JJ प्राणिसंग्रहालय\N_NN आहे\V_VM आणि\CC_CCD इतर\QT_QTF खास\JJ आकर्षण\N_NN आहे\V_VM बब्बर\N-NNP शेर\N_NN .\RD_PUNC
+htd21345	रेणुकामधील\N-NNP सिंहाची\N_NN सफर\N_NN अनेक\QT_QTF एकरमध्ये\N_NN पसरलेली\V_VM आहे\V_VAUX .\RD_PUNC
+htd21346	सरोवराच्या\N_NN किनार्‍यावर\N_NN हिमाचल\N-NNP पर्यटन\N_NN महामंडळाचे\N_NN उपाहारगृह\N_NN रेणुका\N-NNP व\CC_CCD खूप\QT_QTF जुने\JJ अतिथिगृह\N_NN देखील\RB आहे\V_VM .\RD_PUNC
+htd21347	एक\QT_QTC रात्र\N_NN सरोवराच्या\N_NN सान्निध्यात\N_NN घालवली\V_VM आणि\CC_CCD ही\DM_DMR रात्र\N_NN चांदण्याने\N_NN युक्त\JJ असेल\V_VM तर\CC_CCS आपल्या\PR_PRP बरोबर\JJ किंवा\CC_CCD आपल्या\PR_PRP अतिविशेष\JJ व्यक्तिबरोबर\N_NN एकत्र\JJ येण्यामध्ये\V_VM किती\DM_DMQ संस्मरणीय\JJ क्षण\N_NN व्यतीत\JJ करु\V_VM शकता\V_VAUX .\RD_PUNC
+htd21348	ही\DM_DMR संधी\N_NN गर्दी\N_NN वाहन\N_NN आणि\CC_CCD इमारतींच्या\N_NN सावलीमध्ये\N_NN कधी\PR_PRQ शक्य\JJ नाही\V_VM .\RD_PUNC
+htd21349	नवीन\JJ ठिकाणी\N_NN जाऊन\V_VM नवीन\JJ अनुभव\N_NN ,\RD_PUNC नवीन\JJ आनंद\N_NN व\CC_CCD नवीन\JJ ओळख\N_NN आपल्या\PR_PRP जीवनात\N_NN येतात\V_VM ह्यामुळे\CC_CCD जुन्या\JJ चाकोरींतून\N_NN बाहेर\N_NST निघून\V_VM बघा\V_VM ह्यावेळी\CC_CCD .\RD_PUNC
+htd21350	मध्यप्रदेशची\N-NNP राजधानी\N_NN भोपाळपासून\N-NNP ३२\QT_QTC किलोमीटर\N_NN दूर\N_NST स्थित\JJ भोजपूर\N-NNP भव्य\JJ व\CC_CCD विशाल\JJ शिव\N-NNP मंदिर\N_NN आणि\CC_CCD जैन\N_NN मंदिरासाठी\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd21351	रायसेन\N-NNP जिल्ह्यातील\N_NN गोहरगंज\N-NNP तहसीलच्या\N_NN ओबेदुल्ला\N-NNP गंज\N-NNP विकास\N_NN खंडामध्ये\N_NN असलेल्या\V_VM ह्या\DM_DMR शिव\N-NNP मंदिराला\N_NN ११व्या\N_NN शतकात\N_NN परमार\N-NNP वंशाचे\N_NN राजा\N_NN भोज\N-NNP प्रथमने\N_NN (\RD_SYM ईस्वी\N_NN १०१०\QT_QTC -\RD_PUNC १०५५\QT_QTC )\RD_SYM बांधले\V_VM होते\V_VAUX .\RD_PUNC
+htd21352	बेतवा\N-NNP नदीच्या\N_NN किनार्‍यावर\N_NN बनवलेल्या\V_VM उच्चकोटीच्या\N_NN वास्तूकलेचा\N_NN हा\DM_DMR नमूना\N_NN राजा\N_NN भोजचे\N-NNP मुख्य\JJ शिल्पकार\N_NN (\RD_SYM स्थापति\N-NNP )\RD_SYM आणि\CC_CCD अन्य\QT_QTF शिल्पकारांच्या\N_NN सहयोगाने\N_NN तयार\JJ झाला.\V_VM
+htd21353	ह्याला\DM_DMR भोजेश्‍वर\N-NNP मंदिरदेखील\N_NN म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21354	ह्या\DM_DMR मंदिराच्या\N_NN विशालतेचा\N_NN अंदाज\N_NN ह्याच\DM_DMR गोष्टीवरुन\N_NN लावला\V_VM जाऊ\V_VAUX शकतो\V_VAUX की\CC_CCS ह्याचा\DM_DMR चबूतरा\N_NN ३५\QT_QTC मीटर\N_NN (\RD_SYM ११५\QT_QTC फूट\N_NN )\RD_SYM लांब\JJ ,\RD_PUNC २५\QT_QTC मीटर\N_NN (\RD_SYM ८२\QT_QTC फूट\N_NN )\RD_SYM रुंद\JJ आणि\CC_CCD ४\QT_QTC मीटर\N_NN (\RD_SYM १३\QT_QTC फूट\N_NN )\RD_SYM उंच\JJ आहे\V_VM .\RD_PUNC
+htd21355	भरभक्कम\JJ खडकांनी\N_NN बनलेला\V_VM हा\DM_DMR चबूतरा\N_NN स्वतःच\PR_PRF विलक्षण\JJ आहे\V_VM .\RD_PUNC
+htd21356	अनेक\QT_QTF अनेक\QT_QTF टन\N_NN भारी\JJ अनेक\QT_QTF खडकांना\N_NN ह्या\DM_DMR चबूतर्‍यावर\N_NN चढवून\V_VM शिव\N-NNP मंदिराच्या\N_NN गर्भगृहाची\N_NN रचना\N_NN केली\V_VM आहे\V_VAUX .\RD_PUNC
+htd21357	बाहेरून\N_NST गर्भगृह\N_NN २०\QT_QTC वर्ग\N_NN मीटर\N_NN (\RD_SYM ६५\QT_QTC वर्ग\N_NN फुट\N_NN )\RD_SYM आणि\CC_CCD आतून\N_NST १२\QT_QTC .\RD_PUNC ८०\QT_QTC वर्ग\N_NN मीटर\N_NN (\RD_SYM ४२\QT_QTC वर्ग\N_NN फुट\N_NN )\RD_SYM आहे\V_VM .\RD_PUNC
+htd21358	मंदिरामध्ये\N_NN विशाल\JJ शिवलिंग\N_NN ७\QT_QTC .\RD_PUNC ९०\QT_QTC मीटर\N_NN (\RD_SYM २६\QT_QTC फुट\N_NN )\RD_SYM उंचीच्या\N_NN गडलेल्या\V_VM गौरी\N_NN पट्‍टवर\N_NN आहे\V_VM .\RD_PUNC
+htd21359	शिवलिंग\N_NN २\QT_QTC .\RD_PUNC ३\QT_QTC मीटर\N_NN (\RD_SYM ७\QT_QTC .\RD_PUNC ५\QT_QTC फुट\N_NN )\RD_SYM उंच\JJ आहे\V_VM आणि\CC_CCD त्याची\PR_PRL त्रिज्या\N_NN ५\QT_QTC .\RD_PUNC ५\QT_QTC मीटर\N_NN (\RD_SYM १८\QT_QTC फुट\N_NN )\RD_SYM इतकी\QT_QTF आहे\V_VM .\RD_PUNC
+htd21360	ह्याला\PR_PRL काही\QT_QTF लोक\N_NN भारतातील\N-NNP सर्वात\RP_INTF उंच\JJ शिवलिंग\N_NN मानतात\V_VM .\RD_PUNC
+htd21361	गर्भगृहामध्ये\N_NN प्रवेशासाठी\N_NN १०\QT_QTC मीटर\N_NN उंच\JJ आणि\CC_CCD ४\QT_QTC मीटर\N_NN रुंद\JJ द्वार\N_NN आहेत\V_VM .\RD_PUNC
+htd21362	हे\DM_DMR विशाल\JJ मंदिर\N_NN राजा\N_NN भोजचे\N-NNP महान\JJ व्यक्‍तित्व\N_NN आणि\CC_CCD दूरदृष्टी\N_NN असल्याचे\V_VM सूचक\N_NN आहे\V_VM .\RD_PUNC
+htd21363	भोजचे\N-NNP पिता\N_NN सिंधू\N-NNP राजा\N_NN गोदावरी\N-NNP नदीच्या\N_NN दक्षिणेला\N_NN चालुक्य\N-NNP राजा\N_NN तेलपा\N-NNP ह्याच्या\DM_DMR हातून\N_NN मारले\V_VM गेले,\V_VAUX असे\RB मानले\V_VM जाते\V_VAUX की\CC_CCS त्यांच्याच\PR_PRL स्मरणार्थ\N_NN भोजाने\N-NNP शिवमंदिराची\N_NN रचना\N_NN केली\V_VM होती\V_VAUX ज्याचे\PR_PRL डिझाइन\N_NN स्वर्गारोहणप्रसाद\N_NN म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21364	भोजाने\N-NNP अनेक\QT_QTF मंदिरं\N_NN बनवली\V_VM .\RD_PUNC
+htd21365	शिव\N-NNP मंदिरापासून\N_NN एक\QT_QTC किलोमीटरच्या\N_NN अंतरावर\N_NN सुंदर\JJ जैन\N_NN मंदिर\N_NN आहे\V_VM .\RD_PUNC
+htd21366	शिव\N-NNP मंदिराप्रमाणे\N_NN हे\DM_DMR देखील\RB अर्धवट\JJ आहे\V_VM .\RD_PUNC
+htd21367	तेथील\DM_DMD शिलालेखावर\N_NN राजा\N_NN भोजाचा\N-NNP उल्लेख\N_NN आहे\V_VM .\RD_PUNC
+htd21368	मंदिरामध्ये\N_NN जैन\N_NN तीर्थंकरांच्या\N_NN प्रतिमा\N_NN आहेत\V_VM .\RD_PUNC
+htd21369	स्थानीय\N_NN स्तरावर\N_NN उपलब्ध\JJ साहित्यानुसार\N_NN येथे\DM_DMD मुख्य\JJ प्रतिमा\N_NN तीर्थंकर\N_NN शांतिना्थाची\N_NNP आहे\V_VM पण\CC_CCD राज्य\N_NN पर्यटन\N_NN आणि\CC_CCD रायसेन\N_NNP जिल्ह्याच्या\N_NN वेबसाइटवर\N_NN ह्याचा\DM_DMR श्री\N_NN महावीरची\N_NNP २०\QT_QTC फुट\N_NN उंच\JJ प्रतिमा\N_NN असा\JJ उल्लेख\N_NN आहे\V_VM .\RD_PUNC
+htd21370	काही\QT_QTF अन्य\JJ ठिकाणी\N_NN ह्याला\DM_DMR आदिनाथाची\N_NNP प्रतिमा\N_NN असे\RB उल्लेखिले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21371	पुरातत्त्वशास्त्र\N_NN विभागानुसार\N_NN मुख्य\JJ प्रतिमेच्या\N_NN दोन्हींकडे\N_NN पा‌र्श्वनाथ\N-NNP आणि\CC_CCD सुपा‌र्श्वनाथ\N-NNP ह्यांच्या\DM_DMR दोन\QT_QTC छोट्या\JJ प्रतिमा\N_NN आहेत\V_VM .\RD_PUNC
+htd21372	हे\DM_DMR क्षेत्र\N_NN भक्‍तामर\N-NNP स्त्रोतचे\N_NN रचनाकार\N_NN मुनी\N_NN मानतुंगाचार्यांशी\N-NNP संबधित\JJ आहे\V_VM .\RD_PUNC
+htd21373	त्यांची\PR_PRL समाधी\N_NN येथे\DM_DMD बांधली\V_VM आहे\V_VAUX .\RD_PUNC
+htd21374	चारही\N_NN बाजुंना\N_NN असलेले\V_VM मनोहारी\JJ दृश्य\N_NN आत्मिक\N_NN शांती\N_NN प्रदान\N_NN करते\V_VM .\RD_PUNC
+htd21375	भोजाने\N-NNP वास्तुकलेमध्ये\N_NN दक्षता\N_NN देण्यासाठी\V_VM शिल्पकारांच्या\N_NN प्रशिक्षणाची\N_NN पाठशाळा\N_NN चालवली\V_VM होती\V_VAUX .\RD_PUNC
+htd21376	परंतु\CC_CCD राजाच्या\N_NN आकस्मिक\RB मृत्यूमुळे\N_NN शिव\N-NNP मंदिराचे\N_NN अंतिम\JJ टप्प्यात\N_NN पोहचलेले\V_VM कार्य\N_NN आणि\CC_CCD पाठशाळा\N_NN दोन्हीं\N_NN बंद\JJ झाले\V_VM .\RD_PUNC
+htd21377	मंदिर\N_NN अर्धवट\JJ असले\V_VM तरी\CC_CCS इतके\QT_QTF भव्य\JJ आहे\V_VM की\CC_CCS माहितगार\N_NN म्हणतात\V_VM की\CC_CCS जर\CC_CCS हे\DM_DMR पूर्ण\QT_QTF झाले\V_VM असते\V_VAUX तर\CC_CCS हे\DM_DMR अप्रतिम\JJ असते\V_VM .\RD_PUNC
+htd21378	ह्याला\DM_DMR काही\QT_QTF इतिहासकारांद्वारे\N_NN पूर्वेचा\N_NN सोमनाथ\N-NNP देखील\RB म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21379	कालांतरामध्ये\N_NN स्थानीय\N_NN लोकांनी\N_NN आपल्या\PR_PRP आपल्या\PR_PRP आवश्यकतेनुसार\N_NN चबूतर्‍याच्या\N_NN खडकांना\N_NN गोळा\N_NN करणे\V_VM सुरू\JJ केले\V_VM आणि\CC_CCD काही\QT_QTF नुकसानदेखील\N_NN पोहचवले\V_VM .\RD_PUNC
+htd21380	ह्याच्या\DM_DMR व्यतिरिक्‍त\JJ १५व्या\N_NN शतकामध्ये\N_NN मांडूचे\N-NNP सुल्तान\N_NN होशंग\N-NNP शाहने\N-NNP हल्ला\N_NN करुन\V_VM चबूतरे\N_NN आणि\CC_CCD मंदिर\N_NN ह्यांना\PR_PRL बरेच\QT_QTF नुकसान\N_NN पोहचवले\V_VM .\RD_PUNC
+htd21381	राजा\N_NN भोजाने\N-NNP दक्ष\N_NN इंजिनियर्सच्या\N_NN सहाय्याने\N_NN जवळच\RB जे\PR_PRL धरण\N_NN आणि\CC_CCD सरोवर\N_NN बनवले\V_VM होते\V_VAUX त्यांना\PR_PRL देखील\RB खूप\QT_QTF नुकसान\N_NN पोहचवले\V_VM आणि\CC_CCD जल\N_NN व्यवस्थेला\N_NN छिन्नविच्छिन्न\JJ केले\V_VM होते\V_VAUX .\RD_PUNC
+htd21382	खरोखर\N_NN खडकांनी\N_NN बनवलेले\V_VM दोन\QT_QTC विशाल\JJ बांधदेखील\N_NN राजा\N_NN भोजाच्या\N-NNP यशस्वी\N_NN कारकीर्दिध्ये\N_NN गणले\V_VM जातात\V_VAUX .\RD_PUNC
+htd21383	म्हटले\V_VM जाते\V_VAUX की\CC_CCS सरोवराच्या\N_NN चारही\N_NN बाजुंना\N_NN पर्वतांनी\N_NN वेढलेले\V_VM होते\V_VAUX आणि\CC_CCD त्यामध्ये\PR_PRL केवळ\JJ दोन\QT_QTC ठिकाणी\N_NN रस्ते\N_NN होते\V_VM -\RD_PUNC शंभर\QT_QTC गजचा\N_NN आणि\CC_CCD दुसरा\QT_QTO पाचशे\QT_QTC गजचा\N_NN .\RD_PUNC
+htd21384	भोजाने\N-NNP खडकांनी\N_NN धरण\N_NN बनवून\V_VM सरोवराला\N_NN अडविले\V_VM होते\V_VAUX .\RD_PUNC
+htd21385	छोटे\JJ धरण\N_NN ४४\QT_QTC फुट\N_NN उंच\JJ आणि\CC_CCD खालून\N_NST तीनशे\QT_QTC फुट\N_NN मोठे\JJ होते\V_VM .\RD_PUNC
+htd21386	मोठे\JJ धरण\N_NN २४\QT_QTC फुट\N_NN उंच\JJ आणि\CC_CCD शंभर\QT_QTC फुट\N_NN रुंद\N_NN होते\V_VM .\RD_PUNC
+htd21387	दोन्हीं\N_NN धरण\N_NN मिळून\V_VM २५०\QT_QTC वर्ग\N_NN मैलमध्ये\N_NN पसरलेल्या\V_VM सरोवराचे\N_NN पाणी\N_NN अडवत\V_VM असत\V_VAUX .\RD_PUNC
+htd21388	गोंड\N_NN वर्गामध्ये\N_NN ही\DM_DMR गोष्ट\N_NN प्रचलित\JJ आहे\V_VM की\CC_CCS होशंग\N-NNP शाहने\N-NNP छोट्या\JJ धरणाला\N_NN तोडले\V_VM तर\CC_CCS त्याच्या\PR_PRL पूर्ण\QT_QTF सैन्याला\N_NN ते\DM_DMR तोडण्यास\V_VM तीन\QT_QTC महिने\N_NN लागले\V_VM .\RD_PUNC
+htd21389	धरण\N_NN तुटल्यानंतर\V_VM तीन\QT_QTC वर्ष\N_NN सरोवराचे\N_NN पाणी\N_NN सुकण्यासाठी\V_VM लागले\V_VAUX आणि\CC_CCD त्यानंतर\N_NST तीस\QT_QTC वर्षानी\N_NN पण\CC_CCD ती\DM_DMR जमीन\N_NN निवासस्थानाच्या\N_NN लायकीची\N_NN नाही\V_VAUX राहिली\V_VM .\RD_PUNC
+htd21390	म्हटले\V_VM जाते\V_VAUX की\CC_CCS ह्या\DM_DMR विशालकाय\JJ सरोवराच्या\N_NN सुकण्याने\V_VM मालवा\N-NNP प्रदेशातील\N_NN हवामान\N_NN कायमचे\N_NN बदलले\V_VM .\RD_PUNC
+htd21391	एक\QT_QTC काळ\N_NN होता\V_VM जेव्हा\CC_CCS भोजपूरपासून\N-NNP भोपाळपर्यंत\N-NNP पसरलेल्या\V_VM सरोवराच्या\N_NN शेवटच्या\N_NN टोकावर\N_NN भोजेश्‍वर\N-NNP मंदिर\N_NN उभे\JJ दिसत\V_VM होते\V_VAUX .\RD_PUNC
+htd21392	मंदिराच्या\N_NN रचनेसाठी\N_NN ज्या\PR_PRL खडकांचा\N_NN उपयोग\N_NN केला\V_VM गेला\V_VAUX ते\DM_DMR भोजपूरच्याच\N-NNP खडकाळ\N_NN क्षेत्रांतून\N_NN गोळा\N_NN केले\V_VM होते\V_VAUX .\RD_PUNC
+htd21393	मंदिराच्या\N_NN जवळ\RB आणि\CC_CCD दूर\N_NST पर्यंत\CC_CCS दगडांच्या\N_NN आणि\CC_CCD खडकांच्या\N_NN कटाईचे\N_NN अवशेष\N_NN आजदेखील\RB पाहायला\V_VM मिळतात\V_VAUX .\RD_PUNC
+htd21394	अर्ली\N_NN स्टोन\N_NN टेंपल\N_NN ऑफ\N_NN ओरिसाची\N-NNP लेखिका\N_NN विद्या\N-NNP देहेजियाच्या\N-NNP अनुसार\RB भोजपूरचे\N-NNP शिव\N_NN मंदिर\N_NN आणि\CC_CCD भुवनेश्‍वरचे\N-NNP लिंग\N-NNP राज\N_NN मंदिर\N_NN व\CC_CCD काही\QT_QTF आणखीन\JJ मंदिरांच्या\N_NN रचनेत\N_NN समानता\N_NN दिसून\V_VM येते\V_VAUX .\RD_PUNC
+htd21395	मंदिरापासून\N_NN काही\QT_QTF दूर\N_NST बेतवा\N-NNP नदीच्या\N_NN किनार्‍यावर\N_NN माता\N_NN पार्वतीची\N-NNP गुफा\N_NN आहे\V_VM .\RD_PUNC
+htd21396	कारण\CC_CCD की\CC_CCS गुफा\N_NN नदीच्या\N_NN दुसरीकडे\N_NN आहे\V_VM ह्यामुळे\CC_CCD नदीच्या\N_NN पलिकडे\N_NST जाण्यासाठी\V_VM नावा\N_NN उपलब्ध\JJ आहेत\V_VM .\RD_PUNC
+htd21397	जरी\CC_CCS भोजपूरचे\N-NNP प्रसिद्ध\JJ शिव\N-NNP मंदिर\N_NN ओसाड\JJ खडकाळ\JJ प्रदेशात\N_NN उभे\JJ आहे\V_VM तरीही\CC_CCS श्रद्धाळूंची\N_NN काही\QT_QTF कमतरता\N_NN नाही.\V_VM
+htd21398	दरवर्षी\RB शिवरात्रीला\N_NN इथे\DM_DMD खूप\QT_QTF मोठा\JJ मेळा\N_NN लागतो\V_VM .\RD_PUNC
+htd21399	देशाच्या\N_NN कुठल्याही\DM_DMQ कोपर्‍यातून\N_NN हवाई\N_NN किंवा\CC_CCD रेल्वे\N_NN मार्गाने\N_NN भोपाळला\N-NNP पोहचा\V_VM .\RD_PUNC
+htd21400	भोपाळपासून\N-NNP भोजपूरचे\N-NNP अंतर\N_NN ३२\QT_QTC किमी.\N_NN आहे\V_VM .\RD_PUNC
+htd21401	फिरण्यासाठी\V_VM खाजगी\JJ वाहन\N_NN अधिक\QT_QTF योग्य\JJ आहे\V_VM .\RD_PUNC
+htd21402	बसस्थानकापासून\N_NN भोपाळ\N-NNP मंडीदीप\N-NNP रोडवर\N_NN चालताना\V_VM भोजपूरला\N-NNP उतरा\V_VM .\RD_PUNC
+htd21403	भाडे\N_NN ८\QT_QTC -\RD_PUNC १०\QT_QTC रुपये\N_NN दर\QT_QTF व्यक्‍तिसाठी\N_NN लागते\V_VM .\RD_PUNC
+htd21404	तेथुन\DM_DMD मंदिरासाठी\N_NN टेम्पो\N_NN घ्या\V_VM .\RD_PUNC
+htd21405	त्याचे\PR_PRL भाडे\N_NN देखील\RB दर\QT_QTF व्यक्‍तिसाठी\N_NN ८\QT_QTC -\RD_PUNC १०\QT_QTC रुपये\N_NN लागते\V_VM .\RD_PUNC
+htd21406	मंदिरात\N_NN किंवा\CC_CCD त्याच्या\PR_PRL आजूबाजूला\N_NST राहण्याचे\V_VM काहीच\N_NN ठिकाण\N_NN नाही\V_VM म्हणजे\CC_CCD राहण्यासाठी\V_VM भोपाळच\N-NNP उपयुक्‍त\JJ राहिल\V_VM .\RD_PUNC
+htd21407	सिक्किमच्या\N-NNP सुंदरतेची\N_NN चर्चा\N_NN तर\CC_CCS सामान्य\JJ आहे\V_VM .\RD_PUNC
+htd21408	परंतू\CC_CCS येथे\DM_DMD आम्ही\PR_PRP उल्लेख\N_NN करत\V_VM आहोत\V_VAUX त्या\PR_PRL ठिकाणाचा\N_NN ज्याला\PR_PRL सिक्किमच्या\N-NNP सर्वात\RP_INTF सुंदर\JJ गावाच्या\N_NN रूपात\N_NN प्रसिद्धी\JJ मिळाली\V_VM आहे\V_VAUX .\RD_PUNC
+htd21409	ह्या\DM_DMR गावाचे\N_NN नाव\N_NN लाचुंग\N-NNP आहे\V_VM .\RD_PUNC
+htd21410	ह्याला\DM_DMR हा\DM_DMR दर्जा\N_NN दिला\V_VM होता\V_VAUX ब्रिटिश\N_NN प्रवासी\N_NN जोसेफ\N-NNP डॉल्टन\N-NNP हुकरने\N-NNP १८५५\QT_QTC मध्ये\N_NST प्रकाशित\JJ झालेल्या\V_VM द\RP_RPD हिमालयन\JJ जर्नल\N_NN मध्ये\N_NST .\RD_PUNC
+htd21411	परंतु\CC_CCD जोसेफ\N-NNP डॉल्टनचे\N-NNP त्या\PR_PRL तमग्या\N_NN शिवाय\RB देखील\RB हे\DM_DMR गाव\N_NN आकर्षक\JJ आहे\V_VM .\RD_PUNC
+htd21412	हे\DM_DMR उत्तर\N_NN सिक्किममध्ये\N-NNP चीनच्या\N-NNP सीमेच्या\N_NN खूप\QT_QTF जवळ\RB आहे\V_VM .\RD_PUNC
+htd21413	लाचुंग\N-NNP ९६००\QT_QTC फुट\N_NN उंचीवर\N_NN लाचेन\N-NNP व\CC_CCD लाचुंग\N-NNP नद्यांच्या\N_NN संगमावर\N_NN आहे\V_VM .\RD_PUNC
+htd21414	ह्या\DM_DMR नद्याच\N_NN पुढे\N_NST जाऊन\V_VM तीस्ता\N-NNP नदीला\N_NN मिळतात\V_VM .\RD_PUNC
+htd21415	इतक्या\QT_QTF उंचीवर\N_NN थंडी\N_NN तर\CC_CCS बारामाही\N_NN असते\V_VM .\RD_PUNC
+htd21416	परंतु\CC_CCD बर्फ\N_NN पडला\V_VM असेल\V_VAUX तर\CC_CCS येथील\DM_DMD सौंदर्याला\N_NN नवीन\JJ स्वरुप\N_NN मिळते\V_VM ज्याचे\PR_PRL फोटो\N_NN काढून\V_VM तुम्ही\PR_PRP आपल्या\PR_PRP दिवाणखान्यात\N_NN सजवु\V_VM शकता\V_VAUX .\RD_PUNC
+htd21417	ह्यामुळे\CC_CCD खूप\QT_QTF लोक\N_NN येथे\DM_DMD थंडीच्या\N_NN काळातदेखील\N_NN येतात\V_VM .\RD_PUNC
+htd21418	नैसर्गिक\JJ सौंदर्याशिवाय\N_NN सिक्किमची\N-NNP खास\N_NN गोष्ट\N_NN ही\DM_DMR देखील\RB आहे\V_VM की\CC_CCS बर्फ\N_NN पडल्यावर\V_VM देखील\RB उत्तरेकडील\N_NN हा\DM_DMR प्रदेश\N_NN तितकाच\N_NN सुगम\JJ राहतो\V_VM .\RD_PUNC
+htd21419	पोहोचणे\V_VM सोपे\JJ असेल\V_VM तर\CC_CCS फिरण्याची\V_VM मजाच\N_NN मजा\N_NN आहे\V_VM .\RD_PUNC
+htd21420	बर्फाने\N_NN आच्छदलेले\V_VM शिखर\N_NN धबधबे\N_NN आणि\CC_CCD चांदीसारख्या\N_NN चकाणणार्‍या\V_VM नद्या\N_NN येथे\DM_DMD येणार्‍या\V_VM पर्यटकांना\N_NN स्तब्ध\JJ करते\V_VM .\RD_PUNC
+htd21421	लाचुंग\N-NNP अशीच\JJ जागा\N_NN आहे\V_VM .\RD_PUNC
+htd21422	सामान्यतः\RB लाचुंगला\N-NNP युमथांग\N-NNP दरीसाठी\N_NN बेसच्या\N_NN रूपात\N_NN वापर\N_NN केला\V_VM जातो\V_VM .\RD_PUNC
+htd21423	युमथांग\N-NNP दरीला\N_NN पूर्वेचे\N_NN स्वित्झर्लंडदेखील\N-NNP म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21424	युमथांगला\N-NNP जाण्याशिवाय\V_VM देखील\RB लाचुंगमध्ये\N-NNP खूप\QT_QTF काही\QT_QTF केले\V_VM जाऊ\V_VAUX शकते\V_VAUX .\RD_PUNC
+htd21425	एका\QT_QTC वेगळ्या\JJ पर्वताच्या\N_NN शिखरावर\N_NN लाचुंग\N-NNP मठ\N_NN आहे\V_VM .\RD_PUNC
+htd21426	अद्‍भुत\JJ डोंगरदर्‍यांमध्ये\N_NN येथे\DM_DMD ध्यान\N_NN लावायला\V_VM बसलो\V_VAUX तर\CC_CCS जणू\RP_RPD स्वतःलाच\PR_PRF विसरुन\V_VM जाल\V_VAUX .\RD_PUNC
+htd21427	जवळजवळ\RB १२\QT_QTC हजार\QT_QTC फुट\N_NN उंचीवर\N_NN असलेले\V_VM न्यिंगमापा\N-NNP बौद्धांच्या\N_NN ह्या\DM_DMR मठाची\N_NN स्थापना\N_NN १८०६\QT_QTC मध्ये\N_NST झाली\V_VM होती\V_VAUX .\RD_PUNC
+htd21428	ह्याच्याशिवाय\DM_DMR लाचुंगमध्ये\N-NNP हथकरघा\N-NNP केंद्र\N_NN आहे\V_VM जेथे\DM_DMD स्थानीय\N_NN हस्तशिल्पाची\N_NN तपासणी\N_NN करता\V_VM येते\V_VAUX .\RD_PUNC
+htd21429	जवळच\RB शिंगबा\N-NNP रोडोडेंड्रन\N_NN (\RD_SYM बुरांश\N_NN )\RD_SYM अभयारण्य\N_NN आहे\V_VM .\RD_PUNC
+htd21430	सात\QT_QTC -\RD_PUNC आठ\QT_QTC हजार\QT_QTC फुटपेक्षा\N_NN उंच\JJ हिमालयी\JJ वृक्षांना\N_NN रंगवणारे\V_VM बुरांशच्या\N_NN वृक्षांना\N_NN येथे\DM_DMD खूप\QT_QTF जवळून\RB अनुभवले\V_VM जाऊ\V_VAUX शकते\V_VAUX .\RD_PUNC
+htd21431	येथे\DM_DMD रोडोडेंड्रनचे\N_NN जवळजवळ\RB २५\QT_QTC तर्‍हा\N_NN आहेत\V_VM .\RD_PUNC
+htd21432	नेपाळी\N_NN ,\RD_PUNC लेपचा\N_NN आणि\CC_CCD भूटिया\N_NN येथील\DM_DMD मूळ\N_NN निवासी\N_NN आहेत\V_VM .\RD_PUNC
+htd21433	त्यांच्या\PR_PRL संस्कृतीशी\N_NN मेळ\N_NN मिलापचे\N_NN देखील\N_NN सुंदर\JJ संधी\N_NN येथे\DM_DMD मिळते\V_VM .\RD_PUNC
+htd21434	कांचनजंगा\N-NNP राष्ट्रीय\JJ उद्यान\N_NN देखील\RB ह्याच\DM_DMR प्रदेशात\N_NN आहे\V_VM .\RD_PUNC
+htd21435	युमथांगच्या\N-NNP पुढे\N_NST युमे\N-NNP -\RD_PUNC सेमदोंगपर्यंत\N-NNP जाऊ\V_VM शकता\V_VAUX .\RD_PUNC
+htd21436	ते\DM_DMR रस्त्याच्या\N_NN शेवटचे\N_NN टोक\N_NN आहे\V_VM .\RD_PUNC
+htd21437	त्या\PR_PRL उंचावर\N_NN उभे\JJ होऊन\V_VM जेथे\DM_DMD हवादेखील\N_NN थोडी\QT_QTF विरळ\JJ होत\V_VM जाते\V_VAUX पुढचे\N_NST दृश्य\N_NN पाहणे\V_VM दुर्लभ\JJ संधी\N_NN आहे\V_VM .\RD_PUNC
+htd21438	लाचुंगला\N-NNP जाण्याची\V_VM सर्वश्रेष्‍ठ\JJ वेळ\N_NN अक्टोबर\N_NN ते\CC_CCS मे\N_NN पर्यंत\CC_CCD आहे\V_VM .\RD_PUNC
+htd21439	एप्रिल\N_NN -\RD_PUNC मे\N_NN मध्ये\N_NST ही\DM_DMR दरी\N_NN फूलांनी\N_NN चमकदार\V_VM दिसेल\V_VM तर\CC_CCS जानेवारी\N_NN -\RD_PUNC फेब्रुवारी\N_NN मध्ये\N_NST बर्फाने\N_NN आच्छादित\JJ .\RD_PUNC
+htd21440	प्रत्येक\QT_QTF वेळेची\N_NN वेगळी\JJ सुंदरता\N_NN आहे\V_VM .\RD_PUNC
+htd21441	लाचुंग\N-NNP सिक्किमची\N-NNP राजधानी\N_NN गंगटोकपासून\N-NNP ११७\QT_QTC किलोमीटर\N_NN दूर\N_NST आहे\V_VM .\RD_PUNC
+htd21442	गंगटोकपासून\N-NNP हा\DM_DMR रस्ता\N_NN जीपमध्ये\N_NN पाच\QT_QTC तासात\N_NN पार\N_NN करता\V_VM येतो\V_VM .\RD_PUNC
+htd21443	लाचुंगपासून\N-NNP युमथांग\N-NNP दरी\N_NN २४\QT_QTC किलोमीटर\N_NN पुढे\N_NST आहे\V_VM .\RD_PUNC
+htd21444	युमथांगपर्यंत\N-NNP जीप\N_NN जातात\V_VM .\RD_PUNC
+htd21445	रस्ता\N_NN फोदोंग\N-NNP ,\RD_PUNC मंगन\N-NNP ,\RD_PUNC सिंघिक\N-NNP व\CC_CCD चुंगथांगवरुन\N-NNP जातो\V_VM .\RD_PUNC
+htd21446	जीप\N_NN गंगटोकपासून\N-NNP मिळतात\V_VM .\RD_PUNC
+htd21447	लक्षात\N_NN ठेवा\V_VM सिक्किममध्ये\N-NNP बाहेरुन\N_NST येणार्‍या\V_VM जीप\N_NN -\RD_PUNC कार\N_NN यांना\PR_PRL पुढच्या\N_NST प्रवासाला\N_NN प्रतिबंध\N_NN आहे\V_VM .\RD_PUNC
+htd21448	ह्यामुळे\CC_CCD वाहनाची\N_NN व्यवस्था\N_NN स्थानिक\N_NN स्तरावरच\N_NN करावी\V_VM लागेल\V_VAUX .\RD_PUNC
+htd21449	भारत\N-NNP -\RD_PUNC चीनच्या\N-NNP दरम्यान\N_NN सीमा\N_NN व्यापार\N_NN सुरू\JJ झाल्यानंतर\V_VM ह्या\DM_DMR प्रदेशात\N_NN पर्यटकांची\N_NN ये-जा\V_VM देखील\RB वाढली\V_VM आहे\V_VAUX .\RD_PUNC
+htd21450	ह्याच्या\DM_DMR आधी\N_NST १९५०\QT_QTC मध्ये\N_NST तिब्बेटवर\N-NNP चीनच्या\N-NNP कब्ज्याच्या\N_NN आधी\N_NST देखील\RB लाचुंग\N-NNP ,\RD_PUNC सिक्किम\N-NNP व\CC_CCD तिब्बेट\N-NNP ह्यां\DM_DMR दरम्यान\N_NN व्यापारिक\N_NN चौकीचे\N_NN काम\N_NN करत\V_VM होता\V_VAUX .\RD_PUNC
+htd21451	नंतर\RB हा\DM_DMR प्रदेश\N_NN बर्‍याच\QT_QTF काळापर्यंत\N_NN सामान्य\JJ लोकांसाठी\N_NN बंद\JJ राहिला\V_VM .\RD_PUNC
+htd21452	आता\RB सीमेवर\N_NN परिस्थिती\N_NN सामान्य\JJ झाल्याबरोबरच\V_VM पर्यटक\N_NN येथे\DM_DMD पुन्हा\RB जाऊ\V_VM लागले\V_VAUX आहेत\V_VAUX .\RD_PUNC
+htd21453	याकरिता\CC_CCD येथे\DM_DMD अनेक\QT_QTF उपाहारगृह\N_NN देखील\RB बनली\V_VM आहेत\V_VAUX .\RD_PUNC
+htd21454	स्वस्त\JJ व\CC_CCD महागडे\JJ दोन्हीं\N_NN तर्‍हेचे\N_NN उपाहारगृह\N_NN मिळतील\V_VM .\RD_PUNC
+htd21455	उपाहारगृहाचे\N_NN बुकिंग\N_NN गंगटोकपासूनच\N-NNP केले\V_VM तर\CC_CCS चांगले\JJ राहिल\V_VM .\RD_PUNC
+htd21456	सिक्किम\N-NNP बाकी\QT_QTF हिमालयी\JJ राज्यांच्या\N_NN तुलनेत\N_NN जास्त\QT_QTF शांत\JJ आहे\V_VM .\RD_PUNC
+htd21457	दरवर्षी\RB गंगटोकमध्ये\N-NNP डिसेंबरमध्ये\N_NN फूड\N_NN एंड\N_NN कल्चर\N_NN फेस्टिवल\N_NN असते\V_VM .\RD_PUNC
+htd21458	जानेवारीमध्ये\N_NN मकर\N_NN संक्रांतीला\N_NN येथे\DM_DMD माघ\N_NN संक्रांतीच्या\N_NN रूपात\N_NN साजरे\N_NN केले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21459	तीस्ता\N-NNP व\CC_CCD रिंगित\N-NNP नद्यांच्या\N_NN संगमवर\N_NN येथे\DM_DMD मोठा\JJ मेळा\N_NN लागतो\V_VM ज्यामध्ये\PR_PRL मोठ्या\JJ संख्येने\N_NN स्थानिक\N_NN लोक\N_NN व\CC_CCD पर्यटक\N_NN सहभागी\N_NN होतात\V_VM .\RD_PUNC
+htd21460	ह्याच्याशिवाय\DM_DMR वेगवेगळ्या\JJ बौद्ध\N_NN मठांचे\N_NN देखील\RB आपले-आपले\PR_PRP आकर्षक\N_NN धार्मिक\N_NN आयोजन\N_NN होते\V_VM .\RD_PUNC
+htd21461	मध्यप्रदेशाच्या\N-NNP पर्वतीय\JJ क्षेत्रांमध्ये\N_NN पचमढी\N-NNP सर्वाधिक\RP_INTF लोकप्रिय\JJ आहे\V_VM .\RD_PUNC
+htd21462	राज्याची\N_NN राजधानी\N_NN भोपाळपासून\N-NNP २००\QT_QTC किलोमीटर\N_NN दूर\N_NST आणि\CC_CCD विभिन्न\JJ थंड\JJ हवेच्या\N_NN ठिकाणांपासून\N_NN अलहदा\N-NNP ह्या\DM_DMR स्थानावर\N_NN नैसर्गिक\JJ सुंदरता\N_NN तर\CC_CCS पावलो-पावली\N_NN विखुरलेली\V_VM आहेच\V_VAUX बाकी\QT_QTF ठिकाणांच्या\N_NN तुलनेत\N_NN हे\DM_DMR देखील\RB शांत\JJ आणि\CC_CCD स्वच्छ\JJ आहे\V_VM .\RD_PUNC
+htd21463	पूर्ण\QT_QTF वर्षभर\N_NN येथे\DM_DMD हवामान\N_NN आनंददायक\N_NN राहते\V_VM केवळ\JJ पावसाळ्यामध्ये\N_NN फिरण्यास\V_VM काही\QT_QTF अडचणी\N_NN येण्याची\V_VM शक्यता\N_NN असते\V_VM .\RD_PUNC
+htd21464	अनेक\QT_QTF दर्शनीय\JJ स्थळ\N_NN वनस्पती\N_NN आणि\CC_CCD वन्य\N_NN प्राणी\N_NN येथील\DM_DMD ठेव\N_NN आहे\V_VM .\RD_PUNC
+htd21465	उन्हाळ्यामध्ये\N_NN येथील\DM_DMD किमान\N_NN तापमान\N_NN २४\QT_QTC डिग्री\N_NN सेल्शिअस\N_NN आणि\CC_CCD हिवाळ्यात\N_NN ८.३\QT_QTC डिग्री\N_NN सेल्शिअस\N_NN पर्यंत\CC_CCD पोहचते\V_VM .\RD_PUNC
+htd21466	समुद्रसपाटीपासून\N_NN पचमढीची\N-NNP उंची\N_NN ३५००\QT_QTC फूट\N_NN आहे\V_VM .\RD_PUNC
+htd21467	पचमढी\N-NNP ह्यामुळे\CC_CCD देखील\RB एक\QT_QTC महत्त्वपूर्ण\N_NN पहाडी\JJ स्थान\N_NN आहे\V_VM कारण\CC_CCD की\CC_CCS आजदेखील\RB येथे\DM_DMD व्यावसायिक\N_NN उद्योग\N_NN नगण्य\JJ आहेत\V_VM .\RD_PUNC
+htd21468	ना\RP_NEG कुठलाही\DM_DMQ शहरी\N_NN ताण\N_NN आणि\CC_CCD ना\RP_NEG कुठला\PR_PRQ तणाव\N_NN .\RD_PUNC
+htd21469	ह्या\DM_DMR प्रदेशातील\N_NN मूळ\N_NN निवासी\N_NN आदिवासी\N_NN आहेत\V_VM .\RD_PUNC
+htd21470	अत्यंत\RP_INTF कमी\QT_QTF लोकसंख्या\N_NN असलेल्या\V_VM ह्या\DM_DMR क्षेत्रामध्ये\N_NN कधी-कधी\PR_PRQ दूर\N_NST दूरपर्यंत\N_NST काहीही\QT_QTF मानवीय\N_NN हालचाल\N_NN दिसत\V_VM नाही\V_VAUX .\RD_PUNC
+htd21471	केवळ\JJ शहरामध्ये\N_NN हालचाल\N_NN होताना\V_VM दिसून\V_VM येत\V_VAUX आहेत\V_VAUX .\RD_PUNC
+htd21472	ज्याअर्थी\CC_CCD सर्व\QT_QTF क्षेत्र\N_NN सैनिक\N_NN छावणीच्या\N_NN अंतर्गत\JJ येते\V_VM ह्यामुळे\CC_CCD येथे\DM_DMD जमीन\N_NN -\RD_PUNC संपत्तीची\N_NN खरेदी-विक्री\N_NN होत\V_VM नाही\V_VAUX .\RD_PUNC
+htd21473	थलसेनेची\N_NN शिक्षा\N_NN शाखा\N_NN आर्मी\N_NN एज्युकेशन\N_NN कोरचे\N_NN मुख्यालय\N_NN येथे\DM_DMD आहे\V_VM .\RD_PUNC
+htd21474	पचमढीमध्ये\N-NNP पर्यटकांचे\N_NN वर्षभर\N_NN येणे\V_VM जाणे\V_VM चालू\JJ राहते\V_VM .\RD_PUNC
+htd21475	दर्शनीय\JJ ठिकाणांमध्ये\N_NN फिरण्याशिवाय\V_VM पर्यटक\N_NN येथे\DM_DMD आदिवासींच्या\N_NN द्वारे\N_NN आपल्या\PR_PRP कुटीर\JJ उद्योगामध्ये\N_NN बनवल्या\V_VM गेलेल्या\V_VAUX वस्तू\N_NN आणि\CC_CCD जंगलांतून\N_NN आणलेल्या\V_VM शिलाजीत\N_NN आणि\CC_CCD औषधी\N_NN वनस्पती\N_NN आणि\CC_CCD मध\N_NN इत्यादी\JJ देखील\RB खरेदी\N_NN करतात\V_VM .\RD_PUNC
+htd21476	आदिवास्यांचे\N_NN म्हणणे\V_VM आहे\V_VAUX की\CC_CCS त्यांना\PR_PRL खाबडखुबड\N-NNP पहाडी\JJ क्षेत्रांमध्ये\N_NN शिलाजीत\N_NN शोधण्यासाठी\N_NN आपल्या\PR_PRP प्रयत्नांच्या\N_NN व्यतिरिक्‍त\JJ माकडांकडूनही\N_NN खूप\QT_QTF मदत\N_NN मिळते\V_VM .\RD_PUNC
+htd21477	आदिवासी\N_NN जेव्हा\CC_CCS ह्या\DM_DMR माकडांना\N_NN शिलाजीत\N_NN शोधताना\N_NN आणि\CC_CCD खाताना\V_VM पाहतात\V_VAUX तर\CC_CCS स्वतः\PR_PRF देखील\RB तेथे\DM_DMD पोहचतात\V_VM .\RD_PUNC
+htd21478	देशातील\N_NN विविध\JJ भागातून\N_NN शाळेतील\N_NN विद्यार्थी\N_NN -\RD_PUNC विद्यार्थीनी\N_NN देखील\RB पचमढीला\N-NNP खूप\QT_QTF येतात\V_VM .\RD_PUNC
+htd21479	पचमढी\N-NNP पोहचण्याआधी\V_VM जवळजवळ\RB १५\QT_QTC किलोमीटर\N_NN आधी\N_NST हलकी\JJ -\RD_PUNC हलकी\JJ चढाई\N_NN सुरू\JJ होते\V_VM .\RD_PUNC
+htd21480	सुंदर\JJ पक्षी\N_NN आणि\CC_CCD जंगली\JJ जनावर\N_NN कधी-कधी\PR_PRQ दिसून\V_VM येतात\V_VM कारण\CC_CCD की\CC_CCS चारही\N_NN बाजूला\N_NN जंगलच\N_NN जंगल\N_NN आहे\V_VM .\RD_PUNC
+htd21481	घनदाट\JJ जंगलांनी\N_NN लकदक\N_NN सातपुड़ा\N-NNP पर्वतांच्या\N_NN ह्या\DM_DMR रांगेत\N_NN राष्‍ट्रीय\JJ वन्यप्राणी\N_NN उद्यानदेखील\N_NN आहे\V_VM जेथे\DM_DMD भारतीय\JJ वाघ\N_NN संरक्षणाच्या\N_NN योजनेवर\N_NN कार्य\N_NN चालू\JJ आहे\V_VM .\RD_PUNC
+htd21482	पचमढीचे\N-NNP जंगल\N_NN ,\RD_PUNC पर्वत\N_NN ,\RD_PUNC धबधबा\N_NN ,\RD_PUNC खोल\JJ दर्‍या\N_NN इत्यादी\JJ प्रत्येक\QT_QTF पर्यटकाला\N_NN आकर्षित\JJ करतात\V_VM .\RD_PUNC
+htd21483	भारताचे\N-NNP पहिले\QT_QTO राष्‍ट्रपती\N_NN राजेंद्र\N-NNP प्रसाद\N-NNP येथे\DM_DMD विश्रांतीसाठी\N_NN येत\V_VM होते\V_VAUX .\RD_PUNC
+htd21484	त्यांचे\PR_PRL ते\DM_DMR विश्रांती\N_NN स्थान\N_NN राजेंद्र\N-NNP गिरीच्या\N_NN नावाने\N_NN आज\RB ओळखले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21485	पर्यटनाच्या\N_NN दृष्टिने\N_NN फिरण्याच्या\V_VM योग्य\JJ प्रदेश\N_NN जवळजवळ\RB १५००\QT_QTC वर्ग\N_NN किलोमीटर\N_NN आहे\V_VM .\RD_PUNC
+htd21486	गुफा\N_NN उंचीवर\N_NN असल्यामुळे\V_VM तेथुन\DM_DMD संपूर्ण\QT_QTF पचमढी\N-NNP आणि\CC_CCD पर्वतरांगाच्या\N_NN नेत्रदीपक\N_NN आणखी\JJ सुंदर\JJ दृश्यांना\N_NN पाहण्याची\V_VM संधी\N_NN मिळते\V_VM .\RD_PUNC
+htd21487	जटाशंकरसाठी\N-NNP विशाल\JJ खडकांच्या\N_NN आणि\CC_CCD पहाडी\JJ रस्त्याच्या\N_NN मधोमध\N_NN चालून\V_VM खूप\QT_QTF खाली\N_NST एका\QT_QTC गुफेपर्यंत\N_NN जावे\V_VM लागते\V_VAUX .\RD_PUNC
+htd21488	येथील\DM_DMD पहाड\N_NN रोमांच\N_NN निर्माण\N_NN करतात\V_VM .\RD_PUNC
+htd21489	गुफेमध्ये\N_NN एक\QT_QTC नैसर्गिक\JJ शिवलिंग\N_NN आणि\CC_CCD शेषनागच्या\N_NN आकृत्या\N_NN आहेत\V_VM .\RD_PUNC
+htd21490	येथे\DM_DMD सतत\RB पाणी\N_NN वाहत\V_VM राहते\V_VAUX .\RD_PUNC
+htd21491	पचमढी\N-NNP आणि\CC_CCD महाराष्‍ट्राच्या\N-NNP लोकांच्या\N_NN आस्थाच्या\N_NN ह्या\DM_DMR स्थानाला\N_NN शिवजीचे\N-NNP आश्रयस्थान\N_NN देखील\RB म्हटले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21492	ट्रेकिंगचा\N_NN शौक\N_NN ठेवणारे\V_VM ह्या\DM_DMR गुफेपासून\N_NN वरच्या\N_NST दिशेने\N_NN चालून\V_VM आणखी\JJ एक-दीड\QT_QTC तास\N_NN चालल्यानंतर\V_VM आदिवासींचे\N_NN गाव\N_NN बडकाक्षार\N-NNP स्थानिक\N_NN भाषेमध्ये\N_NN बदकाक्षारमध्ये\N-NNP पोहचून\V_VM तिथल्या\DM_DMD जीवनचा\N_NN अनुभव\N_NN घेऊ\V_VM शकता\V_VAUX .\RD_PUNC
+htd21493	विशालकाय\JJ आणि\CC_CCD भयावह\JJ खडकांच्या\N_NN दरम्यान\N_NN बनलेली\V_VM एका\QT_QTC बावडीच्या\N_NN शेवटी\N_NST शिवलिंगाच्या\N_NN व्यतिरिक्‍त\JJ ब्रह्मा\N-NNP ,\RD_PUNC विष्णू\N-NNP आणि\CC_CCD महेश\N-NNP ह्यांच्या\DM_DMR प्रतिमा\N_NN आहेत\V_VM .\RD_PUNC
+htd21494	खडकातून\N_NN बाराही\N_NN महिने\N_NN पाणी\N_NN झिरपत\V_VM राहते\V_VAUX ज्यामुळे\CC_CCD गुफामध्ये\N_NN एक\QT_QTC मोठे\JJ शीतल\JJ जलकुंड\N_NN बनलेले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21495	नागपंचमी\N_NN आणि\CC_CCD शिवरात्रीला\N_NN येथे\DM_DMD मोठा\JJ मेळा\N_NN लागतो\V_VM आणि\CC_CCD भक्‍तगण\N_NN मोठ्या\JJ संख्येने\N_NN महाराष्‍ट्रातून\N-NNP येतात\V_VM .\RD_PUNC
+htd21496	गुप्‍त\JJ महादेव\N-NNP :-\N_NN महादेव\N-NNP गुफेपासून\N_NN जवळजवळ\RB एक\QT_QTC किमी\N_NN अंतरावर\N_NN २५\QT_QTC -\RD_PUNC ३०\QT_QTC फुट\N_NN लांबी\N_NN आणि\CC_CCD अरुंद\JJ एक\QT_QTC गुफा\N_NN आहे\V_VM ज्यामध्ये\PR_PRL एके\N_NN काळी\N_NN एकच\N_NN व्यक्‍ति\N_NN ये\V_VM -जा\V_VM करू\V_VM शकते\V_VAUX .\RD_PUNC
+htd21497	गुफेच्या\N_NN शेवटी\N_NN काही\QT_QTF मोकळे\JJ स्थान\N_NN आहे\V_VM जेथे\DM_DMD एक\QT_QTC शिवलिंग\N_NN आणि\CC_CCD गणेश\N-NNP ह्यांच्या\DM_DMR मूर्त्या\N_NN आहेत\V_VM .\RD_PUNC
+htd21498	पौरागड\N-NNP :-\RD_PUNC येथे\DM_DMD पर्वत\N_NN शिखरावर\N_NN बनलेले\V_VM शिव\N_NN मंदिर\N_NN आहे\V_VM .\RD_PUNC
+htd21499	वर\N_NST पर्यंत\CC_CCD चढण्यासाठी\V_VM जवळजवळ\RB बाराशे\QT_QTC जिने\N_NN चढावे\V_VM लागते\V_VAUX .\RD_PUNC
+htd21500	नवस\N_NN पूर्ण\QT_QTF झाल्यावर\V_VM येथे\DM_DMD भक्‍तगण\N_NN त्रिशूल\N_NN चढवतात\V_VM .\RD_PUNC
+htd21501	ह्या\DM_DMR उंचीवरुन\N_NN चारही\N_NN बाजुंचे\N_NN मनमोहक\JJ दृश्य\N_NN दिसून\V_VM येते\V_VAUX .\RD_PUNC
+htd21502	नागद्वार\N-NNP :-\RD_PUNC नागोपासक\N_NN आदिवासींच्या\N_NN श्रद्धेचे\N_NN प्रतीक\N_NN हे\DM_DMR स्थान\N_NN अत्यंत\RP_INTF रमणीय\JJ आहे\V_VM .\RD_PUNC
+htd21503	येथे\DM_DMD देखील\RB शिवलिंग\N_NN आहे\V_VM .\RD_PUNC
+htd21504	ह्या\DM_DMR ठिकाणी\N_NN खूप\QT_QTF पायी\N_NN चालावे\V_VM लागते\V_VAUX .\RD_PUNC
+htd21505	निसर्ग\N_NN प्रेमींची\N_NN प्रत्येक\QT_QTF इच्छा\N_NN येथे\DM_DMD पूर्ण\QT_QTF होते\V_VM .\RD_PUNC
+htd21506	हिरवळ\N_NN ,\RD_PUNC धबधबा\N_NN आणि\CC_CCD वन्य\N_NN क्षेत्राचे\N_NN अन्य\QT_QTF आकर्षण\N_NN -\RD_PUNC सर्व\QT_QTF काही\QT_QTF पाहायला\V_VM मिळते\V_VAUX .\RD_PUNC
+htd21507	येथे\DM_DMD पर्वतांमध्ये\N_NN खूप\QT_QTF खोल\JJ दरी\N_NN आहे\V_VM ज्याचे\PR_PRL शेवटचे\N_NN टोक\N_NN जंगलाच्या\N_NN उंच-उंच\JJ वृक्षांमुळे\N_NN दिसत\V_VM नाही\V_VAUX .\RD_PUNC
+htd21508	हांडी\N-NNP खोह\N-NNP :-\N_NN ह्याला\DM_DMR पाहून\V_VM शरीरामध्ये\N_NN विलक्षण\JJ थरकाप\N_NN निर्माण\N_NN होतो\V_VM .\RD_PUNC
+htd21509	धूपगड\N-NNP :-\RD_PUNC सूर्यास्ताच्या\N_NN मनोहर\JJ दृश्यांना\N_NN पाहण्यासाठी\V_VM पर्यटक\N_NN धूपगडला\N-NNP जातात\V_VM .\RD_PUNC
+htd21510	धूपगड\N-NNP :-\RD_PUNC येथे\DM_DMD तीन\QT_QTC तोंडाची\N_NN एक\QT_QTC रहस्यमय\N_NN गुफा\N_NN आहे\V_VM जी\PR_PRL सुरंगासारखी\N_NN आहे\V_VM .\RD_PUNC
+htd21511	सुरंगाच्या\N_NN शेवटी\N_NST गुफेचे\N_NN तोंड\N_NN खुले\JJ आहे\V_VM .\RD_PUNC
+htd21512	असे\RB मानले\V_VM जाते\V_VAUX की\CC_CCS येथे\DM_DMD कधी\PR_PRQ जंगली\JJ जनावर\N_NN ,\RD_PUNC विशेषकरुन\CC_CCS अस्वल\N_NN राहत\V_VM होते\V_VAUX .\RD_PUNC
+htd21513	फासी\N-NNP गुहा\N_NN :-\RD_PUNC पिपरिया\N-NNP -\RD_PUNC पचमढी\N-NNP मार्गाने\N_NN जेव्हा\CC_CCS पचमढीच्या\N-NNP दिशेने\N_NN गेले\V_VM असता\V_VAUX पचमढीपासून\N-NNP थोडे\QT_QTF अलिकडेच\N_NST हे\DM_DMR ठिकाण\N_NN येते\V_VM .\RD_PUNC
+htd21514	म्हणतात\V_VM विदेशी\JJ शासक\N_NN अशा\JJ मोठ्या\JJ खोल\JJ दर्‍यांना\N_NN फाशी\N_NN देण्यासाठी\V_VM उपयोगामध्ये\N_NN आणत\V_VM होते\V_VAUX ह्यामुळे\CC_CCD ह्याचे\DM_DMR हे\DM_DMR नाव\N_NN पडले\V_VM .\RD_PUNC
+htd21515	बी\N-NNP फॉल\N_NN ,\RD_PUNC उचेस\N-NNP फॉल\N_NN ,\RD_PUNC अप्सरा\N-NNP विहार\N_NN ,\RD_PUNC रजत\N-NNP जलप्रपात\N_NN ,\RD_PUNC रम्य\JJ कुंड\N_NN ,\RD_PUNC संगम\N_NN इत्यादी\JJ अत्यंत\RP_INTF रमणीय\JJ स्थळं\N_NN आहेत\V_VM जेथे\DM_DMD पर्यटक\N_NN तास\N_NN न\RP_NEG तास\N_NN आपला\PR_PRP वेळ\N_NN व्यतीत\N_NN करतात\V_VM तरी\CC_CCS देखील\RB मन\N_NN भरत\V_VM नाही\V_VAUX .\RD_PUNC
+htd21516	एक\QT_QTC सुंदर\JJ सरोवर\N_NN देखील\RB आहे\V_VM ज्यामध्ये\PR_PRL नौकाविहार\N_NN करता\V_VM येतो\V_VAUX .\RD_PUNC
+htd21517	इंग्रज\N_NN शासकांनी\N_NN पचमढीमध्ये\N-NNP उपलब्ध\JJ औषधी\N_NN वनस्पती,\N_NN वनस्पती\N_NN आणि\CC_CCD वनांचे\N_NN महत्त्व\N_NN अतिशय\RP_INTF मुळापासून\N_NN समजून\V_VM घेतले\V_VAUX होते\V_VAUX .\RD_PUNC
+htd21518	ह्याव्यतिरिक्‍त\CC_CCD युध्दाच्या\N_NN दृष्टीने\N_NN देखील\RB महत्त्वपूर्ण\N_NN ह्या\DM_DMR क्षेत्रामध्ये\N_NN ब्रिटिश\N_NN सरकारने\N_NN कॅप्टन\N_NN जे\PR_PRC फोरसीथ\N-NNP नामक\N_NN सैनिक\N_NN अधिकार्‍याला\N_NN पाठवले\V_VM होते\V_VAUX .\RD_PUNC
+htd21519	त्याने\PR_PRL येथे\DM_DMD वन\N_NN आणि\CC_CCD वन्य\JJ जीवन\N_NN व\CC_CCD वनस्पतींना\N_NN चांगल्या\JJ तर्‍हेने\N_NN समजून\V_VM घेतले\V_VAUX .\RD_PUNC
+htd21520	त्याच्या\PR_PRL राहण्याच्या\V_VM ठिकाणी\N_NN बायसन\N-NNP लॉजमध्येच\N_NN आज\RB वानिकी\N-NNP संग्रहालय\N_NN आहे\V_VM .\RD_PUNC
+htd21521	भ्रांति\N-NNP मीर\N-NNP आणि\CC_CCD द्रोपदी\N-NNP खळग्यात\N_NN आदि\N_NN मानवांद्वारे\N_NN नैसर्गिक\JJ गुफांमध्ये\N_NN बनवले\V_VM गलेले\V_VAUX शैल\N_NN चित्रं\N_NN आहेत\V_VM जी\PR_PRL ईस.\N_NN पासून\CC_CCS अनेक\QT_QTF पाचशे\QT_QTC ते\CC_CCD आठशे\QT_QTC वर्षापूर्वी\N_NN बनलेली\V_VM आहेत\V_VAUX .\RD_PUNC
+htd21522	जरी\CC_CCS येथील\DM_DMD सुरुवातीची\N_NN भित्तिचित्रं\N_NN दहा\QT_QTC हजार\QT_QTC वर्ष\N_NN जुनी\JJ सांगितली\V_VM जातात\V_VAUX .\RD_PUNC
+htd21523	ह्यां\DM_DMR चित्रांमधून\N_NN या\DM_DMR प्रदेशातील\N_NN प्राचीन\JJ संस्कृतीच्या\N_NN अस्तित्त्वाच्या\N_NN खुणा\N_NN सापडतात\V_VM .\RD_PUNC
+htd21524	पचमढी\N-NNP मार्गावर\N_NN सातपुडा\N-NNP राष्‍ट्रीय\JJ उद्यानाचे\N_NN प्रथम\QT_QTC द्वार\N_NN येते\V_VM .\RD_PUNC
+htd21525	नैसर्गिक\JJ ठेव\N_NN आणि\CC_CCD वन्य\JJ प्राण्यांच्या\N_NN संरक्षणासाठी\N_NN ह्या\DM_DMR उद्यानाची\N_NN स्थापना\N_NN १९८१\QT_QTC मध्ये\N_NST झाली\V_VM होती\V_VAUX .\RD_PUNC
+htd21526	ह्या\DM_DMR उद्यानात\N_NN अनेक\QT_QTF आदिवासी\N_NN गावं\N_NN आहेत\V_VM .\RD_PUNC
+htd21527	प्रथम\QT_QTC द्वारातून\N_NN नीमद्यान\N-NNP नामक\N_NN गाव\N_NN जवळजवळ\RB २०\QT_QTC किमी\N_NN दूर\N_NST आहे\V_VM .\RD_PUNC
+htd21528	बहुतकरुन\CC_CCS आदिवासी\N_NN गावं\N_NN विकासशील\N_NN उद्योग\N_NN आणि\CC_CCD सभ्यतेपासून\N_NN दूर\N_NST वन्य\N_NN प्राणी\N_NN अभयारण्य\N_NN क्षेत्रामध्ये\N_NN आहेत\V_VM .\RD_PUNC
+htd21529	उद्यानामध्ये\N_NN जाण्यासाठी\V_VM संचालकांच्या\N_NN कार्यालयातून\N_NN परवानगी\N_NN घ्यावी\V_VM लागते\V_VAUX .\RD_PUNC
+htd21530	अभयारण्यात\N_NN फिरण्यासाठी\V_VM वाहने\N_NN देखील\RB उपलब्ध\JJ होतात\V_VM .\RD_PUNC
+htd21531	वाघ\N_NN ,\RD_PUNC चित्ता\N_NN ,\RD_PUNC अस्वल\N_NN ,\RD_PUNC नीलगाय\N_NN ,\RD_PUNC जंगली\JJ म्हैस\N_NN ,\RD_PUNC सांबर\N_NN ,\RD_PUNC हरिण\N_NN ,\RD_PUNC ससा\N_NN ,\RD_PUNC उडणारी\JJ खार\N_NN इत्यादी\JJ उद्यानातील\N_NN मुख्य\JJ प्राणी\N_NN आहेत\V_VM .\RD_PUNC
+htd21532	पक्षी\N_NN देखील\RB अनेक\QT_QTF तर्‍हेचे\N_NN दिसून\V_VM येतात\V_VAUX .\RD_PUNC
+htd21533	अनेक\QT_QTF वेळा\N_NN काही\QT_QTF कारणांमुळे\N_NN उद्यान\N_NN बंद\JJ केले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21534	याकरिता\CC_CCD जाण्याच्या\V_VM आधी\N_NST पूर्ण\QT_QTF माहिती\N_NN गोळा\N_NN करणे\V_VM योग्य\JJ ठरेल\V_VM .\RD_PUNC
+htd21535	विमान\N_NN किंवा\CC_CCD रेल्वे\N_NN मार्गाने\N_NN मध्यप्रदेशची\N-NNP राजधानी\N_NN भोपाळला\N-NNP पोहोचा\V_VM .\RD_PUNC
+htd21536	भोपाळपासून\N-NNP पचमढी\N-NNP रस्त्याने\N_NN २००\QT_QTC किमी\N_NN दूर\N_NST आहे\V_VM .\RD_PUNC
+htd21537	पचमढीसाठी\N-NNP सर्वात\RP_INTF जवळचे\RB रेल्वे\N_NN स्थानक\N_NN मुंबई\N-NNP -\RD_PUNC हावडा\N-NNP मुख्य\JJ रेल्वेमार्ग\N_NN (\RD_SYM बरास्ता\N-NNP इलाहाबाद\N-NNP )\RD_SYM वर\N_NST पिपरिया\N-NNP आहे\V_VM .\RD_PUNC
+htd21538	पिपरियापासून\N-NNP पचमढी\N-NNP जवळजवळ\RB ५३\QT_QTC किमी\N_NN आहे\V_VM .\RD_PUNC
+htd21539	पिपरियापासून\N-NNP पचमढीसाठी\N-NNP जीप\N_NN जातात\V_VM .\RD_PUNC
+htd21540	कारदेखील\N_NN भाड्याने\N_NN मिळतात\V_VM .\RD_PUNC
+htd21541	सरळ\JJ भोपाळपासून\N-NNP बसेस\N_NN आणि\CC_CCD इतर\QT_QTF वाहनं\N_NN उपलब्ध\JJ आहेत\V_VM .\RD_PUNC
+htd21542	आजुबाजूला\N_NN फिरण्यासाठी\V_VM देखील\RB जीप\N_NN मिळतात\V_VM .\RD_PUNC
+htd21543	राहण्यासाठी\V_VM स्वस्त\JJ आणि\CC_CCD चांगली\JJ उपाहारगृहं\N_NN उपलब्ध\JJ आहेत\V_VM .\RD_PUNC
+htd21544	मध्यप्रदेश\N-NNP पर्यटनाची\N_NN सात\QT_QTC उपाहारगृहं\N_NN इथे\DM_DMD आहेत\V_VM ज्यामध्ये\PR_PRL ८९०\QT_QTC रुपयापासून\N_NN ४१९०\QT_QTC रुपया\N_NN पर्यंतच्या\CC_CCD खोल्या\N_NN तुम्हाला\PR_PRP मिळतील\V_VM .\RD_PUNC
+htd21545	प्रत्येक\QT_QTF उपाहारगृह\N_NN एकापेक्षा\N_NN एक\QT_QTC सुंदर\JJ ठिकाणांवर\N_NN आहेत\V_VM .\RD_PUNC
+htd21546	किमान\QT_QTF तापमान\N_NN उन्हाळ्यामध्ये\N_NN २४\QT_QTC डिग्री\N_NN सें.\N_NN आणि\CC_CCD हिवाळ्यामध्ये\N_NN ८\QT_QTC डिग्री\N_NN सें.\N_NN असते\V_VM .\RD_PUNC
+htd21547	आम्ही\PR_PRP गोष्ट\N_NN तर\CC_CCS ऐषआरामात\N_NN राहण्याची\V_VM करू\V_VAUX आणि\CC_CCD तुम्हाला\PR_PRP म्हण्टले\V_VM की\CC_CCS तुम्ही\PR_PRP बैलगाडीमध्ये\N_NN रहा\V_VM तर\CC_CCS तुम्हाला\PR_PRP कदाचित\RP_RPD वाटेल\V_VM की\CC_CCS आम्ही\PR_PRP मस्करी\N_NN करत\V_VM आहोत\V_VAUX .\RD_PUNC
+htd21548	परंतू\CC_CCD नाही\V_VM महाशय\N_NN आम्ही\PR_PRP पूर्ण\QT_QTF समजुतदारपणे\N_NN हे\DM_DMR सांगत\V_VM आहोत\V_VAUX कारण\CC_CCD की\CC_CCS ज्या\PR_PRL बैलगाडीचा\N_NN उल्लेख\N_NN आम्ही\PR_PRP तुमच्याशी\PR_PRP करत\V_VM आहोत\V_VM ती\DM_DMR खरोखरच\N_NN एखाद्या\JJ आलिशान\JJ उपाहारगृहाच्या\N_NN खोली\N_NN पेक्षा\RP_RPD कमी\QT_QTF नाही\V_VM .\RD_PUNC
+htd21549	ही\DM_DMR बैलगाडी\N_NN न्यूझीलंडच्या\N_NNP क्राइस्टचर्चमध्ये\N_NNP काश्मीर\N_NNP रो्डवर\N_NN स्थित\JJ आहे\V_VM .\RD_PUNC
+htd21550	आता\N_NST ह्या\DM_DMR बैलगाडीबद्दल\N_NN पुढे\N_NST चर्चा\N_NN करण्याआधी\V_VM तुम्हाला\PR_PRP हे\DM_DMR देखील\RB सांगतो\V_VM की\CC_CCS हा\DM_DMR काश्मीर\N_NNP रोड\N_NN खरोखरच\N_NN आपल्या\PR_PRP भारताच्या\N_NNP काश्मीरच्या\N_NNP नावावर\N_NN आहे\V_VM .\RD_PUNC
+htd21551	तेथील\DM_DMD एक\QT_QTC निवासी\N_NN जॉन\N-NNP क्राक्रोफ्ट\N-NNP विल्सनने\N-NNP आपल्या\PR_PRP फार्मचे\N_NN नाव\N_NN काश्मीरवरून\N-NNP ठेवले\V_VM कारण\CC_CCD की\CC_CCS त्यांचा\PR_PRL जन्म\N_NN काश्मीरमध्ये\N-NNP झाला\V_VM होता.\V_VAUX
+htd21552	तर\CC_CCS ह्या\DM_DMR काश्मीर\N-NNP रोडावर\N_NN वैगन\N-NNP स्टेज\N_NN म्हणजे\CC_CCD ही\DM_DMR बैलगाडी\N_NN आहे\V_VM .\RD_PUNC
+htd21553	आपला\PR_PRP चेहरा\N_NN आणि\CC_CCD रंगामध्ये\N_NN हे\DM_DMR जुन्या\JJ काळातील\N_NN काफिल्यात\N_NN सामील\N_NN बैलगाड्यां\N_NN सारखीच\JJ दिसते\V_VM .\RD_PUNC
+htd21554	आजूबाजूचा\N_NN प्रदेश\N_NN अशातर्‍हेने\JJ बदलला\V_VM गेला\V_VAUX आहे\V_VM की\CC_CCS जाणीव\N_NN ही\DM_DMR होते\V_VM जणू\RP_RPD बैलगाडीला\N_NN रात्रीच्या\N_NN विश्रांतीसाठी\N_NN नदीच्या\N_NN किनार्‍यावर\N_NN उभे\JJ केले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21555	ही\DM_DMR बैलगाडी\N_NN जगभरात\N_NN तिच्यासारखी\PR_PRL एकटीच\N_NN आहे\V_VM ज्याचा\PR_PRL वापर\N_NN उपाहारगृहाच्या\N_NN रूपात\N_NN होत\V_VM आहे\V_VAUX .\RD_PUNC
+htd21556	जोरदार\RB बातमी\N_NN ही\DM_DMR आहे\V_VM की\CC_CCS बाहेरुन\N_NST व\CC_CCD आतून\N_NST जितकी\QT_QTF अस्सली\N_NN बैलगाडी\N_NN ही\DM_DMR दिसते\V_VM तेवढीच\QT_QTF अस्सली\N_NN ह्यांमध्ये\DM_DMR अनेक\QT_QTF अत्याधुनिक\JJ सुविधा\N_NN आहेत\V_VM ज्या\PR_PRL पहिल्याच\N_NN नजरेत\N_NN दिसून\V_VM येत\V_VAUX नाहीत\V_VAUX .\RD_PUNC
+htd21557	त्या\PR_PRL अनेक\QT_QTF सवलती\N_NN ज्यांची\PR_PRF कल्पना\N_NN तुम्ही\PR_PRP जगातील\N_NN सर्वात\RP_INTF चांगल्या\JJ उपाहारगृहामध्ये\N_NN करु\V_VM शकता\V_VAUX .\RD_PUNC
+htd21558	स्टूडिओ\N_NN स्टाइलचे\N_NN स्वयंपाक\N_NN घर\N_NN आहे\V_VM ज्यामध्ये\PR_PRL गॅस\N_NN स्टोव्ह\N_NN ,\RD_PUNC माइक्रोवेव्ह\N_NN ,\RD_PUNC फ्रिज\N_NN आहेत\V_VM .\RD_PUNC
+htd21559	एअर\N_NN कंडीशनिंगसाठी\N_NN हीट\JJ पंप\N_NN आहे\V_VM ,\RD_PUNC फ्लश\N_NN टॉयलेट\N_NN आहेत\V_VM ,\RD_PUNC कंप्यूटर\N_NN नियंत्रित\JJ शॉवर\N_NN आहे\V_VM ,\RD_PUNC क्वीन\N_NN साइज\N_NN बेड\N_NN आहे\V_VM ,\RD_PUNC ए\N_NN सी\N_NN कॉफी\N_NN टेबल\N_NN आहे\V_VM ज्याला\PR_PRL तुम्ही\PR_PRP बटन\N_NN दाबून\V_VM डाइनिंग\N_NN टेबलमध्ये\N_NN बदलू\V_VM शकता\V_VAUX .\RD_PUNC
+htd21560	मनोरंजनासाठी\N_NN प्लाज्मा\N_NN स्क्रीन\N_NN टी\N_NN व्ही\N_NN आहे\V_VM ,\RD_PUNC डीवीडी\N_NN प्लेयर\N_NN आहे\V_VM ,\RD_PUNC अनेक\QT_QTF चॅनल\N_NN आहेत\V_VM ,\RD_PUNC डीवीडी\N_NN व\CC_CCD मॅगजीन\N_NN संग्रह\N_NN आहे\V_VM .\RD_PUNC
+htd21561	गरज\N_NN पडली\V_VM तर\CC_CCS इंटरनेट\N_NN व\CC_CCD सेलफोन\N_NN ह्यांची\DM_DMR देखील\RB सुविधा\N_NN मिळते\V_VM .\RD_PUNC
+htd21562	इच्छा\N_NN असेल\V_VM तर\CC_CCS बार\N_NN -\RD_PUNC बे\N_NN -\RD_PUNC क्यूची\N_NN सुविधादेखील\N_NN आहे\V_VM आणि\CC_CCD गावकरी\N_NN शैलीचे\N_NN जेवण\N_NN देखील\RB .\RD_PUNC
+htd21563	छोट्या\JJ बारमध्ये\N_NN देखील\RB स्थानीय\N_NN खाद्य\N_NN पदार्थ\N_NN भरलेले\V_VM असतात\V_VAUX .\RD_PUNC
+htd21564	ह्याच्या\DM_DMR एकीकडे\N_NST खास\JJ गोष्ट\N_NN ह्याचे\DM_DMR पूर्णपणे\RB इको-फ्रेंडली\N_NN असणे\V_VM आहे\V_VAUX .\RD_PUNC
+htd21565	वापरात\N_NN आलेल्या\V_VM बहुतांश\QT_QTF वस्तू\N_NN नैसर्गिक\JJ आहेत\V_VM किंवा\CC_CCD नैसर्गिकरितीने\N_NN बनवल्या\V_VM गेल्या\V_VAUX आहेत\V_VAUX .\RD_PUNC
+htd21566	छोट्या-मोठ्या\JJ गरजांसाठी\N_NN सौर\N_NN ऊर्जेचा\N_NN वापर\N_NN केला\V_VM गेला\V_VAUX आहे\V_VAUX मोठ्या\JJ गरजांसाठी\N_NN देखील\RB कमी\QT_QTF खपणार्‍या\V_VM हेलोजन\N_NN लाइट\N_NN वापरण्यात\V_VM आले\V_VAUX आहेत\V_VAUX .\RD_PUNC
+htd21567	नवीन\JJ औद्योगीक\JJ कलाशास्त्राचा\N_NN फ्लश\N_NN टॉयलेट\N_NN सर्व\QT_QTF मळाला\N_NN कार्बन\N_NN डाइऑक्साइड\N_NN व\CC_CCD बाष्पात\N_NN बदलते\V_VM .\RD_PUNC
+htd21568	खाण्या\V_VM -\RD_PUNC पिण्यामध्ये\V_VM ऑर्गेनिक\N_NN फूडचा\N_NN यथासंभव\N_NN वापर\N_NN होतो\V_VM आणि\CC_CCD पूर्ण\QT_QTF प्रदेशाला\N_NN ध्वनि\N_NN व\CC_CCD वायु\N_NN प्रदूषणापासून\N_NN पूर्णपणे\RB मुक्‍त\JJ ठेवले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21569	तसे\RB तर\CC_CCS येथील\DM_DMD रम्य\JJ दृश्य\N_NN आणि\CC_CCD विलक्षण\JJ जाणीवेला\N_NN सोडून\V_VM जाण्याचे\V_VM मन\N_NN नाही\V_VAUX करत\V_VM परंतु\CC_CCD ज्यांना\PR_PRL आजूबाजूला\N_NST जायचे\V_VM आहे\V_VM त्यांच्यासाठी\DM_DMR पाच\QT_QTC मि्निटाच्या\N_NN रस्त्यावर\N_NN अनेक\QT_QTF उपाहारगृहं\N_NN आणि\CC_CCD दुकाने\N_NN आहेत\V_VM .\RD_PUNC
+htd21570	शहराच्या\N_NN मध्यात\N_NN कॅथेड्रल\N-NNP स्क्वायर\N-NNP १०\QT_QTC -\RD_PUNC १५\QT_QTC मिनटाच्या\N_NN अंतरावर\N_NN स्थित\JJ आहे\V_VM .\RD_PUNC
+htd21571	एक\QT_QTC किमी.\N_NN दूर\N_NST हैल्सवेल\N-NNP क्वैरी\N-NNP पार्क\N_NN आहे\V_VM ज्यामध्ये\PR_PRL जगभरातील\N_NN सिस्टर\N-NNP सिटी\N-NNP गार्डसची\N_NN झलक\N_NN पाहता\V_VM येते\V_VAUX वृक्षांच्यामधून\N_NN फेरफटका\N_NN आणि\CC_CCD सहलीसाठी\N_NN देखील\RB हे\DM_DMR मोठे\JJ उत्तम\JJ ठिकाण\N_NN आहे\V_VM .\RD_PUNC
+htd21572	येथे\DM_DMD पूर्ण\QT_QTF वर्षभर\N_NN जाता\V_VM येते\V_VAUX .\RD_PUNC
+htd21573	जाणे\V_VM सोपे\N_NN आहे\V_VM कारण\N_NN की\CC_CCS हा\DM_DMR क्राइस्टचर्चच्या\N-NNP उपनगरातील\N_NN प्रदेशच\N_NN आहे\V_VM .\RD_PUNC
+htd21574	क्राइस्टचर्च\N-NNP न्यूझीलंडमधील\N-NNP प्रमुख\JJ शहर\N_NN आहे\V_VM जे\PR_PRL जगभराशी\N_NN जोडलेले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21575	आंतरराष्‍ट्रीय\JJ विमानतळापासून\N_NN ही\DM_DMR बैलगाडी\N_NN केवळ\JJ २०\QT_QTC मिनिटाच्या\N_NN अंतरावर\N_NN स्थित\JJ आहे\V_VM .\RD_PUNC
+htd21576	बैलगाडी\N_NN एकच\N_NN आहे\V_VM आणि\CC_CCD त्यामध्ये\PR_PRL केवळ\JJ दोनच\N_NN लोक\N_NN राहू\V_VM शकतात\V_VAUX .\RD_PUNC
+htd21577	तुम्ही\PR_PRP त्यामध्ये\PR_PRL एक\QT_QTC रात्र\N_NN किंवा\CC_CCD जास्त\QT_QTF काळासाठी\N_NN देखील\RB राहू\V_VM शकतात\V_VAUX .\RD_PUNC
+htd21578	एका\QT_QTC रात्रीसाठी\N_NN दोन\QT_QTC लोकांचे\N_NN भाडे\N_NN २९५\QT_QTC न्यूझीलंड\N-NNP डॉलर\QT_QTC म्हणजे\CC_CCD ७९४०\QT_QTC रुपये\N_NN आहे\V_VM .\RD_PUNC
+htd21579	बुकिंग\N_NN पाहिजे\V_VM त्या\PR_PRL दिवसासाठी\N_NN ऑनलाइन\N_NN करता\V_VM येते\V_VAUX .\RD_PUNC
+htd21580	ओरछाला\N-NNP दुसर्‍या\QT_QTO अयोध्याच्या\N-NNP रूपात\N_NN मान्यता\N_NN प्राप्‍त\JJ आहे\V_VM .\RD_PUNC
+htd21581	येथे\DM_DMD रामराजा\N-NNP आपल्या\PR_PRP बाल\N_NN रूपात\N_NN विराजमान\N_NN आहेत\V_VM .\RD_PUNC
+htd21582	ही\DM_DMR अफवा\N_NN आहे\V_VM की\CC_CCS श्रीराम\N-NNP दिवसा\N_NN येथे\DM_DMD तर\CC_CCS रात्री\N_NN अयोध्याला\N-NNP विश्राम\N_NN करतात\V_VM .\RD_PUNC
+htd21583	शयन\N_NN आरतीच्या\N_NN नंतर\RB त्यांची\PR_PRL ज्योती\N_NN हनुमानजीला\N-NNP सोपवली\V_VM जाते\V_VAUX जे\PR_PRL रात्री\N_NN विश्रांतीसाठी\N_NN त्यांना\PR_PRL अयोध्येला\N-NNP घेऊन\V_VM जातात\V_VAUX .\RD_PUNC
+htd21584	शास्त्रांमध्ये\N_NN वर्णन\N_NN केलेले\V_VM आहा\V_VAUX की\CC_CCS आदि\N_NN मनु-सतरूपाने\N_NN हजारों\QT_QTC वर्षांपर्यंत\N_NN शेषशायी\JJ विष्णूला\N-NNP बालरूपामध्ये\N_NN प्राप्‍त\JJ करण्यासाठी\V_VM तपस्या\N_NN केली\V_VM .\RD_PUNC
+htd21585	विष्णूने\N-NNP त्यांना\PR_PRL प्रसन्न\JJ होऊन\V_VM आशीर्वाद\N_NN दिला\V_VM आणि\CC_CCD त्रेतायुगात\N_NN राम\N-NNP ,\RD_PUNC द्वापरयुगात\N_NN कृष्ण\N-NNP आणि\CC_CCD कलियुगामध्ये\N_NN ओरछाच्या\N-NNP रामराजाच्या\N-NNP रूपात\N_NN अवतार\N_NN घेतला\V_VM .\RD_PUNC
+htd21586	अशा\JJ प्रकारे\N_NN मधुकर\N-NNP शाह\N-NNP आणि\CC_CCD त्यांची\PR_PRL पत्‍नी\N_NN गणेशकुंवरी\N-NNP साक्षात\N_NN दशरथ\N_NN आणि\CC_CCD कौशल्याचा\N_NN अवतार\N_NN होता\V_VM .\RD_PUNC
+htd21587	त्रेतायुगामध्ये\N_NN दशरथ\N-NNP आपल्या\PR_PRP पुत्राचा\N_NN राज्याभिषेक\N_NN करु\V_VM शकले\V_VAUX नाहीत\V_VAUX त्यांची\PR_PRL ही\DM_DMR इच्छादेखील\N_NN कलियुगात\N_NN पूर्ण\QT_QTF झाली\V_VM .\RD_PUNC
+htd21588	रामराजाची\N-NNP अयोध्येपासून\N-NNP ओरछाला\N-NNP येण्याची\V_VM एक\QT_QTC मनोहारी\JJ कथा\N_NN आहे\V_VM .\RD_PUNC
+htd21589	एक\QT_QTC दिवस\N_NN ओरछा\N-NNP नरेश\N_NN मधुकरशाहने\N-NNP आपली\PR_PRP पत्‍नी\N_NN गणेशकुंवरीशी\N-NNP कृष्ण\N-NNP उपासनेच्या\N_NN इराद्याने\N_NN वृंदावनला\N-NNP चलण्यास\V_VM सांगितले\V_VAUX .\RD_PUNC
+htd21590	परंतु\CC_CCD राणी\N_NN राम\N-NNP भक्‍त\N_NN होती\V_VM .\RD_PUNC
+htd21591	त्यांनी\PR_PRL वृंदावनाला\N-NNP जाण्यासाठी\V_VM नकार\N_NN दिला\V_VM .\RD_PUNC
+htd21592	रागात\N_NN येऊन\V_VM राजाने\N_NN राणीला\N_NN असे\CC_CCS_UT म्हटले\V_VM की\CC_CCS तु\PR_PRP इतकी\QT_QTF राम\N-NNP भक्‍त\N_NN आहेस\V_VM तर\CC_CCS जाऊन\V_VM आपल्या\PR_PRP रामाला\N-NNP ओरछाला\N-NNP घेऊन\V_VM ये\V_VAUX .\RD_PUNC
+htd21593	राणीने\N_NN अयोध्येला\N-NNP पोहोचल्यावर\V_VM सरयू\N-NNP नदीच्या\N_NN किनार्‍यावर\N_NN लक्ष्मण\N-NNP किल्ल्याच्या\N_NN जवळ\RB आपली\PR_PRP कुटी\N_NN बनवून\V_VM साधना\N_NN आरंभ\N_NN केली\V_VM .\RD_PUNC
+htd21594	अलीकडे\N_NST संत\N_NN शिरोमणि\N_NN तुलसीदास\N-NNP देखील\RB अयोध्येमध्ये\N-NNP साधनेत\N_NN मग्न\JJ होते\V_VM .\RD_PUNC
+htd21595	संतांकडून\N_NN आशीर्वाद\N_NN घेऊन\V_VM राणीची\N_NN आराधना\N_NN निश्चित\JJ होत\V_VM गेली\V_VAUX .\RD_PUNC
+htd21596	परंतु\CC_CCD राणीला\N_NN अनेक\QT_QTF महिन्यांपर्यंत\N_NN रामराजाचे\N-NNP दर्शन\N_NN नाही\V_VAUX झाले\V_VM .\RD_PUNC
+htd21597	सरते\RB शेवटी\RB ती\DM_DMR निराश\N_NN होऊन\V_VM आपले\PR_PRP प्राण\N_NN त्यागण्यासाठी\V_VM सरयूच्या\N-NNP मध्यप्रवाहामध्ये\N_NN उडी\N_NN मारली\V_VM .\RD_PUNC
+htd21598	येथेच\DM_DMD पाण्याच्या\N_NN अतल\JJ खोलीत\N_NN त्यांना\PR_PRL रामराजाचे\N-NNP दर्शन\N_NN झाले\V_VM .\RD_PUNC
+htd21599	राणीने\N_NN त्यांना\PR_PRL आपले\PR_PRP विचार\N_NN सांगितले\V_VM .\RD_PUNC
+htd21600	रामराजाने\N-NNP ओरछाला\N-NNP जायचे\V_VM स्वीकार\V_VM केले\V_VAUX परंतु\CC_CCD त्यांनी\PR_PRL तीन\QT_QTC अटी\N_NN ठेवल्या\V_VM पहिली\QT_QTO -\RD_PUNC हा\DM_DMR प्रवास\N_NN पायी\N_NN होईल\V_VM ,\RD_PUNC दुसरी\QT_QTO -\RD_PUNC प्रवास\N_NN केवळ\JJ पुष्प\N-NNP नक्षत्रात\N_NN होईल\V_VM ,\RD_PUNC तिसरी\QT_QTO -\RD_PUNC रामराजाची\N-NNP मूर्ती\N_NN ज्या\PR_PRL ठिकाणी\N_NN ठेवली\V_VM जाईल\V_VAUX तेथून\DM_DMR पुन्हा\N_NN उचलली\V_VM जाणार\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd21601	राणीने\N_NN राजाला\N_NN संदेश\N_NN पाठवला\V_VM की\CC_CCS ती\DM_DMR रामराजाला\N-NNP घेऊन\V_VM ओरछाला\N-NNP येत\V_VM आहे\V_VAUX .\RD_PUNC
+htd21602	मधुकरशाहने\N-NNP रामराजाच्या\N-NNP मूर्तिला\N_NN स्थापित\JJ करण्यासाठी\V_VM करोडों\N_NN खर्च\N_NN करुन\V_VM चतुर्भुज\N_NN मंदिराची\N_NN रचना\N_NN केली\V_VM .\RD_PUNC
+htd21603	जेव्हा\CC_CCS राणी\N_NN ओरछाला\N-NNP पोहचली\V_VM तर\CC_CCS तिने\PR_PRP ही\DM_DMR मूर्ति\N_NN आपल्या\PR_PRP महालामध्ये\N_NN ठेवली\V_VM .\RD_PUNC
+htd21604	हे\DM_DMR निश्‍चित\N_NN झाले\V_VM की\CC_CCS शुभ\JJ मुर्हूतावर\N_NN मूर्तिला\N_NN चतुर्भुज\N_NN मंदिरामध्ये\N_NN ठेवून\V_VM त्याची\PR_PRL प्राणप्रतिष्‍ठा\N_NN केली\V_VM जाईल\V_VAUX .\RD_PUNC
+htd21605	परंतु\CC_CCD रामाच्या\N-NNP मूर्तिने\N_NN चतुर्भुज\N_NN जाण्यास\V_VM नकार\N_NN दिला\V_VM .\RD_PUNC
+htd21606	म्हणतात\V_VM की\CC_CCS राम\N-NNP येथे\DM_DMD बालरूपात\N_NN आले\V_VM आणि\CC_CCD आपल्या\PR_PRP आईचा\N_NN महाल\N_NN सोडून\V_VM ते\DM_DMR मंदिरात\N_NN कसे\PR_PRQ जाऊ\V_VM शकता\V_VAUX .\RD_PUNC
+htd21607	राम\N-NNP आजदेखील\RB ह्याच\DM_DMR महालामध्ये\N_NN विराजमान\N_NN आहेत\V_VM आणि\CC_CCD त्यांच्यासाठी\PR_PRL बनवलेले\V_VM करोडोचे\QT_QTC चतुर्भुज\N_NN मंदिर\N_NN आजदेखील\RB ओसाड\JJ पडले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21608	हे\DM_DMR मंदिर\N_NN आजदेखील\RB मूर्तिविहीन\N_NN आहे\V_VM .\RD_PUNC
+htd21609	हादेखील\DM_DMR एक\QT_QTC संयोग\N_NN आहे\V_VM की\CC_CCS ज्या\PR_PRL वर्षी\N_NN १६३१\QT_QTC ला\N_NN रामराजाचे\N-NNP ओरछामध्ये\N-NNP आगमन\N_NN झाले\V_VM त्याच\PR_PRL दिवशी\N_NN रामचरित\N-NNP मानसचे\N-NNP लेखन\N_NN देखील\RB पूर्ण\QT_QTF झाले\V_VM .\RD_PUNC
+htd21610	जी\PR_PRL मूर्ति\N_NN ओरछामध्ये\N-NNP विद्यमान\N_NN आहे\V_VM त्याच्याबद्दल\DM_DMR सांगितले\V_VM जाते\V_VAUX की\CC_CCS जेव्हा\CC_CCS राम\N-NNP वनवासाला\N_NN जात\V_VM होते\V_VAUX तर\CC_CCS त्यांनी\PR_PRL आपली\PR_PRP एक\QT_QTC बाल\N_NN मूर्ति\N_NN आई\N_NN कौशल्याला\N-NNP दिली\V_VM होती\V_VAUX .\RD_PUNC
+htd21611	आई\N_NN कौशल्या\N-NNP त्यालाच\PR_PRL बाल\N_NN नैवेद्य\N_NN करायची\V_VM .\RD_PUNC
+htd21612	जेव्हा\CC_CCS राम\N-NNP अयोध्याला\N-NNP परतले\V_VM तर\CC_CCS कौशल्याने\N-NNP ही\DM_DMR मूर्ति\N_NN सरयू\N-NNP नदीमध्ये\N_NN विसर्जित\JJ केली\V_VM .\RD_PUNC
+htd21613	ही\DM_DMR मूर्ति\N_NN गणेशकुंवरिला\N-NNP सरयूच्या\N-NNP मध्यप्रवाहात\N_NN मिळाली\V_VM होती\V_VAUX .\RD_PUNC
+htd21614	हे\DM_DMR विश्‍वातील\N_NN एकटे\JJ मंदिर\N_NN आहे\V_VM जेथे\DM_DMD रामाची\N-NNP पूजा\N_NN राजाच्या\N_NN रूपात\N_NN होते\V_VM आणि\CC_CCD त्यांना\PR_PRL सूर्योदयाच्या\N_NN पूर्वी\N_NN आणि\CC_CCD सूर्यास्तानंतर\N_NN अभिवादन\N_NN केले\V_VM जाते\V_VAUX .\RD_PUNC
+htd21615	येथे\DM_DMD राम\N-NNP ओरछाधीशच्या\JJ रूपात\N_NN मान्य\N_NN आहेत\V_VM .\RD_PUNC
+htd21616	रामराजा\N-NNP मंदिराच्या\N_NN चारही\N_NN बाजूला\N_NN हनुमानाचे\N-NNP मंदिर\N_NN आहे\V_VM .\RD_PUNC
+htd21617	छडदारी\JJ हनुमान\N-NNP ,\RD_PUNC बजरियाचे\JJ हनुमान\N-NNP ,\RD_PUNC लंका\N-NNP हनुमान\N-NNP ह्यांचे\DM_DMR मंदिर\N_NN एक\QT_QTC सुरक्षा\N_NN चक्राच्या\N_NN रूपात\N_NN चारही\N_NN बाजूला\N_NN आहे\V_VM .\RD_PUNC
+htd21618	ओरछाच्या\N-NNP इतर\QT_QTF बहुमूल्य\JJ ठेवींमध्ये\N_NN लक्ष्मी\N-NNP मंदिर\N_NN ,\RD_PUNC पंचमुखी\JJ महादेव\N-NNP ,\RD_PUNC राधिका\N-NNP बिहारी\N-NNP मंदिर\N_NN ,\RD_PUNC राजामहाल\N-NNP ,\RD_PUNC रायप्रवीण\N-NNP महाल\N_NN ,\RD_PUNC हरदौलची\N-NNP बैठक\N_NN ,\RD_PUNC हरदौलची\N-NNP समाधी\N_NN ,\RD_PUNC जहांगीर\N-NNP महाल\N_NN आणि\CC_CCD त्याची\PR_PRL चित्रकारी\N_NN प्रमुख\JJ आहे\V_VM .\RD_PUNC
+htd21619	ओरछा\N-NNP झासीपासून\N-NNP मात्र\QT_QTF १५\QT_QTC कि.मी.\N_NN अंतरावर\N_NN आहे\V_VM .\RD_PUNC
+htd21620	झासी\N-NNP देशाच्या\N_NN प्रमुख\JJ रेल्वे\N_NN लाइन्सशी\N_NN जोडलेले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21621	पर्यटकांसाठी\N_NN झासी\N-NNP आणि\CC_CCD ओरछामध्ये\N-NNP शानदार\JJ आवासगृह\N_NN बनवलेले\V_VM आहे\V_VAUX .\RD_PUNC
+htd21622	भारतीय\JJ पर्यटक\N_NN स्विजरलैंड\N-NNP मध्ये\N_NST इंटरलाकेनला\N_NN नेहमी\RB एक\QT_QTC परिपूर्ण\N_NN थंड\JJ हवेचे\N_NN ठिकाण\N_NN ह्या\DM_DMR रूपात\N_NN ओळखत\V_VM आले\V_VAUX आहेत\V_VAUX .\RD_PUNC
+htd21623	परंतू\CC_CCD इंटरलाकेनला\N-NNP दोन\QT_QTC सरोवरांनी\N_NN देखील\RB वेढलेले\V_VM आहे\V_VAUX -\RD_PUNC लेक\N_NN ब्रेंज\N-NNP आणि\CC_CCD लेक\N_NN थुन\N-NNP .\RD_PUNC
+htd21624	दोन्हीं\N_NN सरोवरे\N_NN खूप\QT_QTF सुंदर\JJ आहेत\V_VM .\RD_PUNC
+htd21625	सरोवराच्या\N_NN चमकणार्‍या\V_VM पाण्यामध्ये\N_NN अनेक\QT_QTF छोटे-मोठे\JJ जहाज\N_NN चालतात\V_VM .\RD_PUNC
+htd21626	ह्यांपैकी\DM_DMR दोन\QT_QTC स्टीमर\N_NN तर\CC_CCS असे\RB आहेत\V_VM जे\PR_PRL शतकांपूर्वी\N_NN पहिल्याच्या\RD_UNK मोठ्या\JJ नौकांची\N_NN झलक\N_NN देतात\V_VM .\RD_PUNC
+htd21627	खूप\QT_QTF सारे\QT_QTF प्रार्थनामंदिर\N_NN व\CC_CCD फार्महाउस\N_NN ह्यांशिवाय\CC_CCD लेक\N_NN थुनच्या\N-NNP आजूबाजूला\N_NN पाच\QT_QTC भव्य\N_NN कॅसल\N_NN (\RD_SYM किल्ले\N_NN )\RD_SYM देखील\RB आहेत\V_VM .\RD_PUNC
+htd21628	ह्यांपैकी\PR_PRL एकाला\N_NN सोडून\V_VM बाकी\QT_QTF सर्व\QT_QTF सरोवराच्या\N_NN किनार्‍यावर\N_NN खूप\QT_QTF शांत\JJ व\CC_CCD सुंदर\JJ उद्यानात\N_NN स्थित\JJ आहेत\V_VM .\RD_PUNC
+htd21629	म्हणजे\CC_CCD तुम्ही\PR_PRP सरोवरांमध्ये\N_NN नौका\N_NN विहार\N_NN करत\V_VM -\RD_PUNC करत\V_VM देखील\RB ह्या\DM_DMR कॅसलची\N_NN सैर\N_NN करु\V_VM शकता\V_VAUX .\RD_PUNC
+htd21630	चांदीसारख्या\N_NN चमकणार्‍या\V_VM ह्या\DM_DMR सरोवरांमध्ये\N_NN क्रूजमध्ये\N_NN रात्रीचे\N_NN जेवण\N_NN करण्यामध्ये\V_VM अद्भुतरम्य\JJ अनुभवच\N_NN काही\QT_QTF वेगळा\JJ आहे\V_VM .\RD_PUNC
+htd21631	ह्यामुळे\CC_CCD पुढच्या\N_NST उन्हाळ्यात\N_NN जर\CC_CCS तुम्ही\PR_PRP स्विजरलॅंडला\N_NNP गेलात\V_VM तर\CC_CCS इंटरलाकेन\N_NNP तुमच्यासाठी\PR_PRP ऑफर\N_NN करत\V_VM आहे\V_VAUX मे\N_NN व\CC_CCD जूनमध्ये\N_NN लेक\N_NN ब्रेंजमध्ये\N_NNP भारतीय\JJ जेवण\N_NN क्रूज\N_NN .\RD_PUNC
+htd21632	तेथेच\DM_DMD जुलै\N_NN ,\RD_PUNC ऑगस्टमध्ये\N_NN हे\DM_DMR विलक्षण\JJ अनुभव\N_NN स्विस\JJ स्वादाबरोबर\N_NN असेल\V_VM .\RD_PUNC
+htd21633	लेक\N_NN ब्रेंजला\N_NNP हे\DM_DMR नाव\N_NN ब्रेंज\N_NNP गाववरून\N_NN मिळाले\V_VM आहे\V_VAUX जे\PR_PRL सरोवराच्या\N_NN उत्तरेकडील\N_NN टोकावर\N_NN स्थित\JJ आहे\V_VM .\RD_PUNC
+htd21634	सरोवराची\N_NN लांबी\N_NN नऊ\QT_QTC मैल\N_NN आहे\V_VM आणि\CC_CCD रुंदी\N_NN दिड\QT_QTC मैल\N_NN .\RD_PUNC
+htd21635	अशातर्‍हेने\CC_CCD थुन\N_NNP सरोवरालादेखील\N_NN त्याच्या\PR_PRL उत्तरेला\N_NN स्थित\JJ थुन\N_NNP शहरापसून\N_NN नाव\N_NN मिळाले\V_VM .\RD_PUNC
+htd21636	इंटरलाकेनची\N_NNP उंची\N_NN समुद्रसपाटीपासून\N_NN केवळ\JJ ५७०\QT_QTC मीटर\N_NN आहे\V_VM .\RD_PUNC
+htd21637	परंतु\CC_CCD ह्या\DM_DMR स्विस\N_NNP पर्वतांवर\N_NN फिरायला\V_VM जाणार्‍यांचा\V_VM फार\QT_QTF मोठा\JJ अड्डा\N_NN आहे\V_VM .\RD_PUNC
+htd21638	स्काइडाइविंग\N_NN ,\RD_PUNC कॅनोइंग\N_NN ,\RD_PUNC स्कीइंग\N_NN ,\RD_PUNC हँड\N_NN ग्लाइडिंग\N_NN ,\RD_PUNC पॅराग्लाइडिंग\N_NN इत्यादीचे\JJ शौकीन\N_NN येथे\DM_DMD खूप\QT_QTF जमा\N_NN होतात\V_VM .\RD_PUNC
+htd21639	मुख्यत:\RB ४१५८\QT_QTC मीटर\N_NN उंच\JJ जंगफ्राओ\N_NNP पर्वतावर\N_NN चढाई\N_NN करणारे\V_VM येथूनच\DM_DMD प्रवास\N_NN सुरू\JJ करतात\V_VM .\RD_PUNC
+htd21640	तिकडे\N_NST स्विजरलॅंडमध्ये\N_NNP ब्रेंजच्या\N_NNP जवळच\RB एक\QT_QTC जागा\N_NN आहे\V_VM बैलनबर्ग\N_NNP .\RD_PUNC
+htd21641	ही\DM_DMR देखील\RB त्याप्रमाणेच\PR_PRL एक\QT_QTC खुले\JJ कलादालन\N_NN आहे\V_VM जसे\RB की\CC_CCS आम्ही\PR_PRP आपल्या\PR_PRP राजस्थानमध्ये\N_NNP नवलगड\N_NNP जसे\RB कसब्यांना\N_NN मानतात\V_VM .\RD_PUNC
+htd21642	जंगलांनी\N_NN वेढलेल्या\V_VM ह्या\DM_DMR सुंदर\JJ मैदानात\N_NN स्वित्झरलॅंडच्या\N_NNP सर्व\QT_QTF क्षेत्रांतील\N_NN शंभर\QT_QTC वर्षापेक्षा\N_NN जास्त\QT_QTF जुन्या\JJ पारंपरिक\JJ इमारतींना\N_NN पुन्हा\N_NST त्यांच्या\PR_PRP मूळ\N_NN शैलीमध्येच\N_NN उभे\JJ केले\V_VM आहे\V_VM .\RD_PUNC
+htd21643	अशा\JJ जवळ\RB जवळ\RB शंभर\QT_QTC इमारती\N_NN इथे\DM_DMD उभ्या\N_NN केल्या\V_VM आहेत\V_VM .\RD_PUNC
+htd21644	पारंपरिक\JJ हस्तशिल्पाचे\N_NN दृश्य\N_NN देखील\RB इथे\DM_DMD पाहायला\V_VM मिळते\V_VM आणि\CC_CCD व्यापाराच्या\N_NN त्याकाळातील\DM_DMR पद्धतीही\N_NN पाहायला\V_VM मिळतात\V_VM .\RD_PUNC
+htd21645	इतकेच\QT_QTF नाही\V_VM सर्व\QT_QTF प्रकारचे\N_NN पाळीव\N_NN प्राणी\N_NN देखील\RB येथील\DM_DMD मैदानात\N_NN मौज\N_NN करताना\V_VM दिसून\V_VM येतील\V_VM .\RD_PUNC
+htd21646	त्या\DM_DMR दरम्यानची\N_NN कलाकारी\N_NN करणारे\V_VM कारीगरदेखील\N_NN मिळतील\V_VM आणि\CC_CCD पारंपरिक\JJ वेशभूषा\N_NN देखील\RB .\RD_PUNC
+htd21647	हे\DM_DMR खर्‍या\N_NN अर्थाने\N_NN एक\QT_QTC संग्रहालय\N_NN आहे\V_VM जे\PR_PRL एप्रिल\N_NN ते\DM_DMR अक्टोबर\N_NN दरम्यान\N_NN खुले\JJ असते\V_VM .\RD_PUNC
+htd21648	परंतु\CC_CCD हे\DM_DMR तुम्हाला\PR_PRP एक\QT_QTC स्विस\N_NN गावच\N_NN लागेल\V_VM जे\PR_PRL जवळजवळ\RB ६६\QT_QTC हेक्टर\N_NN प्रदेशात\N_NN पसरलेले\V_VM आहे\V_VM .\RD_PUNC
+htd21649	एकूण\QT_QTF मिळुन\V_VM हे\DM_DMR त्या\DM_DMR काळातील\N_NN पारंपरिक\JJ जनजीवनाची\N_NN वास्तविक\JJ झलक\N_NN सादर\N_NN करण्याचा\V_VM उत्कृष्ट\JJ प्रयत्न\N_NN आहे\V_VM .\RD_PUNC
+htd21650	स्विसपासधारी\N_NN पर्यटक\N_NN ह्या\DM_DMR बैलनबर्गमध्ये\N_NNP मोफत\JJ प्रवेश\N_NN करु\V_VM शकतात\V_VAUX .\RD_PUNC
+htd21651	मस्तीचे\N_NN शहर\N_NN म्यूनिख\N_NNP यूरोप\N_NNP महाद्वीपाच्या\N_NN मध्यभागी\N_NN आहे\V_VM .\RD_PUNC
+htd21652	जर्मनी\JJ आणि\CC_CCD भौगोलिक\JJ स्थिती\N_NN ह्यामुळे\CC_CCD हा\DM_DMR देशाला\N_NN यूरोपचे\N_NNP हृदय\N_NN म्हटले\V_VM जाते\V_VM .\RD_PUNC
+htd21653	ह्या\DM_DMR संघीय\N_NN गणराज्यात\N_NN सोळा\QT_QTC प्रांत\N_NN आहेत\V_VM ज्यामध्ये\PR_PRL बावेरिया\N_NNP [\RD_SYM बार्यन\N_NNP ]\RD_SYM प्रांत\N_NN सर्वात\RP_INTF मोठा\JJ आहे\V_VM .\RD_PUNC
+htd21654	देशाच्या\N_NN दक्षिणेला\N_NN स्थित\JJ ह्या\DM_DMR प्रांताची\N_NN राजधानी\N_NN म्यूनिख\N_NNP आहे\V_VM जी\PR_PRL काळाबरोबर\N_NN एक\QT_QTC आंतरराष्‍ट्रीय\JJ शहर\N_NN बनले\V_VM आहे\V_VM .\RD_PUNC
+htd21655	पर्यटनाच्या\N_NN दृष्टीने\N_NN आज\RB हे\DM_DMR एक\QT_QTC महत्त्वपूर्ण\N_NN केंद्र\N_NN आहे\V_VM .\RD_PUNC
+htd21656	प्राचीन\JJ चर्च\N_NN ,\RD_PUNC कलादालन\N_NN ,\RD_PUNC संग्रहालय\N_NN ,\RD_PUNC ऐतिहासिक\JJ इमारती\N_NN ,\RD_PUNC राजांचे\N_NN जुने\N_NN महाल\N_NN इत्यादी\JJ आकर्षक\N_NN पर्यटनस्थळं\N_NN आहेत\V_VM .\RD_PUNC
+htd21657	ह्याव्यतिरिक्‍त\CC_CCD प्रसिद्ध\JJ व्यावसायिक\N_NN केंद्र\N_NN मॅरियन\N_NNP प्लाट्ज\N_NN ,\RD_PUNC उद्यान\N_NN ,\RD_PUNC बगीचे\N_NN ,\RD_PUNC सर्फिंग\N_NN ,\RD_PUNC आणि\CC_CCD ड्राइविंग\N_NN व\CC_CCD बोटिंग\N_NN ह्यांचे\DM_DMR स्थान\N_NN विविध\JJ प्रकारच्या\N_NN विदेशी\JJ पदार्थांसाठी\N_NN प्रसिद्ध\JJ उपाहारगृह\N_NN ,\RD_PUNC डिस्कोथिक\N_NN ,\RD_PUNC बियर\N_NN गार्डंस\N_NN आणि\CC_CCD अनेक\QT_QTF प्रकारचे\N_NN पब\N_NN पर्यटकांना\N_NN खूप\QT_QTF आकर्षित\JJ करतात\V_VM .\RD_PUNC
+htd21658	येथे\DM_DMD स्वच्छ\JJ नद्यां\N_NN आहेत\V_VM आणि\CC_CCD जवळजवळ\RB ५०\QT_QTC किलोमीटर\N_NN दूर\N_NST आल्प्स\N_NNP पर्वतरांग\N_NN आहे\V_VM .\RD_PUNC
+htd21659	म्यूनिखच्या\N_NNP मेहनती\N_NN लोकांना\N_NN पाहून\V_VM सर्व\QT_QTF प्रभावित\JJ होतात\V_VM .\RD_PUNC
+htd21660	म्हटले\V_VM जाते\V_VM जर\CC_CCS फ्रांस\N_NNP प्रेम\N_NN व\CC_CCD साहस\N_NN आणि\CC_CCD इटली\N_NNP वीरता\N_NN व\CC_CCD शौर्य\N_NN ह्यासाठी\N_NN प्रसिद्ध\JJ आहे\V_VM तर\CC_CCS जर्मनी\JJ ह्या\DM_DMR सर्व\QT_QTF गोष्टींच्या\N_NN शिवाय\RB कर्मठपणासाठी\N_NN देखील\RB ओळखले\V_VM जाते\V_VM .\RD_PUNC
+htd21661	म्यूनिखचे\N_NNP लोक\N_NN सुंदर\JJ वस्त्रांचे\N_NN खूप\QT_QTF शौकीन\N_NN असतात\V_VM .\RD_PUNC
+htd21662	एक\QT_QTC आणखी\RB विशेष\JJ गोष्ट\N_NN ही\DM_DMR आहे\V_VM की\CC_CCS जर्मनीमध्ये\N_NNP म्यूनिखच्या\N_NNP पोरी\N_NN सर्वात\RP_INTF सुंदर\JJ मानल्या\V_VM जातात\V_VM .\RD_PUNC
+htd21663	काहीही\QT_QTF छोटी\JJ -\RD_PUNC मोठी\JJ आनंदाची\N_NN बातमी\N_NN असेल\V_VM तर\CC_CCS लोक\N_NN एक-दूसर्‍याला\N_NN पार्ट्यां\N_NN देत\V_VM राहतात\V_VM .\RD_PUNC
+htd21664	ही\DM_DMR गोष्ट\N_NN म्यूनिखमध्ये\N_NNP खूप\QT_QTF चित्तवेधक\JJ आहे\V_VM .\RD_PUNC
+htd21665	हे\DM_DMR जाणून\V_VM तुम्हाला\PR_PRP आश्चर्य\N_NN वाटेल\V_VM की\CC_CCS म्यूनिखचे\N_NNP लोक\N_NN १५\QT_QTC ऑगस्टला\N_NN क्रिकेट\N_NN खेळायाला\V_VM निघतात\V_VM .\RD_PUNC
+htd21666	१९२९\QT_QTC सालामध्ये\N_NN स्थापित\JJ इंस्टीट्‍यूट\N_NN फॉर\N_NN कल्चरल\N_NN रिले्शन्स\N_NN नामक\N_NN एका\QT_QTC भारतीय\JJ संस्थेद्वारा\N_NN ह्या\DM_DMR दिवशी\N_NN क्रिकेट\N_NN मॅचचे\N_NN आयोजन\N_NN केले\V_VM जाते\V_VM .\RD_PUNC
+htd21667	खरे\JJ पाहता\V_VM फुटबॉल\N_NN ,\RD_PUNC गोल्फ\N_NN आणि\CC_CCD हॉकी\N_NN येथील\DM_DMD सर्वात\RP_INTF लोकप्रिय\JJ खेळ\N_NN आहेत\V_VM .\RD_PUNC
+htd21668	तसे\RB तर\CC_CCS म्यूनिखमध्ये\N_NNP जवळजवळ\RB १५\QT_QTC मल्टीस्क्रीन\N_NN सिनेमाघर\N_NN आहेत\V_VM परंतु\CC_CCD चलचित्र\N_NN दाखविण्याची\V_VM एक\QT_QTC दुसरी\QT_QTO पद्धतदेखील\N_NN आहे\V_VM ज्याला\PR_PRL ऑटो\N_NN कीनो\N_NN म्हणतात\V_VM .\RD_PUNC
+htd21669	ह्याचे\DM_DMR आयोजन\N_NN शहरापासून\N_NN दूर\N_NST मोकळ्या\JJ आणि\CC_CCD काळोखी\JJ जागेवर\N_NN होते\V_VM जेथे\DM_DMD लोक\N_NN मोठ्या\JJ प्रेमाने\N_NN चलचित्र\N_NN बघतात\V_VM .\RD_PUNC
+htd21670	जर्मनीची\N_NNP भूमिगत\JJ रेल्वे\N_NN सेवा\N_NN आणि\CC_CCD संचार\N_NN व्यवस्था\N_NN विश्‍वभरात\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd21671	वर्जिन\N_NNP मेरी\N_NNP स्तंभाच्या\N_NN नावावर\N_NN बनवलेले\V_VM मॅरियन\N_NNP प्लाट्ज\N_NN स्क्वायर\N_NNP नियो\N_NNP गोथिक\N_NNP टाउन\N_NN हॉलसाठी\N_NN प्रसिद्ध\JJ आहे\V_VM .\RD_PUNC
+htd21672	टाउन\N_NNP हॉलच्या\N_NN उंच\JJ भिंतीतून\N_NN बाहेर\N_NST निघालेल्या\V_VM खिडकीसारखे\N_NN मोठे\JJ झरोके\N_NN आहेत\V_VM .\RD_PUNC
+htd21673	ह्यांमध्ये\DM_DMR नृत्य\N_NN करणे\V_VM आणि\CC_CCD संगीत\N_NN वाजवणार्‍या\V_VM मशिनच्या\N_NN आकृत्या\N_NN पर्यटकांना\N_NN आकर्षित\JJ करतात\V_VM .\RD_PUNC
+htd21674	मॅरियन\N_NNP प्लाट्ज\N_NN सर्वात\RP_INTF मोठे\JJ व्यावसायिक\N_NN केंद्र\N_NN आहे\V_VM .\RD_PUNC
+htd21675	येथे\DM_DMD मोठी-मोठी\JJ डिपार्टमेंट\N_NN स्टोर\N_NN आणि\CC_CCD दुकाने\N_NN आहेत\V_VM .\RD_PUNC
+htd21676	जगातील\N_NN अत्यंत\RP_INTF आधुनिक\JJ वस्तू\N_NN येथे\DM_DMD उपलब्ध\JJ आहे\V_VM .\RD_PUNC
+htd21677	ब्लॅक\JJ फॉरेस्ट\N_NN लाकडापासून\N_NN बनलेल्या\V_VM कुक्कू\N_NN वॉचेस\N_NN [कुक्कू\N_NN घड्यांळ]\N_NN येथे\DM_DMD खूप\QT_QTF मिळतात\V_VM .\RD_PUNC
+htd21678	जुने\JJ टाउन\N_NNP हॉल\N_NN मॅरियन\N_NNP प्लाट्जच्या\N_NN पूर्वेक़ील\N_NN टोकावर\N_NN स्थित\JJ आहे\V_VM .\RD_PUNC
+htd21679	वर्ष\N_NN १४७४\QT_QTC मध्ये\N_NST बनलेले\V_VM हे\DM_DMR भवन\N_NN दुसर्‍या\QT_QTO महायुद्धात\N_NN उध्वस्त\JJ झाले\V_VM होते\V_VAUX .\RD_PUNC
+htd21680	पुनर्रचनेनंतर\N_NN याच्यातील\DM_DMR बनलेला\V_VM जुना\JJ काउंसिल\N_NN हॉल\N_NN आणि\CC_CCD बालरूम\N_NN आजदेखील\RB संगीत\N_NN व\CC_CCD इतर\QT_QTF समारंभासाठी\N_NN उपयोगात\N_NN आणतात\V_VM .\RD_PUNC
+htd21681	जुन्या\JJ खेळण्यांचे\N_NN संग्रहालयदेखील\N_NN इथेच\DM_DMD आहे\V_VM .\RD_PUNC
+htd21682	शाही\JJ स्क्वायर\N_NN क्यूनिग\N_NN प्लाट्जला\N_NN राजा\N_NN लुडविग\N_NNP प्रथमने\N_NN नियोक्लासिक\JJ शैलीमध्ये\N_NN बनवले\V_VM होते\V_VM .\RD_PUNC
+htd21683	येथे\DM_DMD अनेक\QT_QTF संग्रहालय\N_NN आहेत\V_VM विशेषकरुन\CC_CCD ग्रीक\N_NNP आणि\CC_CCD रोमन\JJ मूर्तिकलेची\N_NN .\RD_PUNC
+htd21684	म्यूनिख\N_NNP शहराला\N_NN तीन\QT_QTC मोठे\JJ दरवाजे\N_NN आहेत\V_VM .\RD_PUNC
+htd21685	सर्वात\RP_INTF पूर्वेला\N_NN इजार\N_NN गेट\N_NN (\RD_SYM इजारटूअर\N_NNP )\RD_SYM आणि\CC_CCD पश्‍चिमेला\N_NN चा‌र्ल्स\N_NNP गेट\N_NN [का‌र्ल्स\N_NN टूअर]\N_NN १४व्या\N_NN शतकात\N_NN बनवले\V_VM होते\V_VM .\RD_PUNC
+htd21686	दक्षिणेला\N_NN आहे\V_VM सेन्डलिंगर\N_NNP गेट\N_NN [\RD_SYM जेन्डलिंगर\N_NNP टूअर\N_NNP ]\RD_SYM ज्याची\PR_PRL मुख्य\JJ भिंत\N_NN १८०८\N_NN मध्ये\N_NST तुटली\V_VM होती\V_VM .\RD_PUNC
+htd21687	फेल्टहेर्न\N_NNP हॉलला\N_NN [\RD_SYM कमान्डर्स\N_NNP हॉल\N_NN ]\RD_SYM राजा\N_NN लुडविग\N_NNP प्रथमने\N_NN १९व्या\N_NN शतकात\N_NN बनवले\V_VM होते\V_VM आणि\CC_CCD म्यूनिखच्या\N_NNP मध्यकालीन\N_NN युगातील\N_NN ओळखीला\N_NN शाही\JJ निवासाच्या\N_NN शहराची\N_NN छवि\N_NN देऊन\V_VM बदलेले\V_VM होते\V_VM .\RD_PUNC
+htd21688	थेरेजिन\N_NNP विजे\N_NNP नामक\N_NN जुने\JJ स्थान\N_NN घोड्याच्या\N_NN शर्यतीचे\N_NN मैदान\N_NN आहे\V_VM .\RD_PUNC
+htd21689	आता\N_NST येथे\DM_DMD विश्‍वप्रसिद्ध\JJ ऑक्टोबर\N_NN फेस्ट\N_NN आयोजित\JJ केले\V_VM जाते\V_VM .\RD_PUNC
+htd21690	ह्याच्या\DM_DMR जवळच\RB एका\QT_QTC हॉलमध्ये\N_NN बावेरिया\N_NNP प्रांताच्या\N_NN प्रसिद्ध\JJ लोकांच्या\N_NN मूर्त्यां\N_NN ठेवल्या\V_VM आहेत\V_VM .\RD_PUNC
+htd21691	हॉल\N_NN ऑफ\N_NN फेम\N_NN १८४३\QT_QTC -\RD_PUNC १८५३\QT_QTC मध्ये\N_NST बनले\V_VM होते\V_VM .\RD_PUNC
+htd21692	ह्याच्या\DM_DMR समोर\N_NST कांस्य\N_NN मूर्ती\N_NN आहे्\V_VM जी\PR_PRL बावेरिया\N_NNP राज्याचे\N_NN प्रतिनिधित्त्व\N_NN करते\V_VM .\RD_PUNC
+htd21693	जर्मनीमध्ये\N_NNP १९७२\QT_QTC मध्ये\N_NST झालेल्या\V_VM म्यूनिख\N_NNP ओलंपिकच्या\N_NN काळात\N_NN बनलेला\V_VM प्रसिद्ध\JJ ओलंपिक\N_NNP टॉवर\N_NN [\RD_SYM ओलंपियाट्रुम\N_NN ]\RD_SYM देशातील\N_NN सर्वात\RP_INTF उंच\JJ मनोरा\N_NN आहे\V_VM जो\PR_PRL आज\RB दूरदर्शन\N_NN मनोरा\N_NN आहे\V_VM .\RD_PUNC
+htd21694	लिफ्टने\N_NN वर\N_NST जाऊन\V_VM सर्व\QT_QTF शहर\N_NN आणि\CC_CCD आल्प्स\N_NNP पर्वतांचे\N_NN दृश्य\N_NN पाहता\V_VM येते\V_VM .\RD_PUNC
+htd21695	म्यूनिखच्या\N_NNP पश्‍चिमेला\N_NN निमफेनबर्गचा\N_NN बारोक\N_NNP महाल\N_NN आहे\V_VM .\RD_PUNC
+htd21696	बावेरियाचे\N_NNP सम्राट\N_NN येथे\DM_DMD राहत\V_VM होते\V_VM .\RD_PUNC
+htd21697	महालाबरोबरच\N_NN बनवलेल्या\V_VM इमारतींमध्ये\N_NN आजदेखील\RB शाही\JJ कुटूंबाचे\N_NN लोक\N_NN राहतात\V_VM .\RD_PUNC
+htd21698	परी\N_NN महालाच्या\N_NN नावाने\N_NN विश्‍व\N_NN प्रसिद्ध\JJ महाल\N_NN राजा\N_NN लुडविग\N_NNP द्वितीय\QT_QTO ह्याच्याद्वारे\DM_DMR एका\QT_QTC पर्वतावर\N_NN बनवला\V_VM गेला\V_VM .\RD_PUNC
+htd21699	तो\DM_DMR महाल\N_NN बनवण्याचा\V_VM शौकीन\N_NN होता\V_VM आणि\CC_CCD त्याने\DM_DMR इतर\QT_QTF अनेक\QT_QTF महालदेखील\N_NN बनवले\V_VM .\RD_PUNC
+htd21700	’\RD_PUNC कॅथेड्रल\N_NN चर्च\N_NN ऑफ\N_NN ऑवर\N_NN लेडी\N_NN ’\RD_PUNC म्यूनिख\N_NNP शहराची\N_NN ओळख\N_NN आहे\V_VM .\RD_PUNC
+htd21701	ह्याच्या\DM_DMR आत\N_NST पाच\QT_QTC शतकापासून\N_NN पूर्ण\QT_QTF झालेल्या\V_VM कलाकृतींची\N_NN सुंदरता\N_NN बघायला\V_VM मिळते\V_VM .\RD_PUNC
+htd21702	सेंट\N_NN पीटर\N_NNP चर्च\N_NN म्यूनिखमधील\N_NNP सर्वात\RP_INTF जुने\JJ चर्च\N_NN आहे\V_VM .\RD_PUNC
+htd21703	ह्याच्या\DM_DMR व्यतिरिक्‍त\JJ अनेक\QT_QTF इतर\QT_QTF चर्चदेखील\N_NN आहेत\V_VM .\RD_PUNC
+htd21704	प्रसिद्ध\JJ इंग्लिश\N_NN गार्डन\N_NN ९००\QT_QTC एकर\N_NN क्षेत्रामध्ये\N_NN पसरलेले\V_VM आहे\V_VM .\RD_PUNC
+htd21705	दोनशे\QT_QTC वर्ष\N_NN जुने\JJ हे\DM_DMR उद्यान\N_NN सर्वात\RP_INTF मोठ्या\JJ उद्यानांपैकी\N_NN एक\QT_QTC आहे\V_VM .\RD_PUNC
+htd21706	वृक्षांच्या\N_NN घनदाट\JJ छायेत\N_NN पायी\N_NN चालणे\V_VM आणि\CC_CCD सायकल\N_NN चालवण्याचे\V_VM रस्ते\N_NN बनलेले\V_VM आहेत\V_VM .\RD_PUNC
+htd21707	इथे\DM_DMD काही\QT_QTF सरोवरंदेखील\N_NN आहेत\V_VM जी\PR_PRL हिवाळ्यात\N_NN गोठतात\V_VM .\RD_PUNC
+htd21708	ह्याच\DM_DMR उद्यानात\N_NN चार\QT_QTC बीयर\N_NNP गार्डनदेखील\N_NN आहेत\V_VM .\RD_PUNC
+htd21709	इथे\DM_DMD तुम्ही\PR_PRP तुमचे\PR_PRP जेवण\N_NN बाहेरुन\N_NN आणू\V_VM शकता\V_VAUX परंतु\CC_CCD बीयर\N_NNP तुम्हाला\PR_PRP गार्डनमध्ये\N_NN खरेदी\N_NN करावी\V_VM लागेल\V_VAUX .\RD_PUNC
+htd21710	म्यूनिखमध्ये\N_NNP अनेक\QT_QTF इतर\QT_QTF बीयर\N_NNP गार्डन\N_NN आणि\CC_CCD फाउंटेनदेखील\N_NN आहेत\V_VM .\RD_PUNC
+htd21711	अशा\JJ प्रकारे\N_NN १९७२\N_NN मध्ये\N_NST बनलेल्या\V_VM ओलंपिया\N_NNP सेंट्रम\N_NN पार्कमध्ये\N_NN अनेक\QT_QTF प्रकारचे\N_NN खेळ\N_NN ,\RD_PUNC सुविधा\N_NN उपलब्ध\JJ आहेत\V_VM .\RD_PUNC
+htd21712	एक\QT_QTC फुटबॉल\N_NN स्टेडियमदेखील\N_NN आहे\V_VM .\RD_PUNC
+htd21713	निमफेनबर्गमध्ये\N_NNP प्रसिद्ध\JJ वनस्पतिबाग\N_NN आहे\V_VM जेथे\DM_DMD विश्‍वभरातून\N_NN आणल्या\V_VM गेलेल्या\V_VM रोपट्यांना\N_NN पाहता\V_VM येते\V_VM .\RD_PUNC
+htd21714	म्यूनिखच्या\N_NNP बाहेर\N_NST स्टार्नबर्ग\N_NNP नामक\N_NN प्रसिद्ध\JJ सरोवर\N_NN आहे\V_VM .\RD_PUNC
+htd21715	२०\QT_QTC कि\N_NN .\RD_PUNC रुंद\N_NN आणि\CC_CCD ५\QT_QTC कि\N_NN .\RD_PUNC लांब\JJ हे\DM_DMR सरोवर\N_NN अत्यंत\RP_INTF लोकप्रिय\JJ आहे\V_VM .\RD_PUNC
+htd21716	वास्तविक\RB पाहता\V_VM येथील\DM_DMD नद्यां\N_NN इतक्या\QT_QTF स्वच्छ\JJ आहेत\V_VM की\CC_CCS ह्यांचे\DM_DMR सौंदर्य\N_NN पाहण्यासारखे\V_VM असते\V_VM .\RD_PUNC
+htd21717	सरोवराचे\N_NN पाणी\N_NN हिरवे\JJ आहे\V_VM .\RD_PUNC
+htd21718	अमरजे\N_NNP व\CC_CCD केमजे\N_NNP इतर\QT_QTF सरोवरे\N_NN आहेत\V_VM .\RD_PUNC
+htd21719	क्यूनिगजी\N_NNP नामक\N_NN एक\QT_QTC पहाडी\JJ सरोवरदेखील\N_NN आहे\V_VM जे\PR_PRL १०\QT_QTC किमी\N_NN लांब\JJ आहे\V_VM .\RD_PUNC
+htd21720	शहराच्या\N_NN मधोमध\N_NST वाहणारी\V_VM सर्वात\RP_INTF मोठी\JJ नदी\N_NN ’इजार’\N_NNP आहे\V_VM जी\PR_PRL म्यूनिखच्या\N_NNP सुंदरतेची\N_NN शोभा\N_NN वाढवते\V_VM .\RD_PUNC
+htd21721	आनंददायक\JJ हवामानात\N_NN म्यूनिखचे\N_NNP लोक\N_NN स्केट्स\N_NN घालून\V_VM रस्त्यावर\N_NN निघतात\V_VM .\RD_PUNC
+htd21722	सोमवारच्या\N_NN संध्याकाळी\N_NN तीन\QT_QTC तासासाठी\N_NN लोकांच्या\N_NN मनोरंजनासाठी\N_NN वाहतुकीच्या\N_NN साधनाला\N_NN इकडे-तिकडे\N_NST वळवले\V_VM जाते\V_VM जेणेकरून\CC_CCD लोक\N_NN निर्भयपणे\N_NN काही\QT_QTF रस्त्यांवर\N_NN स्केटिंग\N_NN करु\N_NN शकतील\V_VM .\RD_PUNC
+htd21723	अशाचप्रकारे\CC_CCD सायकलवर\N_NN देखील\RB काही\QT_QTF लोक\N_NN फिरण्यासाठी\V_VM निघतात\V_VM आणि\CC_CCD दूर-दूर\N_NST पर्यंत\CC_CCD जातात\V_VM .\RD_PUNC
+htd21724	मे\N_NN ते\DM_DMR अक्टोबर\N_NN पर्यंतचे\CC_CCD सहा\QT_QTC महिन्याचा\N_NN काळ\N_NN म्यूनिख\N_NNP भ्रमणासाठी\N_NN सर्वात\RP_INTF उपयुक्‍त\JJ वेळ\N_NN आहे\V_VM .\RD_PUNC
+htd21725	ह्यां\DM_DMR दिवसात\N_NN हवामान\N_NN थोडे\QT_QTF अनुकूल\JJ असते\V_VM .\RD_PUNC
+htd21726	जर\CC_CCS कधी\DM_DMQ तापमान\N_NN ३०\QT_QTC डिग्री\N_NN सेल्सियसच्या\N_NN आस-पास\N_NST किंवा\CC_CCD वर\N_NST पोहचले\V_VM तर\CC_CCS पाऊस\N_NN पडतो\V_VM .\RD_PUNC
+htd21727	तेव्हा\CC_CCS छत्रीची\N_NN आवश्यकता\N_NN देखील\RB पडू\V_VM शकते\V_VAUX .\RD_PUNC
+htd21728	नोव्हेंबरच्या\N_NN नंतर\RB कडाक्याच्या\N_NN थंडीचा\N_NN काळ\N_NN सुरू\JJ होतो\V_VM .\RD_PUNC
+htd21729	थंडीची\N_NN भिती\N_NN वाटत\V_VM नसेल\V_VAUX तर\CC_CCS ह्या\DM_DMR ऋतूची\N_NN देखील\RB वेगळीच\JJ मजा\N_NN आहे\V_VM .\RD_PUNC
+htd21730	आणि\CC_CCD विशेष\JJ गोष्ट\N_NN ही\DM_DMR आहे\V_VM की\CC_CCS थंडीत\N_NN ज्याअर्थी\CC_CCD पर्यटक\N_NN कमी\QT_QTF जातात\V_VM ह्यामुळे\CC_CCD सवलतींची\N_NN चांगली\JJ खैरात\N_NN असू\V_VM शकते\V_VAUX .\RD_PUNC
+htd21731	म्यूनिखला\N_NNP जाण्यासाठी\V_VM भारतातून\N_NNP आता\N_NST थेट\N_NN विमान\N_NN विना\RP_RPD थांबा\N_NN उपलब्ध\JJ आहे\V_VM .\RD_PUNC
+htd21732	ह्याच्या\DM_DMR व्यतिरिक्‍त\JJ सर्व\QT_QTF यूरोपीय\JJ विमान\N_NN कंपन्यांची\N_NN तेथे\DM_DMD जाण्यासाठी\V_VM विमान-उड्डाणे\N_NN आहेत\V_VM .\RD_PUNC
+htd21733	जर्मनीच्या\N_NNP लुफ्थांसा\N_NNP विमान\N_NN मार्गाला\N_NN सोडून\V_VM अन्य\QT_QTF सर्व\QT_QTF विमान\N_NN मार्गाचे\N_NN जहाज\N_NN आधी\N_NST आपल्या\PR_PRP देशात\N_NN जातात\V_VM .\RD_PUNC
+htd21734	तेथून\DM_DMD म्यूनिखसाठी\N_NNP कनेक्टिंग\N_NN फ्लाइट्स\N_NN मिळते\V_VM .\RD_PUNC
+htd21735	म्यूनिख\N_NNP विमानतळापासून\N_NN शहर\N_NN जवळजवळ\RB ९०\QT_QTC किमी\N_NN .\RD_PUNC दूर\N_NST आहे\V_VM .\RD_PUNC
+htd21736	प्रत्येक\QT_QTF विमानमार्गाच्या\N_NN बसेस\N_NN विमानतळ\N_NN आणि\CC_CCD शहराच्या\N_NN मधोमध\N_NST चालतात\V_VM .\RD_PUNC
+htd21737	मेट्रोदेखील\N_NN उपलब्ध\JJ आहेत\V_VM .\RD_PUNC
+htd21738	टॅक्सीचा\N_NN प्रवास\N_NN महागडा\JJ असतो\V_VM .\RD_PUNC
+htd21739	म्यूनिखमध्ये\N_NNP स्वस्त\JJ ,\RD_PUNC मध्यम\JJ वर्गीय\N_NN आणि\CC_CCD महगडे\JJ उपाहारगृह\N_NN उपलब्ध\JJ आहेत\V_VM परंतु\CC_CCD शहराच्या\N_NN किनार्‍यांवर\N_NN चांगल्या\JJ उपाहारगृहात\N_NN थांबता\V_VM येते\V_VM जी\PR_PRL भाडेदेखील\N_NN कमी\QT_QTF घेतात\V_VM .\RD_PUNC
+htd21740	म्यूनिखला\N_NNP येण्याच्या\V_VM आधी\N_NST सरकारी\JJ विभाग\N_NN या\DM_DMR विश्‍वसनीय\JJ ट्रॅव्हल\N_NN एजंटकडून\N_NN प्रत्येक\QT_QTF संभव\N_NN माहिती\N_NN घेणे\V_VM योग्य\JJ असते\V_VM .\RD_PUNC
+htd21741	यूरोपमधील\N_NNP आधिकांश\N_NN देशांमध्ये\N_NN काटकसरी\N_NN यूथ\N_NN होस्ट्ल्सदेखील\N_NN आहेत\V_VM जी\PR_PRL राहण्यासाठी\V_VM स्वस्त\JJ विकल्प\N_NN देतात\V_VM .\RD_PUNC
+htd21742	म्यूनिखचे\N_NNP दर्शनीय\JJ स्थळ\N_NN पाहण्यासाठी\V_VM ट्रॅव्हल\N_NN एजन्सी\N_NN साइट\N_NN सीइंग\N_NN टूर\N_NN आयोजित\JJ करतात\V_VM .\RD_PUNC
+htd21743	व्यक्‍तिगत\JJ रूपाने\N_NN गेल्यावर\V_VM टॅक्सीने\N_NN जवळजवळ\RB १००\QT_QTC यूरो\N_NN दर\N_NN तासांपर्यंत\N_NN खर्च\N_NN येतो\V_VM जो\PR_PRL महागाडा\JJ असतो\V_VM .\RD_PUNC
+htd21744	जाण्याच्या\V_VM आधी\N_NST रेल्वे\N_NN तिकीटे\N_NN वगैरेचे\N_NN पॅकेज\N_NN डील\N_NN आणि\CC_CCD सूट\N_NN वगैरे\N_NN बद्दल\N_NN माहिती\N_NN जरूर\RB करुन\V_VM घ्या\V_VM .\RD_PUNC
+htd21745	वृक्षांवर\N_NN झोपडीची\N_NN कल्पना\N_NN कधी\DM_DMQ अलग\JJ वाटते\V_VM तर\CC_CCS कधी\DM_DMQ खूप\QT_QTF रोमांटिक\N_NN परंतु\CC_CCD वृक्षांवर\N_NN झोपडीची\N_NN अनेक\QT_QTF सुविधावाले\N_NN असेल\V_VM तर\CC_CCS तेथे\DM_DMD राहण्याचे\V_VM मन\N_NN कोणाचे\DM_DMQ नाही\V_VAUX करणार\V_VM .\RD_PUNC
+htd21746	अमेरिकेच्या\N_NNP ओरेगोनमध्ये\N_NNP सुंदर\JJ दक्षिण\N_NN प्रदेशात\N_NN असेच\JJ एक\QT_QTC ट्रीहाउस\N_NN रिसॉर्ट\N_NN आहे\V_VM .\RD_PUNC
+htd21747	आउट\N_NN एन\N_NN अबाउट\N_NN आता\N_NST जगभरात\N_NN लोकप्रिय\JJ आहे\V_VM केवळ\JJ एका\QT_QTC निवासस्थानाच्या\N_NN रूपात\N_NN नाही\V_VAUX तर\CC_CCS जगभरात\N_NN वृक्षांवर\N_NN झोपडी\N_NN बनवण्याच्या\V_VM शौकीन\N_NN लोकांसाठी\N_NN एक\QT_QTC मार्गदर्शकाच्या\N_NN रूपात\N_NN .\RD_PUNC
+htd21748	सिसकियू\N_NNP पर्वतांच्या\N_NN मधोमध\N_NST ताकिलमाच्या\N_NNP सुंदर\JJ दरीत\N_NN ईस्ट\N_NN फोर्क\N_NN इलियोनिस\N_NNP नदीच्या\N_NN उगम\N_NN स्थानाच्या\N_NN बरोबर\JJ खाली\N_NST हे\DM_DMR ट्री\N_NN हाउस\N_NN रिसॉर्ट\N_NN आहे\V_VM .\RD_PUNC
+htd21749	ओक\N_NN वृक्षांच्या\N_NN फांद्यांवर\N_NN बनलेली\V_VM आहेत\V_VM वेगवेगळ्या\JJ तर्‍हेचे\N_NN ट्री\N_NN हाउस\N_NN .\RD_PUNC
+htd21750	सर्व\QT_QTF काही\QT_QTF वृक्षांवर\N_NN ;\RD_PUNC ही\DM_DMR एक\QT_QTC वेगळीच\N_NN दुनिया\N_NN दिसून\V_VM येते\V_VM .\RD_PUNC
+htd21751	परंतु\CC_CCD ह्या\DM_DMR निवासस्थानाला\N_NN उभे\JJ करण्यासाठी\V_VM केवळ\JJ कल्पनाच\N_NN नाही\V_VAUX तर\CC_CCS दीर्घ\JJ काळ\N_NN कायदेशीर\N_NN लढाईची\N_NN देखील\RB गरज\N_NN पडली\V_VM .\RD_PUNC
+htd21752	स्थानीय\JJ प्रशासनाने\N_NN टिकणार्‍यांच्या\N_NN सुरक्षेचा\N_NN हवाला\N_NN देत\V_VM ह्याला\DM_DMR परवाना\N_NN नाही\V_VAUX दिला\V_VM .\RD_PUNC
+htd21753	परवाना\N_NN नाही\V_VAUX मिळाला\V_VM तर\CC_CCS भाड्याने\N_NN नाही\V_VAUX दिले\V_VM जाऊ\V_VAUX शकत\V_VAUX होते\V_VAUX ह्यामुळे\CC_CCD ह्याच्या\DM_DMR संचालकांनी\N_NN खास\JJ टीशर्ट\N_NN विकून\V_VM खोल्या\N_NN मोफत\N_NN दिल्या\V_VM .\RD_PUNC
+htd21754	आठ\QT_QTC वर्षापर्यंत\N_NN चाललेल्या\V_VM कायद्याच्या\N_NN युद्धानंतर\N_NN स्थानीय\N_NN प्रशासनाने\N_NN ह्या\DM_DMR वृक्ष-खोल्यांमध्ये\N_NN सुरक्षा\N_NN व्यवस्थेचा\N_NN स्वीकार\N_NN केला\V_VM आणि\CC_CCD ह्याला\DM_DMR परवाना\N_NN व\CC_CCD ग्राहक\N_NN मिळाले\V_VM .\RD_PUNC
+htd21755	आज\RB ही\DM_DMR येथे\DM_DMD स्थापित\JJ ट्री\N_NN हाउस\N_NN इंस्टीट्यूट\N_NN जगात\N_NN एकच\N_NN जागा\N_NN आहे\V_VM जी\PR_PRL ट्री\N_NN हाउस\N_NN बनवण्याच्या\V_VM प्राथमिक\JJ अभियंत्याच्या\N_NN ,\RD_PUNC डिझाईन\N_NN व\CC_CCD रचनेच्या\N_NN पद्धतीबद्दल\N_NN गैरव्यावसायिक\N_NN शिक्षा\N_NN देते\V_VM .\RD_PUNC
+htd21756	हे\DM_DMR निवासस्थान\N_NN विलक्षण\JJ आहे\V_VM ह्यामुळे\CC_CCD अनेक\QT_QTF कायद्यांनी\N_NN जखडलेले\V_VM आहे\V_VM .\RD_PUNC
+htd21757	इथे\DM_DMD वेगवेगळ्या\JJ सुविधांनी\N_NN युक्त\JJ अनेक\QT_QTF ट्री\N_NN हाउस\N_NN आहेत\V_VM .\RD_PUNC
+htd21758	अनेक\QT_QTF ट्री\N_NN हाउस\N_NN असे\RB आहेत\V_VM जी\PR_PRL अनेक\QT_QTF सुविधांनी\N_NN परिपूर्ण\N_NN आहेत\V_VM .\RD_PUNC
+htd21759	जी\PR_PRL नाहीत\V_VM त्यांच्यासाठी\PR_PRL ट्री\N_NN रिसॉर्टमध्ये\N_NN मधोमध\N_NST एक\QT_QTC मोठे\JJ बाथहाऊस\N_NN व\CC_CCD पॅवेलियन\N_NN आहे\V_VM .\RD_PUNC
+htd21760	एप्रिलपासून\N_NN ऑक्टोबरपर्यंत\N_NN अठवड्यात\N_NN तीन\QT_QTC दिवसापर्यंत\N_NN दोन\QT_QTC तासासाठी\N_NN ह्या\DM_DMR रिसॉर्टचे\N_NN पर्यटन\N_NN करता\V_VM येते\V_VM .\RD_PUNC
+htd21761	ह्याच्यासाठी\DM_DMR भाडे\N_NN पाच\QT_QTC डॉलर\N_NN प्रत्येक\QT_QTF व्यक्‍तीला\N_NN आहे\V_VM .\RD_PUNC
+htd21762	ह्याशिवाय\CC_CCD अनेक\QT_QTF तर्‍हेचे\N_NN इतर\QT_QTF कार्यक्रमदेखील\N_NN आहेत\V_VM ज्यांच्यासाठी\PR_PRL शुल्क\N_NN देऊन\V_VM त्यांचा\DM_DMR आनंद\N_NN घेता\V_VM येतो\V_VAUX .\RD_PUNC
+htd21763	ह्यांमध्ये\PR_PRL घोडेस्वारी\N_NN व\CC_CCD राफ्टिंगपासून\N_NN आर्ट\N_NN आणि\CC_CCD क्राफ्टपर्यंत\N_NN सर्व\QT_QTF समाविष्ट\JJ आहे\V_VM .\RD_PUNC
+htd21764	परंतु\CC_CCD येथे\DM_DMD आपल्या\PR_PRP पाळीव\N_NN प्राण्यांना\N_NN घेऊन\V_VM जाण्याची\V_VM परवानगी\N_NN नाही\V_VM .\RD_PUNC
+htd21765	सुरक्षेच्या\N_NN दृष्टीने\N_NN वादळांच्या\N_NN दिवसात\N_NN किंवा\CC_CCD खूप\QT_QTF हिमवृष्टीच्या\N_NN दरम्यान\N_NN ह्या\DM_DMR रिसॉर्टमध्ये\N_NN राहण्याला\V_VM काही\QT_QTF प्रतिबंध\N_NN लावले\V_VM जातात\V_VM .\RD_PUNC
+htd21766	ह्याला\DM_DMR एक\QT_QTC ट्री\N_NN हाउस\N_NN वंडरलँड\N_NN म्हटले\V_VM जाऊ\V_VAUX शकते\V_VAUX .\RD_PUNC
+htd21767	पूर्ण\QT_QTF रिसॉर्ट\N_NN ३६\QT_QTC एकर\N_NN प्रदेशात\N_NN पसरलेले\V_VM आहे\V_VM .\RD_PUNC
+htd21768	पूर्ण\QT_QTF तर्‍हेने\N_NN एक\QT_QTC घरगुती\JJ उद्योग\N_NN आहे\V_VM .\RD_PUNC
+htd21769	ह्याला\DM_DMR बनवण्यासाठी\V_VM किती\PR_PRQ मेहनत\N_NN केली\V_VM असेल\V_VM हे\DM_DMR येथे\DM_DMD आल्यावर\V_VM समजले\V_VM जाऊ\V_VAUX शकते\V_VAUX .\RD_PUNC
+htd21770	परंतु\CC_CCD हे\DM_DMR निश्चितपणे\N_NN अशा\JJ जागा\N_NN आहे\V_VM ज्याचा\PR_PRL अनुभव\N_NN विलक्षणच\JJ असेल\V_VM .\RD_PUNC
+htd21771	पुढच्या\N_NST वेळेस\N_NN जर\CC_CCS अमेरिकेचे\N_NNP ओरेगोन\N_NNP प्रदेशात\N_NN गेलात\V_VM तर\CC_CCS येथे\DM_DMD जायला\V_VM विसरु\V_VM नका\V_VAUX .\RD_PUNC
+htd21772	चिनी\JJ दिनदर्शिकामध्ये\N_NN हे\DM_DMR ईअर\N_NN ऑफ\N_NN ऑक्स\N_NN [बैल]\N_NN आहे\V_VM .\RD_PUNC
+htd21773	ह्याची\DM_DMR धमक\N_NN हांगकांगमध्ये\N_NNP ऐकू\V_VM येत\V_VM आहे\V_VM मुख्यत:\RB ओशन\N_NNP पार्कमध्ये\N_NN .\RD_PUNC
+htd21774	धमक\N_NN अशी\JJ की\CC_CCS ऐंशी\QT_QTC लाख\QT_QTC डॉलर\N_NN पर्यंतची\CC_CCD भेट\N_NN दिली\V_VM जात\V_VM आहे\V_VAUX ज्यांमध्ये\CC_CCD कार\N_NN ,\RD_PUNC सियोलचे\N_NN हवाई\N_NN तिकीट\N_NN आणि\CC_CCD न\RP_NEG जाणो\V_VM काय-काय\DM_DMQ सामील\N_NN आहे\V_VM .\RD_PUNC
+htd21775	ह्याच्यासाठी\DM_DMR फक्त\JJ इतकेच\QT_QTF करावे\V_VM लागेल\V_VAUX की\CC_CCS २४\QT_QTC जानेवारी\N_NN ते\DM_DMR ८\QT_QTC फेब्रुवारी\N_NN ह्या\DM_DMR दरम्यान\N_NN तुम्हाला\PR_PRP हांगकांगच्या\N_NNP ओशन\N_NNP पार्कची\N_NN सहल\N_NN करावी\V_VM लागेल\V_VAUX आणि\CC_CCD लकी\N_NN ड्रॉमध्ये\N_NN भाग\N_NN घ्यावा\V_VM लागेल\V_VAUX .\RD_PUNC
+htd21776	ओशन\N_NNP पार्क\N_NN समुद्राच्या\N_NN किनार्‍यावर\N_NN हाँगकाँग\N_NNP बनलेले\V_VM एक\QT_QTC थीम\N_NN पार्क\N_NN आहे\V_VM .\RD_PUNC
+htd21777	जगभरात\N_NN प्रसिद्ध\JJ हे\DM_DMR पार्क\N_NN हाँगकाँगचे\N_NNP सर्वात\RP_INTF मोठ्या\JJ आकर्षणांपैकी\N_NN एक\QT_QTC आणखी\JJ मुलांबरोबर\N_NN सुट्ट्या\N_NN घालविण्यच्या\V_VM खूप\QT_QTF खास\JJ जागांपैकी\N_NN एक\QT_QTC आहे\V_VM .\RD_PUNC
+htd21778	हिमालयाचा\N_NNP मुलगा\N_NN हिमाचल\N_NNP प्रदेशाच्या\N_NN कुशीत\N_NN वसलेले\V_VM मणिकर्णची\N_NNP सुंदरता\N_NN देश\N_NN विदेशातील\N_NN लाखो\N_NN निसर्गप्रेमी\N_NN पर्यटकांना\N_NN वारंवार\RB बोलवते\V_VM .\RD_PUNC
+htd21779	मुख्यत:\RB असे\RB पर्यटक\N_NN जे\PR_PRL चर्मरोग\N_NN किंवा\CC_CCD संधिवात\N_NN ह्यासांरख्या\DM_DMR रोगांनी\N_NN त्रस्त\JJ आहेत\V_VM येथे\DM_DMD येऊन\V_VM स्वास्थ्य\N_NN सुख\N_NN मिळवतात\V_VM .\RD_PUNC
+htd21780	असे\RB मानले\V_VM जाते\V_VM की\CC_CCS येथे\DM_DMD उपलब्ध\JJ गंधकयुक्‍त\JJ गरम\JJ पाण्यात\N_NN काही\QT_QTF दिवस\N_NN स्नान\N_NN केल्याने\V_VM हे\DM_DMR आजार\N_NN ठीक\N_NN होतात\V_VM .\RD_PUNC
+htd21781	उकळत्या\V_VM पाण्याची\N_NN कुंड\N_NN मणिकर्णचे\N_NNP सर्वात\RP_INTF आश्चर्यपूर्वक\JJ आणि\CC_CCD विशिष्‍ट\JJ आकर्षण\N_NN आहेत\V_VM .\RD_PUNC
+htd21782	प्रत्येक\QT_QTF वर्षी\N_NN अनेक\QT_QTF युवा\N_NN स्कूटर\N_NN व\CC_CCD मोटरसायकल\N_NN ह्यांवरच\DM_DMD मणिकर्णच्या\N_NN प्रवासाचा\N_NN रोमांचक\JJ अनुभव\N_NN घेतात\V_VM .\RD_PUNC
+htd21783	मणिकर्ण\N_NNP मंडी-कुल्लू\N_NNP मार्गावर\N_NN कुल्लू\N_NNP पासून\CC_CCD १०\QT_QTC किमी\N_NN .\RD_PUNC अलिकडे\N_NST वसलेले\V_VM सुंदर\JJ कसबा\N_NN भुंतर\N_NNP पासून\CC_CCD ३५\QT_QTC किलोमीटर\N_NN आहे\V_VM .\RD_PUNC
+htd21784	भुंतरमध्ये\N_NNP छोट्या\JJ विमानांसाठी\N_NN विमानतळदेखील\N_NN आहे\V_VM .\RD_PUNC
+htd21785	भुंतरमध्येच\N_NNP व्यास\N_NNP व\CC_CCD पार्वती\N_NNP नद्यांचा\N_NN संगमदेखील\N_NN आहे\V_VM .\RD_PUNC
+htd21786	मनाली\N_NNP व\CC_CCD पुढे\N_NST जाणारे\V_VM विमान\N_NN पर्यटक\N_NN भुंतरला\N_NNP उतरुन\V_VM रस्त्याने\N_NN पुढे\N_NST जातात\V_VM .\RD_PUNC
+htd21787	नागमोडी\N_NN रस्त्यात\N_NN तिबेटी\JJ वस्त्या\N_NN आहेत\V_VM .\RD_PUNC
+htd21788	ह्याच\DM_DMR वाटेवर\N_NN शॉट\N_NN नावाचे\N_NN गावदेखील\N_NN आहे\V_VM जेथे\DM_DMD अनेक\QT_QTF वर्षापूर्वी\N_NN ढगफुटी\N_NN झाली\V_VM होती\V_VM आणि\CC_CCD पाण्याने\N_NN गावाला\N_NN नाल्यात\N_NN परिवर्तित\JJ केले\V_VM होते\V_VAUX .\RD_PUNC
+htd21789	समुद्रसपाटीपासून\N_NN सहा\QT_QTC हजार\QT_QTC फुट\N_NN उंचीवर\N_NN वसलेल्या\V_VM मणिकर्णचा\V_VM शाब्दिक\JJ अर्थ\N_NN ’कानातील\N_NN कर्णभूषण’\N_NN [\RD_SYM रिंग\N_NN ]\RD_SYM आहे\V_VM .\RD_PUNC
+htd21790	येथे\DM_DMD मंदिर\N_NN व\CC_CCD गुरुद्वारे\N_NN ह्यांच्या\DM_DMR विशाल\JJ इमारतीला\N_NN लागून\V_VM वाहते\V_VM पार्वती\N_NNP नदी\N_NN ,\RD_PUNC जिचा\PR_PRL वेग\N_NN रोमांचित\JJ करतो\V_VM .\RD_PUNC
+htd21791	नदीचे\N_NN पाणी\N_NN बर्फाप्रमाणे\N_NN थंड\JJ आहे\V_VM .\RD_PUNC
+htd21792	नदीच्या\N_NN उजव्या\JJ बाजूला\N_NN गरम\JJ पाण्याचे\N_NN उकळते\V_VM स्त्रोत\N_NN नदीशी\N_NN अडकताना\V_VM दिसतात\V_VM .\RD_PUNC
+htd21793	ह्या\DM_DMR थंड\JJ -\RD_PUNC उकळत्या\V_VM नैसर्गिक\JJ संतुलनाने\N_NN वैज्ञानिकांना\N_NN दीर्घ\JJ काळापासून\N_NN चकित\JJ केले\V_VM आहे\V_VM .\RD_PUNC
+htd21794	वैज्ञानिकांचे\N_NN म्हणणे\V_VM आहे\V_VM की\CC_CCS पाण्यामध्ये\N_NN रेडियम\N_NN आहे\V_VM .\RD_PUNC
+htd21795	मणिकर्णमध्ये\N_NNP बर्फ\N_NN खूप\QT_QTF पडतो\V_VM परंतु\CC_CCD थंडीच्या\N_NN काळातही\N_NN गुरुद्वारा\N_NN परिसराच्या\N_NN आत\N_NST बनवलेल्या\V_VM विशाल\JJ स्नानस्थळामध्ये\N_NN गरम\JJ पाण्यात\N_NN आरामात\N_NN स्नान\N_NN करु\N_NN शकता\V_VAUX जितका\QT_QTF वेळ\N_NN पाहिजे\V_VAUX तितके\QT_QTF ,\RD_PUNC परंतु\CC_CCD लक्षात\N_NN ठेवा\V_VM जास्त\QT_QTF वेळ\N_NN स्नान\N_NN केल्याने\V_VM चक्करदेखील\N_NN येऊ\V_VM शकते\V_VAUX .\RD_PUNC
+htd21796	पुरुष\N_NN व\CC_CCD महिलांसाठी\N_NN वेगवेगळी\JJ व्यवस्था\N_NN आहे\V_VM .\RD_PUNC
+htd21797	आश्चर्य\N_NN आहे\V_VM की\CC_CCS मणिकर्णच्या\N_NNP गच्च\JJ भरलेल्या\V_VM बाजारातदेखील\N_NN पाण्याचा\N_NN पुरवठा\N_NN केला\V_VM जातो\V_VM ज्याच्यासाठी\PR_PRL यथायोग्य\N_NN पाइप\N_NN लावले\V_VM आहेत\V_VM .\RD_PUNC
+htd21798	अनेक\QT_QTF उपाहारगृह\N_NN आणि\CC_CCD हॉटेलांमध्ये\N_NN हेच\DM_DMR गरम\JJ पाणी\N_NN उपलब्ध\JJ आहे\V_VM .\RD_PUNC
+htd21799	बाजारामध्ये\N_NN तिबेटी\N_NN व्यवसायी\N_NN पसरलेले\V_VM आहेत\V_VM जे\PR_PRL तिबेटी\JJ कला\N_NN व\CC_CCD संस्कृति\N_NN ह्यांच्याशी\DM_DMR जोडलेले\V_VM सामान\N_NN आणि\CC_CCD विदेशी\JJ वस्तू\N_NN खूप\QT_QTF उपलब्ध\JJ करतात\V_VM .\RD_PUNC
+htd21800	ह्यांच\DM_DMR गरम\JJ चष्म्यांमध्ये\N_NN गुरुद्वाराच्या\N_NN लंगरसाठी\N_NN मोठ-मोठ्या\JJ गोल\N_NN भांड्यामध्ये\N_NN चहा\N_NN बनतो\V_VM डाळ\N_NN व\CC_CCD भात\N_NN शिजतो\V_VM .\RD_PUNC
+htd21801	पर्यटकांसाठी\N_NN पांढर्‍या\JJ कपड्यांच्या\N_NN गाठोड्यात\N_NN भात\N_NN टाकून\V_VM धाग्याने\N_NN बांधून\V_VM विकले\V_VM जातात\V_VM .\RD_PUNC
+htd21802	मुख्यतः\RB नवदंपती\N_NN एकत्र\N_NN धागा\N_NN पकडून\V_VM तांदूळ\N_NN उकळवताना\V_VM पाहायला\V_VM मिळतात\V_VM त्यांना\DM_DMR वाटते\V_VM की\CC_CCS हे\DM_DMR त्यांच्या\DM_DMR आयुष्यातील\N_NN पहिले\QT_QTO ओपन\JJ किचन\N_NN आहे\V_VM आणि\CC_CCD खरोखरच\JJ रोमांचक\JJ देखील\RB इथे\DM_DMD पाणी\N_NN इतके\QT_QTF उकळते\V_VM की\CC_CCS जमीनीवर\N_NN पाय\N_NN टेकवत\V_VM नाही\V_VAUX .\RD_PUNC
+htd21803	इथल्या\DM_DMD गरम\JJ गंधक\N_NN पाण्याचे\N_NN तापमान\N_NN प्रत्येक\QT_QTF मोसममध्ये\N_NN एक\QT_QTC सारखे\JJ ९४\QT_QTC डिग्री\N_NN राहते\V_VM .\RD_PUNC
+htd21804	म्हणतात\V_VM की\CC_CCS ह्या\DM_DMR पाण्याचा\N_NN चहा\N_NN बनवला\V_VM गेला\V_VM तर\CC_CCS सामान्य\JJ पाण्याच्या\N_NN चहापेक्षा\N_NN आर्धी\N_NN साखर\N_NN टाकूनसुद्धा\V_VM दुप्पट\QT_QTF गोड\JJ होतो\V_VM .\RD_PUNC
+htd21805	गुरुद्वारेच्या\N_NN विशाल\JJ किल्ल्यासारख्या\N_NN इमारतीमध्ये\N_NN राहण्यासाठी\V_VM चांगली\JJ जागा\N_NN आहे\V_VM .\RD_PUNC
+htd21806	छोटे\JJ -\RD_PUNC मोठे\JJ हॉटेल\N_NN व\CC_CCD अनेक\QT_QTF खाजगी\JJ अतिथिगृह\N_NN देखील\RB आहेत\V_VM .\RD_PUNC
+htd21807	राहण्यासाठी\V_VM तीन\QT_QTC किलोमीटर\N_NN आधी\N_NST कसोलदेखील\N_NN एक\QT_QTC उत्तम\JJ पर्याय\N_NN आहे\V_VM .\RD_PUNC
+htd21808	मणिकर्णमध्ये\N_NNP चांगले\JJ संपर्क\N_NN सूत्र\N_NN ०१९०२-२७३७२०\N_NN [\RD_SYM गुरुद्वारा\N_NN ]\RD_SYM आहे\V_VM .\RD_PUNC
+htd21809	मणिकर्ण\N_NNP शिखांच्या\N_NN धार्मिक\JJ स्थळांमध्ये\N_NN खास\JJ महत्त्व\N_NN राखून\V_VM आहे\V_VM .\RD_PUNC
+htd21810	गुरुद्वारा\N_NN मणिकर्ण\N_NNP साहिब\N_NN गुरु\N_NN नानकदेवच्या\N_NNP येथील\DM_DMD प्रवासाच्या\N_NN स्मरणार्थ\N_NN बनवले\V_VM होते\V_VM .\RD_PUNC
+htd21811	ह्यामुळे\CC_CCD पंजाबमधून\N_NNP मोठ्या\JJ संख्येने\N_NN लोक\N_NN येथे\DM_DMD येतात\V_VM .\RD_PUNC
+htd21812	पूर्ण\QT_QTF वर्ष\N_NN येथे\DM_DMD दोन्हींवेळा\N_NN लंगर\N_NN चालते\V_VM .\RD_PUNC
+htd21813	परंतू\CC_CCD हिंदू\N_NN आख्यायिकांमध्ये\N_NN याचे\PR_PRL नाव\N_NN ह्या\DM_DMR दरीत\N_NN शंकराबरोबर\N_NNP भ्रमण\N_NN करताना\V_VM पार्वतीचे\N_NNP कानातले\N_NN [\RD_SYM कर्ण\N_NN ]\RD_SYM कर्णभूषण\N_NN [\RD_SYM मणि\N_NN ]\RD_SYM हरवल्यामुळे\V_VM पडले\V_VM .\RD_PUNC
+htd21814	एक\QT_QTC आख्यायिका\N_NN हीदेखील\DM_DMQ आहे\V_VM की\CC_CCS मनूने\N_NNP येथेच\N_NN पूरामुळे\N_NN झालेल्या\V_VM विनाशानंतर\N_NN मानवाची\N_NN रचना\N_NN केली\V_VM .\RD_PUNC
+htd21815	येथे\DM_DMD रघुनाथ\N_NNP मंदिर\N_NN आहे\V_VM .\RD_PUNC
+htd21816	म्हटले\V_VM जाते\V_VM की\CC_CCS कुल्लूच्या\N_NNP राजाने\N_NN अयोध्येतून\N_NNP रामाची\N_NNP मू्र्ति\N_NN आणून\V_VM येथे\DM_DMD स्थापित\JJ केली\V_VM होती\V_VM .\RD_PUNC
+htd21817	येथे\DM_DMD शंकराचेदेखील\N_NNP एक\QT_QTC जुने\JJ मंदिर\N_NN आहे\V_VM .\RD_PUNC
+htd21818	ह्या\DM_DMR जागेच्या\N_NN महतीचे\N_NN अनुमान\N_NN ह्याच\DM_DMR गोष्टींवरुन\N_NN लावता\V_VM येते\V_VM की\CC_CCS कुल्लू\N_NNP दरीतील\N_NN अधिकांश\QT_QTF देवता\N_NN वेळो-वेळी\N_NN आपल्या\PR_PRP स्वारीबरोबर\N_NN येथे\DM_DMD येत\V_VM राहतात\V_VM .\RD_PUNC
+htd21819	मणिकर्ण\N_NNP इतर\QT_QTF अनेक\QT_QTF आकर्षक\N_NN पर्यटनस्थळांचे\N_NN आधारस्थळदेखील\N_NN आहे\V_VM .\RD_PUNC
+htd21820	येथून\DM_DMD आर्धा\N_NN किमी\N_NN दूर\N_NST ब्रह्म\N_NNP गंगा\N_NNP आहे\V_VM जेथे\DM_DMD पार्वती\N_NNP नदी\N_NN व\CC_CCD ब्रह्म\N_NNP गंगा\N_NNP मिळतात\V_VM येथे\DM_DMD थोडावेळ\N_NN थांबणे\V_VM निसर्गाशी\N_NN मन\N_NN भरुन\V_VM मिळणे\V_VM आहे\V_VM .\RD_PUNC
+htd21821	दिड\QT_QTC किमी\N_NN .\RD_PUNC दूर\N_NST नारायणपूरी\N_NNP आहे\V_VM ,\RD_PUNC ५\QT_QTC किमी\N_NN .\RD_PUNC दूर\N_NST राकसट\N_NN आहे\V_VM ,\RD_PUNC जेथे\DM_DMD रूपगंगा\N_NNP वाहते\V_VM .\RD_PUNC
+htd21822	येथे\DM_DMD रूपचा\N_NN आशय\N_NN चांदीशी\N_NN आहे\V_VM .\RD_PUNC
+htd21823	पार्वती\N_NNP पदीच्या\N_NN डाव्या\JJ बाजूला\N_NN १६\QT_QTC किलोमीटर\N_NN दूर\N_NST आणि\CC_CCD १६००\QT_QTC मीटर\N_NN कठिण\JJ चढाईनंतर\N_NN येणारे\V_VM सुंदर\JJ स्थळ\N_NN ’पुलगा’\N_NNP जीवनाच्या\N_NN अनुभवांमध्ये\N_NN चांगलीच\JJ वृद्धी\N_NN करते\V_VM .\RD_PUNC
+htd21824	अशा\JJ तर्‍हेने\N_NN २२\QT_QTC किमी\N_NN .\RD_PUNC दूर\N_NST रुद्रनाथ\N_NNP जवळजवळ\RB ८०००\QT_QTC फुट\N_NN उंचीवर\N_NN वसलेले\V_VM आहे\V_VM आणि\CC_CCD पवित्रस्थळ\N_NN मानले\V_VM जाते\V_VM .\RD_PUNC
+htd21825	येथे\DM_DMD मोकळे\JJ वाहते\V_VM पाणी\N_NN प्रत्येक\QT_QTF पर्यटकाला\N_NN नवीन\JJ अनुभव\N_NN देते\V_VM .\RD_PUNC
+htd21826	मणिकर्णपासून\N_NNP जवळजवळ\RB २५\QT_QTC किमी\N_NN दूर\N_NST ,\RD_PUNC दहा\QT_QTC हजार\QT_QTC फुटपेक्षा\N_NN जास्त\QT_QTF उंचीवर\N_NN असलेले\V_VM खीरगंगादेखील\N_NNP गरम\JJ जल\N_NN स्त्रोतांसाठी\N_NN ओळखले\V_VM जाते\V_VM .\RD_PUNC
+htd21827	येथील\DM_DMD पाण्यामध्ये\N_NN देखील\RB औषधीय\N_NN तत्त्व\N_NN आहेत\V_VM .\RD_PUNC
+htd21828	एक\QT_QTC स्थळ\N_NN पांडव\N_NNP पुल\N_NN ४५\QT_QTC किमी\N_NN .\RD_PUNC दूर\N_NST आहे\V_VM .\RD_PUNC
+htd21829	उन्हाळ्यामध्ये\N_NN मणिकर्ण\N_NNP येणारे\V_VM रोमांचप्रेमी\N_NN जवळजवळ\RB ११५\QT_QTC किमी\N_NN .\RD_PUNC दूर\N_NST मानतलाईपर्यंत\N_NNP जाऊन\V_VM पोहचतात\V_VM .\RD_PUNC
+htd21830	मानतलाईसाठी\N_NNP मणिकर्णपासून\N_NNP तीन\QT_QTC -\RD_PUNC चार\QT_QTC दिवस\N_NN लागतात\V_VM .\RD_PUNC
+htd21831	निर्जन\JJ रस्त्यामुळे\N_NN खाण्या\V_VM -\RD_PUNC पिण्याचे\V_VM सामान\N_NN ,\RD_PUNC औषध\N_NN वगैरे\N_NN बरोबर\JJ घेऊन\V_VM जाणे\V_VM खूप\QT_QTF जरूरी\JJ आहे\V_VM .\RD_PUNC
+htd21832	ह्या\DM_DMR दुर्गम\JJ रस्त्यावर\N_NN मार्गाबद्दल\N_NN पूर्ण\QT_QTF माहिती\N_NN असणार्‍या\V_VM एका\QT_QTC योग्य\JJ व्यक्‍तीची\N_NN साथ\N_NN असणे\V_VM खूप\QT_QTF जरूरी\JJ आहे\V_VM .\RD_PUNC
+htd21833	संसाराची\N_NN विरळ\JJ ,\RD_PUNC आपल्या\PR_PRP प्रकारची\N_NN एकमेव\JJ संस्कृति\N_NN व\CC_CCD लोक\N_NN तांत्रिक\JJ शासन\N_NN व्यवस्था\N_NN ठेवणारे\V_VM अद्‍भुत\JJ गाव\N_NN ’मलाणाचा’\N_NNP मार्गदेखील\N_NN मणिकर्णपासून\N_NNP जवळजवळ\RB १५\QT_QTC कि\N_NN .\RD_PUNC मागे\N_NST ’जरी’\N_NN नामक\N_NN स्थळावरुन\N_NN जातो\V_VM मलाणासाठी\N_NNP ’नग्गर’हून\N_NNP देखील\RB जवळजवळ\RB १५\QT_QTC कि\N_NN .\RD_PUNC पायी\N_NN रस्ता\N_NN आहे\V_VM .\RD_PUNC
+htd21834	अशा\JJ तर्‍हेने\N_NN ही\DM_DMR पूर्ण\QT_QTF पार्वती\N_NNP दरी\N_NN ट्रेकिंगच्या\N_NN शौकीनांसाठी\N_NN स्वर्गासारखी\N_NN आहे\V_VM .\RD_PUNC
+htd21835	कित्येक\QT_QTF पर्यटकांकडून\N_NN राहून\V_VM जाते\V_VM हे\DM_DMR कसोल\N_NNP जे\PR_PRL की\CC_CCS मणिकर्णपासून\N_NNP तीन\QT_QTC कि\N_NN .\RD_PUNC आधी\N_NST येते\V_VM .\RD_PUNC
+htd21836	येथे\DM_DMD पार्वती\N_NNP नदीच्या\N_NN किनार्‍यावर\N_NN ,\RD_PUNC वृक्षांच्या\N_NN मधोमध\N_NST वसलेला\V_VM मोकळेपणा\N_NN मध्ये\N_NST पसरलेली\V_VM पांढरी\JJ वाळू\N_NN जी\PR_PRL पाण्याला\N_NN हिरव्या\JJ गवतापासून\N_NN वेगळे\JJ करते\V_VM येथील\DM_DMD दृश्यांना\N_NN विशेष\JJ वेगळे\JJ बनवते\V_VM .\RD_PUNC
+htd21837	येथे\DM_DMD राहण्यासाठी\V_VM हिमाचल\N_NNP पर्यटनाच्या\N_NN झोपड्यादेखील\N_NN आहेत\V_VM .\RD_PUNC
+htd21838	मणिकर्णाच्या\N_NNP प्रवासाच्या\N_NN दरम्यान\N_NN आकर्षक\N_NN वृक्ष\N_NN रोपट्यांच्या\N_NN बरोबर\JJ अनेक\QT_QTF रंगांच्या\N_NN मातीच्या\N_NN मिलाफामुळे\N_NN रचलेली\V_VM आकर्षक\N_NN पर्वतरांगांचे\N_NN दृश्य\N_NN मनात\N_NN ठसते\V_VM .\RD_PUNC
+htd21839	निसर्गाकडे\N_NN आणखीदेखील\RB अनेक\QT_QTF अद्वितीय\JJ रंग\N_NN आहेत\V_VM .\RD_PUNC
+htd21840	कित्येक\QT_QTF सुंदर\JJ खडक\N_NN ,\RD_PUNC पारदर्शी\N_NN क्रिस्टल\N_NN ज्यांचा\N_NN लुक\N_NN टोपाजसारखा\N_NN असतो\V_VM मिळतात\V_VM तेव्हा\CC_CCS अनेक\QT_QTF खडक\N_NN आपला\PR_PRP वेगळाच\JJ आकार\N_NN घेतात\V_VM जसे\RB की\CC_CCS मधोमध\N_NST रस्त्यावर\N_NN टांगलेले\V_VM गरूडाचे\N_NN नाक\N_NN जे\PR_PRL दूरुन\N_NST हुबेहुब\RB एखाद्या\JJ गरुडाच्या\N_NN डोक्यासारखे\N_NN वाटते\V_VM .\RD_PUNC
+htd21841	निसर्गप्रेमी\N_NN पर्यटकांना\N_NN सुंदर\JJ ड्रिफ्टवुड्‍स\N_NN नाही\V_VM तर\CC_CCS जंगली\JJ फूल-पाने\N_NN मिळतात\V_VM जे\PR_PRL त्यांच्या\PR_PRL अतिथि\N_NN खोलीचा\N_NN संस्मरणीय\N_NN भाग\N_NN बनतात\V_VM आणि\CC_CCD मणिकर्णच्या\N_NNP रोमांचक\JJ आठवणींचे\N_NN स्थायी\N_NN साक्षीदार\N_NN बनून\V_VM राहतात\V_VM .\RD_PUNC
+htd21842	आपल्या\PR_PRP जीवनात\N_NN अशा\JJ टवाळकीमुळे\N_NN रोमांच\N_NN व\CC_CCD रोमांस\N_NN नेहमी\RB जिवंत\JJ राहतो\V_VM कारण\CC_CCD की\CC_CCS पर्वत\N_NN नेहेमी\RB बोलवतात\V_VM आणि\CC_CCD आपण\PR_PRP जात\V_VM राहतो\V_VM .\RD_PUNC
+htd21843	समुद्रसपाटीपासून\N_NN १७६०\QT_QTC मीटर\N_NN उंचीवर\N_NN स्थित\JJ मणिकर्ण\N_NNP कुल्लूपासून\N_NNP ४५\QT_QTC किलोमीटर\N_NN दूर\N_NST आहे\V_VM .\RD_PUNC
+htd21844	भुंतर\N_NNP पर्यंत\CC_CCD राष्‍ट्रीय\JJ राजमार्ग\N_NN आहे\V_VM जो\PR_PRL पुढे\N_NST अरुंद\JJ पर्वतीय\JJ रस्त्यामध्ये\N_NN बदलेला\V_VM असतो\V_VM .\RD_PUNC
+htd21845	१९०५\QT_QTC मध्ये\N_NST आलेल्या\V_VM विनाशकारी\JJ भूकंपानंतर\N_NN ह्या\DM_DMR प्रदेशाचा\N_NN भूगोल\N_NN खूप\QT_QTF -\RD_PUNC काही\QT_QTF बदललेला\V_VM होता\V_VM .\RD_PUNC
+htd21846	पठाणकोट\N_NNP [\RD_SYM २८५\QT_QTC किमी\N_NN ]\RD_SYM आणि\CC_CCD चंदीगड\N_NNP [\RD_SYM २५८\QT_QTF किमी\N_NN ]\RD_SYM सर्वात\RP_INTF जवळचे\JJ रेल्वे\N_NN स्थानक\N_NN आहे\V_VM .\RD_PUNC
+htd21847	दिल्लीपासून\N_NNP भुंतरसाठी\N_NNP दररोज\RB विमानसेवादेखील\N_NN आहे\V_VM .\RD_PUNC
+htd21848	मणिकर्णला\N_NNP तुम्ही\PR_PRP कुठल्याही\DM_DMQ ऋतुत\N_NN जाऊ\V_VM शकता\V_VAUX .\RD_PUNC
+htd21849	परंतू\CC_CCD जानेवारीमध्ये\N_NN येथे\DM_DMD बर्फ\N_NN पडू\V_VM शकतो\V_VAUX .\RD_PUNC
+htd21850	तेव्हा\CC_CCS थंडी\N_NN कडाक्याची\N_NN असते\V_VM .\RD_PUNC
+htd21851	मार्चनंतर\N_NN हवामान\N_NN थोडे\QT_QTF अनुकूल\JJ होऊ\V_VM लागते\V_VM .\RD_PUNC
+htd21852	पावसाळ्यात\N_NN ह्या\DM_DMR प्रदेशाचा\N_NN प्रवास\N_NN जोखीम\N_NN असलेला\V_VM होऊ\V_VM शकतो\V_VAUX .\RD_PUNC
+htd21853	जाण्याच्या\V_VM आधी\N_NST हवामानाची\N_NN माहिती\N_NN जरूर\RB करुन\V_VM घ्या\V_VM .\RD_PUNC
+htd21854	पार्वती\N_NNP नदीमध्ये\N_NN स्नान\N_NN करण्याची\V_VM जोखिम\N_NN घेऊ\V_VM नये\V_VAUX .\RD_PUNC
+htd21855	केवळ\JJ ह्या\DM_DMR नदीचे\N_NN पाणी\N_NN अत्यंत\RP_INTF थंड\JJ आहे\V_VM असे\RB नाही\V_VM तर\CC_CCS वेग\N_NN इतका\QT_QTF तीव्र\JJ आहे\V_VM की\CC_CCS निपुण\JJ पोहणारादेखील\N_NN आपले\PR_PRP संतुलन\N_NN नाही\V_VAUX राखू\V_VM शकत\V_VAUX .\RD_PUNC
+htd21856	खूप\QT_QTF लोक\N_NN अपघातात\N_NN बळी\N_NN पडलेत\V_VM कारण\CC_CCD की\CC_CCS एका\QT_QTC क्षणाचा\N_NN देखील\RB निष्काळजीपणा\N_NN आणि\CC_CCD वाचवण्याचा\V_VM काहीही\QT_QTF वाव\N_NN नाही\V_VM .\RD_PUNC
+htd21857	सूरजकुंड\N_NNP मेळ्याप्रमाणेच\N_NN ताज\N_NN महोत्त्सवदेखील\N_NN शिल्प\N_NN ,\RD_PUNC कला\N_NN ,\RD_PUNC संगीत\N_NN व\CC_CCD स्वाद\N_NN ह्यांच्या\DM_DMR मिश्रणाचे\N_NN आयोजन\N_NN आहे\V_VM .\RD_PUNC
+htd21858	वसंत\N_NNP ऋतू\N_NN येता\V_VM -\RD_PUNC येता\V_VM ताजनगरी\N_NNP आग्रा\N_NNP ह्यांमध्ये\DM_DMR सर्व\QT_QTF रंग\N_NN विखुरले\V_VM जातात\V_VM .\RD_PUNC
+htd21859	महोत्त्सव\N_NN ताजमहालाच्या\N_NNP एकदम\RB जवळ\RB शिल्पग्राममध्ये\N_NNP होते\V_VM .\RD_PUNC
+htd21860	महोत्त्सवाची\N_NN सुरुवात\N_NN मुघल\N_NN साम्राज्याच्या\N_NN वैभवाची\N_NN पूर्ण\QT_QTF छटा\N_NN विखुरण्याबरोबर\V_VM होते\V_VM .\RD_PUNC
+htd21861	येथे\DM_DMD तुम्हाला\PR_PRP आग्र्याच्या\N_NNP संगमरमरचे\N_NN ,\RD_PUNC सहारनपूरच्या\N_NNP लाकडाचा\N_NN ,\RD_PUNC मुरादाबादच्या\N_NNP पितळ्याचा\N_NN ,\RD_PUNC भदोहीच्या\N_NNP गालिच्याचा\N_NN ,\RD_PUNC खुर्जाच्या\N_NNP मातीचा\N_NN ,\RD_PUNC लखनौच्या\N_NNP चिकनचे\N_NN ,\RD_PUNC बनारसच्या\N_NNP सिल्कचे\N_NN काम\N_NN पाहायला\V_VM मिळेल\V_VM .\RD_PUNC
+htd21862	उत्तरप्रदेशाच्या\N_NNP प्रत्येक\QT_QTF प्रदेशाचे\N_NN विशिष्ट\JJ अन्नपदार्थ\N_NN चाखण्यास\V_VM मिळतील\V_VM .\RD_PUNC
+htd21863	लोकनृत्याचे\N_NN देखील\RB भरपूर\QT_QTF आयोजन\N_NN होते\V_VM .\RD_PUNC
+htd21864	येथे\DM_DMD तुम्ही\PR_PRP नाटिकादेखील\N_NN बघू\V_VM शकता\V_VAUX ,\RD_PUNC राजस्थानचे\N_NNP सापाचे\N_NN नृत्यदेखील\N_NN आणि\CC_CCD महाराष्‍ट्राची\N_NNP लावणीदेखील\N_NN .\RD_PUNC अगदीं\RP_INTF त्याच\DM_DMR अंदाजामध्ये\N_NN जसे\RB शतकानू\N_NN शतकापासून\N_NN चालत\V_VM आलेले\V_VM आहेत\V_VM .\RD_PUNC
+htd21865	भारताच्या\N_NNP इतिहासात\N_NN आग्रा\N_NNP आणि\CC_CCD ताजमहाल\N_NNP ह्यांची\DM_DMR एक\QT_QTC खास\JJ जागा\N_NN आहे\V_VM .\RD_PUNC
+htd21866	त्याला\DM_DMR अनुभवण्याची\V_VM ह्यापेक्षा\DM_DMR चांगली\JJ संधी\N_NN आणखी\RB कुठलीच\DM_DMQ नाही\V_VAUX होऊ\V_VM शकत\V_VAUX .\RD_PUNC
+htd21867	राजस्थानच्या\N_NNP शेखावटी\N_NNP विभागाची\N_NN विशिष्‍ट\JJ कला\N_NN व\CC_CCD संस्कृतिला\N_NN प्रोत्साहन\N_NN देण्यासाठी\V_VM दरवर्षी\RB राज्याचे\N_NN पर्यटन\N_NN विभाग\N_NN आणि\CC_CCD सीकर\N_NN ,\RD_PUNC चुरू\N_NN व\CC_CCD झुंझूनू\N_NN ह्यांच्या\DM_DMR जिल्हा\N_NN प्रशासनांद्वारे\N_NN एकत्रितपणे\N_NN ह्या\DM_DMR मेळ्याचे\N_NN आयोजन\N_NN केले\V_VM जाते\V_VM .\RD_PUNC
+htd21868	राजस्थानमध्ये\N_NNP पर्यटक\N_NN सामान्यतः\RB ह्या\DM_DMR प्रदेशात\N_NN नाही\V_VAUX पोहचू\V_VM शकत\V_VAUX .\RD_PUNC
+htd21869	ह्या\DM_DMR मेळा\N_NN पर्यटनालादेखील\N_NN नवी\N_NN जागा\N_NN देण्याचा\V_VM प्रयत्न\N_NN आहे\V_VM .\RD_PUNC
+htd21870	हा\DM_DMR प्रदेश\N_NN मोठ्या\JJ जलद\RB ग्रामीण\JJ पर्यटनाचे\N_NN केंद्रदेखील\N_NN बनत\V_VM चालले\V_VM आहे\V_VM .\RD_PUNC
+htd21871	तीन\QT_QTC जिल्ह्यांमध्ये\N_NN होणार्‍या\V_VM ह्या\DM_DMR मेळ्याचे\N_NN केंद्र\N_NN नवलगडमध्ये\N_NNP होते\V_VM जे\PR_PRL आपल्या\PR_PRP हवेलींवर\N_NN केलेल्या\V_VM फ्रेस्को\N_NN पेंटिंगच्या\N_NN माध्यमातून\N_NN जगभरात\N_NN लोकप्रिय\JJ आहे\V_VM .\RD_PUNC
+htd21872	ह्या\DM_DMR हवेलींना\N_NN जगातील\N_NN सर्वात\RP_INTF मोठे\JJ मोकळे\JJ कलादालनदेखील\N_NN म्हटले\V_VM जाते\V_VM .\RD_PUNC
+htd21873	वाळवंटाला\N_NN त्याच्या\DM_DMR संपूर्ण\QT_QTF वैभवाबरोबर\N_NN पाहण्याची\V_VM अद्‍भुत\JJ संधी\N_NN .\RD_PUNC
+htd21874	राजस्थान\N_NNP पर्यटन\N_NN विकास\N_NN महामंडळाद्वारे\N_NN (\RD_SYM आरटीडीसी\N_NN )\RD_SYM दरवर्षी\RB हिवाळ्यात\N_NN आयोजित\JJ केल्या\V_VM जाणार्‍या\V_VM ह्या\DM_DMR मेळ्याच्या\N_NN तीन\QT_QTC दिवसात\N_NN येथील\DM_DMD सांस्कृतिक\JJ छटा\N_NN आपल्या\PR_PRP बहरात\N_NN असते\V_VM .\RD_PUNC
+htd21875	गैर\JJ व\CC_CCD अग्निनृत्य\N_NN ही\DM_DMR येथील\DM_DMD मुख्य\JJ आकर्षणे\N_NN आहेत\V_VM .\RD_PUNC
+htd21876	फेटा\N_NN बांधणे\V_VM ,\RD_PUNC मिशींची\N_NN लांबी\N_NN ,\RD_PUNC पाणी\N_NN भरण्याचे\V_VM काम\N_NN करणार्‍या\V_VM स्त्रियांची\N_NN मटका\N_NN शर्यत\N_NN ,\RD_PUNC रस्सीखेच\N_NN आणि\CC_CCD मि\N_NN .\RD_PUNC डेजर्ट\N_NN सारख्या\JJ स्पर्धादेखील\N_NN होतात\V_VM .\RD_PUNC
+htd21877	अनेक\QT_QTF स्पर्धांमध्ये\N_NN विदेशी\JJ पर्यटकदेखील\N_NN उत्साहाने\N_NN भाग\N_NN घेतात\V_VM .\RD_PUNC
+htd21878	मेळ्याचा\N_NN समारोप\N_NN माघ\N_NN पौर्णिमेच्या\N_NN दिवशी\N_NN होते\V_VM .\RD_PUNC
+htd21879	शुभ्र\JJ चांदण्यामध्ये\N_NN चमचमणार्‍या\V_VM वाळूच्या\N_NN टेकड्यांवर\N_NN उंटावरुन\N_NN फेरी\N_NN मारणे\V_VM आणि\CC_CCD लोकनृत्य\N_NN पाहण्याचा\V_VM आनंदच\N_NN काही\QT_QTF वेगळा\JJ आहे\V_VM .\RD_PUNC
+htd21880	वाळवंट\N_NN ,\RD_PUNC मुख्यत:\RB जैसलमेर\N_NNP पाहण्यासाठी\V_VM हा\DM_DMR सर्वात\RP_INTF चांगला\JJ काळ\N_NN आहे\V_VM जेव्हा\CC_CCS वाळूवर\N_NN अनवाणी\N_NN चालताना\V_VM तुमचे\PR_PRP तळवे\N_NN जळणार\V_VM नाही\V_VAUX उलट\N_NN शीतलता\N_NN देतील\V_VM .\RD_PUNC
+htd21881	उत्तर\N_NN भारतातील\N_NNP सर्वात\RP_INTF बहुप्रतीक्षित\JJ मेळ्यांपैकी\N_NN ’सूरजकुंड\N_NNP हस्तशिल्प\N_NN मेळा’\N_NN एक\QT_QTC आहे\V_VM .\RD_PUNC
+htd21882	दरवर्षी\N_NN ह्याच्या\PR_PRP आयोजनाची\N_NN तारीख\N_NN निश्चित\JJ होण्याच्या\V_VM आधी\N_NST योजना\N_NN बनवणे\V_VM थोडे\QT_QTF सोपे\JJ असते\V_VM .\RD_PUNC
+htd21883	हस्तशिल्प\N_NN ,\RD_PUNC लोकनृत्य\N_NN व\CC_CCD लोककला\N_NN ह्यांचा\DM_DMR अद्‍भुत\JJ संगम\N_NN हरियाणा\N_NNP पर्यटनाच्या\N_NN ह्या\DM_DMR आयोजनामध्ये\N_NN बघायला\V_VM मिळतो\V_VM .\RD_PUNC
+htd21884	ह्या\DM_DMR वेळेस\N_NN पहिल्यांदाच\N_NN सार्क\N_NNP देशांच्या\N_NN शिल्पकारांशिवाय\N_NN मिस्र\N_NNP ,\RD_PUNC थायलँड\N_NNP व\CC_CCD ब्राजील\N_NNP ह्यांचे\DM_DMR देखील\RB शिल्पकार\N_NN सहभाग\N_NN घेतील\V_VM .\RD_PUNC
+htd21885	उघड\V_VM आहे\V_VM की\CC_CCS ह्या\DM_DMR वेळेपासून\N_NN ह्या\DM_DMR शिल्प\N_NN मेळ्याचे\N_NN स्वरूप\N_NN आंतरराष्‍ट्रीय\JJ होईल\V_VM .\RD_PUNC
+htd21886	राष्‍ट्रपती\N_NN प्रतिभा\N_NNP पाटील\N_NNP मेळ्याचे\N_NN उद्‍घाटन\N_NN करणार\V_VM आहेत\V_VM .\RD_PUNC
+htd21887	मिस्रमधून\N_NNP शिल्पकारांशिवाय\N_NN लोकनर्तकांचा\N_NN एक\QT_QTC समूहदेखील\N_NN येत\V_VM आहे\V_VM जो\PR_PRL उद्‍घाटन\N_NN समारोहाशिवाय\N_NN दररोज\RB आपला\PR_PRP कार्यक्रम\N_NN सादर\JJ करेल\V_VM .\RD_PUNC
+htd21888	मिस्रचे\N_NNP चवदार\JJ अन्नपदार्थदेखील\N_NN फूड\N_NN कोर्टमध्ये\N_NN खास\JJ स्टॉलवर\N_NN चाखण्यास\V_VM मिळतील\V_VM .\RD_PUNC
+htd21889	काही\QT_QTF देशभरातील\N_NN वातावरण\N_NN आणि\CC_CCD काही\QT_QTF विदेशी\JJ कलाकारांची\N_NN भागीदारीमुळे\N_NN सुरक्षेची\N_NN चांगली\JJ व्यवस्था\N_NN राहिल\V_VM .\RD_PUNC
+htd21890	सूरजकुंड\N_NNP दिल्लीला\N_NNP लागून\V_VM असल्यामुळे\V_VM दिल्लीच्या\N_NNP रहिवाशांसाठी\N_NN तर\CC_CCS हा\DM_DMR खास\JJ मेळा\N_NN होतोच\V_VM ,\RD_PUNC हरियाणा\N_NNP ,\RD_PUNC राजस्थान\N_NNP ,\RD_PUNC उत्तर\N_NNP प्रदेश\N_NNP आणि\CC_CCD अनेक\QT_QTF अन्य\QT_QTF ठिकाणांवरुन\N_NN लोक\N_NN येथे\DM_DMD पोहचतात\V_VM .\RD_PUNC
+htd21891	इतिहासाच्या\N_NN प्रत्येक\QT_QTF ठेवीजवळ\N_NN सांगायला\V_VM एकच\N_NN कहाणी\N_NN असते\V_VM .\RD_PUNC
+htd21892	खजुराहो\N_NNP प्रेम\N_NN व\CC_CCD आध्यात्म\N_NN ह्यांच्या\DM_DMR मिलनाची\N_NN अद्‍भुत\JJ कहाणी\N_NN सांगते\V_VM .\RD_PUNC
+htd21893	सात\QT_QTC दिवसाच्या\N_NN ह्या\DM_DMR समारोहामध्ये\N_NN जणू\RP_RPD येथील\DM_DMD पश्‍चिम\N_NN समूहाच्या\N_NN मंदिरांच्या\N_NN भिंती\N_NN सजीव\JJ होतात\V_VM .\RD_PUNC
+htd21894	मंदिरांचे\N_NN वैभव\N_NN आपल्या\PR_PRP शिखरावर\N_NN असते\V_VM .\RD_PUNC
+htd21895	मंदिर\N_NN परिसरामध्ये\N_NN कत्थक\N_NN ,\RD_PUNC भरतनाट्यम\N_NN ,\RD_PUNC ओडिसी\N_NN ,\RD_PUNC कुचिपुड़ी\N_NN ,\RD_PUNC मणिपुरी\N_NN व\CC_CCD कत्थकली\N_NN पाहण्याचा\V_VM अनुभवच\N_NN काही\QT_QTF वेगळा\JJ आहे\V_VM .\RD_PUNC
+htd21896	देशातील\N_NN सर्वश्रेष्‍ठ\JJ शास्त्रीय\JJ नर्तक\N_NN आपल्या\PR_PRP कलेने\N_NN ह्या\DM_DMR शिल्पाला\N_NN जिवंत\JJ करतात\V_VM .\RD_PUNC
+htd21897	खजुराहोची\N_NNP आपली\PR_PRP प्रसिद्धि\N_NN जगभरात\N_NN कमी\QT_QTF नाही\V_VAUX ,\RD_PUNC मग\N_NST हे\DM_DMR नृत्य\N_NN समारोह\N_NN देशी\JJ -\RD_PUNC विदेशी\JJ पर्यटकांना\N_NN आकर्षित\JJ करण्याचे\V_VM वेगळे\JJ कारण\N_NN बनते\V_VM .\RD_PUNC
+htd21898	ह्यामुळे\CC_CCD ह्याला\DM_DMR आंतरराष्‍ट्रीय\JJ समारोहाचा\N_NN दर्जादेखील\N_NN प्राप्त\JJ आहे\V_VM .\RD_PUNC
+htd21899	बर्लिन\N_NNP केवळ\JJ पर्यटकच\N_NN नाही\V_VM तर\CC_CCS ,\RD_PUNC कला\N_NN प्रेमी\N_NN ,\RD_PUNC फॅशन\N_NN प्रोफेशनल्स\N_NN ,\RD_PUNC संगीत\N_NN ,\RD_PUNC डिजाइन\N_NN ह्यावर\PR_PRL प्रेम\N_NN करणार्‍या\V_VM प्रत्येक\QT_QTF मानवासाठी\N_NN एक\QT_QTC खूप\QT_QTF मोठे\JJ केंद्रस्थान\N_NN आहे\V_VM .\RD_PUNC
+htd21900	ह्याचा\DM_DMR मोकळेपणा\N_NN ,\RD_PUNC स्वभाव\N_NN ,\RD_PUNC वातावरण\N_NN अशा\JJ लोकांना\N_NN आपल्याकडे\PR_PRP आकर्षित\JJ करते\V_VM .\RD_PUNC
+htd21901	हे\DM_DMR शहर\N_NN जेथे\DM_DMD राजनीती\N_NN आणि\CC_CCD आर्थिक\JJ व्यवहार\N_NN ह्यांचा\DM_DMR गड\N_NN मानले\V_VM जाते\V_VM ,\RD_PUNC तेथेच\DM_DMD सभ्यता\N_NN ,\RD_PUNC कला\N_NN आणि\CC_CCD मानवता\N_NN ह्यांचेदेखील\DM_DMR केंद्र\N_NN आहे\V_VM .\RD_PUNC
+htd21902	१९८०च्या\N_NN न्यूयॉर्कला\N_NNP मात\N_NN दिलेला\V_VM बर्लिन\N_NNP आज\RB प्रत्येक\QT_QTF एक\QT_QTC कलाकाराच्या\N_NN जीभेवर\N_NN आहे\V_VM .\RD_PUNC
+htd21903	दोन्हीं\N_NN जर्मनींच्या\N_NNP भिंतींना\N_NN तुटून\V_VM आज\RB वीस\QT_QTC वर्ष\N_NN झाली\V_VM -\RD_PUNC लोक\N_NN मिळून-मिसळून\V_VM राहतात\V_VM आणि\CC_CCD एका\QT_QTC शहराचे\N_NN निवासी\N_NN वाटतात\V_VM .\RD_PUNC
+htd21904	भिंतीने\N_NN मन\N_NN तर\CC_CCS तोडले\V_VM होते\V_VM परंतू\CC_CCD नव्या\JJ पिढीला\N_NN आठवणच\N_NN नाही\V_VM की\CC_CCS ते\DM_DMR दिवस\N_NN कसे\PR_PRQ होते\V_VM .\RD_PUNC
+htd21905	केवळ\JJ मौज\N_NN ,\RD_PUNC मस्ती\N_NN आणि\CC_CCD शानदार\JJ जीवन\N_NN जगा\V_VM आणि\CC_CCD जगु\V_VM द्या\V_VM .\RD_PUNC
+htd21906	रात्री\N_NN फिरण्यामध्ये\V_VM कुठल्याच\DM_DMQ प्रकारची\N_NN भिती\N_NN नाही\V_VM .\RD_PUNC
+htd21907	बर्लिनचे\N_NNP झगमगाट\N_NN असलेल्या\V_VM ठिकाणी\N_NN किंवा\CC_CCD प्रदेशात\N_NN तुम्ही\PR_PRP ’चारलोटनबर्ग\N_NNP पॅलेसच्या’\N_NN फेरीच्या\N_NN वेळी\N_NN तेथे\DM_DMD रात्रीचे\N_NN जेवण\N_NN आणि\CC_CCD बर्लिन\N_NNP रैजीडैंस\N_NN आर्चैस्ट्राचा\N_NN आनंद\N_NN घेऊ\V_VM शकता\V_VAUX .\RD_PUNC
+htd21908	ही\DM_DMR खूप\QT_QTF चांगली\JJ जागा\N_NN आहे\V_VM .\RD_PUNC
+htd21909	ह्याबद्दल\DM_DMR एका\QT_QTC प्रवाशाने\N_NN लिहिले\V_VM आहे\V_VM आमच्या\N_NN सुट्ट्यांमध्ये\N_NN स्मरण\N_NN ठेवणारे\V_VM ठिकाणं\N_NN हेच\DM_DMR आहे\V_VM .\RD_PUNC
+htd21910	जर्मनीचे\N_NNP दर्शन\N_NN करणार्‍या\V_VM ह्या\DM_DMR पर्यटनाचा\N_NN बरेच\QT_QTF पर्यटक\N_NN आनंद\N_NN घेतात\V_VM .\RD_PUNC
+htd21911	’बर्लिन\N_NNP सैगवे\N_NNP पर्यटनाचा’\N_NN देखील\RB वेगळाच\JJ आनंद\N_NN आहे\V_VM .\RD_PUNC
+htd21912	’डिस्कवर\N_NN हॉफ\N_NN डे\N_NN बर्लिन’\N_NNP ,\RD_PUNC बर्लिन\N_NNP बाइक\N_NN टुअर\N_NN ’\N_NN ,\RD_PUNC ’पोट्सडम\N_NNP एंड\N_NN सॅनसुई\N_NNP पॅलेस’\N_NN ,\RD_PUNC ’बर्लिन\N_NNP हाफ\N_NN डे\N_NN साइट\N_NN सीइंग\N_NN टुअर\N_NN एंड\N_NN जीडीअर\N_NN म्युझियम’\N_NN ,\RD_PUNC ’बर्लिन\N_NNP इवनिंग\N_NN क्रुइज’\N_NN ,\RD_PUNC ’बर्लिन्स\N_NNP इन\N_NN फैम्स\N_NN थर्ड\N_NN रीच\N_NN साइट’\N_NN म्हणजे\CC_CCD अशा\JJ तर्‍हेचे\N_NN अगणित\QT_QTF पर्यटनस्थळं\N_NN आहेत\V_VM निवडण्यासाठी\V_VM .\RD_PUNC
+htd21913	बर्लिन\N_NNP आणखीदेखील\RB खूप\QT_QTF काही\QT_QTF दाखवण्यासाठी\RB तयार\JJ आहे\V_VM .\RD_PUNC
+htd21914	वर्ल्डस\N_NN बसोट\N_NN हिस्ट्री\N_NN म्युझियमला\N_NN जाऊ\V_VM शकता\V_VAUX .\RD_PUNC
+htd21915	जीऊज\N_NNP म्युझियममध्ये\N_NN तेथे\DM_DMD राहणार्‍या\V_VM दोन\QT_QTC हजार\QT_QTC वर्षाचा\N_NN जीऊजचा\N_NNP इतिहास\N_NN पाहता\V_VM येतो\V_VAUX .\RD_PUNC
+htd21916	चेक\N_NN पॉइंट\N_NN चार्ली\N_NNP तेथील\DM_DMD जागा\N_NN आहे\V_VM जेथे\DM_DMD तुम्ही\PR_PRP पूर्व\N_NN आणि\CC_CCD पश्‍चिम\N_NN जर्मनीमध्ये\N_NNP दाखल\N_NN होतात\V_VM .\RD_PUNC
+htd21917	आपला\PR_PRP जीव\N_NN धोक्यात\N_NN टाकून\V_VM लोक\N_NN येथे\DM_DMD दोन्ही\QT_QTC देशांच्या\N_NN भिंतींना\N_NN ओलांडत\V_VM होते\V_VM .\RD_PUNC
+htd21918	परंतू\CC_CCD आता\N_NST ह्याची\DM_DMR गरज\N_NN नाही\V_VM .\RD_PUNC
+htd21919	ह्यांबद्दल\DM_DMR खूपशा\JJ गोष्टीं\N_NN आहेत\V_VM ज्या\PR_PRL ऐकण्यात\V_VM खूप\QT_QTF कुतुहल\N_NN वाटते\V_VM .\RD_PUNC
+htd21920	खाण्याचे\V_VM शौकीन\N_NN लोक\N_NN तसे\RB प्रेंजलऊईर\N_NN बर्ग\N_NN प्रदेशात\N_NN जातात\V_VM .\RD_PUNC
+htd21921	रशियन\JJ आणि\CC_CCD पर्शियन\JJ खाण्यांचा\V_VM स्वाद\N_NN चाखण्यासाठी\V_VM कोलविट्स\N_NNP प्लाट्जला\N_NN जा\V_VM .\RD_PUNC
+htd21922	चिनी\JJ ,\RD_PUNC भारतीय\JJ आणि\CC_CCD जगभरातील\N_NN अन्नपदार्थ\N_NN तुम्हाला\PR_PRP तिथे\DM_DMD मिळतील\V_VM .\RD_PUNC
+htd21923	तर्‍हे-तर्‍हेच्या\N_NN भेटी\N_NN निवड\N_NN तुमची\PR_PRP आणि\CC_CCD स्वाद\N_NN अनेक\QT_QTF .\RD_PUNC
+htd21924	बार\N_NN ,\RD_PUNC क्लब\N_NN ,\RD_PUNC रेस्टॉरैंट\N_NN आणि\CC_CCD माहित\N_NN नाहीं\V_VM काय-काय\PR_PRQ तिथे\DM_DMD तुमची\PR_PRP वाट\N_NN पाहतात\V_VM .\RD_PUNC
+htd21925	ह्याच\DM_DMR प्रदेशात\N_NN सर्व\QT_QTF काही\QT_QTF मिळेल\V_VM .\RD_PUNC
+htd21926	तुमच्या\PR_PRP आवडीची\N_NN प्रत्येक\QT_QTF वस्तू\N_NN इथे\DM_DMD आहे\V_VM .\RD_PUNC
+htd21927	ही\DM_DMR जागा\N_NN म्हणते\V_VM ,\RD_PUNC ’बोला\V_VM ,\RD_PUNC तुम्ही\PR_PRP काय\PR_PRQ खरेदी\N_NN कराल\V_VM ?\RD_PUNC ….येथे\DM_DMD तर\CC_CCS प्रत्येक\QT_QTF वस्तू\N_NN विकली\V_VM जाते\V_VM .\RD_PUNC
+htd21928	…..\RD_PUNC आपल्या\PR_PRP पर्यटनाचा\N_NN आनंद\N_NN घ्या\V_VM .\RD_PUNC
+htd21929	….\RD_PUNC आणखी\RB मिळवा\V_VM ,\RD_PUNC जे\PR_PRL पाहिजे\V_VM .\RD_PUNC
+htd21930	बर्लिन\N_NNP सगळी\N_NN सोय\N_NN करेल\V_VM .\RD_PUNC
+htd21931	एक\QT_QTC गोष्ट\N_NN जी\PR_PRL मला\PR_PRP येथे\DM_DMD खूपच\RP_INTF आवडली\V_VM आणि\CC_CCD दीर्घकाळापर्यंत\N_NN मनात\N_NN राहणारी\V_VM वाटली\V_VM ती\DM_DMR होती\V_VM येथील\DM_DMD ठेवीमधील\N_NN मूर्तिकलेतील\N_NN कमालीची\N_NN ढब\N_NN .\RD_PUNC
+htd21932	सर्व\QT_QTF इमारतींमध्ये\N_NN तुम्हाला\PR_PRP ह्या\DM_DMR कलेचे\N_NN दर्शन\N_NN होईल\V_VM .\RD_PUNC
+htd21933	शहरांमध्ये\N_NN तुम्हाला\PR_PRP अनुभव\N_NN येईल\V_VM की\CC_CCS कशा\PR_PRQ तर्‍हेने\N_NN हे\DM_DMR प्राचीन\JJ अंदाज\N_NN आपल्या\PR_PRP भव्यतेबरोबर\N_NN पर्यटकांना\N_NN आकर्षित\JJ करत\V_VM आहेत\V_VM .\RD_PUNC
+htd21934	मी\PR_PRP तर\CC_CCS कित्येक\QT_QTF वेळा\N_NN ह्या\DM_DMR मूर्त्यांना\N_NN पाहतच\V_VM राहिलो\V_VM .\RD_PUNC
+htd21935	तुम्हीदेखील\PR_PRP ह्यांचा\DM_DMR आनंद\N_NN घेण्यासाठी\V_VM इथे\DM_DMD या\DM_DMR .\RD_PUNC
+htd21936	ही\DM_DMR केवळ\JJ कलाच\N_NN नाही\V_VM ,\RD_PUNC संस्कृतीचे\N_NN देखील\RB प्रतीक\N_NN आहे\V_VM .\RD_PUNC
+htd21937	हे\DM_DMR मनुष्‍याचे\N_NN मनुष्‍य\N_NN असण्याचे\V_VM देखील\RB प्रतीक\N_NN आहे\V_VM .\RD_PUNC
+htd21938	परंतू\CC_CCD तुम्हाला\PR_PRP एकवेळा\N_NN येथे\DM_DMD अवश्य\RB यावे\V_VM लागेल\V_VM .\RD_PUNC
+htd21939	रस्किन\N_NNP बांडच्या\N_NNP कथांसारखा\N_NN सजवलेला\V_VM ,\RD_PUNC कोसीच्या\N_NNP किनार्‍यावर\N_NN नीलगाय\N_NN आणि\CC_CCD विविध\JJ वनस्पतिंनी\N_NN लागून\V_VM जिम\N_NNP कॉर्बेट\N_NNP एक\QT_QTC असे\RB राष्‍ट्रीय\JJ उद्यान\N_NN आहे\V_VM ज्याने\PR_PRL जगभरातील\N_NN लोकांना\N_NN नेहमी\N_NST आपल्याकडे\PR_PRP आकर्षित\JJ केले\V_VM आहे\V_VM .\RD_PUNC
+htd21940	ह्या\DM_DMR उद्यानाबद्दल\N_NN नियतकालिकांमध्ये\N_NN अनेक\QT_QTF वेळा\N_NN वाचले\V_VM होते\V_VM आणि\CC_CCD वाहिन्यांवर\N_NN पाहिले\V_VM देखील\RB .\RD_PUNC
+htd21941	परंतू\CC_CCD जेव्हा\CC_CCS येथे\DM_DMD मित्रांबरोबर\N_NN बाइकने\N_NN जाण्याची\V_VM संधी\N_NN मिळाली\V_VM तर\CC_CCS हा\DM_DMR अनुभव\N_NN एकदम\RB वेगळा\JJ होता\V_VM .\RD_PUNC
+htd21942	पूर्ण\QT_QTF गटाबरोबर\N_NN शुक्रवारी\N_NN आम्ही\PR_PRP जिम\N_NNP कॉर्बेटला\N_NNP पोहचलो\V_VM .\RD_PUNC
+htd21943	निश्चित\JJ कार्यक्रमानुसार\N_NN आम्ही\PR_PRP जवळच्याच\RB रिसोर्टमध्ये\N_NN आपली\PR_PRP झोपडी\N_NN बनवली\V_VM .\RD_PUNC
+htd21944	रिसोर्टमधून\N_NN आम्ही\PR_PRP शनिवारच्या\N_NN सकाळी\N_NST ५\QT_QTC वाजून\V_VM ४५\N_NN मिनटांनी\N_NN निघालो\V_VM .\RD_PUNC
+htd21945	जिम\N_NNP कॉर्बेट\N_NNP पार्कच्या\N_NN फाटकावर\N_NN जवळजवळ\RB ५०\QT_QTC जिप्सी\N_NN ज्या\PR_PRL लोकांना\N_NN मोहीमेवर\N_NN घेऊन\V_VM जातात\V_VM ,\RD_PUNC रांगेत\N_NN उभ्या\JJ होत्या\V_VM .\RD_PUNC
+htd21946	पार्कचे\N_NN कर्मचारी\N_NN प्रत्येकजणाची\N_NN ओळख\N_NN पटवून\V_VM घेत\V_VM होते\V_VM .\RD_PUNC
+htd21947	पार्कमध्ये\N_NN ओळखपत्राशिवाय\N_NN कोणालाच\DM_DMQ आतमध्ये\N_NST जाऊ\V_VM दिले\V_VM जात\V_VAUX नाही\V_VAUX .\RD_PUNC
+htd21948	ह्याच्यासाठी\DM_DMR वाहन\N_NN परवाना\N_NN ,\RD_PUNC ओळखपत्र\N_NN नाही\V_VM तर\CC_CCS पासपोर्ट\N_NN ह्यांपैकी\DM_DMR कुठलीही\DM_DMQ एक\QT_QTC वस्तू\N_NN असणे\V_VM गरजेचे\N_NN आहे\V_VM .\RD_PUNC
+htd21949	जवळजवळ\RB आर्ध्या\N_NN तासाच्या\N_NN सरकारी\JJ प्रक्रियेनंतर\N_NN आमच्या\PR_PRP बाइकला\N_NN निघण्याची\V_VM आज्ञा\N_NN दिली\V_VM गेली\V_VM .\RD_PUNC
+htd21950	जंगलात\N_NN प्रवेश\N_NN करताच\V_VM अचानक\RB आमच्या\PR_PRP पुढच्या\N_NST गाड्या\N_NN थांबल्या\V_VM .\RD_PUNC
+htd21951	माहिती\N_NN काढल्यावर\V_VM समजले\V_VM की\CC_CCS तिथे\DM_DMD वाघ\N_NN आला\V_VM होता\V_VM .\RD_PUNC
+htd21952	मी\PR_PRP पुढे\N_NST उभ्या\JJ असलेल्या\V_VM मार्गदर्शकाला\N_NN प्रश्न\N_NN विचारला\V_VM तुम्हाला\PR_PRP कसे\PR_PRQ माहिती\N_NN ?\RD_PUNC
+htd21953	मार्गदर्शकाने\N_NN उत्तर\N_NN दिले\V_VM की\CC_CCS त्याच्या\DM_DMR पाऊलखुणा\N_NN येथे\DM_DMD उमटल्या\V_VM आहेत\V_VM .\RD_PUNC
+htd21954	एक\QT_QTC किलोमीटर\N_NN आणखी\RB पुढे\N_NST गेलो\V_VM तर\CC_CCS हरिणांचा\N_NN एक\QT_QTC कळप\N_NN दिसला\V_VM .\RD_PUNC
+htd21955	त्याला\DM_DMR पाहताच\V_VM आपल्या\PR_PRP गाड्या\N_NN थांबवल्या\V_VM .\RD_PUNC
+htd21956	संपूर्ण\QT_QTF कळप\N_NN मस्तीने\N_NN गवत\N_NN चरत\V_VM होता\V_VM त्यांचे\DM_DMR छोटी\JJ -\RD_PUNC छोटी\JJ पिल्लं\N_NN इकडे\N_NST -\RD_PUNC तिकडे\N_NST मौज\N_NN करत\V_VM होती\V_VM .\RD_PUNC
+htd21957	आम्ही\PR_PRP इथे\DM_DMD आपल्या\PR_PRP कॅमेर्‍याचा\N_NN फ्लॅश\N_NN बनवून\V_VM काही\QT_QTF छायाचित्र\N_NN घेतले\V_VM .\RD_PUNC
+htd21958	ह्याच्या\DM_DMR नंतर\RB जेव्हा\CC_CCS थोडे\QT_QTF आणखी\RB पुढे\N_NST गेलो\V_VM तर\CC_CCS एक\QT_QTC मदमस्त\JJ हत्ती\N_NN पाहिला\V_VM .\RD_PUNC
+htd21959	हत्तीचे\N_NN दांत\N_NN खूप\QT_QTF मोठे\JJ होते\V_VM तो\DM_DMR कुठून\PR_PRQ तरी\CC_CCS चालत\V_VM येत\V_VM होता\V_VM .\RD_PUNC
+htd21960	परंतू\CC_CCD त्याचे\DM_DMR दांत\N_NN वारंवार\RB झाडांमध्ये\N_NN फसत\V_VM चालले\V_VM होते\V_VM .\RD_PUNC
+htd21961	त्याला\DM_DMR सोडवत\V_VM तो\DM_DMR पुढे\N_NST पुढे\N_NST चालला\V_VM होता\V_VM .\RD_PUNC
+htd21962	आम्ही\PR_PRP दूरुन\N_NST आपल्या\PR_PRP बाइकवर\N_NN बसून\V_VM त्याची\DM_DMR करामत\N_NN पाहत\V_VM होतो\V_VM तेव्हा\CC_CCS तो\DM_DMR अचानक\RB एका\QT_QTC जिप्सीच्या\N_NN समोर\N_NST येऊन\V_VM उभा\JJ राहिला\V_VM .\RD_PUNC
+htd21963	त्या\DM_DMR गाडीच्या\N_NN वाहनचालकाने\N_NN वेळ\N_NN न\RP_NEG घालवता\V_VM गाडीला\N_NN मागे\N_NST घेऊन\V_VM दूसर्‍या\N_NN रस्त्याने\N_NN वेगाने\N_NN तिथून\DM_DMD दूर\N_NST गेला\V_VM .\RD_PUNC
+htd21964	नंतर\RB आम्ही\PR_PRP मार्गदर्शकाशाला\N_NN विचारले\V_VM तर\CC_CCS त्याने\DM_DMR सांगितले\V_VM की\CC_CCS त्या\DM_DMR हत्तीचे\N_NN दोन्हीं\N_NN कान\N_NN एकदम\RB ताठ\JJ झाले\V_VM होते\V_VM ह्याचा\DM_DMR अर्थ\N_NN तो\DM_DMR रागावलेला\V_VM होता\V_VM .\RD_PUNC
+htd21965	जिम\N_NNP कॉर्बेट\N_NNP दिल्लीपासून\N_NNP २७०\QT_QTC किलोमीटर\N_NN दूर\N_NST आहे\V_VM .\RD_PUNC
+htd21966	जर\CC_CCS तुम्ही\PR_PRP रस्त्याने\N_NN गेलात\V_VM तर\CC_CCS येथे\DM_DMD दिल्ली\N_NNP -\RD_PUNC हापुड\N_NNP बायपास\N_NN आणि\CC_CCD गजरौला\N_NNP मुरादाबाद\N_NNP बायपास\N_NN वरुन\N_NN जात\V_VM रामपूर\N_NNP -\RD_PUNC काशीपूर\N_NNP करत\V_VM इथे\DM_DMD पोहचू\V_VM शकता\V_VAUX .\RD_PUNC
+htd21967	परतताना\V_VM रामनगरपासून\N_NNP ५०१४\QT_QTC रानीखेत\N_NNP एक्सप्रेस\N_NN ९\QT_QTC वाजून\V_VM १५\QT_QTC मिनटांनी\N_NN निघते\V_VM जी\PR_PRL दिल्ली\N_NNP जुनी\JJ दिल्ली\N_NNP रेल्वे\N_NN स्थानकावर\N_NN सकाळी\N_NST ५\QT_QTC वाजता\V_VM पोहचते\V_VM .\RD_PUNC
+htd21968	उन्हाळ्यात\N_NN सर्वात\RP_INTF चांगली\JJ संधी\N_NN एप्रिल\N_NN ते\DM_DMR जून\N_NN पर्यंत\CC_CCD असतो\V_VM .\RD_PUNC
+htd21969	ह्या\DM_DMR हवामानामध्ये\N_NN हत्तींचा\N_NN कळप\N_NN पाहण्यास\V_VM मिळतो\V_VM .\RD_PUNC
+htd21970	हिवाळ्यात\N_NN सर्वात\RP_INTF चांगली\JJ संधी\N_NN ऑक्टोबर\N_NN ते\DM_DMR मार्च\N_NN पर्यंत\CC_CCD असते\V_VM .\RD_PUNC
+htd21971	रात्री\N_NN थंड\JJ असते\V_VM परंतू\CC_CCD दिवस\N_NN खूप\QT_QTF आनंददायक\JJ वातवरण\N_NN असते\V_VM .\RD_PUNC
+htd21972	हवामान\N_NN पक्षी\N_NN पाहण्यासाठी\V_VM चांगले\JJ आहे\V_VM .\RD_PUNC
+htd21973	पावसाळ्यात\N_NN जुलै\N_NN आणि\CC_CCD जून\N_NN ह्यांच्या\DM_DMR दरम्यान\N_NN हवामान\N_NN येथे\DM_DMD फिरावयास\V_VM जाणे\V_VM आणि\CC_CCD कोसीमध्ये\N_NNP वाटर\N_NN राफ्‍टिंग\N_NN ह्यांसाठी\DM_DMR सर्वात\RP_INTF चांगले\JJ असते\V_VM .\RD_PUNC
+htd21974	ह्या\DM_DMR हवामानामध्ये\N_NN वाघांची\N_NN दिसण्याची\V_VM शक्यता\N_NN सर्वात\RP_INTF जास्त\QT_QTF असते\V_VM .\RD_PUNC
+htd21975	जिम\N_NNP कार्बेट\N_NNP क्षेत्रामध्ये\N_NN राहण्यासाठी\V_VM अनेक\QT_QTF आश्रयस्थान\N_NN आहेत\V_VM .\RD_PUNC
+htd21976	येथे\DM_DMD एकूण\QT_QTF १००\QT_QTC छोटी\JJ -\RD_PUNC मोठी\JJ आश्रयस्थानं\N_NN आहेत\V_VM .\RD_PUNC
+htd21977	ह्या\DM_DMR क्षेत्रामध्ये\N_NN राहण्यासाठी\V_VM तुम्हाला\PR_PRP एका\QT_QTC रात्रीसाठी\N_NN ५००\QT_QTC रुपयापासून\N_NN १०\QT_QTC हजार\QT_QTC रुपयापर्यंत\N_NN खर्च\N_NN करावे\V_VM लागतील\V_VM .\RD_PUNC
+htd21978	जिम\N_NNP कॉर्बेट\N_NNP राष्ट्रीय\JJ उद्यानात\N_NN वृक्षांच्या\N_NN ११\N_NN जाती\N_NN ,\RD_PUNC सस्तन\N_NN प्राण्यांच्या\N_NN ५०\QT_QTC जाती\N_NN ,\RD_PUNC पक्ष्यांच्या\N_NN ५८०\N_NN जाती\N_NN आणि\CC_CCD सरपटणार्‍या\V_VM प्राण्यांच्या\N_NN २५\QT_QTC जाती\N_NN आहेत\V_VM .\RD_PUNC
+htd21979	सुरुवातीला\N_NN जिम\N_NNP कॉर्बेट\N_NNP रिझर्वचे\N_NN नाव\N_NN हेले\N_NNP नॅशनल\N_NN पार्क\N_NN होते\V_VM .\RD_PUNC
+htd21980	१९५४\QT_QTC -\RD_PUNC ५५\QT_QTC मध्ये\N_NST जिम\N_NNP कॉर्बेटचे\N_NNP नाव\N_NN बदलून\V_VM रामगंगा\N_NNP नॅशनल\JJ पार्क\N_NN ठेवले\V_VM गेले\V_VM .\RD_PUNC
+htd21981	१९५५-५६\N_NN मध्ये\N_NST पुन्हा\N_NST ह्याचे\DM_DMR नाव\N_NN जिम\N_NNP कॉर्बेट\N_NNP टायगर\N_NN नॅशनल\JJ पार्क\N_NN केले\V_VM गेले\V_VM .\RD_PUNC
+htd21982	हे\DM_DMR पार्क\N_NN १३१८.५४\N_NN वर्ग\N_NN किलोमीटर\N_NN क्षेत्रामध्ये\N_NN पसरलेले\V_VM आहे\V_VM .\RD_PUNC
+htd21983	हे\DM_DMR इंग्रज\N_NN शासनाच्या\N_NN आधी\N_NST स्थानीय\N_NN शासकांची\N_NN खाजगी\JJ मालमत्ता\N_NN होते\V_VM .\RD_PUNC
+htd21984	इथे\DM_DMD बगळा\N_NN ,\RD_PUNC डार्टर\N_NN ,\RD_PUNC पाणकावळा\N_NN ,\RD_PUNC सर्पेंट\N_NN ईगल\N_NN ,\RD_PUNC जंगली\JJ कोंबडा\N_NN ,\RD_PUNC किंगफिशमर\N_NN ,\RD_PUNC मोर\N_NN ,\RD_PUNC घुबड\N_NN ,\RD_PUNC चातक\N_NN ,\RD_PUNC सुतारपक्षी\N_NN ,\RD_PUNC घार\N_NN इत्यादी\JJ पक्ष्यांच्या\N_NN जाती\N_NN आढळतात\V_VM .\RD_PUNC
+htd21985	चित्त्याशिवाय\N_NN हत्ती\N_NN ,\RD_PUNC जंगली\JJ मांजर\N_NN ,\RD_PUNC ससा\N_NN ,\RD_PUNC चितळ\N_NN ,\RD_PUNC सांभर\N_NN ,\RD_PUNC हरिण\N_NN ,\RD_PUNC लंगू\N_NN ,\RD_PUNC नीलगाय\N_NN ,\RD_PUNC लांडगा\N_NN ,\RD_PUNC चित्ता\N_NN ,\RD_PUNC पाणमांजर\N_NN ,\RD_PUNC काला\N_NN भूला\N_NN .\RD_PUNC
+htd21986	कॉर्बेट\N_NNP राष्ट्रीय\JJ उद्यानात\N_NN चित्ता\N_NN पाहण्यासाठी\V_VM वाघाची\N_NN स्वारी\N_NN सर्वात\RP_INTF उपयुक्‍त\JJ मानली\V_VM जाते\V_VM .\RD_PUNC
+htd21987	अनेक\QT_QTF अठवड्यापासून\N_NN दाट\JJ धुके\N_NN आणि\CC_CCD भंयकर\N_NN थंडीचा\N_NN मारा\N_NN झेलत\V_VM असलेल्या\V_VM दिल्लीच्या\N_NNP रहिवाशांना\N_NN ह्या\DM_DMR अठवड्यात\N_NN ऊन\N_NN पडल्याने\V_VM खूप\QT_QTF सुखरूपता\N_NN मिळाली\V_VM .\RD_PUNC
+htd21988	अशामध्ये\N_NN तुम्ही\PR_PRP शनिवार\N_NN व\CC_CCD रविवार\N_NN ह्या\DM_DMR दिवशी\N_NN सहकुटुंब\N_NN दिल्लीच्या\N_NNP बाहेर\N_NST फिरायला\V_VM जाऊ\V_VAUX शकता\V_VAUX .\RD_PUNC
+htd21989	आम्ही\PR_PRP तुम्हाला\PR_PRP दिल्लीच्या\N_NNP जवळच\RB स्थित\JJ एका\QT_QTC पर्यटनस्थळाबद्दल\N_NN सांगतो\V_VM .\RD_PUNC
+htd21990	इथे\DM_DMD तुम्ही\PR_PRP एका\QT_QTC दिवसातच\N_NN जाऊन\V_VM परत\RB येऊ\V_VM शकता\V_VAUX आणि\CC_CCD जर\CC_CCS थांबायचे\V_VM असेल\V_VM तर\CC_CCS थांबूदेखील\V_VM शकता\V_VAUX .\RD_PUNC
+htd21991	दिल्लीच्या\N_NNP जवळ\RB ७०\QT_QTC किलोमीटर\N_NN दूर\N_NST तिलयार\N_NNP (\RD_SYM रोहटक\N_NNP )\RD_SYM ,\RD_PUNC हरियाणाचे\N_NNP एक\QT_QTC सुंदर\JJ ठिकाण\N_NN आहे\V_VM .\RD_PUNC
+htd21992	तिलयारचे\N_NNP अंतर\N_NN दिल्लीच्या\N_NNP पीरागडी\N_NNP चौकपासून\N_NN केवळ\JJ एक\QT_QTC तासाचेच\N_NN आहे\V_VM .\RD_PUNC
+htd21993	येथे\DM_DMD हरियाणा\N_NNP पर्यटन\N_NN विभागाचे\N_NN एक\QT_QTC उपाहारगृह\N_NN आहे\V_VM ज्यामध्ये\PR_PRL १३\QT_QTC खोल्या\N_NN आणि\CC_CCD एक\QT_QTC उत्तम\JJ दर्जाची\N_NN खोली\N_NN आहे\V_VM .\RD_PUNC
+htd21994	खोल्या\N_NN तुम्ही\PR_PRP १५००\QT_QTC रुपये\N_NN दररोज\RB आणि\CC_CCD उत्तम\JJ दर्जाच्या\N_NN खोलीला\N_NN २७००\QT_QTC रुपये\N_NN दररोजच्या\N_NN हिशोबाने\N_NN बुक\N_NN करु\V_VM शकता\V_VAUX .\RD_PUNC
+htd21995	आरक्षण\N_NN कनॉट\N_NN प्लेसच्या\N_NN जनपथावर\N_NN चंद्रलोक\N_NN इमारतीत\N_NN असलेले\V_VM हरियाणा\N_NNP पर्यटन\N_NN कार्यालय\N_NN नाही\V_VM तर\CC_CCS तिलयारला\N_NNP पोहचून\V_VM किंवा\CC_CCD तिथल्या\DM_DMD दूरध्वनी\N_NN क्रमांकावर\N_NN ०१२६२-२७३११९\N_NN केले\V_VM जाऊ\V_VAUX शकते\V_VAUX .\RD_PUNC
+htd21996	ह्या\DM_DMR उपाहारगृहामध्ये\N_NN सेमिनार\N_NN हॉलदेखील\N_NN आहे\V_VM .\RD_PUNC
+htd21997	जवळजवळ\RB १३२\QT_QTC एकर\N_NN मध्ये\N_NST पसरलेल्या\V_VM तिलयारचे\N_NNP सर्वात\RP_INTF मोठे\JJ वैशिष्ट्य\N_NN येथे\DM_DMD स्थित\JJ मोठे\JJ सरोवर\N_NN आहे\V_VM .\RD_PUNC
+htd21998	झीलमध्ये\N_NN बोटिंग\N_NN आणि\CC_CCD मासे\N_NN पकडण्याची\V_VM सुविधा\N_NN आहे\V_VM .\RD_PUNC
+htd21999	इथे\DM_DMD असलेल्या\V_VM प्राणिसंग्रहालयामध्ये\N_NN हत्ती\N_NN ,\RD_PUNC अस्वल\N_NN ,\RD_PUNC पाणघोडा\N_NN ,\RD_PUNC चित्ता\N_NN ,\RD_PUNC वाघासह\N_NN अनेक\QT_QTF पशु\N_NN -\RD_PUNC पक्षी\N_NN आहेत\V_VM परंतु\CC_CCD प्राणिसंग्रहालय\N_NN सोमवारी\N_NN बंद\JJ असते\V_VM .\RD_PUNC
+htd22000	आता\N_NST थंड\JJ आणि\CC_CCD दाट\JJ धुक्याची\N_NN काळजी\N_NN सोडून\V_VM शनिवार\N_NN व\CC_CCD रविवार\N_NN ह्या\DM_DMR दिवशी\N_NN तिलयारला\N_NNP जा\V_VM आणि\CC_CCD सुट्ट्यांचा\N_NN आनंद\N_NN घ्या\V_VM .\RD_PUNC 

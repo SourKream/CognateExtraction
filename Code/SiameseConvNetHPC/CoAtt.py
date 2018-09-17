@@ -55,11 +55,13 @@ def get_params():
     parser.add_argument('-l2', action="store", default=0.01, dest="l2", type=float)
     parser.add_argument('-dropout', action="store", default=0.1, dest="dropout", type=float)
     parser.add_argument('-local', action="store", default=False, dest="local", type=bool)
-    parser.add_argument('-embd', action="store", default=10, dest='embd_size', type=int)
-    parser.add_argument('-tkn_simple', action="store", default=False, dest='tokenize_simple', type=bool)
+    parser.add_argument('-embd', action="store", default=16, dest='embd_size', type=int)
+    parser.add_argument('-tkn_simple', action="store", default=True, dest='tokenize_simple', type=bool)
     parser.add_argument('-concept', action="store", default=False, dest='concept', type=bool)
     parser.add_argument('-langfeat', action="store", default=False, dest='use_lang_feat', type=bool)
     parser.add_argument('-conceptfeat', action="store", default=False, dest='use_concept_feat', type=bool)
+    parser.add_argument('-uniform_att', action="store", default=False, dest='use_uniform_attention', type=bool)
+    parser.add_argument('-init_taraka', action="store", default=False, dest='use_init_taraka_embeddings', type=bool)
     opts = parser.parse_args(sys.argv[2:])
     print "lstm_units", opts.lstm_units
     print "epochs", opts.epochs
@@ -73,37 +75,27 @@ def get_params():
     print "Using Concept Fold Data", opts.concept
     print "Language Features", opts.use_lang_feat
     print "Concept Features", opts.use_concept_feat
+    print "Uniform Attention", opts.use_uniform_attention
+    print "Initit Embed with Taraka", opts.use_init_taraka_embeddings
     return opts
 
 options = get_params()
-
-#####################################
-## Model Properties
-options.lstm_units = 75
-options.use_lang_feat = False
-options.use_concept_feat = False
-file_path = './BestModels/IELEX_DF1_CoAtt_Model_70_10_35_0.001_0.02_12_16.weights'
-file_path = './BestModels/RE_SYM_IELEX_DF1_CoAtt_Model_75_10_35_0.001_0.02_12_19.weights'
-# file_path = './BestModels/IELEX_DF1_CoAtt_Model_75_10_35_0.001_0.02_12_ConceptFeat_15.weights'
-# file_path = './BestModels/Austro_DF1_CoAtt_Model_40_10_32_0.001_0.02_12_ConceptFeat_33.weights'
-# file_path = './BestModels/Mayan_DF1_CoAtt_Model_30_10_34_0.001_0.02_12_7.weights'
-# file_path = './BestModels/Mayan_DF1_CoAtt_Model_30_10_34_0.001_0.02_12_ConceptFeat_33.weights'
-#####################################
-
 use_lang_feat = options.use_lang_feat
 use_concept_feat = options.use_concept_feat
 
 ############################################
 
-concept_dict_file = '../DataPickles/ConceptDict.pkl'
-glove_file = '../DataPickles/ConceptGloveEmbeddings.pkl'
+concept_dict_file = 'data/ConceptDict.pkl'
+glove_file = 'data/ConceptGloveEmbeddings.pkl'
 
 # data_file = 'data/abvd2-part2.tsv.asjp'
 # data_file = 'data/Mayan.tsv'
 # data_file = 'data/IELex-2016.tsv.asjp'
-# data_file = '../DataPickles/CrossLanguage/Austro/LangInfo_DataFold1.pkl'
-# data_file = '../DataPickles/CrossLanguage/Mayan/LangInfo_DataFold1.pkl'
-data_file = '../DataPickles/CrossLanguage/IELex_ASJP/LangInfo_DataFold1.pkl'
+data_file = '../DataPickles/CrossLanguage/Austro/LangInfo_DataFold1.pkl'
+data_file = '../DataPickles/CrossLanguage/Mayan/LangInfo_DataFold1.pkl'
+# data_file = '../DataPickles/CrossLanguage/IELex_ASJP/LangInfo_DataFold1.pkl'
+data_file = 'data/IELEX_DF1.pkl'
+#data_file = sys.argv[1]
 
 train_pairs, train_labels, test_pairs, test_labels, train_lang_pairs, test_lang_pairs = pickle.load(open(data_file))
 
@@ -129,6 +121,7 @@ n_dim = len(unique_chars)+1
 print len(languages), " LANGUAGES"
 print languages
 num_lang = len(languages)
+options.num_lang = num_lang
 
 ############################################
 ## Prep data
@@ -140,6 +133,31 @@ for i in range(len(train_pairs)):
 for i in range(len(test_pairs)):
     test.append([test_pairs[i][0], test_pairs[i][1], test_labels[i]])
 vocab = get_vocab(train, options.tokenize_simple)
+
+## Taraka Embeddings
+phonetic_features = defaultdict()
+n_dim = 16
+f = open("TarakaScripts/my_phonetic_features_without_vowel.txt.csv", "r")
+header = f.readline()
+for line in f:
+    line = line.replace("\n","")
+    arr = line.split("\t")
+    character, bin_str = arr[0], arr[1:]
+    bin_vec = [int(x) for x in arr[1:]]
+    phonetic_features[character] = bin_vec
+f.close()
+if options.use_init_taraka_embeddings:
+    options.embd_size = n_dim
+for item in vocab:
+    if item not in phonetic_features:
+        phonetic_features[item] = [0 for i in range(n_dim)]
+init_embedding_matrix = []
+inv_vocab = {vocab[x]:x for x in vocab}
+for i in range(len(vocab)):
+    init_embedding_matrix.append(phonetic_features[inv_vocab[i]])
+init_embedding_matrix = np.array(init_embedding_matrix)
+
+#exit(0)
 
 def load_data(train, vocab, labels = {'0':0,'1':1,0:0,1:1}, tokenize_simple = False):
     X,Y,Z = [],[],[]
@@ -155,8 +173,14 @@ def load_data(train, vocab, labels = {'0':0,'1':1,0:0,1:1}, tokenize_simple = Fa
 X_train, Y_train, labels_train = load_data(train, vocab, tokenize_simple = True)
 X_test,  Y_test,  labels_test  = load_data(test,  vocab, tokenize_simple = True)
 
+## SYM
+X_train.extend(Y_train)
+Y_train.extend(X_train[:len(Y_train)])
+labels_train.extend(labels_train)
+
 ## Lang Feat
 lang_vocab = {j:i for i,j in enumerate(languages)}
+train_lang_pairs.extend(train_lang_pairs) ## SYM : Since input is 2 hot, order does not matter 
 lang_train = np.zeros((len(train_lang_pairs), num_lang))
 for i in range(len(train_lang_pairs)):
     lang_train[i, lang_vocab[train_lang_pairs[i][0]]] = 1
@@ -168,16 +192,18 @@ for i in range(len(test_lang_pairs)):
 
 ## Concept Feat
 if use_concept_feat:
-    concept_dict = pickle.load(open(concept_dict_file))
+    train_cons, test_cons = pickle.load(open(data_file + '_concepts'))
     glove = pickle.load(open(glove_file))
     concept_train = []
     concept_test = []
-    for a,b in train_pairs:
-        concept_train.append(glove[concept_dict[a]])
-    for a,b in test_pairs:
-        concept_test.append(glove[concept_dict[a]])
+    for a in train_cons:
+        concept_train.append(glove[a])
+    for a in test_cons:
+        concept_test.append(glove[a])
+    concept_train.extend(concept_train) ## SYM
     concept_train = np.array(concept_train)
     concept_test = np.array(concept_test)
+
 
 XMAXLEN = options.xmaxlen
 X_train = pad_sequences(X_train, maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'post')
@@ -194,6 +220,10 @@ print "Vocab Size : ", len(vocab)
 def get_last(X):
     # get last element from time dimension
     return X[:, -1, :]
+
+def uniform_attention(X):
+    # Avergae across time dimension
+    return K.T.mean(X, axis=1)
 
 def build_model(opts, verbose=False):
 
@@ -225,10 +255,17 @@ def build_model(opts, verbose=False):
     r_a_n = Lambda(get_last, output_shape=(k,), name="r_a_n")(r_a)
     r_b_n = Lambda(get_last, output_shape=(k,), name="r_b_n")(r_b)
 
+    ## Uniform Attention
+    if opts.use_uniform_attention:
+        r_a_n =  Lambda(uniform_attention, output_shape=(k,))(word_a)
+        r_b_n =  Lambda(uniform_attention, output_shape=(k,))(word_b)
+        r_a_n =  Lambda(get_last, output_shape=(k,))(word_a)
+        r_b_n =  Lambda(get_last, output_shape=(k,))(word_b)
+
     h_star = Activation('tanh')(concatenate([r_a_n, r_b_n], axis=1))
     
     if opts.use_lang_feat:
-        input_lang_feat = Input(shape=(opts.num_lang,), dtype='int32', name="Input Lang Feat")
+        input_lang_feat = Input(shape=(opts.num_lang,), name="Input Lang Feat")
         h_star = concatenate([h_star, input_lang_feat], axis=1)
     
     if opts.use_concept_feat:
@@ -261,6 +298,10 @@ def getConfig(opts):
         conf += '_ConceptFeat'
     if opts.use_lang_feat:
         conf += '_LangFeat'
+    if opts.use_uniform_attention:
+        conf += '_UniformAtt'
+    if opts.use_init_taraka_embeddings:
+        conf += '_TarakaInit'
     return conf
 
 def compute_acc(X, Y, model, filename=None):
@@ -293,31 +334,29 @@ class WeightSave(Callback):
 
     def on_epoch_end(self,epochs, logs={}):
         Weights = self.model.get_weights()
+        print "Saving To : ", self.path + self.config_str +"_"+ str(epochs) +  ".weights"
         pickle.dump(Weights, open(self.path + self.config_str +"_"+ str(epochs) +  ".weights",'w'))
         # self.model.save_weights(self.path + self.config_str +"_"+ str(epochs) +  ".weights") 
 
 print 'Building model'
 model, attention_model = build_model(options)
 
+if options.use_init_taraka_embeddings:
+    model.layers[2].set_weights([init_embedding_matrix])
+
 #####################################
 ## Load Model
 
-Weights = pickle.load(open(file_path))
-model.set_weights(Weights)
-exit(0)
+# file_path = './Models/MAYAN_CoAtt_Model_40_10_34_0.001_0.01_12_1.weights'
+# Weights = pickle.load(open(file_path))
+# model.set_weights(Weights)
+# exit(0)
 
-# plt.xlim([0.0, 1.0])
-# plt.ylim([0.0, 1.05])
-# plt.xlabel('Recall')
-# plt.ylabel('Precision')
-# plt.title('Precision-Recall curve')
-# plt.legend(loc="lower left")
-# plt.show(block=False)
 #####################################
 
 print 'Training New Model'
-ModelSaveDir = "./Models/MAYAN_CoAtt_Model_"
-# ModelSaveDir = "./Models/" + data_file.split('/')[-1].split('.')[0] + "_CoAtt_Model_"
+# ModelSaveDir = "./Models/MAYAN_CoAtt_Model_"
+ModelSaveDir = "./Models/RE_SYM_" + data_file.split('/')[-1].split('.')[0] + "_CoAtt_Model_"
 save_weights = WeightSave(ModelSaveDir, getConfig(options))
 
 if use_lang_feat:
@@ -329,7 +368,7 @@ elif use_concept_feat:
 else:
     metrics_callback = Metrics([X_train, Y_train], labels_train, [X_test, Y_test], labels_test)    
     train_data = [X_train, Y_train]
-
+exit(0)
 history = model.fit(x = train_data, 
                     y = labels_train,
                     batch_size = options.batch_size,

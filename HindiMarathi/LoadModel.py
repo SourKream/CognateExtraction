@@ -51,26 +51,22 @@ def get_params():
     parser.add_argument('-batch', action="store", default=128, dest="batch_size", type=int)
     parser.add_argument('-xmaxlen', action="store", default=12, dest="xmaxlen", type=int)
     parser.add_argument('-lr', action="store", default=0.001, dest="lr", type=float)
-    parser.add_argument('-load', action="store", default=False, dest="load_save", type=bool)
     parser.add_argument('-l2', action="store", default=0.01, dest="l2", type=float)
     parser.add_argument('-dropout', action="store", default=0.1, dest="dropout", type=float)
-    parser.add_argument('-local', action="store", default=False, dest="local", type=bool)
     parser.add_argument('-embd', action="store", default=10, dest='embd_size', type=int)
-    parser.add_argument('-tkn_simple', action="store", default=False, dest='tokenize_simple', type=bool)
-    parser.add_argument('-concept', action="store", default=False, dest='concept', type=bool)
+    parser.add_argument('-tkn_simple', action="store", default=True, dest='tokenize_simple', type=bool)
     parser.add_argument('-langfeat', action="store", default=False, dest='use_lang_feat', type=bool)
     parser.add_argument('-conceptfeat', action="store", default=False, dest='use_concept_feat', type=bool)
-    opts = parser.parse_args(sys.argv[2:])
+    opts = parser.parse_args(sys.argv[1:])
     print "lstm_units", opts.lstm_units
     print "epochs", opts.epochs
     print "batch_size", opts.batch_size
     print "xmaxlen", opts.xmaxlen
+    print "LR", opts.lr
     print "regularization factor", opts.l2
     print "dropout", opts.dropout
-    print "LR", opts.lr
     print "Embedding Size", opts.embd_size
     print "Tokenize Simple", opts.tokenize_simple
-    print "Using Concept Fold Data", opts.concept
     print "Language Features", opts.use_lang_feat
     print "Concept Features", opts.use_concept_feat
     return opts
@@ -79,32 +75,13 @@ options = get_params()
 
 #####################################
 ## Model Properties
+
 options.lstm_units = 75
-options.use_lang_feat = False
-options.use_concept_feat = False
-file_path = './BestModels/IELEX_DF1_CoAtt_Model_70_10_35_0.001_0.02_12_16.weights'
-file_path = './BestModels/RE_SYM_IELEX_DF1_CoAtt_Model_75_10_35_0.001_0.02_12_19.weights'
-# file_path = './BestModels/IELEX_DF1_CoAtt_Model_75_10_35_0.001_0.02_12_ConceptFeat_15.weights'
-# file_path = './BestModels/Austro_DF1_CoAtt_Model_40_10_32_0.001_0.02_12_ConceptFeat_33.weights'
-# file_path = './BestModels/Mayan_DF1_CoAtt_Model_30_10_34_0.001_0.02_12_7.weights'
-# file_path = './BestModels/Mayan_DF1_CoAtt_Model_30_10_34_0.001_0.02_12_ConceptFeat_33.weights'
-#####################################
-
-use_lang_feat = options.use_lang_feat
-use_concept_feat = options.use_concept_feat
-
+options.embd_size = 30
+file_path = './Models/RE_IPA_IELEX_DF1_CoAtt_Model_75_30_161_0.001_0.02_12_30.weights'
 ############################################
 
-concept_dict_file = '../DataPickles/ConceptDict.pkl'
-glove_file = '../DataPickles/ConceptGloveEmbeddings.pkl'
-
-# data_file = 'data/abvd2-part2.tsv.asjp'
-# data_file = 'data/Mayan.tsv'
-# data_file = 'data/IELex-2016.tsv.asjp'
-# data_file = '../DataPickles/CrossLanguage/Austro/LangInfo_DataFold1.pkl'
-# data_file = '../DataPickles/CrossLanguage/Mayan/LangInfo_DataFold1.pkl'
-data_file = '../DataPickles/CrossLanguage/IELex_ASJP/LangInfo_DataFold1.pkl'
-
+data_file = '../Code/DataPickles/CrossLanguage/IELex/LangInfo_DataFold1.pkl'
 train_pairs, train_labels, test_pairs, test_labels, train_lang_pairs, test_lang_pairs = pickle.load(open(data_file))
 
 languages = set([])
@@ -123,11 +100,11 @@ for word_a, word_b in test_pairs:
 unique_chars = list(unique_chars)
 
 print len(unique_chars), " CHARACTERS"
-print unique_chars
+# print unique_chars
 n_dim = len(unique_chars)+1
 
 print len(languages), " LANGUAGES"
-print languages
+# print languages
 num_lang = len(languages)
 
 ############################################
@@ -141,7 +118,7 @@ for i in range(len(test_pairs)):
     test.append([test_pairs[i][0], test_pairs[i][1], test_labels[i]])
 vocab = get_vocab(train, options.tokenize_simple)
 
-def load_data(train, vocab, labels = {'0':0,'1':1,0:0,1:1}, tokenize_simple = False):
+def load_data(train, vocab, labels = {'0':0,'1':1,0:0,1:1}, tokenize_simple = True):
     X,Y,Z = [],[],[]
     for p,h,l in train:
         p = map_to_idx(tokenize(p, tokenize_simple), vocab)
@@ -152,32 +129,19 @@ def load_data(train, vocab, labels = {'0':0,'1':1,0:0,1:1}, tokenize_simple = Fa
             Z += [labels[l]]
     return X,Y,Z
 
-X_train, Y_train, labels_train = load_data(train, vocab, tokenize_simple = True)
-X_test,  Y_test,  labels_test  = load_data(test,  vocab, tokenize_simple = True)
+def load_test_data(data, vocab, maxlen = options.xmaxlen, tokenize_simple = True):
+    X,Y = [],[]
+    for p,h in data:
+        p = map_to_idx(tokenize(p, tokenize_simple), vocab)
+        h = map_to_idx(tokenize(h, tokenize_simple), vocab)
+        X.append(p)
+        Y.append(h)
+    X = pad_sequences(X, maxlen=maxlen, value=vocab["pad_tok"], padding = 'post')
+    Y = pad_sequences(Y, maxlen=maxlen, value=vocab["pad_tok"], padding = 'post')
+    return X,Y
 
-## Lang Feat
-lang_vocab = {j:i for i,j in enumerate(languages)}
-lang_train = np.zeros((len(train_lang_pairs), num_lang))
-for i in range(len(train_lang_pairs)):
-    lang_train[i, lang_vocab[train_lang_pairs[i][0]]] = 1
-    lang_train[i, lang_vocab[train_lang_pairs[i][1]]] = 1
-lang_test = np.zeros((len(test_lang_pairs), num_lang))
-for i in range(len(test_lang_pairs)):
-    lang_test[i, lang_vocab[test_lang_pairs[i][0]]] = 1
-    lang_test[i, lang_vocab[test_lang_pairs[i][1]]] = 1
-
-## Concept Feat
-if use_concept_feat:
-    concept_dict = pickle.load(open(concept_dict_file))
-    glove = pickle.load(open(glove_file))
-    concept_train = []
-    concept_test = []
-    for a,b in train_pairs:
-        concept_train.append(glove[concept_dict[a]])
-    for a,b in test_pairs:
-        concept_test.append(glove[concept_dict[a]])
-    concept_train = np.array(concept_train)
-    concept_test = np.array(concept_test)
+X_train, Y_train, labels_train = load_data(train, vocab)
+X_test,  Y_test,  labels_test  = load_data(test,  vocab)
 
 XMAXLEN = options.xmaxlen
 X_train = pad_sequences(X_train, maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'post')
@@ -272,96 +236,15 @@ def compute_acc(X, Y, model, filename=None):
 
     return p[1], r[1], f[1], auc(recall, precision)
 
-class Metrics(Callback):
-    def __init__(self, train_x, train_y, test_x, test_y):
-        self.train_x = train_x
-        self.train_y = train_y
-        self.test_x = test_x 
-        self.test_y = test_y
-
-    def on_epoch_end(self, epochs, logs={}):
-        train_pre, train_rec, train_f, train_auc = compute_acc(self.train_x, self.train_y, self.model)
-        test_pre, test_rec, test_f, test_auc  = compute_acc(self.test_x, self.test_y, self.model)
-        print "\n\nTraining -> Precision: ", train_pre, "\t Recall: ", train_rec, "\t F-Score: ", train_f, "\t AUC: ", train_auc
-        print "Testing  -> Precision: ", test_pre,  "\t Recall: ", test_rec,  "\t F-Score: ", test_f, "\t AUC: ", test_auc, "\n"
-
-
-class WeightSave(Callback):
-    def __init__(self, path, config_str):
-        self.path = path
-        self.config_str = config_str
-
-    def on_epoch_end(self,epochs, logs={}):
-        Weights = self.model.get_weights()
-        pickle.dump(Weights, open(self.path + self.config_str +"_"+ str(epochs) +  ".weights",'w'))
-        # self.model.save_weights(self.path + self.config_str +"_"+ str(epochs) +  ".weights") 
+#####################################
+## Load Model
 
 print 'Building model'
 model, attention_model = build_model(options)
 
-#####################################
-## Load Model
-
 Weights = pickle.load(open(file_path))
 model.set_weights(Weights)
-exit(0)
-
-# plt.xlim([0.0, 1.0])
-# plt.ylim([0.0, 1.05])
-# plt.xlabel('Recall')
-# plt.ylabel('Precision')
-# plt.title('Precision-Recall curve')
-# plt.legend(loc="lower left")
-# plt.show(block=False)
-#####################################
-
-print 'Training New Model'
-ModelSaveDir = "./Models/MAYAN_CoAtt_Model_"
-# ModelSaveDir = "./Models/" + data_file.split('/')[-1].split('.')[0] + "_CoAtt_Model_"
-save_weights = WeightSave(ModelSaveDir, getConfig(options))
-
-if use_lang_feat:
-    metrics_callback = Metrics([X_train, Y_train, lang_train], labels_train, [X_test, Y_test, lang_test], labels_test)
-    train_data = [X_train, Y_train, lang_train]
-elif use_concept_feat:
-    metrics_callback = Metrics([X_train, Y_train, concept_train], labels_train, [X_test, Y_test, concept_test], labels_test)
-    train_data = [X_train, Y_train, concept_train]
-else:
-    metrics_callback = Metrics([X_train, Y_train], labels_train, [X_test, Y_test], labels_test)    
-    train_data = [X_train, Y_train]
-
-history = model.fit(x = train_data, 
-                    y = labels_train,
-                    batch_size = options.batch_size,
-                    epochs = options.epochs,
-                    class_weight = {1:2.0, 0:1.0},
-                    callbacks = [metrics_callback, save_weights])
-
-#####################################
-## Results
-
-if use_lang_feat:
-    tr_score = model.predict([X_train, Y_train, lang_train], verbose=1)
-    te_score = model.predict([X_test, Y_test, lang_test], verbose=1)
-elif use_concept_feat:
-    tr_score = model.predict([X_train, Y_train, concept_train], verbose=1)
-    te_score = model.predict([X_test, Y_test, concept_test], verbose=1)
-else:
-    tr_score = model.predict([X_train, Y_train], verbose=1)
-    te_score = model.predict([X_test, Y_test], verbose=1)
-
-print("\n\nAverage Precision Score %s " %(metrics.average_precision_score(labels_test, te_score, average="micro")))
-c = tr_score > 0.5
-b = te_score > 0.5
-tr_pred = c.astype('int')
-te_pred = b.astype('int')
-
-print("Training")
-print(metrics.classification_report(labels_train, tr_pred, digits=3))
-print("Testing")
-print(metrics.classification_report(labels_test, te_pred, digits=3))
-print("Testing Accuracy")
-print(metrics.accuracy_score(labels_test, te_pred))
 
 #####################################
 #####################################
+#####################################/

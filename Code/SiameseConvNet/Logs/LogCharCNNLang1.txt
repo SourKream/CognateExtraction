@@ -1,0 +1,89 @@
+Using Theano backend.
+Couldn't import dot_parser, loading of dot files will not be possible.
+38  CHARACTERS
+[u'o', u'k', u's', u'i', u'f', u't', u'e', u'r', u'w', u'u', u'3', u'G', u'C', u'y', u'g', u'z', u'd', u'h', u'a', u'S', u'n', u'v', u'x', u'b', u'p', u'E', u'l', u'8', u'm', u'T', u'7', u'Z', u'L', u'c', u'5', u'N', u'j', u'q']
+52  LANGUAGES
+[u'ANCIENT_GREEK', u'GREEK', u'CLASSICAL_ARMENIAN', u'ARMENIAN_EASTERN', u'OSSETIC', u'OSSETIC_IRON', u'OSSETIC_DIGOR', u'BIHARI', u'URDU', u'MARATHI', u'OLD_CHURCH_SLAVONIC', u'SERBO-CROATIAN', u'BULGARIAN', u'MACEDONIAN', u'RUSSIAN', u'POLISH', u'BELARUSIAN', u'UKRAINIAN', u'SLOVAK', u'CZECH', u'SORBIAN_UPPER', u'SORBIAN_LOWER', u'SLOVENIAN', u'OLD_NORSE', u'ICELANDIC', u'FAROESE', u'NORWEGIAN_RIKSMAL', u'STAVANGERSK', u'OLD_SWEDISH', u'SWEDISH', u'ELFDALIAN', u'DANISH', u'DANISH_FJOLDE', u'GUTNISH_LAU', u'ENGLISH', u'FRISIAN', u'DUTCH', u'GERMAN', u'LATIN', u'PORTUGUESE', u'SPANISH', u'FRENCH', u'ITALIAN', u'OLD_IRISH', u'MIDDLE_CORNISH', u'MIDDLE_BRETON', u'IRISH', u'ORIYA', u'MAGAHI', u'CATALAN', u'BRETON', u'ASSAMESE']
+No. of concepts 207
+No. of training concepts 144 testing concepts 63
+(223666, 39, 10) (223666, 39, 10)
+Random labeling training accuracy 0.723445
+Random labeling test accuracy 0.790993
+(223666, 39, 10) (223666, 39, 10)
+(103092, 39, 10) (103092, 39, 10)
+____________________________________________________________________________________________________
+Layer (type)                     Output Shape          Param #     Connected to                     
+====================================================================================================
+input_3 (InputLayer)             (None, 1, 39, 10)     0                                            
+____________________________________________________________________________________________________
+reshape_1 (Reshape)              (None, 39, 10, 1)     0           input_3[0][0]                    
+____________________________________________________________________________________________________
+convolution2d_1 (Convolution2D)  (None, 1, 9, 10)      790         reshape_1[0][0]                  
+____________________________________________________________________________________________________
+maxpooling2d_1 (MaxPooling2D)    (None, 1, 4, 10)      0           convolution2d_1[0][0]            
+____________________________________________________________________________________________________
+flatten_1 (Flatten)              (None, 40)            0           maxpooling2d_1[0][0]             
+====================================================================================================
+Total params: 790
+Trainable params: 790
+Non-trainable params: 0
+____________________________________________________________________________________________________
+(None, 40)
+____________________________________________________________________________________________________
+Layer (type)                     Output Shape          Param #     Connected to                     
+====================================================================================================
+input_1 (InputLayer)             (None, 1, 39, 10)     0                                            
+____________________________________________________________________________________________________
+input_2 (InputLayer)             (None, 1, 39, 10)     0                                            
+____________________________________________________________________________________________________
+model_1 (Model)                  (None, 40)            790         input_1[0][0]                    
+                                                                   input_2[0][0]                    
+____________________________________________________________________________________________________
+merge_1 (Merge)                  (None, 40)            0           model_1[1][0]                    
+                                                                   model_1[2][0]                    
+____________________________________________________________________________________________________
+lang_in (InputLayer)             (None, 52)            0                                            
+____________________________________________________________________________________________________
+merge_2 (Merge)                  (None, 92)            0           merge_1[0][0]                    
+                                                                   lang_in[0][0]                    
+____________________________________________________________________________________________________
+dense_1 (Dense)                  (None, 92)            8556        merge_2[0][0]                    
+____________________________________________________________________________________________________
+dropout_1 (Dropout)              (None, 92)            0           dense_1[0][0]                    
+____________________________________________________________________________________________________
+dense_2 (Dense)                  (None, 1)             93          dropout_1[0][0]                  
+====================================================================================================
+Total params: 9,439
+Trainable params: 9,439
+Non-trainable params: 0
+____________________________________________________________________________________________________
+Train on 223666 samples, validate on 103092 samples
+Epoch 1/100
+223666/223666 [==============================] - 8s - loss: 0.4355 - acc: 0.8008 - val_loss: 0.3649 - val_acc: 0.8537
+Epoch 2/100
+223666/223666 [==============================] - 8s - loss: 0.3503 - acc: 0.8517 - val_loss: 0.3605 - val_acc: 0.8547
+Epoch 3/100
+223666/223666 [==============================] - 9s - loss: 0.3299 - acc: 0.8610 - val_loss: 0.3621 - val_acc: 0.8553
+Epoch 4/100
+223666/223666 [==============================] - 8s - loss: 0.3196 - acc: 0.8661 - val_loss: 0.3623 - val_acc: 0.8571
+102560/103092 [============================>.] - ETA: 0s 
+
+Average Precision Score 0.702152845846 
+Training
+             precision    recall  f1-score   support
+
+          0      0.886     0.942     0.913    161810
+          1      0.819     0.684     0.745     61856
+
+avg / total      0.868     0.871     0.867    223666
+
+Testing
+             precision    recall  f1-score   support
+
+          0      0.893     0.931     0.912     81545
+          1      0.689     0.576     0.628     21547
+
+avg / total      0.850     0.857     0.852    103092
+
+Testing Accuracy
+0.857137314244

@@ -1,0 +1,359 @@
+Pretraining on	data/Austro_CF_DF.pkl
+Training on  data/Mayan_CF_DF.pkl
+37  CHARACTERS
+[u'3', u'5', u'7', u'8', u'C', u'E', u'G', u'L', u'N', u'S', u'T', u'X', u'a', u'c', u'b', u'e', u'd', u'g', u'f', u'i', u'h', u'k', u'm', u'l', u'o', u'n', u'q', u'p', u's', u'r', u'u', u't', u'w', u'v', u'y', u'x', u'z']
+130  LANGUAGES
+[u'Teanu', u'SIPAKAPENSE', u'Banjarese Malay', u'TZUTUJIL_SAN_JUAN_LA_LAGUNA', u'Lampung', u'MAM_NORTHERN', u'Patpatar', u'Tabar', u'POQOMCHI_WESTERN', u'Ambrym, South-East', u'Magori (South East Papua)', u'Futuna-Aniwa', u'Wuna', u'Tikopia', u'Cheke Holo', u'CHORTI', u'Windesi Wandamen', u'LACANDON', u'ZINACANTAN_TZOTZIL', u'Gapapaiwa', u'Bunun, Southern', u'Tunjung', u'Sekar', u'CHOL_TUMBALA', u'Manam', u'Roti (Termanu Dialect)', u'MOCHO', u'ITZAJ', u'Tontemboan', u'Vitu', u'Alune', u'SACAPULTECO_SACAPULAS_CENTRO', u'Tongan', u'Dobuan', u'Rejang Rejang', u'Makassar', u'Watubela', u'Carolinian', u'Katingan', u'SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA', u'Kisar', u'Mambai', u'Tboli (Tagabili)', u'Sasak', u'Wogeo', u'Lenakel', u'CENTRAL_QUICHE', u'EASTERN_KEKCHI_CAHABON', u'JACALTEC', u'Tetum', u'Molima', u'Wolio', u'Anejom (Aneityum)', u'Sengseng', u'Dehu', u'Ubir', u'CHUJ', u'Marshallese (E. Dialect)', u'Nakanai (Bileki Dialect)', u'Paiwan (Kulalao)', u'Rotuman', u'Tsou', u'USPANTEKO', u'Singhi', u'Ujir (N.Aru)', u'Toba Batak', u'Futuna, East', u'CHICOMUCELTEC', u'Bonfia', u'Samoan', u'Waropen', u'TZELTAL_BACHAJON', u'MAYA_YUCATAN', u'Santa Ana', u'Kapingamarangi', u'Kanakanabu', u'Melayu Ambon', u'AGUACATEC', u'Tuvalu', u'Lahanan', u'TECO_TECTITAN', u'QANJOBAL_SANTA_EULALIA', u'Kwaraae (Solomon Islands)', u'Maanyan', u'Roviana', u'Cebuano', u'Savu', u'Ririo', u'POCOMAM_EASTERN', u'IXIL_CHAJUL', u'Soboyo', u'Bukat', u'Minangkabau', u'Teop', u'MOPAN', u'Wuvulu', u'Punan Kelai', u'Kilivila', u'Itbayaten', u'Sangir', u'Chuukese', u'TOJOLABAL', u'Varisi', u'Seimat', u'Dayak Ngaju', u'Rurutuan', u'Tae (S.Toraja)', u'Ponapean', u'Taiof', u'Baree', u'Yakan', u'Vaghua', u'Raga', u'CHONTAL_TABASCO', u'ACATECO_SAN_MIGUEL_ACATAN', u'Tahitian (Modern)', u'Elat, Kei Besar', u'Belait', u'Rennellese', u'Lio, Flores Tongah', u'HUASTEC', u'Koiwai (Irian Jaya)', u'Woleai', u'Toambaita', u'As', u'Sika', u'Western Bukidnon Manobo', u'Jawe', u'Selaru', u'Tigak']
+lstm_units 50
+epochs 20
+batch_size 128
+xmaxlen 12
+regularization factor 0.02
+dropout 0.1
+LR 0.001
+Embedding Size 10
+Tokenize Simple False
+Using Concept Fold Data False
+Vocab Size :  39
+Building model
+NO MASKING
+NO MASKING
+____________________________________________________________________________________________________
+Layer (type)			 Output Shape	       Param #	   Connected to
+====================================================================================================
+Input Word A (InputLayer)	 (None, 12)	       0
+____________________________________________________________________________________________________
+Input Word B (InputLayer)	 (None, 12)	       0
+____________________________________________________________________________________________________
+Embedding Layer (Embedding)	 (None, 12, 10)	       390
+____________________________________________________________________________________________________
+spatial_dropout1d_1 (SpatialDrop (None, 12, 10)	       0
+____________________________________________________________________________________________________
+Bidir LSTM Layer (Bidirectional) (None, 12, 100)       24400
+____________________________________________________________________________________________________
+LSTM Dropout Layer (SpatialDropo (None, 12, 100)       0
+____________________________________________________________________________________________________
+Attention Layer (WbwAttentionLay [(None, 12, 100), (No 40100
+____________________________________________________________________________________________________
+r_a_n (Lambda)			 (None, 100)	       0
+____________________________________________________________________________________________________
+r_b_n (Lambda)			 (None, 100)	       0
+____________________________________________________________________________________________________
+concatenate_1 (Concatenate)	 (None, 200)	       0
+____________________________________________________________________________________________________
+activation_1 (Activation)	 (None, 200)	       0
+____________________________________________________________________________________________________
+Hidden Layer (Dense)		 (None, 20)	       4020
+____________________________________________________________________________________________________
+Output Layer (Dense)		 (None, 1)	       21
+====================================================================================================
+Total params: 68,931.0
+Trainable params: 68,931.0
+Non-trainable params: 0.0
+____________________________________________________________________________________________________
+Model Compiled
+Training New Model
+Starting Pretraining...
+Training data shape =  (375693, 12)
+Epoch 1/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.833059
+
+Training -> Precision:	0.534473027244	 Recall:  0.781101038221	 F-Score:  0.63466960537
+Testing	 -> Precision:	0.419213353962	 Recall:  0.710037264094	 F-Score:  0.52717633829
+
+375693/375693 [==============================] - 591s - loss: 0.8330
+Epoch 2/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.731711
+
+Training -> Precision:	0.641348729283	 Recall:  0.738771107463	 F-Score:  0.686621405456
+Testing	 -> Precision:	0.521043030368	 Recall:  0.583675922587	 F-Score:  0.550583966436
+
+375693/375693 [==============================] - 551s - loss: 0.7317
+Epoch 3/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.659988
+
+Training -> Precision:	0.6938624258	 Recall:  0.794528913952	 F-Score:  0.740791409999
+Testing	 -> Precision:	0.541023432496	 Recall:  0.588940978483	 F-Score:  0.563966203928
+
+375693/375693 [==============================] - 548s - loss: 0.6599
+Epoch 4/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.592343
+
+Training -> Precision:	0.692642266312	 Recall:  0.861406556103	 F-Score:  0.767860804152
+Testing	 -> Precision:	0.525574441297	 Recall:  0.642288736627	 F-Score:  0.578099473098
+
+375693/375693 [==============================] - 560s - loss: 0.5923
+Epoch 5/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.540314
+
+Training -> Precision:	0.769683180218	 Recall:  0.853213410427	 F-Score:  0.80929865147
+Testing	 -> Precision:	0.571284538013	 Recall:  0.572136074047	 F-Score:  0.571709988949
+
+375693/375693 [==============================] - 571s - loss: 0.5403
+Epoch 6/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.499412
+
+Training -> Precision:	0.772965906354	 Recall:  0.891006575138	 F-Score:  0.827799392814
+Testing	 -> Precision:	0.564765554554	 Recall:  0.602307969708	 F-Score:  0.582932930022
+
+375693/375693 [==============================] - 552s - loss: 0.4994
+Epoch 7/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.465271
+
+Training -> Precision:	0.832727736821	 Recall:  0.87975983693		 F-Score:  0.855597937389
+Testing	 -> Precision:	0.603505021238	 Recall:  0.515783147013	 F-Score:  0.556206574717
+
+375693/375693 [==============================] - 546s - loss: 0.4652
+Epoch 8/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.435027
+
+Training -> Precision:	0.84072144646	 Recall:  0.897280319794	 F-Score:  0.868080600359
+Testing	 -> Precision:	0.603654627057	 Recall:  0.543238369996	 F-Score:  0.571855188733
+
+375693/375693 [==============================] - 545s - loss: 0.4350
+Epoch 9/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.408045
+
+Training -> Precision:	0.810788888042	 Recall:  0.927570371428	 F-Score:  0.865256989812
+Testing	 -> Precision:	0.571882293496	 Recall:  0.571414833514	 F-Score:  0.57164846794
+
+375693/375693 [==============================] - 545s - loss: 0.4080
+Epoch 10/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.387915
+
+Training -> Precision:	0.863568740051	 Recall:  0.920781085175	 F-Score:  0.891257701092
+Testing	 -> Precision:	0.599692240053	 Recall:  0.524678446929	 F-Score:  0.559683024094
+
+375693/375693 [==============================] - 544s - loss: 0.3879
+Epoch 11/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.370288
+
+Training -> Precision:	0.872915408643	 Recall:  0.92870456294		 F-Score:  0.89994619937
+Testing	 -> Precision:	0.599290780142	 Recall:  0.515999519173	 F-Score:  0.55453500239
+
+375693/375693 [==============================] - 558s - loss: 0.3702
+Epoch 12/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.353034
+
+Training -> Precision:	0.883440412022	 Recall:  0.934661051229	 F-Score:  0.908329222421
+Testing	 -> Precision:	0.596068754255	 Recall:  0.505228993869	 F-Score:  0.546902447593
+
+375693/375693 [==============================] - 557s - loss: 0.3530
+Epoch 13/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.338564
+
+Training -> Precision:	0.867723795532	 Recall:  0.950944234262	 F-Score:  0.907429972678
+Testing	 -> Precision:	0.588949275362	 Recall:  0.547109027527	 F-Score:  0.567258677634
+
+375693/375693 [==============================] - 556s - loss: 0.3385
+Epoch 14/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.325654
+
+Training -> Precision:	0.881409716166	 Recall:  0.953918512702	 F-Score:  0.916231802357
+Testing	 -> Precision:	0.587414983919	 Recall:  0.535713427095	 F-Score:  0.560374203121
+
+375693/375693 [==============================] - 556s - loss: 0.3256
+Epoch 15/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.315355
+
+Training -> Precision:	0.897476634817	 Recall:  0.95432301457		 F-Score:  0.925027292157
+Testing	 -> Precision:	0.600475422362	 Recall:  0.510133429499	 F-Score:  0.551630010919
+
+375693/375693 [==============================] - 553s - loss: 0.3153
+Epoch 16/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.304035
+
+Training -> Precision:	0.891854939435	 Recall:  0.957130733417	 F-Score:  0.923340602165
+Testing	 -> Precision:	0.594580366296	 Recall:  0.515903353768	 F-Score:  0.552454753752
+
+375693/375693 [==============================] - 546s - loss: 0.3040
+Epoch 17/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.296755
+
+Training -> Precision:	0.899094945482	 Recall:  0.962048207105	 F-Score:  0.929506877658
+Testing	 -> Precision:	0.590659925492	 Recall:  0.533645870898	 F-Score:  0.560707293969
+
+375693/375693 [==============================] - 552s - loss: 0.2966
+Epoch 18/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.287921
+
+Training -> Precision:	0.916579643421	 Recall:  0.953728158882	 F-Score:  0.934784974657
+Testing	 -> Precision:	0.600508604885	 Recall:  0.488231758625	 F-Score:  0.53858088128
+
+375693/375693 [==============================] - 551s - loss: 0.2879
+Epoch 19/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.281731
+
+Training -> Precision:	0.909256688304	 Recall:  0.960993329685	 F-Score:  0.934409414813
+Testing	 -> Precision:	0.607262234666	 Recall:  0.51102295949		 F-Score:  0.555001436069
+
+375693/375693 [==============================] - 551s - loss: 0.2817
+Epoch 20/20
+375680/375693 [============================>.] - ETA: 0ss--loss::0.275300
+
+Training -> Precision:	0.901145846399	 Recall:  0.968702659401	 F-Score:  0.933703853769
+Testing	 -> Precision:	0.589100055897	 Recall:  0.50674359899		 F-Score:  0.544827140549
+
+375693/375693 [==============================] - 550s - loss: 0.2753
+Starting Training...
+Epoch 1/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.52314
+
+Training -> Precision:	0.881927931224	 Recall:  0.919958023278	 F-Score:  0.900541651102
+Testing	 -> Precision:	0.670739549839	 Recall:  0.728182452874	 F-Score:  0.698281633564
+
+28222/28222 [==============================] - 41s - loss: 0.5228
+Epoch 2/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.34627
+
+Training -> Precision:	0.914664230242	 Recall:  0.955065827132	 F-Score:  0.934428524758
+Testing	 -> Precision:	0.694679849341	 Recall:  0.686758203398	 F-Score:  0.690696313634
+
+28222/28222 [==============================] - 41s - loss: 0.3463
+Epoch 3/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.28882
+
+Training -> Precision:	0.924681980415	 Recall:  0.963938179737	 F-Score:  0.943902097249
+Testing	 -> Precision:	0.687716863289	 Recall:  0.691878054457	 F-Score:  0.689791183295
+
+28222/28222 [==============================] - 42s - loss: 0.2889
+Epoch 4/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.25015
+
+Training -> Precision:	0.955477501424	 Recall:  0.960217515741	 F-Score:  0.957841644461
+Testing	 -> Precision:	0.702138239682	 Recall:  0.657202699558	 F-Score:  0.67892775574
+
+28222/28222 [==============================] - 41s - loss: 0.2501
+Epoch 5/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.22764
+
+Training -> Precision:	0.935354638988	 Recall:  0.98006105705		 F-Score:  0.957186116935
+Testing	 -> Precision:	0.694479830149	 Recall:  0.761228764254	 F-Score:  0.726323970245
+
+28222/28222 [==============================] - 42s - loss: 0.2277
+Epoch 6/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.21037
+
+Training -> Precision:	0.93503564017	 Recall:  0.988647204732	 F-Score:  0.961094365871
+Testing	 -> Precision:	0.669658886894	 Recall:  0.607633232488	 F-Score:  0.637140068326
+
+28222/28222 [==============================] - 41s - loss: 0.2101
+Epoch 7/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.19715
+
+Training -> Precision:	0.959002614867	 Recall:  0.979679450487	 F-Score:  0.969230769231
+Testing	 -> Precision:	0.715987610198	 Recall:  0.699325110542	 F-Score:  0.70755827643
+
+28222/28222 [==============================] - 42s - loss: 0.1973
+Epoch 8/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.18782
+
+Training -> Precision:	0.969017798286	 Recall:  0.981682884946	 F-Score:  0.975309227051
+Testing	 -> Precision:	0.670671764063	 Recall:  0.571561554573	 F-Score:  0.617162960171
+
+28222/28222 [==============================] - 41s - loss: 0.1879
+Epoch 9/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.17508
+
+Training -> Precision:	0.964647874221	 Recall:  0.989219614577	 F-Score:  0.976779237907
+Testing	 -> Precision:	0.690315898498	 Recall:  0.620432860135	 F-Score:  0.653511459738
+
+28222/28222 [==============================] - 42s - loss: 0.1749
+Epoch 10/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.17266
+
+Training -> Precision:	0.956645540553	 Recall:  0.993608090059	 F-Score:  0.974776545463
+Testing	 -> Precision:	0.700022386389	 Recall:  0.727717011869	 F-Score:  0.71360109539
+
+28222/28222 [==============================] - 41s - loss: 0.1727
+Epoch 11/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.16075
+
+Training -> Precision:	0.977178423237	 Recall:  0.988551803091	 F-Score:  0.982832210946
+Testing	 -> Precision:	0.713540236199	 Recall:  0.604607865953	 F-Score:  0.654572940287
+
+28222/28222 [==============================] - 42s - loss: 0.1606
+Epoch 12/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.15764
+
+Training -> Precision:	0.968045463015	 Recall:  0.991318450677	 F-Score:  0.979543740573
+Testing	 -> Precision:	0.695393078157	 Recall:  0.70607400512		 F-Score:  0.700692840647
+
+28222/28222 [==============================] - 41s - loss: 0.1575
+Epoch 13/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.15380
+
+Training -> Precision:	0.980596308566	 Recall:  0.988360999809	 F-Score:  0.984463343945
+Testing	 -> Precision:	0.717243335224	 Recall:  0.588550151268	 F-Score:  0.64655503004
+
+28222/28222 [==============================] - 42s - loss: 0.1537
+Epoch 14/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.14601
+
+Training -> Precision:	0.977990970655	 Recall:  0.991986262164	 F-Score:  0.984938903097
+Testing	 -> Precision:	0.691763039887	 Recall:  0.682103793344	 F-Score:  0.68689946098
+
+28222/28222 [==============================] - 41s - loss: 0.1462
+Epoch 15/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.14235
+
+Training -> Precision:	0.973038756787	 Recall:  0.9916046556	 F-Score:  0.982233982234
+Testing	 -> Precision:	0.706208985361	 Recall:  0.651151966488	 F-Score:  0.677563869718
+
+28222/28222 [==============================] - 41s - loss: 0.1421
+Epoch 16/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.14014
+
+Training -> Precision:	0.980071442	 Recall:  0.994657508109	 F-Score:  0.987310606061
+Testing	 -> Precision:	0.710277852711	 Recall:  0.612753083547	 F-Score:  0.65792103948
+
+28222/28222 [==============================] - 40s - loss: 0.1400
+Epoch 17/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.13190
+
+Training -> Precision:	0.982072089073	 Recall:  0.992940278573	 F-Score:  0.987476280835
+Testing	 -> Precision:	0.700562209729	 Recall:  0.66697696067		 F-Score:  0.683357176919
+
+28222/28222 [==============================] - 41s - loss: 0.1319
+Epoch 18/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.13023
+
+Training -> Precision:	0.983006042296	 Recall:  0.993321885136	 F-Score:  0.988137040903
+Testing	 -> Precision:	0.704769310524	 Recall:  0.632767046777	 F-Score:  0.666830165543
+
+28222/28222 [==============================] - 41s - loss: 0.1301
+Epoch 19/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.12934
+
+Training -> Precision:	0.981657416988	 Recall:  0.995611524518	 F-Score:  0.988585231848
+Testing	 -> Precision:	0.729994837377	 Recall:  0.658133581569	 F-Score:  0.692204136581
+
+28222/28222 [==============================] - 41s - loss: 0.1293
+Epoch 20/20
+28160/28222 [============================>.] - ETA: 0ss--loss::0.12627
+
+Training -> Precision:	0.983125942685	 Recall:  0.994943713032	 F-Score:  0.988999525842
+Testing	 -> Precision:	0.694755157842	 Recall:  0.65045380498		 F-Score:  0.671875
+
+28222/28222 [==============================] - 41s - loss: 0.1262
+12320/12344 [============================>.] - ETA: 0ss
+
+Average Precision Score 0.760556516081
+Training
+	     precision	  recall  f1-score   support
+
+	  0	 0.997	   0.990     0.993     17740
+	  1	 0.983	   0.995     0.989     10482
+
+avg / total	 0.992	   0.992     0.992     28222
+
+Testing
+	     precision	  recall  f1-score   support
+
+	  0	 0.819	   0.847     0.833	8047
+	  1	 0.695	   0.650     0.672	4297
+
+avg / total	 0.776	   0.779     0.777     12344
+
+Testing Accuracy
+0.778839922229

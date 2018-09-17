@@ -44,22 +44,120 @@ sys.stdout = UTF8Writer(sys.stdout)
 
 np.random.seed(1337)
 
+unique_chars = []
+languages = []
+max_word_len = 10
+nb_filter = 16
+filter_length = 2
+nb_epoch = 20
+batch_size = 128
+tr_threshold = 0.7
+
+def make_pairs(d):
+    tr_labels = []
+    tr_pairs = []
+    tr_lang_pairs = []
+    te_labels = []
+    te_pairs = []
+    te_lang_pairs = []
+    concepts = d.keys()
+    n_concepts = len(concepts)
+    print "No. of concepts %d" %(n_concepts)
+    # len_concepts = int(sys.argv[1])
+    len_concepts = int(n_concepts * 0.7)
+    tr_concepts = concepts[:len_concepts]
+    te_concepts = concepts[len_concepts:]
+    print "No. of training concepts %d testing concepts %d" %(len(tr_concepts),len(te_concepts))
+    for concept in tr_concepts:
+        for i1, i2 in it.combinations(d[concept], r=2):
+            w1, g1, l1 = i1
+            w2, g2, l2 = i2
+            if l1 != l2:
+                tr_pairs.append((w1,w2))
+                tr_lang_pairs.append((l1, l2))
+                if g1 == g2:
+                    tr_labels.append(1)
+                else:
+                    tr_labels.append(0)
+    for concept in te_concepts:
+        for i1, i2 in it.combinations(d[concept], r=2):
+            w1, g1, l1 = i1
+            w2, g2, l2 = i2
+            if l1 != l2:
+                te_pairs.append((w1,w2))
+                te_lang_pairs.append((l1, l2))
+                if g1 == g2:
+                    te_labels.append(1)
+                else:
+                    te_labels.append(0)
+
+    return (tr_pairs, tr_labels, te_pairs, te_labels, tr_lang_pairs, te_lang_pairs)
+
+data_file = sys.argv[1]
+#data_file = 'data/abvd2-part2.tsv.asjp'
+#data_file = 'data/Mayan.tsv'
+#data_file = 'data/IELex-2016.tsv.asjp'
+d = defaultdict(list)
+
+f = codecs.open(data_file,"r", encoding="utf-8")
+f.readline()
+for line in f:
+    line = line.strip()
+    arr = line.split("\t")
+    lang = arr[0]
+    if lang not in languages:
+        languages.append(lang)
+    concept = arr[3]
+    cogid = arr[6]
+    cogid = cogid.replace("-","")
+    cogid = cogid.replace("?","")
+    asjp_word = arr[5].split(",")[0]
+    asjp_word = asjp_word.replace(" ", "")
+    #tokenized_word = ipa2tokens(asjp_word)
+    #asjp_word = "".join(tokens2class(tokenized_word, 'asjp'))
+    asjp_word = asjp_word.replace("%","")
+    asjp_word = asjp_word.replace("~","")
+    asjp_word = asjp_word.replace("*","")
+    asjp_word = asjp_word.replace("$","")
+    asjp_word = asjp_word.replace("K","k")
+    asjp_word = asjp_word.replace("\"","")
+    if len(asjp_word) < 1:
+        continue
+    for x in asjp_word:
+        if x not in unique_chars:
+            unique_chars.append(x)
+    # if len(asjp_word) > max_word_len:
+    #     #print "Exceeded maximum word length %s ",word 
+    #     asjp_word = asjp_word[:max_word_len]
+    # else:
+    #     asjp_word = asjp_word.center(max_word_len,"0")
+    d[concept].append((asjp_word, cogid, lang))
+    
+f.close()
+
+print len(unique_chars), " CHARACTERS"
+print unique_chars
+
+print len(languages), " LANGUAGES"
+print languages
+
+############################################
+## Prep data
+
 def get_params():
     parser = argparse.ArgumentParser(description='Short sample app')
-    parser.add_argument('-lstm', action="store", default=40, dest="lstm_units", type=int)
-    parser.add_argument('-epochs', action="store", default=20, dest="epochs", type=int)
+    parser.add_argument('-lstm', action="store", default=30, dest="lstm_units", type=int)
+    parser.add_argument('-epochs', action="store", default=15, dest="epochs", type=int)
     parser.add_argument('-batch', action="store", default=128, dest="batch_size", type=int)
     parser.add_argument('-xmaxlen', action="store", default=12, dest="xmaxlen", type=int)
     parser.add_argument('-lr', action="store", default=0.001, dest="lr", type=float)
     parser.add_argument('-load', action="store", default=False, dest="load_save", type=bool)
-    parser.add_argument('-l2', action="store", default=0.01, dest="l2", type=float)
+    parser.add_argument('-l2', action="store", default=0.05, dest="l2", type=float)
     parser.add_argument('-dropout', action="store", default=0.1, dest="dropout", type=float)
     parser.add_argument('-local', action="store", default=False, dest="local", type=bool)
-    parser.add_argument('-embd', action="store", default=10, dest='embd_size', type=int)
+    parser.add_argument('-embd', action="store", default=12, dest='embd_size', type=int)
     parser.add_argument('-tkn_simple', action="store", default=False, dest='tokenize_simple', type=bool)
     parser.add_argument('-concept', action="store", default=False, dest='concept', type=bool)
-    parser.add_argument('-langfeat', action="store", default=False, dest='use_lang_feat', type=bool)
-    parser.add_argument('-conceptfeat', action="store", default=False, dest='use_concept_feat', type=bool)
     opts = parser.parse_args(sys.argv[2:])
     print "lstm_units", opts.lstm_units
     print "epochs", opts.epochs
@@ -71,67 +169,11 @@ def get_params():
     print "Embedding Size", opts.embd_size
     print "Tokenize Simple", opts.tokenize_simple
     print "Using Concept Fold Data", opts.concept
-    print "Language Features", opts.use_lang_feat
-    print "Concept Features", opts.use_concept_feat
     return opts
 
 options = get_params()
 
-#####################################
-## Model Properties
-options.lstm_units = 75
-options.use_lang_feat = False
-options.use_concept_feat = False
-file_path = './BestModels/IELEX_DF1_CoAtt_Model_70_10_35_0.001_0.02_12_16.weights'
-file_path = './BestModels/RE_SYM_IELEX_DF1_CoAtt_Model_75_10_35_0.001_0.02_12_19.weights'
-# file_path = './BestModels/IELEX_DF1_CoAtt_Model_75_10_35_0.001_0.02_12_ConceptFeat_15.weights'
-# file_path = './BestModels/Austro_DF1_CoAtt_Model_40_10_32_0.001_0.02_12_ConceptFeat_33.weights'
-# file_path = './BestModels/Mayan_DF1_CoAtt_Model_30_10_34_0.001_0.02_12_7.weights'
-# file_path = './BestModels/Mayan_DF1_CoAtt_Model_30_10_34_0.001_0.02_12_ConceptFeat_33.weights'
-#####################################
-
-use_lang_feat = options.use_lang_feat
-use_concept_feat = options.use_concept_feat
-
-############################################
-
-concept_dict_file = '../DataPickles/ConceptDict.pkl'
-glove_file = '../DataPickles/ConceptGloveEmbeddings.pkl'
-
-# data_file = 'data/abvd2-part2.tsv.asjp'
-# data_file = 'data/Mayan.tsv'
-# data_file = 'data/IELex-2016.tsv.asjp'
-# data_file = '../DataPickles/CrossLanguage/Austro/LangInfo_DataFold1.pkl'
-# data_file = '../DataPickles/CrossLanguage/Mayan/LangInfo_DataFold1.pkl'
-data_file = '../DataPickles/CrossLanguage/IELex_ASJP/LangInfo_DataFold1.pkl'
-
-train_pairs, train_labels, test_pairs, test_labels, train_lang_pairs, test_lang_pairs = pickle.load(open(data_file))
-
-languages = set([])
-for lang_pair in train_lang_pairs:
-    languages.update(lang_pair)
-for lang_pair in test_lang_pairs:
-    languages.update(lang_pair)
-languages = list(languages)
-unique_chars = set([])
-for word_a, word_b in train_pairs:
-    unique_chars.update(list(word_a))
-    unique_chars.update(list(word_b))
-for word_a, word_b in test_pairs:
-    unique_chars.update(list(word_a))
-    unique_chars.update(list(word_b))
-unique_chars = list(unique_chars)
-
-print len(unique_chars), " CHARACTERS"
-print unique_chars
-n_dim = len(unique_chars)+1
-
-print len(languages), " LANGUAGES"
-print languages
-num_lang = len(languages)
-
-############################################
-## Prep data
+train_pairs, train_labels, test_pairs, test_labels, train_lang_pairs, test_lang_pairs = make_pairs(d)
 
 train = []
 test = []
@@ -154,30 +196,6 @@ def load_data(train, vocab, labels = {'0':0,'1':1,0:0,1:1}, tokenize_simple = Fa
 
 X_train, Y_train, labels_train = load_data(train, vocab, tokenize_simple = True)
 X_test,  Y_test,  labels_test  = load_data(test,  vocab, tokenize_simple = True)
-
-## Lang Feat
-lang_vocab = {j:i for i,j in enumerate(languages)}
-lang_train = np.zeros((len(train_lang_pairs), num_lang))
-for i in range(len(train_lang_pairs)):
-    lang_train[i, lang_vocab[train_lang_pairs[i][0]]] = 1
-    lang_train[i, lang_vocab[train_lang_pairs[i][1]]] = 1
-lang_test = np.zeros((len(test_lang_pairs), num_lang))
-for i in range(len(test_lang_pairs)):
-    lang_test[i, lang_vocab[test_lang_pairs[i][0]]] = 1
-    lang_test[i, lang_vocab[test_lang_pairs[i][1]]] = 1
-
-## Concept Feat
-if use_concept_feat:
-    concept_dict = pickle.load(open(concept_dict_file))
-    glove = pickle.load(open(glove_file))
-    concept_train = []
-    concept_test = []
-    for a,b in train_pairs:
-        concept_train.append(glove[concept_dict[a]])
-    for a,b in test_pairs:
-        concept_test.append(glove[concept_dict[a]])
-    concept_train = np.array(concept_train)
-    concept_test = np.array(concept_test)
 
 XMAXLEN = options.xmaxlen
 X_train = pad_sequences(X_train, maxlen = XMAXLEN, value = vocab["pad_tok"], padding = 'post')
@@ -204,7 +222,7 @@ def build_model(opts, verbose=False):
                             opts.embd_size,
 ##                            W_constraint = unitnorm(),
                             input_length = opts.xmaxlen,
-                            mask_zero = False,
+                            mask_zero = True,
                             name = "Embedding Layer")    
     emb_dropout_layer = SpatialDropout1D(opts.dropout)
 
@@ -226,25 +244,10 @@ def build_model(opts, verbose=False):
     r_b_n = Lambda(get_last, output_shape=(k,), name="r_b_n")(r_b)
 
     h_star = Activation('tanh')(concatenate([r_a_n, r_b_n], axis=1))
-    
-    if opts.use_lang_feat:
-        input_lang_feat = Input(shape=(opts.num_lang,), dtype='int32', name="Input Lang Feat")
-        h_star = concatenate([h_star, input_lang_feat], axis=1)
-    
-    if opts.use_concept_feat:
-        input_concept_feat = Input(shape=(300,), name="Input Concept Feat")
-        h_star = concatenate([h_star, input_concept_feat], axis=1)
 
-    h_star = Dense(20, activation='tanh', kernel_regularizer=l2(opts.l2), name="Hidden Layer")(h_star)
     output_layer = Dense(1, activation='sigmoid', kernel_regularizer=l2(opts.l2), name="Output Layer")(h_star)
 
-    if opts.use_lang_feat:
-        model = Model(inputs = [input_word_a, input_word_b, input_lang_feat], outputs = output_layer)
-    elif opts.use_concept_feat:
-        model = Model(inputs = [input_word_a, input_word_b, input_concept_feat], outputs = output_layer)
-    else:
-        model = Model(inputs = [input_word_a, input_word_b], outputs = output_layer)
-
+    model = Model(inputs = [input_word_a, input_word_b], outputs = output_layer)
     model.summary()
     model.compile(loss='binary_crossentropy', optimizer=Adam(opts.lr))
     print "Model Compiled"
@@ -256,21 +259,18 @@ def build_model(opts, verbose=False):
 
 def getConfig(opts):
     conf = [opts.lstm_units, opts.embd_size, opts.vocab_size, opts.lr, opts.l2, opts.xmaxlen]
-    conf = "_".join(map(lambda x: str(x), conf))
-    if opts.use_concept_feat:
-        conf += '_ConceptFeat'
-    if opts.use_lang_feat:
-        conf += '_LangFeat'
-    return conf
+    if opts.concept:
+        concept = '_Concept'
+    else:
+        concept = ''
+    return "_".join(map(lambda x: str(x), conf)) + concept
 
 def compute_acc(X, Y, model, filename=None):
     scores = model.predict(X)
     plabels = np.round(scores)
     tlabels = np.matrix(Y).transpose()
     p, r, f, _ = precision_recall_fscore_support(tlabels, plabels)
-    precision, recall, thresholds = precision_recall_curve(tlabels, scores)
-
-    return p[1], r[1], f[1], auc(recall, precision)
+    return p[1], r[1], f[1]
 
 class Metrics(Callback):
     def __init__(self, train_x, train_y, test_x, test_y):
@@ -280,10 +280,10 @@ class Metrics(Callback):
         self.test_y = test_y
 
     def on_epoch_end(self, epochs, logs={}):
-        train_pre, train_rec, train_f, train_auc = compute_acc(self.train_x, self.train_y, self.model)
-        test_pre, test_rec, test_f, test_auc  = compute_acc(self.test_x, self.test_y, self.model)
-        print "\n\nTraining -> Precision: ", train_pre, "\t Recall: ", train_rec, "\t F-Score: ", train_f, "\t AUC: ", train_auc
-        print "Testing  -> Precision: ", test_pre,  "\t Recall: ", test_rec,  "\t F-Score: ", test_f, "\t AUC: ", test_auc, "\n"
+        train_pre, train_rec, train_f = compute_acc(self.train_x, self.train_y, self.model)
+        test_pre, test_rec, test_f  = compute_acc(self.test_x, self.test_y, self.model)
+        print "\n\nTraining -> Precision: ", train_pre, "\t Recall: ", train_rec, "\t F-Score: ", train_f
+        print "Testing  -> Precision: ", test_pre,  "\t Recall: ", test_rec,  "\t F-Score: ", test_f, "\n"
 
 
 class WeightSave(Callback):
@@ -292,63 +292,28 @@ class WeightSave(Callback):
         self.config_str = config_str
 
     def on_epoch_end(self,epochs, logs={}):
-        Weights = self.model.get_weights()
-        pickle.dump(Weights, open(self.path + self.config_str +"_"+ str(epochs) +  ".weights",'w'))
-        # self.model.save_weights(self.path + self.config_str +"_"+ str(epochs) +  ".weights") 
+        self.model.save_weights(self.path + self.config_str +"_"+ str(epochs) +  ".weights") 
 
 print 'Building model'
 model, attention_model = build_model(options)
 
-#####################################
-## Load Model
-
-Weights = pickle.load(open(file_path))
-model.set_weights(Weights)
-exit(0)
-
-# plt.xlim([0.0, 1.0])
-# plt.ylim([0.0, 1.05])
-# plt.xlabel('Recall')
-# plt.ylabel('Precision')
-# plt.title('Precision-Recall curve')
-# plt.legend(loc="lower left")
-# plt.show(block=False)
-#####################################
-
 print 'Training New Model'
 ModelSaveDir = "./Models/MAYAN_CoAtt_Model_"
-# ModelSaveDir = "./Models/" + data_file.split('/')[-1].split('.')[0] + "_CoAtt_Model_"
-save_weights = WeightSave(ModelSaveDir, getConfig(options))
+#save_weights = WeightSave(ModelSaveDir, getConfig(options))
+metrics_callback = Metrics([X_train, Y_train], labels_train, [X_test, Y_test], labels_test)
 
-if use_lang_feat:
-    metrics_callback = Metrics([X_train, Y_train, lang_train], labels_train, [X_test, Y_test, lang_test], labels_test)
-    train_data = [X_train, Y_train, lang_train]
-elif use_concept_feat:
-    metrics_callback = Metrics([X_train, Y_train, concept_train], labels_train, [X_test, Y_test, concept_test], labels_test)
-    train_data = [X_train, Y_train, concept_train]
-else:
-    metrics_callback = Metrics([X_train, Y_train], labels_train, [X_test, Y_test], labels_test)    
-    train_data = [X_train, Y_train]
-
-history = model.fit(x = train_data, 
+history = model.fit(x = [X_train, Y_train], 
                     y = labels_train,
                     batch_size = options.batch_size,
                     epochs = options.epochs,
                     class_weight = {1:2.0, 0:1.0},
-                    callbacks = [metrics_callback, save_weights])
+                    callbacks = [metrics_callback])
 
 #####################################
 ## Results
 
-if use_lang_feat:
-    tr_score = model.predict([X_train, Y_train, lang_train], verbose=1)
-    te_score = model.predict([X_test, Y_test, lang_test], verbose=1)
-elif use_concept_feat:
-    tr_score = model.predict([X_train, Y_train, concept_train], verbose=1)
-    te_score = model.predict([X_test, Y_test, concept_test], verbose=1)
-else:
-    tr_score = model.predict([X_train, Y_train], verbose=1)
-    te_score = model.predict([X_test, Y_test], verbose=1)
+tr_score = model.predict([X_train, Y_train], verbose=1)
+te_score = model.predict([X_test, Y_test], verbose=1)
 
 print("\n\nAverage Precision Score %s " %(metrics.average_precision_score(labels_test, te_score, average="micro")))
 c = tr_score > 0.5

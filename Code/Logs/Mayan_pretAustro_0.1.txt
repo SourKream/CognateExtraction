@@ -1,0 +1,331 @@
+ee1130798@ ~/BTP/Code/SiameseConvNet/ $ 
+ee1130798@ ~/BTP/Code/SiameseConvNet/ $ THEANO_FLAGS='lib.cnmem=0.5' $PYTHON $CODEDIR/PretCoAtt.py data/Mayan_DF1.pkl data/Austro_DF1.pkl -ptamount $PRETAM -init_taraka True -lstm 50 -embd 10 -l2 0.02 -epochs 20                                                                      
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: Tesla K40m (CNMeM is enabled with initial size: 50.0% of memory, cuDNN not available)
+Pretraining on  data/Austro_DF1.pkl
+Training on  data/Mayan_DF1.pkl
+33  CHARACTERS
+[' ', '"', '%', '3', '5', '7', '8', 'a', 'c', 'b', 'e', 'd', 'g', 'f', 'i', 'h', 'k', 'm', 'l', 'o', 'n', 'q', 'p', 's', 'r', 'u', 't', 'w', 'v', 'y', 'x', 'z', '~']
+130  LANGUAGES
+['Teanu', 'SIPAKAPENSE', 'Banjarese Malay', 'TZUTUJIL_SAN_JUAN_LA_LAGUNA', 'Lampung', 'MAM_NORTHERN', 'Patpatar', 'Tabar', 'POQOMCHI_WESTERN', 'Ambrym, South-East', 'Magori (South East Papua)', 'Futuna-Aniwa', 'Wuna', 'Baree', 'Cheke Holo', 'CHORTI', 'Windesi Wandamen', 'LACANDON', 'Dehu', 'ZINACANTAN_TZOTZIL', 'Gapapaiwa', 'Bunun, Southern', 'Tunjung', 'Sekar', 'CHOL_TUMBALA', 'Manam', 'Roti (Termanu Dialect)', 'Tetum', 'MOCHO', 'ITZAJ', 'Tontemboan', 'Vitu', 'Toba Batak', 'Alune', 'SACAPULTECO_SACAPULAS_CENTRO', 'Tongan', 'Dobuan', 'Rejang Rejang', 'Makassar', 'Watubela', 'Carolinian', 'Katingan', 'SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA', 'Kisar', 'Mambai', 'Tboli (Tagabili)', 'Sasak', 'Wogeo', 'Lenakel', 'CENTRAL_QUICHE', 'EASTERN_KEKCHI_CAHABON', 'JACALTEC', 'Tikopia', 'Molima', 'Wolio', 'Anejom (Aneityum)', 'Sengseng', 'Selaru', 'Ubir', 'CHUJ', 'Marshallese (E. Dialect)', 'Nakanai (Bileki Dialect)', 'Paiwan (Kulalao)', 'Rotuman', 'Tsou', 'USPANTEKO', 'Singhi', 'Ujir (N.Aru)', 'ACATECO_SAN_MIGUEL_ACATAN', 'Futuna, East', 'CHICOMUCELTEC', 'Bonfia', 'Samoan', 'Waropen', 'TZELTAL_BACHAJON', 'MAYA_YUCATAN', 'Santa Ana', 'Kapingamarangi', 'Kanakanabu', 'Melayu Ambon', 'AGUACATEC', 'Tuvalu', 'Lahanan', 'TECO_TECTITAN', 'QANJOBAL_SANTA_EULALIA', 'Kwaraae (Solomon Islands)', 'Maanyan', 'Roviana', 'Cebuano', 'Savu', 'Ririo', 'POCOMAM_EASTERN', 'IXIL_CHAJUL', 'Soboyo', 'Bukat', 'Teop', 'MOPAN', 'Wuvulu', 'Punan Kelai', 'Kilivila', 'Itbayaten', 'Sangir', 'Chuukese', 'TOJOLABAL', 'Varisi', 'Seimat', 'Dayak Ngaju', 'Rurutuan', 'Tae (S.Toraja)', 'Ponapean', 'Taiof', 'Yakan', 'Vaghua', 'Raga', 'CHONTAL_TABASCO', 'Minangkabau', 'Tahitian (Modern)', 'Elat, Kei Besar', 'Belait', 'Rennellese', 'Lio, Flores Tongah', 'HUASTEC', 'Koiwai (Irian Jaya)', 'Woleai', 'Toambaita', 'As', 'Sika', 'Western Bukidnon Manobo', 'Jawe', 'Tigak']
+lstm_units 50
+epochs 20
+batch_size 128
+xmaxlen 12
+regularization factor 0.02
+dropout 0.1
+LR 0.001
+Embedding Size 10
+Tokenize Simple False
+Using Concept Fold Data False
+Initit Embed with Taraka True
+Fraction of Pretraining Data used :  0.1
+Vocab Size :  36
+Building model
+NO MASKING
+NO MASKING
+____________________________________________________________________________________________________
+Layer (type)                     Output Shape          Param #     Connected to                     
+====================================================================================================
+Input Word A (InputLayer)        (None, 12)            0                                            
+____________________________________________________________________________________________________
+Input Word B (InputLayer)        (None, 12)            0                                            
+____________________________________________________________________________________________________
+Embedding Layer (Embedding)      (None, 12, 16)        576                                          
+____________________________________________________________________________________________________
+spatial_dropout1d_1 (SpatialDrop (None, 12, 16)        0                                            
+____________________________________________________________________________________________________
+Bidir LSTM Layer (Bidirectional) (None, 12, 100)       26800                                        
+____________________________________________________________________________________________________
+LSTM Dropout Layer (SpatialDropo (None, 12, 100)       0                                            
+____________________________________________________________________________________________________
+Attention Layer (WbwAttentionLay [(None, 12, 100), (No 40100                                        
+____________________________________________________________________________________________________
+r_a_n (Lambda)                   (None, 100)           0                                            
+____________________________________________________________________________________________________
+r_b_n (Lambda)                   (None, 100)           0                                            
+____________________________________________________________________________________________________
+concatenate_1 (Concatenate)      (None, 200)           0                                            
+____________________________________________________________________________________________________
+activation_1 (Activation)        (None, 200)           0                                            
+____________________________________________________________________________________________________
+Hidden Layer (Dense)             (None, 20)            4020                                         
+____________________________________________________________________________________________________
+Output Layer (Dense)             (None, 1)             21                                           
+====================================================================================================
+Total params: 71,517.0
+Trainable params: 71,517.0
+Non-trainable params: 0.0
+____________________________________________________________________________________________________
+Model Compiled
+Training New Model
+Starting Pretraining...
+Training data shape =  (66724, 12)
+Epoch 1/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7703  
+
+Training -> Precision:  0.695753074959 	 Recall:  0.78424191692 	 F-Score:  0.737352123761 	 AUC:  0.784824958052
+Testing  -> Precision:  0.435291060291 	 Recall:  0.316276435045 	 F-Score:  0.366360454943 	 AUC:  0.395365326738 
+
+66724/66724 [==============================] - 99s - loss: 0.7702    
+Epoch 2/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.5723 
+
+Training -> Precision:  0.748153758758 	 Recall:  0.826828502668 	 F-Score:  0.785526119588 	 AUC:  0.851457061779
+Testing  -> Precision:  0.48076433121 	 Recall:  0.356306646526 	 F-Score:  0.409283158009 	 AUC:  0.401117334428 
+
+66724/66724 [==============================] - 90s - loss: 0.5724    
+Epoch 3/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.5627 
+
+Training -> Precision:  0.718555900621 	 Recall:  0.581040075337 	 F-Score:  0.642522418282 	 AUC:  0.746531661355
+Testing  -> Precision:  0.427700348432 	 Recall:  0.185422960725 	 F-Score:  0.258693361433 	 AUC:  0.358688801499 
+
+66724/66724 [==============================] - 90s - loss: 0.5627    
+Epoch 4/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7496 
+
+Training -> Precision:  0.47205735441 	 Recall:  0.840535732971 	 F-Score:  0.604575901257 	 AUC:  0.559857109441
+Testing  -> Precision:  0.302435813035 	 Recall:  0.433723564955 	 F-Score:  0.356372663098 	 AUC:  0.310739635983 
+
+66724/66724 [==============================] - 90s - loss: 0.7495    
+Epoch 5/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7861 
+
+Training -> Precision:  0.509552161532 	 Recall:  0.514910536779 	 F-Score:  0.512217335866 	 AUC:  0.576416097021
+Testing  -> Precision:  0.376163873371 	 Recall:  0.343277945619 	 F-Score:  0.358969296081 	 AUC:  0.32350281981 
+
+66724/66724 [==============================] - 90s - loss: 0.7861    
+Epoch 6/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7627 
+
+Training -> Precision:  0.659252247989 	 Recall:  0.218635555091 	 F-Score:  0.328369936746 	 AUC:  0.571802481795
+Testing  -> Precision:  0.392123287671 	 Recall:  0.0864803625378 	 F-Score:  0.141707920792 	 AUC:  0.330546585545 
+
+66724/66724 [==============================] - 90s - loss: 0.7627    
+Epoch 7/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7413 
+
+Training -> Precision:  0.556458391706 	 Recall:  0.727320288794 	 F-Score:  0.630519082931 	 AUC:  0.591671321644
+Testing  -> Precision:  0.375220387883 	 Recall:  0.442031722054 	 F-Score:  0.405895101864 	 AUC:  0.330618159083 
+
+66724/66724 [==============================] - 91s - loss: 0.7414    
+Epoch 8/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7982 
+
+Training -> Precision:  0.614694369166 	 Recall:  0.534006487391 	 F-Score:  0.571516559814 	 AUC:  0.586192181296
+Testing  -> Precision:  0.364026236125 	 Recall:  0.27246978852 	 F-Score:  0.311663066955 	 AUC:  0.313354802235 
+
+66724/66724 [==============================] - 90s - loss: 0.7982    
+Epoch 9/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7982 
+
+Training -> Precision:  0.534509767785 	 Recall:  0.606937323428 	 F-Score:  0.568425694547 	 AUC:  0.592234316651
+Testing  -> Precision:  0.329322101885 	 Recall:  0.310045317221 	 F-Score:  0.31939311418 	 AUC:  0.308648087905 
+
+66724/66724 [==============================] - 91s - loss: 0.7981    
+Epoch 10/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7638 
+
+Training -> Precision:  0.536896990925 	 Recall:  0.705713089882 	 F-Score:  0.609837696098 	 AUC:  0.594792714484
+Testing  -> Precision:  0.362874251497 	 Recall:  0.400490936556 	 F-Score:  0.380755766987 	 AUC:  0.36401897323 
+
+66724/66724 [==============================] - 92s - loss: 0.7638    
+Epoch 11/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7774 
+
+Training -> Precision:  0.615554407552 	 Recall:  0.68572773883 	 F-Score:  0.648748979137 	 AUC:  0.621583457682
+Testing  -> Precision:  0.400045177321 	 Recall:  0.334403323263 	 F-Score:  0.364290856731 	 AUC:  0.340661808554 
+
+66724/66724 [==============================] - 91s - loss: 0.7774    
+Epoch 12/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7257 
+
+Training -> Precision:  0.653484091507 	 Recall:  0.650099403579 	 F-Score:  0.651787353458 	 AUC:  0.623134104031
+Testing  -> Precision:  0.423846359029 	 Recall:  0.30003776435 	 F-Score:  0.351354339414 	 AUC:  0.366691942469 
+
+66724/66724 [==============================] - 91s - loss: 0.7258    
+Epoch 13/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7229 
+
+Training -> Precision:  0.605387480694 	 Recall:  0.69723762687 	 F-Score:  0.64807430461 	 AUC:  0.593782027305
+Testing  -> Precision:  0.393907115467 	 Recall:  0.34913141994 	 F-Score:  0.37017017017 	 AUC:  0.353471901856 
+
+66724/66724 [==============================] - 90s - loss: 0.7231    
+Epoch 14/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7238 
+
+Training -> Precision:  0.627126056954 	 Recall:  0.675159568902 	 F-Score:  0.650256978736 	 AUC:  0.625727854576
+Testing  -> Precision:  0.404852521408 	 Recall:  0.321374622356 	 F-Score:  0.358315789474 	 AUC:  0.374371273886 
+
+66724/66724 [==============================] - 90s - loss: 0.7238    
+Epoch 15/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7244 
+
+Training -> Precision:  0.615680209944 	 Recall:  0.68734958669 	 F-Score:  0.649543915161 	 AUC:  0.614630773085
+Testing  -> Precision:  0.402325051288 	 Recall:  0.333270392749 	 F-Score:  0.36455643912 	 AUC:  0.358082257733 
+
+66724/66724 [==============================] - 90s - loss: 0.7244    
+Epoch 16/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7816 
+
+Training -> Precision:  0.287541789427 	 Recall:  0.985455686931 	 F-Score:  0.445185001359 	 AUC:  0.546623436022
+Testing  -> Precision:  0.255661677826 	 Recall:  0.980551359517 	 F-Score:  0.405576382381 	 AUC:  0.300887712648 
+
+66724/66724 [==============================] - 91s - loss: 0.7817    
+Epoch 17/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.8046 
+
+Training -> Precision:  0.592629340893 	 Recall:  0.656220571309 	 F-Score:  0.622805928648 	 AUC:  0.628579555636
+Testing  -> Precision:  0.378321185046 	 Recall:  0.303814199396 	 F-Score:  0.336998638601 	 AUC:  0.345286977361 
+
+66724/66724 [==============================] - 91s - loss: 0.8046    
+Epoch 18/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.7932 
+
+Training -> Precision:  0.576742627346 	 Recall:  0.720309720624 	 F-Score:  0.640580654166 	 AUC:  0.629903184107
+Testing  -> Precision:  0.368490317729 	 Recall:  0.370090634441 	 F-Score:  0.369288742346 	 AUC:  0.347046255491 
+
+66724/66724 [==============================] - 91s - loss: 0.7932    
+Epoch 19/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.8582 
+
+Training -> Precision:  0.544282996021 	 Recall:  0.329235115622 	 F-Score:  0.410288173165 	 AUC:  0.51190933941
+Testing  -> Precision:  0.254033926355 	 Recall:  0.115936555891 	 F-Score:  0.159211720472 	 AUC:  0.267006534944 
+
+66724/66724 [==============================] - 90s - loss: 0.8582    
+Epoch 20/20
+66688/66724 [============================>.] - ETA: 0s - loss: 0.8546 
+
+Training -> Precision:  0.398298530549 	 Recall:  0.484984827875 	 F-Score:  0.437387939983 	 AUC:  0.498067648473
+Testing  -> Precision:  0.251090560112 	 Recall:  0.271714501511 	 F-Score:  0.260995737735 	 AUC:  0.303290672865 
+
+66724/66724 [==============================] - 92s - loss: 0.8546    
+Starting Training...
+Epoch 1/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9523/home/ee/btech/ee1130798/anaconda/lib/python2.7/site-packages/sklearn/metrics/classification.py:958: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+
+
+Training -> Precision:  0.377419228202 	 Recall:  1.0 	 F-Score:  0.548009234189 	 AUC:  0.444153421683
+Testing  -> Precision:  0.302469135802 	 Recall:  1.0 	 F-Score:  0.464454976303 	 AUC:  0.355969609301 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_0.weights
+50946/50946 [==============================] - 63s - loss: 0.9523    
+Epoch 2/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9483 
+
+Training -> Precision:  0.374283768081 	 Recall:  0.971603910963 	 F-Score:  0.540395128865 	 AUC:  0.444511662617
+Testing  -> Precision:  0.300773014758 	 Recall:  0.97052154195 	 F-Score:  0.459227467811 	 AUC:  0.35278154331 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_1.weights
+50946/50946 [==============================] - 61s - loss: 0.9483    
+Epoch 3/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9483 
+
+Training -> Precision:  0.377419228202 	 Recall:  1.0 	 F-Score:  0.548009234189 	 AUC:  0.443787304879
+Testing  -> Precision:  0.302469135802 	 Recall:  1.0 	 F-Score:  0.464454976303 	 AUC:  0.352965847789 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_2.weights
+50946/50946 [==============================] - 60s - loss: 0.9483    
+Epoch 4/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9479 
+
+Training -> Precision:  0.377419228202 	 Recall:  1.0 	 F-Score:  0.548009234189 	 AUC:  0.444043678936
+Testing  -> Precision:  0.302469135802 	 Recall:  1.0 	 F-Score:  0.464454976303 	 AUC:  0.355797845573 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_3.weights
+50946/50946 [==============================] - 62s - loss: 0.9479    
+Epoch 5/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9482 
+
+Training -> Precision:  0.377419228202 	 Recall:  1.0 	 F-Score:  0.548009234189 	 AUC:  0.443760420386
+Testing  -> Precision:  0.302469135802 	 Recall:  1.0 	 F-Score:  0.464454976303 	 AUC:  0.355683618176 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_4.weights
+50946/50946 [==============================] - 61s - loss: 0.9482    
+Epoch 6/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9484 
+
+Training -> Precision:  0.377419228202 	 Recall:  1.0 	 F-Score:  0.548009234189 	 AUC:  0.440850652704
+Testing  -> Precision:  0.302469135802 	 Recall:  1.0 	 F-Score:  0.464454976303 	 AUC:  0.352914585317 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_5.weights
+50946/50946 [==============================] - 117s - loss: 0.9484   
+Epoch 7/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9479  
+
+Training -> Precision:  0.423481976289 	 Recall:  0.73195340129 	 F-Score:  0.536540734246 	 AUC:  0.442307097462
+Testing  -> Precision:  0.32423580786 	 Recall:  0.673469387755 	 F-Score:  0.437730287399 	 AUC:  0.354140338587 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_6.weights
+50946/50946 [==============================] - 88s - loss: 0.9479    
+Epoch 8/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9480 
+
+Training -> Precision:  0.377419228202 	 Recall:  1.0 	 F-Score:  0.548009234189 	 AUC:  0.449402307467
+Testing  -> Precision:  0.302469135802 	 Recall:  1.0 	 F-Score:  0.464454976303 	 AUC:  0.359163539453 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_7.weights
+50946/50946 [==============================] - 77s - loss: 0.9480    
+Epoch 9/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9481 
+
+Training -> Precision:  0.377419228202 	 Recall:  1.0 	 F-Score:  0.548009234189 	 AUC:  0.442457847539
+Testing  -> Precision:  0.302469135802 	 Recall:  1.0 	 F-Score:  0.464454976303 	 AUC:  0.354096155746 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_8.weights
+50946/50946 [==============================] - 60s - loss: 0.9481    
+Epoch 10/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9481 
+
+Training -> Precision:  0.377419228202 	 Recall:  1.0 	 F-Score:  0.548009234189 	 AUC:  0.443227241936
+Testing  -> Precision:  0.302469135802 	 Recall:  1.0 	 F-Score:  0.464454976303 	 AUC:  0.353029912268 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_9.weights
+50946/50946 [==============================] - 60s - loss: 0.9481    
+Epoch 11/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9491 
+
+Training -> Precision:  0.377419228202 	 Recall:  1.0 	 F-Score:  0.548009234189 	 AUC:  0.35829748583
+Testing  -> Precision:  0.302469135802 	 Recall:  1.0 	 F-Score:  0.464454976303 	 AUC:  0.309606566115 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_10.weights
+50946/50946 [==============================] - 64s - loss: 0.9491    
+Epoch 12/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9488 
+
+Training -> Precision:  0.377419228202 	 Recall:  1.0 	 F-Score:  0.548009234189 	 AUC:  0.35928493439
+Testing  -> Precision:  0.302469135802 	 Recall:  1.0 	 F-Score:  0.464454976303 	 AUC:  0.281210279564 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_11.weights
+50946/50946 [==============================] - 62s - loss: 0.9488    
+Epoch 13/20
+50944/50946 [============================>.] - ETA: 0s - loss: 0.9487 
+
+Training -> Precision:  0.377419228202 	 Recall:  1.0 	 F-Score:  0.548009234189 	 AUC:  0.358229506282
+Testing  -> Precision:  0.302469135802 	 Recall:  1.0 	 F-Score:  0.464454976303 	 AUC:  0.293583030552 
+
+Saving To :  ./Models/RE_SYM_Mayan_DF1Austro_DF1_PretCoAtt_Model_50_16_36_0.001_0.02_12_0.1_TarakaInit_12.weights
+50946/50946 [==============================] - 158s - loss: 0.9487   
+Epoch 14/20
+24832/50946 [=============>................] - ETA: 82s - loss: 0.9484^CTraceback (most recent call last):
+  File "/home/ee/btech/ee1130798/BTP/Code/SiameseConvNet/PretCoAtt.py", line 340, in <module>
+    callbacks = [metrics_callback, save_weights])
+  File "/home/ee/btech/ee1130798/.local/lib/python2.7/site-packages/keras/engine/training.py", line 1485, in fit
+    initial_epoch=initial_epoch)
+  File "/home/ee/btech/ee1130798/.local/lib/python2.7/site-packages/keras/engine/training.py", line 1140, in _fit_loop
+    outs = f(ins_batch)
+  File "/home/ee/btech/ee1130798/.local/lib/python2.7/site-packages/keras/backend/theano_backend.py", line 1071, in __call__
+    return self.function(*inputs)
+  File "/home/ee/btech/ee1130798/.local/lib/python2.7/site-packages/theano/compile/function_module.py", line 884, in __call__
+    self.fn() if output_subset is None else\
+  File "/home/ee/btech/ee1130798/.local/lib/python2.7/site-packages/theano/scan_module/scan_op.py", line 989, in rval
+    r = p(n, [x[0] for x in i], o)
+  File "/home/ee/btech/ee1130798/.local/lib/python2.7/site-packages/theano/scan_module/scan_op.py", line 978, in p
+    self, node)
+KeyboardInterrupt
+e

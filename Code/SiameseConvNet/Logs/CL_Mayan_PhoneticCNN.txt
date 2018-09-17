@@ -1,0 +1,124 @@
+Phonetic CNN
+MAYAN
+Using Theano backend.
+Couldn't import dot_parser, loading of dot files will not be possible.
+32  CHARACTERS
+[' ', '"', '%', '3', '5', '7', '8', 'a', 'c', 'b', 'e', 'd', 'g', 'f', 'i', 'h', 'k', 'm', 'l', 'o', 'n', 'q', 'p', 's', 'r', 'u', 't', 'w', 'v', 'y', 'x', '~']
+30  LANGUAGES
+['SIPAKAPENSE', 'TZUTUJIL_SAN_JUAN_LA_LAGUNA', 'MAM_NORTHERN', 'CHORTI', 'POQOMCHI_WESTERN', 'TZELTAL_BACHAJON', 'SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA', 'MAYA_YUCATAN', 'CHONTAL_TABASCO', 'CENTRAL_QUICHE', 'EASTERN_KEKCHI_CAHABON', 'TECO_TECTITAN', 'JACALTEC', 'QANJOBAL_SANTA_EULALIA', 'LACANDON', 'ZINACANTAN_TZOTZIL', 'POCOMAM_EASTERN', 'IXIL_CHAJUL', 'CHUJ', 'CHOL_TUMBALA', 'AGUACATEC', 'MOPAN', 'MOCHO', 'ITZAJ', 'HUASTEC', 'USPANTEKO', 'ACATECO_SAN_MIGUEL_ACATAN', 'SACAPULTECO_SACAPULAS_CENTRO', 'TOJOLABAL', 'CHICOMUCELTEC']
+(25473, 16, 10) (25473, 16, 10)
+Random labeling training accuracy 0.622581
+Random labeling test accuracy 0.697531
+(25473, 16, 10) (25473, 16, 10)
+(1458, 16, 10) (1458, 16, 10)
+(25473, 30)
+/usr/local/bin/ipython:204: UserWarning: Update your `Conv2D` call to the Keras 2 API: `Conv2D(10, (2, 3), input_shape=(1, 16, 10...)`
+/usr/local/bin/ipython:205: UserWarning: Update your `Conv2D` call to the Keras 2 API: `Conv2D(10, (2, 3))`
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input_3 (InputLayer)         (None, 1, 16, 10)         0         
+_________________________________________________________________
+reshape_1 (Reshape)          (None, 16, 10, 1)         0         
+_________________________________________________________________
+conv2d_1 (Conv2D)            (None, 15, 8, 10)         70        
+_________________________________________________________________
+conv2d_2 (Conv2D)            (None, 14, 6, 10)         610       
+_________________________________________________________________
+max_pooling2d_1 (MaxPooling2 (None, 14, 3, 10)         0         
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 420)               0         
+=================================================================
+Total params: 680
+Trainable params: 680
+Non-trainable params: 0
+_________________________________________________________________
+(None, 420)
+/usr/local/bin/ipython:215: UserWarning: The `merge` function is deprecated and will be removed after 08/2017. Use instead layers from `keras.layers.merge`, e.g. `add`, `concatenate`, etc.
+/usr/local/lib/python2.7/site-packages/keras/legacy/layers.py:460: UserWarning: The `Merge` layer is deprecated and will be removed after 08/2017. Use instead layers from `keras.layers.merge`, e.g. `add`, `concatenate`, etc.
+  name=name)
+/usr/local/bin/ipython:231: UserWarning: Update your `Model` call to the Keras 2 API: `Model(outputs=sigmoid.0, inputs=[/input_1,...)`
+____________________________________________________________________________________________________
+Layer (type)                     Output Shape          Param #     Connected to                     
+====================================================================================================
+input_1 (InputLayer)             (None, 1, 16, 10)     0                                            
+____________________________________________________________________________________________________
+input_2 (InputLayer)             (None, 1, 16, 10)     0                                            
+____________________________________________________________________________________________________
+model_1 (Model)                  (None, 420)           680                                          
+____________________________________________________________________________________________________
+merge_1 (Merge)                  (None, 420)           0                                            
+____________________________________________________________________________________________________
+dense_1 (Dense)                  (None, 8)             3368                                         
+____________________________________________________________________________________________________
+dropout_1 (Dropout)              (None, 8)             0                                            
+____________________________________________________________________________________________________
+dense_2 (Dense)                  (None, 1)             9                                            
+====================================================================================================
+Total params: 4,057
+Trainable params: 4,057
+Non-trainable params: 0
+____________________________________________________________________________________________________
+Train on 25473 samples, validate on 1458 samples
+Epoch 1/20
+25473/25473 [==============================] - 3s - loss: 0.6242 - acc: 0.6406 - val_loss: 0.5109 - val_acc: 0.7901
+Epoch 2/20
+25473/25473 [==============================] - 3s - loss: 0.5599 - acc: 0.7566 - val_loss: 0.4593 - val_acc: 0.8347
+Epoch 3/20
+25473/25473 [==============================] - 3s - loss: 0.5046 - acc: 0.8223 - val_loss: 0.4238 - val_acc: 0.8450
+Epoch 4/20
+25473/25473 [==============================] - 3s - loss: 0.4595 - acc: 0.8402 - val_loss: 0.3972 - val_acc: 0.8519
+Epoch 5/20
+25473/25473 [==============================] - 3s - loss: 0.4394 - acc: 0.8516 - val_loss: 0.3921 - val_acc: 0.8491
+Epoch 6/20
+25473/25473 [==============================] - 3s - loss: 0.4184 - acc: 0.8599 - val_loss: 0.3767 - val_acc: 0.8525
+Epoch 7/20
+25473/25473 [==============================] - 3s - loss: 0.4026 - acc: 0.8661 - val_loss: 0.3751 - val_acc: 0.8560
+Epoch 8/20
+25473/25473 [==============================] - 3s - loss: 0.3879 - acc: 0.8735 - val_loss: 0.3651 - val_acc: 0.8573
+Epoch 9/20
+25473/25473 [==============================] - 3s - loss: 0.3770 - acc: 0.8751 - val_loss: 0.3670 - val_acc: 0.8525
+Epoch 10/20
+25473/25473 [==============================] - 3s - loss: 0.3664 - acc: 0.8783 - val_loss: 0.3609 - val_acc: 0.8553
+Epoch 11/20
+25473/25473 [==============================] - 3s - loss: 0.3560 - acc: 0.8807 - val_loss: 0.3609 - val_acc: 0.8491
+Epoch 12/20
+25473/25473 [==============================] - 3s - loss: 0.3481 - acc: 0.8825 - val_loss: 0.3559 - val_acc: 0.8553
+Epoch 13/20
+25473/25473 [==============================] - 3s - loss: 0.3443 - acc: 0.8832 - val_loss: 0.3497 - val_acc: 0.8587
+Epoch 14/20
+25473/25473 [==============================] - 3s - loss: 0.3338 - acc: 0.8836 - val_loss: 0.3511 - val_acc: 0.8615
+Epoch 15/20
+25473/25473 [==============================] - 3s - loss: 0.3302 - acc: 0.8853 - val_loss: 0.3461 - val_acc: 0.8567
+Epoch 16/20
+25473/25473 [==============================] - 3s - loss: 0.3215 - acc: 0.8876 - val_loss: 0.3495 - val_acc: 0.8621
+Epoch 17/20
+25473/25473 [==============================] - 3s - loss: 0.3172 - acc: 0.8895 - val_loss: 0.3463 - val_acc: 0.8525
+Epoch 18/20
+25473/25473 [==============================] - 3s - loss: 0.3124 - acc: 0.8890 - val_loss: 0.3433 - val_acc: 0.8601
+Epoch 19/20
+25473/25473 [==============================] - 3s - loss: 0.3124 - acc: 0.8892 - val_loss: 0.3470 - val_acc: 0.8573
+Epoch 20/20
+25473/25473 [==============================] - 3s - loss: 0.3064 - acc: 0.8907 - val_loss: 0.3446 - val_acc: 0.8608
+1120/1458 [======================>.......] - ETA: 0s0s
+
+Average Precision Score 0.850652634853 
+Training
+             precision    recall  f1-score   support
+
+          0      0.892     0.980     0.934     15859
+          1      0.961     0.804     0.876      9614
+
+avg / total      0.918     0.914     0.912     25473
+
+Testing
+             precision    recall  f1-score   support
+
+          0      0.853     0.967     0.906      1017
+          1      0.889     0.617     0.728       441
+
+avg / total      0.864     0.861     0.853      1458
+
+Testing Accuracy
+0.860768175583
+AUC :  0.850652634853
