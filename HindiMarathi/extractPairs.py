@@ -55,10 +55,8 @@ def toIPA(word, hindi2ipa):
 			word[i] = ''
 	return ''.join(word)
 
-# data = data['N_NN']
-data = data['V_VM']
-data_ipa = []
-for word1, word2 in data:
-	data_ipa.append([toIPA(word1, hindi2ipa), toIPA(word2, hindi2ipa)])
-
-
+data_ipa = {}
+for PoS in data:
+	data_ipa[PoS] = []
+	for word1, word2 in data[PoS]:
+		data_ipa[PoS].append([toIPA(word1, hindi2ipa), toIPA(word2, hindi2ipa)])

@@ -15,3 +15,24 @@ This repo extracts pair of different Part-of-Speach (PoS) (N_NN, V_VM) from Hind
 - extractPairs.py : Loads the hindi/marathi test pairs of the mentioned PoS tags into a dict `data_ipa` in memory, from the files in the Data/ folder.
 - hindi2ipa.txt : Mapping from devnagri characters to IPA characters
 - hindi2ipa_Pruned.txt : Prunned mapping according to the input vocab of the trained model
+
+### Steps to run the code
+
+##### Load the data
+- Open `ipython` in interactive mode
+- Run extractPairs.py using `execfile('extractPairs.py')`
+- This loads a dict object `data_ipa` with 2 keys `['N_NN', 'V_VM']`. To load more PoS tags from the data, modify the file at `line 10`. Each key in the dict gives a list of all the pairs. The pairs are created by looking at the first occurence of the PoS in the Hindi sentence and the Marathi sentence, and subsequently translating them into IPA.
+- To see any word in the pair, use the `print` command. `print data_ipa['N_NN'][0][0]` will return `d̪rʃn` instead of `u'd\u032ar\u0283n'`.
+
+##### Load the model
+- Next load the model using `execfile('LoadModel.py')`
+
+### Dependencies
+
+- Python 2.7
+- IPython 5.5.0
+- Keras 2.1.2
+- Theano 0.9.0
+- Numpy 1.13.3
+
+This was the last version status of the dependencies when I wrote the code. Newer versions might need modification to the existing code in order to run.
