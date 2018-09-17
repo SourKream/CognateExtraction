@@ -18,16 +18,19 @@ This repo extracts pair of different Part-of-Speach (PoS) (N_NN, V_VM) from Hind
 
 ### Steps to run the code
 
-##### Load the data
+#### Load the data
 - Open `ipython` in interactive mode
 - Run extractPairs.py using `execfile('extractPairs.py')`
 - This loads a dict object `data_ipa` with 2 keys `['N_NN', 'V_VM']`. To load more PoS tags from the data, modify the file at `line 10`. Each key in the dict gives a list of all the pairs. The pairs are created by looking at the first occurence of the PoS in the Hindi sentence and the Marathi sentence, and subsequently translating them into IPA.
 - To see any word in the pair, use the `print` command. `print data_ipa['N_NN'][0][0]` will return `d̪rʃn` instead of `u'd\u032ar\u0283n'`.
 
-##### Load the model
+##### Load the data
+If you wish to use your own data, then replace `data_ipa['N_NN']` in the following instructions with the list of your own pairs. The format for this list should be similar to `data_ipa['N_NN']`.
+
+#### Load the model
 - Next load the model using `execfile('LoadModel.py')`
 
-##### Run the model on the data
+#### Run the model on the data
 - `X, Y = load_test_data(data_ipa['N_NN'], vocab)`
 - `result = model.predict([X,Y])`
 - If the above command is taking time, you can run it on a smaller set using `model.predict([X[:100,:], Y[:100,:]])`
