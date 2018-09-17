@@ -1,0 +1,476 @@
+lstm_units 100
+epochs 50
+batch_size 128
+xmaxlen 12
+regularization factor 0.001
+dropout 0.1
+LR 0.001
+Embedding Size 30
+Tokenize Simple True
+Using Concept Fold Data False
+Language Features False
+Concept Features False
+160  CHARACTERS
+[u'\u0283', u'\u0302', u'\u0306', u'\u028b', u'\u030a', u'\u028f', u'\u1d58', u'\u01f0', u'\u031e', u'\u02a3', u'\u02a7', u'\u032a', u'\u02b7', u'\u0142', u'\u0250', u'\u0254', u'\u0258', u'\u01dd', u'\u025c', u'd', u'\xe3', u'\u0264', u'\xe7', u'\u0268', u'\u0266', u'l', u'p', u'\xf3', u't', u'h', u'x', u'\xfb', u'\u017e', u'\u0301', u'\u0280', u'\u026a', u'\u0288', u'\u010d', u'\u028c', u'\u0311', u'\u0290', u'\u0294', u'\u031d', u'\u0325', u'\u02a4', u'\u0270', u'\u0329', u'\u02a8', u'\u012d', u'\u02b0', u'\u03b2', u'?', u'\u02c0', u'\u02c8', u'\u0276', u'\u02cc', u'\u01ce', u'\u02d0', u'\u0278', u'\u025b', u'r', u'_', u'\u0361', u'\u02e0', u'\u0263', u'g', u'\u01d0', u'\u0169', u'\u026b', u'\u016d', u'\xec', u'o', u'\xf0', u'\u0273', u'\xf4', u'w', u'\xf8', u'\u027b', u'\u0281', u'\u0300', u'\u0304', u'\u0289', u'\u028d', u'\u030c', u'\u0291', u'\u1e59', u'\u0275', u'\u029d', u'\u031c', u'\u0320', u'\u02a5', u'\u0324', u'.', u'\u02b1', u'\u025f', u'\u02b9', u':', u'\u1ebd', u'a', u'\u03c7', u'c', u'\u02d1', u'\u0252', u'\u0256', u'\u0265', u'\u035c', u'\xe1', u'b', u'\u0267', u'f', u'\xe9', u'j', u'\xed', u'n', u'\u0272', u'\xf5', u'v', u'\xf9', u'z', u'k', u'\u027e', u'\u0303', u'\u0282', u'\u026d', u'\u028a', u'\u028e', u'\u0292', u'\u026f', u'\u011b', u'\u031f', u'\u02a6', u'-', u's', u'\u032f', u'\u02b2', u'\u03b8', u'\u033b', u'\u014b', u'\u0161', u'\u0251', u'\u0279', u'\u0153', u'\u0255', u'\u01d4', u'\u0259', u'\u0261', u'\xe2', u'e', u'\xe6', u'i', u'\u027d', u'\xea', u'm', u'\xee', u'q', u'\u0129', u'u', u'y', u'\xfa', u'\u1e7d']
+52  LANGUAGES
+['SWEDISH', 'DANISH', 'GUTNISH_LAU', 'OSSETIC_IRON', 'BIHARI', 'MARATHI', 'SORBIAN_UPPER', 'ORIYA', 'SLOVENIAN', 'MIDDLE_CORNISH', 'ANCIENT_GREEK', 'GREEK', 'OLD_SWEDISH', 'ICELANDIC', 'SLOVAK', 'DUTCH', 'ASSAMESE', 'FRENCH', 'ITALIAN', 'LATIN', 'FAROESE', 'UKRAINIAN', 'CZECH', 'STAVANGERSK', 'NORWEGIAN_RIKSMAL', 'BRETON', 'OLD_NORSE', 'SPANISH', 'MAGAHI', 'OLD_CHURCH_SLAVONIC', 'PORTUGUESE', 'OLD_IRISH', 'MIDDLE_BRETON', 'GERMAN', 'DANISH_FJOLDE', 'IRISH', 'OSSETIC', 'MACEDONIAN', 'ELFDALIAN', 'BELARUSIAN', 'ARMENIAN_EASTERN', 'POLISH', 'ENGLISH', 'FRISIAN', 'BULGARIAN', 'SERBO-CROATIAN', 'SORBIAN_LOWER', 'URDU', 'CATALAN', 'CLASSICAL_ARMENIAN', 'RUSSIAN', 'OSSETIC_DIGOR']
+Vocab Size :  161
+Building model
+NO MASKING
+NO MASKING
+____________________________________________________________________________________________________
+Layer (type)			 Output Shape	       Param #	   Connected to
+====================================================================================================
+Input Word A (InputLayer)	 (None, 12)	       0
+____________________________________________________________________________________________________
+Input Word B (InputLayer)	 (None, 12)	       0
+____________________________________________________________________________________________________
+Embedding Layer (Embedding)	 (None, 12, 30)	       4830
+____________________________________________________________________________________________________
+spatial_dropout1d_1 (SpatialDrop (None, 12, 30)	       0
+____________________________________________________________________________________________________
+Bidir LSTM Layer (Bidirectional) (None, 12, 200)       104800
+____________________________________________________________________________________________________
+LSTM Dropout Layer (SpatialDropo (None, 12, 200)       0
+____________________________________________________________________________________________________
+Attention Layer (WbwAttentionLay [(None, 12, 200), (No 160200
+____________________________________________________________________________________________________
+r_a_n (Lambda)			 (None, 200)	       0
+____________________________________________________________________________________________________
+r_b_n (Lambda)			 (None, 200)	       0
+____________________________________________________________________________________________________
+concatenate_1 (Concatenate)	 (None, 400)	       0
+____________________________________________________________________________________________________
+activation_1 (Activation)	 (None, 400)	       0
+____________________________________________________________________________________________________
+Hidden Layer (Dense)		 (None, 20)	       8020
+____________________________________________________________________________________________________
+Output Layer (Dense)		 (None, 1)	       21
+====================================================================================================
+Total params: 277,871.0
+Trainable params: 277,871.0
+Non-trainable params: 0.0
+____________________________________________________________________________________________________
+Model Compiled
+Training New Model
+Epoch 1/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.680931
+
+Training -> Precision:	0.620413490823	 Recall:  0.752325308738	 F-Score:  0.680031439598	 AUC:  0.704325185934
+Testing	 -> Precision:	0.679749187181	 Recall:  0.741200303874	 F-Score:  0.709145972138	 AUC:  0.748707186732
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_0.weights
+204233/204233 [==============================] - 302s - loss: 0.6809
+Epoch 2/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.554855
+
+Training -> Precision:	0.644485883469	 Recall:  0.769892136939	 F-Score:  0.701629418574	 AUC:  0.718948830854
+Testing	 -> Precision:	0.673781902552	 Recall:  0.735376044568	 F-Score:  0.703232836905	 AUC:  0.71093077139
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_1.weights
+204233/204233 [==============================] - 297s - loss: 0.5549
+Epoch 3/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.850745
+
+Training -> Precision:	0.4	 Recall:  0.000312646553072	 F-Score:  0.000624804748516	 AUC:  0.325342455347
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149526694434
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_2.weights
+204233/204233 [==============================] - 295s - loss: 0.8508
+Epoch 4/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.848937
+
+Training -> Precision:	0.462962962963	 Recall:  0.000488510239175	 F-Score:  0.00097599063049	 AUC:  0.356904976573
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149583333333
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_3.weights
+204233/204233 [==============================] - 295s - loss: 0.8489
+Epoch 5/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.845522
+
+Training -> Precision:	0.4	 Recall:  0.000312646553072	 F-Score:  0.000624804748516	 AUC:  0.325342455347
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149526694434
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_4.weights
+204233/204233 [==============================] - 295s - loss: 0.8455
+Epoch 6/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.845162
+
+Training -> Precision:	0.4	 Recall:  0.000312646553072	 F-Score:  0.000624804748516	 AUC:  0.325184528755
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149526694434
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_5.weights
+204233/204233 [==============================] - 295s - loss: 0.8451
+Epoch 7/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.845033
+
+Training -> Precision:	0.462962962963	 Recall:  0.000488510239175	 F-Score:  0.00097599063049	 AUC:  0.35690497619
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149583333333
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_6.weights
+204233/204233 [==============================] - 295s - loss: 0.8450
+Epoch 8/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.844925
+
+Training -> Precision:	0.462962962963	 Recall:  0.000488510239175	 F-Score:  0.00097599063049	 AUC:  0.356904976573
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149583333333
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_7.weights
+204233/204233 [==============================] - 295s - loss: 0.8450
+Epoch 9/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.844782
+
+Training -> Precision:	0.4	 Recall:  0.000312646553072	 F-Score:  0.000624804748516	 AUC:  0.325342455347
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149526694434
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_8.weights
+204233/204233 [==============================] - 295s - loss: 0.8447
+Epoch 10/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.844542
+
+Training -> Precision:	0.4	 Recall:  0.000312646553072	 F-Score:  0.000624804748516	 AUC:  0.325342455347
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149526694434
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_9.weights
+204233/204233 [==============================] - 295s - loss: 0.8445
+Epoch 11/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.844256
+
+Training -> Precision:	0.4	 Recall:  0.000312646553072	 F-Score:  0.000624804748516	 AUC:  0.325342455347
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149526694434
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_10.weights
+204233/204233 [==============================] - 296s - loss: 0.8442
+Epoch 12/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.844128
+
+Training -> Precision:	0.436170212766	 Recall:  0.000801156792246	 F-Score:  0.00159937585333	 AUC:  0.34359485994
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_11.weights
+204233/204233 [==============================] - 295s - loss: 0.8441
+Epoch 13/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.844008
+
+Training -> Precision:	0.4	 Recall:  0.000312646553072	 F-Score:  0.000624804748516	 AUC:  0.325342455347
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149526694434
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_12.weights
+204233/204233 [==============================] - 295s - loss: 0.8440
+Epoch 14/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.843836
+
+Training -> Precision:	0.436170212766	 Recall:  0.000801156792246	 F-Score:  0.00159937585333	 AUC:  0.34359485994
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_13.weights
+204233/204233 [==============================] - 294s - loss: 0.8437
+Epoch 15/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.843692
+
+Training -> Precision:	0.4	 Recall:  0.000312646553072	 F-Score:  0.000624804748516	 AUC:  0.325342455347
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149526694434
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_14.weights
+204233/204233 [==============================] - 294s - loss: 0.8436
+Epoch 16/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.843451
+
+Training -> Precision:	0.4	 Recall:  0.000312646553072	 F-Score:  0.000624804748516	 AUC:  0.325342455347
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149526694434
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_15.weights
+204233/204233 [==============================] - 294s - loss: 0.8434
+Epoch 17/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.843466
+
+Training -> Precision:	0.462962962963	 Recall:  0.000488510239175	 F-Score:  0.00097599063049	 AUC:  0.35690497619
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149583333333
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_16.weights
+204233/204233 [==============================] - 294s - loss: 0.8434
+Epoch 18/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.843210
+
+Training -> Precision:	0.462962962963	 Recall:  0.000488510239175	 F-Score:  0.00097599063049	 AUC:  0.35690497619
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149583333333
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_17.weights
+204233/204233 [==============================] - 294s - loss: 0.8432
+Epoch 19/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.843462
+
+Training -> Precision:	0.4	 Recall:  0.000312646553072	 F-Score:  0.000624804748516	 AUC:  0.325342455347
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149526694434
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_18.weights
+204233/204233 [==============================] - 294s - loss: 0.8434
+Epoch 20/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.843015
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.325342455347
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149526694434
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_19.weights
+204233/204233 [==============================] - 294s - loss: 0.8430
+Epoch 21/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.843077
+
+Training -> Precision:	0.462962962963	 Recall:  0.000488510239175	 F-Score:  0.00097599063049	 AUC:  0.35690497619
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149583333333
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_20.weights
+204233/204233 [==============================] - 294s - loss: 0.8430
+Epoch 22/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842918
+
+Training -> Precision:	0.462962962963	 Recall:  0.000488510239175	 F-Score:  0.00097599063049	 AUC:  0.35690497619
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149583333333
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_21.weights
+204233/204233 [==============================] - 295s - loss: 0.8430
+Epoch 23/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842908
+
+Training -> Precision:	0.4	 Recall:  0.000312646553072	 F-Score:  0.000624804748516	 AUC:  0.325342455347
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149526694434
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_22.weights
+204233/204233 [==============================] - 294s - loss: 0.8429
+Epoch 24/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842874
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343522978913
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_23.weights
+204233/204233 [==============================] - 294s - loss: 0.8428
+Epoch 25/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.843175
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_24.weights
+204233/204233 [==============================] - 294s - loss: 0.8430
+Epoch 26/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842604
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.356904976573
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149583333333
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_25.weights
+204233/204233 [==============================] - 294s - loss: 0.8426
+Epoch 27/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842673
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_26.weights
+204233/204233 [==============================] - 294s - loss: 0.8426
+Epoch 28/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842754
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_27.weights
+204233/204233 [==============================] - 294s - loss: 0.8427
+Epoch 29/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842639
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_28.weights
+204233/204233 [==============================] - 294s - loss: 0.8425
+Epoch 30/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842621
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_29.weights
+204233/204233 [==============================] - 294s - loss: 0.8425
+Epoch 31/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842673
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.34359485994
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_30.weights
+204233/204233 [==============================] - 294s - loss: 0.8426
+Epoch 32/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842648
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343522978913
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_31.weights
+204233/204233 [==============================] - 296s - loss: 0.8426
+Epoch 33/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842546
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343522978913
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_32.weights
+204233/204233 [==============================] - 297s - loss: 0.8425
+Epoch 34/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842561
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_33.weights
+204233/204233 [==============================] - 297s - loss: 0.8425
+Epoch 35/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842551
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_34.weights
+204233/204233 [==============================] - 297s - loss: 0.8425
+Epoch 36/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842518
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343522978913
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_35.weights
+204233/204233 [==============================] - 303s - loss: 0.8425
+Epoch 37/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842651
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343522978913
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_36.weights
+204233/204233 [==============================] - 307s - loss: 0.8426
+Epoch 38/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842463
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343522978913
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_37.weights
+204233/204233 [==============================] - 306s - loss: 0.8424
+Epoch 39/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842549
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_38.weights
+204233/204233 [==============================] - 306s - loss: 0.8425
+Epoch 40/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842421
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.624945342075
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.649594666263
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_39.weights
+204233/204233 [==============================] - 306s - loss: 0.8424
+Epoch 41/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842549
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.624945342075
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.649594666263
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_40.weights
+204233/204233 [==============================] - 298s - loss: 0.8425
+Epoch 42/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842487
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_41.weights
+204233/204233 [==============================] - 297s - loss: 0.8423
+Epoch 43/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842451
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_42.weights
+204233/204233 [==============================] - 297s - loss: 0.8424
+Epoch 44/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842418
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_43.weights
+204233/204233 [==============================] - 302s - loss: 0.8424
+Epoch 45/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842423
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_44.weights
+204233/204233 [==============================] - 306s - loss: 0.8424
+Epoch 46/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842458
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343596908949
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_45.weights
+204233/204233 [==============================] - 305s - loss: 0.8424
+Epoch 47/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842457
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.624945338815
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.649594666263
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_46.weights
+204233/204233 [==============================] - 304s - loss: 0.8424
+Epoch 48/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842305
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343522978913
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_47.weights
+204233/204233 [==============================] - 306s - loss: 0.8423
+Epoch 49/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842444
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.624945338815
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.649594666263
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_48.weights
+204233/204233 [==============================] - 297s - loss: 0.8424
+Epoch 50/50
+204160/204233 [============================>.] - ETA: 0ss--loss::0.842493
+
+Training -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.343522978913
+Testing	 -> Precision:	0.0	 Recall:  0.0	 F-Score:  0.0	 AUC:  0.149515371801
+
+Saving To :  ./Models/RE_IPA_IELEX_DF1_CoAtt_Model_100_30_161_0.001_0.001_12_49.weights
+204233/204233 [==============================] - 305s - loss: 0.8424
+13184/132063[============================>.].- ETA:A0s0sss
+
+Average Precision Score 0.149515371801
+Training
+	     precision	  recall  f1-score   support
+
+	  0	 0.749	   1.000     0.857    153057
+	  1	 0.000	   0.000     0.000     51176
+
+avg / total	 0.562	   0.749     0.642    204233
+
+Testing
+	     precision	  recall  f1-score   support
+
+	  0	 0.701	   1.000     0.824	9257
+	  1	 0.000	   0.000     0.000	3949
+
+avg / total	 0.491	   0.701     0.578     13206
+
+Testing Accuracy
+0.700969256399

@@ -240,15 +240,15 @@ IPA vs ASJP
 
 D - add word list table table 3.1 from thesis
 D - problem definition in section 2
- - Match labels in image to section headings
+D - Match labels in image to section headings
 D - First line section 3.2 repetitive  
- - section 3.3 attention explanaation. use example. compare against what subseq model is doing.
+D - section 3.3 attention explanaation. use example. compare against what subseq model is doing.
 D - section 3.4 remove second para
 D - section 3.4 refer back to the table 3.1 from thesis and relate. keep to 1 para
  - add line about non-linear classifier
 D - remove ablation para. give a 'coming up'
 D - dataset sectino comes before experiments
- - properties of datasets
+D - properties of datasets
 D - table 3.2 from thesis
 
 D - section 3.1: 
@@ -257,18 +257,17 @@ D    - there are 2 ways of initialising the embeddings
 D     - linguistic features of the phonemes
 D     - random initialisations
 
- - experiment 1 : Indo European
- - experiment 2 : Pretraining (remove para about multi dataset experiments)
+D - experiment 1 : Indo European
+D - experiment 2 : Pretraining (remove para about multi dataset experiments)
 D - Table 3. Split experiments into addition of concept features and using pretraining.
-    - usefulness of CF comes from testing on more datasets
-    - pretrainign another exp. helps further
+D    - usefulness of CF comes from testing on more datasets
+D    - pretrainign another exp. helps further
  
 D - Counts tables can be brought together
- - Explain difference between cross concept and cross language
- - cross concept - human cognate identifier would not coduct such a task. he would look at dictionaries with commmon menaings
+D - Explain difference between cross concept and cross language
 
 D - Move domain adaptation to experiments end
-  - talk about inflectional endings
+D  - talk about inflectional endings
   - add examples/images
 
  - Discussion section instead of analysis
@@ -279,12 +278,27 @@ D - Move domain adaptation to experiments end
     - Better performance on nouns and adjectives
     - Adaptable to text 
 
+ - Embeddings analysis?
+D - Transcription tests
+ - Add highlights of paper at the end of intro
+
+---------------------
+
+ - Intro more catchy
+D - Analysis on IELex only mention that
+ - incremental pretraining
+D - review
+D - spell check
 
 
+---------------------
+POST TACL REVIEWS
+---------------------
 
-
-
-
-
-
+Improvements over current paper
+  - visualtion of attention
+  - using dummy examples to estimate learnt rules
+  - punjabi as a 3rd test language along with hindi and marathi
+  - test only known verbs in hindi-marathi?
+  
 

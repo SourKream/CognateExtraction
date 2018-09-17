@@ -1,0 +1,86 @@
+a	Front Vowels
+e	Front Vowels
+i	Front Vowels
+y	Front Vowels
+æ	Front Vowels
+é	Front Vowels
+ø	Front Vowels
+œ	Front Vowels
+ɛ	Front Vowels
+ɪ	Front Vowels
+ɶ	Front Vowels
+ʏ	Front Vowels
+o	Back Vowels
+u	Back Vowels
+ɑ	Back Vowels
+ɔ	Back Vowels
+ɣ	Back Vowels
+ɯ	Back Vowels
+ʊ	Back Vowels
+ʌ	Back Vowels
+ǝ	Central Vowel
+ɐ	Central Vowel
+ɘ	Central Vowel
+ɨ	Central Vowel
+ʉ	Central Vowel
+ɵ	Central Vowel
+b	Stops
+c	Stops
+d	Stops
+g	Stops
+k	Stops
+p	Stops
+q	Stops
+t	Stops
+ɖ	Stops
+ɟ	Stops
+ɡ	Stops
+ʈ	Stops
+ʔ	Stops
+ʣ	Affricates
+ʤ	Affricates
+ʥ	Affricates
+ʦ	Affricates
+ʨ	Affricates
+f	Fricatives
+h	Fricatives
+s	Fricatives
+v	Fricatives
+x	Fricatives
+z	Fricatives
+ç	Fricatives
+ð	Fricatives
+ɕ	Fricatives
+ɦ	Fricatives
+ɸ	Fricatives
+ʂ	Fricatives
+ʃ	Fricatives
+ʐ	Fricatives
+ʑ	Fricatives
+ʒ	Fricatives
+ʝ	Fricatives
+β	Fricatives
+θ	Fricatives
+χ	Fricatives
+ʁ	Fricatives
+m	Nasals
+n	Nasals
+ŋ	Nasals
+ɲ	Nasals
+ɳ	Nasals
+j	Approximants
+l	Approximants
+ɰ̃	Approximants
+w	Approximants
+ł	Approximants
+ɥ	Approximants
+ɫ	Approximants
+ɭ	Approximants
+ɹ	Approximants
+ʍ	Approximants
+ʎ	Approximants
+ʀ	Trills
+r	Trills
+ɻ̊	Trills
+ɽ	Trills
+ʋ	Trills

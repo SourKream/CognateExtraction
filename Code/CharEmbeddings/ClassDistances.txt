@@ -1,0 +1,36 @@
+Front Vowels 	Back Vowels 	0.3
+Front Vowels 	Central Vowel 	0.2
+Front Vowels 	Stops 	0.7
+Front Vowels 	Affricates 	0.9
+Front Vowels 	Fricatives 	0.9
+Front Vowels 	Nasals 	0.8
+Front Vowels 	Approximants 	0.4
+Front Vowels 	Trills 	0.8
+Back Vowels 	Central Vowel 	0.2
+Back Vowels 	Stops 	0.7
+Back Vowels 	Affricates 	0.9
+Back Vowels 	Fricatives 	0.9
+Back Vowels 	Nasals 	0.8
+Back Vowels 	Approximants 	0.4
+Back Vowels 	Trills 	0.8
+Central Vowel 	Stops 	0.7
+Central Vowel 	Affricates 	0.9
+Central Vowel 	Fricatives 	0.9
+Central Vowel 	Nasals 	0.8
+Central Vowel 	Approximants 	0.4
+Central Vowel 	Trills 	0.8
+Stops 	Affricates 	0.4 	
+Stops 	Fricatives 	0.2 	
+Stops 	Nasals 	0.3
+Stops 	Approximants 	0.8 	
+Stops 	Trills 	0.4
+Affricates 	Fricatives 	0.2
+Affricates 	Nasals 	0.3
+Affricates 	Approximants 	0.8 	
+Affricates 	Trills 	0.3 	
+Fricatives 	Nasals 	0.3
+Fricatives 	Approximants 	0.8 	
+Fricatives 	Trills 	0.5
+Nasals 	Approximants 	0.8
+Nasals 	Trills 	0.4
+Approximants 	Trills 	0.4
